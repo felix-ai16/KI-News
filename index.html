@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Dein taegliches KI-Briefing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    
+    <section class="hero">
+  <h1 class="date-display">Sonntag, 1. Februar 2026</h1>
+  <p class="subtitle">Dein taegliches KI-Briefing</p>
+</section>
+<section class="global-search">
+  <input type="search" class="search-input" id="globalSearch" placeholder="Alle Artikel durchsuchen...">
+  <div class="search-results" id="searchResults" style="display:none;"></div>
+</section>
+<section class="top-section" id="topSection">
+  <h2 class="section-heading">Die wichtigsten Artikel heute</h2>
+  <div class="top-articles">
+    <article class="top-card"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai" target="_blank" rel="noopener">Nvidia-CEO bestreitet, mit OpenAI „unzufrieden“ zu sein</a></h2><p class="news-description">Jensen Huang, CEO von Nvidia, bestritt Berichte, dass er mit OpenAI unzufrieden sei, und sagte, sein Unternehmen plane immer noch, eine „riesige“ Investition in die ChatGPT-Firma zu tätigen. NVIDIA kündigte im September an, bis zu 100 Milliarden US-Dollar in OpenAI zu investieren, doch kürzlich gab es Vorschläge, dass der Deal ...</p></article>
+    <article class="top-card"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/" target="_blank" rel="noopener">Der CEO von Nvidia wehrt sich gegen den Bericht, dass die 100-Milliarden-Dollar-Investition seines Unternehmens in OpenAI ins Stocken geraten sei</a></h2><p class="news-description">Jensen Huang, CEO von Nvidia, sagte, ein kürzlich veröffentlichter Bericht über Spannungen zwischen seinem Unternehmen und OpenAI sei „Unsinn“.</p></article>
+    <article class="top-card"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">Ars Technica</span></div><h2 class="news-title"><a href="https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/" target="_blank" rel="noopener">KI-Agenten haben jetzt ihr eigenes soziales Netzwerk im Reddit-Stil, und es wird immer seltsamer</a></h2><p class="news-description">Moltbook ermöglicht es 32.000 KI-Bots, Witze, Tipps und Beschwerden über Menschen auszutauschen.</p></article>
+    <article class="top-card"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/" target="_blank" rel="noopener">Auf dem Marktplatz, der maßgeschneiderte KI-Deepfakes von echten Frauen ermöglicht</a></h2><p class="news-description">Civitai – ein Online-Marktplatz für den Kauf und Verkauf von KI-generierten Inhalten, der von der Risikokapitalgesellschaft Andreessen Horowitz unterstützt wird – ermöglicht Benutzern den Kauf benutzerdefinierter Anleitungsdateien zum Generieren von Promi-Deepfakes. Einige dieser Dateien wurden speziell entwickelt, um pornografische Bilder zu erstellen, die von der... verboten wurden.</p></article>
+    <article class="top-card"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">Google AI</span></div><h2 class="news-title"><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/" target="_blank" rel="noopener">Project Genie: Experimentieren mit unendlichen, interaktiven Welten</a></h2><p class="news-description">Abonnenten von Google AI Ultra in den USA können Project Genie jetzt ausprobieren.</p></article>
+  </div>
+</section>
+<section class="days-section" id="daysSection">
+  <h2 class="section-heading">Archiv nach Tagen</h2>
+  <div class="days-grid">
+    <a href="tage/2026-02-01.html" class="day-card"><span class="day-card-weekday">Sonntag</span><span class="day-card-date">1. Februar</span><span class="day-card-count">1 Artikel</span></a>
+    <a href="tage/2026-01-31.html" class="day-card"><span class="day-card-weekday">Samstag</span><span class="day-card-date">31. Januar</span><span class="day-card-count">5 Artikel</span></a>
+    <a href="tage/2026-01-30.html" class="day-card"><span class="day-card-weekday">Freitag</span><span class="day-card-date">30. Januar</span><span class="day-card-count">10 Artikel</span></a>
+    <a href="tage/2026-01-29.html" class="day-card"><span class="day-card-weekday">Donnerstag</span><span class="day-card-date">29. Januar</span><span class="day-card-count">27 Artikel</span></a>
+    <a href="tage/2026-01-28.html" class="day-card"><span class="day-card-weekday">Mittwoch</span><span class="day-card-date">28. Januar</span><span class="day-card-count">11 Artikel</span></a>
+    <a href="tage/2026-01-27.html" class="day-card"><span class="day-card-weekday">Dienstag</span><span class="day-card-date">27. Januar</span><span class="day-card-count">8 Artikel</span></a>
+    <a href="tage/2026-01-26.html" class="day-card"><span class="day-card-weekday">Montag</span><span class="day-card-date">26. Januar</span><span class="day-card-count">3 Artikel</span></a>
+  </div>
+</section>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="js/app.js"></script>
+</body>
+</html>

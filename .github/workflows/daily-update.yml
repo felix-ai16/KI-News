@@ -1,0 +1,37 @@
+name: Daily KI-News Update
+
+on:
+  schedule:
+    # 06:00 UTC = 07:00 CET / 08:00 CEST
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Manueller Trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Abhaengigkeiten installieren
+        run: npm ci
+
+      - name: RSS-Feeds holen und Seiten generieren
+        run: npm run build
+
+      - name: Aenderungen committen und pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json index.html tage/
+          git diff --staged --quiet || git commit -m "KI-News Update $(date -u +%Y-%m-%d)"
+          git push
