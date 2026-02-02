@@ -1,13 +1,83 @@
 [
   {
+    "title": "These AI notetaking devices can help you record and transcribe your meetings",
+    "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+    "description": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+    "pubDate": "2026-02-02T08:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Diese physischen Protokollanten transkribieren mithilfe von KI Audioinhalte und stellen Benutzern Zusammenfassungen und Aktionspunkte von Besprechungen zur Verfügung. Einige bieten sogar Live-Übersetzungen an.",
+    "titleDE": "Mit diesen KI-Notizgeräten können Sie Ihre Besprechungen aufzeichnen und transkribieren"
+  },
+  {
+    "title": "AI layoffs or ‘AI-washing’?",
+    "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+    "description": "How many of the companies with recent layoffs are just using AI as an excuse?",
+    "pubDate": "2026-02-01T22:15:53.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wie viele der Unternehmen, die kürzlich Entlassungen erlitten haben, nutzen KI nur als Ausrede?",
+    "titleDE": "KI-Entlassungen oder „KI-Washing“?"
+  },
+  {
+    "title": "Why Tether’s CEO is everywhere right now",
+    "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
+    "description": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
+    "pubDate": "2026-02-01T20:32:21.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der CEO von Tether mied jahrelang die Vereinigten Staaten und beobachtete von der Küste aus, wie die Aufsichtsbehörden ihre Kreise zogen und die Staatsanwälte Ermittlungen durchführten. Diese Zeiten sind vorbei.",
+    "titleDE": "Warum der CEO von Tether gerade überall ist"
+  },
+  {
+    "title": "Shedding light on Iran’s longest internet blackout",
+    "link": "https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani",
+    "description": "After protests broke out in early January, the Iranian regime shut down the internet, starting the longest blackout in Iranian history. Despite this attempt to stop the protests from spreading, they did not stop. Still, the internet shutdown slowed down the spread of information both inside and outside Iran. \nBehind the heavily policed borders and the jammed signals, an unprecedented wave of state violence continues to add to a death toll somewhere between 3,000 and 30,000. Even at the lowest count, which has been acknowledged by the Iranian state and is likely a wild underestimate, these last few weeks have been one of the bloodiest uprisi …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-01T18:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nach dem Ausbruch der Proteste Anfang Januar schaltete das iranische Regime das Internet ab und löste damit den längsten Stromausfall in der iranischen Geschichte aus. Trotz dieses Versuchs, die Ausbreitung der Proteste zu stoppen, hörten sie nicht auf. Dennoch verlangsamte die Abschaltung des Internets die Verbreitung von Informationen nach innen und außen ...",
+    "titleDE": "Wir beleuchten den längsten Internet-Ausfall im Iran"
+  },
+  {
+    "title": "Indonesia ‘conditionally’ lifts ban on Grok",
+    "link": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+    "description": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
+    "pubDate": "2026-02-01T17:20:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Indonesien ist Malaysia und den Philippinen gefolgt und hat das Verbot des Chatbots Grok von xAI aufgehoben.",
+    "titleDE": "Indonesien hebt Grok-Verbot „unter Auflagen“ auf"
+  },
+  {
+    "title": "India offers zero taxes through 2047 to lure global AI workloads",
+    "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
+    "description": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
+    "pubDate": "2026-02-01T16:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der jüngste Schritt Neu-Delhis erfolgt zu einem Zeitpunkt, an dem Amazon, Google und Microsoft ihre Investitionen in Rechenzentren in Indien ausweiten.",
+    "titleDE": "Indien bietet bis 2047 keine Steuern an, um globale KI-Arbeitslasten anzulocken"
+  },
+  {
+    "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
+    "link": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
+    "description": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age.",
+    "pubDate": "2026-02-01T15:39:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die von Elon Musk gemeldete Fusion von SpaceX, xAI und Tesla erinnert an die Blütezeit von General Electric – oder vielleicht an die Raubritter des Goldenen Zeitalters.",
+    "titleDE": "Tschüss Konzernkonzerne. Hallo Privatkonglomerate."
+  },
+  {
     "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
     "link": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
     "description": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might not happen. While Huang told reporters in Taipei that it was \"nonsense\" to say he was unhappy with OpenAI, when asked if Nvidia would be investing over $100 billion, he replied, \"No, nothing like that.\"\nReuters reported Huang said:\n\"We are going to make a huge investment in OpenAI. I believe in OpenAI, the work that they do is incredible, they  …\n\nRead the full story at The Verge.",
     "pubDate": "2026-01-31T23:37:56.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Jensen Huang, CEO von Nvidia, bestritt Berichte, dass er mit OpenAI unzufrieden sei, und sagte, sein Unternehmen plane immer noch, eine „riesige“ Investition in die ChatGPT-Firma zu tätigen. NVIDIA kündigte im September an, bis zu 100 Milliarden US-Dollar in OpenAI zu investieren, doch kürzlich gab es Vorschläge, dass der Deal ...",
-    "titleDE": "Nvidia-CEO bestreitet, mit OpenAI „unzufrieden“ zu sein"
+    "descriptionDE": "Jensen Huang, CEO von Nvidia, dementierte Berichte, dass er mit OpenAI unzufrieden sei, und sagte, sein Unternehmen habe immer noch vor, eine „riesige“ Investition in die ChatGPT-Firma zu tätigen. NVIDIA kündigte im September an, bis zu 100 Milliarden US-Dollar in OpenAI zu investieren, doch kürzlich gab es Vorschläge, dass der Deal ...",
+    "titleDE": "Der CEO von Nvidia bestreitet, mit OpenAI „unzufrieden“ zu sein"
   },
   {
     "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
@@ -47,7 +117,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Wenn Mitbegründer Lachy Groom irgendwelche Zweifel hat, zeigt er es nicht. Er arbeitet mit Leuten zusammen, die sich seit Jahrzehnten mit diesem Problem befassen und glauben, dass jetzt endlich der richtige Zeitpunkt gekommen ist, und das ist alles, was er wissen muss.",
-    "titleDE": "Ein Blick in Physical Intelligence, das Startup, das die lebhaftesten Robotergehirne des Silicon Valley entwickelt"
+    "titleDE": "Ein Blick in Physical Intelligence, das Startup, das die lebhaftesten Robotergehirne des Silicon Valley baut"
   },
   {
     "title": "OpenClaw’s AI assistants are now building their own social network",
@@ -280,16 +350,6 @@
     "titleDE": "Die Hälfte der Entwickler glaubt, dass KI der Generation schlecht für die Gaming-Branche ist"
   },
   {
-    "title": "Google’s AI helped me make bad Nintendo knockoffs",
-    "link": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on",
-    "description": "This week, a new generative AI tool from Google let me create bad knockoffs of 3D Nintendo worlds.\nCheck out my version of something like Super Mario 64:\n\nI didn't like Metroid Prime 4: Beyond, but it's better than my version of a Metroid Prime experience:\n\nOr how about my take on The Legend of Zelda: Breath of the Wild, complete with a paraglider (and, briefly, a second Link):\n\nIt was all possible thanks to Project Genie, an experimental research prototype that Google gave me access to this week, though I don't think I'm using it in exactly the way Google intended.\nGoogle DeepMind has been putting a lot of effort into building its AI \"wor …\nRead the full story at The Verge.",
-    "pubDate": "2026-01-29T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Diese Woche konnte ich mit einem neuen generativen KI-Tool von Google schlechte Nachbildungen von 3D-Nintendo-Welten erstellen. Schauen Sie sich meine Version von etwas wie Super Mario 64 an: Metroid Prime 4: Beyond hat mir nicht gefallen, aber es ist besser als meine Version eines Metroid Prime-Erlebnisses: Oder wie wäre es mit meiner Version von The Legend of Zelda: ...",
-    "titleDE": "Die KI von Google hat mir geholfen, schlechte Nintendo-Nachahmungen zu machen"
-  },
-  {
     "title": "Project Genie: Experimenting with infinite, interactive worlds",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
     "description": "Google AI Ultra subscribers in the U.S. can now try out Project Genie.",
@@ -330,16 +390,6 @@
     "titleDE": "Indien bringt Google bei, wie KI im Bildungsbereich skaliert werden kann"
   },
   {
-    "title": "Flapping Airplanes and the promise of research-driven AI",
-    "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
-    "description": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
-    "pubDate": "2026-01-29T15:22:29.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Gestern wurde ein neues KI-Labor namens Flapping Airplanes eröffnet, und ein Sequoia-Partner hat eine interessante Sichtweise darauf, warum sie sich von anderen abheben.",
-    "titleDE": "Flatternde Flugzeuge und das Versprechen einer forschungsbasierten KI"
-  },
-  {
     "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
     "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
     "description": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
@@ -348,16 +398,6 @@
     "category": "news",
     "descriptionDE": "Wir haben keinen Beweis dafür, dass KI-Modelle leiden, aber Anthropic verhält sich zu Trainingszwecken so.",
     "titleDE": "Glaubt Anthropic, dass seine KI bei Bewusstsein ist, oder will es, dass Claude genau das denkt?"
-  },
-  {
-    "title": "Google Maps now lets you access Gemini while walking and cycling",
-    "link": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
-    "description": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"",
-    "pubDate": "2026-01-29T14:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn Sie herumlaufen und mit Karten navigieren, können Sie Gemini jetzt Fragen stellen wie „In welcher Nachbarschaft befinde ich mich?“ oder „Welche Restaurants in der Nähe sind am besten bewertet?“",
-    "titleDE": "Mit Google Maps können Sie jetzt zu Fuß und mit dem Fahrrad auf Gemini zugreifen"
   },
   {
     "title": "The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem",
@@ -420,26 +460,6 @@
     "titleDE": "Einstellung von GPT-4o, GPT-4.1, GPT-4.1 mini und OpenAI o4-mini in ChatGPT"
   },
   {
-    "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
-    "link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
-    "description": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
-    "pubDate": "2026-01-28T23:16:02.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mark Zuckerberg sagt, dass 2026 „ein großes Jahr für die Bereitstellung persönlicher Superintelligenz“ sein wird.",
-    "titleDE": "Zuckerberg kündigt Agent-Commerce-Tools und die Einführung einer großen KI im Jahr 2026 an"
-  },
-  {
-    "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
-    "link": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
-    "description": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
-    "pubDate": "2026-01-28T22:31:20.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nehmen Sie Zuckerbergs Ansichten mit Vorsicht. Schließlich dachte er, wir würden mittlerweile alle im Metaversum rumhängen.",
-    "titleDE": "Mark Zuckerberg sagt, eine Zukunft ohne Smart Glasses sei „schwer vorstellbar“"
-  },
-  {
     "title": "Site catering to online criminals has been seized by the FBI",
     "link": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/",
     "description": "One of the last holdouts for ransomware discussions, RAMP is taken down.",
@@ -448,26 +468,6 @@
     "category": "news",
     "descriptionDE": "RAMP, einer der letzten Verweigerer der Ransomware-Diskussion, wurde entfernt.",
     "titleDE": "Das FBI hat eine Website beschlagnahmt, die sich an Online-Kriminelle richtet"
-  },
-  {
-    "title": "Tesla to invest $2B in Elon Musk’s xAI",
-    "link": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
-    "description": "Elon Musk's AI company xAI  disclosed earlier this month it had raised $20 billion.",
-    "pubDate": "2026-01-28T21:52:21.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musks KI-Unternehmen xAI gab Anfang des Monats bekannt, dass es 20 Milliarden US-Dollar eingesammelt hat.",
-    "titleDE": "Tesla investiert 2 Milliarden US-Dollar in Elon Musks xAI"
-  },
-  {
-    "title": "Elon Musk teases a new image-labeling system for X… we think?",
-    "link": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
-    "description": "Elon Musk says X will begin identifying \"manipulated media\" but doesn't share details.",
-    "pubDate": "2026-01-28T21:46:18.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musk sagt, X werde mit der Identifizierung „manipulierter Medien“ beginnen, teilt jedoch keine Details mit.",
-    "titleDE": "Elon Musk kündigt ein neues Bildkennzeichnungssystem für X an … denken wir?"
   },
   {
     "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
@@ -577,7 +577,7 @@
     "source": "Google AI",
     "category": "news",
     "descriptionDE": "Um Gemini Milliarden von Benutzern zugänglich zu machen, ist ein enormer, koordinierter Infrastrukturaufwand erforderlich. In der neuesten Folge des Google AI: Release Notes-Podcasts moderiert Logan Kil…",
-    "titleDE": "Hören Sie in unserem neuesten Podcast, wie das „Smoke Jumpers“-Team Milliarden von Menschen Zwillinge näher bringt."
+    "titleDE": "Hören Sie in unserem neuesten Podcast, wie das „Smoke Jumpers“-Team Milliarden von Menschen Zwillinge näherbringt."
   },
   {
     "title": "PVH reimagines the future of fashion with OpenAI",
@@ -638,15 +638,5 @@
     "category": "news",
     "descriptionDE": "Heute wird unser animierter Kurzfilm „Dear Upstairs Neighbors“ beim Sundance Film Festival in der Vorschau gezeigt.",
     "titleDE": "Wie Animatoren und KI-Forscher „Dear Upstairs Neighbors“ machten"
-  },
-  {
-    "title": "How Indeed uses AI to help evolve the job search",
-    "link": "https://openai.com/index/indeed-maggie-hulce",
-    "description": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
-    "pubDate": "2026-01-26T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Maggie Hulce, CRO von Indeed, erzählt, wie KI die Jobsuche, die Personalbeschaffung und die Talentakquise für Arbeitgeber und Arbeitssuchende verändert.",
-    "titleDE": "Wie Indeed KI nutzt, um die Jobsuche weiterzuentwickeln"
   }
 ]
