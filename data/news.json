@@ -1,5 +1,305 @@
 [
   {
+    "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+    "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+    "description": "The startup -- with backing from Accel -- is building a financial layer that handles the authentication and micro-payments required for AI agents.",
+    "pubDate": "2026-02-05T23:53:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Startup baut – mit Unterstützung von Accel – eine Finanzschicht auf, die die für KI-Agenten erforderliche Authentifizierung und Mikrozahlungen abwickelt.",
+    "titleDE": "Sapiom sammelt 15 Millionen US-Dollar, um KI-Agenten beim Kauf ihrer eigenen technischen Tools zu unterstützen"
+  },
+  {
+    "title": "Reddit looks to AI search as its next big opportunity",
+    "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
+    "description": "During the company's fourth-quarter earnings call on Thursday, it offered an update on its plans to merge traditional and AI search together and hinted that although search is not yet monetized, \"it's an enormous market and opportunity.\"",
+    "pubDate": "2026-02-05T23:20:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während der Telefonkonferenz zu den Ergebnissen des vierten Quartals am Donnerstag gab das Unternehmen ein Update zu seinen Plänen, traditionelle und KI-Suche zusammenzuführen, und deutete an, dass die Suche zwar noch nicht monetarisiert sei, aber „ein enormer Markt und eine enorme Chance“ sei.",
+    "titleDE": "Reddit betrachtet die KI-Suche als seine nächste große Chance"
+  },
+  {
+    "title": "AWS revenue continues to soar as cloud demand remains high",
+    "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
+    "description": "AWS recorded its best quarter, in terms of revenue growth, in 13 quarters in Q4 2025 as AI drives AWS adoption.",
+    "pubDate": "2026-02-05T23:11:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "AWS verzeichnete im vierten Quartal 2025 das beste Quartal in Bezug auf das Umsatzwachstum seit 13 Quartalen, da KI die Einführung von AWS vorantreibt.",
+    "titleDE": "Der AWS-Umsatz steigt weiter, da die Cloud-Nachfrage weiterhin hoch ist"
+  },
+  {
+    "title": "AI companies want you to stop chatting with bots and start managing them",
+    "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+    "description": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
+    "pubDate": "2026-02-05T22:47:54.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Claude Opus 4.6 und OpenAI Frontier stellen eine Zukunft der Überwachung von KI-Agenten vor.",
+    "titleDE": "KI-Unternehmen möchten, dass Sie aufhören, mit Bots zu chatten, und stattdessen mit deren Verwaltung beginnen"
+  },
+  {
+    "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+    "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+    "description": "In 2026, Amazon plans to spend $200 billion in capex. Google is just behind at $175 billion to $185 billion. It's a lot of money!",
+    "pubDate": "2026-02-05T22:43:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Im Jahr 2026 plant Amazon, 200 Milliarden US-Dollar an Investitionsausgaben auszugeben. Google liegt mit 175 bis 185 Milliarden US-Dollar knapp dahinter. Es ist viel Geld!",
+    "titleDE": "Amazon und Google gewinnen das KI-Investitionsrennen – aber was ist der Preis?"
+  },
+  {
+    "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+    "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+    "description": "The new model is built to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+    "pubDate": "2026-02-05T20:01:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das neue Modell soll die Fähigkeiten von Codex beschleunigen, dem agentischen Codierungstool OpenAI, das Anfang dieser Woche eingeführt wurde.",
+    "titleDE": "OpenAI führt ein neues Agenten-Codierungsmodell ein, nur wenige Minuten nachdem Anthropic sein eigenes auf den Markt gebracht hat"
+  },
+  {
+    "title": "Elon Musk is getting serious about orbital data centers",
+    "link": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
+    "description": "We’re starting to see the idea of Musk-owned orbital AI data clusters cohere into an actual plan.",
+    "pubDate": "2026-02-05T18:50:49.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wir beginnen zu sehen, dass die Idee von Musk-eigenen orbitalen KI-Datenclustern in einen tatsächlichen Plan übergeht.",
+    "titleDE": "Elon Musk macht ernst mit Orbital-Rechenzentren"
+  },
+  {
+    "title": "Super Bowl LX ads: all AI everything",
+    "link": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+    "description": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago.\nLast year’s Super Bowl featured a Google Gemini ad that fumbled a Gouda cheese stat, and this year’s game is already slated to include an ad for Anthropic’s AI platform that takes jabs at its competitors, namely OpenAI. AI-generated ads could make an appearance, too. \nSuper Bowl LX is set to kick off at 6:30PM ET/3:30PM PT on Sunday, February 8th at Levi’s Stadium in Santa Clara, California. \nSam Altman responds to Anthropic’s ‘funny’ Super Bowl ads\n\t\t\t\nAnthropic’s first Super Bowl ad dunks on ChatGPT.\n\t\t\t\nDon’t expect any Kalshi or Polymarket ads during the Super Bowl.",
+    "pubDate": "2026-02-05T18:18:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Super Bowl LX steht vor der Tür und die Seattle Seahawks treten gegen die New England Patriots an. Während Bad Bunny der Star der Halbzeitshow sein wird, könnte KI der Star der Werbeunterbrechungen sein, ähnlich wie Krypto vor ein paar Jahren. Beim letztjährigen Super Bowl gab es eine Google Gemini-Anzeige, die ein Go verfälschte...",
+    "titleDE": "Super Bowl LX-Werbung: Alles KI, alles"
+  },
+  {
+    "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+    "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+    "description": "OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.",
+    "pubDate": "2026-02-05T18:09:50.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI hat Frontier auf den Markt gebracht, eine neue Plattform, die für Unternehmen entwickelt wurde, um Agenten zu erstellen und einzusetzen und sie gleichzeitig wie menschliche Mitarbeiter zu behandeln.",
+    "titleDE": "OpenAI bietet Unternehmen eine Möglichkeit, KI-Agenten zu erstellen und zu verwalten"
+  },
+  {
+    "title": "Claude has been having a moment — can it keep it up?",
+    "link": "https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment",
+    "description": "Boris Cherny gets recognized in public relatively often. At the bar, at the airport, and in generally any public space, people want to take selfies with the creator and head of Claude Code. \nFor the last couple of months, Anthropic's Claude and its coding platform have been having a moment - on social media, in engineers' circles, and in C-suite offices. Claude Code reached newfound popularity over the holidays, when people spent days or weeks building anything from a tool for viewing MRI results to a Goodreads alternative to an AI-generated T-shirt design contest with a complex judicial system. X posts in January proclaimed that \"we are wi …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-05T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Boris Cherny wird relativ oft in der Öffentlichkeit wahrgenommen. An der Bar, am Flughafen und im Allgemeinen an jedem öffentlichen Ort möchten Menschen Selfies mit dem Gründer und Leiter von Claude Code machen. In den letzten Monaten hatten Claude von Anthropic und seine Codierungsplattform einen Moment Zeit – im sozialen Bereich …",
+    "titleDE": "Claude hatte einen Moment Zeit – kann es so weitermachen?"
+  },
+  {
+    "title": "Anthropic debuts new model with hopes to corner the market beyond coding",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude",
+    "description": "Anthropic's \"smartest model\" is getting a major boost, the company said in a blog post announcing Claude Opus 4.6. \nIt called the new model a \"direct upgrade\" from its predecessor in a release, noting that it can better take on complex, multi-step tasks and get \"much closer to production-ready quality on the first try than what we've seen with any model - documents, spreadsheets, and presentations will need less back-and-forth on iterations.\" It's available starting today with the same pricing as its predecessor, and according to the company, its particular strengths are in agentic coding, tool use, search, and financial analysis. \nBut mos …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-05T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das „intelligentste Modell“ von Anthropic erfährt einen großen Aufschwung, sagte das Unternehmen in einem Blogbeitrag, in dem es Claude Opus 4.6 ankündigt. In einer Veröffentlichung bezeichnete das Unternehmen das neue Modell als „direktes Upgrade“ seines Vorgängers und stellte fest, dass es komplexe, mehrstufige Aufgaben besser bewältigen kann und „der produktionsreifen Qualität viel näher kommt …“",
+    "titleDE": "Anthropic stellt ein neues Modell vor und hofft, den Markt über das Programmieren hinaus zu erobern"
+  },
+  {
+    "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+    "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+    "description": "The newest version of Anthropic's model is designed to broaden its capabilities and appeal, allowing for a greater variety of uses and customers.",
+    "pubDate": "2026-02-05T17:51:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neueste Version des Anthropic-Modells wurde entwickelt, um seine Fähigkeiten und Attraktivität zu erweitern und eine größere Vielfalt an Einsatzmöglichkeiten und Kunden zu ermöglichen.",
+    "titleDE": "Anthropic veröffentlicht Opus 4.6 mit neuen „Agententeams“"
+  },
+  {
+    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+    "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+    "description": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
+    "pubDate": "2026-02-05T17:46:59.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Sam Altman bezeichnet den KI-Konkurrenten in einem langen Beitrag auf X als „unehrlich“ und „autoritär“.",
+    "titleDE": "OpenAI ist verrückt nach den neuen Super Bowl-TV-Werbespots von Anthropic"
+  },
+  {
+    "title": "Meta tests a stand-alone app for its AI-generated ‘Vibes’ videos",
+    "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
+    "description": "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
+    "pubDate": "2026-02-05T17:19:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit Vibes, das letzten September eingeführt wurde, können Sie kurze, KI-generierte Videos erstellen und teilen und auf einen speziellen Feed zugreifen, der KI-Videos von anderen anzeigt.",
+    "titleDE": "Meta testet eine eigenständige App für seine KI-generierten „Vibes“-Videos"
+  },
+  {
+    "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+    "description": "Learn how Google's NAI framework uses AI to make technology more adaptive, inclusive and helpful for everyone.",
+    "pubDate": "2026-02-05T17:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie das NAI-Framework von Google KI nutzt, um Technologie anpassungsfähiger, integrativer und hilfreicher für alle zu machen.",
+    "titleDE": "Nativ adaptive Schnittstellen: Ein neues Framework für KI-Zugänglichkeit"
+  },
+  {
+    "title": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+    "link": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+    "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chips instead due to the limited supply of RAM currently available. On top of that, \"Nvidia is also slashing production of its current line of gaming chips,\" the RTX 50-series, which are already in high demand and consistently sold out at retailers. \nThe priority shift away from gaming GPUs follows record-breaking revenue for Nvidia, driven by its AI chips. Data center revenue made up $51.2 …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-05T16:33:27.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Super-Aktualisierung der GPUs der RTX-50-Serie von Nvidia wurde auf der CES 2026 im Januar erwartet, erschien aber nicht. The Information berichtet, dass Nvidia-Manager im Dezember beschlossen haben, die neuen Karten nicht wie geplant herauszubringen, sondern sich aufgrund des begrenzten Angebots an RA dafür entschieden haben, KI-Chips Vorrang einzuräumen ...",
+    "titleDE": "Nvidias Super-Refresh der RTX 50-Serie verzögert sich und die RTX 60-Serie könnte 2027 ausfallen"
+  },
+  {
+    "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+    "description": "Google Cloud built an industry-first AI tool to help U.S. Ski and Snowboard athletes.",
+    "pubDate": "2026-02-05T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Google Cloud hat ein branchenweit erstes KI-Tool entwickelt, um US-amerikanischen Ski- und Snowboardsportlern zu helfen.",
+    "titleDE": "Wie Google Cloud dem Team USA dabei hilft, seine Tricks mit KI zu verbessern"
+  },
+  {
+    "title": "Consolidating systems for AI with iPaaS",
+    "link": "https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/",
+    "description": "For decades, enterprises reacted to shifting business pressures with stopgap technology solutions. To rein in rising infrastructure costs, they adopted cloud services that could scale on demand. When customers shifted their lives onto smartphones, companies rolled out mobile apps to keep pace. And when businesses began needing real-time visibility into factories and stockrooms, they layered…",
+    "pubDate": "2026-02-05T15:20:37.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Jahrzehntelang reagierten Unternehmen auf den sich verändernden Geschäftsdruck mit Notlösungen im Technologiebereich. Um die steigenden Infrastrukturkosten einzudämmen, führten sie Cloud-Dienste ein, die sich je nach Bedarf skalieren lassen. Als Kunden ihr Leben auf Smartphones verlagerten, führten Unternehmen mobile Apps ein, um Schritt zu halten. Und w...",
+    "titleDE": "Konsolidierung von Systemen für KI mit iPaaS"
+  },
+  {
+    "title": "Fundamental raises $255M Series A with a new take on big data analysis",
+    "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
+    "description": "Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
+    "pubDate": "2026-02-05T15:00:02.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Fundamental hat ein neues Basismodell entwickelt, um ein altes Problem zu lösen: Wie kann man aus den riesigen Mengen strukturierter Daten, die von Unternehmen produziert werden, Erkenntnisse gewinnen?",
+    "titleDE": "Fundamental sammelt 255 Millionen US-Dollar in Serie A mit einer neuen Interpretation der Big-Data-Analyse"
+  },
+  {
+    "title": "Reality is losing the deepfake war",
+    "link": "https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels",
+    "description": "Today, we’re going to talk about reality, and whether we can label photos and videos to protect our shared understanding of the world around us. No really, we’re gonna go there. It’s a deep one.\nTo do this, I’m going to bring on Verge reporter Jess Weatherbed, who covers creative tools for us — a space that’s been totally upended by generative AI in a huge variety of ways with an equally huge number of responses from artists, creatives, and the huge number of people who consume that art and creative output out in the world.\nIf you’ve been listening to this show or my other show The Vergecast, or even just been reading The Verge these past several years, you know we’ve been talking about how the photos and videos taken by our phones are getting more and more processed and AI-generated for years now. Here in 2026, we’re in the middle of a full-on reality crisis, as fake and manipulated ultra-believable images and videos flood social platforms at scale and without regard for responsibility, norms, or even basic decency. The White House is sharing AI-manipulated images of people getting arrested and defiantly saying it simply won’t stop when asked about it. We have gone totally off the deep end now.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nWhenever we cover this, we get the same question from a lot of different parts of our audience: why isn’t there a system to help people tell the real photos and videos apart from fake ones? Some people even propose systems to us, and in fact, Jess has spent a lot of time covering a few of these systems that exist in the real world. The most promising is something called C2PA, and her view is that so far, it’s been almost entirely failures.\nIs this episode, we’re going to focus on C2PA, because it’s the one with the most momentum. C2PA is a labeling initiative spearheaded by Adobe with buy-in from some of the biggest players in the industry, including Meta, Microsoft, and OpenAI. But C2PA, also sometimes referred to as Content Credentials, has some pretty serious flaws.\nFirst, it was designed as more of a photography metadata tool, not an AI detection system. And second, it’s really only been only half-heartedly adopted by a handful, but not nearly all, of the players you would need to make it work across the internet. We’re at the point now where Instagram chief Adam Mosseri is publicly posting that the default should shift and you should not trust images or videos the way you maybe could before. \nThink about that for one second. That’s a huge, pivotal shift in how society evaluates photos and videos and an idea I’m sure we’ll be coming back to a lot this year. But we have to start with the idea that we can solve this problem with metadata and labels — that we can label our way into a shared reality. And why that idea might simply never work.\nOkay, Verge reporter Jess Weatherbed on C2PA and the effort to label our way into reality. Here we go.\n\n\nThis interview has been lightly edited for length and clarity.\nJess Weatherbed, welcome to Decoder. I want to just set this stage. Several years ago, I said to Jess, “Boy, these creator tools are criminally under-covered. Adobe as a company is criminally under-covered. Go figure out what’s going on with Photoshop and Premiere and the creator economy because there’s something there that’s interesting.” \nAnd fast-forward, here you are on Decoder today and we’re going to talk about whether you can label your way into consensus reality. I just think it’s important to say that’s a weird turn of events.\nYeah. I keep likening the situation to the Jurassic Park meme, where people thought so long about whether they could, they didn’t actually stop to think about whether they should be doing this. Now we’re in the mess that we’re in.\nThe problem, broadly, is that there’s an enormous amount of AI-generated content on the internet. Much of it just depicts things that are flatly not real. An important subset of that is a lot of content that depicts modifications to things that actually happened. So our sense that we can just look at a video or a picture and sort of implicitly trust that it’s true is fraying, if not completely gone. And we will come to that, because that’s an important turn here, but that’s the state of play.\nIn the background, the tech industry has been working on a handful of solutions to this problem, most of which involve labeling things at the point of creation. At the moment you take a photo or the moment you generate an image, you’re going to label it somehow. The most important one of those is called C2PA. So can you just quickly explain what that stands for, what it is, and where it comes from?\nSo this is effectively a metadata standard that was kickstarted by Adobe. Interestingly enough, Twitter as well, back in the day. You can see where the logic lies. It was supposed to be that everywhere a little bit of content goes online, this embedded metadata would follow. \nWhat C2PA does is this: at the point that you take a picture on a camera, you upload that image into Photoshop, all of these instances would be recorded in the metadata of that file to say exactly when it was taken, what has happened to it, what tools were used to manipulate it. And then as a two-part process, all of that information could then hypothetically be read by online platforms where you would see that information. \nAs consumers, as internet users, we wouldn’t have to do anything. We would be able to, in this imaginary reality, go on Instagram or X and look at a photo and there would be a lovely little button there that just says, “This is AI-generated,” or, “This is real,” or some sort of authentication. That has obviously proven a lot more difficult in reality than on paper.\nTell me about the actual label. You said it’s metadata. I think a lot of people have a lot of experience with metadata. We are all children of the MP3 revolution. Metadata can be stripped, it can be altered. What protects the C2PA metadata from just being changed?\nThey argue that it’s quite tamper-proof, but it’s a little bit of an “actions speak louder than words” situation, unfortunately. Because while they say it’s tamper-proof, this thing is supposed to be able to resist being screenshot, for example, but then OpenAI, who is actually one of the steering community members behind this standard, openly says it’s incredibly easy to strip to the point that online platforms might actually do that accidentally. So the theory is there’s plenty behind it to make it robust, to make it hard to remove, but in practice, that just isn’t the case. It can be removed, maliciously or not.\nAre there competitors to C2PA?\nIt’s a little bit of a confusing landscape, because I think it’s one of the few tech areas that I would say there shouldn’t actively be competition. And from what I’ve seen, from what I’ve spoken to with all these different providers, there isn’t competition between them as much as they’re all working towards the same goal. \nGoogle SynthID is similar. It’s technically a watermarking system more so than a metadata system, but they work on a similar premise that stuff will be embedded into something you take that you’ll then be able to assess later to see how genuine it is. The technicalities behind that are difficult to explain in a shortened context, but they do operate on different levels, which means technically they could work together. A lot of these systems can work together.\nYou’ve got inference-based systems as well, which is where they will look at an image or a video or a piece of music and they will pick up telltale signs that apparently it may have been manipulated by AI and they will give you a rating. They can never really say yes or no, but they’ll give you a likelihood rating. \nNone of it will stand on its own to be a one true solution. They’re not necessarily competing to be the one that everyone uses, and that’s the mess that C2PA is now in. It’s been lauded and it’s been grandstanded. They say, “This will save us,” whereas it was never designed to do that, and it certainly isn’t equipped to.\nWho runs it? Is it just a group of people? Is it a bunch of engineers? Is it simply Adobe? Who’s in charge?\nIt’s a coalition. The most prominent name you’ll see is Adobe because they’re the ones that shout about it the most. They’re one of the founding members of the Content Authenticity Initiative, which has helped to develop the standard. But you’ve got big names that are part of the steering committee behind it, which are supposed to be the groups involved with helping other people to adopt it, which is the important thing, because otherwise it doesn’t work. And part of this process, if you’re not using it, C2PA falls over. And OpenAI is part of that. Microsoft, Qualcomm, Google, all of these huge names are all involved with that and are supposedly helping to … They’re very careful not to say “develop it,” but to promote its adoption and to encourage other people, in regards to who’s actually working on it.\nWhy are they careful not to say they’re developing it?\nThere isn’t any confirmation that I can find where it’s got something like, I don’t know, Sam Altman saying, “We’ve found this flaw in C2PA, and therefore we’re helping to address any kind of falls and pitfalls it may have.” It’s always just anytime I see it mentioned, it’s whenever a new AI feature has been rolled out and there’s a convenient little disclaimer slapped on the bottom, kind of a, “Yay, we did it. Look, it’s fine, a new AI thing, but we have this totally cool system that we use that’s supposed to make everything better.” They don’t actively say what they’re doing to improve the situation, just that they’re using it and they’re encouraging everyone else to be using it too.\nOne of the most important pieces of the puzzle here is labeling the content at capture. We’ve all seen cell phone videos of protests and government actions and horrific government actions. And I think Google has C2PA in the Pixel line of phones. So video that comes off a Pixel phone or photos that come off a Pixel phone have some embedded metadata that says it’s real. \nApple notably doesn’t. Have they made any mention of C2PA or any of these other standards that would authenticate the photos or videos coming off an iPhone? That seems like an important player in this entire ecosystem.\nThey haven’t officially or on record. I have sources that say apparently they were involved in conversations to at least join, but nothing public-facing at the minute. There has been no confirmation that they are actually joining the initiative or even adopting Google SynthID technology. They’re very carefully skirting on the sidelines for some reason. \nIt’s a little bit unclear as to whether they’re letting their caution about AI generally stem into this at this point. Because as far as I’m concerned, there is not going to be one true solution, so I don’t really know what Apple is waiting for, and they could be making a difference, but no, they haven’t been making any kind of declarations about what we should be using to label AI.\nThat’s so interesting to me. I mean, I love a standards war, and we’ve covered many standards wars and the politics of tech standards are usually ferocious. And they’re usually ferocious because whoever controls the standard generally stands to make the most money, or whoever can drive the standard and an extended standard can make a lot of money. \nApple has played that game maybe better than anybody. It’s driven a lot of the USB standard. It was behind USB-C. It drove a lot of Bluetooth standard, which it extended for AirPods. I can’t see how you make money with C2PA, and it seems like Apple is just letting everyone else figure it out and then they will turn it on, and yet it feels like the responsibility to be the most important camera maker in the world is to drive the standard so people trust the images and videos that come off the cameras.\nDoes that dynamic come out anywhere in your reporting or your conversations with people about this standard — that it’s not really there to make money, it’s there to protect reality?\nThe moneymaking side of things never really comes into the conversation. It’s always that people are very quick to assure me that things are progressing. There’s never any kind of a conversation about incentive to motivate other people to do so. Apple doesn’t stand to really gain anything financially from this other than maybe the reassurance that people know that if they’re taking a picture with their iPhone, it could help to contribute to some sense of establishing what is still real and what isn’t. But then that’s a whole other can of worms because if iPhone is doing it, then all the platforms that we see those pictures on also have to be doing it. Otherwise, I’m just kind of verifying that this is real to my own eyes as me, the person that uses my iPhone.\nApple may be aware that all the solutions that we currently have available are inherently flawed, so throwing your lot in as one of the biggest names in this industry and one that could arguably do the most difference, you’re almost exacerbating the situation that Google and OpenAI are now in, which is that they keep lauding this as the solution and it doesn’t fucking work. I think Apple needs to be able to stand on its laurels about something, and nothing is going to offer them that at the minute.\nI want to come back to how specifically it doesn’t work in one second. Let me just stay focused on the rest of the players on the content creation side of the ecosystem. There’s Apple, and there’s Google, which uses it in the Pixel phones. It’s not in Android proper, right? So if you have a Samsung phone, you don’t get C2PA when you take a picture with a Samsung phone. What about the other camera makers? Are Nikon and Sony and Fuji all using the system?\nA lot of them have joined. They’ve released new camera models that have got the system embedded. The problem that they’re having now is in order for this to work, you don’t just have to do it on your new cameras, because every photographer in the world worth their salt isn’t going to go out every year and buy a brand new camera because of this technology. It would be inherently useful, but that’s just not going to happen. So backdating existing cameras is where the problem is going to be.\nWe’ve spoken to a lot of different companies. As you said, Sony has been involved with this, Leica, Nikon, all of them. The only company willing to speak to us about it was Leica, and even they were very vague on how internally this is progressing. They just keep saying that it’s part of the solution, it’s part of the step that they’re going to be taking. But these cameras aren’t being backdated at the minute. If you have an established model, it’s 50/50 whether it’s even possible to update it with the ability to log these metadata credentials in from that point.\nThere are other sources of trust in the photography ecosystem. The big photo agencies require the photographers who work there to sign contracts that say they won’t alter images, they won’t edit images in ways that fiddle with reality. Those photographers could use the cameras that don’t have the system, upload their photos to, I don’t know, Getty or AFP or Shutterstock, and then those companies could embed the metadata, and so “You can trust us.” Are any of them participating in that way?\nWe know that Shutterstock is a member. At the minute, the system that you’re describing would probably be the best approach that we have to making this beneficial, at least for us as people that see things online and want to be able to trust whether protest images or horrific things that we’re seeing online are actually real. To have a trusted middleman, as it were. But that system itself hasn’t been established. We do know that Shutterstock is involved. They are part of the C2PA committee, or they have general membership. \nSo they are on board with using the standard, but they’re not actively part of the process behind how it’s going to be adopted at a further stage. Unless we can also get the other big players involved for stock imagery, then who knows whether this is going to go, but Shutterstock actually implementing it as a middleman system would be probably the most beneficial way to go.\nI’m just thinking about this in terms of the stuff that is made, the stuff that is distributed and the stuff that is consumed. It seems like at least at the moment of creation, there is some adoption, right? Adobe is saying, “Okay, in Photoshop, we’re going to let you edit photos and we’re going to write the metadata to the images and pass them along.” A handful of phonemakers, Google, or at least in its phones, are saying, “We’re going to write the metadata. We’re going to have SynthID.” OpenAI is putting the system into Sora 2 videos, which you wrote about.\nOn the creation side, there’s some amount of, “Okay, we’re going to label this stuff. We’re going to add the metadata.” The distribution side seems to be where the mess is, right? Nobody’s respecting the stuff as it travels across the internet. Talk about that. You wrote about Sora 2 videos and how they exploded across the internet. This is when it should have not been controversial to put labels everywhere saying, “This is AI-generated content,” and yet it didn’t happen. Why didn’t that happen anywhere?\nIt generally exposes the biggest flaw that this system has, and every system like it, to its credit. I don’t want to defend C2PA because it’s doing a bad job. It wasn’t ever designed to do it on this scale. It wasn’t designed to apply to everything. So in this example, yes, platforms need to be adopting it to actually read that metadata, providing they’re not the ones ripping it out during the process of actually supposedly scanning for it, but unless this is absolutely everywhere, it’s just not going to go.\nPart of the problem that we’re seeing is, as much as they can credit saying, “It’s going to be really robust, it’s going to be really efficient, you can embed this at any other stage,” there are still flaws with how it’s being interpreted, even if it is scanned. So that’s a big thing. It’s not necessarily that platforms aren’t picking up the metadata or stripping it out. It’s that they have no idea what to do with it when they actually have it. And at the point of uploading any images, there are social media platforms. LinkedIn, Instagram, Threads are all supposed to be using this standard, and there is a chance that when you upload any kind of image or video to the platform, any metadata that was involved in that is just going to be stripped out regardless.\nUnless they can all come to an agreement, every platform, literally every platform that we access and use online, can come to an agreement that they are going to be scanning for very, very specific details, they’re going to be adjusting their upload processes, they’re going to be adjusting how they communicate to their users, there needs to be that uniform, total uniform conformity for a system like this to actually make a difference, not even just to work. And we’re clearly not even going to see that.\nOne of the conversations I had, actually, was when I was grilling Andy Parsons, who is head of content credentials at Adobe—that’s their word for implementing C2PA data—I commented on the Grok mess that we’ve had recently. Twitter was a founding member of this, and then when Elon purchased the platform, it disappeared. And by the sounds of it, they’ve been trying to entice X to get back involved, but that’s just not going anywhere. And X, however we see its user base at the minute, has millions of people using it, and that is a portion of the internet that is never going to benefit from this system because it has no interest in adopting it. So you’re never going to be able to address that.\nI’m going to read you this quote from Adam Mosseri, who runs Instagram. On New Year’s Eve, he just dropped a bomb and he put out a blog post in the form of a 20-carousel Instagram slideshow, which has its own PhD thesis of ideas about how information travels on the internet embedded within it, but he put out a 20 slideshow on Instagram. In it, he said, “For most of my life, I could safely assume photographs or videos were largely accurate captures of moments that happened. This is clearly no longer the case and it’s going to take us years to adapt. We’re going to move from assuming what we see as real by default to starting with skepticism.”\nThis is the end point, right? This is “you can’t trust your eyes,” which means you can no longer trust a photo, you can’t trust a video of any event is actually real, and reality will start to crumble. And you can just look at events in the United States over the past month. The reaction to ICE killing Alex Pretti was, “Well, we all saw it,” and it’s because there was lots of video of that event from multiple angles and everyone said, “Well, we can all see it.”\nThe foundation of that is we can trust that video. And I’m looking at Adam Mosseri saying, “We’re going to start with skepticism. We can no longer assume photos or videos are accurate captures of moments that happened.” This is the turn. This is the point of the standard. Do you see Mosseri saying this out loud about Instagram as the end point of this? Is this war just lost?\nI would say so. I think we’ve been waiting for tech to basically admit it. I see them using stuff like C2PA as a meritless badge at this point because they’re not endeavoring to push it to its utmost potential really. Even if it was never going to be the ultimate solution, it could have been at least some kind of benefit. \nWe know that they’re not doing this because in the same message, Mosseri is describing this like, “Oh, it would be easier if we could just tag real content. That’s going to be so much more doable, and that would be good, and we’ll circle those people.” It’s like, “My guy, that’s what you’re doing.” C2PA is that. It’s not specifically an AI tagging system. It’s supposed to say, “Where has this been and who took this? Who made this? What has happened to it?”\nSo if we’re going for authenticity, Mosseri is just openly saying, “We’re using this thing and it doesn’t work, but imagine if it did. Wouldn’t that be great?” That’s deeply unhelpful. It’s his way of deeply unhelpfully musing into some system that will be able to, I don’t know, regain some kind of trust, I guess, while also acknowledging that we’re already there.\nI’m going to make you keep arguing with Adam Mosseri. We’ve invited Adam on the show. We’ll have him on and maybe we can add this debate with him in person, but for now you’re going to keep arguing with his blog post. He says, “Platforms like Instagram will do good work identifying AI content, but it’ll get worse over time as AI gets better. It’ll be more practical to fingerprint real media than fake media. Labeling is only part of the solution,” he says. “We need to surface much more context about the accounts sharing content so people can make informed decisions.”\nSo he’s saying, “Look, we’ll start to sign all the images and everything, but actually, you need to trust individual creators. And if you trust the creator, then that will solve the problem.” And it seems like you’re really skipping over the part where creators are fooled by AI-generated content all the time. And I don’t mean that to say creators as a class of people. I mean, literally just everyone is fooled by AI content all the time. If you’re trusting people to understand it and then share what they think is real, and then you’re trusting the consumers to trust the people, that also seems like a whirlwind of chaos.\nOn top of that, and you’ve written about this as well, there’s the notion that these labels make you mad at people, right? If you label a piece of content as AI-generated, the creator gets furious because it makes their work seem less important or less valuable. The audiences yell at the creators. There’s been a real push to get rid of these labels entirely because they seem to make everyone mad.\nHow does that dynamic work here? Does any of this have a way through?\nI mean, it doesn’t. And the other amusing thing is Instagram knows this the hard way. Mosseri should remember, one of the very first platform implementations they did of reading C2PA was done by Facebook and Instagram a couple of years ago where they were just slapping “made with AI” labels onto everything because that’s what the metadata told them. \nThe big problem here that we have isn’t just communication, which is the biggest part of it. How do you communicate a complex bucket of information to every person that’s going to be on your platform and get them only the information that they need? If I’m a creator, it shouldn’t have to matter if I was using AI or not, but if I’m a person trying to see if, again, a photo is real, I would greatly benefit from just an easy button or label that verifies authenticity.\nFinding the balance for that has proven next to impossible because, as you said, people just get upset about it. But then how do you define how much AI in something is too much AI? Photoshop and all of Adobe’s tools, they do embed these content credentials in all of this metadata, it will say when AI has been used, but AI is in so many tools, and not necessarily in the generative way that we assume it’s going to be like, “I’m going to click on this. It’s going to add something new to an image that was never there before and that’s fine.”\nThere are very basic editing features that video editors and photographers now use that will have some kind of information embedded into them to say that AI was involved in that process. And now when you’ve got creators on the other side of that, they might not know that what they are using is AI. We’re at the point where, unless you can go through every platform, every editing suite with a fine tooth comb and designate what we count as AI, this is a non-starter. He’s already hit the point that we can’t communicate this to people effectively.\nLet’s pause here for a second, because I want to lay out some important context before we keep digging in. \nIf you’ve been a Verge reader, you know that we’ve been asking a very simple question for over five years now: What is a photo? It sounds simple, but it’s actually quite complicated. After all, when you push the shutter button on a modern smartphone, you’re not actually capturing a single moment in time, which is what most people think a photo is. \nModern phones actually take a lot of frames both before and after you press the shutter button and merge them into a single, final photo. That’s to do things like even out the shadows and highlights of the photo, capture more texture, and accomplish feats like Night Mode. \nThere was a mini-scandal a few years ago where if you tried to take a photo of the moon with a Samsung phone, the camera app would just generate a picture of the moon.  Of course, Google Pixel phones have all kinds of Gemini-powered AI tools in them, to the point where Google now says the point of the camera is to capture “memories,” not moments in time. This is a lot, and like I said, we’ve been talking about it for years here at The Verge.\nNow, generative AI is pushing the “what is a photo” debate to its absolute limits. It’s hard to even agree on how much AI editing makes something an AI-edited photo, or even whether these features should be considered AI in the first place. If that’s so hard, then how can we possibly reach consensus on what’s real and what we label as real? Camera makers have basically thrown their hands up here, and now we’re seeing the major social media platforms do the same thing. \nI bring this up partially because it’s an obsession of mine, but also I think laying it all out makes it obvious how very, very complicated this all is, which brings us back to Adam Mosseri, Instagram, and the AI labeling debate.\nI will give some credit to Instagram and Adam Mosseri here in that they are at least trying and thinking about it and publicly thinking about it in a way that none of the other social networks seem to have given any shred of consideration to. TikTok, for example, is nowhere to be found here. They are just going to distribute whatever they distribute without any of these labels, and it doesn’t seem like they’re part of the standard. I think X is absolutely just fully down the rabbit hole of distributing pure AI misinformation. YouTube seems like the outlier, right? Google runs SynthID, they’re in C2PA, they’re embedding the information literally at the point of capture in Pixel phones. What is YouTube doing?\nA very similar approach to TikTok actually, because weirdly enough, TikTok is involved with this. It uses the standard. It’s not necessarily a steering member, but it is involved. And it has a similar approach, where you’ll get an AI information label somewhere towards, depending on what format you’re viewing on, mobile or your TV, your computer, you’ll get a little AI information label that you have to click in and ascertain the information that you need from that.\nSo their problem is making sure it’s robust enough, because this doesn’t appear consistently. There are AI videos all over YouTube that don’t carry this and there’s never a good explanation. Every time I’ve asked them, it’s always just, “We’re working on it. It’s going to get there eventually,” whatever, or they ask for very specific examples and then run in and fix those while I’m like, “Okay, but if this is falling through the net, how can you stand by this as a standard and your own SynthID stuff? And you’re clearly using it to soothe concerns that people have despite its ineffectiveness.”\nThey don’t seem to be progressing any further than just presenting those labels probably because of what happened to Instagram, and now we’ve just got this situation where Meta does seem to be standing on the sidelines going, “Well, we tried, so let’s just see what someone else can do and maybe we’ll adopt it from there.” But YouTube doesn’t really want to address the slop problem because so much of YouTube content that’s shown to new people is now slop and it’s proven to be quite profitable for them.\nGoogle just had one of its best quarters ever. Neal Mohan, the CEO of YouTube, has been on the show in the past, and we will have him on the show again in the future. He announced at the top of the year that the future of YouTube is AI and they have features that they’ve announced like that creators can have AI versions of themselves do the sponsored content, so that the creators can do whatever that the creators actually want to do.\nThere’s a part of me that completely understands that. Yes, my digital avatar should go make the ads so I can make the content that the audience is actually here for. And there’s a part of me that says, “Oh, they’re never going to label anything,” because the second they start labeling that as AI-generated, which clearly will be, they will devalue it. And there’s something about that in the creative community with the audience that seems important.\nI know you’ve thought about this deeply. You’ve done some reporting here. What is it about the AI-generated label that makes everything devalued, that makes everybody so angry?\nI think it’s people trying to put a value on creativity itself. If I was looking at luxury handbags and I see that they’ve not paid a creative team—This is a creative company that makes wonderful products, it’s supposed to stand on the quality of all of the stuff that it sells you. If I find that you’re not involving creative personnel in making an ad for me to want to buy your handbag, why would I want to buy it in the first place?\nNot everyone will have that perspective, but as someone that worked in the creative industry for a long time, you see the work that goes into something, even if it’s something as laughable as a commercial. I love TV commercials because as annoying as they are and as much as they’re trying to get me to buy something, you can see the work that went into it, that someone had to write that story, had to get behind the film cameras, had to make the effects and all that kind of stuff.\nSo it feels like if you’re taking a shortcut to remove all of that, then you’re already cheapening the process yourself. I feel, from the conversations I’ve had with the other creatives, that the initial response of thinking AI looks cheap is because it’s meant to be cheap. That’s why it exists. It exists for efficiency and affordability. If you’re coming across with trying to sell me something on that, it’s probably not going to make the best first impression unless you make it utterly undetectable. And if you have a big “made with AI” or “assisted with AI” label on that, it’s no longer undetectable because even if I can’t see it, you’ve now just admitted that it’s there.\nThat’s a lot of mixed incentives for these platforms. And it occurs to me as we’ve been having this conversation, we’ve been kind of presuming a world in which everyone is a good-faith actor and trying to make good experiences for people. And I think a lot of the executives of these companies would love to presume that that is the world in which they operate, and whether or not the label makes people mad and you want to turn it off or whether or not you can trust the videos of significant government overreach and cause a protest, that’s still operating in a world of good faith.\nRight next to that is reality, the actual reality in which we live, where lots of people are bad-faith actors who are very much incentivized to create misinformation, to create disinformation, and some of those bad-faith actors at this moment in time are the United States government. The White House publishes AI photos all the time. Department of Homeland Security, AI-generated imagery, up, down, left, right, and center. You can just see AI manipulated photos of real people modified to look like they’re crying as they’re being arrested instead of what they actually looked like.\nThis is a big deal, right? This is a war on reality from literally the most powerful government in the history of the world. Are the platforms ready for that at all? Because they’re being faced with the problem, right? This is the stuff you should label. No one should be mad at you for labeling this, and they seem to be doing nothing. Why do you think that is?\nI think it’s because it’s the same process, right? What we’re talking about is a two-way street. You’ve got the people who want to identify AI slop, or maybe they don’t, but people want to be able to see what is and what isn’t AI, but then you’ve got the more insidious situation of, “We actually want to be able to tell what is real, but it unfortunately benefits too many people to make that confusing now.” The solution is for both. AI companies and platforms are profiting off of all of the stuff that they’re showing us and making it much more efficient for content creators to slap stuff in front of you.\nWe’re in a position now where there’s more online than we’ve ever seen because everything is being funneled out. Why would they want to harm that profit stream, effectively, by having to slam on the brakes of development until they can figure out how they are going to effectively be able to call out when deepfakes are proving to be a problem. The methods of being put in front of it, rather than setting up some kind of middle system like the Shutterstock model we discussed earlier, where all press images now have to come from one authority that has to verify the identity of everyone taking them. Maybe that’s a possibility, but we are so far from that point and, to my knowledge, no one’s instigated setting something like that up. So they’re just kind of relying on everyone talking about this in good faith.\nAgain, every conversation I’ve had with this is, “We’re working on it. It’s a slow process. We’re going to get there eventually. Oh, it was never designed to do all of this stuff anyway.” So it’s very blase and low effort really—”We’ve joined an initiative, what more do you want?” It’s incredibly frustrating, but that seems to be the reason that everything is not developing, because in order to develop any further, in order to actually help us, they would have to pause. They would have to stop and think about it, and they’re too busy running out every other tool and feature that they can think of doing because they have to. They have to keep their shareholders happy. They have to keep us as consumers happy while also saying, “Ignore everything else that’s going on in the background.”\nWhen I say there’s mixed incentives here, one of the things that really gets me is that the biggest companies investing in AI are also the biggest distributors of information. They’re the people who run the social platforms. So Google obviously has massive investments in AI. They run YouTube. Meta has massive investments in AI, to what end unclear, but massive investments in AI. They run Instagram and Facebook and WhatsApp and the rest.\nJust down the line, you can see, “Okay, Elon Musk is going to spend tons of money in xAI and he runs Twitter.” And this is a big problem, right? If your business, your money and your free cash flow is generated by the time people are spending on your platforms and then you’re plowing those profits back into AI, you can’t undercut the thing you’re spending the R&D money on by saying, “We’re going to label it and make it seem bad.”\nAre there any platforms that are doing it, that are saying, “Hey, we’re going to promise you that everything you see here is real?” Because it seems like a competitive opportunity.\nVery small. There’s an artist platform called Cara, which says that they’re so for supporting artists that they’re not going to allow any AI-generated artwork on the site, but they haven’t really clearly communicated how they are going to do that, because saying it is one thing and doing it is another thing entirely. \nThere are a million reasons why we don’t have a reliable detection method at the minute. So if I, in complete good faith, pretend to be an artist that’s just feeding AI-generated images onto that platform, there’s very little they can really do about it. Anyone that’s making those statements saying, “Yeah, we’re going to stand on merit and we’re going to keep AI off of the platform,” well how? They can’t. The systems for doing so at the minute are being developed by AI providers, as we’ve said, or at least AI providers are deeply involved with a lot of these systems and there is no guarantee for any of it. \nSo we’re still relying on how humans intercept this information to be able to tell people how much of what they can see is trustworthy. That’s still kind of putting the onus on us as people. It’s, “Well, we can give you a mishmash of information and then you decide whether it’s reliable or not.” And we haven’t operated in that way as a society for years. People didn’t read the newspapers to make their own mind up about stuff. They wanted information and facts, and now they can’t get that.\nIs there user demand for this? This does seem like the incentive that will work. If enough people say, “Hey, I don’t know if I can trust what I see. You have to help me out here, make this better,” would that push the platforms into labeling? \nBecause it seems like the breakdown is at the platform level, right? The platforms are not doing enough to showcase even the data they have, let alone demand more. But it also seems like the users could simply say, “Hey, the comment section of every photo in the world now is just an argument about whether or not this is AI. Can you help us out?” Would that push them into improvement?\nI would like to think it would push them into at least being more vocal about their involvement at the minute. We’ve got, again, a two-sided thing. At the minute, you can’t tell if a photo is real, but also, a less nefarious thing is that Pinterest is now unusable. As a creative, if I want to use the platform Pinterest, I cannot tell what is and what isn’t AI. I mean I can, but a lot of people won’t be able to. And there is so much demand for a filter for that website just to be able to go, “I don’t want any of this, please don’t show me anything that’s generated by AI.” That hasn’t happened yet. They’ve done a lot of other stuff on it, but they’re involved with the process behind developing these systems.\nIt’s kind of more the problem that they’ve set themselves an impossible task. In order to use any of the systems that we’ve established so far, you need to be best friends with every AI provider on the planet, which isn’t going to happen because we’ve got nefarious third-party things that focus entirely on stuff like nudifying people or a deepfake generation entirely. This isn’t OpenAI or the big name models, but they exist and they’re usually what’s used to do this kind of underground activity. They’re not going to be on board with it. So you can’t make bold promises about resolving the problem universally when there is no solution at hand at the minute.\nWhen you talk to the industry, when I hear from the industry, it is the drumbeat that you’ve mentioned several times. “Look, it’s going to get better. It’s going to be slow. Every standard is slow. You have to give it time.” It sounds like you don’t necessarily believe that. You think that this has already failed. Explain that. Do you think this has already failed?\nYeah, I would say this has failed. I think this has failed for what has been presented to us because what C2PA was for and what companies have been using it for are two different things to me. C2PA came about as a … I will give Adobe its credit because Adobe’s done a lot of work from this. And the stuff it was meant to do was, if you are a creative person, this system will help you prove that you made a thing and how you made a thing. And that has benefit. I see that being used in that context every day. But then a lot of other companies got involved with that and said, “Cool, we’re going to use this as our AI safeguard basically. We’re using this system and it’ll tell you, when you post it somewhere else, whether it’s got AI involved with it, which means that we’re the good guys because we’re doing something.”\nAnd that’s what I have a problem with. Because C2PA has never stood up and said, “We are going to fix this for you.” A lot of companies came on board and went, “Well, we’re using this and this is going to fix it for you when it works.” And that’s an impossible task. It’s just not going to happen. If we’re thinking about adopting this platform, just this platform, even in conjunction with stuff like SynthID or inference methods, it’s never going to be an ultimate solution, so I would say resting the pressure on “We have to have AI detection and labeling,” it’s failed. It’s dead in the water. It’s never going to get to a universal solution.\nThat doesn’t mean it’s not going to help. If they can figure out a way to effectively communicate all of this metadata and robustly keep it in check, make sure it’s not being removed at every instance of being uploaded, then yeah, there’ll be some platforms where we’ll be able to see if something was maybe generated by the eye or maybe it was a verified creator badge, something, whatever Mosseri is talking about where we’re going to have to start verifying photographers through metadata and all of this other information, but there is not going to be a point in the next three, five years where we sign on and go, “I can now tell what’s real and what’s not because of C2PA.” That’s never going to happen.\nIt does seem like these platforms, maybe modernity as we experience it today, have been built on, “You can trust the things that come off these phones.” You can just see it over and over and over again. Social movements rise and fall based on whether or not you can trust the things that phones generate. And if you destabilize that, you’re going to have to build all kinds of other systems. I’m not sure if C2PA is it. I’m sure we will hear from the C2PA folks. I’m sure we will hear from Adam and from Neal and the other platform owners on Decoder. Again, we’ve invited everybody on.\nWhat do you think the next turn here is? Because the pressure is not going to relent. What’s the next thing that could happen?\nFrom this turn of events, there’s probably going to be some kind of regulatory effort. There’s going to be some kind of legal involvement, because up until this point, there have been murmurs of how we’re going to regulate stuff, like with the Online Safety Act in the UK. Everything is now pointing toward, “Hey, AI is making a lot of deepfakes of people that we don’t like and we should probably talk about having rules in place for that.”\nBut up until that point, these companies have basically been enacting systems that are supposed to help us out of the goodness of their heart: “Oh, we’ve spotted that this is actually a concern and we’re going to be doing this.” But they haven’t been putting any real effort into doing so. Otherwise, again, we would have some kind of solution by now where we would see some sort of widespread results at the very least. It would involve working together, having widespread communications, and that’s supposed to be happening with the CAI, with the initiative that everyone else is currently involved with. There are no results. We are not seeing them.\nInstagram made a bold effort over a year ago to stick labels on and then immediately ran back with its tail between its legs. So unless regulatory efforts actually come in clamping down on these companies and saying, “Okay, we actually now have to dictate what your models are allowed to do and what we are going to have repercussions for you if we find out what your models are doing and not supposed to be doing,” that is the next stage. We have to have this as a conjunction. I think that will be beneficial in terms of having that with labeling, with metadata tagging and stuff. But alone, there is never going to be a perfect solution to this.\nWell, sadly, Jess, I always cut off Decoder episodes when they veer into explaining the regulatory process to the European Union. That’s just a hard rule on the show, but it does seem like that’s going to happen and it seems like the platforms themselves are going to have to react to how their users are behaving.\nYou’re going to keep covering this stuff. I find it fascinating how deep into this world you’ve gotten starting from, “Hey, we should pay more attention to these tools,” and now here we are at “Can you label reality into existence?” Jess, thank you so much for being on Decoder.\nThank you.\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-02-05T15:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Heute werden wir über die Realität sprechen und darüber, ob wir Fotos und Videos kennzeichnen können, um unser gemeinsames Verständnis der Welt um uns herum zu schützen. Nein wirklich, wir werden dorthin gehen. Es ist eine tiefe Angelegenheit. Zu diesem Zweck werde ich die Verge-Reporterin Jess Weatherbed engagieren, die uns über kreative Tools berichtet – ein Sp...",
+    "titleDE": "Die Realität verliert den Deepfake-Krieg"
+  },
+  {
+    "title": "ElevenLabs CEO: Voice is the next interface for AI",
+    "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
+    "description": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.",
+    "pubDate": "2026-02-05T14:41:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der CEO von ElevenLabs argumentierte auf dem Web Summit Qatar, dass Sprache die nächste Schnittstelle für KI sei, da OpenAI, Google und Apple Konversationssysteme in Wearables, neue Hardware und alltägliche Interaktionen integrieren.",
+    "titleDE": "CEO von ElevenLabs: Stimme ist die nächste Schnittstelle für KI"
+  },
+  {
+    "title": "Watch our new Gemini ad ahead of football’s biggest weekend",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+    "description": "Learn more about Google’s new ad that will run during football’s Big Game on February 8.",
+    "pubDate": "2026-02-05T14:30:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie mehr über die neue Anzeige von Google, die während des Fußball-Big Game am 8. Februar geschaltet wird.",
+    "titleDE": "Sehen Sie sich vor dem größten Fußballwochenende unsere neue Gemini-Werbung an"
+  },
+  {
+    "title": "Increase of AI bots on the Internet sparks arms race",
+    "link": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+    "description": "Publishers are rolling out more aggressive defenses.",
+    "pubDate": "2026-02-05T14:21:20.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Verlage führen aggressivere Abwehrmaßnahmen ein.",
+    "titleDE": "Die Zunahme von KI-Bots im Internet löst ein Wettrüsten aus"
+  },
+  {
+    "title": "OpenAI Frontier is a single platform to control your AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management",
+    "description": "Managing humans is hard. Managing AI agents is… also hard. That's why OpenAI is launching a new platform called OpenAI Frontier, which it says will help businesses \"build, deploy, and manage\" AI agents, even those not made by OpenAI itself. \nOpenAI's description of Frontier sounds something like HR for AI. \"Frontier gives agents the same skills people need to succeed at work: shared context, onboarding, hands-on learning with feedback, and clear permissions and boundaries,\" OpenAI wrote in a blog post. The similarity makes sense: OpenAI said the product was inspired \"by looking at how enterprises already scale people.\"\nFrontier is availabl …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-05T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Umgang mit Menschen ist schwierig. Die Verwaltung von KI-Agenten ist… ebenfalls schwierig. Aus diesem Grund bringt OpenAI eine neue Plattform namens OpenAI Frontier auf den Markt, die Unternehmen dabei helfen soll, KI-Agenten zu „bauen, bereitzustellen und zu verwalten“, auch solche, die nicht von OpenAI selbst hergestellt wurden. OpenAIs Beschreibung von Frontier klingt in etwa wie HR f...",
+    "titleDE": "OpenAI Frontier ist eine einzige Plattform zur Steuerung Ihrer KI-Agenten"
+  },
+  {
+    "title": "The Download: attempting to track AI, and the next generation of nuclear power",
+    "link": "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This is the most misunderstood graph in AI Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an…",
+    "pubDate": "2026-02-05T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Dies ist das am meisten missverstandene Diagramm in der KI. Jedes Mal, wenn OpenAI, Google oder Anthropic ein neues, bahnbrechendes großes Sprachmodell veröffentlichen, hält die KI-Community den Atem an. ICH...",
+    "titleDE": "Der Download: Versuch, KI und die nächste Generation der Atomkraft zu verfolgen"
+  },
+  {
+    "title": "Three questions about next-generation nuclear power, answered",
+    "link": "https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/",
+    "description": "Nuclear power continues to be one of the hottest topics in energy today, and in our recent online Roundtables discussion about next-generation nuclear power, hyperscale AI data centers, and the grid, we got dozens of great audience questions. These ran the gamut, and while we answered quite a few (and I’m keeping some in mind…",
+    "pubDate": "2026-02-05T11:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Kernenergie ist auch heute noch eines der heißesten Energiethemen, und in unserer jüngsten Online-Roundtable-Diskussion über Kernenergie der nächsten Generation, Hyperscale-KI-Rechenzentren und das Stromnetz haben wir Dutzende großartiger Fragen aus dem Publikum erhalten. Diese deckten die gesamte Bandbreite ab, und obwohl wir einige beantwortet haben (ein...",
+    "titleDE": "Drei Fragen zur Kernenergie der nächsten Generation beantwortet"
+  },
+  {
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+    "pubDate": "2026-02-05T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Ein autonomes Labor, das GPT-5 von OpenAI mit der Cloud-Automatisierung von Ginkgo Bioworks kombiniert, senkte die Kosten für die zellfreie Proteinsynthese durch Experimente im geschlossenen Regelkreis um 40 %.",
+    "titleDE": "GPT-5 senkt die Kosten der zellfreien Proteinsynthese"
+  },
+  {
+    "title": "This is the most misunderstood graph in AI",
+    "link": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an AI…",
+    "pubDate": "2026-02-05T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "MIT Technology Review erklärt: Lassen Sie unsere Autoren die komplexe, chaotische Welt der Technologie entwirren, damit Sie besser verstehen, was als nächstes kommt. Mehr aus der Serie können Sie hier lesen. Jedes Mal, wenn OpenAI, Google oder Anthropic ein neues, bahnbrechendes großes Sprachmodell veröffentlichen, hält die KI-Community den Atem an. Es ...",
+    "titleDE": "Dies ist das am meisten missverstandene Diagramm in der KI"
+  },
+  {
+    "title": "Introducing Trusted Access for Cyber",
+    "link": "https://openai.com/index/trusted-access-for-cyber",
+    "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+    "pubDate": "2026-02-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI führt Trusted Access for Cyber ​​ein, ein vertrauensbasiertes Framework, das den Zugang zu Grenz-Cyber-Funktionen erweitert und gleichzeitig den Schutz vor Missbrauch stärkt.",
+    "titleDE": "Einführung von Trusted Access für Cyber"
+  },
+  {
+    "title": "Introducing OpenAI Frontier",
+    "link": "https://openai.com/index/introducing-openai-frontier",
+    "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+    "pubDate": "2026-02-05T06:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI Frontier ist eine Unternehmensplattform zum Erstellen, Bereitstellen und Verwalten von KI-Agenten mit gemeinsamem Kontext, Onboarding, Berechtigungen und Governance.",
+    "titleDE": "Einführung von OpenAI Frontier"
+  },
+  {
     "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
     "link": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
     "description": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
@@ -8,6 +308,26 @@
     "category": "news",
     "descriptionDE": "Er veröffentlichte eine Schimpftirade im Umfang einer Novelle, die dazu führte, dass er seinen Rivalen als „unehrlich“ und „autoritär“ bezeichnete.",
     "titleDE": "Sam Altman wurde wegen der Claude-Super-Bowl-Werbung außerordentlich gereizt"
+  },
+  {
+    "title": "GPT-5.3-Codex System Card",
+    "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "pubDate": "2026-02-05T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "GPT-5.3-Codex ist das bisher leistungsfähigste Agenten-Codierungsmodell und kombiniert die bahnbrechende Codierungsleistung von GPT-5.2-Codex mit den Argumentations- und Fachwissensfähigkeiten von GPT-5.2.",
+    "titleDE": "GPT-5.3-Codex-Systemkarte"
+  },
+  {
+    "title": "Introducing GPT-5.3-Codex",
+    "link": "https://openai.com/index/introducing-gpt-5-3-codex",
+    "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+    "pubDate": "2026-02-05T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "GPT-5.3-Codex ist ein Codex-nativer Agent, der bahnbrechende Codierungsleistung mit allgemeinen Überlegungen kombiniert, um langfristige, reale technische Arbeiten zu unterstützen.",
+    "titleDE": "Einführung von GPT-5.3-Codex"
   },
   {
     "title": "Navigating health questions with ChatGPT",
@@ -160,16 +480,6 @@
     "titleDE": "GitHub fügt die Coding-Agenten Claude und Codex AI hinzu"
   },
   {
-    "title": "Roblox’s 4D creation feature is now available in open beta",
-    "link": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
-    "description": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta.",
-    "pubDate": "2026-02-04T17:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die mit Spannung erwartete 4D-Erstellungsfunktion von Roblox ist offiziell in der offenen Beta angekommen.",
-    "titleDE": "Die 4D-Erstellungsfunktion von Roblox ist jetzt in der offenen Betaversion verfügbar"
-  },
-  {
     "title": "The latest AI news we announced in January",
     "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
     "description": "Google AI announcements from January",
@@ -178,26 +488,6 @@
     "category": "news",
     "descriptionDE": "Google AI-Ankündigungen vom Januar",
     "titleDE": "Die neuesten KI-Neuigkeiten, die wir im Januar angekündigt haben"
-  },
-  {
-    "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-    "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-    "description": "ElevenLabs' valuation has raised more than three times in the last 12 months.",
-    "pubDate": "2026-02-04T15:33:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Bewertung von ElevenLabs ist in den letzten 12 Monaten mehr als dreimal gestiegen.",
-    "titleDE": "ElevenLabs sammelt 500 Millionen US-Dollar von Sequoia bei einer Bewertung von 11 Milliarden US-Dollar"
-  },
-  {
-    "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the US",
-    "link": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
-    "description": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.",
-    "pubDate": "2026-02-04T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Amazon öffnet Alexa+ für alle in den USA. Die KI-Funktion ist für Prime-Mitglieder auf allen Geräten kostenlos und für alle auf Mobilgeräten und im Internet kostenlos.",
-    "titleDE": "Alexa+, der KI-Assistent von Amazon, ist jetzt für alle in den USA verfügbar"
   },
   {
     "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
@@ -220,33 +510,13 @@
     "titleDE": "Der Download: Die Zukunft der Kernkraftwerke und der durch soziale Medien angeheizte KI-Hype"
   },
   {
-    "title": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt",
-    "description": "Anthropic has announced that it won't be bringing ads to its AI chatbot Claude, in sharp contrast to confirmed plans from OpenAI to allow advertising in ChatGPT. To hammer the point home further, the company is releasing a Super Bowl commercial that makes fun of unnamed rivals adding adverts to their AI.\n\"We want Claude to act unambiguously in our users' interests,\" the company says in a new blog post. \"So we've made a choice: Claude will remain ad-free. Our users won't see 'sponsored' links adjacent to their conversations with Claude; nor will Claude's responses be influenced by advertisers or include third-party product placements our use …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-04T13:09:50.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Anthropic hat angekündigt, keine Anzeigen für seinen KI-Chatbot Claude bereitzustellen, was im krassen Gegensatz zu den bestätigten Plänen von OpenAI steht, Werbung in ChatGPT zuzulassen. Um den Punkt noch deutlicher zu verdeutlichen, veröffentlicht das Unternehmen einen Super Bowl-Werbespot, der sich über namenlose Rivalen lustig macht, die ihren Werbespots Werbung hinzufügen …",
-    "titleDE": "Anthropic sagt, dass „Claude im Gegensatz zu ChatGPT werbefrei bleiben wird“."
-  },
-  {
-    "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
-    "link": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
-    "description": "Fibr AI replaces marketing agency- and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
-    "pubDate": "2026-02-04T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Fibr AI ersetzt die von Marketingagenturen und der Technik aufwändige Website-Personalisierung durch autonome Systeme, die für den Unternehmensmaßstab konzipiert sind.",
-    "titleDE": "Accel setzt verstärkt auf Fibr AI, da Agenten statische Websites in Eins-zu-eins-Erlebnisse verwandeln"
-  },
-  {
     "title": "Unlocking the Codex harness: how we built the App Server",
     "link": "https://openai.com/index/unlocking-the-codex-harness",
     "description": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
     "pubDate": "2026-02-04T13:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie den Codex-Agenten mithilfe des Codex App Server einbetten, einer bidirektionalen JSON-RPC-API, die den Streaming-Fortschritt, die Tool-Nutzung, Genehmigungen und Unterschiede unterstützt.",
+    "descriptionDE": "Erfahren Sie, wie Sie den Codex-Agenten mit dem Codex App Server einbetten, einer bidirektionalen JSON-RPC-API, die den Streaming-Fortschritt, die Tool-Nutzung, Genehmigungen und Unterschiede unterstützt.",
     "titleDE": "Das Codex-System freischalten: Wie wir den App-Server erstellt haben"
   },
   {
@@ -258,26 +528,6 @@
     "category": "news",
     "descriptionDE": "Einige halb aus den Fugen geratene Überlegungen darüber, wo LLMs in mein Leben passen – und wie ich sie weiterhin nutzen werde.",
     "titleDE": "Also ja, ich habe einen Log-Colorizer mit Vibe-Code versehen – und ich fühle mich gut dabei"
-  },
-  {
-    "title": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
-    "link": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
-    "description": "Sen. Elizabeth Warren (D-MA) is pressing Google for more information about its plans to build a checkout feature into its Gemini AI chatbot. In a letter to Google CEO Sundar Pichai, Warren expresses concerns that the integration could allow Google and retailers \"to exploit sensitive user data\" or \"manipulate consumers into spending more and paying higher prices.\"\nLast month, Google announced that it will soon allow users to buy products directly within Gemini through the Universal Commerce Protocol (UCP), a standard it developed in partnership with Shopify, Target, Walmart, Wayfair, and Etsy. The UCP is supposed to make it easier for AI age …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-04T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Senatorin Elizabeth Warren (D-MA) drängt Google auf weitere Informationen zu seinen Plänen, eine Checkout-Funktion in seinen Gemini AI-Chatbot zu integrieren. In einem Brief an Sundar Pichai, CEO von Google, äußert Warren Bedenken, dass die Integration es Google und Einzelhändlern ermöglichen könnte, „sensible Benutzerdaten auszunutzen“ oder „...",
-    "titleDE": "Senator Warren möchte wissen, was der integrierte Checkout von Google Gemini für die Privatsphäre der Nutzer bedeutet"
-  },
-  {
-    "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
-    "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
-    "description": "The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.",
-    "pubDate": "2026-02-04T08:18:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Investition kommt von Geldgebern wie der Qatar Investment Authority, da die Nachfrage nach Chips über Nvidia hinaus steigt und Katar den Ausbau seiner KI-Infrastruktur anstrebt.",
-    "titleDE": "Exklusiv: Positron sammelt 230 Millionen US-Dollar in der Serie B, um es mit den KI-Chips von Nvidia aufzunehmen"
   },
   {
     "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
@@ -298,96 +548,6 @@
     "category": "news",
     "descriptionDE": "Zwei KI-Giganten erschüttern das Marktvertrauen, nachdem Investitionen ausbleiben.",
     "titleDE": "Nvidias 100-Milliarden-Dollar-OpenAI-Deal ist scheinbar verschwunden"
-  },
-  {
-    "title": "Intel will start making GPUs, a market dominated by Nvidia ",
-    "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
-    "description": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
-    "pubDate": "2026-02-03T21:01:34.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Intel hat ein Team zusammengestellt, das sich auf diese Bemühungen konzentrieren soll, und wird seine GPU-Strategie entsprechend den Kundenbedürfnissen entwickeln.",
-    "titleDE": "Intel wird mit der Herstellung von GPUs beginnen, ein Markt, der von Nvidia dominiert wird"
-  },
-  {
-    "title": "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says",
-    "link": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
-    "description": "On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion. The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space. \nAI relies on \"large terrestrial data centers\" that run on \"immense amounts of power and cooling,\" he said, which comes at great expense to the environment and community opposition. The solution: data centers in space. \"In the long term, space-based AI is obviously the only way to scale,\" Musk said.\nMusk isn't the only one looking to launch data centers into orbit. Google has Project Suncatcher to build solar- …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-03T21:01:03.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Am Montag gab Elon Musk bekannt, dass er zwei seiner Unternehmen, SpaceX und xAI, in einem Deal im Wert von angeblich 1,25 Billionen US-Dollar fusionieren werde. Der Grund, sagte Musk in einer Ankündigung, sei, dass die KI, damit sie wachsen könne, in den Weltraum fliegen müsse. KI setzt auf „große terrestrische Rechenzentren“, die auf „immensen...“ laufen.",
-    "titleDE": "Elon Musk fusioniert SpaceX und xAI, um Rechenzentren im Weltraum zu bauen – so sagt er zumindest"
-  },
-  {
-    "title": "Microsoft says it’s building an app store for AI content licensing",
-    "link": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
-    "description": "Microsoft says it is working on the Publisher Content Marketplace (PCM), an AI licensing hub that shows usage terms set by publishers. That way, AI companies can easily shop the terms and set up deals to use online content for \"grounding\" their AI models, while the content owners get usage-based reporting to help set prices.\nMicrosoft says it's been codesigning PCM with companies including Verge parent Vox Media, The Associated Press, Condé Nast, People, and others. The AI boom has been largely fueled by content ingested without payment, and many of the previously mentioned publishers have filed lawsuits and/or arranged content licensing de …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-03T20:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Microsoft gibt an, am Publisher Content Marketplace (PCM) zu arbeiten, einem KI-Lizenzierungs-Hub, der von Herausgebern festgelegte Nutzungsbedingungen anzeigt. Auf diese Weise können KI-Unternehmen problemlos die Bedingungen einsehen und Angebote für die Nutzung von Online-Inhalten zur „Erdung“ ihrer KI-Modelle abschließen, während die Inhaltseigentümer nutzungsbasierte Informationen erhalten.",
-    "titleDE": "Microsoft gibt bekannt, dass es einen App Store für die Lizenzierung von KI-Inhalten aufbaut"
-  },
-  {
-    "title": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
-    "link": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
-    "description": "Apple is building OpenAI and Anthropic's AI-powered coding agents directly into Xcode. New integrations in Xcode 26.3 will give developers the ability to call upon Anthropic's Claude Agent and OpenAI's Codex to write and edit code, update project settings, search documentation, and more.\nXcode is the software developers can use to create and test apps for the iPhone, Mac, iPad, Apple Watch, and Apple TV. Both Claude and ChatGPT were previously available inside Xcode, but this latest update will allow AI agents to take action inside the app, rather than just provide coding assistance. \nApple is also making Xcode available through the Model  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-03T19:04:09.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apple baut die KI-gestützten Programmieragenten von OpenAI und Anthropic direkt in Xcode ein. Neue Integrationen in Xcode 26.3 geben Entwicklern die Möglichkeit, auf Anthropics Claude Agent und OpenAIs Codex zurückzugreifen, um Code zu schreiben und zu bearbeiten, Projekteinstellungen zu aktualisieren, Dokumentation zu durchsuchen und mehr. Xcode ist d...",
-    "titleDE": "Apples Xcode fügt die Coding-Agenten von OpenAI und Anthropic hinzu"
-  },
-  {
-    "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
-    "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
-    "description": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
-    "pubDate": "2026-02-03T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Xcode 26.3 bietet Agenten-Codierungsfunktionen mit Claude Agent von Anthropic und Codex von OpenAI.",
-    "titleDE": "Xcode geht mit tieferen OpenAI- und Anthropic-Integrationen in die Agentencodierung über"
-  },
-  {
-    "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-    "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
-    "description": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
-    "pubDate": "2026-02-03T17:14:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dieser KI-Arzt sei in allen 50 Bundesstaaten zugelassen, sagt das Startup. Der Deal wurde von CRV und Kleiner Perkins geleitet.",
-    "titleDE": "Lotus Health erhält 35 Millionen US-Dollar für einen KI-Arzt, der Patienten kostenlos behandelt"
-  },
-  {
-    "title": "French police raid X&#8217;s Paris office as UK investigation continues",
-    "link": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation",
-    "description": "A raid on X's Paris office was carried out by the Paris prosecutor's cybercrime unit on Tuesday with Europol and French police as part of an ongoing investigation that expanded in July to include Grok. As previously reported by Reuters, Elon Musk and former X CEO Linda Yaccarino were also summoned for hearings in April. \nThe investigation, which was initially launched last year, is looking into several allegations against X and Grok, including complicity in possession and distribution of child pornography and denial of crimes against humanity (related to Holocaust denial content), along with claims that X was manipulating its algorithm and  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-03T17:10:33.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Am Dienstag führte die Abteilung für Cyberkriminalität der Pariser Staatsanwaltschaft gemeinsam mit Europol und der französischen Polizei eine Razzia im Pariser Büro von Wie bereits von Reuters berichtet, wurden Elon Musk und die frühere X-CEO Linda Yaccarino ebenfalls vorgeladen...",
-    "titleDE": "Die französische Polizei durchsucht das Pariser Büro von X, während die britischen Ermittlungen andauern"
-  },
-  {
-    "title": "Fitbit founders launch AI platform to help families monitor their health",
-    "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
-    "description": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
-    "pubDate": "2026-02-03T15:53:36.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Luffu nutzt KI im Hintergrund, um Familieninformationen zu sammeln und zu organisieren, alltägliche Muster zu lernen und bemerkenswerte Veränderungen zu kennzeichnen, damit Familien auf dem Laufenden bleiben und potenzielle Probleme mit dem Wohlbefinden angehen können.",
-    "titleDE": "Die Gründer von Fitbit starten eine KI-Plattform, um Familien bei der Überwachung ihrer Gesundheit zu unterstützen"
-  },
-  {
-    "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
-    "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
-    "description": "Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.",
-    "pubDate": "2026-02-03T14:14:33.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Peak",
-    "titleDE": "Laut Peak"
   },
   {
     "title": "The Download: squeezing more metal out of aging mines, and AI’s truth crisis",
@@ -416,7 +576,7 @@
     "pubDate": "2026-02-03T10:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "In einem Kiefernwald auf der oberen Halbinsel von Michigan nähert sich die einzige aktive Nickelmine der USA dem Ende ihrer Lebensdauer. Zu einer Zeit, in der Automobilhersteller das Metall für Batterien von Elektrofahrzeugen benötigen, sinkt die Nickelkonzentration in der Eagle Mine und könnte bald so weit sinken, dass eine Ausgrabung nicht mehr gerechtfertigt ist. Aber früher...",
+    "descriptionDE": "In einem Kiefernwald auf der oberen Halbinsel von Michigan nähert sich die einzige aktive Nickelmine der USA dem Ende ihrer Lebensdauer. Zu einer Zeit, in der Automobilhersteller das Metall für Elektrofahrzeugbatterien benötigen, sinkt die Nickelkonzentration in der Eagle Mine und könnte bald so weit sinken, dass eine Ausgrabung nicht mehr gerechtfertigt ist. Aber früher...",
     "titleDE": "Mikroben könnten das für Cleantech benötigte Metall extrahieren"
   },
   {
@@ -428,16 +588,6 @@
     "category": "news",
     "descriptionDE": "Entdecken Sie die Sora-Feed-Philosophie – entwickelt, um Kreativität anzuregen, Verbindungen zu fördern und Erlebnisse mit personalisierten Empfehlungen, Kindersicherung und starken Leitplanken zu schützen.",
     "titleDE": "Die Sora-Futterphilosophie"
-  },
-  {
-    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
-    "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
-    "description": "The merger creates the world's most valuable private company and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
-    "pubDate": "2026-02-02T22:21:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Durch den Zusammenschluss entsteht das wertvollste Privatunternehmen der Welt und ebnet Musk den Weg, den Nutzen weltraumgestützter Rechenzentren unter Beweis zu stellen.",
-    "titleDE": "SpaceX von Elon Musk erwirbt offiziell xAI von Elon Musk und plant den Bau von Rechenzentren im Weltraum"
   },
   {
     "title": "Notepad++ users take note: It's time to check if you're hacked",
@@ -490,26 +640,6 @@
     "titleDE": "Der entscheidende erste Schritt für die Gestaltung eines erfolgreichen Unternehmens-KI-Systems"
   },
   {
-    "title": "The Download: inside a deepfake marketplace, and EV batteries’ future",
-    "link": "https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the marketplace powering bespoke AI deepfakes of real women Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files…",
-    "pubDate": "2026-02-02T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Auf dem Marktplatz, der maßgeschneiderte KI-Deepfakes von echten Frauen ermöglicht Civitai – ein Online-Marktplatz für den Kauf und Verkauf von KI-generierten Inhalten, unterstützt vom Unternehmen …",
-    "titleDE": "Der Download: Ein Deepfake-Marktplatz und die Zukunft von Elektrofahrzeugbatterien"
-  },
-  {
-    "title": "What’s next for EV batteries in 2026",
-    "link": "https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/",
-    "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Demand for electric vehicles and the batteries that power them has never been hotter. In 2025, EVs made up over a quarter of new vehicle sales globally,…",
-    "pubDate": "2026-02-02T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die „What’s Next“-Reihe des MIT Technology Review befasst sich mit Branchen, Trends und Technologien, um Ihnen einen ersten Blick in die Zukunft zu geben. Den Rest können Sie hier lesen. Die Nachfrage nach Elektrofahrzeugen und den Batterien, die sie antreiben, war noch nie so groß. Im Jahr 2025 machten Elektrofahrzeuge über ein Viertel der Neufahrzeuge aus...",
-    "titleDE": "Was kommt als nächstes für EV-Batterien im Jahr 2026?"
-  },
-  {
     "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
     "link": "https://openai.com/index/snowflake-partnership",
     "description": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
@@ -548,75 +678,5 @@
     "category": "news",
     "descriptionDE": "Ars sprach mit mehreren Softwareentwicklern über KI und stellte fest, dass die Begeisterung durch Unbehagen gedämpft wurde.",
     "titleDE": "Entwickler sagen, dass KI-Codierungstools funktionieren – und genau das macht ihnen Sorgen"
-  },
-  {
-    "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
-    "link": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
-    "description": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity deepfakes. Some of these files were specifically designed to make pornographic images banned by the site, a new analysis has found. The study, from researchers at Stanford and Indiana…",
-    "pubDate": "2026-01-30T16:32:31.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Civitai – ein Online-Marktplatz für den Kauf und Verkauf von KI-generierten Inhalten, der von der Risikokapitalgesellschaft Andreessen Horowitz unterstützt wird – ermöglicht Benutzern den Kauf benutzerdefinierter Anleitungsdateien zum Generieren von Promi-Deepfakes. Einige dieser Dateien wurden speziell entwickelt, um pornografische Bilder zu erstellen, die von der... verboten wurden.",
-    "titleDE": "Auf dem Marktplatz, der maßgeschneiderte KI-Deepfakes von echten Frauen ermöglicht"
-  },
-  {
-    "title": "The Download: US immigration agencies’ AI videos, and inside the Vitalism movement",
-    "link": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DHS is using Google and Adobe AI to make videos The news: The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared…",
-    "pubDate": "2026-01-30T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Das DHS nutzt KI von Google und Adobe, um Videos zu erstellen. Die Neuigkeit: Das US-Heimatschutzministerium nutzt KI-Videogeneratoren von Google und Adobe, um Videos zu erstellen und zu bearbeiten.",
-    "titleDE": "Der Download: KI-Videos der US-Einwanderungsbehörden und Einblicke in die Vitalismus-Bewegung"
-  },
-  {
-    "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
-    "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
-    "description": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began.",
-    "pubDate": "2026-01-29T18:30:52.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die Einigung erfolgt mehr als sechs Jahre nach Beginn der Tortur von Gary DeMercurio und Justin Wynn.",
-    "titleDE": "Der Landkreis zahlt 600.000 US-Dollar an Penetrationstester, die er verhaftet hat, weil er die Sicherheit des Gerichtsgebäudes überprüft hat"
-  },
-  {
-    "title": "Project Genie: Experimenting with infinite, interactive worlds",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-    "description": "Google AI Ultra subscribers in the U.S. can now try out Project Genie.",
-    "pubDate": "2026-01-29T17:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Abonnenten von Google AI Ultra in den USA können Project Genie jetzt ausprobieren.",
-    "titleDE": "Project Genie: Experimentieren mit unendlichen, interaktiven Welten"
-  },
-  {
-    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-    "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
-    "description": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
-    "pubDate": "2026-01-29T15:19:56.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Wir haben keinen Beweis dafür, dass KI-Modelle leiden, aber Anthropic verhält sich zu Trainingszwecken so.",
-    "titleDE": "Glaubt Anthropic, dass seine KI bei Bewusstsein ist, oder will es, dass Claude genau das denkt?"
-  },
-  {
-    "title": "Hear more about interactive world models in our latest podcast.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/",
-    "description": "The latest episode of the Google AI: Release Notes podcast focuses on Genie 3, a real-time, interactive world model. Host Logan Kilpatrick chats with Diego Rivas, Shlomi…",
-    "pubDate": "2026-01-29T15:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Die neueste Folge des Google AI: Release Notes-Podcasts konzentriert sich auf Genie 3, ein interaktives Echtzeit-Weltmodell. Moderator Logan Kilpatrick unterhält sich mit Diego Rivas, Shlomi…",
-    "titleDE": "Erfahren Sie mehr über interaktive Weltmodelle in unserem neuesten Podcast."
-  },
-  {
-    "title": "Inside OpenAI’s in-house data agent",
-    "link": "https://openai.com/index/inside-our-in-house-data-agent",
-    "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-    "pubDate": "2026-01-29T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wie OpenAI einen internen KI-Datenagenten entwickelt hat, der GPT-5, Codex und Speicher nutzt, um riesige Datensätze zu analysieren und innerhalb von Minuten zuverlässige Erkenntnisse zu liefern.",
-    "titleDE": "Im internen Datenagenten von OpenAI"
   }
 ]
