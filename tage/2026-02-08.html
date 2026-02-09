@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Sonntag, 8. Februar 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Sonntag, 8. Februar 2026</h1>
+  <p class="subtitle">5 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game" target="_blank" rel="noopener">Super Bowl LX-Werbung: Alles KI, alles</a></h2><p class="news-description">Der Super Bowl LX steht vor der Tür und die Seattle Seahawks treten gegen die New England Patriots an. Während Bad Bunny der Star der Halbzeitshow sein wird, könnte KI der Star der Werbeunterbrechungen sein, ähnlich wie Krypto vor ein paar Jahren. Beim letztjährigen Super Bowl gab es eine Google Gemini-Anzeige, die ein Go verfälschte...</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry" target="_blank" rel="noopener">New York erwägt zwei Gesetzesentwürfe, um die KI-Branche einzudämmen</a></h2><p class="news-description">KI-Rechenzentren werden zu einem überparteilichen Anliegen. | Bild: Microsoft Der Gesetzgeber des Bundesstaates New York wird voraussichtlich zwei Gesetzesentwürfe prüfen, die Kennzeichnungen für KI-generierte Inhalte vorschreiben und eine dreijährige Pause für den Bau neuer Rechenzentren einführen würden. Das New York Fundamental Artificial Intelligence R...</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/" target="_blank" rel="noopener">Crypto.com setzt vor dem Super Bowl 70 Millionen US-Dollar auf die Domain AI.com</a></h2><p class="news-description">Der Kauf schreibt die Domain-Rekordbücher neu – nicht, dass der Kryptoindustrie jemals Zurückhaltung bei den Ausgaben vorgeworfen worden wäre.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/" target="_blank" rel="noopener">Okay, ich bin etwas weniger sauer auf das KI-Projekt „Magnificent Ambersons“.</a></h2><p class="news-description">Aber das ist immer noch eine schlechte Idee.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/" target="_blank" rel="noopener">Von Svedka bis Anthropic machen Marken in Super-Bowl-Werbungen mutige Spiele mit KI</a></h2><p class="news-description">Von der ersten KI-generierten Big-Game-Anzeige mit freundlicher Genehmigung von Svedka bis hin zu Anthropics Beef mit OpenAI – hier sind die größten Anzeigen vom Super Bowl LX.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
