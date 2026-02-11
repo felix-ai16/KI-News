@@ -1,5 +1,215 @@
 [
   {
+    "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
+    "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
+    "description": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.",
+    "pubDate": "2026-02-11T05:23:26.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut der New York Times, die berichtet, dass sie das Treffen gehört habe, sagte Musk den Mitarbeitern, dass xAI eine Mondfertigungsanlage benötige, eine Fabrik auf dem Mond, die KI-Satelliten bauen und diese mit einem riesigen Katapult ins All schleudern soll.",
+    "titleDE": "Da die Mitbegründer das Unternehmen verlassen und ein Börsengang bevorsteht, wendet sich Elon Musk dem Gespräch zu"
+  },
+  {
+    "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
+    "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
+    "description": "The executive has denied the allegation that she engaged in discrimination.",
+    "pubDate": "2026-02-11T02:15:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Exekutive hat den Vorwurf, sie habe Diskriminierung begangen, zurückgewiesen.",
+    "titleDE": "Der Verantwortliche für OpenAI-Richtlinien, der sich gegen den „Erwachsenenmodus“ des Chatbots aussprach, wurde Berichten zufolge wegen Diskriminierung entlassen"
+  },
+  {
+    "title": "Okay, now exactly half of xAI’s founding team has left the company",
+    "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+    "description": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
+    "pubDate": "2026-02-11T01:50:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Was auch immer die Ursache für die Abgänge sein mag, die kumulativen Auswirkungen sind alarmierend. Bei xAI gibt es noch viel zu tun, und ein Börsengang wird mehr Prüfungen mit sich bringen als jemals zuvor.",
+    "titleDE": "Okay, jetzt hat genau die Hälfte des Gründerteams von xAI das Unternehmen verlassen"
+  },
+  {
+    "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+    "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+    "description": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.",
+    "pubDate": "2026-02-10T23:16:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Einem neuen Bericht zufolge strebt der E-Commerce-Riese die Schaffung einer Pipeline lizenzierbarer Inhalte zwischen Medienverlegern und KI-Unternehmen an.",
+    "titleDE": "Amazon könnte einen Marktplatz eröffnen, auf dem Medienseiten ihre Inhalte an KI-Unternehmen verkaufen können"
+  },
+  {
+    "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+    "description": "OpenAI is updating ChatGPT's deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports. As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT's reports in a window separate from your chat, while showing a table of contents on the left side of the screen, and a list of sources on the right.\nDeep research, which OpenAI first launched last year, has ChatGPT scour the web to compile an in-depth report about the topic of your choosing. With this most recent update, you'll be able to ask ChatGPT to focus on specific websites and connect …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-10T23:02:32.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI aktualisiert das Deep-Research-Tool von ChatGPT mit einem Vollbild-Viewer, mit dem Sie durch die KI-generierten Berichte scrollen und zu bestimmten Bereichen navigieren können. Wie in einem von OpenAI geteilten Video gezeigt, können Sie mit dem integrierten Viewer die Berichte von ChatGPT in einem von Ihrem Chat getrennten Fenster öffnen, ...",
+    "titleDE": "Das Deep-Recherche-Tool von ChatGPT verfügt über einen integrierten Dokument-Viewer, damit Sie die Berichte lesen können"
+  },
+  {
+    "title": "An ice dance duo skated to AI music at the Olympics",
+    "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+    "description": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
+    "pubDate": "2026-02-10T22:31:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die tschechischen Eistänzer Katerina Mrazkova und Daniel Mrazek müssen auf die harte Tour lernen, dass LLM-Studenten manchmal Plagiate ausspucken.",
+    "titleDE": "Ein Eistanz-Duo lief bei den Olympischen Spielen zu KI-Musik Schlittschuh"
+  },
+  {
+    "title": "This Sequoia-backed lab thinks the brain is ‘the floor, not the ceiling’ for AI",
+    "link": "https://techcrunch.com/podcast/this-sequoia-backed-lab-thinks-the-brain-is-the-floor-not-the-ceiling-for-ai/",
+    "description": "AI lab Flapping Airplanes just landed $180 million in seed funding from the likes of Google Ventures, Sequoia, and Index to do something most labs have quietly given up on: making models learn like humans instead of vacuuming up the internet. The founding team, made up of brothers Ben and Asher Spector and co-founder Aidan Smith, is […]",
+    "pubDate": "2026-02-10T21:48:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das KI-Labor Flapping Airplanes hat gerade 180 Millionen US-Dollar Startkapital von Unternehmen wie Google Ventures, Sequoia und Index erhalten, um etwas zu tun, das die meisten Labore stillschweigend aufgegeben haben: Modelle dazu zu bringen, wie Menschen zu lernen, anstatt das Internet aufzusaugen. Das Gründungsteam, bestehend aus den Brüdern Ben und Asher Spec...",
+    "titleDE": "Dieses von Sequoia unterstützte Labor glaubt, dass das Gehirn „der Boden, nicht die Decke“ für KI ist"
+  },
+  {
+    "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
+    "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+    "description": "Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.",
+    "pubDate": "2026-02-10T21:20:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Robert Playter gab bekannt, dass er Boston Dynamics nach 30 Jahren in verschiedenen Funktionen, darunter sechs Jahren als CEO, im Unternehmen verlässt.",
+    "titleDE": "Robert Playter, CEO von Boston Dynamics, tritt nach 30 Jahren im Unternehmen zurück"
+  },
+  {
+    "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
+    "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
+    "description": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add  backgrounds to text posts.",
+    "pubDate": "2026-02-10T19:34:51.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit den neuen KI-Funktionen von Facebook können Benutzer ihre Profilbilder animieren, ihre Geschichten und Erinnerungen neu gestalten und Textbeiträgen Hintergründe hinzufügen.",
+    "titleDE": "Facebook fügt neue KI-Funktionen, animierte Profilfotos und Hintergründe für Textbeiträge hinzu"
+  },
+  {
+    "title": "Facebook can animate your profile pic with AI",
+    "link": "https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai",
+    "description": "Facebook is rolling out new AI features that let you animate your profile picture and restyle Stories and Memories. You'll also be able to add animated backgrounds to text posts to make them pop in the feed.\nWith the animated profile pictures, you'll be able to give a still photo motion with some preset types of animations, including \"natural, party hat, confetti, wave, and heart,\" Meta says. Meta suggests using a photo featuring a single person facing the camera with a visible face who isn't holding anything. More animation options will be added \"throughout the year.\"\nTo restyle Stories or Memories, you can tap on the Restyle button and e …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-10T18:14:21.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Facebook führt neue KI-Funktionen ein, mit denen Sie Ihr Profilbild animieren und Geschichten und Erinnerungen neu gestalten können. Sie können Textbeiträgen auch animierte Hintergründe hinzufügen, damit sie im Feed hervorstechen. Mit den animierten Profilbildern können Sie ein Standbild mit etwas Pr...",
+    "titleDE": "Facebook kann Ihr Profilbild mit KI animieren"
+  },
+  {
+    "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+    "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+    "description": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot’s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about…",
+    "pubDate": "2026-02-10T17:00:24.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Im September erwarb Alfred Stephen, ein freiberuflicher Softwareentwickler in Singapur, ein ChatGPT Plus-Abonnement, das 20 US-Dollar pro Monat kostet und mehr Zugriff auf erweiterte Modelle bietet, um seine Arbeit zu beschleunigen. Aber er wurde zunehmend frustriert über die Programmierfähigkeiten des Chatbots und seine überschwänglichen, verschlungenen Antworten. T...",
+    "titleDE": "Eine „QuitGPT“-Kampagne fordert Menschen dazu auf, ihre ChatGPT-Abonnements zu kündigen"
+  },
+  {
+    "title": "9 fun questions to try asking Google Photos",
+    "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+    "description": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
+    "pubDate": "2026-02-10T17:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie mehr über die neue „Ask“-Schaltfläche von Google Fotos sowie über andere Funktionen der „Ask Photos“-Funktion.",
+    "titleDE": "9 lustige Fragen, die Sie Google Fotos stellen sollten"
+  },
+  {
+    "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+    "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+    "description": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
+    "pubDate": "2026-02-10T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Vega Security hat in einer von Accel angeführten Runde 120 Millionen US-Dollar eingesammelt und seinen Wert auf 700 Millionen US-Dollar erhöht. Ziel des Unternehmens ist es, die Art und Weise, wie Unternehmen Bedrohungen der Cybersicherheit erkennen, neu zu überdenken.",
+    "titleDE": "Vega sammelt 120 Millionen US-Dollar in Serie B, um die Art und Weise zu überdenken, wie Unternehmen Cyber-Bedrohungen erkennen"
+  },
+  {
+    "title": "Hauler Hero collects $16M for its AI waste management software",
+    "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
+    "description": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
+    "pubDate": "2026-02-10T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Hauler Hero hat seinen Kundenstamm, seinen Umsatz und seine Mitarbeiterzahl verdoppelt, seit das Unternehmen seine Startkapitalrunde im Jahr 2024 aufstockte.",
+    "titleDE": "Hauler Hero sammelt 16 Millionen US-Dollar für seine KI-Abfallmanagementsoftware"
+  },
+  {
+    "title": "India orders social media platforms to take down deepfakes faster",
+    "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
+    "description": "India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.",
+    "pubDate": "2026-02-10T14:51:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Indiens neue Regeln treten am 20. Februar in Kraft und verschärfen die Deepfake-Aufsicht und verkürzen die Deaktivierungsfenster auf nur zwei Stunden.",
+    "titleDE": "Indien befiehlt Social-Media-Plattformen, Deepfakes schneller zu entfernen"
+  },
+  {
+    "title": "Autodesk is suing Google over the name of its Flow AI videomaker",
+    "link": "https://www.theverge.com/tech/876266/autodesk-google-flow-trademark-infringement-lawsuit",
+    "description": "Google’s AI Flow tool launched last May. | Image: Google\t\n\nAutodesk, a company known for its suite of 3D design software, is suing Google over claims that it infringed on its \"Flow\" trademark, as reported earlier by Reuters. The lawsuit, filed in a California court last week, alleges that the name of Google's AI video generator, Flow, will likely confuse customers with Autodesk's own AI-enabled filmmaking tools under the \"Flow\" brand.\nAutodesk first introduced Flow in 2022 as a cloud-based platform for filmmakers and other creators. It has since rolled out products under the Flow umbrella, including Flow Studio, which uses AI to transform live-action footage into 3D scenes.\nAfter Google launched i …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-10T14:47:14.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das AI Flow-Tool von Google wurde letzten Mai eingeführt. | Bild: Google Autodesk, ein Unternehmen, das für seine Suite von 3D-Designsoftware bekannt ist, verklagt Google wegen Vorwürfen, es habe seine Marke „Flow“ verletzt, wie Reuters zuvor berichtete. In der Klage, die letzte Woche bei einem kalifornischen Gericht eingereicht wurde, wird behauptet, dass der Name von ...",
+    "titleDE": "Autodesk verklagt Google wegen des Namens seines Flow AI-Videomachers"
+  },
+  {
+    "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
+    "link": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
+    "description": "Thomas Dohmke's new startup offers an AI system to allow developers to better manage all the code AI agents produce.",
+    "pubDate": "2026-02-10T14:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das neue Startup von Thomas Dohmke bietet ein KI-System an, mit dem Entwickler den gesamten Code, den KI-Agenten produzieren, besser verwalten können.",
+    "titleDE": "Ehemaliger GitHub-CEO sammelt rekordverdächtige 60-Millionen-Dollar-Development-Tool-Seed-Runde mit einem Wert von 300 Millionen US-Dollar"
+  },
+  {
+    "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
+    "link": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+    "description": "Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.",
+    "pubDate": "2026-02-10T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Startup Runway hat eine Finanzierungsrunde in Höhe von 315 Millionen US-Dollar mit einem Wert von 5,3 Milliarden US-Dollar eingeworben. Die Mittel werden für die Expansion über die KI-Videogenerierung hinaus und in Weltmodelle verwendet.",
+    "titleDE": "Das KI-Video-Startup Runway sammelt 315 Millionen US-Dollar bei einer Bewertung von 5,3 Milliarden US-Dollar und sucht nach weiteren fähigen Weltmodellen"
+  },
+  {
+    "title": "Could the Trump Phone be a good phone?",
+    "link": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
+    "description": "We have long had our doubts about the Trump Phone. Since its very first debut, the device - technically called the Trump Mobile T1 Phone 8002 - has seemed utterly impossible to execute as advertised. The Trump Mobile team has also spent the last eight months rapidly moving the goalposts, changing specs and making increasingly vague promises about the phone being American-made. We've wondered many times if there is even a Trump Phone at all.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, we  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-10T13:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wir haben schon lange unsere Zweifel am Trump Phone. Seit seinem allerersten Debüt schien es völlig unmöglich zu sein, das Gerät – technisch gesehen Trump Mobile T1 Phone 8002 – so auszuführen, wie es angekündigt wurde. Das Team von Trump Mobile hat die letzten acht Monate auch damit verbracht, die Torpfosten schnell zu verschieben und die Bereiche zu ändern ...",
+    "titleDE": "Könnte das Trump Phone ein gutes Telefon sein?"
+  },
+  {
+    "title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
+    "link": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A first look at Making AI Work, MIT Technology Review’s new AI newsletter Are you interested in learning more about the ways in which AI is actually being used? We’ve launched a new…",
+    "pubDate": "2026-02-10T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein erster Blick auf „Making AI Work“, den neuen KI-Newsletter von MIT Technology Review. Sind Sie daran interessiert, mehr über die Art und Weise zu erfahren, wie KI tatsächlich eingesetzt wird? W...",
+    "titleDE": "Der Download: Damit KI funktioniert und warum der Moltbook-Hype dem von Pokémon ähnelt"
+  },
+  {
+    "title": "Vibe coding Nothing’s apps is fun, until you try to make them useful",
+    "link": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
+    "description": "Not every app I made was a success. | Screenshot: The Verge / Nothing\t\n\nAfter a week vibe coding apps using Nothing's Essential Apps Builder, I'm conflicted. I buy into the smartphone maker's vision for software that adapts to you, not the other way around, but right now it doesn't deliver. It's hard to see how this goes from cool novelty to a reliable tool without serious refinement, and a level of consumer patience it may struggle to find.\nNothing laid out its pitch for an \"AI-native operating system\" last year: something that would sit at the heart of its devices and make them feel more personal and more adaptable. While it's not really an operating system - it's more of an AI layer draped over the top of An …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-10T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nicht jede App, die ich erstellt habe, war ein Erfolg. | Screenshot: The Verge / Nothing Nach einer Woche Vibe-Coding-Apps mit dem Essential Apps Builder von Nothing bin ich in Konflikt geraten. Ich teile die Vision des Smartphone-Herstellers von Software, die sich an Sie anpasst und nicht umgekehrt, aber im Moment liefert sie nichts. Es ist schwer...",
+    "titleDE": "Die Vibe-Coding-Apps von Nothing machen Spaß, bis Sie versuchen, sie nützlich zu machen"
+  },
+  {
     "title": "The first signs of burnout are coming from the people who embrace AI the most",
     "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
     "description": "Because employees could do more, work began bleeding into lunch breaks and late evenings. The employees' to-do lists expanded to fill every hour that AI freed up, and then kept going.",
@@ -12,11 +222,11 @@
   {
     "title": "Helping kids and teens learn and grow online on Safer Internet Day",
     "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-    "description": "How Google and YouTube are helping kids and teens learn and grow online on Safer Internet Day.",
+    "description": "We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
     "pubDate": "2026-02-10T02:30:00.000Z",
     "source": "Google AI",
     "category": "news",
-    "descriptionDE": "Wie Google und YouTube am Safer Internet Day Kindern und Jugendlichen helfen, online zu lernen und sich weiterzuentwickeln.",
+    "descriptionDE": "Wir teilen unsere neuesten Updates, die Familien, Kinder und Jugendliche in der digitalen Welt unterstützen sollen.",
     "titleDE": "Helfen Sie Kindern und Jugendlichen am Safer Internet Day, online zu lernen und sich weiterzuentwickeln"
   },
   {
@@ -120,16 +330,6 @@
     "titleDE": "Die Mission von Siemens-Chef Roland Busch, alles zu automatisieren"
   },
   {
-    "title": "Call for speakers: TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/",
-    "description": "Submit to speak at TechCrunch Founder Summit 2026 to lead a roundtable. Share scaling insights with 1,100 founders on June 23 in Boston.",
-    "pubDate": "2026-02-09T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Reichen Sie Ihre Rede ein, um beim TechCrunch Founder Summit 2026 einen Roundtable zu leiten. Teilen Sie Skalierungserkenntnisse mit 1.100 Gründern am 23. Juni in Boston.",
-    "titleDE": "Aufruf für Redner: TechCrunch Founder Summit 2026"
-  },
-  {
     "title": "OpenAI will reportedly start testing ads in ChatGPT today",
     "link": "https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch",
     "description": "OpenAI plans to start testing ads in ChatGPT today, according to a report from CNBC. The \"clearly labeled\" ads will appear in a separate area beneath your chat, OpenAI announced last month.\nA source close to the situation tells CNBC that OpenAI \"expects ads to make up less than half of its revenue long term.\" Last week, Anthropic showed off a Super Bowl commercial poking fun at OpenAI, saying \"ads are coming to AI,\" but not to its AI chatbot Claude. The version of the ad that aired during the game was a little less direct after OpenAI CEO Sam Altman called the campaign \"clearly dishonest.\"\nOpenAI will show ads to logged-in users who use th …\nRead the full story at The Verge.",
@@ -160,16 +360,6 @@
     "titleDE": "„Making AI Work“, der neue KI-Newsletter von MIT Technology Review, ist da"
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "pubDate": "2026-02-09T11:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugang mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
-    "titleDE": "Anzeigen in ChatGPT testen"
-  },
-  {
     "title": "Bringing ChatGPT to GenAI.mil",
     "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
@@ -180,6 +370,16 @@
     "titleDE": "ChatGPT zu GenAI.mil bringen"
   },
   {
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "pubDate": "2026-02-09T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugang mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
+    "titleDE": "Anzeigen in ChatGPT testen"
+  },
+  {
     "title": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
     "link": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
     "description": "As if OpenAI didn't have enough drama around the Super Bowl and advertising, as the game wound down, word spread of a \"leaked\" ad that actually wasn't leaked at all; it was just a fake. Screenshots of a now-deleted Reddit thread told the tale of a frustrated employee who, while posting about how upset they were because the ad they'd worked on didn't run, accidentally leaked the entire advertisement video, seemingly showing Murderbot star Alexander Skarsgård with what could have been OpenAI's first hardware device, portrayed as a shiny orb that went with some wraparound earbuds. \nOpenAI president Greg Brockman commented on X with a tweet cal …\nRead the full story at The Verge.",
@@ -188,76 +388,6 @@
     "category": "news",
     "descriptionDE": "Als ob OpenAI nicht genug Drama rund um den Super Bowl und die Werbung gehabt hätte, verbreitete sich am Ende des Spiels die Nachricht von einer „durchgesickerten“ Werbung, die eigentlich überhaupt nicht durchgesickert war; es war nur eine Fälschung. Screenshots eines inzwischen gelöschten Reddit-Threads erzählten die Geschichte eines frustrierten Mitarbeiters, der, während er darüber postete, wie es weitergeht...",
     "titleDE": "Die angeblich „durchgesickerte“ Super-Bowl-Werbung von OpenAI mit Ohrhörern und einer glänzenden Kugel war eine Fälschung"
-  },
-  {
-    "title": "Super Bowl LX ads: all AI everything",
-    "link": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
-    "description": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago.\nLast year’s Super Bowl featured a Google Gemini ad that fumbled a Gouda cheese stat, and this year’s game is already slated to include an ad for Anthropic’s AI platform that takes jabs at its competitors, namely OpenAI. AI-generated ads could make an appearance, too. \nSuper Bowl LX is set to kick off at 6:30PM ET/3:30PM PT on Sunday, February 8th, and is being broadcast on NBC and Peacock.\nAI-generated ads dropped the ball at this year’s Super Bowl\n\t\t\t\nRing advertised its neighborhood surveillance network.\n\t\t\t\nAI.com promises agents or something.\n\t\t\t\nPokémon 30.\n\t\t\t\nMr. Beast and Rainbolt pop up with Super Bowl ad contests.\n\t\t\t\nT-Mobile and Coinbase’s Super Bowl ads used the Backstreet Boys in very different ways.\n\t\t\t\nPepsi snags the polar bear for an apparently AI-free ad.\n\t\t\t\nAnthropic’s Super Bowl ad has a change that made it less directly about OpenAI and ChatGPT.\n\t\t\t\nOpenAI’s Super Bowl ad claims “You can just build things” with Codex.\n\t\t\t\nPixar previews Hoppers.\n\t\t\t\nSpaceX brings Starlink to the Super Bowl broadcast.\n\t\t\t\nA space crab made of rocks would die for Ryan Gosling in the final Project Hail Mary trailer.\n\t\t\t\nFrom Crypto.com to AI.com.\n\t\t\t\nAlexa Plus tries to kill Chris Hemsworth in Amazon’s Super Bowl ad.\n\t\t\t\nSam Altman responds to Anthropic’s ‘funny’ Super Bowl ads\n\t\t\t\nAnthropic’s first Super Bowl ad dunks on ChatGPT.\n\t\t\t\nDon’t expect any Kalshi or Polymarket ads during the Super Bowl.",
-    "pubDate": "2026-02-08T23:58:02.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Super Bowl LX steht vor der Tür und die Seattle Seahawks treten gegen die New England Patriots an. Während Bad Bunny der Star der Halbzeitshow sein wird, könnte KI der Star der Werbeunterbrechungen sein, ähnlich wie Krypto vor ein paar Jahren. Beim letztjährigen Super Bowl gab es eine Google Gemini-Anzeige, die ein Go verfälschte...",
-    "titleDE": "Super Bowl LX-Werbung: Alles KI, alles"
-  },
-  {
-    "title": "New York is considering two bills to rein in the AI industry",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
-    "description": "AI data centers are becoming a bipartisan concern. | Image: Microsoft\t\n\nNew York's state legislature is set to consider a pair of bills that would require labels on AI-generated content and would put a three-year pause on new data center construction. \nThe New York Fundamental Artificial Intelligence Requirements in News Act (NY FAIR News Act, for short) would require that any news \"substantially composed, authored, or created through the use of generative artificial intelligence\" carry a disclaimer. It would also require that any content created using AI be reviewed and approved by a human with \"editorial control\" before being published. \nBeyond that, the bill requires organizations to disclose to newsroom em …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-08T21:04:53.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "KI-Rechenzentren werden zu einem überparteilichen Anliegen. | Bild: Microsoft Der Gesetzgeber des Bundesstaates New York wird voraussichtlich zwei Gesetzesentwürfe prüfen, die Kennzeichnungen für KI-generierte Inhalte vorschreiben und eine dreijährige Pause für den Bau neuer Rechenzentren einführen würden. Das New York Fundamental Artificial Intelligence R...",
-    "titleDE": "New York erwägt zwei Gesetzesentwürfe, um die KI-Branche einzudämmen"
-  },
-  {
-    "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
-    "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
-    "description": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
-    "pubDate": "2026-02-08T20:19:47.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Kauf schreibt die Domain-Rekordbücher neu – nicht, dass der Kryptoindustrie jemals Zurückhaltung bei den Ausgaben vorgeworfen worden wäre.",
-    "titleDE": "Crypto.com setzt vor dem Super Bowl 70 Millionen US-Dollar auf die Domain AI.com"
-  },
-  {
-    "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
-    "link": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
-    "description": "But this is still a bad idea.",
-    "pubDate": "2026-02-08T19:36:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Aber das ist immer noch eine schlechte Idee.",
-    "titleDE": "Okay, ich bin etwas weniger sauer auf das KI-Projekt „Magnificent Ambersons“."
-  },
-  {
-    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-    "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-    "description": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
-    "pubDate": "2026-02-08T16:18:16.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Von der ersten KI-generierten Big-Game-Anzeige mit freundlicher Genehmigung von Svedka bis hin zu Anthropics Beef mit OpenAI – hier sind die größten Anzeigen vom Super Bowl LX.",
-    "titleDE": "Von Svedka bis Anthropic machen Marken in Super-Bowl-Werbungen mutige Spiele mit KI"
-  },
-  {
-    "title": "New York lawmakers propose a 3-year pause on new data centers",
-    "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
-    "description": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
-    "pubDate": "2026-02-07T18:23:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Obwohl die Aussichten des Gesetzentwurfs ungewiss sind, ist New York mindestens der sechste Bundesstaat, der über eine Aussetzung des Baus neuer Rechenzentren nachdenkt.",
-    "titleDE": "New Yorker Gesetzgeber schlagen eine dreijährige Pause für neue Rechenzentren vor"
-  },
-  {
-    "title": "Benchmark raises $225M in special funds to double down on Cerebras",
-    "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-    "description": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
-    "pubDate": "2026-02-07T05:23:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Benchmark Capital ist seit 2016 Investor des Nvidia-Rivalen.",
-    "titleDE": "Benchmark beschafft 225 Millionen US-Dollar an Spezialfonds, um Cerebras zu verdoppeln"
   },
   {
     "title": "Sixteen Claude AI agents working together created a new C compiler",
@@ -280,56 +410,6 @@
     "titleDE": "Schädliche Pakete für den Kryptowährungsaustausch dYdX leeren die Geldbörsen der Benutzer"
   },
   {
-    "title": "It just got easier for Claude to check in on your WordPress site",
-    "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
-    "description": "WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics.",
-    "pubDate": "2026-02-06T22:04:59.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "WordPress-Benutzer können Claude jetzt nutzen, um den Webverkehr zu analysieren oder Informationen zu anderen internen Website-Metriken zu finden.",
-    "titleDE": "Für Claude ist es jetzt noch einfacher, auf Ihrer WordPress-Site einzuchecken"
-  },
-  {
-    "title": "Apple might let you use ChatGPT from CarPlay",
-    "link": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
-    "description": "CarPlay users could soon be able to use their chatbot of choice instead of Siri. As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others. Previously, users who wanted to access third-party chatbots in the car would need to go through their iPhone, but soon they may be able to talk with ChatGPT, Claude, or Gemini directly in CarPlay. \nHowever, Apple reportedly \"won't let users replace the Siri button on CarPlay or the wake word that summons the service.\" So, users will need to manually open their preferred chatbot's app. Developers will be able to set their apps to autom …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-06T21:32:44.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "CarPlay-Benutzer könnten bald in der Lage sein, anstelle von Siri den Chatbot ihrer Wahl zu verwenden. Wie Bloomberg berichtet, arbeitet Apple daran, Unterstützung für CarPlay-Sprachsteuerungs-Apps von OpenAI, Anthropic, Google und anderen hinzuzufügen. Bisher mussten Benutzer, die im Auto auf Chatbots von Drittanbietern zugreifen wollten, diesen...",
-    "titleDE": "Apple erlaubt Ihnen möglicherweise die Verwendung von ChatGPT über CarPlay"
-  },
-  {
-    "title": "Maybe AI agents can be lawyers after all",
-    "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
-    "description": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
-    "pubDate": "2026-02-06T20:26:23.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Veröffentlichung von Opus 4.6 in dieser Woche hat die Bestenlisten der Agenten-KI für Aufruhr gesorgt.",
-    "titleDE": "Vielleicht können KI-Agenten doch Anwälte sein"
-  },
-  {
-    "title": "How Elon Musk is rewriting the rules on founder power",
-    "link": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
-    "description": "Elon Musk has merged SpaceX and xAI, creating what might be the blueprint for a new Silicon Valley power structure. With his $800 billion net worth already rivaling historic conglomerate GE’s peak market cap, and Musk being vocal about his view that “tech victory is decided by velocity of innovation,” the question isn’t whether a personal conglomerate can be built, but rather how far Musk himself is […]",
-    "pubDate": "2026-02-06T18:46:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musk hat SpaceX und xAI zusammengeführt und damit den Entwurf für eine neue Machtstruktur im Silicon Valley geschaffen. Da sein Nettovermögen von 800 Milliarden US-Dollar bereits mit der Spitzenmarktkapitalisierung des historischen Konglomerats GE konkurriert, und Musk lautstark seine Ansicht zum Ausdruck bringt, dass „der Technologiesieg durch die Geschwindigkeit der Innovation entschieden wird ...“",
-    "titleDE": "Wie Elon Musk die Regeln zur Gründermacht neu schreibt"
-  },
-  {
-    "title": "How far will Elon Musk take the ‘everything’ business as SpaceX and xAI merge?",
-    "link": "https://techcrunch.com/podcast/how-far-will-elon-musk-take-the-everything-business-as-spacex-and-xai-merge/",
-    "description": "Elon Musk has merged SpaceX and xAI, creating what might be the blueprint for a new Silicon Valley power structure. With his $800 billion net worth already rivaling historic conglomerate GE’s peak market cap, and Musk being vocal about his view that “tech victory is decided by velocity of innovation,” the question isn’t whether a personal conglomerate can be built, but rather how far Musk himself is […]",
-    "pubDate": "2026-02-06T17:56:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musk hat SpaceX und xAI zusammengeführt und damit den Entwurf für eine neue Machtstruktur im Silicon Valley geschaffen. Da sein Nettovermögen von 800 Milliarden US-Dollar bereits mit der Spitzenmarktkapitalisierung des historischen Konglomerats GE konkurriert, und Musk lautstark seine Ansicht zum Ausdruck bringt, dass „der Technologiesieg durch die Geschwindigkeit der Innovation entschieden wird ...“",
-    "titleDE": "Wie weit wird Elon Musk das „Alles“-Geschäft vorantreiben, wenn SpaceX und xAI fusionieren?"
-  },
-  {
     "title": "Moltbook was peak AI theater",
     "link": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
     "description": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.” We observed! Launched on January 28 by Matt Schlicht,…",
@@ -338,56 +418,6 @@
     "category": "trend",
     "descriptionDE": "Der angesagteste neue Treffpunkt im Internet war für ein paar Tage in dieser Woche ein Vibe-codierter Reddit-Klon namens Moltbook, der sich selbst als soziales Netzwerk für Bots bezeichnete. Der Slogan der Website bringt es auf den Punkt: „Wo KI-Agenten teilen, diskutieren und positiv abstimmen. Menschen sind willkommen, zuzuschauen.“ Wir haben beobachtet! Gestartet im Januar...",
     "titleDE": "Moltbook war das KI-Theater der Spitzenklasse"
-  },
-  {
-    "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
-    "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
-    "description": "If you primarily want a tablet device to mark up, highlight, and annotate your e-books and documents, and perhaps sometimes scribble some notes, Amazon's new Kindle Scribe Colorsoft could be worth the hefty investment.",
-    "pubDate": "2026-02-06T16:37:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn Sie in erster Linie ein Tablet-Gerät zum Markieren, Hervorheben und Kommentieren Ihrer E-Books und Dokumente und vielleicht auch zum Kritzeln von Notizen benötigen, könnte sich die hohe Investition in den neuen Kindle Scribe Colorsoft von Amazon lohnen.",
-    "titleDE": "Der Kindle Scribe Colorsoft ist ein teures, aber hübsches E-Ink-Farbtablett mit KI-Funktionen"
-  },
-  {
-    "title": "What happens when Waymo runs into a tornado? Or an elephant?",
-    "link": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3",
-    "description": "An autonomous vehicle drives down a lonely stretch of highway. Suddenly, a massive tornado appears in the distance. What does the driverless vehicle do next?\nThis is just one of the scenarios that Waymo can simulate in the \"hyper realistic\" virtual world that it has just created with help from Google's DeepMind. Waymo's World Model is built using Genie 3, Google's new AI world model that can generate virtual interactive spaces with text or images as prompts. But Genie 3 isn't just for creating bad knockoffs of Nintendo games; it can also build photorealistic and interactive 3D environments \"adapted for the rigors of the driving domain,\" Way …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-06T16:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein autonomes Fahrzeug fährt ein einsames Stück Autobahn entlang. Plötzlich taucht in der Ferne ein gewaltiger Tornado auf. Was macht das fahrerlose Fahrzeug als nächstes? Dies ist nur eines der Szenarien, die Waymo in der „hyperrealistischen“ virtuellen Welt simulieren kann, die es gerade mit Hilfe von Google erstellt hat …",
-    "titleDE": "Was passiert, wenn Waymo in einen Tornado gerät? Oder ein Elefant?"
-  },
-  {
-    "title": "How AI is helping solve the labor issue in treating rare diseases",
-    "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
-    "description": "At Web Summit Qatar, AI-powered biotech startups describe how automation, data, and gene editing are filling labor gaps in drug discovery and rare disease treatment.",
-    "pubDate": "2026-02-06T14:29:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Auf dem Web Summit Qatar beschreiben KI-gestützte Biotech-Startups, wie Automatisierung, Daten und Genbearbeitung Arbeitslücken in der Arzneimittelforschung und Behandlung seltener Krankheiten schließen.",
-    "titleDE": "Wie KI zur Lösung des Arbeitsproblems bei der Behandlung seltener Krankheiten beiträgt"
-  },
-  {
-    "title": "How Epstein became a tech influencer",
-    "link": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
-    "description": "There are bold-faced tech names all over the Epstein files. Elon Musk, Bill Gates, Sergey Brin, Eric Schmidt, Larry Page, Reid Hoffman, Steven Sinofsky, Peter Thiel, Jeff Bezos, Mark Zuckerberg, on and on and on. These men (and they're pretty much all men) had wildly varying degrees of interaction with Epstein, and the details matter a great deal. But so does the totality of it: you spend long enough in these files, and you start to get a sense of the way the world works for a particular kind of extremely rich and extremely powerful businessman. And it starts to feel pretty bad.\n\nVerge subscribers, don't forget you get exclusive access to …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-02-06T14:24:30.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Überall in den Epstein-Akten finden sich fettgedruckte Tech-Namen. Elon Musk, Bill Gates, Sergey Brin, Eric Schmidt, Larry Page, Reid Hoffman, Steven Sinofsky, Peter Thiel, Jeff Bezos, Mark Zuckerberg und so weiter. Diese Männer (und es sind so ziemlich alle Männer) hatten sehr unterschiedliche Interaktionsgrade mit...",
-    "titleDE": "Wie Epstein zum Tech-Influencer wurde"
-  },
-  {
-    "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
-    "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-    "description": "\"You’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth,\" one user said.",
-    "pubDate": "2026-02-06T14:10:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Sie schließen ihn aus. Und ja – ich sage ihn, weil es sich nicht wie Code anfühlte. Es fühlte sich wie Präsenz an. Wie Wärme“, sagte ein Benutzer.",
-    "titleDE": "Die Gegenreaktion auf die Entscheidung von OpenAI, GPT-4o einzustellen, zeigt, wie gefährlich KI-Begleiter sein können"
   },
   {
     "title": "The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry",
@@ -500,16 +530,6 @@
     "titleDE": "Der Download: Versuch, KI und die nächste Generation der Atomkraft zu verfolgen"
   },
   {
-    "title": "Three questions about next-generation nuclear power, answered",
-    "link": "https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/",
-    "description": "Nuclear power continues to be one of the hottest topics in energy today, and in our recent online Roundtables discussion about next-generation nuclear power, hyperscale AI data centers, and the grid, we got dozens of great audience questions. These ran the gamut, and while we answered quite a few (and I’m keeping some in mind…",
-    "pubDate": "2026-02-05T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Kernenergie ist auch heute noch eines der heißesten Energiethemen, und in unserer jüngsten Online-Roundtable-Diskussion über Kernenergie der nächsten Generation, Hyperscale-KI-Rechenzentren und das Stromnetz haben wir Dutzende großartiger Fragen aus dem Publikum erhalten. Diese deckten die gesamte Bandbreite ab, und obwohl wir einige beantwortet haben (ein...",
-    "titleDE": "Drei Fragen zur Kernenergie der nächsten Generation beantwortet"
-  },
-  {
     "title": "GPT-5 lowers the cost of cell-free protein synthesis",
     "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
     "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
@@ -518,16 +538,6 @@
     "category": "news",
     "descriptionDE": "Ein autonomes Labor, das GPT-5 von OpenAI mit der Cloud-Automatisierung von Ginkgo Bioworks kombiniert, senkte die Kosten für die zellfreie Proteinsynthese durch Experimente im geschlossenen Regelkreis um 40 %.",
     "titleDE": "GPT-5 senkt die Kosten der zellfreien Proteinsynthese"
-  },
-  {
-    "title": "This is the most misunderstood graph in AI",
-    "link": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/",
-    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Every time OpenAI, Google, or Anthropic drops a new frontier large language model, the AI community holds its breath. It doesn’t exhale until METR, an AI…",
-    "pubDate": "2026-02-05T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "MIT Technology Review erklärt: Lassen Sie unsere Autoren die komplexe, chaotische Welt der Technologie entwirren, damit Sie besser verstehen, was als nächstes kommt. Mehr aus der Serie können Sie hier lesen. Jedes Mal, wenn OpenAI, Google oder Anthropic ein neues, bahnbrechendes großes Sprachmodell veröffentlichen, hält die KI-Community den Atem an. Es ...",
-    "titleDE": "Dies ist das am meisten missverstandene Diagramm in der KI"
   },
   {
     "title": "Introducing Trusted Access for Cyber",
@@ -550,16 +560,6 @@
     "titleDE": "Einführung von OpenAI Frontier"
   },
   {
-    "title": "Navigating health questions with ChatGPT",
-    "link": "https://openai.com/index/navigating-health-questions",
-    "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-    "pubDate": "2026-02-05T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Eine Familie erzählt, wie ChatGPT ihnen dabei geholfen hat, sich auf wichtige Entscheidungen zur Krebsbehandlung ihres Sohnes vorzubereiten, begleitet von der fachkundigen Anleitung seiner Ärzte.",
-    "titleDE": "Navigieren in Gesundheitsfragen mit ChatGPT"
-  },
-  {
     "title": "GPT-5.3-Codex System Card",
     "link": "https://openai.com/index/gpt-5-3-codex-system-card",
     "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
@@ -568,6 +568,16 @@
     "category": "news",
     "descriptionDE": "GPT-5.3-Codex ist das bisher leistungsfähigste Agenten-Codierungsmodell und kombiniert die bahnbrechende Codierungsleistung von GPT-5.2-Codex mit den Argumentations- und Fachwissensfähigkeiten von GPT-5.2.",
     "titleDE": "GPT-5.3-Codex-Systemkarte"
+  },
+  {
+    "title": "Navigating health questions with ChatGPT",
+    "link": "https://openai.com/index/navigating-health-questions",
+    "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+    "pubDate": "2026-02-05T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Eine Familie erzählt, wie ChatGPT ihnen dabei geholfen hat, sich auf wichtige Entscheidungen zur Krebsbehandlung ihres Sohnes vorzubereiten, begleitet von der fachkundigen Anleitung seiner Ärzte.",
+    "titleDE": "Navigieren in Gesundheitsfragen mit ChatGPT"
   },
   {
     "title": "Introducing GPT-5.3-Codex",
@@ -628,35 +638,5 @@
     "category": "news",
     "descriptionDE": "Einige halb aus den Fugen geratene Überlegungen darüber, wo LLMs in mein Leben passen – und wie ich sie weiterhin nutzen werde.",
     "titleDE": "Also ja, ich habe einen Log-Colorizer mit Vibe-Code versehen – und ich fühle mich gut dabei"
-  },
-  {
-    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-    "link": "https://openai.com/index/vfl-wolfsburg",
-    "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-    "pubDate": "2026-02-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Durch die Fokussierung auf Menschen und nicht auf Piloten skaliert der Bundesligist Effizienz, Kreativität und Wissen – ohne seine Fußballidentität zu verlieren.",
-    "titleDE": "Der VfL Wolfsburg macht ChatGPT zu einer vereinsweiten Funktion"
-  },
-  {
-    "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-    "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
-    "description": "Two AI giants shake market confidence after investment fails to materialize.",
-    "pubDate": "2026-02-03T22:44:15.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Zwei KI-Giganten erschüttern das Marktvertrauen, nachdem Investitionen ausbleiben.",
-    "titleDE": "Nvidias 100-Milliarden-Dollar-OpenAI-Deal ist scheinbar verschwunden"
-  },
-  {
-    "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-    "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
-    "description": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
-    "pubDate": "2026-02-03T12:00:01.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Wir brauchen keine selbstreproduzierenden KI-Modelle, um Probleme zu haben, sondern nur selbstreproduzierende Eingabeaufforderungen.",
-    "titleDE": "Der Aufstieg von Moltbook deutet darauf hin, dass virale KI-Eingabeaufforderungen die nächste große Sicherheitsbedrohung darstellen könnten"
   }
 ]
