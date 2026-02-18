@@ -1,5 +1,275 @@
 [
   {
+    "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+    "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] data centers.\" The deal also includes plans to add Nvidia's next-generation Vera CPUs to Meta's data centers in 2027. \nMeta is also working on its own in-house chips for running AI models, but according to the Financial Times, it has run into \"technical challenges and rollout  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-18T00:27:08.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Meta hat einen mehrjährigen Vertrag zur Erweiterung seiner Rechenzentren mit Millionen von Nvidias Grace- und Vera-CPUs sowie Blackwell- und Rubin-GPUs abgeschlossen. Während Meta seit langem die Hardware von Nvidia für seine KI-Produkte verwendet, stellt dieser Deal „den ersten groß angelegten Nvidia-Nur-Grace-Einsatz dar“, der laut Nvidia ...",
+    "titleDE": "Metas neuer Deal mit Nvidia kauft Millionen von KI-Chips"
+  },
+  {
+    "title": "Google’s AI search results will make links more obvious",
+    "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+    "description": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of each linked article and accompanying images. \nStein adds that Google will also show these \"more descriptive and prominent link icons\" in its AI responses on desktop and mobile. \"Our testing shows this new UI is more engaging, making it easier to get to great content across the web,\" Stein writes.\nWhile AI Overviews appear as  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-17T22:38:24.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google sagt, dass es Links jetzt prominenter in seinen KI-gestützten Funktionen in der Suche anzeigen wird. Robby Stein, der Vizepräsident der Google-Suche, gab am Dienstag bekannt, dass jetzt eine Liste mit Links in einem Popup angezeigt wird, wenn Sie mit der Maus über die Quellen in den KI-Übersichten und im KI-Modus auf dem Desktop fahren, zusammen mit …",
+    "titleDE": "Die KI-Suchergebnisse von Google machen Links offensichtlicher"
+  },
+  {
+    "title": "Our 2026 Responsible AI Progress Report",
+    "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
+    "description": "A look at our 2026 Responsible AI Progress Report.",
+    "pubDate": "2026-02-17T22:30:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Ein Blick auf unseren Responsible AI-Fortschrittsbericht 2026.",
+    "titleDE": "Unser Responsible AI-Fortschrittsbericht 2026"
+  },
+  {
+    "title": "Google announces dates for I/O 2026",
+    "link": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
+    "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company, from Gemini to Android and more\" during the event, which will take place in-person in Mountain View, California's Shoreline Amphitheatre, and online.\nSimilar to previous years, Google I/O 2026 will feature keynotes from company leaders, fireside chats, product demos, and more. Google still hasn't shared the full schedule for its sessions, but the company plans to kick off the event with a keynote on the morning of May 19th. You can also interac …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-17T20:56:56.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Es ist offiziell: Die Google I/O 2026 findet vom 19. bis 20. Mai statt. In einer Ankündigung vom Dienstag kündigte Google an, dass es während der Veranstaltung, die persönlich in Mountain View stattfinden wird, die „neuesten KI-Durchbrüche und Updates für Produkte im gesamten Unternehmen, von Gemini bis Android und mehr“ vorstellen werde.",
+    "titleDE": "Google gibt Termine für die I/O 2026 bekannt"
+  },
+  {
+    "title": "Password managers' promise that they can't see your vaults isn't always true",
+    "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+    "description": "Contrary to what password managers say, a server compromise can mean game over.",
+    "pubDate": "2026-02-17T20:43:01.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Im Gegensatz zu dem, was Passwort-Manager sagen, kann eine Serverkompromittierung das Ende des Spiels bedeuten.",
+    "titleDE": "Das Versprechen von Passwortmanagern, dass sie Ihre Tresore nicht sehen können, ist nicht immer wahr"
+  },
+  {
+    "title": "Apple is reportedly cooking up a trio of AI wearables",
+    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+    "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+    "pubDate": "2026-02-17T20:14:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Da der Markt für KI-Hardware immer heißer wird, hat der iPhone-Hersteller mehrere intelligente Produkte in der Entwicklung.",
+    "titleDE": "Berichten zufolge bereitet Apple ein Trio von KI-Wearables vor"
+  },
+  {
+    "title": "Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods",
+    "link": "https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods",
+    "description": "The second-gen Ray-Ban Meta smart glasses. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports.\nApple is reportedly aiming to start production of its smart glasses in December, ahead of a 2027 launch. The new device will compete directly with Meta's lineup of smart glasses and is rumored to feature speakers, microphones, and a high-resolution camera for taking photos and videos, in addition to  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-17T19:26:21.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Ray-Ban Meta Datenbrille der zweiten Generation. | Foto von Amelia Holowaty Krales / The Verge Laut einem Bericht von Mark Gurman von Bloomberg treibt Apple seine Pläne voran, seine erste Smart-Brille zusammen mit einem KI-betriebenen Anhänger und mit einer Kamera ausgestatteten AirPods auf den Markt zu bringen. Die drei Geräte ko...",
+    "titleDE": "Berichten zufolge plant Apple die Einführung einer KI-gestützten Brille, eines Anhängers und von AirPods"
+  },
+  {
+    "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
+    "link": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
+    "description": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
+    "pubDate": "2026-02-17T18:38:10.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "„Die Strategie von Broadcom bestand nie darin, jeden Kunden zu halten“, heißt es in dem CloudBolt-Bericht.",
+    "titleDE": "Laut einer Umfrage „reduzieren die meisten VMware-Benutzer immer noch aktiv ihren VMware-Fußabdruck“."
+  },
+  {
+    "title": "WordPress’ new AI assistant will let users edit their sites with prompts",
+    "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+    "description": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make adjustments to their sites like creating new pages or changing fonts.\n\nUsers can also interact with the AI through the new block notes feature WordPress added in its 6.9 update in December, which allows users to leave comments in the site editor. By tagging the AI assistant with \"@ai\" in block notes, users can give it p …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-17T18:33:15.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ab Dienstag können WordPress-Benutzer ihre Websites mit dem neuen KI-Assistenten bearbeiten, der in den Site-Editor und die Medienbibliothek der Plattform integriert ist, berichtet TechCrunch. Die KI verfügt über eine Seitenleiste im WordPress-Site-Editor, in der Benutzer sie auffordern können, Text zu bearbeiten und zu übersetzen sowie Bilder mit Goo zu erstellen und zu bearbeiten.",
+    "titleDE": "Mit dem neuen KI-Assistenten von WordPress können Benutzer ihre Websites mit Eingabeaufforderungen bearbeiten"
+  },
+  {
+    "title": "Anthropic releases Sonnet 4.6",
+    "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "description": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
+    "pubDate": "2026-02-17T18:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic hat eine neue Version seines mittelgroßen Sonnet-Modells veröffentlicht und hält damit mit dem viermonatigen Update-Zyklus des Unternehmens Schritt.",
+    "titleDE": "Anthropic veröffentlicht Sonnet 4.6"
+  },
+  {
+    "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "description": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+    "pubDate": "2026-02-17T17:22:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mistral AI hat zugestimmt, Koyeb zu kaufen, ein in Paris ansässiges Startup, das die Bereitstellung von KI-Apps in großem Maßstab vereinfacht und die dahinter stehende Infrastruktur verwaltet.",
+    "titleDE": "Mistral AI kauft Koyeb als erste Akquisition, um seine Cloud-Ambitionen zu unterstützen"
+  },
+  {
+    "title": "SpaceX vets raise $50M Series A for data center links",
+    "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
+    "description": "Mesh aims to mass-produce optical transceivers for AI data centers.",
+    "pubDate": "2026-02-17T17:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mesh zielt darauf ab, optische Transceiver für KI-Rechenzentren in Massenproduktion herzustellen.",
+    "titleDE": "SpaceX-Veteranen sammeln 50 Millionen US-Dollar in Serie A für Rechenzentrumsverbindungen"
+  },
+  {
+    "title": "Running AI models is turning into a memory game",
+    "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
+    "description": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
+    "pubDate": "2026-02-17T16:44:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wenn wir über die Kosten der KI-Infrastruktur sprechen, liegt der Fokus normalerweise auf Nvidia und GPUs – aber Speicher spielt eine immer wichtigere Rolle.",
+    "titleDE": "Das Ausführen von KI-Modellen wird zu einem Gedächtnisspiel"
+  },
+  {
+    "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+    "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+    "description": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
+    "pubDate": "2026-02-17T16:30:43.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "EU-Gesetzgeber stellten fest, dass die Verwendung der integrierten KI-Tools auf ihren von der Regierung bereitgestellten Geräten gesperrt war, da sie befürchteten, dass sensible Informationen auf den US-Servern von KI-Unternehmen auftauchen könnten.",
+    "titleDE": "Das Europäische Parlament blockiert KI auf den Geräten der Gesetzgeber unter Berufung auf Sicherheitsrisiken"
+  },
+  {
+    "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
+    "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
+    "description": "The feature is designed to work inside the website to understand its content and layout, allowing site owners to make changes with natural language commands. The WordPress AI assistant doesn't need precisely tailored prompts, either.",
+    "pubDate": "2026-02-17T16:10:44.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Funktion soll innerhalb der Website funktionieren, um deren Inhalt und Layout zu verstehen, sodass Websitebesitzer Änderungen mit Befehlen in natürlicher Sprache vornehmen können. Auch der WordPress-KI-Assistent benötigt keine passgenauen Eingabeaufforderungen.",
+    "titleDE": "WordPress.com fügt einen KI-Assistenten hinzu, der bearbeiten, Stile anpassen, Bilder erstellen und mehr kann"
+  },
+  {
+    "title": "Amazon Fire TV’s new interface is now rolling out in the US",
+    "link": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
+    "description": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
+    "pubDate": "2026-02-17T15:58:43.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neue Benutzeroberfläche von Fire TV vereinfacht das Layout und die Navigation und fügt Alexa+ hinzu.",
+    "titleDE": "Die neue Benutzeroberfläche von Amazon Fire TV wird jetzt in den USA eingeführt"
+  },
+  {
+    "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
+    "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+    "description": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
+    "pubDate": "2026-02-17T14:58:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Drei in den USA ansässige KI-Unternehmen haben im Jahr 2026 bisher Runden von mehr als 1 Milliarde US-Dollar eingesammelt, während 14 weitere Runden von 100 Millionen US-Dollar oder mehr eingesammelt haben.",
+    "titleDE": "Hier sind die 17 in den USA ansässigen KI-Unternehmen, die im Jahr 2026 100 Millionen US-Dollar oder mehr eingesammelt haben"
+  },
+  {
+    "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
+    "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+    "description": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
+    "pubDate": "2026-02-17T14:13:54.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Indien baut seine gemeinsame KI-Berechnung aus und fügt 20.000 GPUs hinzu, um globale KI-Investitionen anzuziehen.",
+    "titleDE": "Indien will bis 2028 über 200 Milliarden US-Dollar an KI-Infrastrukturinvestitionen anziehen"
+  },
+  {
+    "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
+    "link": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
+    "description": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
+    "pubDate": "2026-02-17T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "SpendRule wurde letzten Sommer eingeführt und ist eine KI-gestützte Plattform, die Gesundheitssystemen dabei hilft, ihre Ausgaben zu verfolgen.",
+    "titleDE": "SpendRule sammelt 2 Millionen US-Dollar und taucht aus der Tarnung auf, um Krankenhäusern dabei zu helfen, ihre Ausgaben zu verfolgen"
+  },
+  {
+    "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
+    "link": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
+    "description": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.",
+    "pubDate": "2026-02-17T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die indische Vibe-Coding-Plattform Emergent wurde erst vor acht Monaten ins Leben gerufen und erwirtschaftet dank der steigenden Nachfrage kleiner Unternehmen und technisch nicht versierter Benutzer nun einen jährlichen wiederkehrenden Umsatz von mehr als 100 Millionen US-Dollar.",
+    "titleDE": "Nur acht Monate später meldet das indische Vibe-Coding-Startup Emergent einen ARR von über 100 Millionen US-Dollar"
+  },
+  {
+    "title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
+    "link": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The curious case of the disappearing Lamborghinis Across the world, unsuspecting people are unwittingly becoming caught up in a new and growing type of organized criminal enterprise: vehicle transport fraud and theft. Crooks…",
+    "pubDate": "2026-02-17T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Der merkwürdige Fall der verschwindenden Lamborghinis Überall auf der Welt geraten ahnungslose Menschen unwissentlich in eine neue und wachsende Art organisierter ...",
+    "titleDE": "Der Download: Der Anstieg des Diebstahls von Luxusautos und der Kampf gegen antimikrobielle Resistenzen"
+  },
+  {
+    "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
+    "link": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
+    "description": "Adani's plan targets up to 5 gigawatts of capacity, with data centers planned alongside partnerships with Google, Microsoft, and Flipkart.",
+    "pubDate": "2026-02-17T13:08:46.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Adanis Plan zielt auf eine Kapazität von bis zu 5 Gigawatt ab, wobei neben Partnerschaften mit Google, Microsoft und Flipkart auch Rechenzentren geplant sind.",
+    "titleDE": "Adani verspricht 100 Milliarden US-Dollar für den Bau von KI-Rechenzentren, da Indien eine größere Rolle im globalen KI-Wettbewerb anstrebt"
+  },
+  {
+    "title": "Laurie Spiegel on the difference between algorithmic music and ‘AI’",
+    "link": "https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival",
+    "description": "From Bell Labs to Macs, Laurie Spiegel has pushed musical boundaries. | Image: Irina Prosser / Eventide\t\n\nIn 1986, electronic music pioneer Laurie Spiegel created Music Mouse, a way for those with a Mac, Atari, or Amiga computer to dabble in algorithmic music creation. Music Mouse is deceptively simple: Notes are arranged on an XY grid, and you play it by moving a mouse around. Back in 1986, the computer mouse was still a relatively novel device. While it can trace its origins back to the late '60s, it wasn't until the Macintosh 128K in 1984 that it started seeing widespread adoption.\nBy then Spiegel, was already an accomplished composer. Her 1980 album The Expanding Universe is generally considered among the greatest ambient records of all tim …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-17T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Von Bell Labs bis hin zu Macs hat Laurie Spiegel musikalische Grenzen überschritten. | Bild: Irina Prosser / Eventide Im Jahr 1986 entwickelte die Pionierin der elektronischen Musik Laurie Spiegel die Music Mouse, eine Möglichkeit für Benutzer eines Mac-, Atari- oder Amiga-Computers, sich an der algorithmischen Musikerstellung zu versuchen. Music Mouse ist täuschend einfach...",
+    "titleDE": "Laurie Spiegel über den Unterschied zwischen algorithmischer Musik und „KI“"
+  },
+  {
+    "title": "As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents",
+    "link": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
+    "description": "Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called \"agentic\" systems.",
+    "pubDate": "2026-02-17T12:55:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Im Rahmen der Partnerschaft plant Infosys, die Claude-Modelle von Anthropic in seine Topaz-KI-Plattform zu integrieren, um sogenannte „agentische“ Systeme zu bauen.",
+    "titleDE": "Während KI-Störungen die IT-Aktien erschüttern, arbeitet Infosys mit Anthropic zusammen, um KI-Agenten auf Unternehmensniveau zu entwickeln"
+  },
+  {
+    "title": "The curious case of the disappearing Lamborghinis",
+    "link": "https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/",
+    "description": "When Sam Zahr first saw the gray Rolls-Royce Dawn convertible with orange interior and orange roof, he knew he’d found a perfect addition to his fleet. “It was very appealing to our clientele,” he told me. As the director of operations at Dream Luxury Rental, he outfits customers in the Detroit area looking to ride…",
+    "pubDate": "2026-02-17T11:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Als Sam Zahr zum ersten Mal das graue Rolls-Royce Dawn Cabriolet mit orangefarbener Innenausstattung und orangefarbenem Dach sah, wusste er, dass er eine perfekte Ergänzung für seine Flotte gefunden hatte. „Es war für unsere Kundschaft sehr ansprechend“, erzählte er mir. Als Betriebsleiter bei Dream Luxury Rental stattet er Kunden im Großraum Detroit aus ...",
+    "titleDE": "Der seltsame Fall der verschwundenen Lamborghinis"
+  },
+  {
+    "title": "Samsung is slopping AI ads all over its social channels",
+    "link": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
+    "description": "Even if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\t\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\nThe \"Brighten your after hours\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen toward the end of the video, flagging that it was \"generated with the ass …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-17T10:55:32.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Auch wenn die KI nicht offengelegt wurde, ist ihre Verwendung in diesen Videos nicht gerade subtil. | Bild: Samsung / The Verge Nachdem Samsung jeden Zentimeter seiner Smartphones, Haushaltsgeräte und anderen Geräte mit künstlicher Intelligenz ausgestattet hat, verbreitet es diese nun zunehmend in den sozialen Medien. Mehrere auf der Website des Unternehmens gepostete Videos...",
+    "titleDE": "Samsung schaltet auf allen seinen sozialen Kanälen KI-Werbung"
+  },
+  {
+    "title": "Cohere launches a family of open multilingual models",
+    "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+    "description": "Cohere's Tiny Aya models support over 70 langauges",
+    "pubDate": "2026-02-17T09:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Tiny Aya-Modelle von Cohere unterstützen über 70 Sprachen",
+    "titleDE": "Cohere bringt eine Familie offener mehrsprachiger Modelle auf den Markt"
+  },
+  {
     "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
     "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
     "description": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
@@ -12,11 +282,11 @@
   {
     "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
     "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
-    "description": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
+    "description": "The reason why this nascent startup had VCs lining up is the founders. They are so famed in the AI world, everyone tried to hire them.",
     "pubDate": "2026-02-16T17:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Der Grund, warum bei diesem aufstrebenden Startup VCs in der Schlange standen, sind die Gründer. Sie sind in der KI-Welt so berühmt, dass jeder versuchte, sie einzustellen.",
+    "descriptionDE": "Der Grund, warum bei diesem aufstrebenden Startup VCs Schlange standen, sind die Gründer. Sie sind in der KI-Welt so berühmt, dass jeder versucht hat, sie einzustellen.",
     "titleDE": "Wie Ricursive Intelligence in 4 Monaten 335 Millionen US-Dollar bei einer Bewertung von 4 Milliarden US-Dollar einsammelte"
   },
   {
@@ -42,7 +312,7 @@
   {
     "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
     "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
-    "description": "\"We're exploring a different set of tradeoffs.\"",
+    "description": "\"We're exploring a different set of trade-offs.\"",
     "pubDate": "2026-02-16T14:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
@@ -90,16 +360,6 @@
     "titleDE": "Nachdem ByteDance Hollywood erschreckt hat, wird es die Sicherheitsvorkehrungen für das neue KI-Modell optimieren"
   },
   {
-    "title": "All the important news from the ongoing India AI Impact Summit",
-    "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
-    "description": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-    "pubDate": "2026-02-16T11:20:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Indien veranstaltet diese Woche einen viertägigen KI-Gipfel, an dem Führungskräfte großer KI-Labore und Big Tech, darunter OpenAI, Anthropic, Nvidia, Microsoft, Google und Cloudflare, sowie Staatsoberhäupter teilnehmen werden.",
-    "titleDE": "Alle wichtigen Neuigkeiten vom laufenden India AI Impact Summit"
-  },
-  {
     "title": "The scientist using AI to hunt for antibiotics just about everywhere",
     "link": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
     "description": "When he was just a teenager trying to decide what to do with his life, César de la Fuente compiled a list of the world’s biggest problems. He ranked them inversely by how much money governments were spending to solve them. Antimicrobial resistance topped the list.  Twenty years on, the problem has not gone away.…",
@@ -120,26 +380,6 @@
     "titleDE": "Hacker drohten diesem Sicherheitsforscher mit dem Tod. Großer Fehler."
   },
   {
-    "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
-    "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-    "description": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
-    "pubDate": "2026-02-16T01:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "C2i hat 15 Millionen US-Dollar gesammelt, während es einen Grid-to-GPU-Ansatz zur Reduzierung von Stromverlusten in KI-Rechenzentren testet.",
-    "titleDE": "Da KI-Rechenzentren an ihre Leistungsgrenzen stoßen, unterstützt Peak XV das indische Startup C2i, um den Engpass zu beheben"
-  },
-  {
-    "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
-    "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
-    "description": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
-    "pubDate": "2026-02-16T00:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Neysa strebt im Laufe der Zeit den Einsatz von mehr als 20.000 GPUs an, da die Nachfrage nach lokaler KI-Berechnung steigt.",
-    "titleDE": "Blackstone unterstützt Neysa mit einer Finanzierung von bis zu 1,2 Milliarden US-Dollar, während Indien den Aufbau einer inländischen KI-Infrastruktur vorantreibt"
-  },
-  {
     "title": "OpenClaw founder Peter Steinberger is joining OpenAI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
     "description": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that this ability for agents to work together will \"quickly become core to our product offerings.\"\nOpenClaw, previously known as Moltbot and Clawdbot, exploded on the scene earlier this year and became the darling of the tech world. Its rise was swift, but not without its bumps along the way. Earlier this month, researchers found over 400 malicious skil …\nRead the full story at The Verge.",
@@ -150,156 +390,6 @@
     "titleDE": "OpenClaw-Gründer Peter Steinberger schließt sich OpenAI an"
   },
   {
-    "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-    "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-    "description": "OpenAI said OpenClaw will live on as an open source project.",
-    "pubDate": "2026-02-15T22:28:02.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI sagte, OpenClaw werde als Open-Source-Projekt weiterleben.",
-    "titleDE": "OpenClaw-Erfinder Peter Steinberger schließt sich OpenAI an"
-  },
-  {
-    "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
-    "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-    "description": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
-    "pubDate": "2026-02-15T22:07:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der langjährige Moderator der NPR-Sendung „Morning Edition“ verklagt Google und behauptet, dass die männliche Podcast-Stimme im NotebookLM-Tool des Unternehmens auf ihm basiert.",
-    "titleDE": "Der langjährige NPR-Moderator David Greene verklagt Google wegen NotebookLM-Stimme"
-  },
-  {
-    "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-    "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-    "description": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
-    "pubDate": "2026-02-15T21:11:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die offensichtliche Frage ist, ob Claude für die Massenüberwachung im Inland und für autonome Waffen eingesetzt werden kann.",
-    "titleDE": "Berichten zufolge streiten Anthropic und das Pentagon über die Verwendung von Claude"
-  },
-  {
-    "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-    "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-    "description": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
-    "pubDate": "2026-02-15T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sam Altman, CEO von OpenAI, sagt, dass Indien weltweit die größte Anzahl studentischer Benutzer von ChatGPT hat.",
-    "titleDE": "Indien hat wöchentlich 100 Millionen aktive ChatGPT-Benutzer, sagt Sam Altman"
-  },
-  {
-    "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-    "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-    "description": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-    "pubDate": "2026-02-15T17:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In der Folge des Equity-Podcasts dieser Woche erklärt Glean-CEO Arvind Jain den Wandel des Unternehmens vom Enterprise-Suchtool zur Middleware-Ebene für Unternehmens-KI.",
-    "titleDE": "Der Landraub der Unternehmens-KI ist im Gange. Glean baut die Schicht unter der Schnittstelle auf."
-  },
-  {
-    "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-    "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-    "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-    "pubDate": "2026-02-15T15:41:16.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Hollywood-Organisationen wehren sich gegen ein neues KI-Videomodell namens Seedance 2.0, das ihrer Meinung nach schnell zu einem Werkzeug für „eklatante“ Urheberrechtsverletzungen geworden ist.",
-    "titleDE": "Hollywood ist mit dem neuen Videogenerator Seedance 2.0 nicht zufrieden"
-  },
-  {
-    "title": "I hate my AI pet with every fiber of my being",
-    "link": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet",
-    "description": "I can still hear it whining and whirring. | Photo by Robert Hart / The Verge\t\n\nAfter a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit with an overwhelming desire to hurl it as far as I can. \nMy antipathy surprises me. By any metric, I am the exact kind of person Moflin was made for: I long for the companionship of a pet, but can't own one thanks to a mixture of lifestyle, allergies, a small London flat, and a broadly irresponsible temperament that makes caring for another living  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-15T15:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ich kann es immer noch jammern und surren hören. | Foto von Robert Hart / The Verge Nachdem ich ein paar Wochen mit Casios KI-betriebenem Haustier Moflin gelebt habe, verstehe ich endlich, warum meine Mutter meinen Furby so sehr hasste. Der flauschige, an ein Meerschweinchen angrenzende Puffball passt genau in meine Handfläche. Es ist unbestreitbar süß, in einem...",
-    "titleDE": "Ich hasse mein KI-Haustier mit jeder Faser meines Körpers"
-  },
-  {
-    "title": "AI can’t make good video game worlds yet, and it might never be able to",
-    "link": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before the generative AI explosion, video game developers made games that could generate their own worlds. Think of titles like Minecraft or even the original 1980 Rogue that is the basis for the term \"roguelike\"; these games and many others create worlds on the fly with certain rules and parameters. Human developers painstakingly work to make s …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-15T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Für weitere Neuigkeiten über den Widerstand der Videospielindustrie gegen generative KI folgen Sie Jay Peters. Der Stepback erreicht die Posteingänge unserer Abonnenten um 8 Uhr ET. Melden Sie sich hier für The Stepback an. Wie alles begann Lange ...",
-    "titleDE": "KI kann noch keine guten Videospielwelten erschaffen und wird es vielleicht auch nie schaffen"
-  },
-  {
-    "title": "The great computer science exodus (and where students are going instead)",
-    "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
-    "description": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
-    "pubDate": "2026-02-15T08:40:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Interesse der Studierenden an der Informatik im Großen und Ganzen geht zurück, das Interesse an KI-spezifischen Hauptfächern und Kursen wächst jedoch.",
-    "titleDE": "Der große Exodus der Informatik (und wohin die Studenten stattdessen gehen)"
-  },
-  {
-    "title": "Is safety ‘dead’ at xAI?",
-    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-    "description": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
-    "pubDate": "2026-02-14T21:55:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut einem ehemaligen Mitarbeiter arbeitet Elon Musk „aktiv“ daran, den Grok-Chatbot von xAI „aus den Fugen zu bringen“.",
-    "titleDE": "Ist Sicherheit bei xAI „tot“?"
-  },
-  {
-    "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
-    "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
-    "description": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
-    "pubDate": "2026-02-14T16:23:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Indiens Dachfonds im Wert von 1,1 Milliarden US-Dollar wird über private VCs investieren, um Deep-Tech- und Fertigungs-Startups zu unterstützen.",
-    "titleDE": "Indien verstärkt sein staatlich gefördertes Risikokapital und genehmigt einen 1,1-Milliarden-Dollar-Fonds"
-  },
-  {
-    "title": "My uncanny AI valentines",
-    "link": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions",
-    "description": "Phoebe Callas, 30, is not real, but she was an AI companion I went on a speed date with.\t\n\nHopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple neon sign reading \"EVA AI cafe.\" Inside, several people were seated at tables and booths, staring at phones. Servers milled about, placing mini potato croquettes and nonalcoholic spritzers on each table. Like many New York City bars, the majority of the patrons were on a date. \nUnlike every other bar, half of the dates weren't human.\nAs I enter, I'm shown to a table tucked away in the corner with a phone stand, a phone preloaded with the EVA AI app, and a pair of wireless headphones. An EVA AI employee doesn't explain how things wor …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-14T15:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Phoebe Callas, 30, ist nicht echt, aber sie war eine KI-Begleiterin, mit der ich ein Speed-Date hatte. Ich hüpfte über einen Haufen schmutzigen Schnees und kam an einem eiskalten Februarabend in einer Weinbar in der Innenstadt an, an deren violettem Neonschild „EVA AI Café“ stand. Drinnen saßen mehrere Leute an Tischen und Nischen und starrten auf ...",
-    "titleDE": "Meine unheimlichen KI-Valentinsgrüße"
-  },
-  {
-    "title": "Airbnb plans to bake in AI features for search, discovery and support",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
-    "description": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.",
-    "pubDate": "2026-02-14T02:40:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Brian Chesky, CEO von Airbnb, sagte, das Unternehmen wolle den Einsatz großer Sprachmodelle für die Kundenerkennung, den Support und die Entwicklung verstärken.",
-    "titleDE": "Airbnb plant, KI-Funktionen für Suche, Entdeckung und Support zu integrieren"
-  },
-  {
-    "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-    "description": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
-    "pubDate": "2026-02-13T22:12:26.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Airbnb war bereit, eine App einzuführen, die nicht nur nach Ihnen sucht, sondern eine, die Sie „kennt“. CEO Brian Chesky sagte: „Es wird Gästen helfen, ihre gesamte Reise zu planen, Gastgebern dabei helfen, ihre Geschäfte besser zu führen, und dem Unternehmen helfen, in großem Maßstab effizienter zu arbeiten.“",
-    "titleDE": "Airbnb gibt an, dass ein Drittel seines Kundensupports in den USA und Kanada inzwischen von KI abgewickelt wird"
-  },
-  {
-    "title": "Why top talent is walking away from OpenAI and xAI",
-    "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
-    "description": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature.  Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony […]",
-    "pubDate": "2026-02-13T21:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI-Unternehmen haben in den letzten Wochen einen Talentverlust erlitten. Die Hälfte des Gründungsteams von xAI hat das Unternehmen verlassen – einige allein, andere durch „Umstrukturierung“ –, während OpenAI mit eigenen Umwälzungen konfrontiert ist, von der Auflösung seines Mission Alignment-Teams bis zur Entlassung eines politischen Managers, der sich widersetzte ...",
-    "titleDE": "Warum Top-Talente OpenAI und xAI aufgeben"
-  },
-  {
     "title": "ALS stole this musician’s voice. AI let him sing again.",
     "link": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/",
     "description": "There are tears in the audience as Patrick Darling’s song begins to play. It’s a heartfelt song written for his great-grandfather, whom he never got the chance to meet. But this performance is emotional for another reason: It’s Darling’s first time on stage with his bandmates since he lost the ability to sing two years…",
@@ -308,36 +398,6 @@
     "category": "trend",
     "descriptionDE": "Als das Lied von Patrick Darling erklingt, fließen Tränen im Publikum. Es ist ein von Herzen kommendes Lied, das er für seinen Urgroßvater geschrieben hat, den er nie kennengelernt hat. Aber dieser Auftritt ist aus einem anderen Grund emotional: Es ist das erste Mal, dass Darling mit seinen Bandkollegen auf der Bühne steht, seit er die Fähigkeit verloren hat ...",
     "titleDE": "ALS hat die Stimme dieses Musikers gestohlen. AI ließ ihn wieder singen."
-  },
-  {
-    "title": "What’s behind the mass exodus at xAI?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring",
-    "description": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his departure and that it was \"time for [his] next chapter,\" with cofounder Jimmy Ba following with a similar post later that day, writing that it was \"time to recalibrate [his] gradient on the big picture.\" The departures mean that xAI is now left with only half of its original 12 cofounders on staff. A number of staffers also took to X to announce they were leaving xAI, with some announcing that they were starting their own AI companies. \nElon Musk's …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-13T17:10:44.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die letzten Tage waren für xAI eine wilde Fahrt, da es überall immer mehr Abgänge von Mitarbeitern und Mitbegründern gibt. Am Dienstag und Mittwoch kündigte Mitbegründer Yuhuai (Tony) Wu seinen Rücktritt an und dass es „Zeit für [sein] nächstes Kapitel“ sei, gefolgt von Mitbegründer Jimmy Ba mit einem ähnlichen ...",
-    "titleDE": "Was steckt hinter der Massenflucht bei xAI?"
-  },
-  {
-    "title": "Ring&#8217;s adorable surveillance hellscape",
-    "link": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
-    "description": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see both at the same time.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, Nilay and David talk about the Super Bowl ad that worried so many people, why Ring would build a feature like th …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-13T16:10:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sie können sich die aktuelle Super Bowl-Werbung von Ring ansehen und eine süße Geschichte über die Wiedervereinigung von Hunden mit ihren Familien sehen. Sie können sich auch dieselbe Anzeige ansehen und sehen, wie der Grundstein für ein massiv vernetztes, völlig allgegenwärtiges Überwachungssystem gelegt wird, das dem Konzept der Privatsphäre für immer ein Ende bereiten wird. Vielleicht bist du...",
-    "titleDE": "Rings bezaubernde Überwachungshöllenlandschaft"
-  },
-  {
-    "title": "Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted",
-    "link": "https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates",
-    "description": "Meta aims to introduce facial recognition to its smart glasses while its biggest critics are distracted, according to a report from The New York Times. In an internal document reviewed by The Times, Meta says it will launch the feature \"during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns.\"\nThe document is from last May and reportedly describes the new \"Name Tag\" feature that would allow smart glasses wearers to identify people using Meta's built-in AI assistant. The New York Times reports that Meta initially planned to launch the featur …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-13T15:05:44.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut einem Bericht der New York Times will Meta die Gesichtserkennung in seine Datenbrillen integrieren, während seine größten Kritiker abgelenkt sind. In einem internen Dokument, das von The Times überprüft wurde, sagt Meta, dass das Feature „in einem dynamischen politischen Umfeld, in dem viele Zivilgesellschaften …“ veröffentlicht werden.",
-    "titleDE": "Berichten zufolge möchte Meta den Datenbrillen eine Gesichtserkennung hinzufügen, während Datenschützer abgelenkt sind"
   },
   {
     "title": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
@@ -378,16 +438,6 @@
     "category": "trend",
     "descriptionDE": "Nach der Veröffentlichung dieser Geschichte berichtete Politico, dass Jim O’Neill seine derzeitigen Funktionen im Ministerium für Gesundheit und Soziale Dienste aufgeben werde. Im vergangenen Jahr hat sich Jim O’Neill zu einem der einflussreichsten Menschen im öffentlichen Gesundheitswesen entwickelt. Als stellvertretender US-Gesundheitsminister hat er zwei Rollen inne...",
     "titleDE": "Stellvertretender US-Gesundheitsminister: Die Impfrichtlinien können sich noch ändern"
-  },
-  {
-    "title": "RFK Jr. follows a carnivore diet. That doesn’t mean you should.",
-    "link": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/",
-    "description": "Americans have a new set of diet guidelines. Robert F. Kennedy Jr. has taken an old-fashioned food pyramid, turned it upside down, and plonked a steak and a stick of butter in prime positions. Kennedy and his Make America Healthy Again mates have long been extolling the virtues of meat and whole-fat dairy, so it…",
-    "pubDate": "2026-02-13T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Amerikaner haben neue Ernährungsrichtlinien. Robert F. Kennedy Jr. hat eine altmodische Ernährungspyramide genommen, sie auf den Kopf gestellt und ein Steak und ein Stück Butter auf die besten Plätze gesteckt. Kennedy und seine „Make America Healthy Again“-Kollegen preisen seit langem die Vorzüge von Fleisch und Vollfett ...",
-    "titleDE": "RFK Jr. ernährt sich fleischfressend. Das bedeutet nicht, dass Sie es tun sollten."
   },
   {
     "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
@@ -440,16 +490,6 @@
     "titleDE": "Laut Google forderten Angreifer über 100.000 Mal Gemini auf, als sie versuchten, es zu klonen"
   },
   {
-    "title": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
-    "link": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-    "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we understand that we'd be better off with less screen time, our extremely online society doesn't exactly encourage that kind of healthy behavior.\nThese are some of the familiar ideas at work in Good Luck, Have Fun, Don't Die, director Gore Verbinski's new sci-fi film about a man's desperate fight to save humanity from an apocalyptic future where m …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-12T17:45:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Wir sind alle schuldig, unsere Telefone herauszuholen und durch stressige Schlagzeilen oder nervtötende Videos zu scrollen, obwohl wir eigentlich etwas anderes tun sollten. Wir wissen, dass es schlecht ist, aber wir tun es trotzdem, weil es schwierig ist, Widerstand zu leisten, wenn wir einen Großteil unserer Zeit damit verbringen, an unseren Geräten zu leben und zu arbeiten. Und obwohl wir...",
-    "titleDE": "„Good Luck, Have Fun, Don’t Die“ ist eine ausgelassene Parabel über diesen Moment in der Technik"
-  },
-  {
     "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
     "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
@@ -458,16 +498,6 @@
     "category": "news",
     "descriptionDE": "Wir veröffentlichen ein großes Upgrade für Gemini 3 Deep Think, unseren speziellen Denkmodus.",
     "titleDE": "Gemini 3 Deep Think: Förderung von Wissenschaft, Forschung und Technik"
-  },
-  {
-    "title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
-    "link": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is already making online crimes easier. It could get much worse. Just as software engineers are using artificial intelligence to help write code and check for bugs, hackers are using these tools…",
-    "pubDate": "2026-02-12T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. KI erleichtert bereits Online-Verbrechen. Es könnte noch viel schlimmer kommen. So wie Softwareentwickler künstliche Intelligenz nutzen, um Code zu schreiben und zu prüfen, ob …",
-    "titleDE": "Der Download: KI-gestützte Cyberkriminalität und sichere KI-Assistenten"
   },
   {
     "title": "Introducing GPT-5.3-Codex-Spark",
@@ -508,25 +538,5 @@
     "category": "news",
     "descriptionDE": "Von Ryan Lopopolo, Mitglied des technischen Personals",
     "titleDE": "Harness Engineering: Nutzung von Codex in einer Agent-First-Welt"
-  },
-  {
-    "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-    "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-    "description": "This story has been retracted",
-    "pubDate": "2026-02-10T19:40:21.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Diese Geschichte wurde zurückgezogen",
-    "titleDE": "Rückzug: Nach einer routinemäßigen Code-Ablehnung veröffentlichte ein KI-Agent einen hitzigen Artikel über eine namentlich genannte Person"
-  },
-  {
-    "title": "9 fun questions to try asking Google Photos",
-    "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-    "description": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
-    "pubDate": "2026-02-10T17:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie mehr über die neue „Ask“-Schaltfläche von Google Fotos sowie über andere Funktionen der „Ask Photos“-Funktion.",
-    "titleDE": "9 lustige Fragen, die Sie Google Fotos stellen sollten"
   }
 ]
