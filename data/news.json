@@ -1,13 +1,413 @@
 [
   {
-    "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
-    "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
-    "description": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
-    "pubDate": "2026-02-19T05:34:25.000Z",
+    "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+    "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+    "description": "\"It also takes a lot of energy to train a human.\"",
+    "pubDate": "2026-02-21T21:38:01.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "OpenAI plant außerdem, seine Präsenz in Indien noch in diesem Jahr mit neuen Büros in Mumbai und Bengaluru auszubauen.",
-    "titleDE": "OpenAI beauftragt Tata mit einer KI-Rechenzentrumskapazität von 100 MW in Indien und strebt 1 GW an"
+    "descriptionDE": "„Außerdem kostet es viel Energie, einen Menschen zu trainieren.“",
+    "titleDE": "Sam Altman möchte Sie daran erinnern, dass auch Menschen viel Energie verbrauchen"
+  },
+  {
+    "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+    "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+    "description": "Is Microsoft's gaming division doubling down on AI?",
+    "pubDate": "2026-02-21T17:41:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Verdoppelt die Gaming-Abteilung von Microsoft den Einsatz von KI?",
+    "titleDE": "Der neue Gaming-CEO von Microsoft verspricht, das Ökosystem nicht mit „endlosem KI-Schwachsinn“ zu überschwemmen"
+  },
+  {
+    "title": "Google VP warns that two types of AI startups may not survive",
+    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+    "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+    "pubDate": "2026-02-21T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während sich die generative KI weiterentwickelt, warnt ein Google-Vizepräsident, dass LLM-Wrapper und KI-Aggregatoren zunehmendem Druck ausgesetzt sind, da schrumpfende Margen und begrenzte Differenzierung ihre langfristige Rentabilität gefährden.",
+    "titleDE": "Google VP warnt davor, dass zwei Arten von KI-Startups möglicherweise nicht überleben"
+  },
+  {
+    "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+    "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+    "description": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+    "pubDate": "2026-02-21T15:25:44.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Jesse Van Rootselaars Beschreibungen von Waffengewalt wurden von Tools gemeldet, die ChatGPT auf Missbrauch überwachen.",
+    "titleDE": "OpenAI debattierte darüber, die Polizei wegen der Chats mutmaßlicher kanadischer Schützen anzurufen"
+  },
+  {
+    "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+    "description": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately declined.\nOpenAI spokesperson Kayla Wood told The Verge that, while the company considered referring the account to law enforcement, it was ultimately deci …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-21T15:22:57.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Verdächtige der Massenschießerei in Tumbler Ridge, British Columbia, Jesse Van Rootselaar, schlug Monate vor der Schießerei unter den Mitarbeitern von OpenAI Alarm. Im vergangenen Juni führte Jesse Gespräche mit ChatGPT, in denen es um Beschreibungen von Waffengewalt ging, die die automatische Aktivierung des Chatbots auslöste...",
+    "titleDE": "Der Verdächtige der Schießerei in einer Schule in Tumbler Ridge beschrieb ChatGPT Gewaltszenarien"
+  },
+  {
+    "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
+    "description": "Lowest ticket prices to TechCrunch Disrupt 2026 end February 27. Up to $680 off individual passes and up to 30% off group passes. Register before they go up to join 10,000 founders, tech operators, and VCs.",
+    "pubDate": "2026-02-21T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die niedrigsten Ticketpreise für TechCrunch Disrupt 2026 enden am 27. Februar. Bis zu 680 $ Rabatt auf Einzelkarten und bis zu 30 % Rabatt auf Gruppenkarten. Registrieren Sie sich, bevor sie auftauchen, um sich 10.000 Gründern, Technologiebetreibern und VCs anzuschließen.",
+    "titleDE": "Noch 7 Tage bis die Ticketpreise für TechCrunch Disrupt 2026 steigen"
+  },
+  {
+    "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "description": "Sarvam's Indus chat app is currently available in beta.",
+    "pubDate": "2026-02-21T01:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Indus-Chat-App von Sarvam ist derzeit in der Betaversion verfügbar.",
+    "titleDE": "Das indische Unternehmen Sarvam führt die KI-Chat-App Indus ein, da sich der Wettbewerb verschärft"
+  },
+  {
+    "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+    "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, […]",
+    "pubDate": "2026-02-20T23:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Creator-Wirtschaft entwickelt sich rasant weiter und Werbeeinnahmen allein reichen nicht mehr aus. YouTuber bringen Produktlinien auf den Markt, übernehmen Startups und bauen echte Geschäftsimperien auf. Tatsächlich hat MrBeasts Unternehmen das Fintech-Startup Step gekauft und sein Schokoladengeschäft übertrifft seinen Medienzweig. Das ist...",
+    "titleDE": "Das Problem der Werbeeinnahmen der Creator Economy und Indiens KI-Ambitionen"
+  },
+  {
+    "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions ",
+    "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
+    "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is out-earning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  […]",
+    "pubDate": "2026-02-20T22:24:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Creator-Wirtschaft entwickelt sich rasant weiter und Werbeeinnahmen allein reichen nicht mehr aus. YouTuber bringen Produktlinien auf den Markt, übernehmen Startups und bauen echte Geschäftsimperien auf. Tatsächlich hat MrBeasts Unternehmen das Fintech-Startup Step gekauft und sein Schokoladengeschäft übertrifft seinen Medienzweig. Das ...",
+    "titleDE": "Warum YouTuber ihre Werbeeinnahmen zugunsten von Schokoriegeln und Fintech-Akquisitionen aufgeben"
+  },
+  {
+    "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+    "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+    "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
+    "pubDate": "2026-02-20T20:52:48.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Beim Duell zwischen Pro-KI-PACs ging es immer um die Unterstützung oder gezielte Unterstützung eines Kandidaten für den New Yorker Kongress: Alex Bores, dessen RAISE Act von KI-Entwicklern verlangt, Sicherheitsprotokolle offenzulegen und schwerwiegenden Systemmissbrauch zu melden.",
+    "titleDE": "Von Anthropic finanzierte Gruppe unterstützt Kandidaten, der vom rivalisierenden KI-Super-PAC angegriffen wird"
+  },
+  {
+    "title": "Trump is making coal plants even dirtier as AI demands more energy",
+    "link": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+    "description": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images\t\n\nThe Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data centers. \nThose standards are particularly impactful when it comes to pollution from coal plants responsible for around half of mercury emissions in the US. Mercury is a neurotoxin; high exposure has been linked to birth defects and learning disabilities in children. Exposure can also impact the kidneys and nervous system.\n\nTrump's deregulation spree aims to make it easier to quickly constr …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-02-20T20:18:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Kingston Fossil Plant, ein 1,4-Gigawatt-Kohlekraftwerk im Roane County, etwas außerhalb von Kingston, Tennessee, am Ufer des Watts Bar Lake. | Foto: Getty Images Die Trump-Regierung hat gerade die Beschränkungen der Biden-Ära für Quecksilber und andere giftige Schadstoffe aus Kraftwerken aufgehoben. Es ist r...",
+    "titleDE": "Trump macht Kohlekraftwerke noch schmutziger, da KI mehr Energie benötigt"
+  },
+  {
+    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+    "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+    "description": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
+    "pubDate": "2026-02-20T19:24:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das von Buchhaltern gegründete Startup, die bei Flexport, Miro, Hopin und Thrive Global gearbeitet haben, automatisiert die Schwierigkeiten bei der Erstellung von Finanzberichten.",
+    "titleDE": "InScope erhält 14,5 Millionen US-Dollar, um die Probleme der Finanzberichterstattung zu lösen"
+  },
+  {
+    "title": "Exclusive eBook: The great Al hype correction of 2025",
+    "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+    "description": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
+    "pubDate": "2026-02-20T18:46:07.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "2025 war ein Jahr der Abrechnung, auch der Tatsache, dass die Chefs der führenden KI-Unternehmen Versprechen machten, die sie nicht halten konnten. In diesem exklusiven E-Book nur für Abonnenten erfahren Sie mehr darüber, warum wir unsere Erwartungen möglicherweise anpassen müssen. Diese Geschichte ist Teil des Hype Correction-Pakets.von Will Douglas Heaven Dece...",
+    "titleDE": "Exklusives E-Book: Die große Al-Hype-Korrektur von 2025"
+  },
+  {
+    "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
+    "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
+    "description": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
+    "pubDate": "2026-02-20T18:26:54.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein neuer Bericht von Business Insider enthüllt, dass hochrangige Ingenieure bei xAI aus anderen Projekten abgezogen wurden, um sicherzustellen, dass Grok detaillierte Fragen zum Videospiel Baldur's Gate beantworten konnte.",
+    "titleDE": "Tolle Neuigkeiten für xAI: Grok ist jetzt ziemlich gut darin, Fragen zu Baldur’s Gate zu beantworten"
+  },
+  {
+    "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+    "description": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar with the matter said the tool chose to \"delete and recreate the environment\" it was working on, which caused the outage.\nWhile Kiro normally requires sign-off from two humans to push changes, the bot had the permissions of its operator, and a human error there allowed more access than expected.\nAmazon describ …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-20T16:52:48.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nach Angaben der Financial Times erlitt Amazon Web Services im Dezember aufgrund der Aktionen seines KI-Codierungsassistenten Kiro einen 13-stündigen Ausfall eines Systems. Zahlreiche namentlich nicht genannte Amazon-Mitarbeiter teilten der FT mit, dass der KI-Agent Kiro für den Vorfall im Dezember verantwortlich sei, bei dem ein AWS-Dienst teilweise betroffen war …",
+    "titleDE": "Amazon macht menschliche Mitarbeiter für den Fehler eines KI-Programmierers verantwortlich"
+  },
+  {
+    "title": "OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
+    "description": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information. The device will be able to recognize things like \"items on a nearby table or conversations people are having in the vicinity,\" The Information says, and it will have a Face ID-like facial recognition system so that people can purchase things.\nOpenAI acquired Jony Ive's hardware company last May in a deal worth nearly $6.5 billion. Details about their hardware products have been trickling out since then, including that the first device won't be a wearable and that it won't be released to customers …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-20T16:52:03.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die erste Hardware-Veröffentlichung von OpenAI wird ein intelligenter Lautsprecher mit einer Kamera sein, der laut The Information voraussichtlich zwischen 200 und 300 US-Dollar kosten wird. Das Gerät wird in der Lage sein, Dinge wie „Gegenstände auf einem Tisch in der Nähe oder Gespräche, die Leute in der Nähe führen“ zu erkennen, heißt es in The Information, und ...",
+    "titleDE": "Das erste ChatGPT-Gadget von OpenAI könnte ein intelligenter Lautsprecher mit Kamera sein"
+  },
+  {
+    "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
+    "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
+    "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
+    "pubDate": "2026-02-20T16:25:54.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Süchtig machende, KI-fähige Tablets sind auf dem Vormarsch, und außerdem bekommt Woody im neuen Toy Story-Film, der am 19. Juni erscheint, eine Glatze.",
+    "titleDE": "„Toy Story 5“ nimmt gruselige KI-Spielzeuge ins Visier: „Ich höre immer zu“"
+  },
+  {
+    "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
+    "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+    "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
+    "pubDate": "2026-02-20T15:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "KI erweitert den Zugang zum Filmemachen für Filmemacher mit begrenzten Ressourcen. Doch da Effizienz zum Leitstern der Branche wird, besteht die Gefahr, dass die Kreativität von einer Flut an KI-generierten Inhalten mit geringem Aufwand überwältigt wird.",
+    "titleDE": "Das Versprechen von KI an Indie-Filmemacher: Schneller, billiger, einsamer"
+  },
+  {
+    "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+    "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
+    "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
+    "pubDate": "2026-02-20T15:10:40.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Peak",
+    "titleDE": "Peak"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week",
+    "link": "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/",
+    "description": "The lowest ticket rates of the year for TechCrunch Disrupt 2026 end next Friday, February 27. Save up to $680 on your pass. Register now before prices increase.",
+    "pubDate": "2026-02-20T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die niedrigsten Ticketpreise des Jahres für TechCrunch Disrupt 2026 enden am kommenden Freitag, den 27. Februar. Sparen Sie bis zu 680 $ bei Ihrem Pass. Melden Sie sich jetzt an, bevor die Preise steigen.",
+    "titleDE": "Die Super-Frühbucherpreise für TechCrunch Disrupt 2026 enden in einer Woche"
+  },
+  {
+    "title": "Our First Proof submissions",
+    "link": "https://openai.com/index/first-proof-submissions",
+    "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "pubDate": "2026-02-20T14:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wir teilen die Beweisversuche unseres KI-Modells für die Mathe-Herausforderung „Erster Beweis“ und testen wissenschaftlich fundiertes Denken an Problemen auf Expertenebene.",
+    "titleDE": "Unsere First-Proof-Einreichungen"
+  },
+  {
+    "title": "OpenAI says 18- to 24-year-olds account for nearly 50% of ChatGPT usage in India",
+    "link": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
+    "description": "The company said on Friday that users between 18 and 24 years of age account for nearly 50% of all messages sent by Indians to ChatGPT, and users under 30 account for 80% of usage in the country.",
+    "pubDate": "2026-02-20T13:57:03.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen teilte am Freitag mit, dass Benutzer im Alter zwischen 18 und 24 Jahren für fast 50 % aller von Indern an ChatGPT gesendeten Nachrichten verantwortlich seien und Benutzer unter 30 Jahren für 80 % der Nutzung im Land verantwortlich seien.",
+    "titleDE": "Laut OpenAI machen 18- bis 24-Jährige fast 50 % der ChatGPT-Nutzung in Indien aus"
+  },
+  {
+    "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+    "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips…",
+    "pubDate": "2026-02-20T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Microsoft hat einen neuen Plan, um zu beweisen, was real ist und was KI online ist. KI-gestützte Täuschung durchdringt jetzt unser Online-Leben. Es gibt die hochkarätigen Fälle, die Sie vielleicht ...",
+    "titleDE": "Der Download: Microsofts Online-Realitätscheck und der besorgniserregende Anstieg der Masernfälle"
+  },
+  {
+    "title": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
+    "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
+    "description": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy 8 exaflops of compute through a new system in India.",
+    "pubDate": "2026-02-20T11:58:15.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das in Abu Dhabi ansässige Technologieunternehmen G42 hat sich mit dem US-amerikanischen Chiphersteller Cerebras zusammengetan, um 8 Exaflops an Rechenleistung über ein neues System in Indien bereitzustellen.",
+    "titleDE": "G42 der Vereinigten Arabischen Emirate arbeitet mit Cerebras zusammen, um 8 Exaflops an Rechenleistung in Indien bereitzustellen"
+  },
+  {
+    "title": "Job titles of the future: Breast biomechanic",
+    "link": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
+    "description": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she’s still looking. Wakefield-Scurr now leads an 18-person team…",
+    "pubDate": "2026-02-20T11:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Vor zwanzig Jahren hatte Joanna Wakefield-Scurr anhaltende Schmerzen in ihren Brüsten. Ihr Arzt konnte die Ursache nicht diagnostizieren, sagte aber, ein guter, unterstützender BH könne helfen. Wakefield-Scurr, Professorin für Biomechanik, dachte, sie könnte ein wenig recherchieren und eine wissenschaftlich fundierte Option finden. Zwei Jahrzehnte später...",
+    "titleDE": "Berufsbezeichnungen der Zukunft: Brustbiomechanikerin"
+  },
+  {
+    "title": "Community service",
+    "link": "https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/",
+    "description": "The bird is a beautiful silver-gray, and as she dies twitching in the lasernet I’m grateful for two things: First, that she didn’t make a sound. Second, that this will be the very last time.  They’re called corpse doves—because the darkest part of their gray plumage surrounds the lighter part, giving the impression that skeleton…",
+    "pubDate": "2026-02-20T11:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Der Vogel ist wunderschön silbergrau, und als er zuckend im Lasernetz stirbt, bin ich für zwei Dinge dankbar: Erstens, dass er keinen Laut von sich gegeben hat. Zweitens, dass dies das allerletzte Mal sein wird. Sie werden Leichentauben genannt – weil der dunkelste Teil ihres grauen Gefieders den helleren Teil umgibt und so...",
+    "titleDE": "Zivildienst"
+  },
+  {
+    "title": "Measles cases are rising. Other vaccine-preventable infections could be next.",
+    "link": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
+    "description": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children under the age of 11. One in five have needed hospital treatment. It’s another worrying development for an incredibly contagious and potentially…",
+    "pubDate": "2026-02-20T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "In der Nähe meines Wohnortes kommt es zu einem Masernausbruch. Seit Beginn dieses Jahres wurden in Enfield, einem nördlichen Bezirk Londons, 34 Fälle bestätigt. Bei den meisten Betroffenen handelt es sich um Kinder unter 11 Jahren. Jeder Fünfte musste im Krankenhaus behandelt werden. Es ist eine weitere besorgniserregende Entwicklung für ...",
+    "titleDE": "Die Masernfälle nehmen zu. Als nächstes könnten weitere durch Impfungen vermeidbare Infektionen folgen."
+  },
+  {
+    "title": "General Catalyst commits $5B to India over five years",
+    "link": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
+    "description": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
+    "pubDate": "2026-02-20T06:41:44.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Zusage stellt einen deutlichen Sprung gegenüber der früheren Indien-Zusage von General Catalyst in Höhe von 500 Millionen bis 1 Milliarde US-Dollar dar.",
+    "titleDE": "General Catalyst stellt über einen Zeitraum von fünf Jahren 5 Milliarden US-Dollar für Indien bereit"
+  },
+  {
+    "title": "Google’s new Gemini Pro model has record benchmark scores — again",
+    "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+    "description": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+    "pubDate": "2026-02-20T00:55:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Gemini 3.1 Pro verspricht ein Google LLM, das auch komplexere Arbeitsformen bewältigen kann.",
+    "titleDE": "Das neue Gemini Pro-Modell von Google hat erneut Rekord-Benchmark-Ergebnisse erzielt"
+  },
+  {
+    "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+    "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+    "description": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+    "pubDate": "2026-02-20T00:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nvidia arbeitet mit Investoren, gemeinnützigen Organisationen und Risikokapitalfirmen zusammen, um frühere Verbindungen zu Indiens schnell wachsendem KI-Gründer-Ökosystem aufzubauen.",
+    "titleDE": "Nvidia vertieft seinen frühen Vorstoß in Indiens KI-Startup-Ökosystem"
+  },
+  {
+    "title": "The Pitt has a sharp take on AI",
+    "link": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+    "description": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often leaves The Pitt's central characters shaken. But as alarming as many of The Pitt's more gore-forward moments can be, what's even more unsettling is the show's slow-burning subplot about hospitals adopting generative artificial intelligence.\nIn its second season, The Pitt once again chronicles all the events that happen  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-19T23:15:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "In jeder Folge von HBOs „The Pitt“ gibt es ein gewisses Maß an medizinischem Trauma, das das Krankenhausdrama fast wie eine Horrorserie wirken lässt. Manche Patienten haben mit schlimmen Schnittwunden zu kämpfen, während andere gegen bösartige Blutinfektionen kämpfen, die ihnen die Gliedmaßen rauben könnten, und das Chaos am Arbeitsplatz ...",
+    "titleDE": "Der Pitt hat einen scharfen Blick auf KI"
+  },
+  {
+    "title": "The AI security nightmare is here and it looks suspiciously like lobster",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+    "description": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what to come as more and more people let autonomous software use their computers on their behalf. \nThe hacker took advantage of a vulnerability in Cline, an open-source AI coding agent popular among developers, that security researcher Adnan Khan had surfaced just days earlier as a proof of concept. Simply put, Cline's workflow used Anthropic's Claude, which could be fed sneaky instructions and made to do things that it shouldn't, a technique known  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-19T18:58:56.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein Hacker hat ein beliebtes KI-Codierungstool dazu gebracht, OpenClaw zu installieren – den viralen Open-Source-KI-Agenten OpenClaw, der „tatsächlich Dinge tut“ – und zwar absolut überall. Witzig wie ein Stunt, aber ein Zeichen dafür, was kommen wird, da immer mehr Menschen autonome Software ihre Computer für sich nutzen lassen. Das ha...",
+    "titleDE": "Der Albtraum der KI-Sicherheit ist da und er sieht verdächtig nach Hummer aus"
+  },
+  {
+    "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+    "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+    "description": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and racks up views, like the videos that…",
+    "pubDate": "2026-02-19T16:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "KI-gestützte Täuschung durchdringt mittlerweile unser Online-Leben. Es gibt hochkarätige Fälle, die Sie leicht erkennen können, wie zum Beispiel, als Beamte des Weißen Hauses kürzlich ein manipuliertes Bild eines Demonstranten in Minnesota teilten und sich dann über diejenigen lustig machten, die danach fragten. Ein anderes Mal schleicht es sich still und leise in Social-Media-Feeds ein und ...",
+    "titleDE": "Microsoft hat einen neuen Plan, um online zu beweisen, was real ist und was KI ist"
+  },
+  {
+    "title": "The speech police came for Colbert",
+    "link": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast",
+    "description": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly took Jimmy Kimmel off the air, his vague threats appear to have been enough to convince CBS to tell Stephen Colbert not to air an interview. Which, of course, became a whole thing.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast (which we recorded and published a day early bot …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-19T15:08:39.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Im Allgemeinen sind obskure und größtenteils nicht durchgesetzte FCC-Regeln nicht die Domäne von Late-Night-Talkshows. FCC-Kommissar Brendan Carr scheint jedoch die Absicht zu haben, dies zu ändern. Nicht lange nachdem er einen Aufruhr ausgelöst hatte, der Jimmy Kimmel kurzzeitig aus der Luft brachte, scheinen seine vagen Drohungen ausgereicht zu haben, um …",
+    "titleDE": "Die Sprachpolizei kam für Colbert"
+  },
+  {
+    "title": "Money no longer matters to AI’s top talent",
+    "link": "https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo",
+    "description": "Today on Decoder we’re going to talk about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers.\nThe vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area. Nowadays, such companies are paying some of the highest salaries in the history of the tech industry to poach researchers from one another.\nIt feels like every time one of these AI researchers leaves one company for another, they tell us exactly why. Sometimes they’re simply resigning to go be a poet. Sometimes they’re chasing a mission. Sometimes they’re worried that AI is going to imperil humanity, destroy all jobs, and plunge the world into chaos.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThey’re really saying these things. They’re publishing these notes on X, in blog posts, or in the case of one former OpenAI safety researcher by writing a full New York Times op-ed. \nI’ve been dying to really dig in and try to unpack what’s going on with all these talent moves in AI. So my guest today is Verge senior AI reporter Hayden Field, who’s been covering the revolving door of the AI industry really closely and also the broader culture that’s motivating the AI workers to jump ship and the companies that are ruthlessly trying to hire them.\nThose motivations vary. Sure, all these people are paid extravagant salaries, but as you’ll hear Hayden say, a stronger motivating force is ideology and mission. The people working on AI, by and large, believe that what they’re doing is going to radically change the world, and they’re not really in desperate need of more money. So that really changes the incentive structures that might push people to leave, say, OpenAI for Anthropic, or to quit Elon Musk’s xAI now that it’s been acquired by SpaceX.\nAt the same time, the incentives of the AI companies themselves are going from raising money to making money. Reporting suggests OpenAI and maybe even Anthropic could go public this year, and doing so would create a historic amount of wealth. It would also put new kinds of pressure on these companies to be more transparent about how they spend money and to be much more accountable for returning on the huge investments that they’ve raised so far.\nThere’s a lot in this conversation. The AI industry right now is full of drama. There’s big characters, bitter rivalries, lots of money, and really, really long blog posts about the end of the world.\n\n\nIf you’d like to read more about what we discussed in this episode, check out these links:\nWhat’s behind the mass exodus at xAI? | The Verge\nOpenClaw founder Peter Steinberger is joining OpenAI | The Verge\nTwo more xAI co-founders leave after the SpaceX merger | The Verge\nAI safety leader says ‘world is in peril’ and quits to study poetry | BBC\nOpenAI is making the mistakes Facebook made. I quit. | The New York Times\nAnthropic’s chief on AI: ‘We don’t know if the models are conscious’ | The New York Times\nMeet the one woman Anthropic trusts to teach AI morals | The Wall Street Journal\nOpenAI plans fourth-quarter IPO in race to beat Anthropic to market | The Wall Street Journal\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-02-19T15:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Heute werden wir bei Decoder über den Kampf um KI-Talente sprechen. Derzeit ist der heißeste Arbeitsmarkt der Welt der für KI-Forscher. Die überwiegende Mehrheit dieser Menschen konzentriert sich auf eine kleine Anzahl äußerst wertvoller, extrem schnell wachsender Unternehmen in der San Francisco Bay Area. Heutzutage...",
+    "titleDE": "Geld spielt für die Top-Talente der KI keine Rolle mehr"
+  },
+  {
+    "title": "It&#8217;s MAGA v Broligarch in the battle over prediction markets",
+    "link": "https://www.theverge.com/policy/881139/broligarch-prediction-markets",
+    "description": "The Polymarket website hosts trading on whether Houthi militias would strike Israeli territory arranged on a laptop computer in Forest Hills neighborhood in the Queens borough of New York, US, on Sunday, Jan. 4, 2026. | Bloomberg via Getty Images.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about the love-hate (but mostly hate) relationship between Silicon Valley and Washington. I hope everyone got to celebrate George Washington's birthday in their preferred manner: skiing, staycationing, subscribing to The Verge if you haven't already, etc.  \nPrediction: this is going to be a mess\nPolitical alliances are rarely permanent, so it's somewhat predictable that the MAGA-tech bro alliance seems to have fallen apart in the span of a single year. Which side the administration would actually choose, though, was more difficult to foresee.\nLast winter, it appeared that  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-19T13:50:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Auf der Polymarket-Website findet am Sonntag, dem 4. Januar 2026, auf einem Laptop im Viertel Forest Hills im Stadtteil Queens in New York, USA, eine Debatte darüber statt, ob Houthi-Milizen israelisches Territorium angreifen würden. | Bloomberg über Getty Images. Hallo und willkommen bei Regulator, einem Newsletter für Ver...",
+    "titleDE": "Es ist MAGA gegen Broligarch im Kampf um die Prognosemärkte"
+  },
+  {
+    "title": "The Download: autonomous narco submarines, and virtue signaling chatbots",
+    "link": "https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How uncrewed narco subs could transform the Colombian drug trade For decades, handmade narco subs have been some of the cocaine trade’s most elusive and productive workhorses, ferrying multi-ton loads of illicit drugs…",
+    "pubDate": "2026-02-19T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie ungeschraubte Drogen-U-Boote den kolumbianischen Drogenhandel verändern könnten Seit Jahrzehnten gehören handgefertigte Drogen-U-Boote zu den schwer fassbaren und produktivsten Waffen des Kokainhandels...",
+    "titleDE": "Der Download: autonome Narco-U-Boote und Tugendsignal-Chatbots"
+  },
+  {
+    "title": "How uncrewed narco subs could transform the Colombian drug trade",
+    "link": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
+    "description": "On a bright morning last April, a surveillance plane operated by the Colombian military spotted a 40-foot-long shark-like silhouette idling in the ocean just off Tayrona National Park. It was, unmistakably, a “narco sub,” a stealthy fiberglass vessel that sails with its hull almost entirely underwater, used by drug cartels to move cocaine north. The…",
+    "pubDate": "2026-02-19T11:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "An einem hellen Morgen im vergangenen April entdeckte ein Überwachungsflugzeug des kolumbianischen Militärs eine 12 Meter lange, haiartige Silhouette, die im Meer vor dem Tayrona-Nationalpark trieb. Es handelte sich unverkennbar um ein „Narco-U-Boot“, ein getarntes Glasfaserschiff, dessen Rumpf fast vollständig unter Wasser segelt …",
+    "titleDE": "Wie unbemannte Drogen-U-Boote den kolumbianischen Drogenhandel verändern könnten"
+  },
+  {
+    "title": "The building legal case for global climate justice",
+    "link": "https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/",
+    "description": "The United States and the European Union grew into economic superpowers by committing climate atrocities. They have burned a wildly disproportionate share of the world’s oil and gas, planting carbon time bombs that will detonate first in the poorest, hottest parts of the globe.  Meanwhile, places like the Solomon Islands and Chad—low-lying or just plain…",
+    "pubDate": "2026-02-19T11:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Vereinigten Staaten und die Europäische Union entwickelten sich zu wirtschaftlichen Supermächten, indem sie Klimagräueltaten begingen. Sie haben einen überproportionalen Anteil des weltweiten Öls und Gases verbrannt und Kohlenstoff-Zeitbomben platziert, die zuerst in den ärmsten und heißesten Teilen der Welt explodieren. Mittlerweile gibt es Orte wie...",
+    "titleDE": "Der baurechtliche Fall für globale Klimagerechtigkeit"
+  },
+  {
+    "title": "Advancing independent research on AI alignment",
+    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "pubDate": "2026-02-19T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI stellt dem Alignment Project 7,5 Millionen US-Dollar zur Verfügung, um unabhängige KI-Alignment-Forschung zu finanzieren und so die weltweiten Bemühungen zur Bewältigung von AGI-Sicherheitsrisiken zu stärken.",
+    "titleDE": "Förderung unabhängiger Forschung zur KI-Ausrichtung"
+  },
+  {
+    "title": "What it takes to make agentic AI work in retail",
+    "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
+    "description": "Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Prasad Banala, director of software engineering at a large US-based retail organization, about operationalizing agentic AI across the software development lifecycle. Prasad explains how his team applies AI to validate requirements, generate…",
+    "pubDate": "2026-02-19T08:54:41.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Vielen Dank, dass Sie sich uns im „Enterprise AI Hub“ angeschlossen haben. In dieser Folge des Podcasts des Infosys Knowledge Institute spricht Dylan Cosper mit Prasad Banala, Direktor für Softwareentwicklung bei einem großen US-amerikanischen Einzelhandelsunternehmen, über die Operationalisierung von Agenten-KI im gesamten Softwareentwicklungslebenszyklus ...",
+    "titleDE": "Was es braucht, damit die Agenten-KI im Einzelhandel funktioniert"
   },
   {
     "title": "“No technology has me dreaming bigger than AI”",
@@ -30,26 +430,6 @@
     "titleDE": "AI Impact Summit 2026"
   },
   {
-    "title": "OpenAI deepens India push with Pine Labs fintech partnership",
-    "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
-    "description": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
-    "pubDate": "2026-02-19T03:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI geht in Indien über ChatGPT hinaus mit einem Pine Labs-Deal, der auf Unternehmenszahlungen und KI-gesteuerten Handel abzielt.",
-    "titleDE": "OpenAI vertieft seine Indien-Offensive mit der Fintech-Partnerschaft Pine Labs"
-  },
-  {
-    "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
-    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
-    "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
-    "pubDate": "2026-02-18T21:07:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Startup-Gründer werden dazu gedrängt, schneller als je zuvor voranzukommen und KI einzusetzen, während sie gleichzeitig mit knapperer Finanzierung, steigenden Infrastrukturkosten und mehr Druck konfrontiert werden, frühzeitig echte Erfolge zu zeigen. Cloud-Credits, Zugriff auf GPUs und Basismodelle haben den Einstieg erleichtert, aber diese frühen Infrastrukturentscheidungen ...",
-    "titleDE": "Leuchtet die Motorkontrollleuchte Ihres Startups? Der Vizepräsident von Google Cloud erklärt, was zu tun ist"
-  },
-  {
     "title": "Introducing OpenAI for India",
     "link": "https://openai.com/index/openai-for-india",
     "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -58,46 +438,6 @@
     "category": "news",
     "descriptionDE": "OpenAI für Indien erweitert den KI-Zugang im ganzen Land – baut lokale Infrastruktur auf, stärkt Unternehmen und verbessert die Fähigkeiten der Arbeitskräfte.",
     "titleDE": "Einführung von OpenAI für Indien"
-  },
-  {
-    "title": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
-    "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
-    "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
-    "pubDate": "2026-02-18T20:22:29.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Startup-Gründer werden dazu gedrängt, schneller als je zuvor voranzukommen und KI einzusetzen, während sie gleichzeitig mit knapperer Finanzierung, steigenden Infrastrukturkosten und mehr Druck konfrontiert werden, frühzeitig echte Erfolge zu zeigen. Cloud-Credits, Zugriff auf GPUs und Basismodelle haben den Einstieg erleichtert, aber diese frühen Infrastrukturentscheidungen...",
-    "titleDE": "Der Vizepräsident von Google Cloud für Start-ups spricht über das Lesen Ihrer Motorkontrollleuchte, bevor es zu spät ist"
-  },
-  {
-    "title": "Amazon halts Blue Jay robotics project after less than 6 months",
-    "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
-    "description": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-    "pubDate": "2026-02-18T18:27:10.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Amazon sagte, dass die Kerntechnologie von Blue Jay für andere Robotikprojekte verwendet werde und die Mitarbeiter, die daran gearbeitet hätten, zu anderen Projekten versetzt würden.",
-    "titleDE": "Amazon stoppt das Robotikprojekt Blue Jay nach weniger als 6 Monaten"
-  },
-  {
-    "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
-    "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
-    "description": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
-    "pubDate": "2026-02-18T18:07:16.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Im Rahmen der Partnerschaft werden die beiden Unternehmen untersuchen, wie die Modelle von World Labs mit den Tools von Autodesk zusammenarbeiten können und umgekehrt, wobei der Schwerpunkt zunächst auf Anwendungsfällen im Unterhaltungsbereich liegt.",
-    "titleDE": "World Labs erhält 1 Milliarde US-Dollar, davon 200 Millionen US-Dollar von Autodesk, um Weltmodelle in 3D-Workflows zu integrieren"
-  },
-  {
-    "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-    "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-    "description": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math. As LLMs improve, people are asking them to play more…",
-    "pubDate": "2026-02-18T16:00:22.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Google DeepMind fordert, dass das moralische Verhalten großer Sprachmodelle – etwa das, was sie tun, wenn sie als Begleiter, Therapeuten, medizinische Berater usw. fungieren – mit der gleichen Genauigkeit untersucht werden muss wie ihre Fähigkeit, zu programmieren oder Mathematik zu betreiben. Während sich LLMs verbessern, werden sie gebeten, ...",
-    "titleDE": "Google DeepMind möchte wissen, ob Chatbots nur Tugendsignale signalisieren"
   },
   {
     "title": "Google’s AI music maker is coming to the Gemini app",
@@ -110,16 +450,6 @@
     "titleDE": "Der KI-Musikersteller von Google kommt in die Gemini-App"
   },
   {
-    "title": "Google adds music-generation capabilities to the Gemini app",
-    "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-    "description": "Users will be able to use text, images, and videos as a reference to generate music.",
-    "pubDate": "2026-02-18T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Benutzer können Text, Bilder und Videos als Referenz zum Generieren von Musik verwenden.",
-    "titleDE": "Google erweitert die Gemini-App um Funktionen zur Musikgenerierung"
-  },
-  {
     "title": "A new way to express yourself: Gemini can now create music",
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
     "description": "Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
@@ -128,96 +458,6 @@
     "category": "news",
     "descriptionDE": "Lyria 3 ist jetzt in der Gemini-App verfügbar. Erstellen Sie individuelle, hochwertige 30-Sekunden-Tracks aus Text und Bildern.",
     "titleDE": "Eine neue Art, sich auszudrücken: Zwillinge können jetzt Musik machen"
-  },
-  {
-    "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
-    "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
-    "description": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
-    "pubDate": "2026-02-18T15:08:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Kana, ein neues KI-Marketing-Startup der Gründer von Rapt und Krux, hat 15 Millionen US-Dollar gesammelt, um anpassbare, agentenbasierte Marketingtools zu entwickeln.",
-    "titleDE": "Kana kommt mit 15 Millionen US-Dollar aus der Tarnung, um flexible KI-Agenten für Vermarkter zu entwickeln"
-  },
-  {
-    "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-    "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-    "description": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
-    "pubDate": "2026-02-18T14:44:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Microsoft sagte, der Fehler bedeute, dass sein Copilot AI-Chatbot vertrauliche E-Mails zahlender Kunden las und zusammenfasste und dabei Datenschutzrichtlinien umging.",
-    "titleDE": "Microsoft sagt, dass der Office-Fehler vertrauliche E-Mails von Kunden an Copilot AI weitergegeben hat"
-  },
-  {
-    "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
-    "link": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
-    "description": "OpenAI says its India education partnerships aim to reach more than 100,000 students, faculty, and staff over the next year.",
-    "pubDate": "2026-02-18T14:32:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI sagt, dass seine indischen Bildungspartnerschaften darauf abzielen, im nächsten Jahr mehr als 100.000 Studenten, Lehrkräfte und Mitarbeiter zu erreichen.",
-    "titleDE": "OpenAI drängt in die Hochschulbildung, während Indien versucht, die KI-Fähigkeiten zu erweitern"
-  },
-  {
-    "title": "The Download: a blockchain enigma, and the algorithms governing our lives",
-    "link": "https://www.technologyreview.com/2026/02/18/1133291/the-download-a-blockchain-enigma-and-the-algorithms-governing-our-lives/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Welcome to the dark side of crypto’s permissionless dream Jean-Paul Thorbjornsen, an Australian man in his mid-30s, with a rural Catholic upbringing, is a founder of THORChain, a blockchain through which users can…",
-    "pubDate": "2026-02-18T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Willkommen auf der dunklen Seite des erlaubnislosen Krypto-Traums. Jean-Paul Thorbjornsen, ein Australier Mitte 30, mit ländlicher katholischer Erziehung, ist Gründer ...",
-    "titleDE": "Der Download: ein Blockchain-Rätsel und die Algorithmen, die unser Leben bestimmen"
-  },
-  {
-    "title": "India’s Sarvam wants to bring its AI models to feature phones, cars, and smart glasses",
-    "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
-    "description": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
-    "pubDate": "2026-02-18T13:01:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen verwendet Edge-Modelle, die nur Megabyte Speicherplatz beanspruchen, auf den meisten Telefonen mit vorhandenen Prozessoren laufen und offline arbeiten können.",
-    "titleDE": "Das indische Unternehmen Sarvam möchte seine KI-Modelle mit Telefonen, Autos und Datenbrillen ausstatten"
-  },
-  {
-    "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open source AI",
-    "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
-    "description": "The new lineup includes 30-billion- and 105-billion-parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
-    "pubDate": "2026-02-18T12:55:20.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neue Produktpalette umfasst Modelle mit 30 Milliarden und 105 Milliarden Parametern; ein Text-to-Speech-Modell; ein Speech-to-Text-Modell; und ein Visionsmodell zum Parsen von Dokumenten.",
-    "titleDE": "Die neuen Modelle des indischen KI-Labors Sarvam sind eine wichtige Wette auf die Realisierbarkeit von Open-Source-KI"
-  },
-  {
-    "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
-    "description": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like Anthropic promising to keep them out. \nPerplexity began phasing out ads late last year and isn't exploring any new ad deals at the moment, executives said on Monday at a roundtable event, according to Business Insider and the Financial Times. It is a noteworthy U-turn for the US startup, which became one of  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-18T11:02:22.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Das KI-Such-Startup Perplexity distanziert sich von Werbung, da es befürchtet, dass Nutzer Chatbots mit einer Upsell-Agenda nicht vertrauen werden. Der Schritt verdeutlicht einen sich abzeichnenden Scheideweg für die KI-Branche, da die größten Akteure der Branche nach stabilen Einnahmequellen suchen, um massive Ausgaben zu finanzieren, wobei Giganten wie O...",
-    "titleDE": "Perplexity schließt sich dem Anti-Werbe-Lager an, während KI-Unternehmen um Vertrauen und Einnahmen kämpfen"
-  },
-  {
-    "title": "The robots who predict the future",
-    "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
-    "description": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us hunt, avoid being hunted, plant crops, forge social bonds, and in general survive in a world that does not…",
-    "pubDate": "2026-02-18T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Mensch zu sein bedeutet im Grunde, ein Prognostiker zu sein. Gelegentlich ein ziemlich gutes. Der Versuch, die Zukunft zu sehen, sei es durch die Linse vergangener Erfahrungen oder durch die Logik von Ursache und Wirkung, hat uns geholfen, zu jagen, der Jagd zu entgehen, Nutzpflanzen anzubauen, soziale Bindungen zu knüpfen und ganz allgemein in einer Welt zu überleben, die d...",
-    "titleDE": "Die Roboter, die die Zukunft vorhersagen"
-  },
-  {
-    "title": "Welcome to the dark side of crypto’s permissionless dream",
-    "link": "https://www.technologyreview.com/2026/02/18/1132587/jean-paul-thorbjornsen-dark-side-crypto-permissionless-dream/",
-    "description": "“We’re out of airspace now. We can do whatever we want,” Jean-Paul Thorbjornsen tells me from the pilot’s seat of his Aston Martin helicopter. As we fly over suburbs outside Melbourne, Australia, it’s becoming clear that doing whatever he wants is Thorbjornsen’s MO.  Upper-middle-class homes give way to vineyards, and Thorbjornsen points out our landing…",
-    "pubDate": "2026-02-18T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "„Wir sind jetzt außerhalb des Luftraums. Wir können tun und lassen, was wir wollen“, erzählt mir Jean-Paul Thorbjornsen vom Pilotensitz seines Aston-Martin-Helikopters aus. Während wir über Vororte außerhalb von Melbourne, Australien, fliegen, wird klar, dass Thorbjornsens Ziel es ist, zu tun, was er will. Häuser der oberen Mittelschicht weichen...",
-    "titleDE": "Willkommen auf der dunklen Seite des erlaubnislosen Traums von Krypto"
   },
   {
     "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
@@ -230,26 +470,6 @@
     "titleDE": "AI Impact Summit 2026: Wie wir zusammenarbeiten, damit KI für alle funktioniert"
   },
   {
-    "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-    "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] data centers.\" The deal also includes plans to add Nvidia's next-generation Vera CPUs to Meta's data centers in 2027. \nMeta is also working on its own in-house chips for running AI models, but according to the Financial Times, it has run into \"technical challenges and rollout  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-18T00:27:08.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Meta hat einen mehrjährigen Vertrag zur Erweiterung seiner Rechenzentren mit Millionen von Nvidias Grace- und Vera-CPUs sowie Blackwell- und Rubin-GPUs abgeschlossen. Während Meta seit langem die Hardware von Nvidia für seine KI-Produkte verwendet, stellt dieser Deal „den ersten groß angelegten Nvidia-Nur-Grace-Einsatz dar“, der laut Nvidia ...",
-    "titleDE": "Metas neuer Deal mit Nvidia kauft Millionen von KI-Chips"
-  },
-  {
-    "title": "Google’s AI search results will make links more obvious",
-    "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
-    "description": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of each linked article and accompanying images. \nStein adds that Google will also show these \"more descriptive and prominent link icons\" in its AI responses on desktop and mobile. \"Our testing shows this new UI is more engaging, making it easier to get to great content across the web,\" Stein writes.\nWhile AI Overviews appear as  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-17T22:38:24.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google sagt, dass es Links jetzt prominenter in seinen KI-gestützten Funktionen in der Suche anzeigen wird. Robby Stein, der Vizepräsident der Google-Suche, gab am Dienstag bekannt, dass jetzt eine Liste mit Links in einem Popup angezeigt wird, wenn Sie mit der Maus über die Quellen in den KI-Übersichten und im KI-Modus auf dem Desktop fahren, zusammen mit …",
-    "titleDE": "Die KI-Suchergebnisse von Google machen Links offensichtlicher"
-  },
-  {
     "title": "Our 2026 Responsible AI Progress Report",
     "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
     "description": "A look at our 2026 Responsible AI Progress Report.",
@@ -258,16 +478,6 @@
     "category": "news",
     "descriptionDE": "Ein Blick auf unseren Responsible AI-Fortschrittsbericht 2026.",
     "titleDE": "Unser Responsible AI-Fortschrittsbericht 2026"
-  },
-  {
-    "title": "Google announces dates for I/O 2026",
-    "link": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
-    "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company, from Gemini to Android and more\" during the event, which will take place in-person in Mountain View, California's Shoreline Amphitheatre, and online.\nSimilar to previous years, Google I/O 2026 will feature keynotes from company leaders, fireside chats, product demos, and more. Google still hasn't shared the full schedule for its sessions, but the company plans to kick off the event with a keynote on the morning of May 19th. You can also interac …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-17T20:56:56.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Es ist offiziell: Die Google I/O 2026 findet vom 19. bis 20. Mai statt. In einer Ankündigung vom Dienstag kündigte Google an, dass es während der Veranstaltung, die persönlich in Mountain View stattfinden wird, die „neuesten KI-Durchbrüche und Updates für Produkte im gesamten Unternehmen, von Gemini bis Android und mehr“ vorstellen werde.",
-    "titleDE": "Google gibt Termine für die I/O 2026 bekannt"
   },
   {
     "title": "Password managers' promise that they can't see your vaults isn't always true",
@@ -280,26 +490,6 @@
     "titleDE": "Das Versprechen von Passwortmanagern, dass sie Ihre Tresore nicht sehen können, ist nicht immer wahr"
   },
   {
-    "title": "Apple is reportedly cooking up a trio of AI wearables",
-    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-    "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
-    "pubDate": "2026-02-17T20:14:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Da der Markt für KI-Hardware immer heißer wird, hat der iPhone-Hersteller mehrere intelligente Produkte in der Entwicklung.",
-    "titleDE": "Berichten zufolge bereitet Apple ein Trio von KI-Wearables vor"
-  },
-  {
-    "title": "Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods",
-    "link": "https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods",
-    "description": "The second-gen Ray-Ban Meta smart glasses. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports.\nApple is reportedly aiming to start production of its smart glasses in December, ahead of a 2027 launch. The new device will compete directly with Meta's lineup of smart glasses and is rumored to feature speakers, microphones, and a high-resolution camera for taking photos and videos, in addition to  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-17T19:26:21.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Ray-Ban Meta Datenbrille der zweiten Generation. | Foto von Amelia Holowaty Krales / The Verge Laut einem Bericht von Mark Gurman von Bloomberg treibt Apple seine Pläne voran, seine erste Smart-Brille zusammen mit einem KI-betriebenen Anhänger und mit einer Kamera ausgestatteten AirPods auf den Markt zu bringen. Die drei Geräte ko...",
-    "titleDE": "Berichten zufolge plant Apple die Einführung einer KI-gestützten Brille, eines Anhängers und von AirPods"
-  },
-  {
     "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
     "link": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
     "description": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
@@ -308,265 +498,5 @@
     "category": "news",
     "descriptionDE": "„Die Strategie von Broadcom bestand nie darin, jeden Kunden zu halten“, heißt es in dem CloudBolt-Bericht.",
     "titleDE": "Laut einer Umfrage „reduzieren die meisten VMware-Benutzer immer noch aktiv ihren VMware-Fußabdruck“."
-  },
-  {
-    "title": "WordPress’ new AI assistant will let users edit their sites with prompts",
-    "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
-    "description": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make adjustments to their sites like creating new pages or changing fonts.\n\nUsers can also interact with the AI through the new block notes feature WordPress added in its 6.9 update in December, which allows users to leave comments in the site editor. By tagging the AI assistant with \"@ai\" in block notes, users can give it p …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-17T18:33:15.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ab Dienstag können WordPress-Benutzer ihre Websites mit dem neuen KI-Assistenten bearbeiten, der in den Site-Editor und die Medienbibliothek der Plattform integriert ist, berichtet TechCrunch. Die KI verfügt über eine Seitenleiste im WordPress-Site-Editor, in der Benutzer sie auffordern können, Text zu bearbeiten und zu übersetzen sowie Bilder mit Goo zu erstellen und zu bearbeiten.",
-    "titleDE": "Mit dem neuen KI-Assistenten von WordPress können Benutzer ihre Websites mit Eingabeaufforderungen bearbeiten"
-  },
-  {
-    "title": "Anthropic releases Sonnet 4.6",
-    "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-    "description": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
-    "pubDate": "2026-02-17T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic hat eine neue Version seines mittelgroßen Sonnet-Modells veröffentlicht und hält damit mit dem viermonatigen Update-Zyklus des Unternehmens Schritt.",
-    "titleDE": "Anthropic veröffentlicht Sonnet 4.6"
-  },
-  {
-    "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
-    "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
-    "description": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
-    "pubDate": "2026-02-17T17:22:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mistral AI hat zugestimmt, Koyeb zu kaufen, ein in Paris ansässiges Startup, das die Bereitstellung von KI-Apps in großem Maßstab vereinfacht und die dahinter stehende Infrastruktur verwaltet.",
-    "titleDE": "Mistral AI kauft Koyeb als erste Akquisition, um seine Cloud-Ambitionen zu unterstützen"
-  },
-  {
-    "title": "SpaceX vets raise $50M Series A for data center links",
-    "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
-    "description": "Mesh aims to mass-produce optical transceivers for AI data centers.",
-    "pubDate": "2026-02-17T17:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mesh zielt darauf ab, optische Transceiver für KI-Rechenzentren in Massenproduktion herzustellen.",
-    "titleDE": "SpaceX-Veteranen sammeln 50 Millionen US-Dollar in Serie A für Rechenzentrumsverbindungen"
-  },
-  {
-    "title": "Running AI models is turning into a memory game",
-    "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
-    "description": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
-    "pubDate": "2026-02-17T16:44:14.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn wir über die Kosten der KI-Infrastruktur sprechen, liegt der Fokus normalerweise auf Nvidia und GPUs – aber Speicher spielt eine immer wichtigere Rolle.",
-    "titleDE": "Das Ausführen von KI-Modellen wird zu einem Gedächtnisspiel"
-  },
-  {
-    "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
-    "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
-    "description": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
-    "pubDate": "2026-02-17T16:30:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "EU-Gesetzgeber stellten fest, dass die Verwendung der integrierten KI-Tools auf ihren von der Regierung bereitgestellten Geräten gesperrt war, da sie befürchteten, dass sensible Informationen auf den US-Servern von KI-Unternehmen auftauchen könnten.",
-    "titleDE": "Das Europäische Parlament blockiert KI auf den Geräten der Gesetzgeber unter Berufung auf Sicherheitsrisiken"
-  },
-  {
-    "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
-    "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
-    "description": "The feature is designed to work inside the website to understand its content and layout, allowing site owners to make changes with natural language commands. The WordPress AI assistant doesn't need precisely tailored prompts, either.",
-    "pubDate": "2026-02-17T16:10:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Funktion soll innerhalb der Website funktionieren, um deren Inhalt und Layout zu verstehen, sodass Websitebesitzer Änderungen mit Befehlen in natürlicher Sprache vornehmen können. Auch der WordPress-KI-Assistent benötigt keine passgenauen Eingabeaufforderungen.",
-    "titleDE": "WordPress.com fügt einen KI-Assistenten hinzu, der bearbeiten, Stile anpassen, Bilder erstellen und mehr kann"
-  },
-  {
-    "title": "Amazon Fire TV’s new interface is now rolling out in the US",
-    "link": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
-    "description": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
-    "pubDate": "2026-02-17T15:58:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neue Benutzeroberfläche von Fire TV vereinfacht das Layout und die Navigation und fügt Alexa+ hinzu.",
-    "titleDE": "Die neue Benutzeroberfläche von Amazon Fire TV wird jetzt in den USA eingeführt"
-  },
-  {
-    "title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
-    "link": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The curious case of the disappearing Lamborghinis Across the world, unsuspecting people are unwittingly becoming caught up in a new and growing type of organized criminal enterprise: vehicle transport fraud and theft. Crooks…",
-    "pubDate": "2026-02-17T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Der merkwürdige Fall der verschwindenden Lamborghinis Überall auf der Welt geraten ahnungslose Menschen unwissentlich in eine neue und wachsende Art organisierter ...",
-    "titleDE": "Der Download: Der Anstieg des Diebstahls von Luxusautos und der Kampf gegen antimikrobielle Resistenzen"
-  },
-  {
-    "title": "Laurie Spiegel on the difference between algorithmic music and ‘AI’",
-    "link": "https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival",
-    "description": "From Bell Labs to Macs, Laurie Spiegel has pushed musical boundaries. | Image: Irina Prosser / Eventide\t\n\nIn 1986, electronic music pioneer Laurie Spiegel created Music Mouse, a way for those with a Mac, Atari, or Amiga computer to dabble in algorithmic music creation. Music Mouse is deceptively simple: Notes are arranged on an XY grid, and you play it by moving a mouse around. Back in 1986, the computer mouse was still a relatively novel device. While it can trace its origins back to the late '60s, it wasn't until the Macintosh 128K in 1984 that it started seeing widespread adoption.\nBy then Spiegel, was already an accomplished composer. Her 1980 album The Expanding Universe is generally considered among the greatest ambient records of all tim …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-17T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Von Bell Labs bis hin zu Macs hat Laurie Spiegel musikalische Grenzen überschritten. | Bild: Irina Prosser / Eventide Im Jahr 1986 entwickelte die Pionierin der elektronischen Musik Laurie Spiegel die Music Mouse, eine Möglichkeit für Benutzer eines Mac-, Atari- oder Amiga-Computers, sich an der algorithmischen Musikerstellung zu versuchen. Music Mouse ist täuschend einfach...",
-    "titleDE": "Laurie Spiegel über den Unterschied zwischen algorithmischer Musik und „KI“"
-  },
-  {
-    "title": "The curious case of the disappearing Lamborghinis",
-    "link": "https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/",
-    "description": "When Sam Zahr first saw the gray Rolls-Royce Dawn convertible with orange interior and orange roof, he knew he’d found a perfect addition to his fleet. “It was very appealing to our clientele,” he told me. As the director of operations at Dream Luxury Rental, he outfits customers in the Detroit area looking to ride…",
-    "pubDate": "2026-02-17T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als Sam Zahr zum ersten Mal das graue Rolls-Royce Dawn Cabriolet mit orangefarbener Innenausstattung und orangefarbenem Dach sah, wusste er, dass er eine perfekte Ergänzung für seine Flotte gefunden hatte. „Es war für unsere Kundschaft sehr ansprechend“, erzählte er mir. Als Betriebsleiter bei Dream Luxury Rental stattet er Kunden im Großraum Detroit aus ...",
-    "titleDE": "Der seltsame Fall der verschwundenen Lamborghinis"
-  },
-  {
-    "title": "Samsung is slopping AI ads all over its social channels",
-    "link": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
-    "description": "Even if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\t\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\nThe \"Brighten your after hours\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen toward the end of the video, flagging that it was \"generated with the ass …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-17T10:55:32.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Auch wenn die KI nicht offengelegt wurde, ist ihre Verwendung in diesen Videos nicht gerade subtil. | Bild: Samsung / The Verge Nachdem Samsung jeden Zentimeter seiner Smartphones, Haushaltsgeräte und anderen Geräte mit künstlicher Intelligenz ausgestattet hat, verbreitet es diese nun zunehmend in den sozialen Medien. Mehrere auf der Website des Unternehmens gepostete Videos...",
-    "titleDE": "Samsung schaltet auf allen seinen sozialen Kanälen KI-Werbung"
-  },
-  {
-    "title": "Let&#8217;s talk about Ring, lost dogs, and the surveillance state",
-    "link": "https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security",
-    "description": "Today, let’s talk about the camera company Ring, lost dogs, and the surveillance state. \nYou probably saw this ad during the Super Bowl a couple of weekends ago:\n\nSince it aired for a massive audience at the Super Bowl, Ring’s Search Party commercial has become a lightning rod for controversy — it’s easy to see how the same technology that can find lost dogs can be used to find people, and then used to invade our privacy in all kinds of uncomfortable ways, by cops and regular people alike.\nRing in particular has always been proud of its cooperation with law enforcement. That raises big questions about our civil rights, especially since Ring announced a partnership last fall with a company called Flock Safety, whose systems have been accessed by ICE. There’s some complication to that — we’ll come back to it in a bit.\n\n\nThe backlash to Ring’s Super Bowl ad was swift, intense, and effective: the data company PeakMetrics says conversation about the ad on social platforms like X actually peaked two days after the Super Bowl, and the vibes, as they measured them, were strikingly negative. I mean, you know it’s bad when Matt Nelson, who runs the weratedogs account, is posting videos like this:\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\n\n\n\nSen. Ed Markey called the ad “dystopian” and said it was proof Amazon, which owns Ring, needed to cease all facial recognition technology on Ring doorbells. He said, “This definitely isn’t about dogs — it’s about mass surveillance.”\nAnd then, on Thursday, February 12th, just four days after the Super Bowl, Ring announced it was canceling its partnership with Flock, in a statement first reported by The Verge’s Jen Tuohy. That statement itself is a lot:\nFollowing a comprehensive review, we determined the planned Flock Safety integration would require significantly more time and resources than anticipated. As a result, we have made the joint decision to cancel the planned integration. The integration never launched, so no Ring customer videos were ever sent to Flock Safety. \nThe company also goes on to say that Ring cameras were used by police in identifying a school shooter at Brown University in December 2025. It’s an odd non sequitur in a press release about canceling a controversial partnership that really explains a lot about Ring, and how the company sees itself. \nAs it happens, Ring’s founder Jamie Siminoff was just on Decoder a few months ago, talking about how and why he founded the company, and in detail about why he sees Ring’s mission as eliminating crime. Not selling cameras or doorbells, or floodlights, or anything else Ring makes, but getting rid of crime.\nWe actually talked about Search Party and how people might feel about that kind of surveillance, and how Ring works with the cops quite a bit. In fact, Jamie briefly left Ring in 2023, and the company slowed down on its work with law enforcement. But ever since he returned, the emphasis on crime and the work with police has only intensified. I asked him about it:\nNILAY PATEL: You left, Amazon said we’re going to stop working with police, you came back, boy, Ring is going to work with police again. You have a partnership with Axon, which makes the taser, that allows law enforcement to get access to Ring footage. Did that feel like a two-way door? They made the wrong decision in your absence, and you came back and said, “We’re going to do this again”?\nJAMIE SIMINOFF: I don’t know if it’s wrong or right, but I think different leadership does different things. I do believe that I spent a lot of time going on ride-alongs. I spent a lot of time in areas that I’d say are not safe for those people, and I’ve seen a lot of things where I think we can positively impact them. So, we don’t work with police in the way of … I just want to be careful, as we’re not … What we do allow is for agencies to ask for footage when something happens. We allow our neighbors, which I’ll say in this point are our customers, just to be clear, we allow our customers to anonymously decide whether or not they want to partake in that.\nSo, if they decide they don’t want to be part of this network and don’t want to help this public service agency that asks them, they just say no. If they decide that they do want to, which, by the way, a lot of people want to increase the security of their neighborhoods. A lot of people want their kids to grow up in safer neighborhoods, a lot of people want to have the tools to do that, and are in places that are dangerous. We give them the ability to say yes and make it more efficient for them to communicate with those public service agencies, and also do it in a very auditable digital format.\nThat’s the other side. Today, without these tools, if a police officer wanted to go and get footage from something, they’d have to go and knock on the door and ask you, and that’s not comfortable for anyone. There’s no digital audit trail of it, and, with this, they can do it efficiently with an audit trail. It is very clear, and it’s anonymous. \nJamie actually talked a lot about searching for dogs in this context, because one of the reasons he was so excited to come back to Ring was to use AI to search through the massive amounts of video generated by Ring cameras. In fact, he told me that Ring could not have built Search Party five years ago, because AI systems to do it weren’t available. \nJamie is nothing if not direct about this, which I appreciate. The man really thinks you can use AI and cameras to reduce or even eliminate crime. But I had a lot of questions about this:\nJAIME SIMINOFF: But when you put AI into it, now, all of a sudden, you have this human element that AI gives you. I think, with our products in neighborhoods and, again, you have to be a little bit specific to it, I do see a path where we can actually start to take down crime in a neighborhood to call it close to zero. And I even said, there are some crimes that you can’t stop, of course.\nNILAY PATEL: Mechanically, walk people through what you mean. You put enough Ring products in a neighborhood, and then AI does what to them that helps you get closer to the mission of zeroing out crime?\nSo, the mental model, or how I look at it, is that AI allows us to have … If you had a neighborhood where you had unlimited resources, so every house had security guards and those security guards were people that worked the same house for 10 years or 20 years, and I mean that from a knowledge perspective. So, the knowledge they had of that house was extreme; they knew everything about you and that residence and your family, how you lived, the people that came in and out.\nAnd then, if that neighborhood had an HOA with, call it private security, and those private security were also around and knew everything, what would happen? When a dog gets lost, you’d be like, “Oh, my gosh, my dog is lost.” Well, they would call each other, and one of them would find the dog very quickly. So, how do we change that and bring that into the digital world is—\nCan I just ask you a question about that neighborhood specifically?\nSure.\nDo you ever stop and consider that that neighborhood might suck? Just the idea that every house on my street would have all-knowing private security guards, and I would have an HOA, and that HOA would have a private security force. \nYou can easily paint that as dystopia. Everyone’s so afraid that we have private cops on every corner, and I’m paying HOA fees, which is just a nightmare of its own.\nSo, I would assume you live in a safe neighborhood.\nI hope so, yeah.\nNo, today, I’d go to … If you want, I’ll take you to a place where people live and have to, when they get home from school, lock their doors and stay in their house, and they can’t go out and—\nBut I’m just saying that that model is “everybody is so afraid that they have private cops.”\nI think the model is that doing crime in a neighborhood like that is not profitable, and I think that you want people to move into another job. I don’t think that crime is a good thing and so I think … But listen, it certainly is an argument to have, I do believe that … I think safer neighborhoods allow for kids to grow up in a better environment and I think that allows them to be able to focus on the things that matter and so that’s what we’re going for.\nI just wanted to challenge the premise.\nI think it’s a fair challenge.\nThe model is that there are cops everywhere. That level of privacy.\nYeah, it’s not cops. I think it’s more that you’ll have the ability to understand what’s happening. It’s not like … But yeah, I think, listen, it’s a fair statement, I guess. I think I want to live in a safe place.\nThere’s a lot of intelligence in your neighborhood, and maybe it’s private security, maybe it’s not. What does the AI do? Does it just make the camera smarter? It lets you do a more intelligent assessment of what the cameras are seeing?\nRight now, we just say motion detection, motion detection, motion detection. It’s funny, when I started Ring… The book was fun because I got to go back and actually go through this whole story of how this thing came to be, and motion detection was an amazing invention. You’re in the airport, and there’s a motion at your front door, and you look at it like, “Wow, this is crazy.” \nNow, with AI, we shouldn’t be telling you about motion detection; we should be telling you what’s there, when you should look at it, when it matters, and we shouldn’t be bothering you all the time. That’s what I mean by this idea of these security guards at your house or in your neighborhood. There should be this intelligence in your neighborhood that can tell you when you should be trying to be part of something, but not always tell you. So, it’s not just like, “Car, car, dog, person, person.” It’s like, “Hey, look at this. You want to pay attention to this right now.”\nI really pressed Jamie on this because I still don’t think it is entirely clear how Ring accomplishes the elimination of crime through AI alone. And it’s why people don’t trust the company when it says it won’t use systems that can find a dog to do things that otherwise violate our rights. After all, if your goal is to use AI to stop crime, and you built an AI system that can find a dog… well, it’s pretty obvious what comes next, right?\nNILAY PATEL: Do you think when you talk about zero out crime in a neighborhood, the idea that everyone in a neighborhood has one of those illuminated Ring signs in the front yard, is that enough to—\nJAMIE SIMINOFF: It’s a part of it.\nIs that just enough of a deterrent? The bad guys will know their face is going to be captured on video, and that will be analyzed by an AI, and something will happen. Do you have to do more outbound deterrents?\nI think that’s a part of it. Awareness is a big part of it. I think there are ways with lights also, using lighting to do stuff, that’s a big part of it. I think having just … If, all of a sudden, someone comes outside because something’s an anomaly, that’s a big part of it. It doesn’t have to be some crazy thing. And that’s what I was saying, is a lot of these little things add up to make that work.\nSo, when you think about it, okay, we can bring crime down in a neighborhood to close to zero in a neighborhood, what are the ratcheting steps? Does everyone just get the Ring camera, and your platform does all the work? Is it that someone gets caught and they tell all their friends in jail that they got caught? What are the steps?\nI think it’s really about bringing neighbors together for this particular thing. So, it’s about how you individually… and we’ve always thought about how each house is its own node controlled by the neighbors, so controlled by the person, and I’ll keep going back to that, which is one hundred percent, your video is in your control; everything you’re doing is in your control, whether you want to take part in anything is in your control. That has to be the first layer of all of it. \nBut then, when something happens, do you want to take part in it? So, if you get an alert that this dog looks like the dog that’s in front of your house, can you contact your neighbor? You can decide not to take part in it, and then no one will ever know, and it’s fine, it’s just basically deleted, or you can take part in it. I think that’s how we can do things that can make a neighborhood into this node where individual neighbors are all on their own, but when things happen, they can work together as they want to.\nAnd you think that AI will accelerate the process? \nI think AI is a co-pilot. It is their assistant, and it’s helping them to figure this out. Because, again, if you’re just getting every motion alert, and if you have eight cameras and you’re just getting motion alerts all day, no human being can parse all this data. So that’s what I was talking to Jen about, is that I do think I see a way to use AI to help feed better data to us, which allows us to make better decisions and work together better.\nThis is where we get to Flock, which Ring announced a partnership with in October 2025. Flock primarily makes cameras and systems to search video for the cops. You’ve probably seen Flock’s devices where you live — they’re those little solar-powered cameras and tracking devices affixed to streetlights or placed in the center of parking lots. They vacuum up large amounts of data, and the company claims it is anonymized before it’s made available to partners, which in most cases is local law enforcement.\nHowever, according to in-depth reporting from the excellent 404 Media, Flock’s data has often found its way to ICE, the FBI, the Secret Service, and other law enforcement agencies, without the requirement of a warrant. That’s because that data is willingly provided by local police.\nLast month, under intense scrutiny about what a deal with Flock would mean, Ring said that this partnership was not yet “live,” and that, “Ring has no partnership with ICE, does not give ICE videos, feeds, or back-end access, and does not share video with them.” For its part, Flock says the same — that it doesn’t actually work with ICE, but rather local law enforcement, and it’s those local agencies that work with ICE. This is the complication I mentioned earlier.\nIf you’re a Decoder listener, you know where this is all going. I asked Jamie about all these databases, who owns them, and what it means to connect them all with AI:\nNILAY PATEL: But when you connect a bunch of those databases, particularly to facial recognition, there’s a turn in the privacy conversation where the stakes ratchet up really high, where maybe it’s gone forever. \nHow are you thinking about that decision-making? Okay, we have a lot of intelligence in the AI; it’s trivial for the AI to connect to another store of information. That’s a thing you can do with AI, especially at a big company like Amazon, where you have lots of other stores of information. There’s a line, what’s the line for you?\nJAMIE SIMINOFF: There is a responsibility, obviously just to build safe products. So let’s just start with that. Yeah, we did announce facial, we call it Familiar Faces, but that’s not connected, that’s just for your… Your iPhone today. If you search your iPhone, it’s crazy. Search for someone’s name in your photos, and their pictures come up. \nSo I do think there’s a balance between not allowing technology to exist that should exist that helps people and gives them more efficiency, gives them safer homes and then also, obviously, not creating this dystopian place. And so, I think that’s the responsibility, but what we’re doing with Familiar Faces is we’re just giving you the ability to say, when my wife comes home, don’t… Because it is silly. Why do I get an alert when my wife comes home? I don’t want it, I don’t need it.\nI’m asking this for a lot of reasons, but I look at what’s broadly happening with surveillance footage out in the world. And I’m not saying Ring is participating in this, I’m just giving you an example. ICE has facial recognition systems, and they are arguing that a positive match in their facial recognition system is a definitive determination of someone’s immigration status. That’s way out there. I don’t think you’re doing that.\nBut you can get to, “Okay, we have facial recognition, we have a bunch of evidence coming off of Ring cameras, to make it really safe, you want to go from passive surveillance to active surveillance. That’s what the studies show. Now the camera will literally identify the criminal by face and tell the cops this person tried to steal a car from this driveway,” and that’s the thing that would get you to actually zero out crime.\nThere’s a lot of risk in those steps. But if I draw the thread from what you’re saying, it’s all the way to the idea that the criminals won’t come here because the cameras will know who they are and tell the cops. Are you willing to go that far?\nI think it’s also that the cameras will alert people. Part of what made Ring and what made neighbors safer with Ring 1.0, and I think we are in Ring 2.0, is that there was no presence at the home. How did people break into homes? They would go and be knock-knock burglars. They would knock-knock, no one was home. It was 3PM, they’d go to the homes next door, find a place that was empty, and they’d go into the home.\nRing allowed you to, now, all of a sudden, when someone comes up to the door, you’re like, “Oh, I got a motion alert. Hi, what’s going on?” and so it gave a presence to the home. So, I don’t think you have to go as far as that real time stuff to get to where we’re talking about, I think it’s more of the anomaly detection and allowing people to make it so that, if someone comes in, that you’re aware of what’s happening around the neighborhood because right now there’s no awareness of what’s going on around it.\nSo I don’t think it’s as dystopian as where you’re going, and certainly it’s not what we’re building, and I do think we can impact things to a really high level in neighborhoods. Which, again, to the Jen Tuohy thing, in neighborhoods is what we were talking about, that with AI and what we’re doing with a bunch of Rings together. I think even the Dog Search Party is a good way to look at it, which is how these cameras come together for good in the neighborhood.\nToday, the backlash against surveillance has led Ring to kill that Flock deal. The company is also doing damage control about Search Party, telling The Verge that the technology that powers the feature is not “capable” of being used to find people, and that there’s no indication that such features are on future road maps.\nSure, it seems obvious that Ring has a lot of trust to earn back here, and certainly, we are all thinking about what it means to put internet-connected security cameras in our homes. I think that’s good — and certainly overdue. \nBut let me complicate this a little for you. At the same time this conversation about Ring is happening, we’re also watching regular people record the police and ICE with their cell phones, capturing critical documentary evidence of how those agencies are violating the rights of everyday Americans in ways that is leading to change, however slow. \nMinnesota governor Tim Walz is now telling people to hit record when they see ICE so the footage can be used in future prosecutions. And just last week, the FBI released video that Google appears to have specifically recovered from a Nest camera system at Nancy Guthrie’s house, in order to help identify her kidnapper. \nThat’s a lot of video that’s being captured and used in ways that maybe don’t feel so invasive, and in some cases even feels good. But the systems that create, store, and share that video are all the same, and the guardrails around them are just as weak as whatever makes us feel uncomfortable about Ring.\nI’m not sure how to feel about all of that video, especially in a world where AI makes it easy to fake, and having some source of truth seems more important than ever. I asked Jamie about that, too — whether Ring will control all the video, or sign it with some metadata so people can ensure it’s real. \nNILAY PATEL: Presuming we have to have an authenticated server, there’s a crime in my neighborhood, and I’ve opted in, and we’re going to say the cops can only get the video from the Ring server, where we know it’s true. I might not be as in control of my video anymore.\nJAMIE SIMINOFF: No, not how it’s built and not while I’m here because the way it works is that you will decide if you want to or not want to share that video, which is your property, with someone. Now, once you share it, then it is up to us to figure out, to your point, how do we share it, how do we make sure that the digital fingerprint goes all the way through, or how does the chain of custody work of this video to make sure there’s no fake in the process of it? I think this is why it is important to build these systems. \nIt’s going to be important, though. This is also where the government is going to have to step in. We’re going to have to deal with this across the board because we also have video coming off of cell phones. So, we do need to figure out how to build… And there’s going to be companies, Axon would probably be one of the companies. I don’t want to speak for them, but they have evidence.com, so to build these evidentiary systems to take in…\nBecause Ring is one part of taking in data around, call it a crime scene, but cell phone video is maybe even more of a source today. So, how do you take that in? How do you make sure that it actually was captured on the iPhone directly and not tampered with between the two things? We’re going to have to figure it all out. I think we have to work together on it, and the AI stuff is pushing us to do it. I am proud that with Ring, we have built it so that you can take it directly and keep it on the server. You can understand where it was, where it’s from, where it was created, and we have that digital fingerprint on it and the audit trail of it.\nYou’re going to have to do that more and more as this world is changing, you’re just not going to be able to trust that just because someone sends you a video doesn’t mean it’s true.\nYou get the feeling we’ll be coming back to that idea quite a lot in the years to come. \nBut today Ring has canceled its deal with Flock, and Flock itself is putting out blog posts flatly stating it does not have a contract with ICE, and noting that Ring’s other partner, Axon, does in fact have an ICE contract. \nIn the meantime, Search Party is still active and on by default, although you can just go into settings and flip it off. And the enormous amount of video we all generate is being uploaded to servers run by big companies that have their own dealings with governments and law enforcement agencies far outside of our control. \nThere are a lot of solutions to all these problems, and lots of ways to design regulations to balance out privacy and civil liberties with the needs of police. But right now, in 2026 America, I’m not sure were really going to be able to do that. \nSo we’re going to keep pushing the leaders of these companies on what they really mean, and keep running the answers so you can listen and decide. I think it’s about time we started thinking about how all the technology we use to make our own lives better affects other people. \nBecause that bigger conversation we need to have? Yeah, that’s what it’s really about.\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-02-16T15:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Lassen Sie uns heute über die Kamerafirma Ring, verlorene Hunde und den Überwachungsstaat sprechen. Sie haben diesen Werbespot wahrscheinlich vor ein paar Wochenenden beim Super Bowl gesehen: Seitdem er beim Super Bowl vor einem großen Publikum ausgestrahlt wurde, ist Ring’s Search Party-Werbespot zum Blitzableiter für Kontroversen geworden – er ist e...",
-    "titleDE": "Reden wir über Ring, verlorene Hunde und den Überwachungsstaat"
-  },
-  {
-    "title": "Tuning into the future of collaboration ",
-    "link": "https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/",
-    "description": "When work went remote, the sound of business changed. What began as a scramble to make home offices functional has evolved into a revolution in how people hear and are heard. From education to enterprises, companies across industries have reimagined what clear, reliable communication can mean in a hybrid world. For major audio and communications…",
-    "pubDate": "2026-02-16T15:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als die Arbeit aus der Ferne verlagert wurde, veränderte sich auch der Geschäftsklang. Was als Gerangel darum begann, Heimbüros funktionsfähig zu machen, hat sich zu einer Revolution in der Art und Weise entwickelt, wie Menschen hören und gehört werden. Von der Bildung bis hin zu Unternehmen haben Unternehmen aller Branchen neu definiert, was klare, zuverlässige Kommunikation in einem ... bedeuten kann.",
-    "titleDE": "Einstimmung auf die Zukunft der Zusammenarbeit"
-  },
-  {
-    "title": "The Download: unraveling a death threat mystery, and AI voice recreation for musicians",
-    "link": "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hackers made death threats against this security researcher. Big mistake. In April 2024, a mysterious someone using the online handles “Waifu” and “Judische” began posting death threats on Telegram and Discord channels aimed…",
-    "pubDate": "2026-02-16T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Hacker drohten diesem Sicherheitsforscher mit dem Tod. Großer Fehler. Im April 2024 begann ein mysteriöser Mensch mit den Online-Benutzernamen „Waifu“ und „Judische“...",
-    "titleDE": "Der Download: Aufklärung eines Morddrohungsgeheimnisses und KI-Stimmenerholung für Musiker"
-  },
-  {
-    "title": "The scientist using AI to hunt for antibiotics just about everywhere",
-    "link": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
-    "description": "When he was just a teenager trying to decide what to do with his life, César de la Fuente compiled a list of the world’s biggest problems. He ranked them inversely by how much money governments were spending to solve them. Antimicrobial resistance topped the list.  Twenty years on, the problem has not gone away.…",
-    "pubDate": "2026-02-16T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als er noch als Teenager überlegte, was er mit seinem Leben anfangen sollte, stellte César de la Fuente eine Liste der größten Probleme der Welt zusammen. Er ordnete sie umgekehrt danach, wie viel Geld die Regierungen für ihre Lösung ausgaben. Ganz oben auf der Liste stand die antimikrobielle Resistenz. Zwanzig Jahre später besteht das Problem nicht mehr...",
-    "titleDE": "Der Wissenschaftler nutzt KI, um fast überall nach Antibiotika zu suchen"
-  },
-  {
-    "title": "Hackers made death threats against this security researcher. Big mistake.",
-    "link": "https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/",
-    "description": "The threats started in spring.  In April 2024, a mysterious someone using the online handles “Waifu” and “Judische” began posting death threats on Telegram and Discord channels aimed at a cybersecurity researcher named Allison Nixon.  “Alison [sic] Nixon is gonna get necklaced with a tire filled with gasoline soon,” wrote Waifu/Judische, both of which are…",
-    "pubDate": "2026-02-16T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Drohungen begannen im Frühjahr. Im April 2024 begann eine mysteriöse Person mit den Online-Benutzernamen „Waifu“ und „Judische“ auf Telegram- und Discord-Kanälen Morddrohungen zu veröffentlichen, die sich an eine Cybersicherheitsforscherin namens Allison Nixon richteten. „Alison [sic] Nixon wird mit einem Reifen voller … gefesselt",
-    "titleDE": "Hacker drohten diesem Sicherheitsforscher mit dem Tod. Großer Fehler."
-  },
-  {
-    "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-    "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-    "description": "This story has been retracted",
-    "pubDate": "2026-02-13T19:40:21.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Diese Geschichte wurde zurückgezogen",
-    "titleDE": "Rückzug: Nach einer routinemäßigen Code-Ablehnung veröffentlichte ein KI-Agent einen hitzigen Artikel über eine namentlich genannte Person"
-  },
-  {
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "link": "https://openai.com/index/new-result-theoretical-physics",
-    "description": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-    "pubDate": "2026-02-13T11:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Ein neuer Vorabdruck zeigt, wie GPT-5.2 eine neue Formel für eine Gluonamplitude vorschlägt, die später von OpenAI und akademischen Mitarbeitern offiziell bewiesen und verifiziert wurde.",
-    "titleDE": "GPT-5.2 leitet ein neues Ergebnis in der theoretischen Physik ab"
-  },
-  {
-    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-    "description": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-    "pubDate": "2026-02-13T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Einführung des Sperrmodus und der Kennzeichnung „Erhöhtes Risiko“ in ChatGPT, um Unternehmen dabei zu helfen, sich vor sofortiger Einschleusung und KI-gesteuerter Datenexfiltration zu schützen.",
-    "titleDE": "Einführung der Bezeichnungen „Sperrmodus“ und „Erhöhtes Risiko“ in ChatGPT"
-  },
-  {
-    "title": "Scaling social science research",
-    "link": "https://openai.com/index/scaling-social-science-research",
-    "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-    "pubDate": "2026-02-13T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "GABRIEL ist ein neues Open-Source-Toolkit von OpenAI, das GPT nutzt, um qualitative Texte und Bilder in quantitative Daten umzuwandeln und Sozialwissenschaftlern dabei hilft, Forschung in großem Maßstab zu analysieren.",
-    "titleDE": "Skalierung der sozialwissenschaftlichen Forschung"
-  },
-  {
-    "title": "Beyond rate limits: scaling access to Codex and Sora",
-    "link": "https://openai.com/index/beyond-rate-limits",
-    "description": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-    "pubDate": "2026-02-13T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wie OpenAI ein Echtzeit-Zugriffssystem aufgebaut hat, das Ratenbegrenzungen, Nutzungsverfolgung und Gutschriften kombiniert, um einen kontinuierlichen Zugriff auf Sora und Codex zu ermöglichen.",
-    "titleDE": "Über Ratengrenzen hinaus: Skalieren des Zugriffs auf Codex und Sora"
-  },
-  {
-    "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-    "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-    "description": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
-    "pubDate": "2026-02-12T22:56:02.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Der neue GPT-5.3-Codex-Spark von OpenAI ist beim Codieren 15-mal schneller als sein Vorgänger.",
-    "titleDE": "OpenAI umgeht Nvidia mit einem ungewöhnlich schnellen Codierungsmodell auf plattengroßen Chips"
-  },
-  {
-    "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-    "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
-    "description": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
-    "pubDate": "2026-02-12T19:42:08.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Mit der Destillationstechnik können Nachahmer Gemini zu einem Bruchteil der Entwicklungskosten nachahmen.",
-    "titleDE": "Laut Google forderten Angreifer über 100.000 Mal Gemini auf, als sie versuchten, es zu klonen"
-  },
-  {
-    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-    "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
-    "pubDate": "2026-02-12T16:13:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Wir veröffentlichen ein großes Upgrade für Gemini 3 Deep Think, unseren speziellen Denkmodus.",
-    "titleDE": "Gemini 3 Deep Think: Förderung von Wissenschaft, Forschung und Technik"
-  },
-  {
-    "title": "Introducing GPT-5.3-Codex-Spark",
-    "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-    "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-    "pubDate": "2026-02-12T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wir stellen GPT-5.3-Codex-Spark vor – unser erstes Echtzeit-Codierungsmodell. 15-mal schnellere Generierung, 128.000 Kontext, jetzt in der Forschungsvorschau für ChatGPT Pro-Benutzer.",
-    "titleDE": "Einführung von GPT-5.3-Codex-Spark"
   }
 ]
