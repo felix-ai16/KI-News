@@ -1,5 +1,215 @@
 [
   {
+    "title": "Canva acquires startups working on animation and marketing",
+    "link": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
+    "description": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
+    "pubDate": "2026-02-24T07:39:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit den neuen Akquisitionen möchte das Unternehmen seine Position als Marketinglösung stärken, indem es möglicherweise die Videoerstellung und detailliertere Messungen hinzufügt.",
+    "titleDE": "Canva erwirbt Startups, die in den Bereichen Animation und Marketing tätig sind"
+  },
+  {
+    "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox ",
+    "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+    "description": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+    "pubDate": "2026-02-24T00:57:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der virale X-Beitrag eines KI-Sicherheitsforschers liest sich wie Satire. Aber es ist eigentlich eine Warnung, was bei der Übergabe von Aufgaben an einen KI-Agenten schiefgehen kann.",
+    "titleDE": "Ein Sicherheitsforscher von Meta AI sagte, ein OpenClaw-Agent sei in ihrem Posteingang Amok gelaufen"
+  },
+  {
+    "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic ",
+    "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+    "description": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+    "pubDate": "2026-02-23T21:46:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während einige Doppelinvestoren verständlich sind, waren andere schockierender und signalisieren die Missachtung einer seit langem bestehenden ethischen Regel zu Interessenkonflikten.",
+    "titleDE": "Mit KI ist die Anlegertreue (fast) tot: Mindestens ein Dutzend OpenAI-VCs unterstützen mittlerweile auch Anthropic"
+  },
+  {
+    "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+    "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal.\nThe three companies - DeepSeek, MiniMax, and Moonshot - are accused of \"distilling\" Claude, or training a smaller AI model based on a more advanced one. Though Anthropic says that distillation is a \"legitimate training method,\" it adds that it can \"also be used for illicit purpose …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-23T20:22:55.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic behauptet, DeepSeek und zwei andere chinesische KI-Unternehmen hätten ihr Claude-KI-Modell missbraucht, um ihre eigenen Produkte zu verbessern. In einer Ankündigung vom Montag sagte Anthropic, dass die „Kampagnen im industriellen Maßstab“ die Erstellung von rund 24.000 betrügerischen Konten und mehr als 16 Millionen Börsen beinhalteten...",
+    "titleDE": "Anthropic wirft DeepSeek und anderen chinesischen Firmen vor, Claude zum Trainieren ihrer KI zu nutzen"
+  },
+  {
+    "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+    "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+    "description": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+    "pubDate": "2026-02-23T19:57:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic wirft DeepSeek, Moonshot und MiniMax vor, 24.000 gefälschte Konten zu nutzen, um Claudes KI-Fähigkeiten zu destillieren, während US-Beamte über Exportkontrollen debattieren, die Chinas KI-Fortschritt verlangsamen sollen.",
+    "titleDE": "Anthropic beschuldigt chinesische KI-Labore, Claude abgebaut zu haben, während die USA über den Export von KI-Chips debattieren"
+  },
+  {
+    "title": "Google’s Cloud AI leads on the three frontiers of model capability",
+    "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+    "description": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+    "pubDate": "2026-02-23T19:18:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "KI-Modelle stoßen an drei Grenzen gleichzeitig: reine Intelligenz, Reaktionszeit und eine dritte Qualität, die man „Erweiterbarkeit“ nennen könnte.",
+    "titleDE": "Googles Cloud AI ist führend an den drei Grenzen der Modellfähigkeit"
+  },
+  {
+    "title": "Peptides are everywhere. Here’s what you need to know.",
+    "link": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Want to lose weight? Get shredded? Stay mentally sharp? A wellness influencer might tell you to take peptides, the latest cure-all in the alternative medicine arsenal.…",
+    "pubDate": "2026-02-23T18:52:40.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "MIT Technology Review erklärt: Lassen Sie unsere Autoren die komplexe, chaotische Welt der Technologie entwirren, damit Sie besser verstehen, was als nächstes kommt. Mehr aus der Serie können Sie hier lesen. Möchten Sie abnehmen? Zerfetzt werden? Geistig fit bleiben? Ein Wellness-Influencer könnte Ihnen sagen, dass Sie Peptide einnehmen sollen, die neuesten ...",
+    "titleDE": "Peptide sind überall. Folgendes müssen Sie wissen:"
+  },
+  {
+    "title": "OpenAI calls in the consultants for its enterprise push",
+    "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+    "description": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
+    "pubDate": "2026-02-23T18:11:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI arbeitet mit vier Beratungsriesen zusammen, um eine stärkere Akzeptanz seiner KI-Agentenplattform OpenAI Frontier zu erreichen.",
+    "titleDE": "OpenAI ruft die Berater für seinen Unternehmensschub auf"
+  },
+  {
+    "title": "Guide Labs debuts a new kind of interpretable LLM",
+    "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+    "description": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+    "pubDate": "2026-02-23T17:53:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen hat ein Open-Source-LLM mit 8 Milliarden Parametern, Steerling-8B, bereitgestellt, das mit einer neuen Architektur trainiert wurde, um seine Aktionen leicht interpretierbar zu machen.",
+    "titleDE": "Guide Labs stellt eine neue Art von interpretierbarem LLM vor"
+  },
+  {
+    "title": "The human work behind humanoid robots is being hidden",
+    "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots…",
+    "pubDate": "2026-02-23T17:05:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Im Januar verkündete Jensen Huang von Nvidia, Chef des wertvollsten Unternehmens der Welt, dass wir in die Ära der physischen KI eintreten, in der künstliche Intelligenz...",
+    "titleDE": "Die menschliche Arbeit hinter humanoiden Robotern wird verborgen"
+  },
+  {
+    "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+    "description": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+    "pubDate": "2026-02-23T16:55:40.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die KI-Nachrichten-App Particle kann jetzt wichtige Momente aus Podcasts abrufen, sodass Leser sofort kurze, relevante Clips neben verwandten Geschichten abspielen können.",
+    "titleDE": "Die KI-Nachrichten-App von Particle hört Podcasts auf interessante Clips, sodass Sie dies nicht tun müssen"
+  },
+  {
+    "title": "Spotify rolls out AI-powered  Prompted Playlists to the UK and other markets",
+    "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+    "description": "Spotify continues to test its AI-powered “Prompted Playlist” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+    "pubDate": "2026-02-23T16:50:36.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Spotify testet weiterhin seine KI-gestützte Funktion „Prompted Playlist“ und führt das Tool nun für Premium-Abonnenten in Großbritannien, Irland, Australien und Schweden ein.",
+    "titleDE": "Spotify führt KI-gestützte Prompted Playlists in Großbritannien und anderen Märkten ein"
+  },
+  {
+    "title": "Does Big Tech actually care about fighting AI slop?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
+    "description": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAs 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" But people, Mosseri insisted, still wanted \"content that feels real.\" His proposed solution was finding a way to label real media. \"Camera manufacturers will cryptographically sign images at capture, creating a chain of custody,\" he said. The result would be a trustworthy system for determining what's not AI.\nThe g …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-23T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Fortschritt hin zu einer zuverlässigen Deepfake-Kennzeichnungstechnologie ist trotz aller „Hilfe“ von KI-Anbietern schleppend. | Bild: Cath Virginia / The Verge, Getty Images Als das Jahr 2025 zu Ende ging, beendete Instagram-Chef Adam Mosseri das Jahr mit einem unheilvollen Beitrag über KI. „Authentizität wird unendlich reproduzierbar“ ...",
+    "titleDE": "Interessiert sich Big Tech tatsächlich für die Bekämpfung von KI-Schwächen?"
+  },
+  {
+    "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
+    "link": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
+    "description": "Five days to save up to $680 on your TechCrunch Disrupt 2026 ticket. These lowest rates of the year disappear on February 27 at 11:59 p.m. PT.",
+    "pubDate": "2026-02-23T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Fünf Tage, um bis zu 680 $ auf Ihr TechCrunch Disrupt 2026-Ticket zu sparen. Diese niedrigsten Kurse des Jahres verschwinden am 27. Februar um 23:59 Uhr. PT.",
+    "titleDE": "Es bleiben noch 5 Tage, um sich die niedrigsten Ticketpreise für TechCrunch Disrupt 2026 zu sichern"
+  },
+  {
+    "title": "How AI agents could destroy the economy",
+    "link": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
+    "description": "Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.",
+    "pubDate": "2026-02-23T14:44:03.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Citrini Research stellt sich einen Bericht aus zwei Jahren in der Zukunft vor, in dem sich die Arbeitslosigkeit verdoppelt hat und der Gesamtwert des Aktienmarktes um mehr als ein Drittel gesunken ist.",
+    "titleDE": "Wie KI-Agenten die Wirtschaft zerstören könnten"
+  },
+  {
+    "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+    "link": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
+    "description": "Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth has threatened to designate Anthropic a \"supply chain risk.\"",
+    "pubDate": "2026-02-23T14:19:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Verteidigungsminister Pete Hegseth hat den CEO von Anthropic, Dario Amodei, zu einer angespannten Diskussion über den Einsatz von Claude durch das Militär ins Pentagon bestellt. Hegseth hat damit gedroht, Anthropic als „Lieferkettenrisiko“ einzustufen.",
+    "titleDE": "Verteidigungsminister ruft Amodei von Anthropic wegen militärischem Einsatz von Claude vor"
+  },
+  {
+    "title": "The Download: Chicago’s surveillance network, and building better bras",
+    "link": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside Chicago’s surveillance panopticon Chicago has tens of thousands of surveillance cameras—up to 45,000, by some estimates.  That’s among the highest numbers per capita in the US. Chicago boasts one of the largest…",
+    "pubDate": "2026-02-23T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. In Chicagos Überwachungs-Panoptikum gibt es in Chicago Zehntausende Überwachungskameras – Schätzungen zufolge sind es bis zu 45.000. Das ist eine der höchsten Zahlen überhaupt.",
+    "titleDE": "Der Download: Chicagos Überwachungsnetzwerk und der Aufbau besserer BHs"
+  },
+  {
+    "title": "How many AIs does it take to read a PDF?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+    "description": "Image: Kristen Radtke / The Verge\t\n\nLast November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice would release its own batches of files, more than three million of them - again, all PDFs.\nThis was a problem. While the Department of Justice had run optical character recognition over the text, it was not very good, Igel said, rendering the files more or less unsearchable. \n\"There was no interface  …\nRead the full story at The Verge.",
+    "pubDate": "2026-02-23T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Bild: Kristen Radtke / The Verge Letzten November hatte der Aufsichtsausschuss des Repräsentantenhauses gerade 20.000 Seiten mit Dokumenten aus dem Nachlass von Jeffrey Epstein veröffentlicht, und Luke Igel und einige Freunde klickten herum und versuchten, den Gesprächssträngen durch verstümmelte E-Mail-Threads und eine PDF-Ansicht zu folgen …",
+    "titleDE": "Wie viele KIs braucht man, um ein PDF zu lesen?"
+  },
+  {
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "pubDate": "2026-02-23T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "SWE-Bench Verified ist zunehmend kontaminiert und misst den Fortschritt der Grenzkodierung falsch. Unsere Analyse zeigt fehlerhafte Tests und Trainingslecks. Wir empfehlen SWE-Bench Pro.",
+    "titleDE": "Warum wir SWE-bench Verified nicht mehr bewerten"
+  },
+  {
+    "title": "Inside Chicago’s surveillance panopticon",
+    "link": "https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/",
+    "description": "Early on the morning of September 2, 2024, a Chicago Transit Authority Blue Line train was the scene of a random and horrific mass shooting. Four people were shot and killed on a westbound train as it approached the suburb of Forest Park.  The police swiftly activated a digital dragnet—a surveillance network that connects thousands…",
+    "pubDate": "2026-02-23T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Am frühen Morgen des 2. September 2024 war ein Zug der Chicago Transit Authority Blue Line Schauplatz einer willkürlichen und schrecklichen Massenerschießung. Vier Menschen wurden in einem Zug in westlicher Richtung erschossen, als dieser sich dem Vorort Forest Park näherte. Die Polizei aktivierte umgehend eine digitale Schleppnetz-Überwachungsanlage.",
+    "titleDE": "Im Überwachungs-Panoptikum von Chicago"
+  },
+  {
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "link": "https://openai.com/index/frontier-alliance-partners",
+    "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "pubDate": "2026-02-23T05:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI kündigt Frontier Alliance Partners an, um Unternehmen mit sicheren, skalierbaren Agentenbereitstellungen beim Übergang von KI-Piloten zur Produktion zu unterstützen.",
+    "titleDE": "OpenAI gibt Frontier Alliance-Partner bekannt"
+  },
+  {
     "title": "Samsung is adding Perplexity to Galaxy AI",
     "link": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
     "description": "I wish I could talk to my Plex server… | Image: Samsung.\t\n\nIn addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\"\nOften, people will use different AI agents for different tasks, depending on where their strengths lie. So Samsung is opening up the ability to integrate different agents into the OS. Hey, Plex isn't just some transparent version of the app baked into a Galaxy phone to quickly get answers to questions. Perplexity will have access to Samsung Notes, Clock, Gallery, Reminder, and Calendar, as well as select thi …\nRead the full story at The Verge.",
@@ -100,36 +310,6 @@
     "titleDE": "Das indische Unternehmen Sarvam führt die KI-Chat-App Indus ein, da sich der Wettbewerb verschärft"
   },
   {
-    "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
-    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-    "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, […]",
-    "pubDate": "2026-02-20T23:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Creator-Wirtschaft entwickelt sich rasant weiter und Werbeeinnahmen allein reichen nicht mehr aus. YouTuber bringen Produktlinien auf den Markt, übernehmen Startups und bauen echte Geschäftsimperien auf. Tatsächlich hat MrBeasts Unternehmen das Fintech-Startup Step gekauft und sein Schokoladengeschäft übertrifft seinen Medienzweig. Das ist...",
-    "titleDE": "Das Werbeeinnahmenproblem der Creator Economy und Indiens KI-Ambitionen"
-  },
-  {
-    "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions ",
-    "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
-    "description": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is out-earning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  […]",
-    "pubDate": "2026-02-20T22:24:37.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Creator-Wirtschaft entwickelt sich rasant weiter und Werbeeinnahmen allein reichen nicht mehr aus. YouTuber bringen Produktlinien auf den Markt, übernehmen Startups und bauen echte Geschäftsimperien auf. Tatsächlich hat MrBeasts Unternehmen das Fintech-Startup Step gekauft und sein Schokoladengeschäft übertrifft seinen Medienzweig. Das ...",
-    "titleDE": "Warum YouTuber ihre Werbeeinnahmen zugunsten von Schokoriegeln und Fintech-Akquisitionen aufgeben"
-  },
-  {
-    "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-    "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-    "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
-    "pubDate": "2026-02-20T20:52:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Beim Duell zwischen Pro-KI-PACs ging es immer um die Unterstützung oder gezielte Unterstützung eines Kandidaten für den New Yorker Kongress: Alex Bores, dessen RAISE Act von KI-Entwicklern verlangt, Sicherheitsprotokolle offenzulegen und schwerwiegenden Systemmissbrauch zu melden.",
-    "titleDE": "Von Anthropic finanzierte Gruppe unterstützt Kandidaten, der vom rivalisierenden KI-Super-PAC angegriffen wird"
-  },
-  {
     "title": "Trump is making coal plants even dirtier as AI demands more energy",
     "link": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
     "description": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images\t\n\nThe Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data centers. \nThose standards are particularly impactful when it comes to pollution from coal plants responsible for around half of mercury emissions in the US. Mercury is a neurotoxin; high exposure has been linked to birth defects and learning disabilities in children. Exposure can also impact the kidneys and nervous system.\n\nTrump's deregulation spree aims to make it easier to quickly constr …\n\nRead the full story at The Verge.",
@@ -140,16 +320,6 @@
     "titleDE": "Trump macht Kohlekraftwerke noch schmutziger, da KI mehr Energie benötigt"
   },
   {
-    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-    "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-    "description": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
-    "pubDate": "2026-02-20T19:24:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das von Buchhaltern gegründete Startup, die bei Flexport, Miro, Hopin und Thrive Global gearbeitet haben, automatisiert die Schwierigkeiten bei der Erstellung von Finanzberichten.",
-    "titleDE": "InScope erhält 14,5 Millionen US-Dollar, um die Probleme der Finanzberichterstattung zu lösen"
-  },
-  {
     "title": "Exclusive eBook: The great Al hype correction of 2025",
     "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
     "description": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
@@ -158,16 +328,6 @@
     "category": "trend",
     "descriptionDE": "2025 war ein Jahr der Abrechnung, auch der Tatsache, dass die Chefs der führenden KI-Unternehmen Versprechen machten, die sie nicht halten konnten. In diesem exklusiven E-Book nur für Abonnenten erfahren Sie mehr darüber, warum wir unsere Erwartungen möglicherweise anpassen müssen. Diese Geschichte ist Teil des Hype Correction-Pakets.von Will Douglas Heaven Dece...",
     "titleDE": "Exklusives E-Book: Die große Al-Hype-Korrektur von 2025"
-  },
-  {
-    "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
-    "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
-    "description": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
-    "pubDate": "2026-02-20T18:26:54.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein neuer Bericht von Business Insider enthüllt, dass hochrangige Ingenieure bei xAI aus anderen Projekten abgezogen wurden, um sicherzustellen, dass Grok detaillierte Fragen zum Videospiel Baldur's Gate beantworten konnte.",
-    "titleDE": "Tolle Neuigkeiten für xAI: Grok ist jetzt ziemlich gut darin, Fragen zu Baldur’s Gate zu beantworten"
   },
   {
     "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
@@ -190,46 +350,6 @@
     "titleDE": "Das erste ChatGPT-Gadget von OpenAI könnte ein intelligenter Lautsprecher mit Kamera sein"
   },
   {
-    "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
-    "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
-    "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
-    "pubDate": "2026-02-20T16:25:54.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Süchtig machende, KI-fähige Tablets sind auf dem Vormarsch, und außerdem bekommt Woody im neuen Toy Story-Film, der am 19. Juni erscheint, eine Glatze.",
-    "titleDE": "„Toy Story 5“ nimmt gruselige KI-Spielzeuge ins Visier: „Ich höre immer zu“"
-  },
-  {
-    "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
-    "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-    "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
-    "pubDate": "2026-02-20T15:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI erweitert den Zugang zum Filmemachen für Filmemacher mit begrenzten Ressourcen. Doch da Effizienz zum Leitstern der Branche wird, besteht die Gefahr, dass die Kreativität von einer Flut an KI-generierten Inhalten mit geringem Aufwand überwältigt wird.",
-    "titleDE": "Das Versprechen von KI an Indie-Filmemacher: Schneller, billiger, einsamer"
-  },
-  {
-    "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
-    "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-    "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
-    "pubDate": "2026-02-20T15:10:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut Peak",
-    "titleDE": "Peak"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week",
-    "link": "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/",
-    "description": "The lowest ticket rates of the year for TechCrunch Disrupt 2026 end next Friday, February 27. Save up to $680 on your pass. Register now before prices increase.",
-    "pubDate": "2026-02-20T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die niedrigsten Ticketpreise des Jahres für TechCrunch Disrupt 2026 enden am kommenden Freitag, den 27. Februar. Sparen Sie bis zu 680 $ bei Ihrem Pass. Melden Sie sich jetzt an, bevor die Preise steigen.",
-    "titleDE": "Die Super-Frühbucherpreise für TechCrunch Disrupt 2026 enden in einer Woche"
-  },
-  {
     "title": "Our First Proof submissions",
     "link": "https://openai.com/index/first-proof-submissions",
     "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
@@ -240,16 +360,6 @@
     "titleDE": "Unsere First-Proof-Einreichungen"
   },
   {
-    "title": "OpenAI says 18- to 24-year-olds account for nearly 50% of ChatGPT usage in India",
-    "link": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
-    "description": "The company said on Friday that users between 18 and 24 years of age account for nearly 50% of all messages sent by Indians to ChatGPT, and users under 30 account for 80% of usage in the country.",
-    "pubDate": "2026-02-20T13:57:03.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen teilte am Freitag mit, dass Benutzer im Alter zwischen 18 und 24 Jahren für fast 50 % aller von Indern an ChatGPT gesendeten Nachrichten verantwortlich seien und Benutzer unter 30 Jahren für 80 % der Nutzung im Land verantwortlich seien.",
-    "titleDE": "Laut OpenAI machen 18- bis 24-Jährige fast 50 % der ChatGPT-Nutzung in Indien aus"
-  },
-  {
     "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
     "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips…",
@@ -258,16 +368,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Microsoft hat einen neuen Plan, um zu beweisen, was real ist und was KI online ist. KI-gestützte Täuschung durchdringt jetzt unser Online-Leben. Es gibt die hochkarätigen Fälle, die Sie vielleicht ...",
     "titleDE": "Der Download: Microsofts Online-Realitätscheck und der besorgniserregende Anstieg der Masernfälle"
-  },
-  {
-    "title": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
-    "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
-    "description": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy 8 exaflops of compute through a new system in India.",
-    "pubDate": "2026-02-20T11:58:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das in Abu Dhabi ansässige Technologieunternehmen G42 hat sich mit dem US-amerikanischen Chiphersteller Cerebras zusammengetan, um 8 Exaflops an Rechenleistung über ein neues System in Indien bereitzustellen.",
-    "titleDE": "G42 der Vereinigten Arabischen Emirate arbeitet mit Cerebras zusammen, um 8 Exaflops an Rechenleistung in Indien bereitzustellen"
   },
   {
     "title": "Job titles of the future: Breast biomechanic",
@@ -300,23 +400,13 @@
     "titleDE": "Die Masernfälle nehmen zu. Als nächstes könnten weitere durch Impfungen vermeidbare Infektionen folgen."
   },
   {
-    "title": "General Catalyst commits $5B to India over five years",
-    "link": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
-    "description": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
-    "pubDate": "2026-02-20T06:41:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Zusage stellt einen deutlichen Sprung gegenüber der früheren Indien-Zusage von General Catalyst in Höhe von 500 Millionen bis 1 Milliarde US-Dollar dar.",
-    "titleDE": "General Catalyst stellt über einen Zeitraum von fünf Jahren 5 Milliarden US-Dollar für Indien bereit"
-  },
-  {
     "title": "The Pitt has a sharp take on AI",
     "link": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
     "description": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often leaves The Pitt's central characters shaken. But as alarming as many of The Pitt's more gore-forward moments can be, what's even more unsettling is the show's slow-burning subplot about hospitals adopting generative artificial intelligence.\nIn its second season, The Pitt once again chronicles all the events that happen  …\nRead the full story at The Verge.",
     "pubDate": "2026-02-19T23:15:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "In jeder Folge von HBOs „The Pitt“ gibt es ein gewisses Maß an medizinischem Trauma, das das Krankenhausdrama fast wie eine Horrorserie wirken lässt. Manche Patienten haben mit schlimmen Schnittwunden zu kämpfen, während andere gegen bösartige Blutinfektionen kämpfen, die ihnen die Gliedmaßen rauben könnten, und das Chaos am Arbeitsplatz ...",
+    "descriptionDE": "In jeder Folge von HBOs „The Pitt“ gibt es ein gewisses Maß an medizinischem Trauma, das das Krankenhausdrama fast wie eine Horrorserie wirken lässt. Einige Patienten haben mit schlimmen Schnittwunden zu kämpfen, während andere gegen bösartige Blutinfektionen kämpfen, die ihnen die Gliedmaßen rauben könnten, und das Chaos am Arbeitsplatz ...",
     "titleDE": "Der Pitt hat einen scharfen Blick auf KI"
   },
   {
@@ -337,67 +427,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "KI-gestützte Täuschung durchdringt mittlerweile unser Online-Leben. Es gibt hochkarätige Fälle, die Sie leicht erkennen können, wie zum Beispiel, als Beamte des Weißen Hauses kürzlich ein manipuliertes Bild eines Demonstranten in Minnesota teilten und sich dann über diejenigen lustig machten, die danach fragten. Ein anderes Mal schleicht es sich still und leise in Social-Media-Feeds ein und ...",
-    "titleDE": "Microsoft hat einen neuen Plan, um online zu beweisen, was real und was KI ist"
-  },
-  {
-    "title": "The speech police came for Colbert",
-    "link": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast",
-    "description": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly took Jimmy Kimmel off the air, his vague threats appear to have been enough to convince CBS to tell Stephen Colbert not to air an interview. Which, of course, became a whole thing.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast (which we recorded and published a day early bot …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-19T15:08:39.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Im Allgemeinen sind obskure und größtenteils nicht durchgesetzte FCC-Regeln nicht die Domäne von Late-Night-Talkshows. FCC-Kommissar Brendan Carr scheint jedoch die Absicht zu haben, dies zu ändern; Nicht lange nachdem er einen Aufruhr ausgelöst hatte, der Jimmy Kimmel kurzzeitig aus der Luft brachte, scheinen seine vagen Drohungen ausgereicht zu haben, um …",
-    "titleDE": "Die Sprachpolizei kam für Colbert"
-  },
-  {
-    "title": "Money no longer matters to AI’s top talent",
-    "link": "https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo",
-    "description": "Today on Decoder we’re going to talk about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers.\nThe vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area. Nowadays, such companies are paying some of the highest salaries in the history of the tech industry to poach researchers from one another.\nIt feels like every time one of these AI researchers leaves one company for another, they tell us exactly why. Sometimes they’re simply resigning to go be a poet. Sometimes they’re chasing a mission. Sometimes they’re worried that AI is going to imperil humanity, destroy all jobs, and plunge the world into chaos.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThey’re really saying these things. They’re publishing these notes on X, in blog posts, or in the case of one former OpenAI safety researcher by writing a full New York Times op-ed. \nI’ve been dying to really dig in and try to unpack what’s going on with all these talent moves in AI. So my guest today is Verge senior AI reporter Hayden Field, who’s been covering the revolving door of the AI industry really closely and also the broader culture that’s motivating the AI workers to jump ship and the companies that are ruthlessly trying to hire them.\nThose motivations vary. Sure, all these people are paid extravagant salaries, but as you’ll hear Hayden say, a stronger motivating force is ideology and mission. The people working on AI, by and large, believe that what they’re doing is going to radically change the world, and they’re not really in desperate need of more money. So that really changes the incentive structures that might push people to leave, say, OpenAI for Anthropic, or to quit Elon Musk’s xAI now that it’s been acquired by SpaceX.\nAt the same time, the incentives of the AI companies themselves are going from raising money to making money. Reporting suggests OpenAI and maybe even Anthropic could go public this year, and doing so would create a historic amount of wealth. It would also put new kinds of pressure on these companies to be more transparent about how they spend money and to be much more accountable for returning on the huge investments that they’ve raised so far.\nThere’s a lot in this conversation. The AI industry right now is full of drama. There’s big characters, bitter rivalries, lots of money, and really, really long blog posts about the end of the world.\n\n\nIf you’d like to read more about what we discussed in this episode, check out these links:\nWhat’s behind the mass exodus at xAI? | The Verge\nOpenClaw founder Peter Steinberger is joining OpenAI | The Verge\nTwo more xAI co-founders leave after the SpaceX merger | The Verge\nAI safety leader says ‘world is in peril’ and quits to study poetry | BBC\nOpenAI is making the mistakes Facebook made. I quit. | The New York Times\nAnthropic’s chief on AI: ‘We don’t know if the models are conscious’ | The New York Times\nMeet the one woman Anthropic trusts to teach AI morals | The Wall Street Journal\nOpenAI plans fourth-quarter IPO in race to beat Anthropic to market | The Wall Street Journal\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-02-19T15:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute werden wir bei Decoder über den Kampf um KI-Talente sprechen. Derzeit ist der heißeste Arbeitsmarkt der Welt der für KI-Forscher. Die überwiegende Mehrheit dieser Menschen konzentriert sich auf eine kleine Anzahl äußerst wertvoller, extrem schnell wachsender Unternehmen in der San Francisco Bay Area. Heutzutage...",
-    "titleDE": "Geld spielt für die Top-Talente der KI keine Rolle mehr"
-  },
-  {
-    "title": "It&#8217;s MAGA v Broligarch in the battle over prediction markets",
-    "link": "https://www.theverge.com/policy/881139/broligarch-prediction-markets",
-    "description": "The Polymarket website hosts trading on whether Houthi militias would strike Israeli territory arranged on a laptop computer in Forest Hills neighborhood in the Queens borough of New York, US, on Sunday, Jan. 4, 2026. | Bloomberg via Getty Images.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about the love-hate (but mostly hate) relationship between Silicon Valley and Washington. I hope everyone got to celebrate George Washington's birthday in their preferred manner: skiing, staycationing, subscribing to The Verge if you haven't already, etc.  \nPrediction: this is going to be a mess\nPolitical alliances are rarely permanent, so it's somewhat predictable that the MAGA-tech bro alliance seems to have fallen apart in the span of a single year. Which side the administration would actually choose, though, was more difficult to foresee.\nLast winter, it appeared that  …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-19T13:50:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Auf der Polymarket-Website findet am Sonntag, dem 4. Januar 2026, auf einem Laptop im Viertel Forest Hills im Stadtteil Queens in New York, USA, eine Debatte darüber statt, ob Houthi-Milizen israelisches Territorium angreifen würden. | Bloomberg über Getty Images. Hallo und willkommen bei Regulator, einem Newsletter für Ver...",
-    "titleDE": "Es ist MAGA gegen Broligarch im Kampf um die Prognosemärkte"
-  },
-  {
-    "title": "The Download: autonomous narco submarines, and virtue signaling chatbots",
-    "link": "https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How uncrewed narco subs could transform the Colombian drug trade For decades, handmade narco subs have been some of the cocaine trade’s most elusive and productive workhorses, ferrying multi-ton loads of illicit drugs…",
-    "pubDate": "2026-02-19T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie ungeschraubte Drogen-U-Boote den kolumbianischen Drogenhandel verändern könnten Seit Jahrzehnten gehören handgefertigte Drogen-U-Boote zu den schwer fassbaren und produktivsten Waffen des Kokainhandels...",
-    "titleDE": "Der Download: autonome Narco-U-Boote und Tugendsignal-Chatbots"
-  },
-  {
-    "title": "How uncrewed narco subs could transform the Colombian drug trade",
-    "link": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
-    "description": "On a bright morning last April, a surveillance plane operated by the Colombian military spotted a 40-foot-long shark-like silhouette idling in the ocean just off Tayrona National Park. It was, unmistakably, a “narco sub,” a stealthy fiberglass vessel that sails with its hull almost entirely underwater, used by drug cartels to move cocaine north. The…",
-    "pubDate": "2026-02-19T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "An einem hellen Morgen im vergangenen April entdeckte ein Überwachungsflugzeug des kolumbianischen Militärs eine 12 Meter lange, haiartige Silhouette, die im Meer vor dem Tayrona-Nationalpark trieb. Es handelte sich unverkennbar um ein „Narco-U-Boot“, ein getarntes Glasfaserschiff, dessen Rumpf fast vollständig unter Wasser segelt …",
-    "titleDE": "Wie unbemannte Drogen-U-Boote den kolumbianischen Drogenhandel verändern könnten"
-  },
-  {
-    "title": "The building legal case for global climate justice",
-    "link": "https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/",
-    "description": "The United States and the European Union grew into economic superpowers by committing climate atrocities. They have burned a wildly disproportionate share of the world’s oil and gas, planting carbon time bombs that will detonate first in the poorest, hottest parts of the globe.  Meanwhile, places like the Solomon Islands and Chad—low-lying or just plain…",
-    "pubDate": "2026-02-19T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Vereinigten Staaten und die Europäische Union entwickelten sich zu wirtschaftlichen Supermächten, indem sie Klimagräueltaten begingen. Sie haben einen überproportionalen Anteil des weltweiten Öls und Gases verbrannt und Kohlenstoff-Zeitbomben platziert, die zuerst in den ärmsten und heißesten Teilen der Welt explodieren. Mittlerweile gibt es Orte wie...",
-    "titleDE": "Der baurechtliche Fall für globale Klimagerechtigkeit"
+    "titleDE": "Microsoft hat einen neuen Plan, um online zu beweisen, was real ist und was KI ist"
   },
   {
     "title": "Advancing independent research on AI alignment",
@@ -408,16 +438,6 @@
     "category": "news",
     "descriptionDE": "OpenAI stellt dem Alignment Project 7,5 Millionen US-Dollar zur Verfügung, um unabhängige KI-Alignment-Forschung zu finanzieren und so die weltweiten Bemühungen zur Bewältigung von AGI-Sicherheitsrisiken zu stärken.",
     "titleDE": "Förderung unabhängiger Forschung zur KI-Ausrichtung"
-  },
-  {
-    "title": "What it takes to make agentic AI work in retail",
-    "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
-    "description": "Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Prasad Banala, director of software engineering at a large US-based retail organization, about operationalizing agentic AI across the software development lifecycle. Prasad explains how his team applies AI to validate requirements, generate…",
-    "pubDate": "2026-02-19T08:54:41.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Vielen Dank, dass Sie sich uns im „Enterprise AI Hub“ angeschlossen haben. In dieser Folge des Podcasts des Infosys Knowledge Institute spricht Dylan Cosper mit Prasad Banala, Direktor für Softwareentwicklung bei einem großen US-amerikanischen Einzelhandelsunternehmen, über die Operationalisierung von Agenten-KI im gesamten Softwareentwicklungslebenszyklus ...",
-    "titleDE": "Was es braucht, damit die Agenten-KI im Einzelhandel funktioniert"
   },
   {
     "title": "“No technology has me dreaming bigger than AI”",
