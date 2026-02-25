@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Mittwoch, 25. Februar 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Mittwoch, 25. Februar 2026</h1>
+  <p class="subtitle">3 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/" target="_blank" rel="noopener">Indiens KI-Boom zwingt Unternehmen dazu, kurzfristige Einnahmen für Benutzer einzutauschen</a></h2><p class="news-description">ChatGPT und seine Konkurrenten testen, ob Indiens massiver Boom bei KI-Nutzern zu zahlenden Kunden führen kann, wenn kostenlose Angebote auslaufen.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg" target="_blank" rel="noopener">Zu Pete Hegseths KI-Team im Pentagon gehören ein ehemaliger Uber-Manager und ein Private-Equity-Milliardär</a></h2><p class="news-description">US-Verteidigungsminister Pete Hegseth (l.) geht mit Emil Michael (r.), Unterstaatssekretär für Verteidigung (Forschung und Technik), spazieren, während er am 16. Juli 2025 im Pentagon in Arlington, Virginia, eine Ausstellung über autonome Systeme mit mehreren Domänen besichtigt. | Win McNamee/Getty Images. Hallo und willkommen bei Regulator, einem ...</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/" target="_blank" rel="noopener">Das Nvidia-Herausforderer-KI-Chip-Startup MatX hat 500 Millionen US-Dollar eingesammelt</a></h2><p class="news-description">Das Startup wurde 2023 von ehemaligen Google TPU-Ingenieuren gegründet.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
