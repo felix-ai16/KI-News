@@ -1,5 +1,55 @@
 [
   {
+    "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
+    "link": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
+    "description": "The AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love? | Image: Lenovo\t\n\nAlongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship.\nLenovo describes its AI Workmate Concept as an \"always-on desk companion,\" but it looks like a tiny robotic arm on a swiveling base with a bulbous screen on the end displaying an expressive pair of eyes. It doesn't look as engaging as a human co-worker, but through local AI processing you can interact with the device as a smart assistant via v …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-01T23:01:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das AI Workmate Concept kann sich bewegen und drehen, um verschiedene Aufgaben zu erledigen, aber kann es jemals wirklich Liebe kennen? | Bild: Lenovo Neben einer Handvoll neuer Laptop-Konzepte (und auch einer Reihe echter Produkte) nutzte Lenovo MWC, um zwei KI-basierte Produktivitäts-Begleitkonzepte anzukündigen. Beide sind eigenständig...",
+    "titleDE": "Ein Roboterarm mit Hündchenaugen ist nur eines der neuen Desktop-KI-Konzepte von Lenovo"
+  },
+  {
+    "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+    "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+    "description": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+    "pubDate": "2026-03-01T17:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google integriert in Indien durch eine Partnerschaft mit Airtel die Filterung auf Netzbetreiberebene in RCS, um den Schutz vor Spam zu stärken.",
+    "titleDE": "Google möchte in Indien gegen den seit langem bestehenden RCS-Spam vorgehen – aber nicht allein"
+  },
+  {
+    "title": "OpenAI reveals more details about its agreement with the Pentagon",
+    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+    "description": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+    "pubDate": "2026-03-01T16:30:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nach eigenen Angaben von CEO Sam Altman war der Deal von OpenAI mit dem Verteidigungsministerium „definitiv überstürzt“ und „die Optik sieht nicht gut aus“.",
+    "titleDE": "OpenAI enthüllt weitere Details zu seiner Vereinbarung mit dem Pentagon"
+  },
+  {
+    "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+    "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+    "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "pubDate": "2026-03-01T14:48:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropics Chatbot Claude scheint von der Aufmerksamkeit rund um die intensiven Verhandlungen des Unternehmens mit dem Pentagon profitiert zu haben.",
+    "titleDE": "Claude von Anthropic steigt nach dem Pentagon-Streit auf Platz 1 im App Store auf"
+  },
+  {
+    "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+    "link": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+    "description": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+    "pubDate": "2026-03-01T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Was steckt hinter der SaaSpokalypse? Es scheint einfach, als sei ein neuer Oberster aufgestiegen.",
+    "titleDE": "SaaS rein, SaaS raus: Das treibt die SaaSpokalypse an"
+  },
+  {
     "title": "The trap Anthropic built for itself",
     "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
     "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
@@ -8,16 +58,6 @@
     "category": "news",
     "descriptionDE": "Anthropic, OpenAI, Google DeepMind und andere versprechen seit langem, sich selbst verantwortungsvoll zu regieren. Da es keine Regeln gibt, gibt es nicht viel, um sie zu schützen.",
     "titleDE": "Die Falle, die sich Anthropic selbst gebaut hat"
-  },
-  {
-    "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-    "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-    "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-    "pubDate": "2026-02-28T21:05:06.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropics Chatbot Claude scheint von der Aufmerksamkeit rund um die intensiven Verhandlungen des Unternehmens mit dem Pentagon profitiert zu haben.",
-    "titleDE": "Claude von Anthropic steigt nach dem Pentagon-Streit auf Platz 2 im App Store auf"
   },
   {
     "title": "The billion-dollar infrastructure deals powering the AI boom",
@@ -86,7 +126,7 @@
     "pubDate": "2026-02-27T21:41:31.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Die American Society of Magazine Editors hat MIT Technology Review zum Finalisten für den National Magazine Award 2026 in der Kategorie Berichterstattung ernannt. Die in die engere Wahl gezogene Geschichte – „Wir haben den Energie-Fußabdruck von KI berechnet. Hier ist die Geschichte, die Sie noch nicht gehört haben“ – ist Teil des Power Hungry-Pakets der Veröffentlichung …",
+    "descriptionDE": "Die American Society of Magazine Editors hat MIT Technology Review zum Finalisten für den National Magazine Award 2026 in der Kategorie Berichterstattung ernannt. Die in die engere Wahl gezogene Geschichte – „Wir haben den Energie-Fußabdruck von KI berechnet. Hier ist die Geschichte, die Sie noch nicht gehört haben“ – ist Teil des Power Hungry-Pakets der Veröffentlichung ...",
     "titleDE": "MIT Technology Review ist ASME-Finalist 2026 im Bereich Berichterstattung"
   },
   {
@@ -126,7 +166,7 @@
     "pubDate": "2026-02-27T18:25:51.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "OpenAI teilte die neuen Zahlen im Rahmen seiner Ankündigung mit, dass es 110 Milliarden US-Dollar an privaten Mitteln eingesammelt hat.",
+    "descriptionDE": "OpenAI teilte die neuen Zahlen im Rahmen seiner Ankündigung mit, dass es 110 Milliarden US-Dollar an privater Finanzierung eingesammelt hat.",
     "titleDE": "ChatGPT erreicht wöchentlich 900 Millionen aktive Benutzer"
   },
   {
@@ -152,7 +192,7 @@
   {
     "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
     "link": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
-    "description": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of Homeland Security.  (Photo by Win McNamee/Getty Images) | Getty Images\t\n\nCan AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully autonomous lethal weapons. \nPentagon CTO Emil Michael is pushing for Anthropic to be designated a “supply chain risk” if it doesn’t comply, a label usually only given to national security threats. Anthropic’s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is still refusing to cross his company’s red line, stating that “threats do not change our position: we cannot in good conscience accede to their request.”\nFollow along here for the latest updates on the clash between AI companies and the Pentagon…\nDefense secretary Pete Hegseth designates Anthropic a supply chain risk\n\t\t\t\nTrump orders federal agencies to drop Anthropic’s AI\n\t\t\t\nEven Ilya Sutskever weighed in on the Anthropic-Pentagon situation.\n\t\t\t\nWe don’t have to have unsupervised killer robots\n\t\t\t\nAnthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance\n\t\t\t\nPete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire\n\t\t\t\nInside Anthropic’s existential negotiations with the Pentagon",
+    "description": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of Homeland Security.  (Photo by Win McNamee/Getty Images) | Getty Images\t\n\nCan AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully autonomous lethal weapons. \nPentagon CTO Emil Michael is pushing for Anthropic to be designated a “supply chain risk” if it doesn’t comply, a label usually only given to national security threats. Anthropic’s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is still refusing to cross his company’s red line, stating that “threats do not change our position: we cannot in good conscience accede to their request.”\nFollow along here for the latest updates on the clash between AI companies and the Pentagon…\nThe US used Anthropic AI for strikes in Iran despite ban.\n\t\t\t\nA former Trump advisor calls the fight with Anthropic “attempted corporate murder.”\n\t\t\t\nDefense secretary Pete Hegseth designates Anthropic a supply chain risk\n\t\t\t\nTrump orders federal agencies to drop Anthropic’s AI\n\t\t\t\nEven Ilya Sutskever weighed in on the Anthropic-Pentagon situation.\n\t\t\t\nWe don’t have to have unsupervised killer robots\n\t\t\t\nAnthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance\n\t\t\t\nPete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire\n\t\t\t\nInside Anthropic’s existential negotiations with the Pentagon",
     "pubDate": "2026-02-27T17:16:53.000Z",
     "source": "The Verge",
     "category": "news",
@@ -360,26 +400,6 @@
     "titleDE": "Wir bekommen also eine Prada Meta AI-Brille, oder?"
   },
   {
-    "title": "Sophia Space raises $10M seed to demo novel space computers",
-    "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
-    "description": "The company's modular computer tiles offer a new vision for space data centers.",
-    "pubDate": "2026-02-26T19:55:20.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die modularen Computerkacheln des Unternehmens bieten eine neue Vision für Weltraum-Rechenzentren.",
-    "titleDE": "Sophia Space sammelt 10 Millionen US-Dollar Startkapital für die Demonstration neuartiger Weltraumcomputer"
-  },
-  {
-    "title": "Mistral AI inks a deal with global consulting giant Accenture",
-    "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
-    "description": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
-    "pubDate": "2026-02-26T19:17:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mistral AI geht eine Partnerschaft mit Accenture ein, dem Berater, der kürzlich auch Partnerschaften mit den Konkurrenten OpenAI und Anthropic angekündigt hat.",
-    "titleDE": "Mistral AI unterzeichnet einen Vertrag mit dem globalen Beratungsriesen Accenture"
-  },
-  {
     "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
     "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
     "description": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
@@ -398,26 +418,6 @@
     "category": "news",
     "descriptionDE": "Neue Alternativen sowie die Schaltflächen „Verstehen“ und „Fragen“ in Google Translate helfen Ihnen, sich in der Komplexität natürlicher Sprache zurechtzufinden.",
     "titleDE": "Erhalten Sie mehr Kontext und verstehen Sie Übersetzungen besser mit den neuen KI-gestützten Updates in Translate."
-  },
-  {
-    "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
-    "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
-    "description": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
-    "pubDate": "2026-02-26T17:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Read AI führt Ada ein, das mit Ihrer Verfügbarkeit antworten und Antworten aus der Wissensdatenbank des Unternehmens und dem Internet extrahieren kann.",
-    "titleDE": "Read AI führt einen E-Mail-basierten „digitalen Zwilling“ ein, der Sie bei Zeitplänen und Antworten unterstützt"
-  },
-  {
-    "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
-    "link": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
-    "description": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge\t\n\nGoogle is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for everyone. Google says the update aims to bring \"high-speed intelligence of Gemini Flash to visual generation,\" making complex images faster, cheaper, and easier to generate.\nLike Nano Banana Pro, the Nano Banana 2 model utilizes real-time information, web search images, and Gemini's real-world knowledge base. Google DeepMin …\nRead the full story at The Verge.",
-    "pubDate": "2026-02-26T16:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Bilderzeugungsfähigkeiten von Nano Banana 2 scheinen mit denen des Pro-Modells vergleichbar zu sein. | Bild: Google / The Verge Google stellt kostenlosen Nutzern eine leistungsstärkere Version seines Nano Banana AI-Bildmodells zur Verfügung. Nano Banana 2 (auch bekannt als Gemini 3.1 Flash Image) wird heute im gesamten Gemini-Markt eingeführt.",
-    "titleDE": "Googles Nano Banana 2 bietet kostenlosen Nutzern fortschrittliche KI-Bildtools"
   },
   {
     "title": "Build with Nano Banana 2, our best image generation and editing model",
@@ -547,7 +547,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wir stellen vor: Das Thema Kriminalität Technologie macht Kriminalität und ihre Verfolgung seit langem zu einem Katz-und-Maus-Spiel. Aber dieselben neuen Technologien, die es der Kriminalität ermöglicht haben, ...",
-    "titleDE": "Der Download: Einführung in die Kriminalthematik"
+    "titleDE": "Der Download: Einführung in die Kriminalitätsthematik"
   },
   {
     "title": "Listen to Earth’s rumbling, secret soundtrack",
@@ -588,15 +588,5 @@
     "category": "news",
     "descriptionDE": "SWE-Bench Verified ist zunehmend kontaminiert und misst den Fortschritt der Grenzkodierung falsch. Unsere Analyse zeigt fehlerhafte Tests und Trainingslecks. Wir empfehlen SWE-Bench Pro.",
     "titleDE": "Warum wir SWE-bench Verified nicht mehr bewerten"
-  },
-  {
-    "title": "OpenAI announces Frontier Alliance Partners",
-    "link": "https://openai.com/index/frontier-alliance-partners",
-    "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-    "pubDate": "2026-02-23T05:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI kündigt Frontier Alliance Partners an, um Unternehmen mit sicheren, skalierbaren Agentenbereitstellungen beim Übergang von KI-Piloten zur Produktion zu unterstützen.",
-    "titleDE": "OpenAI gibt Frontier Alliance-Partner bekannt"
   }
 ]
