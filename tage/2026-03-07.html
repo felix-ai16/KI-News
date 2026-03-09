@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Samstag, 7. Maerz 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Samstag, 7. Maerz 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/" target="_blank" rel="noopener">In der „Expertenbewertung“ von Grammarly fehlen einfach die tatsächlichen Experten</a></h2><p class="news-description">Eine kürzlich in Grammarly hinzugefügte Funktion soll das Schreiben der Benutzer mit Hilfe der größten Schriftsteller und Denker der Welt – und auch einiger Technikjournalisten – verbessern.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/" target="_blank" rel="noopener">OpenAI-Hardware-Managerin Caitlin Kalinowski tritt als Reaktion auf den Pentagon-Deal zurück</a></h2><p class="news-description">Hardware-Managerin Caitlin Kalinowski gab heute bekannt, dass sie als Reaktion auf die umstrittene Vereinbarung von OpenAI mit dem Verteidigungsministerium von ihrer Rolle als Leiterin des Robotikteams des Unternehmens zurückgetreten ist.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/" target="_blank" rel="noopener">OpenAI verzögert den „Erwachsenenmodus“ von ChatGPT erneut</a></h2><p class="news-description">Die Funktion, die verifizierten erwachsenen Benutzern Zugriff auf Erotik und andere Inhalte für Erwachsene ermöglicht, war bereits seit Dezember verschoben worden.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai" target="_blank" rel="noopener">Das OpenClaw-Superfan-Treffen sorgt für Optimismus und Hummer</a></h2><p class="news-description">Die Frau an der Tür trug einen plüschigen Hummerkopfschmuck. Sie saß im Eingangsbereich eines mehrstöckigen Veranstaltungsortes in Manhattan neben einem Bündel Armbänder. Wenn sie Ihnen eine gewährte, lockte die Welt der ClawCon hinter ihr – voller lebhafter rosa und lila Beleuchtung, Hummerklauen-Stirnbändern, vielfarbigem ...</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
