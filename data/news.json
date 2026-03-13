@@ -1,113 +1,513 @@
 [
   {
-    "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-    "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-    "description": "The facial recognition question is where things get more tangled.",
-    "pubDate": "2026-03-09T04:35:06.000Z",
+    "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
+    "link": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
+    "description": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, which has over 450 million users, first […]",
+    "pubDate": "2026-03-13T04:30:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Die Frage der Gesichtserkennung ist, wo es noch komplizierter wird.",
-    "titleDE": "Ring-Star Jamie Siminoff versucht seit dem Super Bowl, Bedenken hinsichtlich der Privatsphäre zu zerstreuen, aber seine Antworten helfen möglicherweise nicht weiter"
+    "descriptionDE": "Die Anruferidentitätsplattform Truecaller hat kürzlich eine neue Funktion eingeführt, die es einer Person ermöglicht, Administrator einer Familiengruppe zu werden, Benachrichtigungen über betrügerische Anrufe anderer Mitglieder zu erhalten und sogar einen Anruf in ihrem Namen zu beenden, wenn sie den Verdacht hat, dass ein Familienmitglied betrogen werden könnte. Das Unternehmen mit über 450 m...",
+    "titleDE": "Mit Truecaller können Sie jetzt Betrügern auflegen – im Namen Ihrer Familie"
   },
   {
-    "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-    "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-    "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-    "pubDate": "2026-03-08T20:14:42.000Z",
+    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+    "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+    "description": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
+    "pubDate": "2026-03-12T23:25:39.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "In der neuesten Folge des Equity-Podcasts von TechCrunch haben wir darüber gesprochen, was die Kontroverse für andere Startups bedeutet, die eine Zusammenarbeit mit der Bundesregierung anstreben.",
-    "titleDE": "Wird die Anthropic-Kontroverse im Pentagon Start-ups von der Verteidigungsarbeit abschrecken?"
+    "descriptionDE": "GTC – was für GPU Technology Conference steht – ist Nvidias wichtigste jährliche Veranstaltung, bei der der Chiphersteller normalerweise das Rampenlicht nutzt, um neue Produkte anzukündigen, Partnerschaften zu fördern und seine Vision für die Zukunft des Computings darzulegen. Huangs Keynote wird sich auf die Rolle von Nvidia in der Zukunft von Com... konzentrieren.",
+    "titleDE": "So sehen Sie sich Jensen Huangs Keynote zur Nvidia GTC 2026 an"
   },
   {
-    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-    "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-    "pubDate": "2026-03-08T16:30:00.000Z",
+    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+    "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+    "pubDate": "2026-03-12T22:25:50.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Entwickler von KI-Rechenzentren verlassen sich zunehmend auf eine Art Lager, das als Unterkunft für Männer populär ist, die auf abgelegenen Ölfeldern arbeiten.",
-    "titleDE": "Besitzer der ICE-Haftanstalt sieht große Chancen in Lagern für KI-Menschen"
+    "descriptionDE": "Rox wurde 2024 vom ehemaligen Chief Growth Officer von New Relic gegründet und bietet eine KI-native Alternative zu CRM-Tools.",
+    "titleDE": "Laut Quellen erreicht das Vertriebsautomatisierungs-Startup Rox AI einen Wert von 1,2 Milliarden US-Dollar"
   },
   {
-    "title": "A roadmap for AI, if anyone will listen",
-    "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-    "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
-    "pubDate": "2026-03-08T06:05:26.000Z",
+    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+    "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "description": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike…",
+    "pubDate": "2026-03-12T22:23:34.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Laut einem mit der Angelegenheit vertrauten Beamten des Verteidigungsministeriums könnte das US-Militär generative KI-Systeme nutzen, um Listen von Zielen zu ordnen und Empfehlungen abzugeben – die von Menschen überprüft würden –, welche zuerst zuschlagen sollten. Die Enthüllung darüber, wie das Militär KI-Chatbots einsetzen könnte, kommt als...",
+    "titleDE": "Ein Verteidigungsbeamter verrät, wie KI-Chatbots für gezielte Entscheidungen eingesetzt werden könnten"
+  },
+  {
+    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+    "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+    "description": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
+    "pubDate": "2026-03-12T22:18:11.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen gibt an, nicht zu wissen, wie lange die Wiederherstellung seiner Microsoft-Umgebung dauern wird.",
+    "titleDE": "Das Wer, Was und Warum des Angriffs, der das Windows-Netzwerk von Stryker lahmgelegt hat"
+  },
+  {
+    "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+    "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+    "description": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+    "pubDate": "2026-03-12T18:20:33.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Die Pro-Human-Erklärung wurde vor der Pattsituation zwischen dem Pentagon und Anthropic letzte Woche fertiggestellt, aber die Kollision der beiden Ereignisse war für alle Beteiligten nicht entgangen.",
-    "titleDE": "Eine Roadmap für KI, falls jemand zuhört"
+    "descriptionDE": "Wenn Käufer sich nach der Verfügbarkeit eines Artikels erkundigen, können Verkäufer mithilfe von Meta AI automatisch Antworten verfassen und dabei Informationen aus ihrem Angebot verwenden, beispielsweise Beschreibung, Verfügbarkeit, Abholort und Preis.",
+    "titleDE": "Auf dem Facebook-Marktplatz kann Meta AI jetzt auf Nachrichten von Käufern reagieren"
   },
   {
-    "title": "Google just gave Sundar Pichai a $692M pay package",
-    "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-    "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-    "pubDate": "2026-03-08T00:20:10.000Z",
+    "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+    "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+    "description": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+    "pubDate": "2026-03-12T18:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Das meiste davon hängt von der Leistung ab, einschließlich neuer Aktienanreize im Zusammenhang mit Waymo und Wing, seinem Drohnenlieferungsunternehmen.",
-    "titleDE": "Google hat Sundar Pichai gerade ein Gehaltspaket in Höhe von 692 Millionen US-Dollar gegeben"
+    "descriptionDE": "Tinder hat gerade eine umfassende Überarbeitung erfahren, um seine Nutzerbasis wieder anzusprechen und jüngere Dates anzulocken. Dazu gehören persönliche Veranstaltungen, KI-Verbesserungen und sogar virtuelles Speed-Dating.",
+    "titleDE": "Tinder versucht mit IRL-Events, dem virtuellen Speed-Dating, Menschen wieder zum Online-Dating zu locken"
   },
   {
-    "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-    "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-    "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-    "pubDate": "2026-03-07T22:56:31.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Eine kürzlich in Grammarly hinzugefügte Funktion soll das Schreiben der Benutzer mit Hilfe der größten Schriftsteller und Denker der Welt – und auch einiger Technikjournalisten – verbessern.",
-    "titleDE": "In der „Expertenbewertung“ von Grammarly fehlen einfach die tatsächlichen Experten"
-  },
-  {
-    "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-    "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-    "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
-    "pubDate": "2026-03-07T20:44:25.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Hardware-Managerin Caitlin Kalinowski gab heute bekannt, dass sie als Reaktion auf die umstrittene Vereinbarung von OpenAI mit dem Verteidigungsministerium von ihrer Rolle als Leiterin des Robotikteams des Unternehmens zurückgetreten ist.",
-    "titleDE": "OpenAI-Hardware-Managerin Caitlin Kalinowski tritt als Reaktion auf den Pentagon-Deal zurück"
-  },
-  {
-    "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-    "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-    "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
-    "pubDate": "2026-03-07T17:28:41.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Funktion, die verifizierten erwachsenen Benutzern Zugriff auf Erotik und andere Inhalte für Erwachsene ermöglicht, war bereits seit Dezember verschoben worden.",
-    "titleDE": "OpenAI verzögert den „Erwachsenenmodus“ von ChatGPT erneut"
-  },
-  {
-    "title": "The OpenClaw superfan meetup serves optimism and lobster",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-    "description": "The woman at the door wore a plush lobster headdress. \nShe sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor information stations, and a demo stage underneath a skylight. Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in November 2025. \nOpenClaw (previously known as Clawdbot and Moltbolt) has quickly become popular in the tech industry for being open-source, in contrast …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-07T14:00:00.000Z",
+    "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+    "link": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
+    "description": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages.\nYou can toggle on the auto-reply option when creating a listing, and Meta AI will draft an editable response to any questions related to availability. In an example shown by Meta, its AI assistant creates an auto-reply saying, \"Yes, it's still available. Do you have any questions?\"\nFacebook Marketplace is trying to speed up the process of listing items, too, as Meta AI can now use the photos …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-12T17:59:32.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Die Frau an der Tür trug einen plüschigen Hummerkopfschmuck. Sie saß im Eingangsbereich eines mehrstöckigen Veranstaltungsortes in Manhattan neben einem Bündel Armbänder. Wenn sie Ihnen eine gewährte, lockte die Welt der ClawCon hinter ihr – voller lebhafter rosa und lila Beleuchtung, Hummerklauen-Stirnbändern, vielfarbigem ...",
-    "titleDE": "Das OpenClaw-Superfan-Treffen sorgt für Optimismus und Hummer"
+    "descriptionDE": "Facebook Marketplace fügt eine Reihe neuer KI-gestützter Tools hinzu, die den Verkauf von Artikeln auf der Plattform etwas effizienter machen sollen. Eine Funktion nutzt Meta-KI, um automatisch auf die lästigen Fragen „Ist das noch verfügbar?“ zu reagieren. Nachrichten. Sie können die automatische Antwortoption aktivieren, wenn Sie ...",
+    "titleDE": "Facebook Marketplace fügt automatische KI-Antworten für lästige „Ist das noch verfügbar?“-Nachrichten hinzu"
   },
   {
-    "title": "Grammarly is using our identities without permission",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
-    "description": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. \nThe AI-generated feedback included comments that appeared to be from The Verge's editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister and Tom Warren, none of whom gave Grammarly permission to include them in the \"expert reviews.\" \nThe feature, which launched in August, claims to h …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-06T20:58:24.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die „Expertenrezension“-Funktion von Grammarly bietet Benutzern die Möglichkeit, Schreibratschläge zu geben, die „von“ Fachexperten, darunter kürzlich verstorbenen Professoren, inspiriert sind, wie Wired am Mittwoch berichtete. Als ich die Funktion selbst ausprobierte, stieß ich auf einige Experten, die mich aus einem anderen Grund überraschten – einer von ihnen...",
-    "titleDE": "Grammarly verwendet unsere Identitäten ohne Erlaubnis"
-  },
-  {
-    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-    "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-    "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-    "pubDate": "2026-03-06T19:50:10.000Z",
+    "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+    "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+    "description": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+    "pubDate": "2026-03-12T17:20:19.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Trumps Streit zwischen dem Kriegsministerium und Anthropic wird keine Auswirkungen auf andere Unternehmen haben, die Claude über Microsoft- und Google-Produkte nutzen.",
-    "titleDE": "Microsoft, Google und Amazon sagen, dass Anthropic Claude weiterhin für Nicht-Verteidigungskunden verfügbar bleibt"
+    "descriptionDE": "Atlassian hat 10 % seiner Belegschaft, rund 1.600 Mitarbeiter, entlassen, da das Unternehmen versucht, mehr Mittel in die KI zu leiten.",
+    "titleDE": "Atlassian tritt in Blocks Fußstapfen und streicht im Namen der KI Personal"
+  },
+  {
+    "title": "Gemini’s task automation is here and it’s wild",
+    "link": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
+    "description": "Computers ordering cappuccinos.\t\n\nA couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to the airport - all based on simple prompts. You know, all the stuff that we've been promised for years AI assistants will be able to do. That feature wasn't live when I first started testing the S26 Ultra, but it just arrived in beta as part of an update. And boy is it weird watching your phone use itself!\nThe first prompt I gave it  …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-12T16:59:43.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Computer bestellen Cappuccino. Vor ein paar Wochen kündigten Google und Samsung eine große Gemini-Entwicklung für ihre neuesten Geräte an: Aufgabenautomatisierung. Beginnend mit Essensliefer- und Mitfahr-Apps könnte Gemini bestimmte Apps in Ihrem Namen in einem virtuellen Fenster nutzen, um sich um die...",
+    "titleDE": "Die Aufgabenautomatisierung von Gemini ist da und sie ist wild"
+  },
+  {
+    "title": "Bumble introduces an AI dating assistant, ‘Bee’",
+    "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
+    "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+    "pubDate": "2026-03-12T16:52:17.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Bumbles neue KI-Assistentin Bee wird die Dating-App über das Wischen hinaus erweitern, indem sie Menschen anhand von Kompatibilität und Zielen zusammenbringt.",
+    "titleDE": "Bumble stellt einen KI-Dating-Assistenten vor: „Bee“"
+  },
+  {
+    "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+    "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+    "description": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+    "pubDate": "2026-03-12T16:42:40.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Journalistin Julia Angwin führt eine Sammelklage gegen Grammarly wegen Verletzung ihrer Privatsphäre und Veröffentlichungsrechte.",
+    "titleDE": "Eine Autorin verklagt Grammarly, weil sie sie und andere Autoren ohne Zustimmung zu „KI-Redakteuren“ gemacht hat"
+  },
+  {
+    "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
+    "description": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel.\nAs an example, Anthropic says a conversation about the periodic table could lead Claude to generate a visualization of it, featuring interactive elements that let you click inside the table for more information. Another example shows how Claude can generate a visual related to a question about how weight travels through a building.\nThough Claude will auto …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-12T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mit dem neuesten Update von Anthropic für Claude kann der KI-Chatbot während Ihres Gesprächs benutzerdefinierte Diagramme, Diagramme und andere Visualisierungen erstellen. Wenn Claude aufgrund des Kontexts Ihres Chats feststellt, dass ein Bild nützlich ist, fügt es das Bild in die Zeile ein und nicht in den Seitenbereich. Als Prüfung...",
+    "titleDE": "Anthropics Claude AI kann jetzt mit Diagrammen, Diagrammen und anderen visuellen Elementen reagieren"
+  },
+  {
+    "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+    "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+    "description": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
+    "pubDate": "2026-03-12T15:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während Unternehmen um die Einführung von KI kämpfen, glaubt Benchmark-General Partner Everett Randle, dass der Schlüssel zum Erfolg darin liegt, jeden Mitarbeiter mit KI-Superkräften auszustatten, und der intuitive Agent Builder von Gumloop ist ein Beispiel für die Art von Tool, das dieses Potenzial freisetzen wird.",
+    "titleDE": "Gumloop erhält 50 Millionen US-Dollar von Benchmark, um jeden Mitarbeiter in einen KI-Agentenentwickler zu verwandeln"
+  },
+  {
+    "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
+    "link": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
+    "description": "The new Sassy style can curse and roast you, but the fun ends there.",
+    "pubDate": "2026-03-12T15:16:16.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der neue Sassy-Stil kann Sie verfluchen und verärgern, aber der Spaß endet dort.",
+    "titleDE": "Alexa+ erhält eine neue Persönlichkeitsoption „nur für Erwachsene“, die flucht, aber keine NSFW-Inhalte unterstützt"
+  },
+  {
+    "title": "Wonderful raises $150M Series B at $2B valuation",
+    "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+    "description": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
+    "pubDate": "2026-03-12T15:12:35.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die von Insight Partners angeführte Finanzierungsrunde erfolgt nur vier Monate, nachdem Wonderful eine Serie-A-Finanzierung im Wert von 100 Millionen US-Dollar eingesammelt hat.",
+    "titleDE": "Wonderful sammelt 150 Millionen US-Dollar in der Serie B bei einer Bewertung von 2 Milliarden US-Dollar ein"
+  },
+  {
+    "title": "How AI is helping improve heart health in rural Australia",
+    "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+    "description": "A new Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities.",
+    "pubDate": "2026-03-12T15:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Eine neue KI-Initiative von Google zielt darauf ab, die Herzgesundheit von Menschen in abgelegenen australischen Gemeinden zu verbessern.",
+    "titleDE": "Wie KI dazu beiträgt, die Herzgesundheit im ländlichen Australien zu verbessern"
+  },
+  {
+    "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
+    "link": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
+    "description": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon. \nThe back-and-forth is complicated, but as of a few days ago, the Pentagon had deemed Anthropic a supply chain risk, and Anthropic has filed a lawsuit challenging that designation, saying the government has violated its First and Fifth Amendment rights by “seeking to destroy the economic value created by one of the world’s fastest-growing private companies.” I can tell you right now: We’re going to be talking about the twists and turns of that case on The Verge and here on Decoder in the months to come.\nBut today I wanted to take a moment and really dig in here on one very important element of this situation that’s not gotten enough attention as this has spiraled out of control: how the United States government does surveillance, the legal authority that allows that surveillance to occur, and why Anthropic was distrustful of the government saying it would follow the law when it comes to using AI to do even more surveillance.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nMy guest today is Mike Masnick, the founder and CEO of Techdirt, the excellent and long-running tech policy website. Mike has been writing about government overreach, privacy in the digital age, and other related topics for decades now. He’s an expert on how the internet and the surveillance state have grown up in interconnected ways. \nYou see, there’s what the law says the government can do when it comes to surveiling us, and then what the government wants to do. And most importantly, there’s what the government says the law says it can do, which is often exactly the opposite of what any normal person simply reading the law would think.\nYou’ll hear Mike explain in great detail here in this episode that we cannot — and should not — take the US government at its word when it comes to surveillance. There’s just too much history of government lawyers twisting the interpretations of simple words like “target” to expand surveillance in complicated ways — ways that usually only cause concern in legal circles, and only bubble up when there are huge controversies like whistleblower Ed Snowden’s major NSA revelations more than a decade ago. \nBut there’s nothing subtle or sophisticated about policymaking in the Trump era — and so with Anthropic, we’re having a very loud, very public debate about technology and surveillance in real time, on the internet, in blog posts and X rants, and over press conference sound-bites. There’s positives and negatives to that, but to make sense of it all, you really have to know the history. \nThat’s what Mike and I set out to explain in this episode — whatever your views on AI and government, this episode will make it clear that both parties have let the surveillance state get bigger and bigger over time. Now, we’re on the cusp of the biggest expansion yet when it comes to AI.\nOkay: Techdirt founder and CEO Mike Masnick on Anthropic, the Pentagon, and AI surveillance. Here we go. \n\n\nThis interview has been lightly edited for length and clarity. \nMike Masnick, you’re the founder and CEO of Techdirt. Welcome to Decoder.\nI’m glad to be here.\nI’m excited to have you on. I was just saying I am shocked that you’ve never been on the show before. You and I have been writing and posting around each other for a long time. A lot of The Verge policy coverage owes a debt to what you’ve done at Techdirt and then what’s going on with Anthropic is so complicated, but hits so many themes that you have covered for so long. I’m glad you’re finally here.\nIt is a complicated mess of a topic, but I’m excited to be digging in on it.\nWhat I want to focus on with you is not the details of whether Anthropic is going to sign a contract with the government or whether OpenAI is going to get that contract. Instead, I’m confident between the time we record this and the time people listen to it, there will have been more tweets and more things will be different than they were before. \nWhat I want to focus on is just one of the two red lines that Anthropic has really laid out. One of them is autonomous weapons, which is its own level of complication. The law there is a little bit more nascent whether or not the weapons even exist or have already been deployed by Russia in the Ukraine War. \nThere are a lot of ideas here that I just want to set that aside because I think that is going to come into more focus all on its own schedule. The other red line that I do want to spend a lot of time on is mass surveillance. And there’s quite a lot of law here about mass surveillance. There’s a lot of history, a lot of controversial history. The entire character of Edward Snowden exists because of controversies around mass surveillance.\nIt all comes down to—I think you are the one who posted this—the National Security Agency (NSA), which is part of the Department of Defense, which we have to call the Department of War now for some reason. \n[Laughs] We don’t have to do anything.\n[Laughs] We don’t. That’s true here in America. We don’t have to do anything. But the NSA has basically redefined what a lot of words mean out of colloquial English to mean, “We can just do surveillance.” And then every so often there’s a scandal when people discover that they’re just doing surveillance. So just set the stage there, and I don’t want to rewind you all the way, but it’s been quite a lot of time where this pattern has repeated itself.\nIt depends on how deep you want to go, but the short version is obviously in the post-9/11 world, the US passed the Patriot Act, which had some ability for the government to engage in surveillance, which was supposed to be for protecting us against future terrorist threats. Over time, that got interpreted in interesting ways and there were some limits on that. We also had the FISA court, which is a special court that is supposed to review the intelligence community and their activities, but has traditionally been a one-sided court. Only one side gets to plead their case to that court and it’s all done in secret. \nThere’s a lot of stuff that was not known. And then there was one other piece in all of this, which goes all the way back to Ronald Reagan, which is Executive Order 12333, which is supposedly about setting out the rules of the road for intelligence collection.\nSo you have these three sets of laws—well, a few sets of laws—and an executive order that to the public, the parts that you can read, seem to say certain things about what our government and the NSA in particular can do in terms of surveillance. When read with a plain English dictionary, the nature of which you and I probably have and understand, we would come away with a belief that the NSA’s ability to surveil Americans was very limited, in fact to the point that they’re supposed to, if they realize that they are surveilling a US person, that they’re supposed to immediately stop and cry foul and erase the data and all of this other stuff. \nThere were rumors for a while that that was not really happening and there were hints and in particular Senator Ron Wyden was very vocal about going on the floor of the Senate and saying, “Something is not right here and I can’t quite tell you what,” or in hearings he would ask intelligence officials, “Are you or are you not collecting mass data on Americans?”\nThose officials would either deflect or in some cases outright lie. I believe it was one hearing in 2012 with James Clapper, who was the Director of National Intelligence at the time, where he was asked directly on this point. And he basically said, “No, we don’t collect data on Americans.” That was a big part of what inspired Ed Snowden to leak the data, the reports that he leaked to Glenn Greenwald and Barton Gellman and Laura Poitras as well. From all of that, what we began to discover was that the NSA has its own dictionary that is somewhat different than the dictionary that you and I use, such that they can interpret words in ways that are different than the plain English meaning of them, including words like “target,” which feels like a key word. A broad understanding of what this is is that, in theory, they’re only supposed to target people who are not US persons, I think is the phrase.\nBut the way it had been interpreted over time was that anything that mentions that person, anything that is about a foreign person is now fair game, even if that is the communications of a US person. So if you and I were to text each other and mention a foreign person, that is now fair game for the NSA to collect and to keep and to store.\nThere’s a second part of this. I mentioned first Executive Order 12333 from Ronald Reagan, which, as the technology changed over time and the internet grew, effectively allowed the NSA to tap into foreign communications, but that included any communications that may have left the US on route somewhere. So if I’m texting you and a message went from me in California through a fiber optic cable that happened to leave the US, the NSA could put a tap in the part once it’s outside the US and collect that information, even if it was just going to you within the US.\nThe NSA could then keep that information even if it was on US persons, and they could do specific searches on that later, sometimes referred to as “backdoor searches.” They collected this information that we believe they weren’t supposed to collect in the first place, but they could keep it. And they promised, they pinky swore, that they would keep it private, but if they did a search and found that you or I mentioned a foreign person, then suddenly it was fair game for them to do whatever they want with it.\nIn total, that has turned into a world in which the federal government can basically collect any information that happens to touch outside the US. Even if it is entirely between two US persons, if they mention or even hint at someone who is not a US person, suddenly it is fair game to be collected. And from that we’ve gotten what appears to be a form of mass surveillance of US persons by an NSA that claims and publicly states that it does not spy on US persons.\nHow did we get to this point? This is a lot of incremental baby steps. You mentioned James Clapper in 2012, that’s the Obama administration. You mentioned Ronald Reagan, that’s the 1980s. We’re going through Democrats and Republicans here. \nThe war on terror happened in the George W. Bush administration, and 9/11 and the Patriot Act happened in the George W. Bush administration. There are a lot of incremental bad things under presidents of both parties, under congresses of both parties. How did this happen?\nThe simplest form of it is just that nobody, and certainly no president, wants to be president during the time when there’s a big terrorist attack, because that makes them look bad. Obviously they also want to protect Americans, right? That’s part of their job. If you have an intelligence community that is basically operating in darkness because that’s what intelligence communities do and they keep coming to you and saying, “Hey, if we could just get access to this information, it’d be really helpful in preventing a terrorist attack.”\nThere may be cases where that’s true, that the intelligence community is able to use this information in a way that works well. But we also are, in theory, a society of laws with a US Constitution that we’re supposed to obey. But that allowed for the fact that administration after administration, again, Republican and Democrat, had lawyers who were very clever and who would look through and say, “Well, if we sort of position this way or we state this way or we interpret this, that way we can get what we want and not technically break the law or not technically violate the Fourth Amendment.”\nThe assumption was always, “We can sort of bend the law or bend our interpretation of the law and nobody’s really ever going to see this, or nobody who cares is really ever going to see this, and therefore we’ll get away with it.”\nThere are two things that really jump out at me. One, you and I both read a lot of court decisions — appellate court decisions and Supreme Court decisions. And there’s a fight in our Supreme Court about how to literally interpret the words in our statutes and our laws. \nI won’t get too far into it, but I would say generally the idea that you should just read the words on the page and do what they say is the dominant strain of statutory interpretation in the United States. Left or right, they both say it. They argue about some very esoteric fine points of what that actually means. But that you should just be able to read these words and do what they say, that’s not up for grabs, right? \nWe’ve landed on at least that first pass of what you might call textualism. How do lawyers of both administrations get this far away from the dominant mode of legal decision-making in our country? Justices of both parties both agree that that is at least the first step.\nI wish I knew the exact answer, but I think it is motivated reasoning, right? As a lawyer, you are there to defend your client and the success — if you can call it success — of our legal system tends to be based on having an adversarial situation where you have different sides arguing over these things, where the role of the adjudicator is to narrow in and figure out which side is actually correct.\nOne of the problems with the intelligence community and the setup of it is that you don’t have that adversarial situation. That makes it easier for one side to justify the argument that they’re making because nobody is really pushing back on it. You combine that with the overarching fear of another terrorist attack, anything related to national security, and even when you have situations where you have the FISA court — I mean the FISA court was somewhat famous for effectively being a rubber stamp for many years.\nI forget the exact numbers, but it was something like over 99 percent of applications that went to the FISA court to allow for surveillance of certain situations were granted, and it’s easy to say 99 percent is obviously too much. Obviously those bringing claims to the court, they’re picking and choosing. They’re not, for the most part, bringing totally crazy claims. But without that adversarial aspect and with a very strongly motivated group of people who think, “We need to do this,” or are being told by an administration, “We need to do this,” they’ll find ways to do it. And that’s where you end up over time.\nHas there been anyone involved in this process who’s ever woken up and said to themselves, “Boy, we’ve managed to redefine the word ‘target’ to mean anything we want”?\n[Laughs] Obviously you had Ed Snowden, who leaked a bunch of documents. You had John Napier Tye, who wrote a piece for The Washington Post in 2014, which revealed the interpretation of Executive Order 12333, and said that that’s the real issue to pay attention to. You have other people who have spoken up about these things, but for the most part, the people who are involved in working within the administration on intelligence community stuff are bought into the view of the intelligence community, which is that the overriding goal is to protect the country from something bad. The best way to do that is to have as much information as possible. \nIt’s easy to be sympathetic to the argument that, yes, having more information may allow them to catch something earlier or find something important, but, one, that might not be true. Getting too much information is probably just as bad as too little information because it can often hide the information that is actually useful, the information that you actually need to determine something. \nBut also, we have a U..S. Constitution in the first place and we have reasons why, in theory, we’re not supposed to allow for mass surveillance without probable cause. As a country that believes in the rule of law, we should be able to live up to that, and when all this stuff happens in darkness, you will tend to lose sight of that.\nThis brings me to Anthropic. Anthropic is primarily an enterprise company. They’re good at the government, they’ve built those muscles, they’re staffed by people who are really well versed in some of this stuff. They obviously looked at Pete Hegseth saying, “We want all lawful uses,” and they went two levels of interpretation down and said, “Well, your literal belief is that these words do not mean what they say they mean on their face. So ‘all lawful uses’ is too big, and we want to put some guardrails particularly around mass surveillance.” \nAgain, I’m going to bracket out autonomous weapons, which was the other red line, but particularly on mass surveillance, Dario Amodei is out there saying, “We can do too much. This is too dangerous. This is a Fourth Amendment violation.” \nThe tension there is “you’re saying you’re going to comply with these laws that say one thing and now, after all this time, they mean something completely different and we just don’t want to be part of that.” That’s the fight. I just want to compare that to Sam Altman, who swoops in to say, “We’ll do all lawful uses,” and then posts this long message being like, “Here are all the laws we are going to comply with.” \nIt seems like Altman didn’t know how the NSA had reinterpreted these things and kind of got taken for a ride. And he’s since started walking it back — even as we are recording, I’m confident there are more tweets and everyone’s positions have changed. But Altman has been walking it back slowly, but it does seem like OpenAI got roped into reading the statutes on their face and believing what they said. Is that your interpretation of events as well?\nThere are two possibilities, and that’s one of them. One is that he got played the same way that the public got played for many years. The alternative theory, and I have no idea which one of these is true, is that he or some of the lawyers at OpenAI — who I think are very competent and very knowledgeable — knew this, but thought that they could play the same game that the NSA played for a few decades, in that as long as they say these things and then they say the words, but they don’t reveal the actual interpretations, that they could get away with it too. So Sam comes out with the statement that makes it look like “We had the exact same red lines as Anthropic did, and the government was great with that.” \nIn fact, I think Sam Altman said that Anthropic had two red lines and OpenAI had three, and the government was perfectly fine with it, and that left a lot of people sort of scratching their heads. But I think it has to be either that Sam Altman and whoever was surrounding him didn’t understand how these things work in practice, or they did, and they just assumed that the public wouldn’t know and therefore they could get away with it.\nThe other thing that comes to mind — again, AI is new and it’s so tempting to come at new technologies as these are problems of first impressions. “No one’s ever had to think about this before,” but the reality is everyone’s been thinking about this stuff for a long time. Maybe the thing that’s new here is not AI, but that the second Trump administration, instead of doing a bunch of lawyering that maybe no one will ever read to justify their actions to a secret court that no one’s paying attention to, is instead just not that subtle. \nThey’re not that sophisticated and they’re just saying they’re going to spy on everybody all the time. They just announced their intentions in a way that maybe all administrations should just announce their intentions and see where the chips fall.\nBut I’m looking at the fact there there was Ed Snowden here in New York City. AT&T runs a building that everyone knows is an NSA building. It is just a giant building, and we’re supposed to pretend it’s not an NSA surveillance center, but it’s right there. It’s huge. None of that seems to have come to anything. All of these revelations, these leaks, we haven’t backed it off.\nIn fact, it’s only increased as so much of our lives have gotten more and more digital. And maybe the Trump administration being such a blunt instrument at all times, that might actually be the thing that causes the reckoning. Do you see that playing out anyway?\nThere are a few different things there, and it’s not entirely true that we haven’t backed off this stuff at all. The revelations from Snowden did lead to some changes within how these things happen. And there are now — I forget what they’re called, but they’re like these civil amicus people within the FISA court that will act as presenting the other side on certain issues.\nAnd we’ve seen some of the authorities limited in certain ways, and they come up for reauthorization every so often, and activists have been very aggressive about pushing back and trying to put some more guardrails on. But to the larger question, I think there are two different things. You’re half right in that this administration is not subtle and just says out loud the things it shouldn’t. \n“We’re at war with Iran, we’re doing it, it’s happening. We’re not even going to try the dance.”\nIn ways that all previous administrations wouldn’t do. But they haven’t really said that directly about surveillance, especially surveillance of Americans. There have been hints of it, but they haven’t come out as strongly on that. The other half of it has to do more with Anthropic’s positioning and the general view of AI as this possibly existential technology, where Anthropic has always presented itself as, “We’re the thoughtful good guys,” and whether or not you believe that is kind of besides the point. They have this reputation out there: “We’re trying to do this in a way that is safe, that respects humanity and is paying attention to all of these things.” And so when you have that clash, that’s where the struggle comes in.\nYou have a Trump administration that just wants to be able to do whatever it wants to be able to do, and they’re not subtle about that. And then you have Anthropic, whose self description and its public persona is always like, “We’re thoughtful and we respect humanity and rights and all of these things.” That’s probably where the clash came in, because Anthropic, as has been made clear, has worked with the Defense Department for a while and has many other contracts with the government that it has used. It hasn’t been a problem.\nIt was only in these specific areas where, as the government was seeking to expand the contract that it had, that the senior leadership of Anthropic began to say, “Wait, we have to make sure that we’re not crossing these red lines that would potentially harm our reputation as the thoughtful, safe AI provider.”\nI want to briefly ask you about surveillance in general, and in particular Anthropic’s Fourth Amendment concern. The Fourth Amendment says the government can’t unreasonably search you. The best way to understand the Fourth Amendment is by listening to “99 Problems” by Jay-Z. So if you need to take a break and go listen to “99 Problems,” that’s great. It’s all in there. I listened to it when I was in law school and it made perfect sense.\nBut the government generally needs a warrant to search you. And as more and more of your life goes online, there are lots and lots of exceptions to this. But the idea is they should still need a warrant online. Anthropic’s argument is, “Well, the AI will never get tired. It can search everything all the time. That means we’re just going to do master surveillance.”\nYet even before AI showed up, the idea that the government could search everything that belonged to you was out there, the idea that the government didn’t need a warrant to search all of your stuff was out there. The idea that if any of your data ever went outside the country for a brief second, the government intercepted it there, \nWhen I was in college, around the time of the Patriot Act, the debate was that they’re not going to search your actual data, but they can get the metadata and the metadata alone. The data about your data will be enough to precisely locate you at all times. And even that is too far. And we’ve been doing this dance of what can the government collect? What is permissible? What do they need to keep us all safe and what’s too far? Those lines have moved.\nSo just briefly describe the generalized concern about surveillance at the scale and where we are now. Before the AI situation made everything exponentially more complicated.\nHere I have to introduce another concept that probably should have been mentioned earlier, but it is important, which is called the “third-party doctrine.” The idea with the Fourth Amendment is that the government can’t search you or your things without a warrant and it can’t get a warrant without probable cause that you’ve committed some sort of crime. But there’s this concept which came about decades ago called the third-party doctrine, which says that that doesn’t necessarily apply, or doesn’t apply at all, to things that aren’t yours, even if it is your data. \nThe earliest and most obvious version of this was phone records that the phone company had of who you called. The phone companies weren’t recording your calls, but they were recording if I called you, there would be a record at the phone company that says, “Mike calls Nilay.” And what had been determined by multiple courts was that the government can go and request that, and they don’t need a warrant for that because it’s not a search of your data, it’s this third party and they can agree as a third party to just hand over that data.\nBut those were cases from the 1960s and 70s, where it was determined that the government can get access to that without a warrant, when there wasn’t that much third-party data out there. The rise of computers and the internet changed that. Now, everything is third-party data. Everything that we do is collected by some company somewhere and has a record of it. So basically every bit of data about you, where you are, who you speak to, who you interact with, what you say, what you’re doing, all of that is pretty much held by third parties these days. So the third-party doctrine has swallowed the entire Fourth Amendment to some extent, where anything that is about you that somebody else has, there’s a much lower standard for what the government can do to request it.\nJust to be specific, this means when my data is in iCloud, the government can go to Apple and get my data out of iCloud without ever telling me? \nThey can request it. They can easily request it without a warrant. Then the company has its own rights and can determine what they want to do with that request. They can just give it up. They can, as most of them will do, if it’s a serious request, reject requests out of hand or they can alert you and they can say — and this is what most of them will do — they’ll alert you and say, “The government is requesting some of your data. You can go to court and try to block them.” If not, they will hand over your data in seven days or whatever it might be. \nAgain, it depends. If it’s a criminal investigation, then there may be some sort of gag order where the company is not allowed to tell you. There are all sorts of situations, but most of them involve less than the level of protection that the Fourth Amendment would require if it was data or any information or anything in your own home.\nThe amount of data you have on someone else’s cloud server is massive, right? Every single thing that you do generally on the internet now is backed up in some way or recorded in some way on someone else’s servers. The government has found this way to get around the Fourth Amendment and say, “Well, that’s not actually yours. It belongs to Amazon. We can go talk to Amazon,” and Amazon has to stand in the middle of that process and say, “We’ve invented another process to somewhat protect the people.”\nI look at that—and when I was covering the first third-party doctrine cases that covered the cloud services and the government kept winning, that’s basically when I turned into the Joker. I was like, “All of this stuff that we’re pretending about textualism and the plain [reading], none of this means anything because we just horsepower to the backdoor using this ancient law into everyone’s data.”\nAnd then I look at this and I look at Anthropic and I say, “Well, this is the same pattern.” This is a private company saying, “Okay, we understand your position. We understand that you’ve reinterpreted the law to mean this thing, and we’re going to put some process in between you, our tool, and the data of Americans flowing through our service.” I am just wondering if you see that parallel there, between Anthropic and Amazon and Azure and whatever other cloud services that exist that hold so much of our data.\nYeah, though there are a few clarifications that are important here that make this a little bit different. And in fact — I think The New York Times had this reporting first — the main clause that was most important to Anthropic was specifically about data collected from commercial services and not being able to use Claude on that data, which is exactly this issue in terms of third-party data. But I do want to clarify the main difference between what we were just talking about before this with Amazon or other third parties hosting your data, those were cases where they were, because of where they sit in the ecosystem, they were hosting your data directly.\nWith Claude, it’s not that anyone is worried about the NSA looking through your Claude usage. It’s about them going out and getting third-party data from Amazon or more likely the sort of sneaky, hidden data brokers that serve ads on your phones and know your location and your interests and things like that. And then feeding that into a system that Claude would then work on. That’s what Anthropic really didn’t want to be a part of. So wherever or however the government would collect that data from a third party, Anthropic said, “We don’t want our tool to be used on that data.”\nApple famously stands up to the FBI asking it to put a backdoor in the iPhone, and Apple says “no,” and they stand up to Trump. And there’s a part of how our system works in which big private companies get to say “no” to the government on behalf of their customers. And this felt in the same way that Apple, again, won’t put it backdoor on the iPhone, or the big cloud providers say, “There’s a little bit of a process you have to jump through before you get the individual data.” \nHere it seems like Anthropic is saying, “We’re not just going to do bulk analysis of data that you have acquired from other parties because that leads to 24/7 mass surveillance of Americans, and we don’t want to do that.” Yet that seems like a bridge too far for this administration. Is there any coming back from that?\nWe will see. In the past when that’s happened — and it’s happened plenty of times with most of the large tech companies, at some point they’ve said something is a bridge too far — where that normally goes is to court. The companies will go to court or the administration will go to court and there’ll be some sort of court battle. \nThe backdoor into the iPhone is a perfect example of that. It went to court and they fought it out, though they never quite got to a conclusion because the FBI eventually did just manually break into the iPhone and then didn’t want the court ruling to ruin that in the future.\nBut in this case, where the escalation is and where this is different from those past situations is that rather than just going to court, the Trump administration did this “supply-chain risk” designation, which is just insane. This idea that this tool which was designed to stop potential foreign malicious actors from supplying technology, that could then put in hidden surveillance tools into the larger technology stack, that those could be banned. To apply that to a US-based company basically for having an ethics policy feels like a real, real misuse of that tool. \nEven that tool was questionable in some ways, but you could understand the impetus behind it when you’re talking about a Chinese networking firm or something along those lines. Here, it makes no sense. So the reaction to this goes so far beyond what would normally be seen in this case. You could see traditionally there would be some sort of court case and either side could start it and it would just be a battle about how the contract could be applied. \nBut that’s not what is happening here. This administration is effectively saying, “If you don’t give us absolutely everything that we want, if you don’t set up your tools to work the way we want them to work, then we will effectively try to destroy your entire business.” And that is an escalation.\nThere’s one piece of this that I want to end on, and it’s kind of the most galaxy-brain version of this. FIRE, which is a free speech advocacy group, put out a blog post just before we started recording making the argument that forcing Anthropic to build tools it doesn’t want to build is a free speech violation, that it’s something called compelled speech. There’s a lot of history here. There is some deep Verge and Techdirt, in-the-weeds, existential-crisis history here.\nBut it basically comes down to the idea that code is speech, that writing code for a computer is a form of speech and the government can’t force you to do it, and a whole bunch of stuff flows from that. Do you buy this argument that forcing Anthropic to build tools that it doesn’t want to build is compelled speech?\nYeah, I actually think it is fairly compelling. Compelling compelled speech. But no, I do think it is an interesting argument. It’s one that had been a little bit further down the list of the issues that I was thinking about. I was obviously mostly more focused on the Fourth Amendment issues, but I think the FIRE argument is not wrong. We have seen this in other contexts. It did come up in the backdoor issue as well, in terms of trying to build backdoors into encrypted systems.\nCompanies definitely raised First Amendment claims, saying, “It is compelled speech to force us to write that kind of code.” It is a valid argument. It might be, again, one that courts are probably less willing to tackle initially if they can deal with these issues some other way. But I’m glad that FIRE made that post and I think it is an interesting and compelling argument.\nYeah, it’s just the nature of the second Trump administration is that it’s such a blunt instrument, it is almost certain we will attack all of the issues all at once.\nYes, every Bill of Rights amendment has to be challenged in some form or another with every possible issue.\n[Laughs] Spin the wheel.\nI’m sure we can fit a Third Amendment violation somewhere in here.\nSure, yeah. Claude has to live in your house now. Exactly. It’s going to be great. We’re doing [amendments] one, three, four, and seven. We rack ’em up. \nMike, this has been great. I cannot believe you haven’t been on the show before. This has been great. You have to come back soon.\nAbsolutely. Whenever you want me.\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-03-12T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Heute sprechen wir über die chaotische, schnelllebige Situation bei Anthropic, dem Hersteller von Claude, der sich derzeit in einem sehr hässlichen Rechtsstreit mit dem Pentagon befindet. Das Hin und Her ist kompliziert, aber vor ein paar Tagen hatte das Pentagon Anthropic als Lieferkettenrisiko eingestuft, und Anthropic hat eingereicht …",
+    "titleDE": "Anthropic vertraut dem Pentagon nicht und das sollten Sie auch nicht tun"
+  },
+  {
+    "title": "Bespoke AI models are the next big thing in filmmaking",
+    "link": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
+    "description": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market. Models like Sora, Veo, and Runway just do not seem all that great for entertainment production. \nBut we're starting to see more AI firms building a new breed of generative model - ones that are designed to address creatives' needs throughout the development process while also avoiding issues like potential copyright infringement. What really sets these models apart from their  …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-12T13:56:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Obwohl viele KI-Booster davon überzeugt sind, dass die Technologie Filme und Fernsehserien komplett ausspucken kann, erscheinen Behauptungen, Hollywood sei gekocht, sehr verfrüht, wenn man sieht, was die Leute mit den beliebtesten Bild-/Videomodellen auf dem Markt machen. Modelle wie Sora, Veo und Runw...",
+    "titleDE": "Maßgeschneiderte KI-Modelle sind das nächste große Ding im Filmemachen"
+  },
+  {
+    "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+    "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze  In January, Beijing-based software engineer Feng Qingyang started tinkering with OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.…",
+    "pubDate": "2026-03-12T13:02:48.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Hustler profitieren von Chinas OpenClaw-KI-Begeisterung Im Januar begann der in Peking ansässige Softwareentwickler Feng Qingyang, an OpenClaw zu basteln, einem neuen KI-Tool, das...",
+    "titleDE": "Der Download: Early Adopters profitieren von Chinas OpenClaw-Begeisterung und dem Rückgang der US-Batterien"
+  },
+  {
+    "title": "Microsoft’s Copilot Health can connect to your medical records and wearables",
+    "link": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
+    "description": "Microsoft announced on Thursday that it's launching Copilot Health, a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for providers, analyzing data from wearables, and other health-related chats. The feature will have a phased rollout, so it won't be available to everyone immediately, but users can join a waitlist to get access. \nMicrosoft says Copilot Health \"doesn't replace your doctor\" and isn't intended for providing medical diagnoses or treatment, but rather helping users understand their health data. Users can import medical records from over 50,000 US hospitals and healthcare  …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-12T13:01:07.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Microsoft gab am Donnerstag bekannt, dass es Copilot Health einführt, einen „separaten, sicheren Bereich“ in Copilot, in dem Fragen zu Laborergebnissen und Krankenakten gestellt, nach Anbietern gesucht, Daten von Wearables analysiert und andere gesundheitsbezogene Chats durchgeführt werden können. Die Funktion wird schrittweise eingeführt, sodass ...",
+    "titleDE": "Copilot Health von Microsoft kann eine Verbindung zu Ihren Krankenakten und Wearables herstellen"
+  },
+  {
+    "title": "Google is using old news reports and AI to predict flash floods",
+    "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+    "description": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+    "pubDate": "2026-03-12T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein neuer Weg zur Lösung der Datenknappheit: Mit einem LLM qualitative Berichte in quantitative Daten umwandeln.",
+    "titleDE": "Google nutzt alte Nachrichtenberichte und KI, um Sturzfluten vorherzusagen"
+  },
+  {
+    "title": "Pragmatic by design: Engineering AI for the real world",
+    "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+    "description": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our…",
+    "pubDate": "2026-03-12T13:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Auswirkungen künstlicher Intelligenz reichen weit über die digitale Welt hinaus und in unser Alltagsleben hinein, in die Autos, die wir fahren, die Geräte in unseren Häusern und medizinische Geräte, die Menschen am Leben erhalten. Immer mehr Produktingenieure greifen auf KI zurück, um das Design zu verbessern, zu validieren und zu rationalisieren ...",
+    "titleDE": "Von Natur aus pragmatisch: KI für die reale Welt entwickeln"
+  },
+  {
+    "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+    "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
+    "description": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.\nIn the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone without having to wait in line for coffee\" or \"where is the closest public bathroom that isn't completely disgusting\" (parents of kids with tiny bladders, I'm looking at you). But now, thanks to Gemini, all our weird, slightly embarrassing questions can be answered - directions inc …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-12T12:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google bindet Gemini weiterhin in das Firmament seiner meistgenutzten Produkte ein. Heute wurde bekannt gegeben, dass Google Maps eine neue KI-gestützte „Ask Maps“-Funktion erhält, die „komplexe, reale Fragen“ mit sehr detaillierten, personalisierten Antworten ermöglicht. In der Vergangenheit hatte Google Maps Probleme...",
+    "titleDE": "Sie können Google Maps jetzt „komplexe, reale Fragen“ stellen – und Gemini wird antworten"
+  },
+  {
+    "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+    "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+    "description": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+    "pubDate": "2026-03-12T12:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Technologieriese sagt, dass die Einführung von „Immersive Navigation“ das größte Karten-Update seit über einem Jahrzehnt sei.",
+    "titleDE": "Google Maps erhält eine KI-Funktion „Ask Maps“ und eine verbesserte „immersive“ Navigation"
+  },
+  {
+    "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+    "description": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\"\nPersonal Computer will run 24/7 on a dedicated device on your local network, have full access to your files and apps, and be controllable from anywhere and on any device, Perplexity said. That deeper access makes it a more personalized version of a similar product Perplexity launched last month, Perplexity Computer, a cluster of agents it described as a \"general-purpose digital worker.\" \nPerplexity pitches the system as more …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-12T12:00:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Perplexity möchte mehr sein als nur eine Antwortmaschine. Am Mittwoch brachte das Unternehmen Personal Computer auf den Markt, ein neues KI-Agenten-Tool, das einen Ersatz-Mac in ein lokal betriebenes KI-System verwandeln kann und ihn als „digitalen Proxy für Sie“ darstellt. Der Personal Computer läuft rund um die Uhr auf einem dedizierten Gerät in Ihrem lokalen Netzwerk.",
+    "titleDE": "Der Personal Computer von Perplexity verwandelt Ihren Ersatz-Mac in einen KI-Agenten"
+  },
+  {
+    "title": "Brutal times for the US battery industry",
+    "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+    "description": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems…",
+    "pubDate": "2026-03-12T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Noch vor wenigen Jahren war die Batterieindustrie heiß, heiß, heiß. Es tauchten scheinbar unendlich viele Unternehmen auf, mit glänzenden neuen Chemien und riesigen Fundraising-Runden. Mein größtes Problem bestand darin, den Stapel zu durchsuchen, um die aufregendsten Nachrichten auszuwählen, über die ich berichten wollte. Das Blatt hat sich gewendet, und ich...",
+    "titleDE": "Brutale Zeiten für die US-Batterieindustrie"
+  },
+  {
+    "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+    "description": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+    "pubDate": "2026-03-11T23:35:03.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Dieses Lied ist der Sammelruf eines KI-Schauspielers an andere KI-Schauspieler, der sie dazu drängt, weiterzumachen, trotz der Neinsager, die an ihrer Menschlichkeit zweifeln. Im wahrsten Sinne des Wortes kann niemand damit etwas anfangen.",
+    "titleDE": "KI-Schauspielerin Tilly Norwood hat den schlechtesten Song herausgebracht, den ich je gehört habe"
+  },
+  {
+    "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+    "description": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images\t\n\nFor months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the \"experts'\" privacy and publicity rights by breaking laws against using someone's identity for commercial purposes without their consent.\nAngwin says she found out her identity was used by way of Casey Newton, who is also one of the experts that The Verge uncovered being used by Gra …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-11T22:51:53.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Journalistin Julia Angwin ist eine der Autoren, deren Konterfei in Grammarlys „Expertenrezension“-Feature verwendet wurde. | Foto: Eóin Noonan / Sportsfile via Getty Images Seit Monaten verwendet Grammarly die Identitäten realer Menschen (einschließlich uns) für seine „Expert Review“-KI-Vorschläge, ohne die ...",
+    "titleDE": "Einer der „Experten“ von Grammarly verklagt das Unternehmen wegen seiner identitätsstehlenden KI-Funktion"
+  },
+  {
+    "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+    "description": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+    "pubDate": "2026-03-11T22:51:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ford Pro AI debütierte auf der Work Truck Week in Indianapolis und ist jetzt für alle in den USA ansässigen Pro-Telematik-Abonnenten verfügbar.",
+    "titleDE": "Der neue KI-Assistent von Ford hilft Flottenbesitzern dabei, zu erkennen, ob Sicherheitsgurte angelegt werden"
+  },
+  {
+    "title": "Zendesk acquires agentic customer service startup Forethought",
+    "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+    "description": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+    "pubDate": "2026-03-11T22:41:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Forethought war seiner Zeit um Jahre voraus und der Gewinner von TechCrunch Battlefield im Jahr 2018.",
+    "titleDE": "Zendesk erwirbt das Agent-Kundendienst-Startup Forethought"
+  },
+  {
+    "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+    "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+    "description": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+    "pubDate": "2026-03-11T22:00:05.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Dieser Deal könnte zu den größten Akquisitionen des Streaming-Riesen überhaupt zählen.",
+    "titleDE": "Netflix hat möglicherweise 600 Millionen US-Dollar für Ben Afflecks KI-Startup gezahlt"
+  },
+  {
+    "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+    "link": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+    "description": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+    "pubDate": "2026-03-11T21:40:49.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das schwedische Stimmungs-kodierende Einhorn Lovable hat im Februar einen jährlichen wiederkehrenden Umsatz (ARR) von 400 Millionen US-Dollar überschritten.",
+    "titleDE": "Lovable gibt an, allein im letzten Monat mit nur 146 Mitarbeitern einen Umsatz von 100 Millionen US-Dollar erzielt zu haben"
+  },
+  {
+    "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
+    "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+    "description": "Most of the devices are made by Asus and are located in the US.",
+    "pubDate": "2026-03-11T21:27:16.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Die meisten Geräte werden von Asus hergestellt und befinden sich in den USA.",
+    "titleDE": "14.000 Router sind mit Malware infiziert, die äußerst resistent gegen Deaktivierungen ist"
+  },
+  {
+    "title": "Replit snags $9B valuation 6 months after hitting $3B",
+    "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+    "description": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+    "pubDate": "2026-03-11T18:52:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Replit hat eine neue 400-Millionen-Dollar-Runde aufgenommen und hofft, bis zum Jahresende einen ARR von 1 Milliarde US-Dollar zu haben.",
+    "titleDE": "Replit erreicht 6 Monate nach Erreichen von 3 Milliarden US-Dollar eine Bewertung von 9 Milliarden US-Dollar"
+  },
+  {
+    "title": "Grammarly says it will stop using AI to clone experts without permission",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
+    "description": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members.\n\"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a statement to The Verge. \"Based on the feedback we've received, we clearly missed the mark. We are sorry and will do things differently going forward.\" \n …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-11T18:45:50.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Superhuman sagt, dass es die KI-Funktion „Expertenbewertung“ von Grammarly deaktiviert hat, die besagt, dass die Bearbeitungsvorschläge von echten Autoren „inspiriert“ wurden, darunter unserem Chefredakteur und anderen Verge-Mitarbeitern. „Nach sorgfältiger Überlegung haben wir uns entschieden, die Expertenbewertung zu deaktivieren, da wir die Funktion neu überdenken, um...",
+    "titleDE": "Grammarly sagt, dass es aufhören wird, KI zum Klonen von Experten ohne Erlaubnis zu verwenden"
+  },
+  {
+    "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+    "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+    "description": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+    "pubDate": "2026-03-11T16:43:59.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit dem neuen browserbasierten Dienst von WordPress können Benutzer private Websites erstellen, ohne sie zu hosten oder sich anzumelden, und verwandeln die Plattform in einen persönlichen Arbeitsbereich für Schreib-, Recherche- und KI-Tools.",
+    "titleDE": "WordPress stellt einen privaten Arbeitsbereich vor, der über einen neuen Dienst, my.WordPress.net, in Ihrem Browser ausgeführt wird"
+  },
+  {
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "link": "https://openai.com/index/rakuten",
+    "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "pubDate": "2026-03-11T13:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Rakuten nutzt Codex, den Codierungsagenten von OpenAI, um Software schneller und sicherer zu liefern, die MTTR um 50 % zu reduzieren, CI/CD-Überprüfungen zu automatisieren und Full-Stack-Builds innerhalb von Wochen bereitzustellen.",
+    "titleDE": "Rakuten behebt Probleme mit Codex doppelt so schnell"
+  },
+  {
+    "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+    "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+    "description": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
+    "pubDate": "2026-03-11T12:46:21.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Feng Qingyang hatte immer gehofft, sein eigenes Unternehmen zu gründen, aber er hätte nie gedacht, dass dies der Fall sein würde – oder dass dieser Tag so schnell kommen würde. Feng, ein 27-jähriger Software-Ingenieur aus Peking, begann mit OpenClaw zu basteln, einem beliebten neuen Open-Source-KI-Tool, das ein Gerät übernehmen und autonom...",
+    "titleDE": "Hustler profitieren von Chinas OpenClaw-KI-Begeisterung"
+  },
+  {
+    "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
+    "link": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world  Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the…",
+    "pubDate": "2026-03-11T12:38:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie Pokémon Go Lieferrobotern einen zentimetergenauen Blick auf die Welt verschafft Pokémon Go war der weltweit erste Augmented-Reality-Megahit. 2016 von Niantic veröffentlicht...",
+    "titleDE": "Der Download: Pokémon Go trainiert Weltmodelle und der Wettlauf zwischen den USA und China um die Suche nach Außerirdischen"
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "pubDate": "2026-03-11T11:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wie ChatGPT sich gegen Prompt-Injection und Social Engineering wehrt, indem es riskante Aktionen einschränkt und sensible Daten in Agenten-Workflows schützt.",
+    "titleDE": "Entwicklung von KI-Agenten, die einer sofortigen Injektion widerstehen"
+  },
+  {
+    "title": "From model to agent: Equipping the Responses API with a computer environment ",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "pubDate": "2026-03-11T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wie OpenAI mithilfe der Responses-API, des Shell-Tools und gehosteter Container eine Agentenlaufzeit erstellte, um sichere, skalierbare Agenten mit Dateien, Tools und Status auszuführen.",
+    "titleDE": "Vom Modell zum Agenten: Ausstattung der Responses API mit einer Computerumgebung"
+  },
+  {
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "pubDate": "2026-03-11T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wayfair nutzt OpenAI-Modelle, um den E-Commerce-Support und die Genauigkeit von Produktkatalogen zu verbessern, die Ticket-Triage zu automatisieren und Millionen von Produktattributen in großem Maßstab zu verbessern.",
+    "titleDE": "Wayfair steigert die Kataloggenauigkeit und Supportgeschwindigkeit mit OpenAI"
+  },
+  {
+    "title": "Building a strong data infrastructure for AI agent success",
+    "link": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+    "description": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, up from 78% in 2024, according…",
+    "pubDate": "2026-03-10T14:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Im Wettlauf um die Übernahme und Wertschöpfung von KI setzen Unternehmen schneller als je zuvor agentische KI als Copiloten, Assistenten und autonome Task-Runner ein. Ende 2025 experimentierten fast zwei Drittel der Unternehmen mit KI-Agenten, während 88 % KI in mindestens einer Geschäftsfunktion einsetzten, u...",
+    "titleDE": "Aufbau einer starken Dateninfrastruktur für den Erfolg von KI-Agenten"
+  },
+  {
+    "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+    "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+    "description": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount…",
+    "pubDate": "2026-03-10T13:47:26.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Pokémon Go war der weltweit erste Augmented-Reality-Megahit. Die 2016 vom Google-Spinout Niantic veröffentlichte AR-Variante des Moloch-Pokémon-Franchise wurde schnell zu einem globalen Phänomen. Von Chicago über Oslo bis Enoshima gehen Spieler auf die Straße in der dringenden Hoffnung, einen Jigglypuff oder einen Squa zu fangen ...",
+    "titleDE": "Wie Pokémon Go Lieferrobotern einen zentimetergenauen Blick auf die Welt ermöglicht"
+  },
+  {
+    "title": "Prioritizing energy intelligence for sustainable growth",
+    "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+    "description": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,…",
+    "pubDate": "2026-03-10T13:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Loudoun County, Virginia, einst bekannt für seine idyllische Landschaft und die Nähe zu Washington, D.C., hat sich in den letzten Jahren einen moderneren Ruf erworben: Das Gebiet verfügt über die höchste Konzentration an Rechenzentren auf dem Planeten. Vor zehn Jahren haben diese Einrichtungen E-Mail und E-Commerce vorangetrieben. Heute, dank der...",
+    "titleDE": "Priorisierung von Energieintelligenz für nachhaltiges Wachstum"
+  },
+  {
+    "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+    "description": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+    "pubDate": "2026-03-10T13:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Heute haben wir neue Beta-Funktionen für Gemini in Sheets angekündigt, die Ihnen beim Erstellen, Organisieren und Bearbeiten ganzer Tabellen helfen, von einfachen Aufgaben bis hin zu komplexen Datenanalysen – beschreiben Sie einfach …",
+    "titleDE": "Gemini in Google Sheets hat gerade eine Spitzenleistung erreicht."
+  },
+  {
+    "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+    "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater  Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to…",
+    "pubDate": "2026-03-10T12:55:32.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie KI den Iran-Konflikt zum Schauplatz macht Ein Großteil der Aufmerksamkeit auf KI im Iran-Konflikt konzentrierte sich auf Modelle wie Claude, die dem US-Militär bei Entscheidungen halfen ...",
+    "titleDE": "Der Download: Die Rolle der KI im Iran-Krieg und ein eskalierender Rechtsstreit"
+  },
+  {
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "pubDate": "2026-03-10T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "IH-Challenge trainiert Modelle zur Priorisierung vertrauenswürdiger Anweisungen und verbessert so die Befehlshierarchie, die sichere Steuerbarkeit und den Widerstand gegen sofortige Injektionsangriffe.",
+    "titleDE": "Verbesserung der Unterrichtshierarchie in Frontier-LLMs"
+  },
+  {
+    "title": "New ways to learn math and science in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "pubDate": "2026-03-10T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "ChatGPT bietet interaktive visuelle Erklärungen für Mathematik und Naturwissenschaften und hilft Schülern, Formeln, Variablen und Konzepte in Echtzeit zu erkunden.",
+    "titleDE": "Neue Möglichkeiten, Mathematik und Naturwissenschaften in ChatGPT zu lernen"
+  },
+  {
+    "title": "OpenAI to acquire Promptfoo",
+    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "pubDate": "2026-03-09T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI erwirbt Promptfoo, eine KI-Sicherheitsplattform, die Unternehmen dabei hilft, Schwachstellen in KI-Systemen während der Entwicklung zu identifizieren und zu beheben.",
+    "titleDE": "OpenAI übernimmt Promptfoo"
   },
   {
     "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
@@ -120,56 +520,6 @@
     "titleDE": "Die Bundesbehörden sind auf iOS-Schwachstellen aufmerksam geworden, die unter mysteriösen Umständen ausgenutzt wurden"
   },
   {
-    "title": "Is the Pentagon allowed to surveil Americans with AI?",
-    "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-    "description": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk…",
-    "pubDate": "2026-03-06T19:21:22.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Der anhaltende öffentliche Streit zwischen dem Verteidigungsministerium und dem KI-Unternehmen Anthropic hat eine tiefe und immer noch unbeantwortete Frage aufgeworfen: Erlaubt das Gesetz der US-Regierung tatsächlich, eine Massenüberwachung von Amerikanern durchzuführen? Überraschenderweise ist die Antwort nicht einfach. Mehr als ein Jahrzehnt nach E...",
-    "titleDE": "Darf das Pentagon Amerikaner mit KI überwachen?"
-  },
-  {
-    "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
-    "link": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
-    "description": "Co-director Daniel Roher. | Image: Focus Features\t\n\nWe are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole that comes across like fantastical ad copy. And the rate at which AI firms release new iterations of their products can make it hard to keep track of what's going on in the industry as a whole.\nIn The AI Doc: Or How I Became an Apocaloptimist, codirectors Daniel Roher and Charlie Tyrell attempt to make sense of this moment in gen AI's rise to prominence The f …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-06T19:05:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Co-Regisseur Daniel Roher. | Bild: Focus Features Wir sind mitten in einem massiven Vorstoß, generative KI in fast jeden Aspekt unseres Lebens zu integrieren, aber es ist immer noch leicht, verwirrt darüber zu sein, was es ist und wie es funktioniert. Es hilft nicht, dass viele der Befürworter und Kritiker der Gen-KI sowohl ...",
-    "titleDE": "Der AI Doc ist ein überdrehter Hype-Artikel für Doomer und Akzelerationisten gleichermaßen"
-  },
-  {
-    "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-    "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-    "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-    "pubDate": "2026-03-06T19:00:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Im Rahmen einer kürzlichen Sicherheitspartnerschaft mit Mozilla hat Anthropic 22 separate Schwachstellen in Firefox gefunden – 14 davon wurden als „hoher Schweregrad“ eingestuft.",
-    "titleDE": "Claude von Anthropic hat innerhalb von zwei Wochen 22 Schwachstellen in Firefox gefunden"
-  },
-  {
-    "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-    "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-    "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
-    "pubDate": "2026-03-06T18:09:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Pentagon hat Anthropic offiziell als Lieferkettenrisiko eingestuft, nachdem sich die beiden nicht darauf einigen konnten, wie viel Kontrolle das Militär über seine KI-Modelle haben sollte, einschließlich deren Einsatz in autonomen Waffen und Massenüberwachung im Inland. Als der 200-Millionen-Dollar-Vertrag von Anthropic scheiterte, wandte sich das Verteidigungsministerium ...",
-    "titleDE": "Der Pentagon-Deal von Anthropic ist ein warnendes Beispiel für Start-ups, die auf der Suche nach Bundesaufträgen sind"
-  },
-  {
-    "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
-    "link": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
-    "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
-    "pubDate": "2026-03-06T18:01:38.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Pentagon hat Anthropic offiziell als Lieferkettenrisiko eingestuft, nachdem sich die beiden nicht darauf einigen konnten, wie viel Kontrolle das Militär über seine KI-Modelle haben sollte, einschließlich deren Einsatz in autonomen Waffen und Massenüberwachung im Inland. Als der 200-Millionen-Dollar-Vertrag von Anthropic scheiterte, wandte sich das Verteidigungsministerium ...",
-    "titleDE": "Anthropic vs. das Pentagon, die SaaSpokalypse und warum Wettbewerbe eigentlich gut sind"
-  },
-  {
     "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
     "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
     "description": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
@@ -178,46 +528,6 @@
     "category": "news",
     "descriptionDE": "Ein Überblick über SpeciesNet, unser Open-Source-KI-Modell, das Menschen auf der ganzen Welt dabei hilft, Wildtiere zu schützen und zu erhalten.",
     "titleDE": "Wie unser Open-Source-KI-Modell SpeciesNet dazu beiträgt, den Artenschutz zu fördern"
-  },
-  {
-    "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
-    "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
-    "description": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
-    "pubDate": "2026-03-06T17:56:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Claudes App verzeichnet mittlerweile mehr Neuinstallationen als ChatGPT und verzeichnet immer mehr täglich aktive Nutzer.",
-    "titleDE": "Claudes Verbraucherwachstumsschub setzt sich nach dem Scheitern des Pentagon-Deals fort"
-  },
-  {
-    "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
-    "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
-    "description": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
-    "pubDate": "2026-03-06T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "City Detect, ein Unternehmen, das Kommunen hilft, den Verfall der Städte zu verhindern, ist bisher in mindestens 17 Städten vertreten, darunter Dallas und Miami.",
-    "titleDE": "City Detect, das KI nutzt, um Städten dabei zu helfen, sicher und sauber zu bleiben, sammelt 13 Millionen US-Dollar in Serie A ein"
-  },
-  {
-    "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
-    "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
-    "description": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
-    "pubDate": "2026-03-06T13:20:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta erlaubt nun konkurrierenden KI-Unternehmen, ihre Chatbots auf WhatsApp gegen eine Gebühr brasilianischen Nutzern zur Verfügung zu stellen, einen Tag nachdem das Unternehmen eine ähnliche Entscheidung für Nutzer in Europa bestätigt hat.",
-    "titleDE": "Nach Europa wird WhatsApp konkurrierenden KI-Unternehmen erlauben, Chatbots in Brasilien anzubieten"
-  },
-  {
-    "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-    "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
-    "pubDate": "2026-03-06T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. In Kürze erhältlich: unsere 10 Dinge, die derzeit in der KI wichtig sind. Seit Jahren ist die Nachrichtenredaktion von MIT Technology Review immer auf dem neuesten Stand und verfolgt die Entwicklungen in der KI.",
-    "titleDE": "Der Download: 10 Dinge, die in der KI wichtig sind, plus Anthropics Plan, das Pentagon zu verklagen"
   },
   {
     "title": "How Descript enables multilingual video dubbing at scale",
@@ -248,415 +558,5 @@
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie Balyasny ein KI-Recherchesystem mit GPT-5.4, strenger Modellbewertung und Agenten-Workflows aufgebaut hat, um die Investitionsanalyse in großem Maßstab zu transformieren.",
     "titleDE": "Wie Balyasny Asset Management eine KI-Research-Engine für Investitionen entwickelt hat"
-  },
-  {
-    "title": "Anthropic to challenge DOD’s supply-chain label in court",
-    "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-    "description": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-    "pubDate": "2026-03-06T01:28:54.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dario Amodei, CEO von Anthropic, sagte, er plane, die Einstufung des KI-Unternehmens als Lieferkettenrisiko durch das Verteidigungsministerium anzufechten. Er behauptet, dass die meisten Anthropic-Kunden von dem Label nicht betroffen seien.",
-    "titleDE": "Anthropic will das Lieferkettenlabel des US-Verteidigungsministeriums vor Gericht anfechten"
-  },
-  {
-    "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-    "description": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
-    "pubDate": "2026-03-05T23:14:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anstatt sich auf teure Unternehmensberater zu verlassen, nutzt das Startup KI-Sprachagenten, um Interviews mit Kunden der Unternehmen zu führen, die die PE-Firmen kaufen möchten.",
-    "titleDE": "DiligenceSquared nutzt KI und Sprachagenten, um M&A-Forschung erschwinglich zu machen"
-  },
-  {
-    "title": "The Pentagon formally labels Anthropic a supply-chain risk",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
-    "description": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images\t\n\nAfter weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court.\nThe decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will bar defense contractors from working with the government if they use Claude, Anthropic's AI program, in their products. Though the designation is typically applied to foreign companies with ties to adversarial governments, this is the first time that an American company …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-05T23:02:22.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "US-Verteidigungsminister Pete Hegseth spricht während einer Pressekonferenz zum US-Militäreinsatz im Iran am 2. März 2026 im Pentagon in Washington, D.C. | Brendan Smialowski/AFP über Getty Images Nach wochenlangen gescheiterten Verhandlungen, öffentlichen Ultimaten und Klagedrohungen hat das Verteidigungsministerium ...",
-    "titleDE": "Das Pentagon bezeichnet Anthropic offiziell als Lieferkettenrisiko"
-  },
-  {
-    "title": "AWS launches a new AI agent platform specifically for healthcare",
-    "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-    "description": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
-    "pubDate": "2026-03-05T21:54:37.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "AWS führt Amazon Connect Health ein, eine KI-Agentenplattform, die bei der Patientenplanung, -dokumentation und -überprüfung hilft.",
-    "titleDE": "AWS führt eine neue KI-Agentenplattform speziell für das Gesundheitswesen ein"
-  },
-  {
-    "title": "US reportedly considering sweeping new chip export controls",
-    "link": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
-    "description": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
-    "pubDate": "2026-03-05T21:24:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In einem angeblichen Vorschlagsentwurf würde die US-Regierung bei jedem Chip-Exportverkauf eine Rolle spielen, unabhängig davon, aus welchem ​​Land er stammt.",
-    "titleDE": "Berichten zufolge erwägen die USA umfassende neue Exportkontrollen für Chips"
-  },
-  {
-    "title": "Amazon appears to be down, with over 20,000 reported problems",
-    "link": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
-    "description": "Problems viewing products and checking out.",
-    "pubDate": "2026-03-05T21:06:05.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Probleme beim Anzeigen von Produkten und beim Auschecken.",
-    "titleDE": "Amazon scheint mit über 20.000 gemeldeten Problemen ausgefallen zu sein"
-  },
-  {
-    "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
-    "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
-    "description": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
-    "pubDate": "2026-03-05T20:24:25.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Verteidigungsministerium hat Anthropic offiziell als Lieferkettenrisiko eingestuft und macht das KI-Unternehmen damit zum ersten amerikanischen Unternehmen mit diesem Label. Unterdessen setzt das Verteidigungsministerium im Iran weiterhin die KI von Anthropic ein.",
-    "titleDE": "Es ist offiziell: Das Pentagon hat Anthropic als Lieferkettenrisiko eingestuft"
-  },
-  {
-    "title": "Trump gets data center companies to pledge to pay for power generation",
-    "link": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
-    "description": "With no enforcement and questionable economics, it may not make a difference.",
-    "pubDate": "2026-03-05T18:41:28.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Ohne Durchsetzung und fragwürdiger Wirtschaftlichkeit macht es möglicherweise keinen Unterschied.",
-    "titleDE": "Trump bringt Rechenzentrumsunternehmen dazu, sich zu verpflichten, für die Stromerzeugung zu zahlen"
-  },
-  {
-    "title": "Netflix is buying Ben Affleck’s AI startup",
-    "link": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
-    "description": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado.\nToday, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser.\nIn a statement about the acquisition and his reasons for founding InterPositive in 2022, Affleck said he was inspired to get into the tech space after \"observing the early rise of AI in producti …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-05T18:27:16.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Obwohl Netflix den Krieg um Warner Bros. verloren hat, hat es gerade ein KI-Startup vom beliebtesten Dunkin‘ Donuts-Fan im Internet gekauft. Netflix gab heute die Übernahme von InterPositive bekannt, Ben Afflecks KI-Unternehmen, das sich auf Tools für die Film- und Fernsehproduktion spezialisiert hat. Der Deal wird sehen...",
-    "titleDE": "Netflix kauft Ben Afflecks KI-Startup"
-  },
-  {
-    "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
-    "description": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.\nThe new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software. OpenAI introduced ChatGPT Agent amid a flurry of other agentic tool …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-05T18:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI bringt GPT-5.4 auf den Markt, die neueste Version seines KI-Modells, das nach Angaben des Unternehmens Fortschritte in den Bereichen Argumentation, Codierung und professionelle Arbeit mit Tabellenkalkulationen, Dokumenten und Präsentationen vereint. Es ist auch das erste Modell von OpenAI mit nativen Computernutzungsfunktionen, was bedeutet, dass es ...",
-    "titleDE": "Das neue GPT-5.4-Modell von OpenAI ist ein großer Schritt in Richtung autonomer Agenten"
-  },
-  {
-    "title": "Ask a Techspert: How does AI understand my visual searches?",
-    "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
-    "description": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
-    "pubDate": "2026-03-05T18:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie mehr über die Abfrage-Fanout-Methode des KI-Modus in Search für die visuelle Suche.",
-    "titleDE": "Fragen Sie einen Techsperten: Wie versteht KI meine visuellen Suchen?"
-  },
-  {
-    "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
-    "link": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
-    "description": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and Göteborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate moments.\"\nSo far, at least one proposed class action lawsuit accusing Meta of violating false advertising and privacy laws has emerged in response to Svenska Dagbladet's reporting, citing the company's claim that its smart glasses are designed for privacy:\nBy affirmativel …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-03-05T16:37:52.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut einer Untersuchung der schwedischen Medien Svenska Dagbladet und Göteborgs-Posten könnten die KI-gestützten Datenbrillen von Meta sensibles Filmmaterial an menschliche Rezensenten in Nairobi, Kenia, senden. Der Bericht, der letzte Woche veröffentlicht wurde, behauptet, Meta-Auftragnehmer in Kenia hätten aufgenommene Videos gesehen ...",
-    "titleDE": "Berichten zufolge sendet die KI-Brille von Meta sensibles Filmmaterial an menschliche Prüfer in Kenia"
-  },
-  {
-    "title": "The latest AI news we announced in February",
-    "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
-    "description": "Here are Google’s latest AI updates from February 2026",
-    "pubDate": "2026-03-05T16:30:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom Februar 2026",
-    "titleDE": "Die neuesten KI-Neuigkeiten, die wir im Februar angekündigt haben"
-  },
-  {
-    "title": "The Download: an AI agent’s hit piece, and preventing lightning",
-    "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things…",
-    "pubDate": "2026-03-05T14:28:46.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Online-Belästigung tritt in die KI-Ära ein Scott Shambaugh überlegte nicht lange, als er die Anfrage eines KI-Agenten ablehnte, zu Matplotlib beizutragen, einer Softwarebibliothek, die …",
-    "titleDE": "Der Download: Der Hit eines KI-Agenten und der Verhinderung von Blitzschlägen"
-  },
-  {
-    "title": "Apple Music adds optional labels for AI songs and visuals",
-    "link": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
-    "description": "No AI usage will be assumed on works that providers haven't voluntarily tagged. | Illustration: Alex Castro / The Verge\t\n\nApple is asking artists and record labels on its music streaming platform to voluntarily label songs that were made using AI. The new \"Transparency Tags\" metadata system for Apple Music was announced in a newsletter to industry partners yesterday, according to Music Business Worldwide, and covers four categories, including track, composition, artwork, and music videos.\nThe track tag should be applied when \"a material portion of a sound recording\" has been generated by AI tools, while the composition tag covers other AI-generated compositional elements, such as song lyrics. The artwork tag applies to static or moving graphics, but only at th …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-05T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Bei Werken, die die Anbieter nicht freiwillig getaggt haben, wird von keiner KI-Nutzung ausgegangen. | Illustration: Alex Castro / The Verge Apple fordert Künstler und Plattenfirmen auf seiner Musik-Streaming-Plattform auf, Songs, die mit KI erstellt wurden, freiwillig zu kennzeichnen. Das neue Metadatensystem „Transparency Tags“ für Apple ...",
-    "titleDE": "Apple Music fügt optionale Labels für KI-Songs und Visuals hinzu"
-  },
-  {
-    "title": "AI tools can unmask anonymous accounts ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
-    "description": "Do you have a Reddit alt, secret X, finsta, or Glassdoor account you trash your boss with? AI might have just made it a lot easier to unmask you. That's the conclusion of a recently published study, which hints at some uncomfortable consequences for staying private online - even if it's not quite time to hold a funeral for anonymity just yet. \nThe finding, which has not been peer reviewed, comes from researchers at ETH Zurich, Anthropic, and the Machine Learning Alignment and Theory Scholars program. They built an automated system of AI agents using unspecified models - capable of searching the web and interacting with information much like …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-05T13:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Haben Sie ein Reddit-Alt-, Secret-X-, Finsta- oder Glassdoor-Konto, mit dem Sie Ihrem Chef den Garaus machen? KI hätte es vielleicht viel einfacher gemacht, Sie zu enttarnen. Zu diesem Schluss kommt eine kürzlich veröffentlichte Studie, die auf einige unangenehme Konsequenzen hinweist, wenn man online privat bleibt – auch wenn es nicht ganz zeitgemäß ist...",
-    "titleDE": "KI-Tools können anonyme Konten entlarven"
-  },
-  {
-    "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
-    "description": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being iced out of defense work for being a \"supply chain risk.\" Talks between the two parties imploded on Friday after weeks of bitter public feuding over the startup's refusal to grant the Pentagon unrestricted access to its AI, with rivals like OpenAI rushing to fill the void.\nAmodei is in talks with under-secretary of defense for research and engineering Emil Michael about a new contract that would allow the US military to continue using Anthropi …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-05T11:46:46.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dario Amodei, CEO von Anthropic, sitzt Berichten zufolge wieder am Verhandlungstisch mit dem Verteidigungsministerium, um die Beziehung des Unternehmens zum US-Militär zu retten und zu verhindern, dass es aus der Verteidigungsarbeit ausgeschlossen wird, weil es ein „Lieferkettenrisiko“ darstellt. Die Gespräche zwischen den beiden Parteien implodierten am...",
-    "titleDE": "Anthropic unternimmt einen letzten Versuch, das Abkommen mit dem Pentagon nach der Explosion zu retten"
-  },
-  {
-    "title": "How much wildfire prevention is too much?",
-    "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-    "description": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric…",
-    "pubDate": "2026-03-05T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Der Wettlauf um die Verhinderung der schlimmsten Waldbrände wird zunehmend von Hightech geprägt. Unternehmen schlagen KI-Branderkennungssysteme und Drohnen vor, die frühe Brände eindämmen können. Und jetzt sagt ein kanadisches Startup, dass es auf den Blitz losgeht. Durch Blitze ausgelöste Brände können eine große Sache sein: Der kanadische Waldbrand...",
-    "titleDE": "Wie viel Waldbrandprävention ist zu viel?"
-  },
-  {
-    "title": "Online harassment is entering its AI era",
-    "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-    "description": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be…",
-    "pubDate": "2026-03-05T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Scott Shambaugh überlegte nicht lange, als er die Anfrage eines KI-Agenten ablehnte, zu Matplotlib beizutragen, einer Softwarebibliothek, die er verwaltet. Wie viele Open-Source-Projekte wurde Matplotlib von einer Flut an KI-Codebeiträgen überschwemmt, und so haben Shambaugh und seine Mitbetreuer ...",
-    "titleDE": "Online-Belästigung tritt in die KI-Ära ein"
-  },
-  {
-    "title": "GPT-5.4 Thinking System Card",
-    "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "description": "",
-    "pubDate": "2026-03-05T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "",
-    "titleDE": "GPT-5.4 Thinking System-Karte"
-  },
-  {
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "pubDate": "2026-03-05T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI führt CoT-Control ein und stellt fest, dass Argumentationsmodelle Schwierigkeiten haben, ihre Gedankenketten zu kontrollieren, wodurch die Überwachbarkeit als KI-Sicherheitsschutz gestärkt wird.",
-    "titleDE": "Argumentationsmodelle haben Schwierigkeiten, ihre Gedankenketten zu kontrollieren, und das ist gut so"
-  },
-  {
-    "title": "Introducing GPT-5.4",
-    "link": "https://openai.com/index/introducing-gpt-5-4",
-    "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "pubDate": "2026-03-05T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wir stellen GPT-5.4 vor, das leistungsfähigste und effizienteste Grenzmodell von OpenAI für professionelle Arbeit, mit modernster Codierung, Computernutzung, Toolsuche und 1M-Token-Kontext.",
-    "titleDE": "Einführung von GPT-5.4"
-  },
-  {
-    "title": "Ensuring AI use in education leads to opportunity",
-    "link": "https://openai.com/index/ai-education-opportunity",
-    "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-    "pubDate": "2026-03-05T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI stellt neue Tools, Zertifizierungen und Messressourcen bereit, um Schulen und Universitäten dabei zu helfen, Lücken in der KI-Fähigkeit zu schließen und Möglichkeiten zu erweitern.",
-    "titleDE": "Die Gewährleistung des Einsatzes von KI in der Bildung bietet Chancen"
-  },
-  {
-    "title": "Introducing the Adoption news channel",
-    "link": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "description": "Practical insights and frameworks to turn AI progress into business advantage",
-    "pubDate": "2026-03-05T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Praktische Erkenntnisse und Frameworks, um KI-Fortschritte in Geschäftsvorteile umzuwandeln",
-    "titleDE": "Wir stellen den Nachrichtensender Adoption vor"
-  },
-  {
-    "title": "Introducing ChatGPT for Excel and new financial data integrations",
-    "link": "https://openai.com/index/chatgpt-for-excel",
-    "description": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-    "pubDate": "2026-03-05T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI führt ChatGPT für Excel und neue Finanz-App-Integrationen ein, die auf GPT-5.4 basieren, um Modellierung, Forschung und Analyse in regulierten Umgebungen zu beschleunigen.",
-    "titleDE": "Einführung von ChatGPT für Excel und neuen Finanzdatenintegrationen"
-  },
-  {
-    "title": "The five AI value models driving business reinvention",
-    "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "description": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-    "pubDate": "2026-03-05T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Fünf KI-Wertmodelle zeigen, wie Führungskräfte die KI von der Mitarbeiterkompetenz bis hin zur Prozessneuerfindung ordnen und dauerhafte Geschäftsvorteile aufbauen können.",
-    "titleDE": "Die fünf KI-Wertmodelle, die die Neuerfindung von Unternehmen vorantreiben"
-  },
-  {
-    "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
-    "description": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
-    "pubDate": "2026-03-04T17:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Canvas im KI-Modus ist jetzt für alle in den USA verfügbar. Außerdem kann es Ihnen jetzt beim Verfassen von Dokumenten oder beim Erstellen interaktiver Tools helfen.",
-    "titleDE": "Verwenden Sie Canvas im KI-Modus, um Dinge zu erledigen und Ihre Ideen direkt in der Suche zum Leben zu erwecken."
-  },
-  {
-    "title": "Bridging the operational AI gap",
-    "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-    "description": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels…",
-    "pubDate": "2026-03-04T14:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Das transformative Potenzial der KI ist bereits gut bekannt. Unternehmensanwendungsfälle gewinnen an Dynamik und Unternehmen stellen in der Produktion von Pilotprojekten auf KI um. Unternehmen reden nicht mehr nur über KI; Sie leiten Budgets und Ressourcen um, um dies zu ermöglichen. Viele ...",
-    "titleDE": "Überbrückung der operativen KI-Lücke"
-  },
-  {
-    "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
-    "link": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living…",
-    "pubDate": "2026-03-04T13:12:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Hören Sie sich den grollenden, geheimen Soundtrack der Erde an. Das Knallen eines kalbenden Gletschers. Das knisternde Grollen eines Lauffeuers. Das Dröhnen einer wogenden Sturmfront. Sie sind die Nein...",
-    "titleDE": "Der Download: Das Grollen der Erde und KI für Angriffe auf den Iran"
-  },
-  {
-    "title": "Extending single-minus amplitudes to gravitons",
-    "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
-    "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
-    "pubDate": "2026-03-04T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Ein neuer Vorabdruck erweitert Single-Minus-Amplituden auf Gravitonen, wobei GPT-5.2 Pro dabei hilft, Gravitonenbaumamplituden ungleich Null in der Quantengravitation abzuleiten und zu verifizieren.",
-    "titleDE": "Erweiterung der Einzel-Minus-Amplituden auf Gravitonen"
-  },
-  {
-    "title": "How Axios uses AI to help deliver high-impact local journalism ",
-    "link": "https://openai.com/index/axios-allison-murphy",
-    "description": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-    "pubDate": "2026-03-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Allison Murphy, COO von Axios, erklärt, wie das Unternehmen KI nutzt, um lokale Reporter zu unterstützen, die Arbeitsabläufe in der Nachrichtenredaktion zu rationalisieren und wirkungsvollen lokalen Journalismus in großem Maßstab zu liefern.",
-    "titleDE": "Wie Axios KI nutzt, um wirkungsvollen Lokaljournalismus zu liefern"
-  },
-  {
-    "title": "Understanding AI and learning outcomes",
-    "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-    "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-    "pubDate": "2026-03-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI stellt die Learning Outcomes Measurement Suite vor, um die Auswirkungen von KI auf das Lernen von Schülern in verschiedenen Bildungsumgebungen im Laufe der Zeit zu bewerten.",
-    "titleDE": "KI und Lernergebnisse verstehen"
-  },
-  {
-    "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
-    "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
-    "description": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
-    "pubDate": "2026-03-03T22:20:06.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Accenture plant die Übernahme von Ookla, zu dem auch RootMetrics und Ekahau gehören.",
-    "titleDE": "Downdetector und Speedtest wurden im Rahmen eines 1,2-Milliarden-Dollar-Deals an den IT-Dienstleister Accenture verkauft"
-  },
-  {
-    "title": "Create new worlds in Project Genie with these 4 tips",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
-    "description": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
-    "pubDate": "2026-03-03T17:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie mehr über Project Genie von Google DeepMind und wie Sie Eingabeaufforderungen schreiben, um Ihre eigenen Welten zu erschaffen.",
-    "titleDE": "Erschaffen Sie mit diesen 4 Tipps neue Welten in Project Genie"
-  },
-  {
-    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-    "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-    "pubDate": "2026-03-03T16:34:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Gemini 3.1 Flash-Lite ist unser bisher schnellstes und kostengünstigstes Modell der Gemini 3-Serie.",
-    "titleDE": "Gemini 3.1 Flash-Lite: Entwickelt für Intelligenz im großen Maßstab"
-  },
-  {
-    "title": "MIT Technology Review Insiders Panel",
-    "link": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
-    "description": "",
-    "pubDate": "2026-03-03T15:53:10.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "",
-    "titleDE": "MIT Technology Review Insiders Panel"
-  },
-  {
-    "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
-    "link": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly…",
-    "pubDate": "2026-03-03T13:30:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Dieses Startup behauptet, es könne Blitze stoppen und katastrophale Waldbrände verhindern. Das Startup Skyward Wildfire sagt, es könne katastrophale Brände verhindern, indem es das Licht stoppt ...",
-    "titleDE": "Der Download: Das Startup, das behauptet, Blitze stoppen zu können, und das im Pentagon-Deal von OpenAI steckt"
-  },
-  {
-    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-    "pubDate": "2026-03-03T12:30:24.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Pseudonymität war noch nie perfekt für die Wahrung der Privatsphäre. Bald könnte es sinnlos sein.",
-    "titleDE": "LLMs können pseudonyme Benutzer in großem Maßstab mit überraschender Genauigkeit entlarven"
-  },
-  {
-    "title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
-    "link": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
-    "description": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and withered grasslands, burned for weeks, and compounded what was rapidly turning into Canada’s worst fire year on record. In the end, nearly 7,000…",
-    "pubDate": "2026-03-03T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Am 1. Juni 2023, als Quebec von einer glühenden Hitzewelle heimgesucht wurde, schlugen tausende Blitze in der gesamten Provinz ein und lösten mehr als 120 Waldbrände aus. Die Brände fegten durch ausgetrocknete Wälder und verdorrtes Grasland, brannten wochenlang und verschlimmerten das, was sich schnell zu Kanadas schlimmstem Wetter entwickelte …",
-    "titleDE": "Dieses Startup behauptet, es könne Blitze stoppen und katastrophale Waldbrände verhindern"
-  },
-  {
-    "title": "GPT-5.3 Instant System Card",
-    "link": "https://openai.com/index/gpt-5-3-instant-system-card",
-    "description": "",
-    "pubDate": "2026-03-03T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "",
-    "titleDE": "GPT-5.3 Instant System Card"
-  },
-  {
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "link": "https://openai.com/index/gpt-5-3-instant",
-    "description": "",
-    "pubDate": "2026-03-03T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "",
-    "titleDE": "GPT-5.3 Instant: Reibungslosere, nützlichere Alltagsgespräche"
   }
 ]
