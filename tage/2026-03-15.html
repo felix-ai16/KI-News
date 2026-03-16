@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Sonntag, 15. Maerz 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Sonntag, 15. Maerz 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/" target="_blank" rel="noopener">Berichten zufolge unterbricht ByteDance die weltweite Einführung seines Videogenerators Seedance 2.0</a></h2><p class="news-description">Berichten zufolge verzögert das Unternehmen den Start, da seine Ingenieure und Anwälte daran arbeiten, weitere rechtliche Probleme abzuwenden.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/" target="_blank" rel="noopener">Der Anwalt, der hinter Fällen von KI-Psychose steckt, warnt vor dem Risiko einer Massenverletztenzahl</a></h2><p class="news-description">KI-Chatbots werden seit Jahren mit Selbstmorden in Verbindung gebracht. Jetzt sagt ein Anwalt, dass sie auch in Massenverletztenfällen auftauchen und die Technologie sich schneller weiterentwickelt als die Schutzmaßnahmen.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/" target="_blank" rel="noopener">Der Wiz-Investor enthüllt die 32-Milliarden-Dollar-Übernahme von Google</a></h2><p class="news-description">Shardul Shah von Index Ventures führt uns durch die größte Akquisition von Google aller Zeiten.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data" target="_blank" rel="noopener">KI-Unternehmen möchten die Fähigkeiten von Improvisationsschauspielern nutzen, um KI auf menschliche Emotionen zu trainieren</a></h2><p class="news-description">Wenn Sie einen ausgeprägten kreativen Instinkt haben, die Fähigkeit haben, Emotionen authentisch darzustellen und in der Lage sind, der Stimme einer Figur während einer Szene treu zu bleiben, gibt es eine Stellenausschreibung, in der Ihre Erfahrung gefragt ist. Der Haken: Sie werden nicht in einem Theater, einem Filmstudio oder einem Underground-Auftritt auftreten ...</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
