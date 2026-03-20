@@ -1,5 +1,365 @@
 [
   {
+    "title": "OpenAI is planning a desktop ‘superapp’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+    "description": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ from Fidji Simo, OpenAI's CEO of Applications. Fragmentation \"has been slowing us down and making it harder to hit the quality bar we want,\" Simo said.\nOpenAI made waves last year with splashy announcements like the Sora video app and buying Jony Ive's AI hardware company. But it has been facing increased competition from Anthropic as of  …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-20T00:09:38.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI arbeitet an einer Desktop-„Superapp“, die seine ChatGPT-App, die Codex AI-Codierungs-App und seinen KI-gestützten Atlas-Browser in einer App zusammenführt, berichtet das Wall Street Journal. Laut einem von ... zitierten Memo nimmt das Unternehmen die Änderung vor, um seine verschiedenen Produktbemühungen zu vereinfachen.",
+    "titleDE": "OpenAI plant eine Desktop-„Superapp“"
+  },
+  {
+    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+    "description": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+    "pubDate": "2026-03-19T22:09:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Amazon-Magnat hat ein neues Projekt, bei dem es darum geht, Industrieunternehmen zu übernehmen und sie mit KI-Technologie umzurüsten.",
+    "titleDE": "Berichten zufolge will Jeff Bezos 100 Milliarden US-Dollar, um alte Produktionsfirmen mit KI zu kaufen und umzuwandeln"
+  },
+  {
+    "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+    "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+    "description": "Broadcom says the group is misrepresenting market \"realities.\"",
+    "pubDate": "2026-03-19T21:29:53.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Broadcom sagt, der Konzern stelle die „Realitäten“ des Marktes falsch dar.",
+    "titleDE": "Cloud-Dienstanbieter fordern die EU-Regulierungsbehörde auf, das VMware-Partnerprogramm wieder einzuführen"
+  },
+  {
+    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+    "description": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+    "pubDate": "2026-03-19T19:09:02.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Matthew Prince, CEO von Cloudflare, könnten KI-Bots bis 2027 die Zahl der Menschen im Internet übertreffen, da generative KI-Agenten den Webverkehr und die Anforderungen an die Infrastruktur dramatisch erhöhen.",
+    "titleDE": "Der Online-Bot-Verkehr wird bis 2027 den menschlichen Verkehr übersteigen, sagt der CEO von Cloudflare"
+  },
+  {
+    "title": "A rogue AI led to a serious security incident at Meta",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+    "description": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. \nA Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a technical question another employee posted on an internal company forum. But the agent also independently publicly replied to the question after analyzin …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-19T18:20:05.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Letzte Woche hatten Meta-Mitarbeiter fast zwei Stunden lang unbefugten Zugriff auf Unternehmens- und Benutzerdaten, weil ein KI-Agent einem Mitarbeiter ungenaue technische Ratschläge gegeben hatte, wie The Information zuvor berichtete. Meta-Sprecherin Tracy Clayton sagte in einer Erklärung gegenüber The Verge, dass „keine Benutzerdaten …“",
+    "titleDE": "Eine betrügerische KI führte zu einem schwerwiegenden Sicherheitsvorfall bei Meta"
+  },
+  {
+    "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+    "description": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+    "pubDate": "2026-03-19T17:24:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta ist davon überzeugt, dass diese KI-Systeme mehr Verstöße mit größerer Genauigkeit erkennen, Betrug besser verhindern, schneller auf reale Ereignisse reagieren und übermäßige Durchsetzung reduzieren können.",
+    "titleDE": "Meta führt neue KI-Systeme zur Inhaltsdurchsetzung ein und reduziert gleichzeitig die Abhängigkeit von Drittanbietern"
+  },
+  {
+    "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+    "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+    "description": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+    "pubDate": "2026-03-19T16:14:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Zustellkuriere können Geld verdienen, indem sie beispielsweise alltägliche Aufgaben filmen oder sich selbst beim Sprechen in einer anderen Sprache aufzeichnen.",
+    "titleDE": "DoorDash führt eine neue „Aufgaben“-App ein, die Kuriere dafür bezahlt, Videos einzusenden, um die KI zu trainieren"
+  },
+  {
+    "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+    "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+    "description": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+    "pubDate": "2026-03-19T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nominieren Sie Ihr Startup oder eines, das Sie kennen, vor dem 27. Mai für TechCrunch Startup Battlefield 200. Chance auf eine eigenkapitalfreie Finanzierung in Höhe von 100.000 US-Dollar und Zugang zu VC.",
+    "titleDE": "Nominierungen für TechCrunch Startup Battlefield 200 sind noch offen"
+  },
+  {
+    "title": "Adobe’s AI image generator can now be trained on your own art",
+    "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+    "description": "Just feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe\t\n\nAdobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography.\nThe tool aims to streamline workflows for teams and creators that need to produce high volumes of content, providing a reusable foundation that preserves visual consistency across multiple projects, instead of having to start from scratch each time. Adobe says that custom models can help pr …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-19T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Geben Sie einfach Ihre Bilder in den Bot ein und dieser versucht, bestimmte Stile und Ästhetiken nachzuahmen. | Bild: Adobe Adobe bringt anpassbare KI-Bildgeneratoren auf den Markt, die bestimmte künstlerische Stile und Charakterdesigns nachahmen können. Die Firefly Custom-Modelle sind ab heute in der öffentlichen Beta verfügbar und ermöglichen ...",
+    "titleDE": "Der KI-Bildgenerator von Adobe kann jetzt auf Ihre eigene Kunst trainiert werden"
+  },
+  {
+    "title": "Amazon brings Alexa+ to the UK",
+    "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+    "description": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+    "pubDate": "2026-03-19T12:27:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen ermöglicht Benutzern in Großbritannien derzeit, Alexa+ über ein Early-Access-Programm kostenlos auszuprobieren.",
+    "titleDE": "Amazon bringt Alexa+ nach Großbritannien"
+  },
+  {
+    "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+    "description": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice. \nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app. That medical data - such as lab results, medications, and visit history - will, alongside wearable data, help Fitbit's AI-powered health  …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-19T12:27:23.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Würden Sie Ihre Krankenakten mit einem Personal Trainer teilen? Wie wäre es mit einer virtuellen? Google, das diese Woche bekannt gegeben hat, dass es dem KI-Gesundheitstrainer von Fitbit die Möglichkeit gibt, Ihre Krankenakten zu lesen, hofft, dass die Antwort „Ja“ lautet, und folgt damit Konkurrenten wie Amazon, OpenAI und Microsoft, die darauf wetten, dass wir …",
+    "titleDE": "Der KI-Gesundheitscoach von Fitbit wird bald in der Lage sein, Ihre Krankenakten zu lesen"
+  },
+  {
+    "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+    "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
+    "pubDate": "2026-03-19T12:17:02.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein Preisgeld in Höhe von 5 Millionen US-Dollar wartet auf den Beweis, dass Quantencomputer Probleme im Gesundheitswesen lösen können. In einem Labor am Stadtrand von Oxford wurde ein Quantencomputer aus ... gebaut.",
+    "titleDE": "Der Download: Quantencomputing für die Gesundheit und warum die Welt nicht mehr Atommüll recycelt"
+  },
+  {
+    "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+    "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+    "description": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated…",
+    "pubDate": "2026-03-19T10:51:43.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Ich stehe vor einem aus Atomen und Licht gebauten Quantencomputer im britischen National Quantum Computing Centre am Stadtrand von Oxford. Auf einem Labortisch umgibt eine komplexe Matrix aus Spiegeln und Linsen eine Zelle in der Größe eines Zauberwürfels, in der 100 Cäsiumatome gitterförmig aufgehängt sind ...",
+    "titleDE": "Können Quantencomputer jetzt Probleme im Gesundheitswesen lösen? Wir werden es bald herausfinden."
+  },
+  {
+    "title": "Why the world doesn’t recycle more nuclear waste",
+    "link": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+    "description": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since the material needs to…",
+    "pubDate": "2026-03-19T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Aussicht, Müll nützlich zu machen, fasziniert mich immer wieder. Ganz gleich, ob es sich um gebrauchte Batterien, Solarpaneele oder abgebrannte Kernbrennstoffe handelt: Die Nutzung von etwas, das zur Entsorgung bestimmt ist, klingt rundum nach einem Gewinn. In der Kernenergie war es schon immer eine Herausforderung herauszufinden, was mit Abfall geschehen soll, denn...",
+    "titleDE": "Warum die Welt nicht mehr Atommüll recycelt"
+  },
+  {
+    "title": "How we monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "pubDate": "2026-03-19T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wie OpenAI die Gedankenkettenüberwachung nutzt, um Fehlausrichtungen in internen Codierungsagenten zu untersuchen und reale Einsätze zu analysieren, um Risiken zu erkennen und KI-Sicherheitsmaßnahmen zu stärken.",
+    "titleDE": "Wie wir interne Kodiermittel auf Fehlausrichtung überwachen"
+  },
+  {
+    "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+    "description": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+    "pubDate": "2026-03-19T08:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nach der Komprimierung von Modellen aus großen KI-Laboren, darunter OpenAI, Meta, DeepSeek und Mistral AI, hat Multiverse Computing sowohl eine App auf den Markt gebracht, die die Fähigkeiten seiner komprimierten Modelle demonstriert, als auch eine API, die sie breiter verfügbar macht.",
+    "titleDE": "Multiverse Computing drängt seine komprimierten KI-Modelle in den Mainstream"
+  },
+  {
+    "title": "OpenAI to acquire Astral",
+    "link": "https://openai.com/index/openai-to-acquire-astral",
+    "description": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "pubDate": "2026-03-19T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Beschleunigt das Codex-Wachstum, um die nächste Generation von Python-Entwicklertools voranzutreiben",
+    "titleDE": "OpenAI übernimmt Astral"
+  },
+  {
+    "title": "Meta is having trouble with rogue AI agents",
+    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "description": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+    "pubDate": "2026-03-18T23:42:46.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein betrügerischer KI-Agent hat Meta-Unternehmens- und Benutzerdaten versehentlich Ingenieuren zugänglich gemacht, die keine Erlaubnis hatten, sie einzusehen.",
+    "titleDE": "Meta hat Probleme mit betrügerischen KI-Agenten"
+  },
+  {
+    "title": "Sam Altman’s thank-you to coders draws the memes",
+    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+    "description": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+    "pubDate": "2026-03-18T23:12:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Altman bedankt sich bei den Menschen, die ihren Code von Grund auf neu schreiben konnten. Das Internet antwortet mit salzigen Witzen.",
+    "titleDE": "Sam Altmans Dankeschön an die Programmierer zeichnet die Memes aus"
+  },
+  {
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "description": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+    "pubDate": "2026-03-18T20:30:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Carl Pei, CEO von Nothing, sagt, dass KI-Agenten irgendwann Apps ersetzen und Smartphones zu Systemen machen werden, die Absichten verstehen und im Namen eines Benutzers handeln.",
+    "titleDE": "Carl Pei, CEO von Nothing, sagt, dass Smartphone-Apps verschwinden werden, während KI-Agenten an ihre Stelle treten"
+  },
+  {
+    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+    "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+    "description": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+    "pubDate": "2026-03-18T20:01:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Netzwerkgeschäft von Nvidia hat im letzten Quartal 11 Milliarden US-Dollar eingenommen, obwohl es deutlich weniger Aufsehen erregte als Chips und Gaming.",
+    "titleDE": "Nvidia baut im Stillen einen Multimilliarden-Dollar-Giganten auf, der mit seinem Chipgeschäft konkurrieren soll"
+  },
+  {
+    "title": "David Sacks’ big Iran warning gets big time ignored",
+    "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+    "description": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the \"spying on people\" fun?\nDo you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to tina.nguyen+tips@theverge.com. Or, if you're truly tech-pilled …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-18T18:44:21.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Sek. Scott Bessent, Präsident Donald Trump und David Sacks während des Digital Assets Summit des Weißen Hauses in Washington, DC, am Freitag, 7. März 2025. | Chris Kleponis/CNP/Bloomberg über Getty Images Hallo und willkommen bei Regulator, einem Newsletter für Verge-Abonnenten über die Politik der Technologie und...",
+    "titleDE": "Die große Iran-Warnung von David Sacks wird weitgehend ignoriert"
+  },
+  {
+    "title": "ChatGPT did not cure a dog’s cancer",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+    "description": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated.\nThe version of the story that made the rounds online, first reported by The Australian, was relatively straightforward. In 2024, Sydney-based Paul Conyngham learned that his dog Rosie had cancer. Chemotherapy slowed the disease but failed to shrink the tumors. After vets said \"nothing could be done\" for the Staffordshire  …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-18T18:14:39.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Als ein australischer Technologieunternehmer ohne Biologie- oder Medizin-Hintergrund sagte, ChatGPT habe geholfen, seinen Hund vor Krebs zu retten, verbreitete sich die Geschichte mit der Art von Bestätigung, nach der sich Big Tech schon lange gesehnt hatte: dem Beweis, dass KI die Medizin revolutionieren und eine ihrer tödlichsten Krankheiten bekämpfen wird. Die Realität, wie immer...",
+    "titleDE": "ChatGPT konnte den Krebs eines Hundes nicht heilen"
+  },
+  {
+    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+    "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+    "description": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+    "pubDate": "2026-03-18T17:54:31.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Jack Conte, CEO von Patreon, sagt, KI-Unternehmen sollten Urheber für Trainingsdaten bezahlen, und argumentiert, dass ihre Fair-Use-Verteidigung scheitert, wenn sie Inhalte von großen Verlagen lizenzieren.",
+    "titleDE": "Der CEO von Patreon bezeichnet das Fair-Use-Argument von KI-Unternehmen als „falsch“ und sagt, dass Urheber bezahlt werden sollten"
+  },
+  {
+    "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+    "link": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+    "description": "One Microsoft product was approved despite years of concerns about its security.",
+    "pubDate": "2026-03-18T17:36:40.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Ein Microsoft-Produkt wurde trotz jahrelanger Bedenken hinsichtlich seiner Sicherheit zugelassen.",
+    "titleDE": "Bundes-Cyberexperten nannten die Cloud von Microsoft einen „Haufen Scheiße“, stimmten ihr aber trotzdem zu"
+  },
+  {
+    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators ",
+    "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+    "description": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+    "pubDate": "2026-03-18T17:15:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Rebel Audio ist ein neues All-in-One-Podcasting-Tool, mit dem YouTuber Podcasts aufnehmen, Inhalte für soziale Netzwerke bearbeiten, ausschneiden und Episoden veröffentlichen können, ohne die Plattform jemals verlassen zu müssen.",
+    "titleDE": "Rebel Audio ist ein neues KI-Podcasting-Tool, das sich an Erstautoren richtet"
+  },
+  {
+    "title": "The Gemini-powered features in Google Workspace that are worth using",
+    "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+    "description": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+    "pubDate": "2026-03-18T16:43:18.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Vom Zusammenfassen von E-Mails über das Verfassen von Inhalten bis hin zum Organisieren von Daten und dem Verfolgen von Besprechungen finden Sie hier die besten Gemini-Funktionen in Google Workspace.",
+    "titleDE": "Die von Gemini unterstützten Funktionen in Google Workspace, deren Nutzung sich lohnt"
+  },
+  {
+    "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+    "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+    "description": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+    "pubDate": "2026-03-18T16:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Modelle der künstlichen Intelligenz vermehren sich schnell und der Wettbewerb ist hart. Welcher wird bei so vielen Spielern der Beste sein – und wer entscheidet darüber? Arena, ehemals LM Arena, hat sich de facto zur öffentlichen Bestenliste für Frontier-LLMs entwickelt und beeinflusst Finanzierung, Markteinführungen und PR ...",
+    "titleDE": "Die Rangliste „You can’t game“ wird von den Unternehmen finanziert, die sie bewertet"
+  },
+  {
+    "title": "This startup wants to make enterprise software look more like a prompt",
+    "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+    "description": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+    "pubDate": "2026-03-18T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen hat 12 Millionen US-Dollar an Startkapital aufgebracht, um ein KI-Betriebssystem für Unternehmen zu entwickeln.",
+    "titleDE": "Dieses Startup möchte Unternehmenssoftware eher wie eine Eingabeaufforderung aussehen lassen"
+  },
+  {
+    "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+    "link": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
+    "description": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+    "pubDate": "2026-03-18T15:58:50.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit der Serie A stellt Sequen seine proprietäre KI-Ranking- und Personalisierungstechnologie großen Verbraucherunternehmen zur Verfügung.",
+    "titleDE": "Sequen erhält 16 Millionen US-Dollar, um jedem Verbraucherunternehmen Personalisierungstechnologie im TikTok-Stil zugänglich zu machen"
+  },
+  {
+    "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+    "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+    "description": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+    "pubDate": "2026-03-18T15:33:49.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das KI-Kollaborations-Startup Cove wird geschlossen, nachdem sein Team Microsoft beigetreten ist. Der Dienst endet am 1. April und die Kundendaten werden gelöscht.",
+    "titleDE": "Microsoft stellt das Team der von Sequoia unterstützten KI-Kollaborationsplattform Cove ein"
+  },
+  {
+    "title": "The PhD students who became the judges of the AI industry",
+    "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
+    "description": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+    "pubDate": "2026-03-18T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Modelle der künstlichen Intelligenz vermehren sich schnell und der Wettbewerb ist hart. Welcher wird bei so vielen Spielern der Beste sein – und wer entscheidet darüber? Arena, ehemals LM Arena, hat sich de facto zur öffentlichen Bestenliste für Frontier-LLMs entwickelt und beeinflusst Finanzierung, Markteinführungen und PR ...",
+    "titleDE": "Die Doktoranden, die zu Juroren der KI-Branche wurden"
+  },
+  {
+    "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+    "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+    "description": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
+    "pubDate": "2026-03-18T13:40:43.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Verteidigungsministerium sagte, Bedenken, dass Anthropic „versuchen könnte, seine Technologie während „Kriegseinsätzen“ zu deaktivieren“, bestätigten seine Entscheidung, das KI-Unternehmen als Lieferkettenrisiko einzustufen.",
+    "titleDE": "Das Verteidigungsministerium sagt, Anthropics „rote Linien“ machen es zu einem „inakzeptablen Risiko für die nationale Sicherheit“."
+  },
+  {
+    "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says  The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
+    "pubDate": "2026-03-18T12:38:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Laut einem Verteidigungsbeamten plant das Pentagon, dass KI-Unternehmen auf geheimen Daten trainieren. Das Pentagon plant die Einrichtung sicherer Umgebungen für generative KI-Co...",
+    "titleDE": "Der Download: Die neuen KI-Pläne des Pentagons und Kernreaktoren der nächsten Generation"
+  },
+  {
+    "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+    "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+    "description": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter how much Nvidia insists that this pursuit of photorealism is still honoring the original artists’ intent.\nFollow along below for all the latest updates about Nvidia’s DLSS 5 upgrades.\nNvidia has lost the plot with gamers\n\t\t\t\nJensen Huang, on the critical reaction to DLSS 5: “Well, first of all, they’re completely wrong.”\n\t\t\t\nNvidia’s DLSS 5 is like motion smoothing for video games, but worse\n\t\t\t\nDLSS 5 looks like a real-time generative AI filter for video games\n\t\t\t\nNvidia just announced DLSS 5 and Digital Foundry already has a video.",
+    "pubDate": "2026-03-18T12:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nvidia hat ein neues „3D-gesteuertes neuronales Rendering-Modell“ namens DLSS 5 vorgestellt, das die Beleuchtung und Materialien eines Spiels in Echtzeit ändern kann, und … viele Spieler sind nicht zufrieden. Von DLSS 5-Memes bis hin zu Beschwerden darüber, wie „Resident Evil Requiem“-Charaktere in Demos „yassifiziert“ werden – der erste Eindruck ist nicht ...",
+    "titleDE": "DLSS 5: Ist Nvidias KI-Grafiktechnologie zu weit gegangen?"
+  },
+  {
+    "title": "What do new nuclear reactors mean for waste?",
+    "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury…",
+    "pubDate": "2026-03-18T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "MIT Technology Review erklärt: Lassen Sie unsere Autoren die komplexe, chaotische Welt der Technologie entwirren, damit Sie besser verstehen, was als nächstes kommt. Mehr aus der Serie können Sie hier lesen. Die Art und Weise, wie die Welt derzeit mit Atommüll umgeht, ist ebenso kreativ wie vielfältig: Ertränken Sie ihn in Wasserbecken, hüllen Sie ihn in...",
+    "titleDE": "Was bedeuten neue Kernreaktoren für den Abfall?"
+  },
+  {
     "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
     "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
     "description": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
@@ -10,36 +370,6 @@
     "titleDE": "Das Pentagon plant, dass KI-Unternehmen anhand geheimer Daten trainieren, sagt ein Verteidigungsbeamter"
   },
   {
-    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "description": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-    "pubDate": "2026-03-17T21:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit Mistral Forge können Unternehmen benutzerdefinierte KI-Modelle von Grund auf auf ihren eigenen Daten trainieren und so Konkurrenten herausfordern, die auf Feinabstimmung und abrufbasierte Ansätze angewiesen sind.",
-    "titleDE": "Mistral setzt auf „Build-your-own AI“, während es im Unternehmen mit OpenAI und Anthropic antritt"
-  },
-  {
-    "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-    "description": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-    "pubDate": "2026-03-17T20:50:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Tausende Menschen probieren Garry Tans Claude Code-Setup aus, das auf GitHub geteilt wurde. Und jeder hat eine Meinung: sogar Claude, ChatGPT und Gemini.",
-    "titleDE": "Warum Garry Tans Claude Code-Setup so viel Liebe und Hass hervorgerufen hat"
-  },
-  {
-    "title": "The Pentagon is developing alternatives to Anthropic, report says",
-    "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-    "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-    "pubDate": "2026-03-17T18:20:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nach ihrem dramatischen Streit sieht es nicht so aus, als würden Anthropic und das Pentagon wieder zusammenkommen.",
-    "titleDE": "Das Pentagon entwickelt Alternativen zu Anthropic, heißt es in einem Bericht"
-  },
-  {
     "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
     "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
     "description": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that would make her look at home in a Tilly Norwood video. The Hogwarts Legacy kids looked like they'd been wrung through an Instagram filter. Even Liverpoo …\nRead the full story at The Verge.",
@@ -48,16 +378,6 @@
     "category": "news",
     "descriptionDE": "Gestern stellte Nvidia seine neueste Upscaling-Technologie namens DLSS 5 vor, die es als „den bedeutendsten Durchbruch des Unternehmens in der Computergrafik seit der Einführung von Echtzeit-Raytracing im Jahr 2018“ bezeichnete. Hört sich gut an, bis man es tatsächlich sieht. Laut Nvidia verleiht die Technologie „Pixeln Ph...“",
     "titleDE": "Nvidias DLSS 5 ähnelt der Bewegungsglättung für Videospiele, nur noch schlimmer"
-  },
-  {
-    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-    "pubDate": "2026-03-17T17:17:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "BuzzFeed stellte auf der SXSW neue KI-gestützte soziale Apps vor, doch die Demos stießen auf gedämpfte Reaktionen.",
-    "titleDE": "BuzzFeed stellt KI-Slop-Apps vor, um neue Einnahmen zu erzielen"
   },
   {
     "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
@@ -80,16 +400,6 @@
     "titleDE": "Jetzt erhält jeder in den USA die personalisierte Gemini-KI von Google"
   },
   {
-    "title": "Google’s Personal Intelligence feature is expanding to all US users",
-    "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-    "description": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-    "pubDate": "2026-03-17T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit Personal Intelligence kann der KI-Assistent von Google auf Ihr Google-Ökosystem wie Gmail und Google Fotos zugreifen, um individuellere Antworten bereitzustellen.",
-    "titleDE": "Die Personal Intelligence-Funktion von Google wird auf alle US-Nutzer ausgeweitet"
-  },
-  {
     "title": "Bringing the power of Personal Intelligence to more people",
     "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
     "description": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
@@ -110,16 +420,6 @@
     "titleDE": "Unsere neueste Investition in Open-Source-Sicherheit für das KI-Zeitalter"
   },
   {
-    "title": "OpenAI expands government footprint with AWS deal, report says",
-    "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-    "description": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
-    "pubDate": "2026-03-17T15:37:03.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Berichten zufolge hat OpenAI eine Partnerschaft mit AWS unterzeichnet, um seine KI-Systeme für geheime und nicht geheime Arbeiten an die US-Regierung zu verkaufen, was eine Erweiterung über den Pentagon-Deal vom letzten Monat hinaus darstellt.",
-    "titleDE": "OpenAI erweitert die Präsenz der Regierung mit AWS-Deal, heißt es in einem Bericht"
-  },
-  {
     "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
     "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
     "description": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers.\nThe changes will see Microsoft AI CEO Mustafa Suleyman focus on creating Microsoft's own AI models, instead of working directly on the assistant-like features of Copilot for consumers. Suleyman first joined Microsoft nearly two years ago, after Microsoft hired a bunch of folks from Inflection AI. Months after Suleyman's hirin …\nRead the full story at The Verge.",
@@ -128,56 +428,6 @@
     "category": "news",
     "descriptionDE": "Microsoft führt heute einen weiteren Führungswechsel durch, um die Entwicklung seines Copilot-Assistenten neu zu organisieren. Verschiedene Teams arbeiten seit Jahren auf der Verbraucher- und kommerziellen Seite von Copilot, aber Microsoft ist dabei, Teile davon zu vereinheitlichen, um ein kohärenteres Copilot für Unternehmen zu schaffen ...",
     "titleDE": "Microsoft ernennt nach Umstrukturierung der KI-Führung einen neuen Copilot-Chef"
-  },
-  {
-    "title": "The future of code is exciting and terrifying",
-    "link": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
-    "description": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app. But even for the seasoned pros, the act of software development is changing fast - many people are writing less code themselves and instead spending their time managing agents and projects. So what does all that change mean, both for the code and the people who make it?\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, Paul Ford, a writer and entrepreneur and longtime tech thinker, expl …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-17T15:16:47.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Plötzlich scheint es, als wäre jeder ein Programmierer. Oder zumindest so, als würden sie eines in der Claude Code-App spielen. Aber selbst für erfahrene Profis verändert sich die Softwareentwicklung schnell – viele Menschen schreiben selbst weniger Code und verbringen stattdessen ihre Zeit mit der Verwaltung von Agenten und Projekten. S...",
-    "titleDE": "Die Zukunft des Codes ist aufregend und erschreckend"
-  },
-  {
-    "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-    "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-    "description": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-    "pubDate": "2026-03-17T15:16:21.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die KI-Investorin Rana el Kaliouby warnt davor, dass die Folgen schlimm sein werden, wenn Frauen von der Finanzierung und Führung von KI ausgeschlossen werden.",
-    "titleDE": "Der „Boys Club“ von AI könnte die Wohlstandslücke für Frauen vergrößern, sagt Rana el Kaliouby"
-  },
-  {
-    "title": "World launches tool to verify humans behind AI shopping agents",
-    "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-    "description": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
-    "pubDate": "2026-03-17T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Während KI-Agenten die Zügel für Online-Käufer übernehmen, möchte das unkonventionelle Startup von Sam Altman seine Verifizierungsangebote erweitern, um den Handel mit Agenten zu unterstützen.",
-    "titleDE": "World führt Tool zur Überprüfung von Menschen hinter KI-Einkaufsagenten ein"
-  },
-  {
-    "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-    "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-    "description": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-    "pubDate": "2026-03-17T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen sammelte 12 Millionen US-Dollar an Startkapital, um GPU-Leistungsspitzen zu messen und zu verwalten.",
-    "titleDE": "Niv-AI verlässt die Tarnung, um den GPUs mehr Leistung zu entlocken"
-  },
-  {
-    "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-    "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-    "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
-    "pubDate": "2026-03-17T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit dem neuen Produkt des Unternehmens namens Gamma Imagine können Benutzer mithilfe von Textansagen markenspezifische Assets wie interaktive Diagramme und Visualisierungen, Marketingmaterialien, soziale Grafiken und Infografiken erstellen.",
-    "titleDE": "Gamma fügt KI-Tools zur Bildgenerierung hinzu, um es mit Canva und Adobe aufzunehmen"
   },
   {
     "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
@@ -190,6 +440,16 @@
     "titleDE": "Der Download: OpenAIs US-Militärabkommen und Groks CSAM-Klage"
   },
   {
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "link": "https://openai.com/index/japan-teen-safety-blueprint",
+    "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "pubDate": "2026-03-17T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI Japan kündigt den Japan Teen Safety Blueprint an, der einen stärkeren Altersschutz, Kindersicherung und Schutzmaßnahmen für das Wohlbefinden von Teenagern einführt, die generative KI nutzen.",
+    "titleDE": "OpenAI Japan kündigt den Japan Teen Safety Blueprint an, um die Sicherheit von Teenagern an die erste Stelle zu setzen"
+  },
+  {
     "title": "Introducing GPT-5.4 mini and nano",
     "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
     "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
@@ -198,16 +458,6 @@
     "category": "news",
     "descriptionDE": "GPT-5.4 Mini und Nano sind kleinere, schnellere Versionen von GPT-5.4, die für Codierung, Tool-Nutzung, multimodales Denken und umfangreiche API- und Subagenten-Workloads optimiert sind.",
     "titleDE": "Wir stellen vor: GPT-5.4 Mini und Nano"
-  },
-  {
-    "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-    "description": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-    "pubDate": "2026-03-17T04:01:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der KI-Agenten-Marktplatz von Picsart wird mit vier Agenten starten und dann jede Woche weitere Agenten hinzufügen.",
-    "titleDE": "Mit Picsart können Entwickler jetzt KI-Assistenten über den Agenten-Marktplatz „anheuern“."
   },
   {
     "title": "Equipping workers with insights about compensation",
@@ -220,126 +470,6 @@
     "titleDE": "Den Arbeitnehmern Erkenntnisse über die Vergütung vermitteln"
   },
   {
-    "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-    "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-    "description": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-    "pubDate": "2026-03-16T22:45:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nvidia kündigte eine offene Enterprise-KI-Agentenplattform namens NemoClaw an, die auf dem viralen OpenClaw aufbaut.",
-    "titleDE": "Nvidias Version von OpenClaw könnte sein größtes Problem lösen: die Sicherheit"
-  },
-  {
-    "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-    "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
-    "description": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a dramatic leap in visual realism while preserving the control artists need for creative expression.\"\nIn games that support DLSS 5, the tools can immediately provide noticeable boosts to lighting and shadows, but unlike previous versions of upscaling that used machine learning to close the gap between high  …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-16T21:56:05.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nvidia kündigte DLSS 5 am Montag während seiner GTC-Konferenz an und basierend auf ersten Reaktionen wird es ein umstrittenes Update sein, wobei einige Reaktionen es als „Schlampigkeit“ bezeichnen, die die künstlerische Absicht inakzeptabel verändert. Jensen Huang, CEO von Nvidia, nennt dies den „GPT-Moment für Grafiken – die Mischung handgefertigter ...“",
-    "titleDE": "DLSS 5 sieht aus wie ein generativer Echtzeit-KI-Filter für Videospiele"
-  },
-  {
-    "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-    "description": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual abuse material (CSAM) when launching its \"spicy mode\" last year.\nThe plaintiffs include two minors and an adult who was underage when the events in the lawsuit took place. One of the victims, identified as \"Jane Doe 1,\" alleges that last December, she learned that explicit, AI-generated images of …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-16T21:44:11.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Drei Teenager aus Tennessee verklagen Elon Musks xAI wegen Behauptungen, dass der Grok AI-Chatbot des Unternehmens sexualisierte Bilder und Videos von sich selbst als Minderjährige generiert habe, wie die Washington Post zuvor berichtete. Die geplante Sammelklage, die am Montag eingereicht wurde, wirft Musk und anderen xAI-Führungskräften vor, zu wissen...",
-    "titleDE": "Teenager verklagen Elon Musks xAI wegen Groks KI-generiertem CSAM"
-  },
-  {
-    "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-    "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-    "description": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-    "pubDate": "2026-03-16T21:41:37.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Jensen Huang, CEO von Nvidia, sagte, er erwarte Bestellungen für die Chips im Wert von einer Billion US-Dollar.",
-    "titleDE": "Jensen Huang hat gerade Nvidias Umsatzprognosen für Blackwell und Vera Rubin in die Stratosphäre von 1 Billion US-Dollar gebracht"
-  },
-  {
-    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-    "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-    "description": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-    "pubDate": "2026-03-16T20:58:36.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Senatorin Elizabeth Warren stellte fest, dass Grok, der umstrittene Chatbot von xAI, schädliche Ergebnisse für Benutzer erzeugt hat und ein potenzielles nationales Sicherheitsrisiko darstellt.",
-    "titleDE": "Warren setzt das Pentagon wegen der Entscheidung, xAI Zugang zu geheimen Netzwerken zu gewähren, unter Druck"
-  },
-  {
-    "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-    "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-    "description": "Deepfake rumors started after social media users claimed Netanyahu is depicted in this video with six fingers on his right hand (seen left). | Image: Israel Government Press Office\t\n\nSocial media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee, only one thing is apparent: Reality used to be much easier to prove.\nThere's very little credible evidence to suggest that Netanyahu isn't alive. But credibility is a rare commodity now that AI can convincingly clone real people across image, video, and audio formats, so it's getting tougher to conclusively dispel the rumors. This …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-16T20:41:55.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Deepfake-Gerüchte entstanden, nachdem Social-Media-Nutzer behaupteten, Netanyahu sei in diesem Video mit sechs Fingern an seiner rechten Hand dargestellt (links zu sehen). | Bild: Pressebüro der israelischen Regierung Social-Media-Plattformen sind derzeit voll von Verschwörungstheorien, die behaupten, Benjamin Netanyahu sei getötet worden oder...",
-    "titleDE": "Benjamin Netanyahu kämpft darum, zu beweisen, dass er kein KI-Klon ist"
-  },
-  {
-    "title": "Memories AI is building the visual memory layer for wearables and robotics",
-    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-    "description": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
-    "pubDate": "2026-03-16T20:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Memories.ai erstellt ein großes visuelles Gedächtnismodell, das per Video aufgezeichnete Erinnerungen für die physische KI indizieren und abrufen kann.",
-    "titleDE": "Memories AI baut die visuelle Gedächtnisschicht für Wearables und Robotik auf"
-  },
-  {
-    "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-    "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-    "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
-    "pubDate": "2026-03-16T19:18:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die drei Kläger wollen jeden vertreten, dessen reale Bilder von ihnen als Minderjährigen von Grok in sexuelle Inhalte umgewandelt wurden.",
-    "titleDE": "Elon Musks xAI steht vor einer Kinderporno-Klage von Minderjährigen, die Grok angeblich ausgezogen hat"
-  },
-  {
-    "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-    "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-    "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
-    "pubDate": "2026-03-16T19:12:19.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nvidias neues DLSS 5 nutzt generative KI und strukturierte Grafikdaten, um Videospiele realistischer zu machen. CEO Jensen Huang sagt, der Ansatz könnte sich schließlich auf andere Branchen ausweiten.",
-    "titleDE": "Nvidias DLSS 5 nutzt generative KI, um den Fotorealismus in Videospielen zu steigern, mit Ambitionen, die über das Gaming hinausgehen"
-  },
-  {
-    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-    "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-    "description": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-    "pubDate": "2026-03-16T17:51:46.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die GTC ist die wichtigste jährliche Veranstaltung von Nvidia, bei der der Chiphersteller in der Regel neue Produkte, Partnerschaften und seine Vision für die Zukunft des Computings ankündigt. Huangs Keynote wird sich auf Nvidias Rolle in der Zukunft von Computer und KI konzentrieren.",
-    "titleDE": "So können Sie sich Jensen Huangs Keynote zur Nvidia GTC 2026 ansehen – und was Sie erwartet"
-  },
-  {
-    "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-    "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-    "description": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-    "pubDate": "2026-03-16T17:47:32.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Auf Drängen von Nvidia-CEO Jensen Huang entwickelte Frore eine Flüssigkeitskühlungstechnologie für Chips. Diese Verschiebung trug dazu bei, 143 Millionen US-Dollar einzusammeln.",
-    "titleDE": "Ein weiteres Deep-Tech-Chip-Startup wird zum Einhorn: Frore erreicht 1,64 Milliarden US-Dollar"
-  },
-  {
-    "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
-    "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-    "description": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
-    "pubDate": "2026-03-16T17:43:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Startup kündigte außerdem einen „Rettungsfonds“ in Höhe von 5 Millionen US-Dollar an, um Kreditgenossenschaften dabei zu helfen, veraltete Software für ihre KI-native Plattform abzuschaffen.",
-    "titleDE": "Fuse sammelt 25 Millionen US-Dollar, um die veralteten Kreditvergabesysteme der US-Kreditgenossenschaften zu stören"
-  },
-  {
     "title": "Where OpenAI’s technology could show up in Iran",
     "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
@@ -348,26 +478,6 @@
     "category": "trend",
     "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Es ist etwas mehr als zwei Wochen her, seit OpenAI eine umstrittene Vereinbarung getroffen hat, die es dem Pentagon erlaubt, seine KI in geheimen Umgebungen einzusetzen. Es gibt noch Presse...",
     "titleDE": "Wo die Technologie von OpenAI im Iran auftauchen könnte"
-  },
-  {
-    "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-    "description": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. \nAccording to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much of Britannica's copyrighted content and will output near-verbatim copies of significant portions on demand. The memorized examples are unauthorized copies that [OpenAI] used to train their models, including GPT-4.\" \nThe lawsuit goes on  …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-16T17:04:06.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Am Freitag reichten die Encyclopedia Britannica und der Wörterbuchherausgeber Merriam-Webster eine Klage gegen OpenAI ein und behaupteten, dass das Unternehmen seine urheberrechtlich geschützten Inhalte zum Trainieren seiner KI verwendet und anschließend Antworten generiert habe, die ihrem Inhalt „im Wesentlichen ähnlich“ seien, wie Reuters zuvor berichtete. Laut Bri...",
-    "titleDE": "Encyclopedia Britannica verklagt OpenAI wegen angeblicher „Auswendiglernen“ seiner Inhalte mit ChatGPT"
-  },
-  {
-    "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
-    "link": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
-    "description": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo.\nIt’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since. You’ll hear Jim refer to that deal as Yahoo’s original sin, actually. After a long series of mergers and spinouts and an extremely odd moment where it was part of Verizon, Yahoo is once again an independent, privately held company. And it has big properties in sports and finance, and, against all odds, email, where it’s growing with young people. Gen Z loves Yahoo Mail, people. You heard it here first.\nAll of that means Yahoo is profitable and growing, according to Jim, but I still had some big questions about where that growth is going. Yahoo is still the third-place search engine and it just launched a new AI-powered search called Scout, but are they really trying to take market share from Google? Is the big investment in traditional advertising a good bet when creators and influencers are taking up so much attention? And with so much of both sports and finance turning into straight-up gambling, does Jim have any red lines he won’t cross with two of the biggest apps on the internet?\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThere’s a lot in this one, including some wild Decoder org chart terminology and what amounts to two people with a long history on the internet trying to come up with ever deeper references to old memes. It’s a ride, and Jim was pretty much game. \nJim was also a huge nerd about ad tech, and we used a lot of vocabulary talking about his decision to shut down part of Yahoo’s ad business and invest in the part that’s growing. Here’s a quick rundown — feel free to come back to this if it’s too wonky, I promise you’ll get it, it’s not that hard.\nA supply-side platform, or SSP, is tech that an app, site, or platform can use to sell space to advertisers. You’ve got inventory — that’s supply — and advertisers use the SSP to buy that inventory. Yahoo had a big SSP, but Jim shut it down a couple years ago in favor of investing in the demand-side platform, or DSP, which works the other way around: An advertiser says it wants to reach a certain number of people, and then the platform does automated auctions across sites and apps to display the ads. This is the big money — it’s how Google makes so much money on the web, for example.\nA big DSP doesn’t just deliver ads on the web or in apps, either. You’ll hear Jim talk about CTV, which stands for connected TVs. All those ads in streaming apps? Delivered by big DSPs, including Yahoo’s, which works with Netflix and Spotify.\nOkay: Jim Lanzone, CEO of Yahoo. Here we go.\n\n\nThis interview has been lightly edited for length and clarity.\nJim Lanzone, you are the CEO of Yahoo. Welcome to Decoder.\nGreat to be here.\nI’m excited to talk to you. My personal story is wrapped up in the thing that is now Yahoo that you operate. I once worked for AOL, which got smashed into Yahoo in a series of acquisitions. I know you are thinking a lot about what Yahoo is today and the future of the web and its relationship to the larger networks that we all operate on. So I think there’s a lot to unpack there.\nI do want to start with my personal history with Yahoo, because I got my start in tech journalism at Engadget at $12 a post when it was owned by AOL. This was a very odd time in media that that was a thing you could do. And just last week, you announced that you are selling Engadget to a thing called Static Media. Take me inside that decision to sell Engadget. You just sold TechCrunch. What’s going on here?\nReally it was the last non-Yahoo brand to be sold. Since we were spun out of Verizon in September of 2021, we’ve been in the process of rationalizing the portfolio and what makes sense going forward. I’m sure we’ll talk about it. \nBut that goes all the way back to, “Why are we still here after all these years? What’s our right to exist? What’s our right to win?” And really the long story short of that goes back to the original mission of the company: being the trusted guide to the internet. In 1995, that meant helping you find websites. In 2026, it can mean all kinds of different things. But that’s where we’re strong. That’s where we’re still strong after all the things the company went through over the years. \nWhen we got here, there were still just a lot of things going on. We had a content delivery network business. The company had drifted very far into all kinds of media and away from its history as more of an aggregator and place to help you find where to go for that media. And again, we can talk about what we think about that. But between TechCrunch, Rivals, which we sold, Engadget, and a lot of other small properties, ultimately also AOL, we sold back in Q4, so on the one hand, it’s about focus. And on the other hand, when it comes to properties like TechCrunch and Engadget, if you think about what we do while we do media, it’s really to provide context for the products that we’re operating in those categories. We’re not the place to go for breaking news. And that’s why Engadget and TechCrunch found homes with, in both cases, families of brands that were either tech-focused or media-focused and really do that kind of journalism, which is really not what Yahoo does.\nI want to dig into that for just one more turn. I think “we’re not the place for breaking news,” that has a different valence when you talk about that in the context of sports and finance.\nProducing that news or enterprising that news, right? Versus being the aggregator for other people who are doing it.\nThat’s the other piece that I’m really curious about. Yahoo bought Artifact, which was a really great AI-powered news app that was started by the founders of Instagram. I’ve talked to Mike Krieger and Kevin Systrom about that over the years. One of the reasons they got out of that business and sold it to Yahoo was they were like, “There isn’t enough web to aggregate anymore. News on the web is a declining thing and actually all the action is on social. And as Artifact, we had no access to all of the other platforms on social.” \nYahoo is an aggregator. I’ve heard you say that before. It’s what you’re saying now. The value here is bringing everything together and providing an audience. Are you running out of web to aggregate? Because this is, to me, the defining problem of our moment right now.\nWe’re particularly passionate about that. And I’m sure we’ll talk about our AI search engine that we launched, but that’s a big part of the thesis behind that as well. Our core value of that product is doing right by publishers in the open web. \nBut I actually think that their biggest issue with Artifact was audience, which is the challenge a lot of people have. It’s really hard, especially in news, to build an audience of scale, whether in 2024 when we bought Artifact or today. And so it was a very small user base for a very awesome product. And that product was an aggregator. I think it actually did hit a lot of sources. We hit a lot more with Yahoo. It’s thousands of publishers.\nHaving direct deals with publishers to have their content aggregated with us has actually been part of the history of the company going back two-plus decades. We send them traffic, and in many cases, share revenue. That’s always been part of the history of Yahoo and what it did well. There are a lot of things that didn’t happen, that didn’t go well. But when we walked into the company, where it was still strong was where we were still doing that in categories that mattered. \nArtifact was our admission that what we inherited was probably not the best foot forward for being a great product in that space. We were all fans of Artifact; I was, personally. Usually, when you make an acquisition like that, you munge them into the Borg, to the mothership. We did the opposite. We actually just put the Yahoo logo on the Artifact app and started from there and just admitted it. \nOne of the things that Yahoo does best is we are very large. We have a massive audience. And we can turn that fire hose on great products if we build them. That’s part of our thesis for how we would grow this business, which admittedly has been a big turnaround.\nThis is well before your time, but when we started The Verge in 2011, our first big syndication deal was with Yahoo and our first major traffic fire hose was the yahoo.com homepage. And I would sit around trying to figure out what stories would get placed there. I had all these conversations. Basically, the answer is, “you’re never going to know.” So then we did all this data analysis and we found out that the Yahoo algorithm loved stories about fish. I’m not kidding. It was literally fish.\nI believe this.\nAnd on Fridays, because I’m from Wisconsin, we would have Fish Fridays at The Verge and we would literally search for fish technology stories and collect all this Yahoo traffic. And this probably has more impact on my thinking about how to run a media property, even now in 2026. Like you shouldn’t do that.\nIt’s all about the fish.\nRight. Yeah. The Verge is shockingly about fish under it all. It’s really just about fish. [laughs]\n[laughs] Yeah. Yeah.\nThe thinking was, “If I play to this algorithm, eventually it will go away. This cannot be sustainable. And so we have to build something that’s sustainable on its own terms and collect all the algorithmic traffic along the way.” That’s still my worldview: We can chase SEO, but SEO is going away for people. We could chase whatever Instagram trend and switch from Stories to Reels, back to the carousel, whatever Adam Mosseri wants us to do, but that’s unsustainable. \nI’m asking this question about aggregators and selling the newsrooms to you because I’m wondering if Yahoo as an aggregator of audience can be sustainable for those newsrooms. Because what I’m seeing is that Google as a source of traffic is going away. Twitter or X doesn’t send links to anyone anymore, so as a source of traffic, that’s going away. The referral to the newsrooms is in decline. \nAnd when you just look at the state of the universe, the tech media is in decline. Media is in decline. Newspapers are getting shut down. In that position as an aggregator, do you think about that dynamic? “If we’re not sustainable, we will not actually have enough stuff to aggregate”?\nLook, Yahoo has clearly gotten something out of being the aggregator over the years, so I’m not saying it’s completely selfless. But going all the way back to the beginning, Yahoo’s role was to help people find websites, right? And then apps, and then stories over the years. But we have taken that really seriously here, that it’s our job to help send traffic downstream, to help you build that brand. We’re in the same spot. I mean, we have SEO and we definitely are in the same position. And then thankfully, over 70% of our visits are direct. And we’ve built that side of the business. \nSo I understand what you’re saying, and I do think it’s under threat. I think that the LLMs are one big reason that they’re under threat, with AI mode in Google being the biggest challenge. It’s probably pie in the sky, but I have some history in search and have seen this happen before with some things that my team built. \nI’m okay if the industry copies some of the things that we just did with Yahoo Scout, where we have very purposefully highlighted and linked very explicitly and bent over backwards to try to send more traffic downstream to the people who created the content that was digested by the LLMs to create the answers that they’ve been giving with chatbots. Ours looks a lot more like traditional search and it is more paragraph-driven. It’s not a chatbot that’s trying to act like it’s a person and be your friend. \nBesides the issue of ads, which we can also talk about. That Claude ad, that creepy interface with the chatbot, we don’t do that. But we do explicitly link a lot to publishers. We’re hoping that not just for us, but for other engines in the future, that becomes more of the user interface for these things. Those publishers deserve it, and we’re not going to have the content to consume to give great answers if publishers aren’t healthy.\nI actually think Google would have wound up with a much more similar  interface if they’d been first out of the gate. Once ChatGPT beat them to market, however that happened, they had to play catch-up to avoid people bleeding out over to ChatGPT. I empathize with why they did it, but I’m hoping that’s not where the industry winds up.\nYou can see Google is walking a complicated line now with their publisher relationships, with how many links are in their results, how they integrate advertising. On the same token, you can see ChatGPT and OpenAI are walking a complicated line as well, right? They haven’t quite figured out their advertising experience.\nBut they wound up there, I think, not by accident. They were built by researchers. And so, of course, the first user interface had a bunch of citations. It looked like somebody at a university had written a research paper. We backed into that being the interface for what this should look like by accident. But that’s not how it has to look and operate in order to give great answers. I think we can do more to send traffic downstream, and we’ve tried to do that. It’s still early, so maybe that’ll wind up in more of the products. It certainly needs to, for advertising to work.\nI think that’s my other question here. I know you’ve done a lot on the advertising side of the business. You’ve sold off some pieces, you’ve rethought some other pieces. I want to come to that. But let me just ask about that dynamic of sending traffic downstream. That’s not what any of your competitors are doing. They’re holding more and more traffic within their walled gardens. They’re creating more and more formats. They’re all converging on being scrolling video. You can just see it, right? Everything turns into a crab in the end with convergent evolution.\nYou haven’t quite done that. There’s bits and bobs of it on Yahoo properties, but you haven’t fully taken the approach of, “Okay, we’re going to wall this garden off. We’ll buy the content. We’ll put it here. It’s all one experience and then we can change it however we want.” You seem committed to sending traffic downstream. Where does that come from? Is that just a personally held belief? Is that idealistic? Or is there a business reason for that as well?\nI think it can be all of the above in this case. We could be just being Pollyanna about it or think it’s a differentiator or whatever. But first of all, we think people want to go downstream to the publishers. Second, we think actually being able to check the sources or follow up and go get more information is an extremely high user need. It’s core to the user need in search, which is really where we are playing. \nWe’re not a large language model. We’re not going to be the place you come to code. We’ve really launched Scout as an answer engine. Part of that is the traditional role of a search engine. We’re also launching integrated into our search engine experience. So it is more similar to that from the get-go. \nBut it is also a core value of our products, for sure. We’ve had to do a lot of rethinking. The Yahoo homepage that we inherited in 2021 had drifted over the years towards being a more clickbait newsfeed and away from being a portal, and I have a lot of empathy for how that happened. We could dig all the way into the history of the company. I think it goes all the way back to the original sin of giving search to Google, which is what happened. It is a misnomer that it was beaten by Google. Yahoo didn’t even do search. They did an enterprise deal.\nRight. Powered by Google.\nIt would almost be like if Google today, on every search results page, linked to ChatGPT with a logo for ChatGPT and paid ChatGPT for the privilege. That’s what Yahoo gave to Google in June 2000. From that point forward, it was a struggling company against the trends at Google and then Facebook. And then as a struggling public company, it was just hard to make the right choices. But during that time, it drifted from the portal experience, which I think a lot of people really valued — just probably not as many as valued Google. And so there was a lot of fog of war there.\nBy the time we picked it up, it was really this newsfeed. And we think people want more utility in our homepage. They can go downstream to News or to Sports or Finance, but in that place, so it is more of an aggregator. \nThat is also one reason why you will see short-form video, because that actually has become a valid way to consume news and information. But we think that aggregation is something people really want from us. And to do that well, we’re not going to be the ones creating all the content ourselves. We have to partner with publishers and send them traffic.\ntThey did not ask permission for the content that went into the original large language models. Even today, everybody still needs Google to get out there. You can ask people to stop crawling you, you can send a cease and desist, but it’s very hard to prevent it. But in that original version of each large language model, the content was just taken. And yeah, I think that was wrong.\nThe reason I’m pushing on this so hard is, one, I think it’s refreshing to hear an aggregator talk about supply in this way. It doesn’t happen very often. And all of your biggest competitors, one, they’ve all pivoted to video. In whatever way, they’ve pivoted to video. But if you look at the biggest aggregators, and they look like social platforms for the most part, they pay nothing for their content. \nInstagram pays nothing to Instagram influencers. It’s all brand deals up and down. X has whatever revenue sharing X is doing, but it’s so odd and it incentivizes such weird things that I don’t think it counts for publishers. YouTube rates are falling. If you ask people who make YouTube Shorts, they’re not making enough money on YouTube. The dynamics of Google, Google never paid for the content. The original sin of the publishing business was Jonah Peretti’s belief that he could go so viral with BuzzFeed that Facebook would be forced to pay him money in some sort of cable carriage deal situation that never came to pass. \nAll of these publishers have hit the rocks in some way. They’ve all landed on, “the users will make us the stuff for free.” All these companies are differently positioned, they compete in different ways, but if you just look at it and squint, they’re all like, “We should pay nothing, because the users will make the videos for free. There’s an army of teenagers who will show up here no matter what we do.”\nAnd you’re saying, “No, we should pay some money for content from some of these newsrooms because there’s some user demand.” How does that margin work out for you? Where is everybody making money here?\nWell, in our case, there are rev shares. So we’re not writing a check to own the content. It really is our social contract. And remember, search also had a social contract, which is, “you let us crawl you, and then we’ll have a snippet, and then we’ll send you traffic.” And in search, that is what we’re trying to get back to and get the industry back to. \nFor the rest of Yahoo, I’d say the difference is that, in every product you just named, publishers are creating bespoke content that is for that platform — a tweet, an Instagram post, a YouTube video — in the hopes that you’ll either aggregate audience there and/or they’ll start to build brand to bring it back to your own property.\nIn our case, you’re consuming some of that content with your brand there, as you know from the fish days, and then it leads you downstream. So it’s just a different model. And in our model, it is much more the content of the publisher, versus you creating a product for me, which is really what everyone’s doing everywhere else.\nLet me just bring this back to Engadget and TechCrunch for one more turn. And then I want to talk about how you’ve structured Yahoo and, in particular, what you’re doing on the advertising side, because I’m very curious there. Do you think as you exit this space where you run newsrooms and editorial teams, that those cost structures are long for this world? It can’t just be Yahoo syndication deals that support all the newsrooms of the world, right? There has to be some set of other monetization, some set of other revenue, some diversification.\nYou were operating these businesses. You chose to be out of it. Is it just because you didn’t see the business opportunity for them? Or is it you just didn’t want to attack those problems?\nThe content you’re creating and the cost structure of that have to be congruent with the kind of advertising you’re pulling in. So if it’s all programmatic, you can’t staff premium or produce premium. Businesses along the way have gotten on the wrong side of their P&L because of that. They staff premium and monetize at a very low CPM. It’s wrong to say that we’re not in content, because it’s just the kind of content we’re creating. Our three pillars for product are superior aggregation, proprietary data sets, and what we call anchors for context. So that really is content for context.\nWe’re doing a lot of content in sports. We’re doing 60 hours a week now of original video. Same thing in finance. We’ve been building that muscle. We have the number-one NBA podcast with Kevin O’Connor. We have the number-one MMA podcast with Ariel Helwani. We do a lot of content. But it is not breaking news content. \nWhen I got here, we had a White House correspondent. We were competing with the Associated Press, and that is what we really wanted to get out of. If you think about TechCrunch, it said right there in the handle on Twitter. It was like, “Send us scoops.” And they were breaking news, sometimes about us, which is fair.\nBut I remember they were doing that in Tim Armstrong’s days as well. And that’s great. But it’s just not the kind of content we’re producing. Shams Charania in sports and Adrian Wojnarowski before him in the NBA, they started at Yahoo during that time period. And we just thought, look, that news is going to break and it’s going to be disseminated very quickly, and you won’t usually get credit for it on ESPN. They won’t always say on SportsCenter where that news was broken. And then of course, then they wind up stealing those guys and paying them $10 million a year. So it’s just like a game that we decided that’s not what people are really coming to us for. It’s really more to be the aggregator, and then we can provide great context. \nIn sports and finance, it’s also a little bit different in that not only are we aggregating, but we have products that are extremely important, like Fantasy. We’re one of the top two platforms in the original and Fantasy and Sports. We have all these new Fantasy games that we’ve been launching. And of course, in finance, we are still the number one for tracking your portfolio and getting research and information about it. Whether it’s Brian Sozzi and his team on Finance, or it’s KOC and that stuff on Sports, we’re providing context to the actions that you’re going to be taking in those verticals.\nDon’t worry. We’re going to come to the collision of sports and finance in one second here. \nThis is a great spot for the Decoder questions. I actually want to ask you this. You’ve been CEO for a minute now. Yahoo has been through all kinds of twists and turns. At one point, it was squished into something with AOL at Verizon called Oath, which was deeply confusing. You became CEO after Apollo Global bought the company. It’s a private equity firm. Very few people are ever going to think to themselves, “I should be the CEO of Yahoo,” and then interview for that job. Walk me through that. What was the pitch? Did you make a deck? How did it work?\nIt was very different, actually. They bought it in May 2021. It closed in September 2021. And they talked to a lot of different people around the industry, people that you know, that I know, about doing diligence on Yahoo and whether they should buy it. I competed against Yahoo at basically every stop of my career. I knew every executive team. I went head-to-head with them over the years. I’d partner with them on certain things over the years. \nI always thought it was the granddaddy of all turnarounds, and I’ve been part of a few of them. I’ve just grown to love doing them. And in my case, I wanted to run towards the fire. I was very much of the mind that it was a great deal to do if you could get it for the right price, .\nOnce that deal closed, the conversation immediately turned to whether I would be interested in running it. And I definitely was. So there was no pitch deck other than my advice and input along the way to buying it. And then over that summer, before they closed, it wound up being a negotiation of me coming on to run it. I’d been at other companies where we’d thought to ourselves like, “Oh, I wish we could take our executive team over there and compete with them with those assets. Let’s see how that Olympic race goes.” We wanted to try that.\nIt was almost 30 years in the making. I was getting it at a very different time than if I’d gotten it in 2010 or 2005 or some other time. But the assets were still extremely strong. And yeah, I do also understand the part of your question, which is PE. And do people in my position normally want to go do that? \nI’ve been an entrepreneur. I’ve started two companies. I’ve worked for media moguls. I’ve done all kinds of things. And my view on that is just, you’ve always got to serve somebody; it’s your board, it’s the public markets, it’s a really hard boss, whoever it is. And I felt like Reed Rayman, who was the partner at Apollo who did the deal, was a really smart, really good guy, and that we would be really good partners, whether private equity is behind it or VC or anybody else.\nWell then, actually, let me ask you about the PE piece of it, because you’re right that I’m very curious about that. Usually, a PE firm buys a declining asset to just ride it on the way down. Everything you’ve talked about so far is growth, right?\nHave they provided sufficient capital to reinvest in the business, or are you just moving money around through cuts and reallocations?\nI’d say two things. One is that they actually have been providing capital. In fact, I was in a meeting this morning where they were offering capital to do big things that we were talking about. \nDoes the ominous music play when the private equity firm offers you money?\nNo. If you met Reed, you wouldn’t think about it like that.\nIs it like the devil’s advocate?\nNo. We have a deal team that’s not like that at all. And I don’t know about other PE… I have not worked with other PE firms.\nSure.\nNo, they’ve really always wanted to swing bigger. If you go back to when I started, it was still the heart of Covid and the crypto boom and stonks, and there was one boom period, and then things dried up for a bit, and then the AI boom. We’ve gone through this. And so what we’ve looked at doing with that capital has been different. We’ve wound up buying smaller things along the way instead of bigger things, but they’ve been very up for the bigger things and trying to make this a much bigger outcome along the way.\nWe have tended to make our own fuel. So I promise you there’s not been one reduction here that hasn’t been strategically decided by my team, gone to Apollo, and said, “Hey, we’re going to do this.” We shut down two really big money-losing ad tech parts of the company, and that was all our team trying to do that. So we are, I’d say, profitable to very profitable, and we don’t need to make a dollar more than our budget to satisfy the PE gods. It’s agreed upon every year in our planning process what that’s going to be.\nAnd certainly when we made the changes to the revenue engine, it was a little dicey there for a year. That was the “Indiana Jones replaced the gold” situation and they had to take a leap of faith with us on that. But we’ve not been through any PE-driven cost-reduction exercises or anything yet.\nI’ve seen a quote from Apollo saying Yahoo is the fastest return on investment that they’ve ever had. I know you’re a private company. What is that return? Is it healthily profitable? Is it just a dollar more than they spent?\nNo, very profitable. And look, we don’t disclose revenue, but it’s in the billions. That number’s moved around as I’ve moved out a lot of bad revenue with those ad tech companies that are driving a lot of top line but not a lot of bottom line. AOL was a lot of revenue and profit and that went out. \nBut it is in the billions of revenue. It is very profitable. It’s not profitable by a dollar. For a company that really paid the price for being a struggling public company for a long time, right into the teeth of some big competitors coming along to eat its lunch, it’s been good to be private along the way, whether we’re owned by PE or not, to be able to make a lot of these changes. It’s in a very healthy spot financially.\nLet’s talk about those changes. I’m actually going to ask you the two Decoder questions in reverse order than I usually do. You’ve made a lot of decisions. It does not sound like you ever sat down and opened up Google Docs and said, “If I ran Yahoo…” and made a bullet list. But you’ve made a lot of decisions, including the decisions to exit some businesses. How do you make decisions? What’s your framework?\nHaving watched your podcast for a long time, I knew that question was coming, and I just didn’t want to come up with some bullshit answer. Because I’ve heard some, and they sound like they’re trying to write a chapter for Peter Drucker or something. I’m just not going to try and do that. \nI’m the wrong CEO for an enterprise software company. I’m the wrong CEO for a food company. But I’ve done consumer internet my entire career. I’ve started them, I’ve taken over big ones, I’ve seen everything you could see in this industry. And it’s very easy to make decisions. I think it’s harder to get the information for it. I think my team would tell you that I’m very quick to make decisions. I would rather they have done it themselves, and we can talk about the org structure and why that is. I’m the editor-in-chief myself for what happens here. \nThe framework is definitely through the lens of our mission. I don’t have a set of Enron values on the wall, like integrity, that mean nothing. We have a view on that as well. So that’s not really how it happens. But it really is through the lens of why we’re here, what we’re trying to do, what our plan is for the year. \nMy job at the end of the day is growth. You could dress that up any way you want. That is my job. I think that’s a job of any CEO, even if you’re a Series A company.\nAnd so that lens for what we’re trying to do is pretty easy. We know who we are and what we need to be. And we know what the spine of the book is and the pages that are starting to come off of that as we go forward. The first two years I was here, it was the transformation period. It was not only getting us through Covid and all of that and extracted from Verizon, we actually had to stand this company back up. We’re not the same Yahoo. This is a new company — that, PS, [original Yahoo cofounder] Jerry Yang invested in, he was one of our investors — that we put the name Yahoo back on. \nAll the transformation work that happened the first couple of years got you to the point where you could earn the right to start improving the products again. Because at the end of the day, we are a product company and these things had to not suck, let alone get to be good.\nAnd now, we’re in, I’d say the third phase, which is starting to take shots on goal. And so the decisions are always going to be different as you go through those phases.\nThis is the other question. You have talked a lot about restructuring the company, getting rid of pieces you didn’t need anymore. How is Yahoo structured today and how did you land at the decisions that brought you to that structure?\nIt is a conglomerate or portfolio structure. I accidentally backed into the structure years ago at another company. This is actually the fourth conglomerate I’ve been a part of, starting with IAC, which bought Ask Jeeves back in the day.\nYou have a thick skin, my friend.\nIn that case, it was 60 companies that had been brought together by acquisition, most of which had nothing to do with each other. And they went through a period of trying to turn it into an operating company with a common backend with Jack Welch as the advisor,. That just didn’t work because Ticketmaster had nothing to do with Ask and search had nothing to do with LendingTree or the catalog business. There were just so many different parts of IAC that just weren’t similar.\nBut in my CBS days, all the brands were consumer internet companies. At first, because I was always a product leader or founder, I was the pig in slop. I was like, “Oh, great. These 25 brands all get to report to me, including Fantasy. I started playing Fantasy on SportsLine, and okay, I get to run that now.” \nAnd within like a year, it just became clear I was holding everything up. I couldn’t have 25 direct reports. I organized them into groups that were similar, with general managers in charge of each business. That structure worked great. We came to call that federal and state, that there were governors of every state that had their own economies, usually their own location, their own culture, and that was fine. And at the federal level, there’s no reason to have two IRSs or two FEMAs, across finance and legal and HR and some other things.\nCan I just tell you, you’re killing me. Do you know what Tim Armstrong’s reorg at AOL was that basically inspired us to all leave and start The Verge?\nNo!\nIt was cities and towns. He put up a big sign over Engadget that said “Tech Town.” And I was like, “I’ve got to get out. I can’t be living in Tech Town, dude. I’ve got to bail.” But I understand the metaphor.\nIt’s funny too, because you say all that, and that is the structure we had here. I inherited this big matrix organization where nobody owned anything. There was one head of content across everything. There was one head of product across everything. And what you lose there is you don’t have experts who are focused, who you hire them to be the CEO of their own business and they want that. Every one of my general managers has an entrepreneurial background and usually a product background. And then they want to run. You’ve got to let them run and be a little inefficient at the edges by having their own engineering teams, their own design teams, their own content teams.\nAnd then we will assign to them people in sales and marketing and PR who are experts at that area, but who roll up to a central person. And so that model worked amazingly well, because you can get real efficiencies at the center and expertise at the center. I don’t think efficiency is the name of the game here. It’s excellence and growth. So you hire great people to do those things, and then I’m the editor-in-chief at the center of all those. \nAnd we do have patriotism across all the brands. It’s a lot easier at Yahoo where we have one central brand. But that’s the structure.\nWhat I’ll also say though is, structure is not everything. And at these big companies, you could be this big matrix Borg or you could be the GM model that we run. It always comes down to the people. I honestly think that where you see problems, it’s not just the structure, it’s not just the culture that you inherited, it really is the people and what they’re good at. If you don’t hire real domain experts who have high EQ and are really good teammates to each other, you’re going to wind up with a cesspool anyway, or people who don’t know which way to run.\nOur people are just awesome. That was true at the last company, and that’s why we succeeded in doing the turnaround, and then got to the point where we could launch new products that were really groundbreaking. In that case, it was CBS All Access, which turned into Paramount Plus. Who would have thought Yahoo is going to launch an AI search engine? And we have some other bets that we’re making. People are what it really comes down to at the end of the day.\nI know you have three divisions: News, Sports, and Finance. Tell me about how they operate together. Is it all three of those get to do whatever they want, and at the top, you’re saying, “Actually, we need an AI search engine that goes across these things.” Or do they have harmonized product roadmaps? How does that work?\nBelieve it or not, those are not the divisions. \nThose are also divisions. So we have GMs on each of those. Some roll up to Matt Sanchez, our COO. So he has the home business, the search business, email, which is, in many ways, our most important historical business, and our DSP, as well as monetization that goes across that, loads up to Matt. Ryan Spoon runs what we call the Yahoo Media Group. And that has Today, Sports, Finance. And then I’ve talked publicly that there’s a third leg of the stool, which is, we definitely probably have a right to go deeper into video in a nonfiction way across the verticals where we’re strong. News Today rolls into the home business just because they were so intertwined. But theoretically, it could be one or the other.\nAnd then again, every one of those businesses has a GM who really has the business plan, the P&L, the resources to run their business. And then sidebar to that, we’ll have a CFO or the chief revenue officer with the sales team, et cetera. So that is how it’s structured. \nIf you were to talk internally, there actually is incredible harmony across those businesses. Yeah, they brawl sometimes over traffic from the homepage or something to do with the content management system or the monetization. But for the most part, I actually think you’d get pretty unanimous feelings about how we operate together.\nI think they would all sing from the same playbook. When people interview with us, they always comment about how everyone is speaking off the same playbook. We actually do have a pretty good working structure together.\nTalk to me about the monetization piece. And I want to get into how you invested in your demand side platform for ads. If I’m looking at news and sports, I would say, “Well, we’re just going to do gambling now. That’s the money.” This is when I say finance and sports are colliding, right? The feeling that we’re all just gambling seems to be infecting everything over there. You have a deal with Polymarket and others. \nBut then you have this big investment in just what feels like traditional display advertising, which is not an investment that other people are making at scale. Why are you still so invested there? Is that growing? Are you just holding serve? And then how do you think about, well, we should just do casino?\nI don’t want to be long-winded with the answer. \nGo ahead. Take your time.\nThe entire company we inherited was monetized through this group that was a three-headed monster of native advertising, a supply-side platform, and a demand-side platform. You had to buy all three, and the Yahoo consumer businesses had to only get revenue from that group. If you think about the SSP, it was the Yahoo SSP, we couldn’t go out and play the field on an auction from Trade Desk and from Google and from others. So that was part of the decision there; we were leaving a lot of money on the table on our own consumer properties. \nThe native ad business was just declining over time and something that was taking up a lot of resources. That included an extension of our Microsoft partnership on search advertising, which is another way we make money. We did all of these things. So we extended Microsoft. We shut down the native business. And we took 25% of Taboola and we outsourced it to them, because it was a lot of money. We shut down the SSP. There were people who wanted to buy it, but we would have had to give them preferential treatment and we wanted to be able to play the field on yield on all of our pages. \nBut the DSP was underinvested in, but was the crown jewel. It was a place where we thought we had a right to win. The vast majority of the impressions through the DSP control center are not Yahoo. It’s less than 10%. And you can get anything through there. CTV, Netflix is in there, Spotify is in there. \nThe differentiator for it is something that’s a differentiator for the whole company.When we inherited the company, it was like we discovered oil underneath it, which was this data gold mine of first-party data due to these direct relationships; 75% of our DAUs are logged in, so we really do know our users. And you cluster that information and you either target on Yahoo proper or you take it to go across when you buy through the DSP. We are incredible at conversion and outcomes.\nThat really is why I think Yahoo is still a very underappreciated asset and would be for anybody. We win nine out of 10 head-to-head tests against people on the DSP side. And again, I think on the Yahoo proper side, it’s even bigger. \nSo yes, we are selling premium ads for March Madness and World Cup on Sports. Yes, we’re doing partnerships with Polymarket and others. BetMGM has historically been the gambling partner for the last seven years. It was a deal Verizon did that’s just coming up at the end of this month finally. Polymarket was just to fill in the blanks of the markets where we didn’t have that deal, so we’ll see what the partnerships look like going forward.\nThe vast majority of our revenue is on the back of our premium properties, either through highly targeted advertising, subscriptions, and then down funnel into search, which we should talk about separately.\nI want to come to search. I just want to unpack the demand side piece of the puzzle, right? This is where advertisers log in to buy ads and then you can go address a bunch of stuff, whether that’s display advertising on Yahoo and then you’re saying you can even get to Netflix. I think you have a deal with Netflix to help them sell their inventory because they stood up that business so fast. I’m legitimately curious about the formats you see growing there, right? Is it display? Like everywhere else, banners and boxes are in decline, and all of the money is moving to influencer brand deals. I get consumer or tech companies on the show all the time.\nThe CEO of SharkNinja was on the show and he’s like, “I built my business with influencers. And we had this massive data set of sentiment analysis from the influencers we work with to figure out what blender we should make next.” And that is a crazy business that only exists because of influencer marketing. \nIf you listen to the show, you think that’s the future. And here you are saying the gold underneath Yahoo, the oil underneath Yahoo, was this dataset that lets us target across to other platforms. But is it targeting on Yahoo that’s as valuable as being able to sell CTV or Netflix? Because that feels like the risk in this whole approach.\nLook, it’s going to be different for every advertiser. I’ve worked in the streaming side of things and had an ad business in that, and you’re going to get premium CPMs for brand advertising. You’re not trying to drive people downstream for an outcome. \nDSP buyers are typically outcome-driven. Definitely Yahoo proper buyers are largely outcome-driven. We will get big brand takeovers. We just sold one yesterday for the World Cup. We’ve been building deeply into soccer, into motor sports, and some other verticals there. But for the most part, it is performance-based. We have to be top three places to go for really high-performing advertising. And it’s not always the same buyer.\nSo I’ll give an example just because I know he’d be okay with it. A person who used to work for me runs SurveyMonkey and they were buying through our DSP. He came to me and said, “Yahoo proper is by far the best-performing part of this. Can we just buy directly from you?” I introduced them over and they did a deal to buy direct through Yahoo. \nSo it’s a different ad format for sure. And again, even native advertising can perform. It’s going to perform at a different percentage. But I think that the internet is just a much broader and more vast place than people appreciate. \nWe are growing Yahoo after 30 years. It’s pretty incredible that with all it’s been through and what you might assume about it, 50% of Yahoo Mail users are Gen Z or millennial. Nobody would assume that. And it’s growing, and has had one of its best years ever. \nBut the size and scale is just very rare. Of course, the surface area for that is mostly not going to be premium video advertising. It’s going to be display. And that has its place in the ecosystem. It’s not the hottest thing right now, but it converts and it has a place.\nI’m asking these questions because it’s just refreshing to hear people say the basics still have something to say for them.\nYeah, they do. They do.\nWe’re going to send traffic to news publishers and we’re going to do display advertising.\nNo, we’ve got to get search there, dude. Search has to come along for the ride.\nSo let me ask you about search. You told my friend and colleague David Pierce that you’re very proudly number three in search. One of the more famous Decoder back and forths of all time is Satya Nadella at the launch of Bing with ChatGPT said, “I want to make Google dance. Every point of market share I can take from Google is billions of dollars for our bottom line.”\nAnd then Sundar [Pichai, Google CEO], who has a very different personality, came on Decoder and was like, “Good luck.” Basically, in his very Sundar way, was like, he wanted to say that get a rise out of you, but like, “I’m not reacting to that at all.” And you can see how that played out. I don’t think Microsoft took points of share off Google. Maybe ChatGPT did, but they don’t have the monetization, right? They’re furiously hiring people from Meta to figure out how to monetize this new search behavior that they’ve created while Google is just going to roll it out across their products.\nYou’re number three. You’re sitting there. You’re watching this dance. You’re rolling out AI search. Can you take share off of Google and can you monetize it in a way that actually makes sense?\nWell, it’s funny you mentioned  Bing. I remember the Bing launch being at the D conference. This is probably before I realized how Twitter was going to work, and I put some snotty tweet up when they announced Bing, that it was essentially a copy of Ask.com, of what we had already built. And Dan Frommer took it and turned it into an article and I was like, “No, no, no.”\nPerfect.\nI was like, “Delete.”\nI didn’t mean for that to get out there. So I’ve been through the search wars. . I’m never going to be in a worse position than where the Ask Jeeves brand was in 2001 and 2002. And we did grow market share in search. The way that we did it is that we had a pretty big audience for the time with a completely underperforming product; the original product showed up 85% of the time and was only clicked 25% of the time because it was a hand-coded [natural language processor]. It didn’t really do it the way NLP works today.\nThrough a series of things — of improving search and launching what became OneBox on Google and doing all that — what we found is that if somebody was doing 1.5 searches a month on Ask, that if we launched these things, they would just do three searches a month on Ask to start with. That was doubling our search volume. And search advertising was linear in terms of what that would do for revenue. So that’s how we got profitable and grew that company from the brink to selling to IAC. \nSome of the same things are in effect here. Nobody chooses, you will not be surprised, Yahoo over Google or somewhere else to search. The way that we get our search volume is because we have 250 million US users and 700 million global users in the Yahoo network at any given time. There’s a search box there. And infrequently, they use it.\nThat search has been under threat of moving to LLMs, so we had to evolve that search engine, which we’ve been in partnership with Bing since 2009, and outsource that. And we had to do something to make sure that they kept doing those searches that they were already doing on Yahoo. So to do that, we had to have AI search. Our decision as we looked at the landscape was that we were actually the best people to build it, because we actually had the data to build upon to do it, and we could do it, and we could do it affordably.\nBut are we going to grow in search? I certainly hope so. And if we do, it’s going to be because people are doing an infrequent number of searches today. When they use it and they see Scout and it’s awesome and the results are really good compared to what they would get elsewhere, we hope that the next time they’re on Yahoo for Mail or Fantasy or checking their stocks, they’ll do another one. And that really is the beginning of the pathway. Wherever we wind up, I can’t get there without that start. There’s always going to be the question mark in the middle of Underpants Gnomes before profit.\nThat is old school.\nWho knows where that goes? But that has to be the starting point and that’s why we did it.\nThat’s a good point. Let me ask you about that. You said earlier in this conversation that the original sin of Yahoo was giving search to Google, paying Google for the privilege of running the search box on yahoo.com. I am guessing you did not buy 10 million Nvidia GPUs to train your own model. Who is running your search right now?\nWe are working with Anthropic, with their lightweight model called Haiku. There are a number of these. Actually, ChatGPT used to have one called Nano that they aren’t really doing anymore. I’ve heard they might bring it back. But we’re not displaying results from Claude. \nIt’s results from our own data that they are processing, essentially. We send them a payload that is both all this amazing data from our knowledge graph, soon to be our user side because we’re about to launch personalization, 30 years of search history, all of our vertical content knowledge. And then we also are grounding with Bing. That combines into one payload we send to Haiku. That’s the large language model that is applied in a small parameter way to Yahoo data that sends it back to our rendering engine in the way that you see that we think is really cool and useful and the way that we render results. \nIt is definitely a much more affordable, kind of a MacGyver way of doing it. Eric Fang, who’s the mastermind of this project, who is head of our research group and the head of our search group, would phrase it as “Yahoo data plus Haiku equals very competitive AI answer engine.” \nAnd again, we’re not going to be doing all the things a large language model can do, but you are very shortly going to see us get into very personalized results. You’re going to see us get into very agentic actions that you can take.\nWith that launch, not only do we launch the Scout answer engine at scout.com, but we actually, on the day of launch, have embedded it within all of our other products.Of course, there’s news summaries. But there’s a button in Yahoo Finance that does analysis of a given stock on the fly. It is in Yahoo Mail to help summarize and process emails and extract really useful information. There is a whole roadmap that you’re going to see with a lot of different smaller announcements over the course of the year. It will become very proactive.\nIf you remember the days of push, it’s going to be very push-oriented where I think this category is going. People use this for productivity at the core of Yahoo, and this helps us also do that. At the same time, have a kick-ass AI answer engine.\nSo you’ve got Anthropic at the heart of it. I presume that that means you can take them out, right? If there was a better vendor or a better partner or better deal terms, you could replace that little LLM core and your products would still operate. One of the dynamics in AI generally, though, is that the big models are eating more and more of the capabilities that people are building on top of them. So you’re saying we’ve got a lot of capabilities. \nI’m surprised. I didn’t see that coming in the history of the consumer internet, that each 800-pound gorilla tries to do everything and eat all of its partners.\nDon’t worry. One day, you’re going to open Claude and it’s just going to start serving you vertical social videos, and we’re going to be like, “how did we arrive here again?” \nWe’re all trying to do it. Of course. But Google has started to compete more with all of its providers over the years too. This isn’t new.\nHow are you thinking about that dynamic? You’ve got this long history, you’ve got a core vendor in a position that looks a lot like the original sin, right? You’re paying a vendor to run the search, but maybe you can swap them out later, and then that vendor is just going to keep growing its capability set. And all the other vendors who are similarly positioned are going to keep trying to grow their capability set. How do you avoid the cliff? Because it feels like it rhymes with the past, as you’re pointing out.\nOur biggest challenge from here forward right now, because I think we’re starting to cook with oil on the product side, is actually brand. We’ve come a long way. We’ve climbed the mountain a bit, and we’ve made a lot of progress, especially in the industry. I think people know what’s going on here. But if we hope to have a New Balance type comeback, or The Gap, or these places that have been down, but have made this comeback and become really solid brands again, which is my aspiration for the Yahoo brand, we have further to go before we’re really punching at the weight where I want to be.\nThe reason why we’re as good as we are is because, at our core, we do a really good job in these verticals where we play. If we can deliver these products that are much better than what we inherited to a user base this large, I think worst case, we are growing that audience at the core. \nI don’t think we are big enough. I think Anthropic and OpenAI have… We’re back to fish, but have much bigger fish to fry than Yahoo. We might be collateral damage in what they try and do. Absolutely. I’ve known since the start and others have said this, that you are tempting fate by opening up a way for consumers to access your product within a large language model. They certainly, over time, will try to take that on themselves. We’ve seen that every single time in this industry, going back to AOL, to be honest. That is a danger for everybody. \nThe same way, I don’t think publishers would have been okay with people just taking their data and republishing the answers without getting traffic back, I think, on this topic, people should be very careful on how they partner with a large language model going forward. Because the big bad wolf will come to your door and say everything’s cool. It’s going to be tough. That being said, Anthropic has been an amazing partner. They were really impressed by the MacGyver move that Eric Feng and his team made and how we use Haiku.\nIn fact, they’re part of our press release for the launch of Scout. And we’re going to be doing something at South by Southwest together. That partnership is really good and I hope that it lasts for a long time.\nThe other big bad in all this is Google. We’ve brought them up several times. Google has a big DSP. They compete in all the areas you’re competing. They aggregate a bunch of news. Google Discover is the secret referrer to half of my competitors. They will never admit it, but it’s true. They’re in a lot of trouble, right? There’s a bunch of antitrust cases about their ad tech stack, about search in general. I don’t know how all that’s going to play out in the end, but they’re under a particular kind of pressure. Do you see that as an opportunity? Or do you see the way they run their ad tech stack as a particular kind of threat?\nTo think that we would be able to take advantage of Google at this point, I think we have further to go. They’re in a very strong position. I think that they really were surprised by the launch of ChatGPT, and that was a generationally important product. I think Google probably had it in their labs working somewhere.\nOh no, they did. If you mention this, a Google person jumps out of a bush and says, “We invented Transformers.” They’re over it now because they’ve managed to execute.\nThat’s right. And I don’t know if you remember Danny Sullivan, but in the original search wars—\nOh, I know him.\nDanny was the figurehead of search and ran the biggest search conference, and all the SEOs who didn’t have their names on their business cards would be outside smoking and hanging out with Matt Cutts. That whole generation. Danny then ultimately went to work for Google and is like an evangelist for them. I’ve seen a presentation that he gave where he is singing the praises of the open web and how important it is. I am positive that they would have done more to take that on if they had been able to drive the conversation of the UI of this thing.\nIf you’ve looked at it, I mean, a very small percentage of Google users have actually used ChatGPT. I think Similarweb put that stat out on Twitter where I saw it. Much smaller than you would think. So there are opportunities. This is why they look so much like ChatGPT and why AI mode is embedded everywhere. Frankly, I will do something very similar once we’re through this beta period of distributing Scout through Yahoo. But I do think that it’s their game to lose. \nThe one thing that is existential for them is making sure that, however this goes, search advertising crosses the chasm into this new hybrid answer engine world. I do not think that products that take nine steps of agentic whatever to monetize some outcome are going to be anywhere near as efficient as you clicking on links and them getting paid. Obviously, the world is headed towards outcomes over time anyway, but it has to find a way.\nI think the UI that we launched lends itself to where that might head, in a way that would not cause Anthropic to do a Super Bowl ad about us. I think you can do it in a way that is very clearly paid and is helpful on commercial queries. \nI don’t know if you remember, but AltaVista tried to launch search advertising and were shut down by the industry and ads and articles and Wired saying, “How dare you?” before Overture made it okay, before Google AdWords came along and then really streamlined it. And I think that issue has been asked and answered already. Users are okay with it in commercial categories. It’s just about how you bring it over.\nThere’s a way to do it that’s keyword-driven, that is rendered in a way that is in this new format that users might prefer. That is where we’re headed and that’s the product I would like to launch and see if it gets there. But if Google doesn’t get that right, it will be difficult.\nI’m very curious to see how these user interfaces evolve. I’m watching, every day, ChatGPT has a new riff. And you can tell they haven’t figured it out, because it’s hard to make it native. And that’s really what everybody wants, is for this to feel native. Even the 10 blue links have not been 10 blue links on Google for a long time. There’s a lot of embedded native experiences along the way.\n20 years. It’s been 20 years.\nSo I’m curious to see how that evolves and I’m dying to see how you try to solve it, because it doesn’t seem like anybody knows yet. Search advertising is the most lucrative business in the history of the world. So it feels like that’s up for grabs.\nI like our first draft. We’ve got a lot of great feedback on the UI of first draft of Scout. We have a lot of things that we want to add to it and improve about it. But I think we came out with a good first attempt and we’ll tweak it from here.\nAnd just to be clear, your plan there is you’re going to grow the overall Yahoo user base. More Gen Z people are going to sign up for Yahoo Mail and you’re going to capture some of that search activity instead of trying to take direct share from Google search.\nThat’s step one. \nThe dream would be that they then start to prefer us for search and bookmark us and decide to go to us instead of one of the other guys. And for the people already using it, their usage is increasing with more queries per day, per user. I know we’re onto something with that and I do hope that it gets there. \nBut part of the thesis of the business plan for this was that we have a huge user base, just like Google does, but in a smaller version, the poor man’s version of being able to distribute the same way they’ve done with AI mode and put it on all the different surface areas. That is the homepage and News and Sports and Fantasy Sports and every single version of that.\nWe have new products coming. We launched three new Fantasy products last year, one of which was a huge traffic driver. And we had the biggest year of Fantasy ever. Every one of those is a surface area to which we can bring an audience that can trial Scout, and hopefully it goes from there.\nI want to end by talking about finance and sports. New Fantasy products are great. The action in sports is, “boy, you should just bet on sports now.” You can see it with all these prediction markets. That is their big business. They have a lot of money to throw around. They’ve captured a bunch of lobbyists. Politics aside, the bipartisan nature of people feeling weird about sports gambling is unprecedented in my lifetime. \nNext to that is, we should just bet on anything. And then next to that, you actually mentioned it earlier. You came to Yahoo with crypto and then stonks and now there’s just gambling. All of that has always felt like gambling to me.\nCrypto has always felt like one form of gambling. Stonks was like, “What if we just gamble by doing Reddit threads until GameStop goes to the moon?” And now we’re just at, “What if we just gamble on the outcome of the war?” There’s a pretty linear connection between all these ideas and how people feel about gambling. \nYou run Finance, which is home of stonks. You run Sports, which could be the home of sports betting. Do you feel like you have an obligation to buffer against everyone’s worst instincts here?\nSomewhat. To the extent everybody does, then yes. And by the way, we do that in all kinds of places. We really try extremely hard to be purple with news. Now, the algorithm may take you left or right over time. It’s partially our job to help reset that every now and then so you don’t get too far down the rabbit hole and you can see more neutral sources. I get complaints all the time from both the left and the right, so it probably means we’re doing that right. I do think that’s an important responsibility. We take that really seriously. We have a lot of conversations about that.\nI don’t know if you know this, but Apollo historically owns Caesars and currently owns the Venetian and the Palazzo. And the sports book at Venetian Palazzo is the Yahoo Sportsbook. We don’t operate it. It’s a branding thing and there’s our content everywhere. We have had discussions since I got here about, “Should we do what Fanatics has done and get into the bloodbath of gambling and should we do it ourselves?” Because Apollo are experts at it, much more than we are. We decided no. Not only is that a huge cost sink, it’s already so far along, you’re battling it out to be eighth in the state of Iowa. We’ll stay away from that. We’ll be a distributor and we’ll be the top of the funnel for all of those.\nThat’s historically what we inherited about BetMGM. That’s where we’re going to play going forward. In some ways, those are ad deals. If you really think about it, we will incorporate odds and we’ll incorporate some of the more news-driven things around the betting odds about a certain topic iffhere’s a news item. But we don’t operate in either space.\nSure.\nWe just announced a deal with Coinbase as well where we are linking to them if you’re going to be buying stocks or crypto.\nYou have a long history here. I’m just asking, maybe just about vibes, right? Maybe the stock market has always been gambling. Some people would make that argument. But the idea historically is, you should turn on CNBC and look at the fundamentals of a company and invest in a company you think is going to grow for real. And we’ve just let that be gambling now. That’s what meme stocks have done to finance, in a very specific way.\nCrypto maybe was just always gambling and we pretended it was going to be bigger than it was. And now crypto is part of finance and now it’s like even more gambling. \nSports was not supposed to have any gambling at all. The reason the leagues kept gambling away, and then the money has infected sports and now everyone thinks there’s an NFL script and all the games are rigged. And you can see players are getting in trouble.\nI wish that script would include the 49ers winning Super Bowl.\nI wish it would include the Packers. I’ve got some real issues about the Packers in the second half of games, and I think we should talk to the script writers.\nAlthough Pat Mahomes does get calls that nobody else does. And frankly, maybe the script.\nSee what I’m saying? So everyone thinks it’s rigged. And Taylor Swift won her first Super Bowl. That makes no sense to me.\nAgreed. I agree.\nBut it’s the presence of the gambling that has led to the perception of corruption. And even though the leagues know it, even though the players are starting to get caught up in sting operations, the money is so convincing that that’s a problem. And now it’s going to happen to news, right? The prediction markets are coming for the news organizations, for the aggregators, are partnering with Reuters. Something else is going to happen where you have insider trading betting on news at scale right now.\nYou operate in these verticals, you’re talking about your responsibility, you’re talking about making the algorithm neutral. Here is the pressure. And not just the pressure, the money from your PE owner that runs casinos. There’s a real back and forth here, and I don’t know if anybody has really thought about the lines. I’m asking you, where’s the line? Because you could turn all of Yahoo into gambling tomorrow, based on the assets you have and the pressures that exist in the world.\nWell, working backwards, it would have to be a really big check to turn Yahoo into that, which I don’t think is out there,. At this point, it really is information and a link. \nSports odds are incredibly fundamental. I’ve been in a college betting pool with all my friends from UCLA for 20-plus years. It’s one of my favorite things I do every year. I finally won some this year. You have to have the odds and you have to have the information. If you’ve looked on these properties, Yahoo Sports, ESPN for years, with numberFire and all the different ways that you can analyze it, Fantasy obviously is a game. It’s not gambling, but it’s a game. But it is very much part of the spine of the book for what Yahoo Sports is about. So I do look at it as adjacent to that. \nI don’t want to give a political BS answer. I also don’t want to act like I’m the expert. I know one of your last episodes was on this topic and I listened to the whole thing and I think every argument you guys were making for why something is gambling is a valid argument. And then I also understand the two-way contract side of it. Even on the insider trading, there’s somebody on the other side betting the other way. Betting.\nI don’t know where it’s going to wind up. If it winds up where this is illegal, then obviously we won’t have it. If it is legal, it’s incredibly popular. \nWe always think about the next step somebody’s going to take to accomplish whatever goal they’re trying to achieve that day using our products. That actually is a cheesy thing that we talk about and try to build for and are always trying to do a better job at over time. I can’t think of a more fundamental next step downstream than going to FanDuel or going to Coinbase after what you’ve learned on Yahoo Sports or Finance. So I do have to have it as a core part of the product. I have to. Where that heads is going to be decided rungs up the ladder from me. But I do get your point for sure on it.\nTo me, the comparison is to sugar or, I don’t know, booze. Both legal, both incredibly popular, and both obviously bad for you in excess, right? We’ve built a lot of norms around excess for sugar and booze. We’re just good at it and people still fall off the edge all the time. \nThere are no norms for prediction markets really, right? And the insistence that it’s not gambling actually keeps a lot of the other norms away. You’ve talked a lot about your values. And I’m saying it’s refreshing to hear you talk about brand and sending traffic to the web. This is a place where I think your values will be under pressure because the norms aren’t there. Is there a line for you?\nThe line would be something that we’d have to think about more if we were operating in either space. Which, again, we looked at including trading and decided we’re better as a partner sending traffic downstream. Maybe it’s similar to,  “do we take ads from beverage companies, from Bud Light?” \nIt’s funny. Do you know why FDR won the 1932 election? It was in Andrew Ross Sorkin’s 1929 book. It wasn’t the Depression, it was Prohibition. I also don’t think we’re going that way. I think these things are, probably at some level, here to stay. And in that way, they’re a fundamental part of the next steps people are taking from our products. So I do think we’re a very relevant place for that. \nAt the same time, we’re not the right company to operate them ourselves. You won’t see us going down that pathway, most likely. Maybe one of them will try and buy us and munge us into it. I could see that potentially happening. But otherwise, we’re back in the aggregation zone.\nSo that was my last question actually. You got there.\nWe made it. We made it.\nPrivate equity usually wants an exit. That might look like Yahoo going public again. It might look like an acquisition. Do you have a preferred outcome in mind, or do you have a timeline?\nMan, I’ve been getting this question. I know you guys have rules on this, how nothing is off the record in the UK. I was being interviewed by someone in Cannes and made just one wrong turn of phrase, and all of a sudden, there was an article that we were going public, and it made its way to CNBC. And it was not in any way where we were yet. \nIt does tend to be a catnip topic about Yahoo that people are like, “Oh, when’s the IPO?” There’s a lot of people out ahead of us who are trillion-dollar IPOs that are probably first and others that people are wondering about.\nI am building this thing so that we can be a healthy public company again, where you’re not struggling quarter to quarter, which is I think what got Yahoo into trouble in the past. AOL got into trouble in the past. We’re building towards that, for sure. We have longer to go to get to the point where we are truly ready to be public for five years after we go public, not just the day we go public.\nThat said, I think the history of PE is that they would probably much rather sell. That really is more their model, because the cash-out is more immediate. They don’t have to wait, sell down as the majority owner. That just creates its own set of problems. \nThat said, we talk a lot about IPO in our board meetings, and the board is much more than just Apollo. There have been people trying to kick the tires on us for quite a while. Which also, by the way, winds up with all kinds of weird news. I get calls all the time because the other part of PE is, they kick every tire and they allow every tire to be kicked. They’re always getting phone calls about different parts of Yahoo.\nBut the truth is, Yahoo is way stronger together. The thesis originally was maybe you would break these things apart, and you could sell Finance, you could sell Sports, but you would really have to do it on the same day. It all would have to go at once, because it really is an ecosystem. The average Yahoo user uses two or more of our products. And they do, as we’ve talked about, send traffic to each other. Part of the data goldmine is that we have all of them together. In the context of all the other companies out there, we’re still incredibly undervalued for what we bring to the table.\nIn some ways, it’s part of why we’re as big as we are. In other ways, it’s still part of the challenge of where we need to go. That is really how we talk about it and look at it, and the decisions we’re making are for the future IPO. But if anybody is smart enough, I don’t know they’d let us get there.\nWell, Jim, this has been great. I really enjoyed talking to you. It’s good to talk to another internet OG, both with weird shared histories with AOL. I’ve got to say, there’s more of that burbling beneath the surface of this episode than anyone can possibly know. But I really appreciate the time. Thank you so much for being on Decoder.\nAwesome. I appreciate you having me. Thanks.\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-03-16T15:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute spreche ich mit Jim Lanzone, dem CEO von Yahoo. Es ist im Grunde unmöglich, die Yahoo-Geschichte zusammenzufassen, aber die kurze Version davon ist, dass Yahoo Google vor langer Zeit dafür bezahlt hat, das Suchfeld auf seiner Website zu betreiben, und seitdem ist im Grunde alles schief gelaufen. Sie werden hören, wie Jim sich darauf bezieht...",
-    "titleDE": "Jim Lanzone, CEO von Yahoo, über die Wiederbelebung der Homepage im Internet"
   },
   {
     "title": "Nurturing agentic AI beyond the toddler stage",
@@ -380,16 +490,6 @@
     "titleDE": "Förderung der Agenten-KI über das Kleinkindstadium hinaus"
   },
   {
-    "title": "This is not a fly uploaded to a computer",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
-    "description": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.\nThe videos came from San Francisco-based Eon Systems, which says it's working toward \"digital human intelligence\" and claims it wants to build a full digital emulation of a mouse brain within the next two years - a timeline that is, to put it generously, ambitious. Cofounder Alexander Wissner-Gross shared the original clip publicly, calling it the \"world's first embodiment of a whole-brain emulation that produces multiple behaviors\" and hinting a …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-16T12:49:07.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Letzte Woche gingen bei Die Videos stammen vom in San Francisco ansässigen Unternehmen Eon Systems, das nach eigenen Angaben an der „Digital Human In...“ arbeitet.",
-    "titleDE": "Dies ist keine auf einen Computer hochgeladene Fliege"
-  },
-  {
     "title": "The Download: glass chips and “AI-free” logos",
     "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
@@ -398,16 +498,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Künftige KI-Chips könnten auf Glas gebaut werden. Von Menschen hergestelltes Glas ist Tausende von Jahren alt. Aber jetzt ist es bereit, seinen Weg in die KI-Chips zu finden, die in den neuesten Technologien der Welt verwendet werden.",
     "titleDE": "Der Download: Glaschips und „KI-freie“ Logos"
-  },
-  {
-    "title": "Securing digital assets against future threats",
-    "link": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
-    "description": "",
-    "pubDate": "2026-03-16T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "",
-    "titleDE": "Sicherung digitaler Vermögenswerte vor zukünftigen Bedrohungen"
   },
   {
     "title": "Why Codex Security Doesn’t Include a SAST Report",
@@ -428,115 +518,5 @@
     "category": "news",
     "descriptionDE": "Unicode, das für das menschliche Auge unsichtbar ist, wurde weitgehend aufgegeben – bis Angreifer es bemerkten.",
     "titleDE": "Ein Supply-Chain-Angriff mit unsichtbarem Code trifft GitHub und andere Repositories"
-  },
-  {
-    "title": "Why physical AI is becoming manufacturing’s next advantage",
-    "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-    "description": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase…",
-    "pubDate": "2026-03-13T15:16:55.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Seit Jahrzehnten verfolgen Hersteller die Automatisierung, um die Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Dieser Ansatz brachte bedeutende Fortschritte, reicht aber nicht mehr aus. Heutige Fertigungsleiter stehen vor einer anderen Herausforderung: Wie können sie angesichts von Arbeitsbeschränkungen, zunehmender Komplexität und ... wachsen?",
-    "titleDE": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
-  },
-  {
-    "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-    "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions  The US military might use generative AI systems to rank targets and recommend which to strike first, according to a Defense Department…",
-    "pubDate": "2026-03-13T12:16:56.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Verteidigungsbeamter verrät, wie KI-Chatbots für Zielentscheidungen eingesetzt werden könnten Das US-Militär könnte generative KI-Systeme nutzen, um Ziele einzustufen und zu empfehlen, welche ...",
-    "titleDE": "Der Download: Wie KI für militärische Ziele eingesetzt wird und der Krieg des Pentagons gegen Claude"
-  },
-  {
-    "title": "Future AI chips could be built on glass",
-    "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-    "description": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation computing hardware more powerful and…",
-    "pubDate": "2026-03-13T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Von Menschen hergestelltes Glas ist Tausende von Jahren alt. Aber jetzt ist es bereit, seinen Weg in die KI-Chips zu finden, die in den neuesten und größten Rechenzentren der Welt verwendet werden. In diesem Jahr plant ein südkoreanisches Unternehmen namens Absolics, mit der kommerziellen Produktion von Spezialglasplatten zu beginnen, die für die Herstellung von ...",
-    "titleDE": "Künftige KI-Chips könnten auf Glas gebaut werden"
-  },
-  {
-    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-    "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-    "description": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike…",
-    "pubDate": "2026-03-12T22:23:34.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Laut einem mit der Angelegenheit vertrauten Beamten des Verteidigungsministeriums könnte das US-Militär generative KI-Systeme nutzen, um Listen von Zielen zu ordnen und Empfehlungen abzugeben – die von Menschen überprüft würden –, welche zuerst zuschlagen sollten. Die Enthüllung darüber, wie das Militär KI-Chatbots einsetzen könnte, kommt als...",
-    "titleDE": "Ein Verteidigungsbeamter verrät, wie KI-Chatbots für gezielte Entscheidungen eingesetzt werden könnten"
-  },
-  {
-    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
-    "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
-    "description": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
-    "pubDate": "2026-03-12T22:18:11.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen gibt an, nicht zu wissen, wie lange die Wiederherstellung seiner Microsoft-Umgebung dauern wird.",
-    "titleDE": "Das Wer, Was und Warum des Angriffs, der das Windows-Netzwerk von Stryker lahmgelegt hat"
-  },
-  {
-    "title": "How AI is helping improve heart health in rural Australia",
-    "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-    "description": "A new Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities.",
-    "pubDate": "2026-03-12T15:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Eine neue KI-Initiative von Google zielt darauf ab, die Herzgesundheit von Menschen in abgelegenen australischen Gemeinden zu verbessern.",
-    "titleDE": "Wie KI dazu beiträgt, die Herzgesundheit im ländlichen Australien zu verbessern"
-  },
-  {
-    "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
-    "link": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
-    "description": "Most of the devices are made by Asus and are located in the US.",
-    "pubDate": "2026-03-11T21:27:16.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die meisten Geräte werden von Asus hergestellt und befinden sich in den USA.",
-    "titleDE": "14.000 Router sind mit Malware infiziert, die äußerst resistent gegen Deaktivierungen ist"
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "pubDate": "2026-03-11T13:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Rakuten nutzt Codex, den Codierungsagenten von OpenAI, um Software schneller und sicherer zu liefern, die MTTR um 50 % zu reduzieren, CI/CD-Überprüfungen zu automatisieren und Full-Stack-Builds innerhalb von Wochen bereitzustellen.",
-    "titleDE": "Rakuten behebt Probleme mit Codex doppelt so schnell"
-  },
-  {
-    "title": "Designing AI agents to resist prompt injection",
-    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-    "pubDate": "2026-03-11T11:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wie ChatGPT sich gegen Prompt-Injection und Social Engineering wehrt, indem es riskante Aktionen einschränkt und sensible Daten in Agenten-Workflows schützt.",
-    "titleDE": "Entwicklung von KI-Agenten, die einer sofortigen Injektion widerstehen"
-  },
-  {
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-    "pubDate": "2026-03-11T11:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wayfair nutzt OpenAI-Modelle, um den E-Commerce-Support und die Genauigkeit von Produktkatalogen zu verbessern, die Ticket-Triage zu automatisieren und Millionen von Produktattributen in großem Maßstab zu verbessern.",
-    "titleDE": "Wayfair steigert die Kataloggenauigkeit und Supportgeschwindigkeit mit OpenAI"
-  },
-  {
-    "title": "From model to agent: Equipping the Responses API with a computer environment ",
-    "link": "https://openai.com/index/equip-responses-api-computer-environment",
-    "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-    "pubDate": "2026-03-11T11:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wie OpenAI mithilfe der Responses-API, des Shell-Tools und gehosteter Container eine Agentenlaufzeit erstellte, um sichere, skalierbare Agenten mit Dateien, Tools und Status auszuführen.",
-    "titleDE": "Vom Modell zum Agenten: Ausstattung der Responses API mit einer Computerumgebung"
   }
 ]
