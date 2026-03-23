@@ -1,13 +1,303 @@
 [
   {
-    "title": "OpenAI is planning a desktop ‘superapp’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-    "description": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ from Fidji Simo, OpenAI's CEO of Applications. Fragmentation \"has been slowing us down and making it harder to hit the quality bar we want,\" Simo said.\nOpenAI made waves last year with splashy announcements like the Sora video app and buying Jony Ive's AI hardware company. But it has been facing increased competition from Anthropic as of  …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-20T00:09:38.000Z",
+    "title": "AI influencer awards season is upon us",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+    "description": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. \nThe contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the creative talent 'behind' AI Influencers\" and recognize their growing commercial and cultural clout. \nContestants will compete for a total prize f …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-23T00:01:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "OpenAI arbeitet an einer Desktop-„Superapp“, die seine ChatGPT-App, die Codex AI-Codierungs-App und seinen KI-gestützten Atlas-Browser in einer App zusammenführt, berichtet das Wall Street Journal. Laut einem von ... zitierten Memo nimmt das Unternehmen die Änderung vor, um seine verschiedenen Produktbemühungen zu vereinfachen.",
-    "titleDE": "OpenAI plant eine Desktop-„Superapp“"
+    "descriptionDE": "Zuerst kam der KI-Schönheitswettbewerb. Dann die KI-Musikwettbewerbe. Jetzt gibt es eine Auszeichnung für die KI-Persönlichkeit des Jahres – vielleicht der unvermeidliche nächste Schritt für die KI-Influencer-Wirtschaft, die sich von einer skurrilen Neuheit zu einer seriösen und lukrativen Branche wandelt. Der Wettbewerb, ein Joint Venture zwischen Gen...",
+    "titleDE": "Die Saison der KI-Influencer-Awards steht vor der Tür"
+  },
+  {
+    "title": "Do you want to build a robot snowman?",
+    "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+    "description": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+    "pubDate": "2026-03-22T19:45:07.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In der neuesten Folge des Equity-Podcasts haben wir die GTC-Keynote von CEO Jensen Huang noch einmal zusammengefasst und darüber diskutiert, was sie für die Zukunft von Nvidia bedeutet.",
+    "titleDE": "Möchten Sie einen Roboter-Schneemann bauen?"
+  },
+  {
+    "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+    "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+    "description": "Building on top of a Chinese model feels particularly fraught right now.",
+    "pubDate": "2026-03-22T18:41:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Aufbau auf einem chinesischen Modell ist derzeit besonders schwierig.",
+    "titleDE": "Cursor gibt zu, dass sein neues Codierungsmodell auf Kimi von Moonshot AI basiert"
+  },
+  {
+    "title": "Crimson Desert dev apologizes for use of AI art",
+    "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+    "description": "That’s some sloppy looking slop. | Image: Rex_Spy / Reddit\t\n\nReviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release.  In a statement on X, the company said it was conducting a \"comprehensive audit\" to identify and replace any AI-generated content. \nThe company apologized for both its inclusion in the final release and for not being more transparent about its use during development. \"We should have clearly disclosed our use of AI,\" it said.\nThe …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-22T17:34:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das ist ein schlampig aussehender Mist. | Bild: Rex_Spy / Reddit Die Kritiken zu Crimson Desert sind gemischt, aber das größere Problem für das Spiel war die Entdeckung scheinbar KI-generierter Assets in der endgültigen Version. Jetzt hat der Entwickler zugegeben, dass während des Spiels tatsächlich KI-Kunst verwendet wurde ...",
+    "titleDE": "Der Entwickler von Crimson Desert entschuldigt sich für die Verwendung von KI-Kunstwerken"
+  },
+  {
+    "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+    "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+    "description": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+    "pubDate": "2026-03-22T16:20:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Elon Musk hat kürzlich ehrgeizige Pläne für eine Chipbau-Kooperation zwischen Tesla und SpaceX skizziert – aber er hat in der Vergangenheit zu viel versprochen.",
+    "titleDE": "Elon Musk stellt Chip-Produktionspläne für SpaceX und Tesla vor"
+  },
+  {
+    "title": "Delve accused of misleading customers with ‘fake compliance’",
+    "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "description": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+    "pubDate": "2026-03-22T14:43:51.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein anonymer Substack-Beitrag wirft dem Compliance-Startup Delve vor, „Hunderte Kunden fälschlicherweise“ davon überzeugt zu haben, dass sie Datenschutz- und Sicherheitsvorschriften einhalten.",
+    "titleDE": "Delve wird vorgeworfen, Kunden mit „falscher Compliance“ in die Irre geführt zu haben"
+  },
+  {
+    "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+    "description": "Grok, how do you make chips? | Image: Laura Normand / The Verge\t\n\nElon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies.\nMusk has expressed concern, as have other executives, about the chip industry's ability to keep up with demand as the AI industry has boomed. But building a chip fabrication plant is complex, requires billions of dollars, many years, and a ton of specialized equipment. And, as Bloomberg points out, Musk \"has no background in semiconductor production and a history of over-promising on g …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-22T14:06:48.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Grok, wie macht man Chips? | Bild: Laura Normand / The Verge Elon Musk kündigte Pläne zum Bau einer Terafab-Anlage in Austin, Texas, an, die von Tesla und SpaceX gemeinsam betrieben wird. Ziel ist es, irgendwann Chips in großem Maßstab für Robotik, künstliche Intelligenz und weltraumgestützte Rechenzentren für Mu... zu bauen.",
+    "titleDE": "Musk sagt, er baue eine Terafab-Chipfabrik in Austin, Texas"
+  },
+  {
+    "title": "AI was everywhere at gaming’s big developer conference — except the games",
+    "link": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+    "description": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In a briefing with Razer, I watched an AI assistant for QA automatically log issues in a shooter game. And there were many talks about AI, including a standing-room only presentation by Google DeepMind researchers about playable AI-generated spaces.\nBut there was one key place where AI was missing: the games themselves. Of the many developers I s …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-22T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "KI war dieses Jahr allgegenwärtig beim GDC Festival of Gaming. Die Anbieter auf der Veranstaltung präsentierten generative KI-Tools für Dinge wie die Erstellung KI-gesteuerter NPCs und sogar ganzer Spiele aus einer Chatbox. Auf der Ausstellungsfläche verbrachte ich 10 Minuten damit, eine Demo einer Pixel-Art-Fantasiewelt abzuspielen, die mit den KI-Tools von Tencent generiert wurde. ...",
+    "titleDE": "KI war auf der großen Gaming-Entwicklerkonferenz allgegenwärtig – außer bei den Spielen"
+  },
+  {
+    "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ",
+    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+    "description": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+    "pubDate": "2026-03-22T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Kurz nachdem Amazon seine 50-Milliarden-Dollar-Investition in OpenAI bekannt gegeben hatte, lud mich AWS zu einer privaten Führung durch das Chiplabor ein, das im Zentrum des Deals stand.",
+    "titleDE": "Eine exklusive Tour durch Amazons Trainium-Labor, den Chip, der Anthropic, OpenAI und sogar Apple überzeugt hat"
+  },
+  {
+    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+    "description": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+    "pubDate": "2026-03-22T06:20:43.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Vielleicht werden Token tatsächlich zur vierten Säule der technischen Vergütung. Doch die Ingenieure möchten vielleicht erst einmal an der Sache festhalten, bevor sie dies als einen einfachen Sieg betrachten.",
+    "titleDE": "Sind KI-Tokens der neue Vertragsbonus oder nur ein Kostenfaktor für die Geschäftsabwicklung?"
+  },
+  {
+    "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "description": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+    "pubDate": "2026-03-21T19:30:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Hachette Book Group gab bekannt, dass sie „Shy Girl“ nicht veröffentlichen wird, da sie befürchtet, dass zur Generierung des Textes künstliche Intelligenz eingesetzt wurde.",
+    "titleDE": "Verlag zieht Horrorroman „Shy Girl“ wegen KI-Bedenken zurück"
+  },
+  {
+    "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+    "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "description": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+    "pubDate": "2026-03-21T16:28:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Trotz der Befürchtungen der Anleger vor einer KI-Blase zeigt die jüngste Konferenz von Nvidia, dass sich die meisten in der Branche keine Sorgen über diese Möglichkeit machen.",
+    "titleDE": "Warum die Wall Street von Nvidias großer Konferenz nicht überzeugt wurde"
+  },
+  {
+    "title": "The gen AI Kool-Aid tastes like eugenics",
+    "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+    "description": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images dripping with racism and sexism.\nVeatch was even more unsettled by the way her new AI-enthusiast peers did not seem to care that the machine they ralli …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-21T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wie viele Menschen war auch Regisseurin Valerie Veatch fasziniert, als OpenAI im Jahr 2024 erstmals sein generatives KI-Modell Sora für Text-zu-Video der Öffentlichkeit vorstellte. Obwohl sie die Technologie nicht vollständig verstand, war sie neugierig, was sie leisten konnte, und sie sah, dass andere Künstler Online-Communitys aufbauten...",
+    "titleDE": "Die Gen-KI Kool-Aid schmeckt nach Eugenik"
+  },
+  {
+    "title": "Gemini task automation is slow, clunky, and super impressive",
+    "link": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+    "description": "An AI assistant that can actually get things done.\t\n\nI've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subset right now - a handful of food delivery and rideshare services - and it's still in beta. It's slow, it's clunky at times, and it doesn't solve any serious problem you had using your phone. But it's impressive as hell, and I don't think it's hyperbole to say this is a glimpse of the future. We're still a long way off, but this is the first time I've seen a true AI assistant actually working on a phone - not in a keynote presentation or a careful …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-21T11:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein KI-Assistent, der tatsächlich Dinge erledigen kann. Ich habe Geminis neue Aufgabenautomatisierung auf dem Pixel 10 Pro und dem Galaxy S26 Ultra getestet, die es Gemini erstmals ermöglicht, das Steuer zu übernehmen und Apps für Sie zu nutzen. Im Moment ist es auf einen kleinen Teilbereich beschränkt – eine Handvoll Essenslieferungen und Mitfahrgelegenheiten …",
+    "titleDE": "Die Automatisierung von Gemini-Aufgaben ist langsam, umständlich und äußerst beeindruckend"
+  },
+  {
+    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+    "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+    "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+    "pubDate": "2026-03-21T01:40:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic reichte am späten Freitagnachmittag vor einem kalifornischen Bundesgericht zwei eidesstattliche Erklärungen ein, in denen er die Behauptung des Pentagon zurückwies, dass das KI-Unternehmen ein „inakzeptables Risiko für die nationale Sicherheit“ darstelle, und argumentierte, dass der Fall der Regierung auf technischen Missverständnissen beruhe und behauptete, dass ...",
+    "titleDE": "Aus neuen Gerichtsakten geht hervor, dass das Pentagon Anthropic mitgeteilt hat, dass die beiden Seiten nahezu auf einer Linie seien – eine Woche, nachdem Trump die Beziehung für kaputt erklärt hatte"
+  },
+  {
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+    "pubDate": "2026-03-20T20:53:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen reduziert die Copilot-Einstiegspunkte unter Windows, beginnend mit Fotos, Widgets, Notepad und anderen Apps.",
+    "titleDE": "Microsoft macht einen Teil seiner Copilot-KI-Aufblähung unter Windows rückgängig"
+  },
+  {
+    "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+    "link": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+    "description": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+    "pubDate": "2026-03-20T20:50:46.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Administratoren: Tut mir leid, das sagen zu müssen, aber es ist wahrscheinlich ein Wochenende, an dem man seine Geheimnisse wechseln kann.",
+    "titleDE": "Weit verbreiteter Trivy-Scanner wurde bei anhaltendem Angriff auf die Lieferkette kompromittiert"
+  },
+  {
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "description": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+    "pubDate": "2026-03-20T20:02:35.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "CEO Jensen Huang betrat diese Woche die Bühne der GTC-Konferenz von Nvidia in seiner charakteristischen Lederjacke, um eine zweieinhalbstündige Keynote zu halten, in der er bis 2027 einen KI-Chip-Umsatz von einer Billion US-Dollar prognostizierte, erklärte, dass jedes Unternehmen eine „OpenClaw-Strategie“ brauche, und schloss mit einem weitschweifigen Olaf-Roboter, der ...",
+    "titleDE": "Was bei Nvidia GTC passiert ist: NemoClaw, Robot Olaf und eine Wette in Höhe von 1 Billion US-Dollar"
+  },
+  {
+    "title": "Nvidia has an OpenClaw strategy. Do you? ",
+    "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "description": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+    "pubDate": "2026-03-20T19:48:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "CEO Jensen Huang betrat diese Woche die Bühne der GTC-Konferenz von Nvidia in seiner charakteristischen Lederjacke, um eine zweieinhalbstündige Keynote zu halten, in der er bis 2027 einen KI-Chip-Umsatz von einer Billion US-Dollar prognostizierte, erklärte, dass jedes Unternehmen eine „OpenClaw-Strategie“ brauche, und schloss mit einem weitschweifigen Olaf-Roboter, der ...",
+    "titleDE": "Nvidia hat eine OpenClaw-Strategie. Tust du?"
+  },
+  {
+    "title": "Trump takes another shot at dismantling state AI regulation",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+    "description": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" \nThe plan advises Congress to protect minors using AI services with more safeguards and take action to attempt to prevent electricity costs from spiking due to AI infrastructure. It encourages \"youth development and skills training\" to boost familiarity with AI tools, without much further detail. But it suggests …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-20T18:17:02.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Trump-Administration hat am Freitag ihren neuen Gesetzesentwurf zur KI-Regulierung vorgestellt, und der Sieben-Punkte-Plan enthält eine klare Botschaft: Die Bundesregierung sollte viele KI-Regulierungen vermeiden, die über eine Reihe von Kindersicherheitsregeln hinausgehen, und sie sollte Staaten daran hindern, sich mit der „nationalen Strategie“ anzulegen.",
+    "titleDE": "Trump unternimmt einen weiteren Versuch, die staatliche KI-Regulierung abzubauen"
+  },
+  {
+    "title": "WordPress.com now lets AI agents write and publish posts, and more",
+    "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+    "pubDate": "2026-03-20T16:43:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Neue KI-Agenten auf WordPress.com könnten die Hürden für die Veröffentlichung senken und gleichzeitig die Anzahl der maschinengenerierten Inhalte im Web erhöhen.",
+    "titleDE": "Mit WordPress.com können KI-Agenten jetzt Beiträge schreiben und veröffentlichen und mehr"
+  },
+  {
+    "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+    "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+    "description": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+    "pubDate": "2026-03-20T16:14:04.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Trumps KI-Rahmen fördert die Vorrangigkeit bundesstaatlicher Gesetze gegenüber Landesgesetzen, betont Innovation und verlagert die Verantwortung für die Kindersicherheit auf die Eltern, während er gleichzeitig weniger strenge Regeln für Technologieunternehmen vorsieht.",
+    "titleDE": "Trumps KI-Rahmen zielt auf staatliche Gesetze ab und verlagert die Last der Kindersicherheit auf die Eltern"
+  },
+  {
+    "title": "Google Search is now using AI to replace headlines",
+    "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+    "description": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get.\nNow, Google is beginning to replace news headlines in its search results with ones that are AI-generated. After doing something similar in its Google Discover news feed, it's starting to mess with headlines in the traditional \"10 blue links,\" too. We've found multiple examples where Google replaced headlines we wrote with ones we did not, sometimes changing their meaning in the process.\nFor example, Google reduced  …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-20T14:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Etwa seit der Jahrtausendwende ist die Google-Suche das Fundament des Webs. Die Menschen waren von Googles vertrauenswürdiger Suchfunktion „10 blaue Links“ und dem unausgesprochenen Versprechen begeistert: Die Website, auf die Sie klicken, ist die Website, die Sie erhalten. Jetzt beginnt Google, Schlagzeilen in seinen Suchergebnissen zu ersetzen ...",
+    "titleDE": "Die Google-Suche verwendet jetzt KI, um Schlagzeilen zu ersetzen"
+  },
+  {
+    "title": "Amazon is making an Alexa phone",
+    "link": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+    "description": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \n\"Transformer\" is currently in development in Amazon's ZeroOne group, led by J Allard, who previously worked on the Zune and Xbox at Microsoft. Allard's team has reportedly explored both smartphone and \"dumbphone\" designs, taking inspiration from the $700 minimalist Light Phone, which features a black-and-white display and lack …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-20T13:42:51.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Über 10 Jahre nach der Einstellung des Fire Phone plant Amazon Berichten zufolge die Einführung eines weiteren Smartphones, dieses Mal mit Schwerpunkt auf Alexa. Laut Reuters wird sich das Telefon mit dem Codenamen „Transformer“ um den KI-Assistenten von Amazon drehen, aber Alexa wird „nicht unbedingt das primäre Betriebssystem sein …“",
+    "titleDE": "Amazon stellt ein Alexa-Telefon her"
+  },
+  {
+    "title": "Why people really hate AI",
+    "link": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
+    "description": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything. But when you ask people about AI, the consistent response is: no thanks. Study after study shows people are worried about the effects of AI and simply don't find the technology worth all the downsides.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Verge …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-20T13:27:53.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Es gibt derzeit eine große und zunehmende Kluft in der Kultur, wenn es um künstliche Intelligenz geht. Unternehmen jeder Art und Größe sind auf der Suche nach Einsatzorten für KI und können nicht aufhören, darüber zu reden, wie diese neue Technologie alles verändern wird. Aber wenn man Leute nach KI fragt, ist die konsistente...",
+    "titleDE": "Warum Menschen KI wirklich hassen"
+  },
+  {
+    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+    "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher  OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
+    "pubDate": "2026-03-20T13:15:45.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. OpenAI setzt alles daran, einen vollautomatischen Forscher aufzubauen. OpenAI steht vor einer neuen großen Herausforderung: den Aufbau eines KI-Forschers – eines vollautomatischen agentenbasierten ...",
+    "titleDE": "Der Download: OpenAI baut einen vollautomatischen Forscher und einen blinden Fleck für psychedelische Versuche auf"
+  },
+  {
+    "title": "The best AI investment might be in energy tech",
+    "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+    "description": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+    "pubDate": "2026-03-20T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Stromversorgung ist zu einem der größten Engpässe bei der Einführung neuer KI-Rechenzentren geworden. Das schafft eine Chance für Investoren.",
+    "titleDE": "Die beste KI-Investition könnte die Energietechnologie sein"
+  },
+  {
+    "title": "OpenAI is throwing everything into building a fully automated researcher",
+    "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "description": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new…",
+    "pubDate": "2026-03-20T11:57:16.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "OpenAI richtet seine Forschungsanstrengungen neu aus und stellt seine Ressourcen einer neuen großen Herausforderung zur Verfügung. Das Unternehmen aus San Francisco hat es sich zum Ziel gesetzt, einen sogenannten KI-Forscher aufzubauen, ein vollautomatisches agentenbasiertes System, das in der Lage sein wird, große, komplexe Probleme selbstständig zu lösen. Offen...",
+    "titleDE": "OpenAI setzt alles daran, einen vollautomatischen Forscher aufzubauen"
+  },
+  {
+    "title": "These AI notetaking devices can help you record and transcribe your meetings",
+    "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+    "description": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+    "pubDate": "2026-03-20T11:31:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Diese physischen Protokollanten transkribieren mithilfe von KI Audioinhalte und stellen Benutzern Zusammenfassungen und Aktionspunkte von Besprechungen zur Verfügung. Einige bieten sogar Live-Übersetzungen an.",
+    "titleDE": "Mit diesen KI-Notizgeräten können Sie Ihre Besprechungen aufzeichnen und transkribieren"
+  },
+  {
+    "title": "Mind-altering substances are (still) falling short in clinical trials",
+    "link": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+    "description": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
+    "pubDate": "2026-03-20T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Woche möchte ich einen Blick darauf werfen, wo wir mit Psychedelika stehen, den bewusstseinsverändernden Substanzen, die irgendwie den Sprung von der Gegenkultur zum Hauptschwerpunkt der klinischen Forschung geschafft haben. Verbindungen wie Psilocybin – das in Zauberpilzen vorkommt – werden für alle möglichen Gesundheitsanwendungen erforscht, darunter...",
+    "titleDE": "Geistesverändernde Substanzen sind in klinischen Studien (noch) unzureichend"
   },
   {
     "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
@@ -40,16 +330,6 @@
     "titleDE": "Der Online-Bot-Verkehr wird bis 2027 den menschlichen Verkehr übersteigen, sagt der CEO von Cloudflare"
   },
   {
-    "title": "A rogue AI led to a serious security incident at Meta",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-    "description": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. \nA Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a technical question another employee posted on an internal company forum. But the agent also independently publicly replied to the question after analyzin …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-19T18:20:05.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Letzte Woche hatten Meta-Mitarbeiter fast zwei Stunden lang unbefugten Zugriff auf Unternehmens- und Benutzerdaten, weil ein KI-Agent einem Mitarbeiter ungenaue technische Ratschläge gegeben hatte, wie The Information zuvor berichtete. Meta-Sprecherin Tracy Clayton sagte in einer Erklärung gegenüber The Verge, dass „keine Benutzerdaten …“",
-    "titleDE": "Eine betrügerische KI führte zu einem schwerwiegenden Sicherheitsvorfall bei Meta"
-  },
-  {
     "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
     "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
     "description": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
@@ -68,46 +348,6 @@
     "category": "news",
     "descriptionDE": "Zustellkuriere können Geld verdienen, indem sie beispielsweise alltägliche Aufgaben filmen oder sich selbst beim Sprechen in einer anderen Sprache aufzeichnen.",
     "titleDE": "DoorDash führt eine neue „Aufgaben“-App ein, die Kuriere dafür bezahlt, Videos einzusenden, um die KI zu trainieren"
-  },
-  {
-    "title": "TechCrunch Startup Battlefield 200 nominations are still open",
-    "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
-    "description": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
-    "pubDate": "2026-03-19T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nominieren Sie Ihr Startup oder eines, das Sie kennen, vor dem 27. Mai für TechCrunch Startup Battlefield 200. Chance auf eine eigenkapitalfreie Finanzierung in Höhe von 100.000 US-Dollar und Zugang zu VC.",
-    "titleDE": "Nominierungen für TechCrunch Startup Battlefield 200 sind noch offen"
-  },
-  {
-    "title": "Adobe’s AI image generator can now be trained on your own art",
-    "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
-    "description": "Just feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe\t\n\nAdobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography.\nThe tool aims to streamline workflows for teams and creators that need to produce high volumes of content, providing a reusable foundation that preserves visual consistency across multiple projects, instead of having to start from scratch each time. Adobe says that custom models can help pr …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-19T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Geben Sie einfach Ihre Bilder in den Bot ein und dieser versucht, bestimmte Stile und Ästhetiken nachzuahmen. | Bild: Adobe Adobe bringt anpassbare KI-Bildgeneratoren auf den Markt, die bestimmte künstlerische Stile und Charakterdesigns nachahmen können. Die Firefly Custom-Modelle sind ab heute in der öffentlichen Beta verfügbar und ermöglichen ...",
-    "titleDE": "Der KI-Bildgenerator von Adobe kann jetzt auf Ihre eigene Kunst trainiert werden"
-  },
-  {
-    "title": "Amazon brings Alexa+ to the UK",
-    "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
-    "description": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
-    "pubDate": "2026-03-19T12:27:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen ermöglicht Benutzern in Großbritannien derzeit, Alexa+ über ein Early-Access-Programm kostenlos auszuprobieren.",
-    "titleDE": "Amazon bringt Alexa+ nach Großbritannien"
-  },
-  {
-    "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-    "description": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice. \nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app. That medical data - such as lab results, medications, and visit history - will, alongside wearable data, help Fitbit's AI-powered health  …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-19T12:27:23.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Würden Sie Ihre Krankenakten mit einem Personal Trainer teilen? Wie wäre es mit einer virtuellen? Google, das diese Woche bekannt gegeben hat, dass es dem KI-Gesundheitstrainer von Fitbit die Möglichkeit gibt, Ihre Krankenakten zu lesen, hofft, dass die Antwort „Ja“ lautet, und folgt damit Konkurrenten wie Amazon, OpenAI und Microsoft, die darauf wetten, dass wir …",
-    "titleDE": "Der KI-Gesundheitscoach von Fitbit wird bald in der Lage sein, Ihre Krankenakten zu lesen"
   },
   {
     "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
@@ -150,16 +390,6 @@
     "titleDE": "Wie wir interne Kodiermittel auf Fehlausrichtung überwachen"
   },
   {
-    "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-    "description": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
-    "pubDate": "2026-03-19T08:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nach der Komprimierung von Modellen aus großen KI-Laboren, darunter OpenAI, Meta, DeepSeek und Mistral AI, hat Multiverse Computing sowohl eine App auf den Markt gebracht, die die Fähigkeiten seiner komprimierten Modelle demonstriert, als auch eine API, die sie breiter verfügbar macht.",
-    "titleDE": "Multiverse Computing drängt seine komprimierten KI-Modelle in den Mainstream"
-  },
-  {
     "title": "OpenAI to acquire Astral",
     "link": "https://openai.com/index/openai-to-acquire-astral",
     "description": "Accelerates Codex growth to power the next generation of Python developer tools",
@@ -168,76 +398,6 @@
     "category": "news",
     "descriptionDE": "Beschleunigt das Codex-Wachstum, um die nächste Generation von Python-Entwicklertools voranzutreiben",
     "titleDE": "OpenAI übernimmt Astral"
-  },
-  {
-    "title": "Meta is having trouble with rogue AI agents",
-    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-    "description": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
-    "pubDate": "2026-03-18T23:42:46.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein betrügerischer KI-Agent hat Meta-Unternehmens- und Benutzerdaten versehentlich Ingenieuren zugänglich gemacht, die keine Erlaubnis hatten, sie einzusehen.",
-    "titleDE": "Meta hat Probleme mit betrügerischen KI-Agenten"
-  },
-  {
-    "title": "Sam Altman’s thank-you to coders draws the memes",
-    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-    "description": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
-    "pubDate": "2026-03-18T23:12:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Altman bedankt sich bei den Menschen, die ihren Code von Grund auf neu schreiben konnten. Das Internet antwortet mit salzigen Witzen.",
-    "titleDE": "Sam Altmans Dankeschön an die Programmierer zeichnet die Memes aus"
-  },
-  {
-    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-    "description": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
-    "pubDate": "2026-03-18T20:30:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Carl Pei, CEO von Nothing, sagt, dass KI-Agenten irgendwann Apps ersetzen und Smartphones zu Systemen machen werden, die Absichten verstehen und im Namen eines Benutzers handeln.",
-    "titleDE": "Carl Pei, CEO von Nothing, sagt, dass Smartphone-Apps verschwinden werden, während KI-Agenten an ihre Stelle treten"
-  },
-  {
-    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-    "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-    "description": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-    "pubDate": "2026-03-18T20:01:19.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Netzwerkgeschäft von Nvidia hat im letzten Quartal 11 Milliarden US-Dollar eingenommen, obwohl es deutlich weniger Aufsehen erregte als Chips und Gaming.",
-    "titleDE": "Nvidia baut im Stillen einen Multimilliarden-Dollar-Giganten auf, der mit seinem Chipgeschäft konkurrieren soll"
-  },
-  {
-    "title": "David Sacks’ big Iran warning gets big time ignored",
-    "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
-    "description": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the \"spying on people\" fun?\nDo you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to tina.nguyen+tips@theverge.com. Or, if you're truly tech-pilled …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-18T18:44:21.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sek. Scott Bessent, Präsident Donald Trump und David Sacks während des Digital Assets Summit des Weißen Hauses in Washington, DC, am Freitag, 7. März 2025. | Chris Kleponis/CNP/Bloomberg über Getty Images Hallo und willkommen bei Regulator, einem Newsletter für Verge-Abonnenten über die Politik der Technologie und...",
-    "titleDE": "Die große Iran-Warnung von David Sacks wird weitgehend ignoriert"
-  },
-  {
-    "title": "ChatGPT did not cure a dog’s cancer",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-    "description": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated.\nThe version of the story that made the rounds online, first reported by The Australian, was relatively straightforward. In 2024, Sydney-based Paul Conyngham learned that his dog Rosie had cancer. Chemotherapy slowed the disease but failed to shrink the tumors. After vets said \"nothing could be done\" for the Staffordshire  …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-18T18:14:39.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Als ein australischer Technologieunternehmer ohne Biologie- oder Medizin-Hintergrund sagte, ChatGPT habe geholfen, seinen Hund vor Krebs zu retten, verbreitete sich die Geschichte mit der Art von Bestätigung, nach der sich Big Tech schon lange gesehnt hatte: dem Beweis, dass KI die Medizin revolutionieren und eine ihrer tödlichsten Krankheiten bekämpfen wird. Die Realität, wie immer...",
-    "titleDE": "ChatGPT konnte den Krebs eines Hundes nicht heilen"
-  },
-  {
-    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-    "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-    "description": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
-    "pubDate": "2026-03-18T17:54:31.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Jack Conte, CEO von Patreon, sagt, KI-Unternehmen sollten Urheber für Trainingsdaten bezahlen, und argumentiert, dass ihre Fair-Use-Verteidigung scheitert, wenn sie Inhalte von großen Verlagen lizenzieren.",
-    "titleDE": "Der CEO von Patreon bezeichnet das Fair-Use-Argument von KI-Unternehmen als „falsch“ und sagt, dass Urheber bezahlt werden sollten"
   },
   {
     "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
@@ -250,86 +410,6 @@
     "titleDE": "Bundes-Cyberexperten nannten die Cloud von Microsoft einen „Haufen Scheiße“, stimmten ihr aber trotzdem zu"
   },
   {
-    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators ",
-    "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-    "description": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
-    "pubDate": "2026-03-18T17:15:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Rebel Audio ist ein neues All-in-One-Podcasting-Tool, mit dem YouTuber Podcasts aufnehmen, Inhalte für soziale Netzwerke bearbeiten, ausschneiden und Episoden veröffentlichen können, ohne die Plattform jemals verlassen zu müssen.",
-    "titleDE": "Rebel Audio ist ein neues KI-Podcasting-Tool, das sich an Erstautoren richtet"
-  },
-  {
-    "title": "The Gemini-powered features in Google Workspace that are worth using",
-    "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-    "description": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
-    "pubDate": "2026-03-18T16:43:18.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Vom Zusammenfassen von E-Mails über das Verfassen von Inhalten bis hin zum Organisieren von Daten und dem Verfolgen von Besprechungen finden Sie hier die besten Gemini-Funktionen in Google Workspace.",
-    "titleDE": "Die von Gemini unterstützten Funktionen in Google Workspace, deren Nutzung sich lohnt"
-  },
-  {
-    "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
-    "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-    "description": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
-    "pubDate": "2026-03-18T16:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Modelle der künstlichen Intelligenz vermehren sich schnell und der Wettbewerb ist hart. Welcher wird bei so vielen Spielern der Beste sein – und wer entscheidet darüber? Arena, ehemals LM Arena, hat sich de facto zur öffentlichen Bestenliste für Frontier-LLMs entwickelt und beeinflusst Finanzierung, Markteinführungen und PR ...",
-    "titleDE": "Die Rangliste „You can’t game“ wird von den Unternehmen finanziert, die sie bewertet"
-  },
-  {
-    "title": "This startup wants to make enterprise software look more like a prompt",
-    "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
-    "description": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
-    "pubDate": "2026-03-18T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen hat 12 Millionen US-Dollar an Startkapital aufgebracht, um ein KI-Betriebssystem für Unternehmen zu entwickeln.",
-    "titleDE": "Dieses Startup möchte Unternehmenssoftware eher wie eine Eingabeaufforderung aussehen lassen"
-  },
-  {
-    "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
-    "link": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
-    "description": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
-    "pubDate": "2026-03-18T15:58:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit der Serie A stellt Sequen seine proprietäre KI-Ranking- und Personalisierungstechnologie großen Verbraucherunternehmen zur Verfügung.",
-    "titleDE": "Sequen erhält 16 Millionen US-Dollar, um jedem Verbraucherunternehmen Personalisierungstechnologie im TikTok-Stil zugänglich zu machen"
-  },
-  {
-    "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
-    "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
-    "description": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
-    "pubDate": "2026-03-18T15:33:49.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das KI-Kollaborations-Startup Cove wird geschlossen, nachdem sein Team Microsoft beigetreten ist. Der Dienst endet am 1. April und die Kundendaten werden gelöscht.",
-    "titleDE": "Microsoft stellt das Team der von Sequoia unterstützten KI-Kollaborationsplattform Cove ein"
-  },
-  {
-    "title": "The PhD students who became the judges of the AI industry",
-    "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
-    "description": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
-    "pubDate": "2026-03-18T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Modelle der künstlichen Intelligenz vermehren sich schnell und der Wettbewerb ist hart. Welcher wird bei so vielen Spielern der Beste sein – und wer entscheidet darüber? Arena, ehemals LM Arena, hat sich de facto zur öffentlichen Bestenliste für Frontier-LLMs entwickelt und beeinflusst Finanzierung, Markteinführungen und PR ...",
-    "titleDE": "Die Doktoranden, die zu Juroren der KI-Branche wurden"
-  },
-  {
-    "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
-    "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-    "description": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
-    "pubDate": "2026-03-18T13:40:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Verteidigungsministerium sagte, Bedenken, dass Anthropic „versuchen könnte, seine Technologie während „Kriegseinsätzen“ zu deaktivieren“, bestätigten seine Entscheidung, das KI-Unternehmen als Lieferkettenrisiko einzustufen.",
-    "titleDE": "Das Verteidigungsministerium sagt, Anthropics „rote Linien“ machen es zu einem „inakzeptablen Risiko für die nationale Sicherheit“."
-  },
-  {
     "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
     "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says  The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
@@ -338,16 +418,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Laut einem Verteidigungsbeamten plant das Pentagon, dass KI-Unternehmen auf geheimen Daten trainieren. Das Pentagon plant die Einrichtung sicherer Umgebungen für generative KI-Co...",
     "titleDE": "Der Download: Die neuen KI-Pläne des Pentagons und Kernreaktoren der nächsten Generation"
-  },
-  {
-    "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
-    "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
-    "description": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter how much Nvidia insists that this pursuit of photorealism is still honoring the original artists’ intent.\nFollow along below for all the latest updates about Nvidia’s DLSS 5 upgrades.\nNvidia has lost the plot with gamers\n\t\t\t\nJensen Huang, on the critical reaction to DLSS 5: “Well, first of all, they’re completely wrong.”\n\t\t\t\nNvidia’s DLSS 5 is like motion smoothing for video games, but worse\n\t\t\t\nDLSS 5 looks like a real-time generative AI filter for video games\n\t\t\t\nNvidia just announced DLSS 5 and Digital Foundry already has a video.",
-    "pubDate": "2026-03-18T12:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nvidia hat ein neues „3D-gesteuertes neuronales Rendering-Modell“ namens DLSS 5 vorgestellt, das die Beleuchtung und Materialien eines Spiels in Echtzeit ändern kann, und … viele Spieler sind nicht zufrieden. Von DLSS 5-Memes bis hin zu Beschwerden darüber, wie „Resident Evil Requiem“-Charaktere in Demos „yassifiziert“ werden – der erste Eindruck ist nicht ...",
-    "titleDE": "DLSS 5: Ist Nvidias KI-Grafiktechnologie zu weit gegangen?"
   },
   {
     "title": "What do new nuclear reactors mean for waste?",
@@ -370,16 +440,6 @@
     "titleDE": "Das Pentagon plant, dass KI-Unternehmen anhand geheimer Daten trainieren, sagt ein Verteidigungsbeamter"
   },
   {
-    "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
-    "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-    "description": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that would make her look at home in a Tilly Norwood video. The Hogwarts Legacy kids looked like they'd been wrung through an Instagram filter. Even Liverpoo …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-17T18:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Gestern stellte Nvidia seine neueste Upscaling-Technologie namens DLSS 5 vor, die es als „den bedeutendsten Durchbruch des Unternehmens in der Computergrafik seit der Einführung von Echtzeit-Raytracing im Jahr 2018“ bezeichnete. Hört sich gut an, bis man es tatsächlich sieht. Laut Nvidia verleiht die Technologie „Pixeln Ph...“",
-    "titleDE": "Nvidias DLSS 5 ähnelt der Bewegungsglättung für Videospiele, nur noch schlimmer"
-  },
-  {
     "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
     "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
     "description": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
@@ -388,16 +448,6 @@
     "category": "news",
     "descriptionDE": "Mit dem Internet verbundene Geräte, die Zugriff auf BIOS-Ebene ermöglichen? Was könnte da schief gehen?",
     "titleDE": "Forscher offenbaren Schwachstellen in IP-KVMs von vier Herstellern"
-  },
-  {
-    "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-    "description": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use Personal Intelligence through AI Mode in Search, Gemini in Chrome, and the Gemini app. However, the feature is currently only available to users on personal Google accounts, not business, enterprise, or education users. \nPersonal Intelligence uses data from connected apps, like YouTube, Google Photos, and Gmail, to  …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-17T16:33:41.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google gab am Dienstag bekannt, dass alle Nutzer in den USA nun Zugriff auf seine Personal Intelligence-Funktion haben werden, mit der Sie verschiedene Google-Apps verbinden können, um Kontext für die Antworten und Vorschläge von Gemini bereitzustellen. Bisher war der Zugriff auf Google AI Pro- und AI Ultra-Abonnenten beschränkt. Nun, freies Unentschieden...",
-    "titleDE": "Jetzt erhält jeder in den USA die personalisierte Gemini-KI von Google"
   },
   {
     "title": "Bringing the power of Personal Intelligence to more people",
@@ -420,16 +470,6 @@
     "titleDE": "Unsere neueste Investition in Open-Source-Sicherheit für das KI-Zeitalter"
   },
   {
-    "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
-    "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
-    "description": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers.\nThe changes will see Microsoft AI CEO Mustafa Suleyman focus on creating Microsoft's own AI models, instead of working directly on the assistant-like features of Copilot for consumers. Suleyman first joined Microsoft nearly two years ago, after Microsoft hired a bunch of folks from Inflection AI. Months after Suleyman's hirin …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-17T15:17:27.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Microsoft führt heute einen weiteren Führungswechsel durch, um die Entwicklung seines Copilot-Assistenten neu zu organisieren. Verschiedene Teams arbeiten seit Jahren auf der Verbraucher- und kommerziellen Seite von Copilot, aber Microsoft ist dabei, Teile davon zu vereinheitlichen, um ein kohärenteres Copilot für Unternehmen zu schaffen ...",
-    "titleDE": "Microsoft ernennt nach Umstrukturierung der KI-Führung einen neuen Copilot-Chef"
-  },
-  {
     "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
     "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications…",
@@ -438,16 +478,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wo die Technologie von OpenAI im Iran auftauchen könnte OpenAI hat kontrovers zugestimmt, dem Pentagon Zugang zu seiner KI zu gewähren. Aber wo genau könnte seine Technologie auftauchen?",
     "titleDE": "Der Download: OpenAIs US-Militärabkommen und Groks CSAM-Klage"
-  },
-  {
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "link": "https://openai.com/index/japan-teen-safety-blueprint",
-    "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "pubDate": "2026-03-17T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI Japan kündigt den Japan Teen Safety Blueprint an, der einen stärkeren Altersschutz, Kindersicherung und Schutzmaßnahmen für das Wohlbefinden von Teenagern einführt, die generative KI nutzen.",
-    "titleDE": "OpenAI Japan kündigt den Japan Teen Safety Blueprint an, um die Sicherheit von Teenagern an die erste Stelle zu setzen"
   },
   {
     "title": "Introducing GPT-5.4 mini and nano",
@@ -460,6 +490,16 @@
     "titleDE": "Wir stellen vor: GPT-5.4 Mini und Nano"
   },
   {
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "link": "https://openai.com/index/japan-teen-safety-blueprint",
+    "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "pubDate": "2026-03-17T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI Japan kündigt den Japan Teen Safety Blueprint an, der einen stärkeren Altersschutz, Kindersicherung und Schutzmaßnahmen für das Wohlbefinden von Teenagern einführt, die generative KI nutzen.",
+    "titleDE": "OpenAI Japan kündigt den Japan Teen Safety Blueprint an, um die Sicherheit von Teenagern an die erste Stelle zu setzen"
+  },
+  {
     "title": "Equipping workers with insights about compensation",
     "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
     "description": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
@@ -468,55 +508,5 @@
     "category": "news",
     "descriptionDE": "Neue Untersuchungen zeigen, dass Amerikaner täglich fast 3 Millionen Nachrichten an ChatGPT senden, in denen sie nach Vergütung und Verdienst fragen, und so dazu beitragen, die Lücke bei den Lohninformationen zu schließen.",
     "titleDE": "Den Arbeitnehmern Erkenntnisse über die Vergütung vermitteln"
-  },
-  {
-    "title": "Where OpenAI’s technology could show up in Iran",
-    "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
-    "pubDate": "2026-03-16T17:06:21.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Es ist etwas mehr als zwei Wochen her, seit OpenAI eine umstrittene Vereinbarung getroffen hat, die es dem Pentagon erlaubt, seine KI in geheimen Umgebungen einzusetzen. Es gibt noch Presse...",
-    "titleDE": "Wo die Technologie von OpenAI im Iran auftauchen könnte"
-  },
-  {
-    "title": "Nurturing agentic AI beyond the toddler stage",
-    "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-    "description": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices…",
-    "pubDate": "2026-03-16T13:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Eltern kleiner Kinder haben große Ängste vor Meilensteinen in der Entwicklung, vom Säuglingsalter bis zum Erwachsenenalter. Die Anzahl der Monate, die ein Baby braucht, um sprechen oder laufen zu lernen, wird oft als Maßstab für das Wohlbefinden oder als Indikator für zusätzliche Tests verwendet, die zur richtigen Diagnose eines potenziellen Gesundheitsproblems erforderlich sind.",
-    "titleDE": "Förderung der Agenten-KI über das Kleinkindstadium hinaus"
-  },
-  {
-    "title": "The Download: glass chips and “AI-free” logos",
-    "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
-    "pubDate": "2026-03-16T12:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Künftige KI-Chips könnten auf Glas gebaut werden. Von Menschen hergestelltes Glas ist Tausende von Jahren alt. Aber jetzt ist es bereit, seinen Weg in die KI-Chips zu finden, die in den neuesten Technologien der Welt verwendet werden.",
-    "titleDE": "Der Download: Glaschips und „KI-freie“ Logos"
-  },
-  {
-    "title": "Why Codex Security Doesn’t Include a SAST Report",
-    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "description": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-    "pubDate": "2026-03-16T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Ein tiefer Einblick in die Frage, warum Codex Security nicht auf traditionelles SAST setzt, sondern stattdessen KI-gesteuerte Einschränkungsbegründung und -validierung nutzt, um echte Schwachstellen mit weniger Fehlalarmen zu finden.",
-    "titleDE": "Warum Codex Security keinen SAST-Bericht enthält"
-  },
-  {
-    "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-    "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-    "description": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-    "pubDate": "2026-03-13T20:18:08.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Unicode, das für das menschliche Auge unsichtbar ist, wurde weitgehend aufgegeben – bis Angreifer es bemerkten.",
-    "titleDE": "Ein Supply-Chain-Angriff mit unsichtbarem Code trifft GitHub und andere Repositories"
   }
 ]
