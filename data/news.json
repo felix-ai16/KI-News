@@ -1,5 +1,55 @@
 [
   {
+    "title": "Why OpenAI really shut down Sora",
+    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+    "pubDate": "2026-03-30T03:09:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Entscheidung von OpenAI letzte Woche, Sora, sein KI-Tool zur Videogenerierung, nur sechs Monate nach seiner Veröffentlichung für die Öffentlichkeit abzuschalten, löste sofort Verdacht aus. Die App hatte Benutzer aufgefordert, ihre eigenen Gesichter hochzuladen – handelte es sich also um eine Art aufwändige Datenerfassung?",
+    "titleDE": "Warum OpenAI Sora wirklich abgeschaltet hat"
+  },
+  {
+    "title": "All the latest in AI &#8216;music&#8217;",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+    "description": "People don’t like that they can’t identify AI music. | Image: Cath Virginia / The Verge\t\n\nAI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly is “really active“? Whether it’s a new model or a new lawsuit, we’re covering it all to make sure you don’t miss any major developments. \nSo follow along as we dig into the latest in AI “music.”\n\n\n\t\t\t\t\t\nSuno leans into customization with v5.5\n\t\t\t\nThe music industry has embraced a “don’t ask, don’t tell” policy about AI.\n\t\t\t\nNorth Carolina man pleads guilty to AI music streaming fraud.\n\t\t\t\nApple Music adds optional labels for AI songs and visuals\n\t\t\t\nQobuz is automatically detecting and labeling AI music now, too.\n\t\t\t\nThis Chainsmokers-approved AI music producer is joining Google\n\t\t\t\nGoogle’s AI music maker is coming to the Gemini app\n\t\t\t\nDeezer opens its AI music detection tool to other platforms\n\t\t\t\nElevenLabs made an AI album to plug its music generator\n\t\t\t\nBandcamp becomes the first major music platform to ban AI content\n\t\t\t\nUniversal Music signs a new AI deal with Nvidia\n\t\t\t\nMusicians are getting really tired of this AI clone ‘bullshit’\n\t\t\t\nGet ready for an AI country music explosion\n\t\t\t\n97 percent of people struggle to identify AI music, but it’s not as bad as it seems\n\t\t\t\nWarner Music Group partners with Suno to offer AI likenesses of its artists\n\t\t\t\nThe music industry is all in on AI\n\t\t\t\nNo, typing an AI prompt is not ‘really active’ music creation\n\t\t\t\nSuno valued at $2.45 billion in latest funding round as lawsuits loom.\n\t\t\t\nThe human behind AI music artist Xania Monet, revealed.\n\t\t\t\nSuno’s upgraded AI music generator is technically impressive, but still soulless\n\t\t\t\nWhat happens when an AI-generated artist gets a record deal? A copyright mess\n\t\t\t\nRecord labels claim AI generator Suno illegally ripped their songs from YouTube\n\t\t\t\nCan the music industry make AI the next Napster?\n\t\t\t\nAI music company Suno acquired a browser-based audio editing tool called WavTool.\n\t\t\t\nThe music industry is building the tech to hunt down AI songs\n\t\t\t\nSabotaging AI music with sick beats.\n\t\t\t\nYouTube’s new AI tool generates free background music for videos\n\t\t\t\nSplice CEO Kakul Srivastava on where to draw hard lines around AI in music\n\t\t\t\nMaking human music in an AI world\n\t\t\t\nAI music startups say copyright violation is just rock and roll\n\t\t\t\nThe music industry’s AI fight\n\t\t\t\nListen to the AI songs music labels say violate their copyright.\n\t\t\t\nWarner Music Group’s CEO says we might see AI prompt-generated music really soon.\n\t\t\t\nAI-generated music isn’t just a copyright hazard.\n\t\t\t\nHow AI is solving one of music’s most expensive problems",
+    "pubDate": "2026-03-30T01:32:14.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Den Leuten gefällt es nicht, dass sie KI-Musik nicht identifizieren können. | Bild: Cath Virginia / The Verge AI hat jeden Bereich der Musikindustrie berührt, von der Beschaffung von Samples und Demoaufnahmen bis hin zur Bereitstellung digitaler Linernotes und der Erstellung von Playlists. Es gibt technische und rechtliche Herausforderungen, heftige ethische Debatten ...",
+    "titleDE": "Das Neueste in Sachen KI-„Musik“"
+  },
+  {
+    "title": "Helping disaster response teams turn AI into action across Asia",
+    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "pubDate": "2026-03-29T22:15:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "KI für die Katastrophenhilfe in Asien: OpenAI-Workshop mit der Gates Foundation",
+    "titleDE": "Unterstützung von Katastrophenschutzteams bei der Umsetzung von KI in ganz Asien"
+  },
+  {
+    "title": "Bluesky’s new app is an AI for customizing your feed",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+    "description": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). \nAttie allows users to create custom feeds using natural language. For example, you could ask for \"posts about folklore, mythology, and traditional music, especially Celtic traditions.\" To start these custom feeds will be confined to a standalone Attie app. But the plan is to make them available in Bluesky and other atproto apps. \n …\nRead the full story at The Verge.",
+    "pubDate": "2026-03-29T21:44:41.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die neueste App des Teams hinter Bluesky ist Attie, ein KI-Assistent, mit dem Sie Ihren eigenen Algorithmus erstellen können. Auf der Atmosphere-Konferenz stellten Jay Graber, ehemaliger CEO von Bluesky, und Paul Frazee, CTO, Attie vor, das auf Claude von Anthropic basiert und auf dem zugrunde liegenden AT-Protokoll von Bluesky aufbaut ...",
+    "titleDE": "Die neue App von Bluesky ist eine KI zum Anpassen Ihres Feeds"
+  },
+  {
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "description": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "pubDate": "2026-03-29T16:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Handelt es sich dabei nur um eine normale Unternehmensstrategie oder steht uns ein breiterer Rückgang bei KI-generierten Videos bevor?",
+    "titleDE": "Soras Abschaltung könnte ein Realitätscheck für KI-Videos sein"
+  },
+  {
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "description": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
@@ -240,26 +290,6 @@
     "titleDE": "Berichten zufolge wird Apple anderen KI-Chatbots erlauben, sich an Siri anzuschließen"
   },
   {
-    "title": "Apple’s AI Playlist Playground is bad at music",
-    "link": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
-    "description": "Apple Music: \"What do you want to hear?\"\nMe: \"Atmospheric instrumental black metal to write to.\"\nApple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" \nI am skeptical of AI's ability to serve up the music I want to begin with, but even I was caught slightly off guard by how underwhelming Apple's new Playlist Playground beta is. YouTube Music's AI playlist generator is far from perfect, but when I gave it the same prompt for instrumental black metal, it wasn't until the fifth track that it delivered something with lyrics, and that was the exception, rather than the ru …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-26T20:51:31.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apple Music: „Was möchtest du hören?“ Ich: „Atmosphärischer instrumentaler Black Metal zum Schreiben.“ Apple Music: „Hier sind drei Metal-Songs mit Gesang, eine Feldaufnahme, ein elektronischer Ambient-Track und ein Stück Doom-Jazz.“ Ich bin skeptisch gegenüber der Fähigkeit der KI, die Musik zu servieren, mit der ich beginnen möchte, b...",
-    "titleDE": "Apples AI Playlist Playground ist schlecht in Sachen Musik"
-  },
-  {
-    "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
-    "link": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-    "description": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday.\nSearch Live rolled out broadly in the US last September, allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio response, along with links to information it finds on the web.\n\nVideo: Google\n\nGoogle says it's powering the global expansion of Search Live with its new  …\nRead the full story at The Verge.",
-    "pubDate": "2026-03-26T18:47:51.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google erweitert den Zugriff auf Search Live, eine Funktion, mit der Sie mit Ihrer Stimme und Ihrer Kamera nach Informationen suchen können. Laut einer Ankündigung vom Donnerstag ist der KI-Suchassistent mittlerweile in mehr als 200 Ländern und Territorien sowie Dutzenden Sprachen verfügbar. Search Live eingeführt...",
-    "titleDE": "Googles „Live“-Funktion Der KI-Suchassistent kann Gespräche in Dutzenden weiteren Sprachen führen"
-  },
-  {
     "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
     "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
     "description": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
@@ -370,16 +400,6 @@
     "titleDE": "Ein „Pfund Fleisch“ aus Rechenzentren: die Antwort eines Senators auf den Verlust von KI-Arbeitsplätzen"
   },
   {
-    "title": "Mistral releases a new open source model for speech generation",
-    "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-    "description": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
-    "pubDate": "2026-03-26T11:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Modell, das es Unternehmen ermöglicht, Sprachagenten für Vertrieb und Kundenbindung zu entwickeln, stellt Mistral in direkte Konkurrenz zu Unternehmen wie ElevenLabs, Deepgram und OpenAI.",
-    "titleDE": "Mistral veröffentlicht ein neues Open-Source-Modell zur Sprachgenerierung"
-  },
-  {
     "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
     "link": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
     "description": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and soon avalanche) predictions than anything else out there.…",
@@ -398,16 +418,6 @@
     "category": "trend",
     "descriptionDE": "Ich lebe in einer dichten Stadt mit zahlreichen öffentlichen Verkehrsmitteln und begrenzten Parkmöglichkeiten, daher besitze ich kein Auto. Ich habe oft keine Ahnung, wie hoch der aktuelle Benzinpreis ist. Aber als der Konflikt im Iran eskalierte, erlebten die Preise für fossile Brennstoffe eine Achterbahnfahrt, und ich begann, aufmerksam zu sein …",
     "titleDE": "Sind hohe Benzinpreise eine gute Nachricht für Elektrofahrzeuge? Es ist kompliziert."
-  },
-  {
-    "title": "The least surprising chapter of the Manus story is what’s happening right now",
-    "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-    "description": "Did anyone think there would not be a reckoning over this tie-up?",
-    "pubDate": "2026-03-26T02:46:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Hätte irgendjemand geglaubt, dass es wegen dieser Verbindung keine Abrechnung geben würde?",
-    "titleDE": "Das am wenigsten überraschende Kapitel der Manus-Geschichte ist das, was gerade passiert"
   },
   {
     "title": "Roundtables: The Next Era of Space Exploration",
@@ -477,7 +487,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Dieser Wissenschaftler hat Teile des kryokonservierten Gehirns seines Freundes L. Stephen Coles wieder aufgewärmt und untersucht. Das Gehirn liegt in einem Bottich in einem Lagerhaus in Arizona. Es hat Biene...",
-    "titleDE": "Der Download: Eingefrorene Gehirne werden wieder zum Leben erweckt, und der KI-Hype-Index kehrt zurück"
+    "titleDE": "Der Download: Eingefrorene Gehirne erwachen wieder und der KI-Hype-Index kehrt zurück"
   },
   {
     "title": "Inside our approach to the Model Spec",
@@ -526,7 +536,7 @@
     "pubDate": "2026-03-24T09:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "ChatGPT führt ein reichhaltigeres, visuell immersiveres Einkaufen ein, das auf dem Agentic Commerce Protocol basiert und die Produkterkennung, direkte Vergleiche und die Händlerintegration ermöglicht.",
+    "descriptionDE": "ChatGPT führt ein umfassenderes, visuell immersiveres Einkaufen ein, das auf dem Agentic Commerce Protocol basiert und die Produkterkennung, direkte Vergleiche und die Händlerintegration ermöglicht.",
     "titleDE": "Ermöglichen Sie die Produkterkennung in ChatGPT"
   },
   {
@@ -538,15 +548,5 @@
     "category": "news",
     "descriptionDE": "Die OpenAI Foundation kündigt Pläne an, mindestens 1 Milliarde US-Dollar in die Heilung von Krankheiten, wirtschaftliche Chancen, KI-Resilienz und Gemeinschaftsprogramme zu investieren.",
     "titleDE": "Update zur OpenAI Foundation"
-  },
-  {
-    "title": "Creating with Sora Safely",
-    "link": "https://openai.com/index/creating-with-sora-safely",
-    "description": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-    "pubDate": "2026-03-23T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Um den neuartigen Sicherheitsherausforderungen zu begegnen, die ein hochmodernes Videomodell sowie eine neue Social-Creation-Plattform mit sich bringt, haben wir Sora 2 und die Sora-App mit Sicherheit als Grundlage entwickelt. Unser Ansatz ist in konkreten Schutzmaßnahmen verankert.",
-    "titleDE": "Sicheres Erstellen mit Sora"
   }
 ]
