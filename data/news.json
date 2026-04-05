@@ -1,5 +1,35 @@
 [
   {
+    "title": "A folk musician became a target for AI fakes and a copyright troll",
+    "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+    "description": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\t\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.\nShe quickly surmised that someone had pulled performances of the songs she posted to YouTube, created AI covers, and uploaded them to streaming platforms under her name. I ran one of the songs, \"Four Marys\", through two different AI detectors, and it seemed to support her suspicions with both saying it was probably AI-generated.\nCampbell was shocked, \"I was kind of under the impression that we had a little b …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-04T17:52:10.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Murphy Campbell steht im Zentrum eines sich zusammenbrauenden Sturms rund um KI und ein kaputtes Urheberrechtssystem. | Bild: Murphy Campbell Im Januar entdeckte die Folk-Künstlerin Murphy Campbell mehrere Songs auf ihrem Spotify-Profil, die nicht dorthin gehörten. Es waren Lieder, die sie aufgenommen, aber nie hochgeladen hatte...",
+    "titleDE": "Ein Volksmusiker wurde zum Ziel von KI-Fälschungen und zum Urheberrechtstroll"
+  },
+  {
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "pubDate": "2026-04-04T16:32:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Für Claude Code-Abonnenten wird die Nutzung des Codierungsassistenten von Anthropic mit OpenClaw und anderen Tools von Drittanbietern immer teurer.",
+    "titleDE": "Laut Anthropic müssen Claude Code-Abonnenten für die Nutzung von OpenClaw einen Aufpreis zahlen"
+  },
+  {
+    "title": "Really, you made this without AI? Prove it",
+    "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+    "description": "\"This looks like AI.\"\nIt's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content.\nThis leads me to one conclusion: maybe we should start labeling human-made text, images, audio, and video with something akin to a universally recognized Fair Trade logo. The machines sure as hell aren't motivated to label their work, but the creators at risk of being displaced most definitely are.\nFortunately, I'm not alone in my thinki …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-04T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "„Das sieht nach KI aus.“ Es ist ein Satz, den ich als Autor, der sich mit Illustration und Amateurfotografie beschäftigt, fürchtet. In einer Welt, in der generative KI-Technologie zunehmend dazu in der Lage ist, die Arbeit von Menschen nachzuahmen, sind die Menschen natürlich skeptisch, wenn Online-Plattformen sich weigern, selbst offensichtliche KI-Inhalte zu kennzeichnen ...",
+    "titleDE": "Wirklich, Sie haben das ohne KI gemacht? Beweisen Sie es"
+  },
+  {
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
     "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
@@ -230,26 +260,6 @@
     "titleDE": "Es ist nicht einfach, über die FDA eine KI zur Depressionserkennung zu bekommen"
   },
   {
-    "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-    "link": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-    "description": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, he'd been preparing for the transition for as many as nine months - and though renegotiating Microsoft's contract with OpenAI is the thing that officially \"unlocked [Microsoft's] ability to pursue superintelligence,\" he'd been planning even before the ink was dry. \n\"This has been a long-held plan,\" he  …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-02T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Mustafa Suleyman hat sich schon lange auf seine neue Stellenbeschreibung vorbereitet. Suleyman ist der erste KI-CEO von Microsoft, aber nachdem das Unternehmen Mitte März eine umfassende Umstrukturierung durchführte, gab er einige Aufgaben ab und konzentrierte sich auf die Suche nach Superintelligenz. Obwohl die Nachricht nur...",
-    "titleDE": "Bei Microsofts neuem „Superintelligenz“-Spielplan dreht sich alles ums Geschäft"
-  },
-  {
-    "title": "Google Home’s latest update makes Gemini better at understanding your commands",
-    "link": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-    "description": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will pick the color based on your prompt.\nYou can also use more natural and precise language when asking Gemini to control your appliances or climate. That means you can now tell Gemini to \"preheat the smart oven to 350 degrees\" or set specific humidity levels. Google has improved Gemini's ability to identify your devices, too - lik …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-02T13:30:12.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google veröffentlicht ein weiteres Update seiner Home-App, das die Steuerung Ihres Smart Homes mit seinem Gemini AI-Assistenten „natürlicher und zuverlässiger“ machen soll, heißt es in den Versionshinweisen dieser Woche. Mit dem Update können Sie die gewünschte Beleuchtungsart beschreiben, z. B. „die Farbe des Ozeans …“",
-    "titleDE": "Mit dem neuesten Update von Google Home versteht Gemini Ihre Befehle besser"
-  },
-  {
     "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
     "link": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices. But looking ahead, further consequences could…",
@@ -438,16 +448,6 @@
     "category": "news",
     "descriptionDE": "Nein, der Himmel stürzt nicht ein, aber der Q Day steht vor der Tür und er wird nicht so teuer wie gedacht.",
     "titleDE": "Quantencomputer benötigen wesentlich weniger Ressourcen als angenommen, um wichtige Verschlüsselungen zu knacken"
-  },
-  {
-    "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-    "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-    "description": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-    "pubDate": "2026-03-31T17:41:35.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sie können jetzt mit Alexa+ bei Uber Eats und Grubhub bestellen, ein Erlebnis, das laut Amazon dem Chatten mit einem Kellner in einem Restaurant oder dem Aufgeben einer Bestellung an einem Drive-in ähnelt.",
-    "titleDE": "Alexa+ erhält mit Uber Eats und Grubhub neue Erfahrungen beim Bestellen von Lebensmitteln"
   },
   {
     "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
