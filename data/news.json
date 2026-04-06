@@ -1,5 +1,65 @@
 [
   {
+    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+    "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "description": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+    "pubDate": "2026-04-05T18:51:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "KI-Skeptiker sind nicht die einzigen, die Benutzer davor warnen, den Ergebnissen von Modellen unüberlegt zu vertrauen – das sagen die KI-Unternehmen selbst in ihren Nutzungsbedingungen.",
+    "titleDE": "Laut den Nutzungsbedingungen von Microsoft dient Copilot „nur Unterhaltungszwecken“."
+  },
+  {
+    "title": "Suno is a music copyright nightmare",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+    "description": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns out that Suno's copyright filters are incredibly easy to fool.\nWith minimal effort and some free software, Suno will spit out AI-generated imitations of popular songs like Beyoncé's \"Freedom,\" Black Sabbath's \"Paranoid,\" and Aqua's \"Barbie Girl\" that are alarmingly close to the original. Most people will likely be able to tell the dif …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-05T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Richtlinie der KI-Musikplattform Suno lautet, dass die Verwendung von urheberrechtlich geschütztem Material nicht gestattet ist. Sie können Ihre eigenen Titel zum Remixen hochladen oder Ihre Originaltexte auf KI-generierte Musik setzen. Aber es soll Sie erkennen und Sie davon abhalten, die Lieder und Texte anderer Leute zu verwenden. Kein System ist perfekt, aber...",
+    "titleDE": "Suno ist ein Musik-Urheber-Albtraum"
+  },
+  {
+    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+    "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+    "description": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+    "pubDate": "2026-04-05T15:40:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In der neuesten Folge des Equity-Podcasts von TechCrunch haben wir über Elon Musks Vision für Rechenzentren im Weltraum diskutiert.",
+    "titleDE": "Können Orbital-Rechenzentren dazu beitragen, eine massive Bewertung für SpaceX zu rechtfertigen?"
+  },
+  {
+    "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+    "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+    "description": "Take me to the tacos, Gemini.\t\n\nYou may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. \nWhile it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great.\nTo put it to the test, I had Gemini plan a day-long itinerary for me around the city. After an hour or so of having Gemini find stuff for me - playgrounds near the new light rail extension, kid-friendly restaurants with vehicle themes, you get the gist - I was impressed. Some of the suggestions were obvious, but I also bookmarked a handful of spots not on m …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-05T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Bring mich zu den Tacos, Zwillinge. Möglicherweise kennen Sie Gemini als Bestandteil jedes Google-Dienstes, den Sie nutzen – ob Sie es wollen oder nicht. Während es in Gmail seit mindestens einem Jahr eine ständige, manchmal unwillkommene Präsenz ist, ist es eine relativ neue Ergänzung zu Maps. Und wissen Sie was? Es'...",
+    "titleDE": "Ich ließ Gemini in Google Maps meinen Tag planen und es lief überraschend gut"
+  },
+  {
+    "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+    "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "description": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+    "pubDate": "2026-04-05T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Aufgrund des Arbeitskräftemangels drängt Japan dazu, physische KI von Pilotprojekten in den realen Einsatz zu überführen.",
+    "titleDE": "In Japan kommt nicht der Roboter für Ihren Job; es füllt das aus, was niemand will"
+  },
+  {
+    "title": "Grammarly’s sloppelganger saga",
+    "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. \nHow it started\nMost people probably know Grammarly for its browser extension that suggests how to spruce up your emails, but over the past few years, it's been eyeing bigger ambitions. In October, the company formerly known as Grammarly made a public pivot to rebrand as an AI company called Superhuman. The new name was adopted from Superhuman Mail, an AI email platform that Grammarly acquired i …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-05T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Um mehr über die Höhen und Tiefen der KI zu erfahren, folgen Sie Stevie Bonifield. Der Stepback erreicht die Posteingänge unserer Abonnenten um 8 Uhr ET. Melden Sie sich hier für The Stepback an. Wie es begann Die meisten Leute kennen wahrscheinlich Grammarly ...",
+    "titleDE": "Grammarlys Sloppelganger-Saga"
+  },
+  {
     "title": "A folk musician became a target for AI fakes and a copyright troll",
     "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
     "description": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\t\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.\nShe quickly surmised that someone had pulled performances of the songs she posted to YouTube, created AI covers, and uploaded them to streaming platforms under her name. I ran one of the songs, \"Four Marys\", through two different AI detectors, and it seemed to support her suspicions with both saying it was probably AI-generated.\nCampbell was shocked, \"I was kind of under the impression that we had a little b …\nRead the full story at The Verge.",
@@ -147,7 +207,7 @@
     "source": "The Verge",
     "category": "news",
     "descriptionDE": "Die ganze Woche haben wir Sie gebeten, uns anlässlich des 50-jährigen Firmenjubiläums dabei zu helfen, die 50 besten Produkte zu bewerten, die Apple je hergestellt hat. Vielen Dank an alle, die mitgemacht haben – am Ende haben wir mehr als 1,6 Millionen Stimmen erhalten! Wir haben auch viele andere Berichterstattungen über Apples erstes halbes Jahrhundert, und Sie sollten sich hier umsehen …",
-    "titleDE": "Das beste Produkt von Apple aller Zeiten"
+    "titleDE": "Apples bestes Produkt aller Zeiten"
   },
   {
     "title": "Chatbots are now prescribing psychiatric drugs",
@@ -178,26 +238,6 @@
     "category": "news",
     "descriptionDE": "TBPN, der kultige Tech-Podcast im Silicon Valley, wird unabhängig agieren, auch wenn er von Chris Lehane, dem Chefpolitiker, beaufsichtigt wird.",
     "titleDE": "OpenAI erwirbt TBPN, die beliebte, von Gründern geleitete Business-Talkshow"
-  },
-  {
-    "title": "Elon Musk is about to be a very busy boy!",
-    "link": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-    "description": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case.\nBased on the April 1st filing, and the general length of an SEC review before the S-1 document becomes public, the earliest I am expecting a SpaceX IPO is June. (At least, assuming there is still anyone left at the SEC who wants to do their job instead of just glance at the first page of the filing, say, \"Seems fine!\" and then go out for a smoke break.) Of course, this process could  …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-02T18:15:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Um ehrlich zu sein, dachte ich, Elon Musk würde vertraulich den Börsengang von SpaceX am 20. dieses Monats und nicht am 1. beantragen. Aber vielleicht bedeutet das nur, dass er zu anderen Zahlen übergegangen ist, und wir sollten uns alle für alle Fälle den 7. Juni als Börsengangsdatum vormerken. Basierend auf der Einreichung vom 1. April und dem...",
-    "titleDE": "Elon Musk wird bald ein sehr beschäftigter Junge sein!"
-  },
-  {
-    "title": "OpenAI just bought TBPN",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-    "description": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and Fox Business as its competitors. \nTBPN's livestream is primarily available on X and YouTube, but many users watch it on X. OpenAI's purchase comes as a lawsuit between Altman and Elon Musk, who was a co-founder of OpenAI before splitting from the project and now owns X, is headed to trial later this mont …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-02T17:40:07.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI hat TBPN gekauft, eine Online-Talkshow, in der häufig KI-Führungskräfte und andere Technologieführer interviewt werden. Die Show geht jeden Wochentag um 14:00 Uhr (PT) live, oft für eine Dauer von drei Stunden, unter anderem mit OpenAI-CEO Sam Altman sowie Führungskräften von Meta, Microsoft, Palantir und Andreessen Horowitz ...",
-    "titleDE": "OpenAI hat gerade TBPN gekauft"
   },
   {
     "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
@@ -248,16 +288,6 @@
     "category": "news",
     "descriptionDE": "Neue KI-Funktionen kommen zu Google Vids, unterstützt von Lyria 3 und Veo 3.1, wie die kostenlose Erstellung hochwertiger Videos und mehr.",
     "titleDE": "Erstellen, bearbeiten und teilen Sie kostenlos Videos in Google Vids"
-  },
-  {
-    "title": "It’s not easy to get depression-detecting AI through the FDA",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-    "description": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life beyond healthcare, like detecting deepfake audio. \nMental health assessments still largely rely on patient questionnaires and clinical interviews, rather than the lab tests or scans common in physical medicine. Instead of focusing on what someone is saying, Kintsugi's software analyzes how it is being said. Th …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-02T15:33:23.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Seit sieben Jahren entwickelt das in Kalifornien ansässige Startup Kintsugi eine KI, die darauf abzielt, Anzeichen von Depressionen und Angstzuständen anhand der Sprache einer Person zu erkennen. Nachdem es dem Unternehmen jedoch nicht gelungen ist, rechtzeitig die FDA-Zulassung zu erhalten, stellt es den Betrieb ein und veröffentlicht den Großteil seiner Technologie als Open Source. Manche ...",
-    "titleDE": "Es ist nicht einfach, über die FDA eine KI zur Depressionserkennung zu bekommen"
   },
   {
     "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
@@ -357,7 +387,7 @@
     "source": "Google AI",
     "category": "news",
     "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom März 2026",
-    "titleDE": "Die neuesten KI-Neuigkeiten haben wir im März 2026 angekündigt"
+    "titleDE": "Die neuesten KI-Neuigkeiten, die wir im März 2026 angekündigt haben"
   },
   {
     "title": "The Download: gig workers training humanoids, and better AI benchmarks",
@@ -410,36 +440,6 @@
     "titleDE": "Anthropic hat einen Monat Zeit"
   },
   {
-    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "description": "Slack just got a whole lot more useful.",
-    "pubDate": "2026-03-31T22:46:25.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Slack ist jetzt noch viel nützlicher.",
-    "titleDE": "Salesforce kündigt eine KI-lastige Überarbeitung von Slack mit 30 neuen Funktionen an"
-  },
-  {
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-    "pubDate": "2026-03-31T21:25:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die jüngste Finanzierungsrunde von OpenAI, angeführt von Amazon, Nvidia und SoftBank, bewertet das KI-Labor mit 852 Milliarden US-Dollar, da es kurz vor dem Börsengang steht.",
-    "titleDE": "OpenAI, noch nicht öffentlich, sammelt 3 Milliarden US-Dollar von Privatanlegern im Rahmen einer gigantischen Spendenaktion in Höhe von 122 Milliarden US-Dollar ein"
-  },
-  {
-    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-    "pubDate": "2026-03-31T20:01:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Weniger als ein Jahr nach dem Start schließt das Crowdsourcing-KI-Modell-Feedback-Startup Yupp mit Schecks von einigen der größten Namen im Silicon Valley sein Geschäft, teilte das Unternehmen am Dienstag mit.",
-    "titleDE": "Yupp wird geschlossen, nachdem es 33 Millionen US-Dollar von Chris Dixon von a16z crypto gesammelt hat"
-  },
-  {
     "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
     "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
     "description": "No, the sky isn't falling, but Q Day is coming, and it won't be as expensive as thought.",
@@ -467,7 +467,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "In den Anfängen großer Sprachmodelle (LLMs) gewöhnten wir uns an massive 10-fache Sprünge in der Argumentations- und Codierungsfähigkeit bei jeder neuen Modelliteration. Heute haben sich diese Sprünge in schrittweise Zuwächse abgeflacht. Die Ausnahme bildet die domänenspezialisierte Intelligenz, bei der echte Schrittfunktionsverbesserungen erfolgen.",
-    "titleDE": "Die Umstellung auf die Anpassung von KI-Modellen ist eine architektonische Notwendigkeit"
+    "titleDE": "Der Übergang zur Anpassung von KI-Modellen ist eine architektonische Notwendigkeit"
   },
   {
     "title": "Accelerating the next phase of AI",
@@ -518,15 +518,5 @@
     "category": "trend",
     "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Letzten Donnerstag hat ein kalifornischer Richter das Pentagon vorübergehend daran gehindert, Anthropic als Lieferkettenrisiko zu bezeichnen und Regierungsbehörden anzuweisen, die Nutzung seiner ... einzustellen.",
     "titleDE": "Die Kulturkriegstaktik des Pentagons gegen Anthropic ist nach hinten losgegangen"
-  },
-  {
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-    "pubDate": "2026-03-29T22:15:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "KI für die Katastrophenhilfe in Asien: OpenAI-Workshop mit der Gates Foundation",
-    "titleDE": "Unterstützung von Katastrophenschutzteams bei der Umsetzung von KI in ganz Asien"
   }
 ]
