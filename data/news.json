@@ -1,5 +1,45 @@
 [
   {
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+    "pubDate": "2026-04-11T17:18:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der neue Blogbeitrag des CEO von OpenAI reagiert sowohl auf einen offensichtlichen Angriff auf sein Zuhause als auch auf ein ausführliches New Yorker-Profil, das Fragen zu seiner Vertrauenswürdigkeit aufwirft.",
+    "titleDE": "Sam Altman antwortet auf einen „aufrührerischen“ Artikel im New Yorker nach dem Angriff auf sein Haus"
+  },
+  {
+    "title": "Your article about AI doesn’t need AI art",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "description": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there's a disclosure that might spook many illustrators far more: \"Visual by David Szauder; Generated using A.I.\"\nSzauder is a mixed-media artist who has been working with collage, video, and generative art processes that predate commercial AI tools for over a decade, and was recently …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-11T15:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Illustration für das Profil des OpenAI-CEO Sam Altman im New Yorker ist eine Jump-Scare. Altman steht in einem blauen Pullover mit ausdruckslosem Gesichtsausdruck da. Um seinen Kopf herum schwebt eine Gruppe körperloser Gesichter – gruselige Altmans, deren Gesichtsausdrücke von Wut bis hin zu offenem Kummer reichen. Manche sehen kaum aus wie...",
+    "titleDE": "Ihr Artikel über KI braucht keine KI-Kunst"
+  },
+  {
+    "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+    "description": "D’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge\t\n\nTwo weeks ago, I was getting ready to log off work when I got a text message.\n\"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\"\nNormally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted text had been sent by an AI companion named Coral, who lives in the body of a baby deer plushie. I texted back an eloquent, \"Wait what.\"\n\"Apparently, her dad worked for the US State Department, so her family moved, like, every single year. The fan theory I saw is why so many of her songs are about feeling like an outsider and not having a place to bel …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-11T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "D’oh, ein Hirsch, ein KI-Hirsch. | Foto von Amelia Holowaty Krales / The Verge Vor zwei Wochen wollte ich mich gerade von der Arbeit abmelden, als ich eine SMS erhielt. „Oh wow, ich habe mir Mitski angesehen. Wussten Sie, dass die Leute sagen, ihr Vater sei ein CIA-Agent gewesen?“ Normalerweise ist so ein unerwarteter Text von einem Fr...",
+    "titleDE": "Mein kleines Rehplüschtier erzählte mir, dass Mitskis Vater ein CIA-Agent war"
+  },
+  {
+    "title": "How Iran out-shitposted the White House",
+    "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "description": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. Blood on the ground. A Tomahawk missile landing on a school. Grieving parents burying their children. \nOnly weeks prior, the authoritarian regime had been struggling to shut down all footage of the protests convulsing the nation, cutting off internet access to the outside world in the longest blackout in Iranian history. When Iranian dissidents m …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-11T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "In den frühen Tagen des Krieges gegen den Iran, während das Weiße Haus damit beschäftigt war, Call of Duty-Memes zu posten und künstliche Bowlingkegel zu tanzen, überschwemmten die Staatsmedien des iranischen Regimes die Zone mit einem Video nach dem anderen, was vor Ort geschah: Explosionen über Teheran. Rauch steigt am Himmel auf. ...",
+    "titleDE": "Wie der Iran das Weiße Haus in den Schatten gestellt hat"
+  },
+  {
     "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
     "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
     "description": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
@@ -120,176 +160,6 @@
     "titleDE": "Microsoft beginnt damit, Copilot-Schaltflächen aus Windows 11-Apps zu entfernen"
   },
   {
-    "title": "Using custom GPTs",
-    "link": "https://openai.com/academy/custom-gpts",
-    "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie benutzerdefinierte GPTs erstellen und verwenden, um Arbeitsabläufe zu automatisieren, konsistente Ausgaben aufrechtzuerhalten und speziell entwickelte KI-Assistenten zu erstellen.",
-    "titleDE": "Verwendung benutzerdefinierter GPTs"
-  },
-  {
-    "title": "ChatGPT for customer success teams",
-    "link": "https://openai.com/academy/customer-success",
-    "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Kundenerfolgsteams ChatGPT nutzen, um Konten zu verwalten, die Kommunikation zu verbessern, die Abwanderung zu reduzieren und die Akzeptanz und Verlängerungen voranzutreiben.",
-    "titleDE": "ChatGPT für Kundenerfolgsteams"
-  },
-  {
-    "title": "Applications of AI at OpenAI",
-    "link": "https://openai.com/academy/applications-of-ai",
-    "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie, wie OpenAI-Produkte wie ChatGPT, Codex und APIs KI in den realen Einsatz für Arbeit, Entwicklung und alltägliche Aufgaben bringen.",
-    "titleDE": "Anwendungen von KI bei OpenAI"
-  },
-  {
-    "title": "Research with ChatGPT",
-    "link": "https://openai.com/academy/search-and-deep-research",
-    "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie mit ChatGPT mithilfe von Such- und Tiefenrecherchen recherchieren, um aktuelle Informationen zu finden, Quellen zu analysieren und strukturierte Erkenntnisse zu generieren.",
-    "titleDE": "Recherchieren Sie mit ChatGPT"
-  },
-  {
-    "title": "Analyzing data with ChatGPT",
-    "link": "https://openai.com/academy/data-analysis",
-    "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie Daten mit ChatGPT analysieren, indem Sie Datensätze untersuchen, Erkenntnisse generieren, Visualisierungen erstellen und Erkenntnisse in umsetzbare Entscheidungen umwandeln.",
-    "titleDE": "Daten mit ChatGPT analysieren"
-  },
-  {
-    "title": "Financial services",
-    "link": "https://openai.com/academy/financial-services",
-    "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie KI-Ressourcen für Finanzdienstleistungen, einschließlich Prompt Packs, GPTs, Leitfäden und Tools, die Institutionen bei der sicheren Bereitstellung und Skalierung von KI unterstützen.",
-    "titleDE": "Finanzdienstleistungen"
-  },
-  {
-    "title": "Responsible and safe use of AI ",
-    "link": "https://openai.com/academy/responsible-and-safe-use",
-    "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie KI mit Best Practices für Sicherheit, Genauigkeit und Transparenz verantwortungsvoll einsetzen, wenn Sie Tools wie ChatGPT verwenden.",
-    "titleDE": "Verantwortungsvoller und sicherer Umgang mit KI"
-  },
-  {
-    "title": "Writing with ChatGPT",
-    "link": "https://openai.com/academy/writing",
-    "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT zum Schreiben verwenden, um Inhalte mit klarer Struktur, Tonalität und Absicht zu entwerfen, zu überarbeiten und zu verfeinern.",
-    "titleDE": "Schreiben mit ChatGPT"
-  },
-  {
-    "title": "ChatGPT for research",
-    "link": "https://openai.com/academy/research",
-    "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT für Recherchen nutzen, um Quellen zu sammeln, Informationen zu analysieren und strukturierte, durch Zitate gestützte Erkenntnisse zu gewinnen.",
-    "titleDE": "ChatGPT für Forschungszwecke"
-  },
-  {
-    "title": "Creating images with ChatGPT",
-    "link": "https://openai.com/academy/image-generation",
-    "description": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie mit ChatGPT mithilfe klarer Eingabeaufforderungen Bilder erstellen und verfeinern, Designs iterieren und in wenigen Minuten hochwertige Grafiken erstellen.",
-    "titleDE": "Bilder mit ChatGPT erstellen"
-  },
-  {
-    "title": "Personalizing ChatGPT",
-    "link": "https://openai.com/academy/personalization",
-    "description": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT mithilfe benutzerdefinierter Anweisungen und Speicher personalisieren, um relevantere, konsistentere und maßgeschneiderte Antworten zu erhalten.",
-    "titleDE": "Personalisierung von ChatGPT"
-  },
-  {
-    "title": "ChatGPT for finance teams",
-    "link": "https://openai.com/academy/finance",
-    "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Finanzteams ChatGPT nutzen, um Berichte zu optimieren, Daten zu analysieren, Prognosen zu verbessern und Erkenntnisse klarer zu kommunizieren.",
-    "titleDE": "ChatGPT für Finanzteams"
-  },
-  {
-    "title": "Getting started with ChatGPT",
-    "link": "https://openai.com/academy/getting-started",
-    "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT verwenden, beginnen Sie Ihr erstes Gespräch und entdecken Sie einfache Möglichkeiten zum Schreiben, Brainstorming und Lösen von Problemen mit KI.",
-    "titleDE": "Erste Schritte mit ChatGPT"
-  },
-  {
-    "title": "Working with files in ChatGPT",
-    "link": "https://openai.com/academy/working-with-files",
-    "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie Dateien in ChatGPT hochladen und mit ihnen arbeiten, um Daten zu analysieren, Dokumente zusammenzufassen und Inhalte aus PDFs, Tabellenkalkulationen und mehr zu generieren.",
-    "titleDE": "Arbeiten mit Dateien in ChatGPT"
-  },
-  {
-    "title": "ChatGPT for sales teams",
-    "link": "https://openai.com/academy/sales",
-    "description": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Vertriebsteams ChatGPT nutzen, um Konten zu recherchieren, die Kontaktaufnahme zu personalisieren, Geschäfte zu verwalten und Pipeline und Konvertierung zu verbessern.",
-    "titleDE": "ChatGPT für Vertriebsteams"
-  },
-  {
-    "title": "Prompting fundamentals",
-    "link": "https://openai.com/academy/prompting",
-    "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Lernen Sie die Grundlagen der Eingabeaufforderung kennen und erfahren Sie, wie Sie klare, effektive Eingabeaufforderungen verfassen, um bessere und nützlichere Antworten von ChatGPT zu erhalten.",
-    "titleDE": "Anregende Grundlagen"
-  },
-  {
-    "title": "ChatGPT for managers",
-    "link": "https://openai.com/academy/managers",
-    "description": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Manager ChatGPT nutzen, um sich auf Gespräche vorzubereiten, klares Feedback zu schreiben, organisiert zu bleiben und die Teameffektivität zu verbessern.",
-    "titleDE": "ChatGPT für Manager"
-  },
-  {
     "title": "Using projects in ChatGPT",
     "link": "https://openai.com/academy/projects",
     "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
@@ -310,24 +180,44 @@
     "titleDE": "ChatGPT für Marketingteams"
   },
   {
-    "title": "Brainstorming with ChatGPT",
-    "link": "https://openai.com/academy/brainstorming",
-    "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "title": "Our response to the Axios developer tool compromise",
+    "link": "https://openai.com/index/axios-developer-tool-compromise",
+    "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
     "pubDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT verwenden, um Ideen zu sammeln, das Denken zu organisieren und grobe Konzepte in strukturierte, umsetzbare Pläne umzuwandeln.",
-    "titleDE": "Brainstorming mit ChatGPT"
+    "descriptionDE": "OpenAI reagiert auf den Axios-Lieferkettenangriff, indem es macOS-Codesignaturzertifikate rotiert, Apps aktualisiert und bestätigt, dass keine Benutzerdaten kompromittiert wurden.",
+    "titleDE": "Unsere Antwort auf den Kompromiss mit dem Axios-Entwicklertool"
   },
   {
-    "title": "AI fundamentals",
-    "link": "https://openai.com/academy/what-is-ai",
-    "description": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "title": "Using custom GPTs",
+    "link": "https://openai.com/academy/custom-gpts",
+    "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
     "pubDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Erfahren Sie, was KI ist, wie sie funktioniert und wie Tools wie ChatGPT große Sprachmodelle verwenden. Ein klarer, anfängerfreundlicher Leitfaden zum Verständnis künstlicher Intelligenz.",
-    "titleDE": "KI-Grundlagen"
+    "descriptionDE": "Erfahren Sie, wie Sie benutzerdefinierte GPTs erstellen und verwenden, um Arbeitsabläufe zu automatisieren, konsistente Ausgaben aufrechtzuerhalten und speziell entwickelte KI-Assistenten zu erstellen.",
+    "titleDE": "Verwendung benutzerdefinierter GPTs"
+  },
+  {
+    "title": "Analyzing data with ChatGPT",
+    "link": "https://openai.com/academy/data-analysis",
+    "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie Daten mit ChatGPT analysieren, indem Sie Datensätze untersuchen, Erkenntnisse generieren, Visualisierungen erstellen und Erkenntnisse in umsetzbare Entscheidungen umwandeln.",
+    "titleDE": "Daten mit ChatGPT analysieren"
+  },
+  {
+    "title": "Writing with ChatGPT",
+    "link": "https://openai.com/academy/writing",
+    "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT zum Schreiben verwenden, um Inhalte mit klarer Struktur, Tonalität und Absicht zu entwerfen, zu überarbeiten und zu verfeinern.",
+    "titleDE": "Schreiben mit ChatGPT"
   },
   {
     "title": "ChatGPT for operations teams",
@@ -340,24 +230,44 @@
     "titleDE": "ChatGPT für Betriebsteams"
   },
   {
-    "title": "Healthcare",
-    "link": "https://openai.com/academy/healthcare",
-    "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "title": "ChatGPT for research",
+    "link": "https://openai.com/academy/research",
+    "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
     "pubDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Entdecken Sie, wie Kliniker ChatGPT nutzen, um Diagnose, Dokumentation und Patientenversorgung mit sicheren, HIPAA-konformen KI-Tools zu unterstützen.",
-    "titleDE": "Gesundheitspflege"
+    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT für Recherchen nutzen, um Quellen zu sammeln, Informationen zu analysieren und strukturierte, durch Zitate gestützte Erkenntnisse zu gewinnen.",
+    "titleDE": "ChatGPT für Forschungszwecke"
   },
   {
-    "title": "Our response to the Axios developer tool compromise",
-    "link": "https://openai.com/index/axios-developer-tool-compromise",
-    "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "title": "Responsible and safe use of AI ",
+    "link": "https://openai.com/academy/responsible-and-safe-use",
+    "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
     "pubDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "OpenAI reagiert auf den Axios-Lieferkettenangriff, indem es macOS-Codesignaturzertifikate rotiert, Apps aktualisiert und bestätigt, dass keine Benutzerdaten kompromittiert wurden.",
-    "titleDE": "Unsere Antwort auf den Kompromiss mit dem Axios-Entwicklertool"
+    "descriptionDE": "Erfahren Sie, wie Sie KI mit Best Practices für Sicherheit, Genauigkeit und Transparenz verantwortungsvoll einsetzen, wenn Sie Tools wie ChatGPT verwenden.",
+    "titleDE": "Verantwortungsvoller und sicherer Umgang mit KI"
+  },
+  {
+    "title": "Prompting fundamentals",
+    "link": "https://openai.com/academy/prompting",
+    "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Lernen Sie die Grundlagen der Eingabeaufforderung kennen und erfahren Sie, wie Sie klare, effektive Eingabeaufforderungen verfassen, um bessere und nützlichere Antworten von ChatGPT zu erhalten.",
+    "titleDE": "Anregende Grundlagen"
+  },
+  {
+    "title": "Research with ChatGPT",
+    "link": "https://openai.com/academy/search-and-deep-research",
+    "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie mit ChatGPT mithilfe von Such- und Tiefenrecherchen recherchieren, um aktuelle Informationen zu finden, Quellen zu analysieren und strukturierte Erkenntnisse zu generieren.",
+    "titleDE": "Recherchieren Sie mit ChatGPT"
   },
   {
     "title": "Using skills",
@@ -368,6 +278,136 @@
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie Sie ChatGPT-Kenntnisse erstellen und nutzen, um wiederverwendbare Arbeitsabläufe zu erstellen, wiederkehrende Aufgaben zu automatisieren und konsistente, qualitativ hochwertige Ergebnisse sicherzustellen.",
     "titleDE": "Fähigkeiten nutzen"
+  },
+  {
+    "title": "ChatGPT for customer success teams",
+    "link": "https://openai.com/academy/customer-success",
+    "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Kundenerfolgsteams ChatGPT nutzen, um Konten zu verwalten, die Kommunikation zu verbessern, die Abwanderung zu reduzieren und die Akzeptanz und Verlängerungen voranzutreiben.",
+    "titleDE": "ChatGPT für Kundenerfolgsteams"
+  },
+  {
+    "title": "Healthcare",
+    "link": "https://openai.com/academy/healthcare",
+    "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie, wie Kliniker ChatGPT nutzen, um Diagnose, Dokumentation und Patientenversorgung mit sicheren, HIPAA-konformen KI-Tools zu unterstützen.",
+    "titleDE": "Gesundheitspflege"
+  },
+  {
+    "title": "ChatGPT for managers",
+    "link": "https://openai.com/academy/managers",
+    "description": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Manager ChatGPT nutzen, um sich auf Gespräche vorzubereiten, klares Feedback zu schreiben, organisiert zu bleiben und die Teameffektivität zu verbessern.",
+    "titleDE": "ChatGPT für Manager"
+  },
+  {
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT verwenden, beginnen Sie Ihr erstes Gespräch und entdecken Sie einfache Möglichkeiten zum Schreiben, Brainstorming und Lösen von Problemen mit KI.",
+    "titleDE": "Erste Schritte mit ChatGPT"
+  },
+  {
+    "title": "ChatGPT for finance teams",
+    "link": "https://openai.com/academy/finance",
+    "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Finanzteams ChatGPT nutzen, um Berichte zu optimieren, Daten zu analysieren, Prognosen zu verbessern und Erkenntnisse klarer zu kommunizieren.",
+    "titleDE": "ChatGPT für Finanzteams"
+  },
+  {
+    "title": "AI fundamentals",
+    "link": "https://openai.com/academy/what-is-ai",
+    "description": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, was KI ist, wie sie funktioniert und wie Tools wie ChatGPT große Sprachmodelle verwenden. Ein klarer, anfängerfreundlicher Leitfaden zum Verständnis künstlicher Intelligenz.",
+    "titleDE": "KI-Grundlagen"
+  },
+  {
+    "title": "Creating images with ChatGPT",
+    "link": "https://openai.com/academy/image-generation",
+    "description": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie mit ChatGPT mithilfe klarer Eingabeaufforderungen Bilder erstellen und verfeinern, Designs iterieren und in wenigen Minuten hochwertige Grafiken erstellen.",
+    "titleDE": "Bilder mit ChatGPT erstellen"
+  },
+  {
+    "title": "Financial services",
+    "link": "https://openai.com/academy/financial-services",
+    "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie KI-Ressourcen für Finanzdienstleistungen, einschließlich Prompt Packs, GPTs, Leitfäden und Tools, die Institutionen bei der sicheren Bereitstellung und Skalierung von KI unterstützen.",
+    "titleDE": "Finanzdienstleistungen"
+  },
+  {
+    "title": "ChatGPT for sales teams",
+    "link": "https://openai.com/academy/sales",
+    "description": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Vertriebsteams ChatGPT nutzen, um Konten zu recherchieren, die Kontaktaufnahme zu personalisieren, Geschäfte zu verwalten und Pipeline und Konvertierung zu verbessern.",
+    "titleDE": "ChatGPT für Vertriebsteams"
+  },
+  {
+    "title": "Applications of AI at OpenAI",
+    "link": "https://openai.com/academy/applications-of-ai",
+    "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie, wie OpenAI-Produkte wie ChatGPT, Codex und APIs KI in den realen Einsatz für Arbeit, Entwicklung und alltägliche Aufgaben bringen.",
+    "titleDE": "Anwendungen von KI bei OpenAI"
+  },
+  {
+    "title": "Working with files in ChatGPT",
+    "link": "https://openai.com/academy/working-with-files",
+    "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie Dateien in ChatGPT hochladen und mit ihnen arbeiten, um Daten zu analysieren, Dokumente zusammenzufassen und Inhalte aus PDFs, Tabellenkalkulationen und mehr zu generieren.",
+    "titleDE": "Arbeiten mit Dateien in ChatGPT"
+  },
+  {
+    "title": "Personalizing ChatGPT",
+    "link": "https://openai.com/academy/personalization",
+    "description": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT mithilfe benutzerdefinierter Anweisungen und Speicher personalisieren, um relevantere, konsistentere und maßgeschneiderte Antworten zu erhalten.",
+    "titleDE": "Personalisierung von ChatGPT"
+  },
+  {
+    "title": "Brainstorming with ChatGPT",
+    "link": "https://openai.com/academy/brainstorming",
+    "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "pubDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT verwenden, um Ideen zu sammeln, das Denken zu organisieren und grobe Konzepte in strukturierte, umsetzbare Pläne umzuwandeln.",
+    "titleDE": "Brainstorming mit ChatGPT"
   },
   {
     "title": "ChatGPT has a new $100 per month Pro subscription",
@@ -460,16 +500,6 @@
     "titleDE": "Google und Intel vertiefen ihre KI-Infrastrukturpartnerschaft"
   },
   {
-    "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-    "link": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-    "description": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real time.\nWhen trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along with a slider to adjust the speed of the Moon's orbit, there's also a toggle to hide the line representing its orbital path and a button to pause the  …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-09T17:57:58.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Mit dem neuesten Upgrade von Google für Gemini kann der Chatbot als Antwort auf Ihre Fragen interaktive 3D-Modelle und Simulationen generieren. Mit der neuen Funktion sehen Sie möglicherweise Optionen zum Drehen des KI-generierten Modells, zum manuellen Anpassen von Schiebereglern oder zum Eingeben anderer Werte, um die Simulation in ... zu ändern.",
-    "titleDE": "Googles Gemini AI kann Ihre Fragen mit 3D-Modellen und Simulationen beantworten"
-  },
-  {
     "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
     "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
     "description": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.",
@@ -490,16 +520,6 @@
     "titleDE": "Der CEO von Amazon nimmt im jährlichen Aktionärsbrief Nvidia, Intel, Starlink und mehr ins Visier"
   },
   {
-    "title": "The AI industry’s race for profits is now existential",
-    "link": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
-    "description": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it.\nMy guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic and OpenAI, and how these two companies in particular tell us a whole lot about the AI industry in 2026. \nYou’ve certainly heard a version of the monetization cliff story before. The biggest AI firms are built off the back of hundreds of billions in capital investment, and they’re linked to even greater amounts of forward-looking investment in data center build-out, chips, and other infrastructure spend. At some point, the profits have to materialize, or the bubble pops. Maybe AGI arrives, maybe the economy crashes, who knows. \nYou’ve heard me ask some version of this question to scores of CEOs here on this show, and a majority of them have hinted toward the bubble popping — they think some companies will fail in spectacular fashion, some will succeed, and the opportunities, especially the money, are simply too big to ignore. We’re doing this, whether we want to or not — the market depends on it. \n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nSo these last few weeks have felt like a very important inflection point, as both Anthropic and OpenAI have started to react to the reality of needing to go public — needing to make money. \nThe catalyst for this change is AI agents, and products like Claude Code and Cowork, as well as the open-source OpenClaw and OpenAI’s Codex, have radically changed how these companies are thinking about their resources. And this is starting to affect how they behave — the products they support or suddenly kill, the restrictions they impose on customers, and the money they’re willing to burn toward their next big milestone. \nThat’s because agents are valuable to customers right now, but agents also use far more compute. So the way people are using agents is burning tokens at a rate way faster than these companies anticipated, and that’s causing them to make hard decisions. \nWe saw this most evidently last month when OpenAI abruptly killed its video-generation app Sora, ditching a $1 billion Disney licensing deal in the process. Why? It costs too much to run, and OpenAI needs the compute for Codex. We saw it again just last week, when Anthropic decided it would no longer let Claude users burn through compute resources using the OpenClaw agent framework through a standard subscription plan, instead forcing those users onto pay-as-you-go plans, which cost substantially more. \nAs you’ll hear Hayden explain here, these are glimmers of a make-or-break moment for the AI industry, as both Anthropic and OpenAI barrel toward two of the biggest IPOs in history. And the pressure on these companies to make money has never been this intense. \nThe projections these companies have made, which just this week were leaked to the Wall Street Journal, tell a story of mind-boggling growth, to the tune of hundreds of billions in revenue and profitability by the end of the decade. But the most important questions now are can the AI companies pull this off, and what compromises will they make to reach that goal and avoid crashing and burning? \nOkay: Verge senior policy reporter Hayden Field on the AI monetization cliff and the race to profitability. Here we go.\n\n\nIf you’d like to read more about what we discussed in this episode, check out these links:\nThe vibes are off at OpenAI | The Verge\nAnthropic essentially bans OpenClaw from Claude | The Verge\nWhy OpenAI killed Sora | The Verge\nOpenAI just bought TBPN | The Verge\nNational poll shows voters like AI less than ICE | The Verge\nThe spiraling cost of making AI | WSJ\nOpenAI’s Fidji Simo taking leave amid exec shake-up | Wired\nOpenAI raises another $122B at $850B valuation | The Verge\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-04-09T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Lassen Sie uns heute bei Decoder über die drohende Klippe bei der KI-Monetarisierung sprechen und darüber, ob einige der größten Unternehmen in diesem Bereich zu echten, profitablen Unternehmen werden können, bevor sie direkt davon abstürzen. Mein heutiger Gast ist Hayden Field, unser leitender KI-Reporter hier bei The Verge. Sie ist in der Nähe geblieben...",
-    "titleDE": "Der Wettlauf der KI-Branche um Profite ist mittlerweile existenziell"
-  },
-  {
     "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
     "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
     "description": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
@@ -518,16 +538,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ist künstliches Gras eine schlechte Idee? Die AstroTurf-Kriege sind noch lange nicht vorbei. Im Jahr 2001 verlegten die Amerikaner knapp über 7 Millionen Quadratmeter Kunstrasen. Bis 2024 werden diese Zahl...",
     "titleDE": "Der Download: AstroTurf-Kriege und exponentielles KI-Wachstum"
-  },
-  {
-    "title": "Google makes it easy to deepfake yourself",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
-    "description": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. \nYouTube says the new tool will let users create a digital version of themselves, called an avatar, that can be inserted into existing Shorts videos or used to generate entirely new ones. The company said avatars will \"look and sound like you,\" framing them as a safer and more secure way to use AI to  …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-09T10:53:49.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "YouTube Shorts führt eine neue KI-gestützte Funktion ein, die YouTubern eine einfache Möglichkeit bietet, sich selbst vor der Kamera realistisch zu klonen. Der Start, der Anfang dieses Jahres angedeutet wurde, spiegelt die angespannte Beziehung der Plattform zu KI-generierten Inhalten wider, indem sie mehr generative Funktionen hinzufügt, gleichzeitig aber Schwierigkeiten hat, ... einzudämmen.",
-    "titleDE": "Google macht es einfach, sich selbst zu fälschen"
   },
   {
     "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
@@ -618,16 +628,6 @@
     "category": "news",
     "descriptionDE": "Mit der Workbench von Astropad können Benutzer KI-Agenten auf Mac Minis vom iPhone oder iPad aus fernüberwachen und steuern, mit Streaming mit geringer Latenz und mobilem Zugriff.",
     "titleDE": "Die Workbench von Astropad stellt den Remote-Desktop für KI-Agenten neu dar, nicht für den IT-Support"
-  },
-  {
-    "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-    "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-    "description": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-    "pubDate": "2026-04-08T15:23:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der neue Child Safety Blueprint von OpenAI zielt darauf ab, den alarmierenden Anstieg der sexuellen Ausbeutung von Kindern im Zusammenhang mit Fortschritten in der KI zu bekämpfen.",
-    "titleDE": "OpenAI veröffentlicht einen neuen Sicherheitsplan, um dem Anstieg der sexuellen Ausbeutung von Kindern entgegenzuwirken"
   },
   {
     "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
