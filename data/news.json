@@ -1,12 +1,362 @@
 [
   {
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "description": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "pubDate": "2026-04-16T22:55:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das drei Jahre alte Startup sammelte unter der Leitung von Khosla Ventures 150 Millionen US-Dollar.",
+    "titleDE": "Factory erreicht Wert von 1,5 Milliarden US-Dollar für die Entwicklung von KI-Programmierung für Unternehmen"
+  },
+  {
+    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "description": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "pubDate": "2026-04-16T21:58:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das erste Projekt des Studios wird sich um Moses und den Star-Oscar-Gewinner Ben Kingsley drehen und dieses Frühjahr auf Prime Video veröffentlicht werden.",
+    "titleDE": "Luma startet KI-gestütztes Produktionsstudio mit dem auf Glauben ausgerichteten Wonder Project"
+  },
+  {
+    "title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+    "pubDate": "2026-04-16T20:41:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge befindet sich das KI-Infrastrukturunternehmen Upscale AI in Gesprächen über die Aufnahme seiner dritten Finanzierungsrunde seit seiner Gründung vor gerade einmal sieben Monaten.",
+    "titleDE": "Hochkarätige KI in Gesprächen zur Beschaffung im Wert von 2 Milliarden US-Dollar, heißt es in dem Bericht"
+  },
+  {
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "pubDate": "2026-04-16T20:26:44.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das neue Modell mit der Bezeichnung π0.7 stellt nach Angaben des Unternehmens einen frühen, aber bedeutsamen Schritt in Richtung des lang ersehnten Ziels eines universell einsetzbaren Robotergehirns dar.",
+    "titleDE": "Physical Intelligence, ein angesagtes Robotik-Startup, sagt, sein neues Robotergehirn könne Aufgaben herausfinden, die ihm nie beigebracht wurden"
+  },
+  {
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "pubDate": "2026-04-16T19:18:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Agenten-Codierungstool von OpenAI wurde grundlegend überarbeitet und bietet eine Vielzahl neuer Befugnisse und Fähigkeiten.",
+    "titleDE": "OpenAI nimmt Anthropic mit einem verbesserten Codex ins Visier, der ihm mehr Leistung auf Ihrem Desktop verleiht"
+  },
+  {
+    "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+    "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+    "description": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
+    "pubDate": "2026-04-16T18:28:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Kriegers Abgang und alle kommenden Design-Tools werden ein weiterer Datenpunkt für Investoren sein, die die SaaSpokalypse fürchten – dass die größten KI-Labore die Softwareunternehmen dominieren werden, eine These, die in diesem Jahr zeitweise die öffentlichen Märkte erschüttert hat.",
+    "titleDE": "Anthropic CPO verlässt den Vorstand von Figma, nachdem berichtet wurde, dass er ein Konkurrenzprodukt anbieten wird"
+  },
+  {
+    "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+    "description": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\t\n\nOpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up.\nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says, \"this is he …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-16T17:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Codex kann Apps auf Ihrem Desktop wie Tic Tac Toe steuern. | Bild: OpenAI OpenAI erweitert sein Agenten-Codierungs- und Entwicklungssystem Codex mit einer Reihe von Updates, mit denen es Ihren Computer nutzen, Bilder generieren und sich an vergangene Erfahrungen erinnern kann. Das Paket an Updates kommt als Rivale von OpenAI...",
+    "titleDE": "Das große Codex-Update von OpenAI ist ein direkter Angriff auf Claude Code"
+  },
+  {
+    "title": "Google’s AI Mode update lets you open links without leaving the page",
+    "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+    "description": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\nLaunched last year, AI Mode is the chatbot-like search feature that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past year, including the ability to generate images of outfits and decor based on your descriptions, visualize your travel plans, and find restaurant res …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-16T17:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google aktualisiert den AI-Modus in Chrome mit einer neuen Funktion, die es Ihnen ermöglicht, neben Ihrem Chat Links zu Quellen zu öffnen. Anstatt nun automatisch einen neuen Tab zu öffnen, wird durch Klicken auf eine Quelle die Website neben dem AI-Modus geöffnet, sodass Sie Folgefragen zu den Inhalten auf der Seite stellen können ...",
+    "titleDE": "Mit dem KI-Modus-Update von Google können Sie Links öffnen, ohne die Seite zu verlassen"
+  },
+  {
+    "title": "Google now lets you explore the web side-by-side with AI Mode",
+    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+    "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+    "pubDate": "2026-04-16T17:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wenn Sie jetzt den AI-Modus auf dem Chrome-Desktop verwenden, wird durch Klicken auf einen Link die Webseite neben dem AI-Modus geöffnet.",
+    "titleDE": "Mit Google können Sie jetzt im KI-Modus nebeneinander das Web erkunden"
+  },
+  {
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "description": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+    "pubDate": "2026-04-16T17:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Die heutigen Upgrades für den KI-Modus in Chrome verändern Ihre Interaktion mit dem Web",
+    "titleDE": "Eine neue Möglichkeit, das Web mit dem KI-Modus in Chrome zu erkunden"
+  },
+  {
+    "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+    "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+    "description": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.",
+    "pubDate": "2026-04-16T16:15:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut CEO Helen Gu besteht das größte Problem, mit dem die Branche heute konfrontiert ist, nicht nur darin, zu überwachen und zu diagnostizieren, wo bei KI-Modellen Fehler auftreten, sondern auch darin, zu diagnostizieren, wie der gesamte Tech-Stack funktioniert, da KI nun ein Teil davon ist.",
+    "titleDE": "InsightFinder sammelt 15 Millionen US-Dollar, um Unternehmen dabei zu helfen, herauszufinden, wo KI-Agenten Fehler machen"
+  },
+  {
+    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+    "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+    "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+    "pubDate": "2026-04-16T16:14:03.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Adobe ist der KI-Traffic zu US-Einzelhandelsseiten im März ebenfalls um 269 % gestiegen, wobei die Besucher besser konvertieren und mehr Umsatz generieren als Käufer ohne KI.",
+    "titleDE": "Der KI-Traffic zu US-Einzelhändlern stieg im ersten Quartal um 393 % und steigert auch deren Umsatz"
+  },
+  {
+    "title": "Gemini can now pull from Google Photos to generate personalized images",
+    "link": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+    "description": "An example image from Google.\t\n\nGoogle's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create images based on your personal context.\nWith the feature, you can use prompts like \"Design my dream house\" or \"Create a picture of my desert island essentials\" and the photos Gemini creates will \"automatically reflect your specific tastes and lifestyle, gleaned from the Google apps you've connected to,\" Google says in a blog post. Under the hood, the integration uses your labels in Google Photos to identify people like you, your friends, and your …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-16T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein Beispielbild von Google. Die Personal Intelligence-Funktion von Google, mit der Gemini Daten aus Apps wie Google Fotos abrufen kann, um auf Sie zugeschnittene Antworten anzubieten, kann diese Daten und das Nano Banana 2-Bildmodell jetzt verwenden, um Bilder basierend auf Ihrem persönlichen Kontext zu erstellen. Mit dieser Funktion können Sie pr...",
+    "titleDE": "Zwillinge können jetzt auf Google Fotos zurückgreifen, um personalisierte Bilder zu erstellen"
+  },
+  {
+    "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+    "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+    "description": "The new tools are designed to help creators throughout the entire development process.",
+    "pubDate": "2026-04-16T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neuen Tools sollen Entwickler während des gesamten Entwicklungsprozesses unterstützen.",
+    "titleDE": "Der KI-Assistent von Roblox erhält neue Agententools zum Planen, Erstellen und Testen von Spielen"
+  },
+  {
+    "title": "New ways to create personalized images in the Gemini app",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "description": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+    "pubDate": "2026-04-16T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Nano Banana 2 nutzt jetzt Ihren persönlichen Kontext und Google Fotos, um Bilder zu erstellen, die Ihr einzigartiges Leben widerspiegeln.",
+    "titleDE": "Neue Möglichkeiten zum Erstellen personalisierter Bilder in der Gemini-App"
+  },
+  {
+    "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+    "description": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. \nThe company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in complex coding areas that in the past required more hand-holding. It's also supposed to be better at analyzing images and following instructions, and it can exhibit more \"creativity\" when creating slides and documents, per Anthropic.\nOpus 4.7 comes on the heels of Mythos Preview, the buzzy cybersecurity-focused model Anthropic announced earlier this month, which the company has said is its most powerful model overall. Comparatively, Opus 4.7 is …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-16T15:59:24.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic hat sein bisher leistungsstärkstes „allgemein verfügbares“ Modell veröffentlicht: Claude Opus 4.7. Das Unternehmen nannte es einen Fortschritt gegenüber Opus 4.6 für anspruchsvolle Software-Engineering-Aufgaben, insbesondere in komplexen Codierungsbereichen, die in der Vergangenheit mehr Handarbeit erforderten. Es soll auch besser sein...",
+    "titleDE": "Anthropic veröffentlicht ein neues Opus-Modell inmitten der Begeisterung für Mythos Preview"
+  },
+  {
+    "title": "Google is now targeting bad ads over bad actors",
+    "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+    "description": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
+    "pubDate": "2026-04-16T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google hat im Jahr 2025 8,3 Milliarden Anzeigen blockiert, aber weniger Werbetreibende gesperrt.",
+    "titleDE": "Google zielt jetzt auf schlechte Werbung statt auf schlechte Akteure"
+  },
+  {
+    "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+    "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+    "description": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
+    "pubDate": "2026-04-16T14:14:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der CEO von Runway sagt, KI könnte Studios dabei helfen, Dutzende von Filmen zum Preis von einem zu produzieren, und das Wettvolumen werde die Erfolgschancen erhöhen.",
+    "titleDE": "Laut Runway-CEO könnte KI Hollywood dabei helfen, 50 Filme statt eines 100-Millionen-Dollar-Blockbusters zu produzieren"
+  },
+  {
+    "title": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’ relationship with the truth",
+    "link": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+    "description": "Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the rise of OpenAI itself. \nOne note before we go any further here —The New Yorker published that story and Ronan and I had this conversation before we knew the full extent of the attacks on Altman’s home, so you won’t hear us talk about that directly. But just to say it: I think violence of any kind is unacceptable, these attacks on Sam were unacceptable, and that the kind of helplessness that people feel, which leads to this kind of violence, is itself unacceptable and also worth a lot more scrutiny from both the industry and our political leaders. I hope that’s clear.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nAll that said, there is a lot swirling around Altman that’s fair game for rigorous reporting — the kind of reporting Ronan and Andrew set out to do. Thanks to the popularity of ChatGPT, Altman has emerged as the most visible figurehead of the AI industry, having turned a once nonprofit research lab into an almost trillion-dollar private company in just a few years. But the myth of Altman is deeply conflicted, equally defined both by his obvious dealmaking ability and his reported tendency to… well, lie to everyone around him.\nThe story is over 17,000 words long, and it contains arguably the definitive account of what happened in 2023 when the OpenAI board of directors very suddenly fired Altman over his alleged lying, only for him to be almost instantly rehired. It’s also a deep dive into Altman’s personal life, his investments, his courting of Middle Eastern money, and his own reflections on his past behavior and character traits that led one source to say he was “unconstrained by the truth.” I really suggest you read the entire story; I suspect it will be referenced for many years to come. \nRonan talked to Altman many times over the 18 months he spent reporting this piece, and so one of the main things I was curious about was whether he sensed any change in Altman over that time. After all, a lot has happened in AI, in tech, and in the world over the past year and a half.\nYou’ll hear Ronan talk about that very directly, as well as his sense that people have become much more willing to talk about Altman’s ability to stretch the truth. People are starting to wonder, out loud and on the record, whether the behavior of people like Altman is concerning, not just for AI or tech but also for society’s collective future.\nOkay: Ronan Farrow on Sam Altman, AI, and the truth. Here we go. \n\n\nThis interview has been lightly edited for length and clarity. \nRonan Farrow, you’re an investigative reporter and contributor to The New Yorker. Welcome to Decoder.\nGlad to be here. Thanks for having me.\nI am very excited to talk to you. You just wrote a big piece for The New Yorker. It’s a profile of Sam Altman and, sort of with it, OpenAI. My read of it is that, as all great features do, it, with rigorous reporting, validates a lot of feelings people have had about Sam Altman for a very long time. You’ve obviously published it, you’ve gotten reactions to it. How are you feeling about it right now?\nWell, I’ve been heartened, actually, by the extent to which it’s broken through in a time where the attention economy is so kind of schizophrenic and shallow. This is a story that, in my view, affects all of us. And when I spent a year and a half of my life, and my co-author, Andrew Marantz, also spent that time of his, really trying to do something forensic and meticulous, it’s always because I feel like there are bigger structural issues that affect people beyond the individual and company at the heart of the story. \nSam Altman, against the backdrop of Silicon Valley hype culture and startups that balloon to massive valuations based on promises that may or may not come to pass in the future, and an increasing embrace of a founder culture that thinks telling different groups different conflicting things is a feature, not a bug…Even against that backdrop, Sam Altman is an extraordinary case where everyone in Silicon Valley who expects those things can’t stop talking about this question of his trustworthiness and his honesty. \nWe knew already that he was fired over some version of allegations of dishonesty or serial alleged lying. But extraordinarily, despite the fact that there’s been wonderful reporting, Keach Hagey has done great work on this. Karen Hao has done great work on this. There really wasn’t a definitive understanding of the actual alleged proof points and the reasons why those have stayed out of the public eye. \nSo point number one is that I feel heartened by the fact that some of those gaps in our public knowledge, and even in the knowledge of Silicon Valley insiders, have now been filled a little bit more. Some of the reasons that there were gaps have been filled in a little bit more.\nWe report on cases where people inside this company really felt like things were covered up or deliberately not documented. One of the new things in this story is a pivotal law firm investigation by WilmerHale, which is obviously a fancy, credible, big law firm that did investigations of Enron and WorldCom, which, by the way, were all voluminous, like hundreds of pages published. WilmerHale did this investigation that was demanded by board members who had fired Altman as a condition of their departure when he got rid of them, and he came back. And extraordinarily — in the eyes of many legal experts I spoke to, and shockingly in the eyes of many people in this company — they kept it out of writing. All that ever emerged from that was an 800-word press release from OpenAI that described what happened as a breakdown in trust. And we confirmed that this was kept to oral briefings.\nThere are cases where, for instance, a board member seemingly wants to vote against the conversion from OpenAI’s original nonprofit form into a for-profit entity, and it’s recorded as an abstention. There’s like a lawyer in the meeting saying, “Well, that could trigger too much scrutiny.” And the person who wants to vote against gets recorded as an abstention to all appearances. There’s a factual dispute. OpenAI claims otherwise, as you might imagine. These are all cases where you have a company that, by its own account, holds our future in its hands. \nThe safety stakes are so acute that they have not gone away. This is the reason this company was founded as a nonprofit focused on safety, and where things were being obscured in a way that credible people around this found it less than professional. And you couple that with a backdrop where there’s so little political appetite for meaningful regulation. I think it’s a very combustible situation. \nThe point for me is not just that Sam Altman deserves these questions so acutely. It’s also that any of these guys in this field, and many of the key figures, exhibit, if not this particular idiosyncratic, alleged lying-all-the-time trait, certainly some degree of a race-to-the-bottom mentality, where the people who were safetyists have watered down those commitments and everyone-is-in-a-race posture.\nI think, as we look at recent leaks out of Anthropic, there’s a person who poses the question of who should have their finger on the button in this piece. The answer is, if we don’t have meaningful oversight, I think we have to be asking serious questions and trying to surface as much information as we can about all of these guys. So I’ve been heartened by what feels like a meaningful conversation about that, or the beginnings of one.\nThe reason I asked it that way is that you worked on this for a year and a half. You talked to, I believe, 100 people with your co-author, Andrew. That’s a long time for a story to cook. I think about the last year and a half in AI in particular, and boy, have the attitudes and values of all these characters shifted very quickly. \nMaybe none more so than Sam Altman, who started off as the default winner because they had released ChatGPT and everyone thought that would just take over for Google. And then Google responded, which seemed to surprise them that Google would try to protect its business, maybe one of the best businesses in tech history, if not business history. Anthropic decided that it would focus on the enterprise. It seems to be taking a commanding lead there because the enterprise use of AI is so high.\nNow, OpenAI is refocusing its product away from “we’re going to take on Google” to Codex, and they’re going to take on the enterprise. I just can’t quite tell whether, during the course of your reporting over the last year and a half, if it feels like the characters you were talking to changed? Like their attitudes and their values, did those change?\nYes. I think first of all, that the critique that is explored in this piece, coming from many people inside these companies at this point — that this is an industry that, despite the existential stakes, is descending into something of a race to the bottom on safety and where speed is trumping everything else — that concern has grown more acute. And I think those concerns have been more validated as the past year and a half has transpired. Simultaneously, attitudes about Sam Altman have specifically changed. When we started talking to sources for this, people were really, really leery of being quoted about this and going on the record about this.\nBy the end of our reporting, you have a body of reporting where people are talking about this very openly and explicitly, and you have board members saying things like, “He’s a pathological liar. He’s a sociopath.” There’s a range of perspectives from, “This is dangerous given the safety stakes, and we need leaders of this tech that have elevated integrity,” all the way up to like, “Forget the safety stakes, this is behavior that is untenable for any executive of any major company, that it just creates too much dysfunction.”\nSo the conversation has become much more explicit in a way that feels maybe belated, but is heartening in one sense. And Sam Altman, to his credit… The piece is very fair and even generous, I would say, to Sam. This is not the kind of piece where there was a lot of “got you” stuff. I spent many, many hours on the phone with him as we were finishing this up and really heard him out. \nAs you can imagine, in a piece like this, not everything makes it in. Some of those cases in this one were because I was listening sincerely. And if Sam was actually making an argument that I felt carried water, that something, even if it was true, could be sensationalist, I really erred on the side of keeping this forensic and measured. So I think that is being received rightly, and I just hope this factual record that’s accumulated over this period of time can trigger a more bracing conversation about the need for oversight.\nThat’s actually my next question. I think you talked to Sam a dozen times over the course of reporting this story. Again, that’s a lot of conversations over a long period of time. Did you think Sam changed over the course of the reporting over the past year and a half?\nYeah. I think one of the most interesting subplots in this is that Sam Altman is also talking about this trait more explicitly than he has in the past. The posture of Sam in this piece is not like, “There’s nothing there, this is not true; I don’t know what you’re talking about.” The posture he has is that he says this is attributable to a people-pleasing tendency and a kind of conflict aversion. He’s acknowledging that it caused problems for him, particularly earlier in his career.\nHe is saying, “Well, I am moving past that, or have to some extent moved past that.” I think what’s really interesting to me is the contingent of people we talked to who were not just sort of safety advocates, not just the underlying technical researchers who very often tend to have these acute safety concerns, but also pragmatic, big-time investors. They are backers of Sam’s, who, in some cases, look at this question and talk about even having played a key role in his coming back after the firing. Now, on this question of whether he’s reformed, and to what extent is that change meaningful, they say, “Well, we gave him the benefit of the doubt at the time.”\nI’m thinking of one prominent investor in particular who said, “But since then, it seems clear he wasn’t taken out behind the woodshed,” which was the phrase that this one used, to the extent that was necessary. As a result, it seems like this is now a stable trait. We’re seeing this in an ongoing way. You can look at some of OpenAI’s biggest business relationships and the way they kind of carry the weight of that mistrust in an ongoing way. \nLike with Microsoft, you talk to executives over there, and they have really acute and recently catalyzed concerns. There’s this instance where, on the same day OpenAI is reaffirming its exclusivity with Microsoft with respect to underlying stateless AI models it’s also announcing a new deal with Amazon that’s to do with selling enterprise solutions for building AI agents that are stateful, meaning they have memory.\nYou talk to Microsoft people, and they’re like, “That’s not possible to do without interacting with the underlying stuff that we have an exclusivity deal on.” So that’s just one of many small examples where this trait has tendrils into ongoing business activity all the time and is a subject of active concern within OpenAI’s board, within its executive suite, and in the wider tech community.\nYou keep saying that “trait.” There’s a line in the story that to me feels like the thesis, and it’s a description of the trait you’re describing. It’s that “Sam Altman is unconstrained by the truth” and that he has “two traits that are almost never seen in the same person: the first is a strong desire to please people, to be liked in any given interaction, and the second is an almost sociopathic lack of concern for the consequences that may come from deceiving someone.”\nI have to tell you, I read that sentence 500 times, and I tried to imagine always saying what people wanted to be liked and then not being upset when they felt lied to. And I could not make my emotional state understand how those things can exist in the same person. You’ve talked to Sam a lot, and you’ve talked to people who have experienced these traits. How does he do it?\nYeah. It’s interesting on a human level because I do approach bodies of reporting like this with a real focus on humanizing whoever’s at the heart of it and seeking deep understanding and empathy. When I kind of tried to approach this from a more human standpoint and say, “Hey, this would be devastating for me if so many people that I’ve worked with said I’m a pathological liar. How do you carry that weight? How do you talk about that in therapy? What is the story you tell yourself about that?”\nI got some sort of, in my view, maybe West Coast platitudes about that like, “Yeah, I like breath work.” But not a lot of the kind of bracing sense of deep self-confrontation that I think a lot of us would probably have if we were seeing this kind of feedback about our behavior and our treatment of people.\nI think that actually goes to the broader answer to the question, too. Sam asserts that this trait has caused problems, but also that it’s part of what has empowered him to accelerate OpenAI’s growth so much that he is able to unite and please different groups of people. He’s constantly convincing all of these conflicting constituencies that what they care about is what he cares about. And that can be a really useful skill for a founder. I’ve talked to investors who then say, “Well, maybe it’s a less useful skill for actually running a company because it sows so much discord.”\nBut on the Sam personal side, I think the thing that I pick up on when I try to connect on a human level is the apparent lack of deeper confrontation, reflection, and self-accountability, which also informs that superpower or liability for a company preparing for an IPO.\nHe is someone who, in the words of one former board member named Sue Yoon, who’s on the record in the piece saying that to the point of “fecklessness” is the phrase she uses, is able to really believe the shifting reality of his sales pitches or is able to convince himself of them. Or at least if he doesn’t believe them, he is able to bluster through them without meaningful self-doubt.\nI think the thing that you’re talking about, where you or I might, as we’re saying the thing and realizing that it conflicts with the other assurance we’ve made, kind of have a moment of freezing up or checking ourselves. I think that doesn’t happen with him. And there’s a wider Silicon Valley hype culture and founder culture that kind of embraces that.\nIt’s funny. The Verge is built on what amounts to a product reviews program. It’s the heart of what we do here. I hold a trillion dollars of Apple R&D once a year and say, “This phone is a seven.” And it sort of legitimizes all of our reporting and our opinions elsewhere. We have an evaluative function, and we spend so much time just looking at the AI products and saying, “Do they work?”\nThat feels like it’s missing from a lot of the conversation about AI as it is today. There’s endless conversation about what it might be able to do, how dangerous it might be. And then you drill down, and you say, “Does it actually do the thing it’s supposed to do today?” In some cases, the answer is yes. But in many, many cases, the answer is no.\nThat feels like it connects to the hype culture you’re describing and also to the sense that, well, if you say it’s going to do something and it doesn’t, and someone feels bad, that’s fine because we’re onto the next thing. That’s in the past. And in AI in particular, Sam is so good at making the grand promises.\nJust this week, I think the same day as your story was published, OpenAI released a policy document that said we have to rethink the social contract and have AI efficiency stipends from the government. This is a grand promise about how some technology might shape the future of the world and how we live, and all of that relies on the technology working in exactly the way that maybe it’s promised to work or it should work. \nDid you ever find Sam doubting AI turning into AGI or superintelligence or getting to the finish line? Because that’s the thing that I wonder about the most. Is there any reflection about whether this core technology can do all of the things that they say it can do?\nIt’s exactly the right set of questions. There are credible technologists that we spoke to in this body of reporting — and obviously Sam Altman is not one; he’s a business person — who say the way that Sam talks about the timeline for this tech is just way off. There are blog posts going back a few years where Sam is saying, “We’ve already reached the event horizon. AGI is basically here. Superintelligence is around the corner. We’re going to be on other planets. We’re going to be curing all forms of cancer.” Truly, I’m not embellishing. \nThe cancer one is actually interesting, that Sam is hyping up the person who theoretically cured their dog’s cancer with ChatGPT, and that simply did not happen. They talked to ChatGPT, and that helped them guide some researchers who actually did the work, but the one-to-one, this tool cured this dog is not actually the story.\nI’m glad you raised that point because I want to go on to this bigger point about when both the potential and the risk of the technology are really going to vest. But it’s worth mentioning these little asides that constantly happen from Sam Altman, where he seems to embody this trait all over again. \nI mean, to use the example of the WilmerHale report, where we had this information that had been kept out of writing, and wanted to know whether the oral brief along the way was given to anyone other than the two board members Sam helped install to oversee it. And he said, “Yeah, yeah, no, I believe it was given to everyone who joined the board after.” And we have a person with direct knowledge of the situation saying that it is simply a lie. And that really does appear to be the case, that it is untrue. If we want to be generous, perhaps he was misinformed. \nThere are a lot of these casual assurances. And I use that example in part because that’s a great example of dissembling, let’s call it, that can have real consequences legally. I don’t need to tell you, under Delaware corporate law, if this company IPOs, shareholders could, under section 220, complain about this and demand underlying documentation. There are already board members saying things like, “Well, wait a minute, that briefing should have happened.”\nSo these things that seem to jump out of his mouth all the time, they can have real market-moving effects, real effects for OpenAI. Bringing it back to the kind of utopian hype language that’s resurfaced, I think not coincidentally on the day this piece came out, it also effects all of us, because the dangers are so acute with respect to the way it’s being deployed in weaponry, the way it’s being used to identify chemical warfare agents, the disinformation potential, and because of the way in which the utopian hype does seem to be prompting a lot of credible economists to say, “This has all the signs of a bubble.”\nEven Sam Altman has said, “Someone’s going to lose a lot of money here.” That could really crater a lot of American and global economic growth, if there’s like a true puncturing of a bubble involving all of these companies doing deals with each other, going all in on AI while borrowing so heavily. So what Sam Altman says matters, and I think the preponderance of people around him, you mentioned we talked to more than a hundred, it was actually well over a hundred. We had a conversation at the finish line where it’s like, “Would it be too petty to say it’s like this much higher number?” And we were like, “Yeah, let’s downplay. We’ll play it cool.” But there were so many people and such a significant majority of them saying, “This is a concern.” And I think that’s all why.\nLet me ask you about that number. As you mentioned, people got more and more open with the concerns as time went on. It feels like the pressure around the bubble — the race to win, to pay off all this investment, to emerge as the winner, to IPO — has changed a lot of attitudes. It certainly created more pressure on Sam and OpenAI.\nWe published a story this week just about the vibes of OpenAI. Your story is part of it, but massive staffing changes in the executive ranks at OpenAI — people are coming and going. The researchers are all headed away, largely to Anthropic, which I think is really interesting. You can just see this company is feeling the pressure, and it is responding to that pressure in some way.\nBut then I think back to Sam getting fired. This is just memorable for me. It’s memorable for no one else, but I took a source call at the Bronx Zoo at 7PM on a Friday, and it was someone saying they’re going to try to get Sam back. And then we spent the weekend chasing that story down. And I was just like, “I’m at the zoo. What do you want me to do here?” And the answer was, “Stay on the phone.” Well, my daughter was like, “Get off the phone.” And that’s what I did. \nIt was ride or die to get Sam back. That company was like, “No, we’re not letting the board fire Sam Altman.” The investors, they’re quoted in your piece, “We went to war,” I think, is the Thrive Capital position, “to get Sam back.” Microsoft went to war to get Sam back. It’s later, and now everyone’s like, “We’re going to IPO. We got to the finish line. We got our guy back, and he’s going to get us to the finish line. We’re concerned he’s a liar.” \nWhy was it a war to get him back then? Because it doesn’t seem like anything has actually changed. You talk about the memos that Ilya Sutskever and [Anthropic CEO] Dario Amodei kept while they were contemporaries of Sam Altman. Ilya’s number one concern was that Sam is a liar.\nNone of that has changed. So why was it war to bring him back then? And now that we’re at the finish line, it seems like all the concerns are out in the open.\nWell, first of all, sorry to your daughter and my partner and all the other people around the journalists. \n[Laughs] It was quite a weekend for everyone.\nYeah, it does take over one’s life, and this story definitely has mine, over the last period of time. It actually relates to this theme of journalism and access to information, I think. The investors who went to war for Sam and all played roles in making sure he came back, and the board that had been specifically designed to protect a nonprofit’s mission to put safety over growth and to fire an executive if they couldn’t be trusted with that, they went away. That was all because, yes, the market incentives were there, right?\nSam was able to convince people, “Well, the company’s just going to fall apart.” But the reason he had support was a lack of information. Those investors, in many cases, now say, “I look back, and I think I should have had more concerns if I had known fully what the claims were and what the concerns were.”\nNot all of them; opinions vary, and we quote a range of opinions, but there are significant ones who were acting on very partial info. The board that fired Sam was, in the words of one person who used to be on the board, “very JV,” and they fumbled the ball hard. And we document the underlying complaints, and people can decide for themselves whether it accumulates into the kind of urgent concern they felt it was, but that argument and that information were not being presented.\nThey received what some of them now acknowledge as bad legal advice. To describe it, you’ll remember the quote, and probably a lot of your listeners and viewers will remember the quote as a lack of candor. That was what it was reduced to, and then they essentially wouldn’t take calls.\nThey would not take calls. I’m sure you tried. Everyone I know tried, and it got to the point where, as a journalist, you’re not supposed to give your sources advice, but I was like, “This will go away if you don’t start explaining yourself.”\nAnd that’s what happened. Forget journalists. You had Satya Nadella saying, “What the hell happened? I can’t get anyone to explain to me.” And that’s the company’s major financial backer. And then you have Satya calling [LinkedIn co-founder] Reid Hoffman and Reid calling around and saying, “I don’t know what the fuck happened.” \nThey’re understandably in that void of information, looking for the traditional non-AI indicators that would justify such an urgent, sudden firing. Like, okay, was it sex crimes? Was it embezzlement? And the entire subtle, but I think meaningful, argument that this tech is different and that this kind of a steady accumulation of smaller betrayals could have meaningful stakes both for this business and maybe for the world, was largely lost. So capitalist incentives won out, but also the people who made it went out and were not always operating with complete information.\nI want to just ask about the “what everyone thought it was” aspect for one moment, because I certainly saw the news, and I said, “Oh, something bad must have happened.” You’ve done a lot of #MeToo reporting, famously. You broke the Harvey Weinstein story. \nYou spent a lot of time reporting on these claims that I think you decided were ultimately unfounded: that Altman sexually assaulted minors or hired sex workers, or even murdered an OpenAI whistleblower. I mean, you are the person who can report this stuff the most rigorously. Did you decide that it came to nothing?\nWell, look, I’m not in the business of saying something has come to nothing. What I can say is I spent months looking at these claims and did not find corroboration for them. And it was striking to me that these guys, these companies that have so much power over our futures, truly are spending a disproportionate amount of their time and resources in a childish mud fight.\nOne executive describes it as “Shakespearean.” The amount of private investigator money and the opposition dossiers being compiled is relentless. And the unfortunate thing is that the kind of salacious stuff, which gets parroted by Sam’s competitors, is just assumed fact, right? There’s this allegation that he pursues underage boys, and at many cocktail parties in Silicon Valley, you hear this. On the conference circuit, I’ve heard it just repeated by credible, prominent executives: “Everybody knows this is a fact.”\nThe sad thing is that I talk about where this comes from, the various vectors by which it’s transmitted. Elon Musk and his associates are seemingly pushing really hardcore dossiers that kind of amount to nothing. They’re vaporous when you actually start to look at the underlying claims. The sad thing is that it really obscures the more evidence-based critiques here that I think really deserve urgent oversight and consideration.\nThe other theme that really comes through in the story is almost a sense of fear that Sam has so many friends — he’s invested in so many companies from his previous role as CEO of Y Combinator, just to his personal investing, some of which are in direct conflict with his role as CEO of OpenAI — and there’s silence around him.\nIt struck me as I was reading one line in particular. You describe Ilya Sutskever’s memos, and they’re just out in Silicon Valley. Everyone calls them the Ilya memos. But there’s even silence around that. They’re passed around, but they’re not discussed. Where do you think that comes from? Is it fear? Is it a desire to get angel investment? Where does that come from?\nI think it’s a lot of cowardice, I’ll be honest. Having reported on national security stories where the sources are whistleblowers who stand to lose everything and face prosecution, they still do the right thing and talk about things to create accountability. I’ve worked on the sex crimes-related stories that you mentioned, where sources are deeply traumatized and fear a very personal kind of retribution. \nIn many cases around this beat, you’re dealing with people with their own profile and power. They’re either famous people themselves or they’re surrounded by famous people. They have robust business lives. In my view, it is actually very low exposure for them to talk about this stuff. And thankfully, the needle is moving as we talked about earlier, and people are now talking more.\nBut for such a long time, people really just shut up about it because I think the Silicon Valley culture is just so ruthlessly self-interested and ruthlessly business and growth-oriented. So I think this afflicts even some of the people who were involved in firing Sam, where you saw in the days after, yes, one factor that led to him coming back and the firing of old board members was that he rallied investors who were confused to his cause. \nBut another is that so many other people around it who had the concerns and voiced them urgently just folded like napkins and changed their tune the moment they saw the wind was blowing the other way, and they wanted in on the profit train. \nIt’s pretty dark, honestly, from my standpoint as a reporter.\nSome of those people are Mira Murati, who, I believe, for 20 minutes was the new CEO of OpenAI. She was then replaced. It was a very complicated dynamic, and obviously, Sam came back. The other person is Ilya Sutskever, who was one of the votes to remove Sam, and then he changed his mind, or at least said he changed his mind, and then he left to start his own company. Do you know what made him change his mind? Was it just money?\nWell, and to be clear, I’m not singling those two out. There are other board members who were involved in the firing who also fell very silent after. I think it’s like a wider collective problem. These are, in some cases, people who had the moral fiber to sound alarms and take radical action, and that is to be commended. And that’s how you assure accountability. That could have helped a lot of people who are affected by this technology. It could have helped an industry to remain more meaningfully safety-focused.\nBut dealing with whistleblowers and people who try to prompt that accountability a lot, you also see that it takes the fiber of sticking it out and standing by your convictions. And this industry is truly full of people who just do not stand by their convictions.\nEven though they think that they’re building a digital God that will somehow either eliminate all labor or create more labor, or something will happen.\nWell, that’s the thing. So the culture of not standing by your convictions and all ethical concerns falling by the wayside the moment there’s any heat or anything that could threaten your own standing in the business is maybe all well and good to some extent for business-as-usual companies that are making whatever kind of widget.\nBut these are also the same people who are saying, “This could literally kill us all.” And again, you don’t have to go to the Terminator Skynet extreme. There is a set of risks that are already materializing. It is real, and they are right to warn about that, but you’d have to have someone else armchair psychologize how those two things can live in the same people where they’re sounding the urgent warnings, they’re maybe putting a toe in and trying to do something, and then they’re just folding and falling silent. \nThat is precisely why you can have these kinds of instances of things being kept out of writing and things being swept under the rug, and no one talking about it this openly for years after the fact.\nThe natural, responsible party here would not be the CEOs of these companies; it would be governments. In the United States, maybe it’s state governments, maybe it’s the federal government. \nCertainly, these companies all want to be global. There are lots of global implications here. I watched OpenAI, Google, and Anthropic all goad the Biden administration into releasing an AI executive order. It was pretty toothless in the end. It just said they had to talk about what their models were capable of and release some safety testing. And then they all backed Trump, and Trump came in and wiped all that out and said, “We have to be competitive. It’s a free-for-all. Go for it.”\nAt the same time, they’re all trying to raise funds from Middle Eastern countries that have lots of oil money and want to change their economies. Those are politicians. I feel like politicians should definitely understand someone is talking out of both sides of their mouth, and they’re not going to be too upset if someone’s disappointed in the end, but the politicians are getting taken for a ride, too. Why do you think that is?\nThis is really, I think, why the piece matters in my view and why it was worth spending all this time and detail on. We are in an environment where the systems that, as you say, should be providing oversight are just hollowed out. That’s a post-Citizens United America, where the flow of money is so unfettered, and it’s a particular concentration of that problem around AI, where there are these PACs that are proliferating and flooding money into quashing meaningful regulation at both a state and a federal level.\nYou have [OpenAI co-founder] Greg Brockman, Sam’s second in command, directly contributing in a major way to a couple of those. It leads to a situation where there really is capture of legislators and potential regulators, and that is a hard spiral to get out of. The sad thing is, I think that there are simple policy moves, some of which are being trialed elsewhere in the world, that would help with some of these accountability problems.\nYou could have more mandatory pre-deployment safety testing, which is something that is already happening in Europe for frontier models. You could have more stringent written public record requirements for the kinds of internal investigations where we saw things being kept out of writing in this case. You could have a more robust set of national security review mechanisms for the kinds of Middle Eastern infrastructure ambitions that Sam Altman was pushing. \nAs you say, he was doing this bait and switch with the Biden administration, saying, “Regulate us, regulate us,” and helping them craft an executive order, and then the moment Trump gets in, truly in the very first days, just going no holds barred, “Let’s accelerate and let’s build a massive data center campus in Abu Dhabi.” You could have, this is a really simple one, like whistleblower protections. There is no federal statute protecting AI company employees who disclose these kinds of safety concerns that are being aired in this piece.\nWe have cases where Jan Leike, who was a senior safety guy at OpenAI, was leading super alignment at the company. He writes to the board, essentially whistleblower material, saying the company is going off the rails on its safety mission. Those are the kinds of people who should actually have an oversight body they can go to, and they should have explicit statutory protections of the kinds we see in other sectors. This is simple to replicate a Sarbanes-Oxley-style regime.\nI think that despite how acute the problem is of Silicon Valley assuming control of all of the levers of power, and despite how hollowed out some of these institutions that might provide oversight and guardrails are, I still do believe in the basic math of democracy and of self-interested politicians. And there is more and more polling data emerging that a majority of Americans think that the concerns, questions, or risks of AI currently outweigh the benefits.\nSo I think the flood of money into politics from AI, it’s within all of our power to make that a source of a question mark with respect to politicians. When Americans go to vote, they should be scrutinizing whether the people they vote for, especially if they are uncritical and anti-regulation, given all these concerns, are bankrolled by big tech special interests. So I think if people can read pieces like this, listen to podcasts like this, and care enough to think critically about their decisions as voters, there is a real opportunity to generate a constituency in Washington of representatives who keep an eye on and force oversight.\nThat might be one of the most optimistic things I’ve ever heard anyone say about the current AI industry. I appreciate it. I’m obsessed with the polling that you’re talking about. There’s a lot of it now. It’s all pretty consistent, and it looks like the more young people, in particular, are exposed to AI, the more distrustful and angry they are about it. That’s the valence of all the polling. And I look at that, and I think, well, yeah, smart politicians would just run against that. They would just say, “We’re going to hold big tech accountable.” \nThen I think about the past 20 years, a politician saying they’re going to hold big tech accountable, and I’m struggling to find even one moment of big tech being held accountable. The only thing that makes me think this might be different is, well, you actually have to build the data centers, and you can vote against that, and you can petition against that, and you can protest against that.\nI think there’s a politician who just had their house shot at because they voted for a data center. The tension is reaching, I would call it, a fever pitch. You’ve described the insularity of Silicon Valley. This is a closed ecosystem. It feels like they think they can run the world. They’re putting a ton of money into politics, and they’re running up against the reality that people don’t love the products, which doesn’t give them a lot of cover. The more they use the products, the more upset they are, and the politicians are beginning to see there are real consequences to supporting the tech industry over the people they represent. \nYou’ve talked to so many people. Do you think it is possible for the tech industry to learn the lesson that is right in front of them?\nYou say it feels like they think they can run the world without accountability. I don’t even think that needs the “feels like” qualifier. I mean, you look at the language Peter Thiel is using, it’s explicit. Of course, that’s an extreme example. And Sam Altman, though he is close with and informed by Thiel’s ideology to some extent, is a very different kind of person who might sound different and more measured up to a point. \nBut I do think the wider ideology that you get from Thiel, which is basically: We’re done with democracy, we don’t need it anymore. We have so much that we just want to build our own little bunkers. We’re not dealing with the Carnegies anymore or the Rockefellers anymore, where they’re bad guys, but they feel they need to participate in a social contract and build things for people. There’s a real nihilism that’s set in.\nAnd I do think it’s just been a mutually reinforcing spiral in recent American history of moguls and private companies acquiring super governmental power while democratic institutions that might hold them accountable are hollowed out. I do not feel optimistic about the idea that those guys might just wake up one day and think, “Huh, actually maybe we do need to participate in society and help build things for people.”\nI mean, you look at like the microcosmic example of The Giving Pledge, where there was a moment where it was seemly to be charitable, and that moment is now past and even ridiculed. That is a problem, the broader problem of lack of accountability that I think can only be solved extrinsically. That has to be voters mobilizing and resurrecting the power of government oversight. And you’re exactly right to say that the main vector through which people could maybe achieve that is local. It’s to do with where infrastructure is being built. \nYou mentioned some of the white-hot tension around this that’s leading to violence and threats, and obviously, nobody should be violent or threatening. And I’m also not here to make specific policy recommendations other than to just present some of the policy steps that seem basic and are working elsewhere in the world, right? Or those who have worked in other sectors. I’m not here to say which of those should be executed and how.\nI do think something needs to happen, and it needs to be external, not just trusting these companies. Because right now we have a situation where the companies that are developing the tech and are equipped best to understand the risks, and in fact are the ones warning us of the risks, are also the ones with nothing but incentive to go fast and ignore those risks. And you just don’t have anything to counterbalance that. So whatever reforms might take in terms of specifics, something has to run up against that. And I do still return to that optimism that the people still matter.\nI generally buy your argument. Let me just make the one tiny counterargument that I think I can articulate. The other thing that could happen outside of the ballot box is that the bubble pops, right? That not all these companies get to the finish line, and that there isn’t product market fit for consumer AI applications. And again, I don’t quite see it yet, but I’m a consumer tech reviewer, and maybe I just have higher standards than everybody else.\nThere is product market fit in the business world, right? Having a bunch of AI agents write a bunch of software seems to be a real market for these tools. And you can read the arguments from these companies saying, “We’ve solved coding, and that means we can solve anything. If we can make software, we can solve any problems.”\nI think there are real limits to the things software can do. That’s great in the business world. Software can’t solve every problem in reality, but they have to get there. They got to finish the job, and maybe not everybody makes it to the finish line. And there is a crash, and this bubble pops, and maybe OpenAI or Anthropic or xAI, one of these companies fails, and all this investment goes away.\nDo you think that would affect this? Actually, let me ask the first question first. OpenAI is right on the cusp of an IPO. There are a lot of doubts about Sam as a leader. Do you think they’re going to make it to the finish line?\nI’m not going to prognosticate, but I think you raise an important point, which is that market incentives do matter internally to Silicon Valley, and the precarity of the current bubble dynamics does stand to interrupt the, again, potentially, according to critics, race to the bottom on safety.\nI would also add to that, if you look at historical precedence where there’s a similarly and seemingly impenetrable set of market incentives and potentially deleterious effects for the public, there’s impact litigation. And you see that as an area of concern lately. Sam Altman is out there this week endorsing legislation that would shield AI companies from some of the types of liability that OpenAI has been exposed to in wrongful death suits, for instance. Of course, there’s a desire to have that shield from liability.\nI think that the courts can still be a meaningful mechanism, and it’ll be really interesting to see how these suits shape up. You already saw, for instance, the class-action suit, of which I and many, many other authors I know are members, against Anthropic for their use of books that were under copyright. If there are smart legal minds and plaintiffs who care, as we’ve historically seen in cases from big tobacco to big energy, you can also get some guardrails and some incentives to slow down, be careful, or protect people that way.\nIt does feel like the entire cost structure of the AI industry hangs on a very, very charitable interpretation of fair use. Doesn’t come up enough. The cost structure of these companies could spiral out of control if they have to pay you and everyone else whose work they’ve taken, but it’s inconvenient to think about, so we just don’t think about it. Right next to that, all of these products are now running at a loss. Like today, they’re all running at a loss. They’re burning more money than they can make. At some point, they have to flip the switch.\nSam is a businessman. As you’ve mentioned several times, he’s not a technologist. He’s a business person. Do you think he’s ready to flip the switch and say, “We’re going to make a dollar?” Because when I ask, “Do you think OpenAI is going to make it?” It’s when they’ve got to make a dollar. And so far, Sam has made all of his dollars by asking other people for their money instead of having his companies make money.\nWell, that’s a big lingering question for Silicon Valley, for investors, for the public. You see some statements and moves out of OpenAI that seem to evince a kind of panic about that. Shutting down Sora, shutting down some ancillary projects, trying to zero in on the core product. But then on the other hand, you still see, at the same time, tons of mission creep, right? Even a small example — it’s obviously not core to their business — is the TBPN acquisition.\nBy the way, right as we were reaching the finish line and fact-checking, the company facing this kind of journalistic scrutiny acquires a platform where they can have more direct control over the conversation. I think that there are a lot of investors who are concerned, based on the conversations I’ve had, that this problem of promising all things to all people also extends to this lack of focus in the core business model. And I mean, you’re closer to the kind of prognosticating and watching the market than I am probably. I’ll leave you and the listeners to be the judge of whether they think OpenAI can flip the switch. \nWell, I asked the question because you’ve got a quote in the piece from a senior Microsoft executive, and it is that, “Sam’s legacy might end up more similar to Bernie Madoff or Sam Bankman-Fried,” rather than Steve Jobs. That is quite a comparison. What’d you make of that comparison?\nI think that’s a paraphrase. The Steve Jobs part wasn’t part of the quote. But there’s an interesting sort of sobriety to it because it’s phrased as like, “I think there’s a small but real chance that he winds up being an SBF or a Madoff-level scammer.” Meaning, to my mind, not that Sam is being accused of those specific types of fraud or crimes, but that the degree of dissembling and deception from Sam may have a chance of ultimately being remembered at that scale.\nYeah, I think what’s most striking about that quote, honestly, is that you call around at Microsoft and you don’t get a like, “That’s crazy. We’ve never heard that.” You get a lot of like, “Yep, a lot of people here think that” which is remarkable. And I think it does go to these nuts and bolts business questions. \nOne investor told me, for instance, in light of the way in which this trait has persisted in the years after the firing” — and this also thought this was an interesting sober thought — that it’s not necessarily that Sam should be at the absolute bottom of the list, like should be the lowest of the low in terms of the people that absolutely must not build this technology, for what it’s worth. There are several people who said Elon Musk is that person. But that this trait puts him maybe at the bottom of the list of people who should build AGI, and beneath several other leading figures in this field.\nSo I thought that was an interesting appraisal, and that’s the kind of thinking I think that you get from the real pragmatists who maybe aren’t buying into the safety concerns as much. They’re just growth-oriented, and they think that OpenAI now has a problem with Sam Altman.\nThe Microsoft piece is really interesting. That company thought they were on top of the world. That they had made this investment and they were going to leapfrog everyone, especially and most importantly, Google, and get back into the good graces of consumers. The level to which they feel burned by this adventure — this is a very soberly run company — I don’t think can be overstated.\nYou mentioned the characters and the personality traits. I want to end here with a question from our listeners. I said on our other show, The Vergecast, that I was going to be talking to you, and I said, “If you have questions for Ronan about this story, let me know.” So we have one here that I think ties in neatly with what you’re describing. I’m just going to read it to you:\n“How do the justifications for bad behavior, cutthroat actions of Altman and other AI leaders, differ from the justifications Ronan has heard from other high-profile leaders in politics and media? Don’t they all justify their actions by saying this is how the world gets changed? If I don’t do this, someone else will?”\nYeah, there’s a lot of that going around. I would say what is distinctive to AI is that the existential stakes being so uniquely high means both the statements of risk are extreme, right? You have Sam Altman saying, “This could be lights out for all of us.” And also, critics might say, the mania that the questioner is referring to is extreme, right? \nThe thing that Sam accused Elon of, on the record, was that maybe he wants to save humanity, but only if it’s him. The kind of ego component of wanting to win, which is a framing Sam uses all the time, and that this is one for the history books, this could change everything. So therefore, even above and beyond the “you’ve got to break a few eggs” mindset of most Silicon Valley enterprises, there is, in the minds of some figures leading AI, I think, a complete rationalization for any and all fallout.\nAnd forget breaking eggs. I/ think a lot of the underlying safety researchers would say potentially risking breaking the country, breaking the world, and breaking millions of people whose jobs and safety hang in the balance — that’s what’s unique about it. That’s where I close, reflecting on this body of reporting, really believing this is about more than Sam Altman. This is about an industry that is unconstrained and a spiraling problem of America being unable to constrain it.\nYeah. Well, we had some optimism there, but I think that’s a good place to leave it.\n[Laughs] End on a downbeat.\nOf course. That’s every great story, really. The Musk-Altman trial is upcoming. I think we’re going to learn a lot more here. I suspect I will want to talk to you again. Ronan Farrow, thank you so much for being on Decoder.\nThank you.\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-04-16T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Heute spreche ich bei Decoder mit Ronan Farrow, einem der größten Stars der investigativen Berichterstattung der Gegenwart. Er hat neben vielen anderen auch die Geschichte von Harvey Weinstein aufgedeckt. Und erst letzte Woche veröffentlichten er und Co-Autor Andrew Marantz im New Yorker einen unglaublich ausführlichen Beitrag über Open...",
+    "titleDE": "Ronan Farrow über Sam Altmans „uneingeschränkte“ Beziehung zur Wahrheit"
+  },
+  {
+    "title": "Character.AI’s new Books mode turns reading into roleplay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
+    "description": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format lets users step inside familiar worlds for a more structured roleplaying experience, one the company hopes will broaden perceptions of what AI roleplay can be beyond romancing minors, encouraging violence, and promoting self-harm.\nIn a blog post, Character.AI said Books is launching with a catalog of more than 20 classic public domain titles sourced from Project Gutenberg, including Alice in Wonderland, Pride and Prejudice, Dracula, Frankenstein,  …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-16T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Character.AI steckt voller Kontroversen und rechtlicher Probleme wegen Bedenken hinsichtlich der Interaktionen seiner Chatbots mit Benutzern, insbesondere Teenagern, und scheint mit einem neuen „Bücher“-Modus auf Nummer sicher zu gehen. Das neue Format lässt Benutzer in vertraute Welten eintauchen und bietet so ein strukturierteres Rollenspielerlebnis, das das Unternehmen selbst entwickelt hat.",
+    "titleDE": "Der neue Büchermodus von Character.AI verwandelt das Lesen in ein Rollenspiel"
+  },
+  {
+    "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+    "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+    "description": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
+    "pubDate": "2026-04-16T13:49:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ab dem 19. April wird der Preis für Meta Quest 3S (128 GB) und Meta Quest 3S (256 GB) um 50 US-Dollar auf 349,99 US-Dollar bzw. 449,99 US-Dollar steigen. Der Preis für Meta Quest 3 steigt um 100 $ auf 599,99 $.",
+    "titleDE": "Meta erhöht die Preise für Quest 3 und Quest 3S aufgrund von RAM-Mangel"
+  },
+  {
+    "title": "Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+    "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+    "description": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access the platform's entire suite of tools from a single, unified conversational interface. That means users can ask the chatbot to perform actions like \"c …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-16T13:07:09.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Canva hat seine Design- und Arbeitsbereichssuite überarbeitet, um der ultimative zentralisierte Hub für die Erstellung von KI-gestützten Inhalten zu werden. Die Plattform kündigte heute ihr Canva AI 2.0-Update an, das aktualisierte Tools und neue auf Eingabeaufforderungen basierende Bearbeitungsfunktionen einführt, mit denen Benutzer ihre Inhalte erstellen oder anpassen können.",
+    "titleDE": "Das AI 2.0-Update von Canva setzt voll auf auf Eingabeaufforderungen basierende Designtools"
+  },
+  {
+    "title": "Canva’s AI assistant can now call various tools to make designs for you",
+    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+    "description": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+    "pubDate": "2026-04-16T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit der neuesten Version des KI-Assistenten von Canva können Benutzer bearbeitbare Designs mit Textaufforderungen erstellen.",
+    "titleDE": "Der KI-Assistent von Canva kann jetzt verschiedene Tools aufrufen, um Designs für Sie zu erstellen"
+  },
+  {
+    "title": "Making AI operational in constrained public sector environments",
+    "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "description": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
+    "pubDate": "2026-04-16T13:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Der KI-Boom hat alle Branchen erfasst und Organisationen des öffentlichen Sektors stehen unter dem Druck, die Einführung zu beschleunigen. Gleichzeitig sind Regierungsinstitutionen mit besonderen Einschränkungen in Bezug auf Sicherheit, Governance und Betrieb konfrontiert, die sie von ihren geschäftlichen Pendants unterscheiden. Aus diesem Grund...",
+    "titleDE": "KI in eingeschränkten Umgebungen des öffentlichen Sektors einsatzbereit machen"
+  },
+  {
+    "title": "Treating enterprise AI as an operating layer",
+    "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "description": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
+    "pubDate": "2026-04-16T13:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Es gibt eine Bruchlinie, die sich durch die Unternehmens-KI zieht, und sie ist nicht diejenige, die die meiste Aufmerksamkeit erhält. In der öffentlichen Diskussion werden immer noch Grundlagenmodelle und Benchmarks verfolgt – GPT vs. Gemini, Argumentationswerte und geringfügige Leistungssteigerungen. In der Praxis ist der dauerhaftere Vorteil jedoch struktureller Natur: ...",
+    "titleDE": "Behandlung der Unternehmens-KI als Betriebsebene"
+  },
+  {
+    "title": "This simulation startup wants to be the Cursor for physical AI",
+    "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+    "description": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+    "pubDate": "2026-04-16T12:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Antioch hat eine Seed-Runde in Höhe von 8,5 Millionen US-Dollar aufgebracht, um Simulationswerkzeuge für eine neue Generation von Roboterbauern zu entwickeln.",
+    "titleDE": "Dieses Simulations-Startup möchte der Cursor für physische KI sein"
+  },
+  {
+    "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+    "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
+    "pubDate": "2026-04-16T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Cyberbetrüger umgehen die Sicherheit von Banken mit illegalen Tools, die über Telegram verkauft werden. In einem Geldwäschezentrum in Kambodscha öffnet ein Mitarbeiter eine Banking-App auf seinem...",
+    "titleDE": "Der Download: Bankumgehungen von Cyberbetrügern und Probleme bei der CO2-Entfernung"
+  },
+  {
+    "title": "Why having “humans in the loop” in an AI war is an illusion",
+    "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+    "description": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+    "pubDate": "2026-04-16T12:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Verfügbarkeit künstlicher Intelligenz für den Einsatz in der Kriegsführung steht im Mittelpunkt eines Rechtsstreits zwischen Anthropic und dem Pentagon. Diese Debatte ist dringlich geworden, da KI im aktuellen Konflikt mit dem Iran eine größere Rolle als je zuvor spielt. AI is no longer just helping humans analyze intellige...",
+    "titleDE": "Warum es eine Illusion ist, in einem KI-Krieg „Menschen auf dem Laufenden zu halten“."
+  },
+  {
+    "title": "The noise we make is hurting animals. Can we learn to shut up?",
+    "link": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+    "description": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air travel collapsed. Cities—normally filled with the honking, screeching, engine-gunning riot of transportation—became as silent as…",
+    "pubDate": "2026-04-16T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Als die Covid-19-Pandemie begann, dachte Jennifer Phillips an die Lieder der Spatzen. Sie waren leichter zu hören, weil die Welt plötzlich stiller geworden war. Der Autoverkehr ging zurück, da die Menschen zu Hause Schutz suchten und zur Fernarbeit übergingen. Der Flugverkehr brach zusammen. Städte – normalerweise gefüllt mit ...",
+    "titleDE": "Der Lärm, den wir machen, schadet den Tieren. Können wir lernen, den Mund zu halten?"
+  },
+  {
+    "title": "The quest to measure our relationship with nature",
+    "link": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
+    "description": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us. In the 21st century, though, mainstream conservation is learning that humans can be a force for good. Foresters are turning to Indigenous burning practices to prevent wildfires. Biologists are realizing that flower-dotted meadows were…",
+    "pubDate": "2026-04-16T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Als Bewegung war der Umweltschutz ziemlich menschenfeindlich. Verständlicherweise haben wir Menschen den Ökosystemen um uns herum einige zerstörerische Dinge angetan. Im 21. Jahrhundert lernt der Mainstream-Naturschutz jedoch, dass der Mensch eine Kraft für das Gute sein kann. Förster wenden sich an indigene Brandstifter ...",
+    "titleDE": "Die Suche, unsere Beziehung zur Natur zu messen"
+  },
+  {
+    "title": "Is carbon removal in trouble?",
+    "link": "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
+    "description": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the carbon removal market. The company has single-handedly purchased something like 80% of all contracted carbon removal. If you’re looking for someone to pay you to suck carbon dioxide out of the…",
+    "pubDate": "2026-04-16T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the carbon removal market. The company has single-handedly purchased something like 80% of all contracted carbon removal. If you’re looking for someone to...",
+    "titleDE": "Ist die Kohlenstoffentfernung in Schwierigkeiten?"
+  },
+  {
+    "title": "Codex for (almost) everything",
+    "link": "https://openai.com/index/codex-for-almost-everything",
+    "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "pubDate": "2026-04-16T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "titleDE": "Codex für (fast) alles"
+  },
+  {
+    "title": "DeepL, known for text translation, now wants to translate your voice",
+    "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+    "description": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams.",
+    "pubDate": "2026-04-16T08:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams.",
+    "titleDE": "DeepL, bekannt für Textübersetzungen, möchte jetzt Ihre Stimme übersetzen"
+  },
+  {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "pubDate": "2026-04-16T01:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "titleDE": "Einführung von GPT-Rosalind für die biowissenschaftliche Forschung"
+  },
+  {
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "description": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "pubDate": "2026-04-16T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "titleDE": "Beschleunigung des Cyber-Verteidigungsökosystems, das uns alle schützt"
+  },
+  {
     "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
     "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
     "description": "The version posted by @realdonaldtrump/Truth Social.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!\n(I will also accept confidential tips at tina.nguyen+tips@theverge.com.)\nYou can't spell \"antichrist\" without \"AI\"\nOf all the things that would have fractured the religious right's alliance with Donald Tr …\nRead the full story at The Verge.",
     "pubDate": "2026-04-15T19:50:31.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Die von @realdonaldtrump/Truth Social gepostete Version. Hallo und willkommen bei Regulator, einem Newsletter für Verge-Abonnenten über die Machtspiele der Big Tech in Washington und darüber hinaus. (Und wenn ich jenseits sage, meine ich das große Jenseits, wie vielleicht den Himmel.) Wenn Sie aus der Wildnis den Weg zu diesem Newsletter gefunden haben ...",
+    "descriptionDE": "The version posted by @realdonaldtrump/Truth Social. Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild...",
     "titleDE": "Trump veröffentlicht noch mehr KI-generierte Trump-Jesus-Fankunst"
   },
   {
@@ -16,7 +366,7 @@
     "pubDate": "2026-04-15T19:28:36.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "OpenAI hat die Fähigkeiten seines Agenten-Building-Toolkits erweitert, da Agenten-KI immer beliebter wird.",
+    "descriptionDE": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
     "titleDE": "OpenAI aktualisiert sein Agents SDK, um Unternehmen dabei zu helfen, sicherere und leistungsfähigere Agenten zu entwickeln"
   },
   {
@@ -26,7 +376,7 @@
     "pubDate": "2026-04-15T18:55:12.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Das Startup gab an, seinen ARR in nur 20 Monaten nach der Einführung einer KI-Agentenplattform für Vermarkter um 70 Millionen US-Dollar gesteigert zu haben.",
+    "descriptionDE": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
     "titleDE": "Hightouch erreicht 100 Millionen US-Dollar ARR dank KI-gestützter Marketingtools"
   },
   {
@@ -36,38 +386,8 @@
     "pubDate": "2026-04-15T18:51:54.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "LinkedIn gibt an, dass die Einstellungszahlen seit 2022 um 20 % zurückgegangen sind, macht aber höhere Zinsen – nicht KI – für die Verlangsamung verantwortlich.",
+    "descriptionDE": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
     "titleDE": "LinkedIn-Daten zeigen, dass KI nicht für den Einstellungsrückgang verantwortlich ist … noch nicht"
-  },
-  {
-    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-    "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-    "description": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-    "pubDate": "2026-04-15T18:38:10.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Gizmo, eine KI-gestützte Lernplattform, hat mehr als 13 Millionen Nutzer angezogen und sich gerade eine Serie-A-Finanzierung in Höhe von 22 Millionen US-Dollar gesichert.",
-    "titleDE": "Die KI-Lern-App Gizmo erreicht 13 Millionen Nutzer und eine Investition von 22 Millionen US-Dollar"
-  },
-  {
-    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-    "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-    "description": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-    "pubDate": "2026-04-15T18:33:20.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Objection, ein von Thiel unterstütztes Startup, zielt darauf ab, KI zur Beurteilung von Journalismus einzusetzen und Benutzern die Möglichkeit zu geben, dafür zu bezahlen, Geschichten zu hinterfragen. Kritiker warnen, dass dies Whistleblower abschrecken und die Funktionsweise der Medienverantwortung verändern könnte.",
-    "titleDE": "Kann KI den Journalismus beurteilen? Ein von Thiel unterstütztes Startup sagt ja, auch wenn es das Risiko eingeht, Whistleblower abzuschrecken"
-  },
-  {
-    "title": "Google rolls out a native Gemini app for Mac",
-    "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-    "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-    "pubDate": "2026-04-15T18:22:13.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sie können alles auf ihrem Bildschirm mit Gemini teilen, um Hilfe bei dem zu erhalten, was sie gerade sehen, einschließlich lokaler Dateien.",
-    "titleDE": "Google führt eine native Gemini-App für Mac ein"
   },
   {
     "title": "Google launches a Gemini AI app on Mac",
@@ -76,28 +396,8 @@
     "pubDate": "2026-04-15T18:10:15.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Google bringt eine neue Gemini-App auf dem Mac auf den Markt, mit der Sie mit dem KI-Assistenten interagieren können, ohne das Fenster auf Ihrem Desktop wechseln zu müssen. Mit der App können Sie mit der Tastenkombination Wahl + Leertaste eine schwebende Chat-Blase aufrufen, in der Sie Gemini-Fragen stellen und Ihr Fenster teilen können. Bevor Sie uns teilen...",
+    "descriptionDE": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing y...",
     "titleDE": "Google bringt eine Gemini AI-App auf dem Mac auf den Markt"
-  },
-  {
-    "title": "The musician-turned-biotech-founder waiting to fundraise",
-    "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
-    "description": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that […]",
-    "pubDate": "2026-04-15T17:58:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Als der Grammy-nominierte Singer-Songwriter Aloe Blacc trotz Impfung und Auffrischungsimpfung an COVID erkrankte, versuchte er, die Forschung für eine bessere Lösung zu finanzieren. Was er schnell herausfand? Im Biotech-Bereich kann man nicht einfach einen Scheck ausstellen. Regulierungsbehörden verlangen einen Kommerzialisierungsplan, und Philanthropie bringt die Wissenschaft nicht dazu, ...",
-    "titleDE": "Der zum Biotech-Gründer gewordene Musiker wartet auf eine Spendenaktion"
-  },
-  {
-    "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-    "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-    "description": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
-    "pubDate": "2026-04-15T17:24:18.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit Wingman von Emergent können Benutzer Aufgaben per Chat auf Plattformen wie WhatsApp und Telegram verwalten und automatisieren.",
-    "titleDE": "Indiens Vibe-Coding-Startup Emergent betritt den OpenClaw-ähnlichen KI-Agenten-Bereich"
   },
   {
     "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
@@ -120,66 +420,6 @@
     "titleDE": "Gemini 3.1 Flash TTS: die nächste Generation ausdrucksstarker KI-Sprache"
   },
   {
-    "title": "After sale of its shoe business, Allbirds pivots to AI",
-    "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-    "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-    "pubDate": "2026-04-15T14:24:31.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Allbirds ersetzt Wollsneaker durch KI-Server und firmiert in NewBird AI um, nachdem es sich eine Wandelfinanzierungsfazilität in Höhe von 50 Millionen US-Dollar gesichert hat.",
-    "titleDE": "Nach dem Verkauf seines Schuhgeschäfts stellt Allbirds auf KI um"
-  },
-  {
-    "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-    "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-    "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-    "pubDate": "2026-04-15T13:06:54.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Reid Hoffman sagt, dass die Verfolgung der KI-Token-Nutzung die Akzeptanz messen kann, weist jedoch darauf hin, dass diese mit dem Kontext verknüpft und nicht als direkte Produktivitätsmetrik behandelt werden sollte.",
-    "titleDE": "Reid Hoffman äußert sich zur „Tokenmaxxing“-Debatte"
-  },
-  {
-    "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-    "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-    "description": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
-    "pubDate": "2026-04-15T13:01:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut Adobe kann der Assistent mit Apps wie Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator und seinen anderen Apps arbeiten, um Aufgaben für Sie zu erledigen.",
-    "titleDE": "Der neue AI-Assistent Firefly von Adobe kann Creative Cloud-Apps zum Erledigen von Aufgaben verwenden"
-  },
-  {
-    "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
-    "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
-    "description": "You don’t need to understand any fancy editing terms — just describe what changes you want to make. | Image: Adobe\t\n\nAdobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. \nAdobe says this marks a \"fundamental shift in how creative work is done\" by removing skill barriers and laborious tasks, while still giving creatives full control over their work. It'll be \"available soon\" on the Firefly AI studio platform according to Adobe, though no specific launch date was provided in the announcement.\nThe unifi …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-15T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sie müssen keine ausgefallenen Bearbeitungsbegriffe verstehen – beschreiben Sie einfach, welche Änderungen Sie vornehmen möchten. | Bild: Adobe Adobe setzt vollständig auf KI-Tools, die es Kreativen ermöglichen, ihre Arbeit mithilfe beschreibender Eingabeaufforderungen zu bearbeiten, anstatt bestimmte Creative Cloud-Apps manuell zu verwenden. Das neue Unternehmen des Software-Riesen ...",
-    "titleDE": "Adobe setzt auf dialogorientierte KI-Bearbeitung und markiert damit einen „grundlegenden Wandel“ in der kreativen Arbeit"
-  },
-  {
-    "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-    "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-    "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-    "pubDate": "2026-04-15T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen nutzt KI, um Code zu überprüfen, der heutzutage in den meisten Fällen auch von KI generiert wurde.",
-    "titleDE": "Gitar, ein Startup, das Agenten zum Sichern von Code einsetzt, kommt mit 9 Millionen US-Dollar aus der Tarnung heraus"
-  },
-  {
-    "title": "This startup is betting tokenmaxxing will create the next compute giant",
-    "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-    "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
-    "pubDate": "2026-04-15T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Parasail sammelte 32 Millionen US-Dollar in einer Serie A und signalisierte damit eine zersplitterte Zukunft von Modellen und Computern.",
-    "titleDE": "Dieses Startup setzt darauf, dass tokenmaxxing den nächsten Rechenriesen hervorbringen wird"
-  },
-  {
     "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
     "link": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?  Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel…",
@@ -198,16 +438,6 @@
     "category": "trend",
     "descriptionDE": "In einem Geldwäschezentrum in Kambodscha öffnet ein Mitarbeiter eine beliebte vietnamesische Banking-App auf seinem Telefon. Die App fordert ihn auf, ein mit dem Konto verknüpftes Foto hochzuladen, also klickt er auf das Bild eines asiatischen Mannes um die 30. Als nächstes fordert die App dazu auf, die Kamera zu öffnen, um ein Video „lebendig“ zu machen ...",
     "titleDE": "Cyberbetrüger umgehen die Sicherheit von Banken mit illegalen Tools, die über Telegram verkauft werden"
-  },
-  {
-    "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost. ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
-    "description": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing crisis unfolded in full public view and criticism over Apple's cowardice mounted.\nIn a letter obtained by NBC News, Apple told US senators it \"contacted the teams behind both X and Grok after it received complaints and saw news coverage of the scandal\" and demanded that the developers \"create a plan to improve content moderation.\" …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-15T10:55:22.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut NBC News drohte Apple im Januar stillschweigend damit, Elon Musks KI-App Grok aus dem App Store zu verbannen, weil es ihr nicht gelungen war, die Flut nicht einvernehmlicher sexueller Deepfakes einzudämmen, die X überschwemmt. Es war eine gedämpfte Machtdemonstration eines der mächtigsten Torwächter der Technik, die hinter verschlossenen Türen stattfand, obwohl ...",
-    "titleDE": "Groks sexuelle Deepfakes hätten beinahe dazu geführt, dass sie aus dem App Store von Apple verbannt wurden. Fast."
   },
   {
     "title": "The next evolution of the Agents SDK",
@@ -230,86 +460,6 @@
     "titleDE": "Niemand ist sich sicher, ob das Leben in synthetischen Spiegeln uns alle töten wird"
   },
   {
-    "title": "Building trust in the AI era with privacy-led UX",
-    "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-    "description": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercise, but rather as the first overture in an ongoing customer relationship.…",
-    "pubDate": "2026-04-15T06:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Praxis der datenschutzorientierten Benutzererfahrung (UX) ist eine Designphilosophie, die Transparenz rund um die Datenerfassung und -nutzung als integralen Bestandteil der Kundenbeziehung betrachtet. Eine ungenutzte Chance im digitalen Marketing: Datenschutzorientiertes UX behandelt die Einwilligung des Benutzers nicht als eine ankreuzbare Compliance-Übung …",
-    "titleDE": "Mit datenschutzorientierter UX Vertrauen im KI-Zeitalter aufbauen"
-  },
-  {
-    "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-    "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-    "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
-    "pubDate": "2026-04-15T02:31:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein Investor, der beide Unternehmen unterstützt hat, sagte der FT, dass zur Rechtfertigung der jüngsten Runde von OpenAI die Annahme einer IPO-Bewertung von 1,2 Billionen US-Dollar oder mehr erforderlich sei – was Anthropics aktuelle Bewertung von 380 Milliarden US-Dollar als relatives Schnäppchen erscheinen lässt.",
-    "titleDE": "Der Aufstieg von Anthropic gibt einigen OpenAI-Investoren Anlass zum Nachdenken"
-  },
-  {
-    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-    "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-    "description": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
-    "pubDate": "2026-04-14T18:09:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In einem Interview auf dem Weltwirtschaftsgipfel von Semafor diese Woche erklärte Anthropic-Mitbegründer Jack Clark, warum das Unternehmen immer noch mit der US-Regierung in Kontakt stand und diese gleichzeitig verklagte.",
-    "titleDE": "Der Mitbegründer von Anthropic bestätigt, dass das Unternehmen die Trump-Administration über Mythos informiert hat"
-  },
-  {
-    "title": "The attacks on Sam Altman are a warning for the AI world",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-    "description": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, the San Francisco Chronicle found. Two days later, Altman's home appeared to be targeted a second time, according to The San Francisco Standard. Only a week earlier, an Indianapolis councilman reported 13 shots fired at his door, with a note that read \"No Data Centers,\" after he'd supported a rezoning petition for a data center developer.\nThese unsettling incidents have set off alarms in and around the AI industry. There's long been a vocal resistance to the te …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-14T18:04:42.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Bevor er angeblich einen Molotowcocktail auf das Haus von OpenAI-CEO Sam Altman warf, schrieb der 20-jährige beschuldigte Angreifer über seine Befürchtungen, dass die KI-Rasse zum Aussterben der Menschheit führen würde, wie der San Francisco Chronicle herausfand. Zwei Tage später schien Altmans Haus ein zweites Mal angegriffen worden zu sein, so ...",
-    "titleDE": "Die Angriffe auf Sam Altman sind eine Warnung für die KI-Welt"
-  },
-  {
-    "title": "Redefining the future of software engineering",
-    "link": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-    "description": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such…",
-    "pubDate": "2026-04-14T18:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Softwareentwicklung hat in diesem Jahrhundert zwei seismische Veränderungen erlebt. Erstens entstand die Open-Source-Bewegung, die nach und nach Code für Entwickler und Ingenieure auf der ganzen Welt zugänglich machte. Zweitens hat die Einführung von Entwicklungsabläufen (DevOps) und agilen Methoden Software aus isolierten Bereichen entfernt...",
-    "titleDE": "Die Zukunft des Software-Engineerings neu definieren"
-  },
-  {
-    "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
-    "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-    "description": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
-    "pubDate": "2026-04-14T17:13:03.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Gerät könnte bei der Behandlung mehrerer neurologischer Erkrankungen helfen, wenn es sich als erfolgreich erweist. Eine frühe Anwendung könnte darin bestehen, geschädigte Gehirn- oder Rückenmarkszellen sanft elektrisch zu stimulieren, um die Heilung zu fördern.",
-    "titleDE": "Max Hodaks Science Corp. bereitet die Platzierung seines ersten Sensors in einem menschlichen Gehirn vor"
-  },
-  {
-    "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
-    "link": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-    "description": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select.\n\"Until now, repeating an AI task - like asking for ingredient substitutions to make a recipe vegan - meant re-entering the same prompt as you visited different pages,\" Chrome product manager Hafsah Ismail said in the announcement. \"To make this easier, we're launching Skills in Chrome, which lets you save and reuse your most helpful AI prompts and run them with a single click.\"\nS …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-14T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google führt eine neue Chrome-Workflow-Funktion ein, mit der Sie Ihre bevorzugten Gemini-Befehle auf mehreren Webseiten wiederverwenden können. Alle KI-Eingabeaufforderungen können jetzt als „Skills“ im Chrome-Desktopbrowser gespeichert werden, sodass Sie sie sofort auf allen von Ihnen ausgewählten Registerkarten ausführen können. „Bisher war das Wiederholen einer KI-Aufgabe – …",
-    "titleDE": "Mit Chrome können Sie jetzt KI-Eingabeaufforderungen in wiederholbare „Fähigkeiten“ umwandeln."
-  },
-  {
-    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-    "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-    "description": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
-    "pubDate": "2026-04-14T17:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Google fügt Chrome „Skills“ hinzu und ermöglicht es Benutzern, KI-Eingabeaufforderungen auf verschiedenen Websites zu speichern und wiederzuverwenden. Die Funktion baut auf der Browser-Integration von Gemini auf.",
-    "titleDE": "Google fügt Chrome KI-Fähigkeiten hinzu, damit Sie Ihre bevorzugten Arbeitsabläufe speichern können"
-  },
-  {
     "title": "Turn your best AI prompts into one-click tools in Chrome",
     "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
     "description": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
@@ -318,76 +468,6 @@
     "category": "news",
     "descriptionDE": "Mit den Fähigkeiten in Chrome können Sie KI-Workflows entdecken, speichern und neu mischen – und sie sofort wiederholen.",
     "titleDE": "Verwandeln Sie Ihre besten KI-Eingabeaufforderungen in Ein-Klick-Tools in Chrome"
-  },
-  {
-    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-    "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-    "description": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
-    "pubDate": "2026-04-14T15:30:49.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der erste StrictlyVC des Jahres wird im Handumdrehen nach San Francisco kommen. Es sind noch ein paar Tickets verfügbar, um am 30. April zu uns und unserem geballten Redneraufgebot zu kommen. Melden Sie sich also noch heute an!",
-    "titleDE": "In nur wenigen Wochen bringt StrictlyVC San Francisco Führungskräfte von TDK Ventures, Replit und anderen zusammen"
-  },
-  {
-    "title": "Google brings its Gemini Personal Intelligence feature to India",
-    "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-    "description": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-    "pubDate": "2026-04-14T14:48:34.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit dieser Funktion können Benutzer Google-Konten wie Gmail und Fotos verbinden, um personalisierte Antworten zu erhalten.",
-    "titleDE": "Google bringt seine Gemini Personal Intelligence-Funktion nach Indien"
-  },
-  {
-    "title": "Has Google’s AI watermarking system been reverse-engineered?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-    "description": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true.\nThe developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it required was 200 Gemini-generated images, signal processing, and \"way too much free time.\" A little weed also seemed to help.\n\"No neural networks. No proprietary access,\" Aloshdenny said on Medium. \"Turns out if you're unemployed and average enough 'pure black' AI-generated im …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-14T13:53:53.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein Softwareentwickler behauptet, das SynthID-System von Google DeepMind rückentwickelt zu haben und zeigt, wie KI-Wasserzeichen aus generierten Bildern entfernt oder manuell in andere Werke eingefügt werden können. Eine Behauptung, die laut Google nicht wahr ist. Der Entwickler, der unter dem Benutzernamen Aloshdenny bekannt ist, hat Open-Sou...",
-    "titleDE": "Wurde das KI-Wasserzeichensystem von Google rückentwickelt?"
-  },
-  {
-    "title": "The Download: the state of AI, and protecting bears with drones",
-    "link": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even…",
-    "pubDate": "2026-04-14T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Möchten Sie den aktuellen Stand der KI verstehen? Schauen Sie sich diese Diagramme an. Wenn Sie KI-Nachrichten verfolgen, bekommen Sie wahrscheinlich ein Schleudertrauma. KI ist ein Goldrausch. KI ist eine Blase...",
-    "titleDE": "Der Download: der Stand der KI und der Schutz von Bären mit Drohnen"
-  },
-  {
-    "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-    "link": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters…",
-    "pubDate": "2026-04-14T12:04:47.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "MIT Technology Review erklärt: Lassen Sie unsere Autoren die komplexe, chaotische Welt der Technologie entwirren, damit Sie besser verstehen, was als nächstes kommt. Mehr aus der Serie können Sie hier lesen. Kurz bevor Artemis II ihre historische Steinschleuder um den Mond startete, sagte Jared Isaacman, der kürzlich bestätigte NASA-Administrator...",
-    "titleDE": "Die NASA baut das erste interplanetare Raumschiff mit Kernreaktorantrieb. Wie wird es funktionieren?"
-  },
-  {
-    "title": "Coming soon: 10 Things That Matter in AI Right Now",
-    "link": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-    "description": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
-    "pubDate": "2026-04-14T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Jedes Jahr erstellen wir unsere Liste der 10 bahnbrechenden Technologien mit unseren fundierten Prognosen darüber, welche Technologien den größten Einfluss auf unsere Lebens- und Arbeitsweise haben werden. Dieses Jahr standen wir jedoch vor einem Dilemma. Während unsere endgültige Auswahl alle unsere Kernabdeckungsbereiche umfasst (Energie, KI und Biotechnologie sowie ...",
-    "titleDE": "In Kürze erhältlich: 10 Dinge, die derzeit in der KI wichtig sind"
-  },
-  {
-    "title": "The problem with thinking you’re part Neanderthal",
-    "link": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
-    "description": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry…",
-    "pubDate": "2026-04-14T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Sie haben wahrscheinlich schon einmal eine Version dieser Idee gehört: dass viele von uns einen „inneren Neandertaler“ haben. Das heißt, als der Homo sapiens vor etwa 45.000 Jahren zum ersten Mal nach Europa kam, traf er auf Angehörige einer Verwandtenart – die breitbrauigen, kräftigeren Neandertaler – und nun, eins führte zum anderen ...",
-    "titleDE": "Das Problem ist, wenn man denkt, man sei zum Teil ein Neandertaler"
   },
   {
     "title": "Bringing people together at AI for the Economy Forum",
@@ -400,16 +480,6 @@
     "titleDE": "Menschen zusammenbringen beim AI for the Economy Forum"
   },
   {
-    "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
-    "description": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted to break the glass doors of the building with a chair and stated that he had come to burn down the location and kill anyone inside.\"\nHis charges include \"attempted damage and destruction of property by means of explosives and possession of an unregistered firearm,\" according to the Departmen …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-14T00:02:38.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Daniel Moreno-Gama muss sich nun einer Bundesklage stellen, nachdem er angeblich von Texas nach Kalifornien gereist ist, mit der Absicht, den CEO von OpenAI, Sam Altman, zu töten. Am 10. April wurde er verhaftet, nachdem er einen Molotowcocktail auf das Haus von OpenAI-CEO Sam Altman geworfen und versucht hatte, in das Hauptquartier von OpenAI einzubrechen. Acco...",
-    "titleDE": "Daniel Moreno-Gama wird wegen des Angriffs auf das Haus von Sam Altman und das Hauptquartier von OpenAI vor Gericht gestellt"
-  },
-  {
     "title": "Trusted access for the next era of cyber defense",
     "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
     "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
@@ -420,26 +490,6 @@
     "titleDE": "Vertrauenswürdiger Zugang für die nächste Ära der Cyberverteidigung"
   },
   {
-    "title": "AI influencers are ‘everywhere’ at Coachella",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
-    "description": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities.\nOnly some of these content creators aren't really there. They don't even exist at all outside of our screens. They're generated using AI tools.\nFaking Coachella attendance is nothing new - even real influencers have been doing so in recent years - but generative AI has now progressed to the point where it's become …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-13T19:53:46.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Coachella startete am Freitag und ist wie immer der Treffpunkt für Online-Influencer, die ihre unvergesslichen Erlebnisse beim Festival präsentieren möchten. Ein kurzer Blick durch meine Social-Media-Feeds hat mir bereits viele unheimlich attraktive Figuren in glitzernden Outfits gezeigt, die für eine perfekte Bühne posieren ...",
-    "titleDE": "KI-Influencer sind bei Coachella „überall“."
-  },
-  {
-    "title": "Why opinion on AI is so divided",
-    "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after…",
-    "pubDate": "2026-04-13T15:48:28.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. In einer Branche, die nicht stillsteht, ist der Stanford AI Index, eine jährliche Zusammenfassung der wichtigsten Ergebnisse und Trends, eine Gelegenheit, durchzuatmen. (Es ist ein Marathon, kein S...",
-    "titleDE": "Warum die Meinungen zu KI so geteilt sind"
-  },
-  {
     "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
     "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
     "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
@@ -448,265 +498,5 @@
     "category": "news",
     "descriptionDE": "Cloudflare bringt GPT-5.4 und Codex von OpenAI in die Agent Cloud und ermöglicht es Unternehmen, KI-Agenten für reale Aufgaben schnell und sicher zu erstellen, bereitzustellen und zu skalieren.",
     "titleDE": "Unternehmen unterstützen Agenten-Workflows in der Cloudflare Agent Cloud mit OpenAI"
-  },
-  {
-    "title": "Prompting fundamentals",
-    "link": "https://openai.com/academy/prompting",
-    "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Lernen Sie die Grundlagen der Eingabeaufforderung kennen und erfahren Sie, wie Sie klare, effektive Eingabeaufforderungen verfassen, um bessere und nützlichere Antworten von ChatGPT zu erhalten.",
-    "titleDE": "Anstoßende Grundlagen"
-  },
-  {
-    "title": "Using projects in ChatGPT",
-    "link": "https://openai.com/academy/projects",
-    "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie orojects in ChatGPT verwenden, um Chats, Dateien und Anweisungen zu organisieren, laufende Arbeiten zu verwalten und effektiver zusammenzuarbeiten.",
-    "titleDE": "Verwenden von Projekten in ChatGPT"
-  },
-  {
-    "title": "ChatGPT for research",
-    "link": "https://openai.com/academy/research",
-    "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT für Recherchen nutzen, um Quellen zu sammeln, Informationen zu analysieren und strukturierte, durch Zitate gestützte Erkenntnisse zu gewinnen.",
-    "titleDE": "ChatGPT für Forschungszwecke"
-  },
-  {
-    "title": "ChatGPT for finance teams",
-    "link": "https://openai.com/academy/finance",
-    "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Finanzteams ChatGPT nutzen, um Berichte zu optimieren, Daten zu analysieren, Prognosen zu verbessern und Erkenntnisse klarer zu kommunizieren.",
-    "titleDE": "ChatGPT für Finanzteams"
-  },
-  {
-    "title": "Using custom GPTs",
-    "link": "https://openai.com/academy/custom-gpts",
-    "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie benutzerdefinierte GPTs erstellen und verwenden, um Arbeitsabläufe zu automatisieren, konsistente Ausgaben aufrechtzuerhalten und speziell entwickelte KI-Assistenten zu erstellen.",
-    "titleDE": "Verwendung benutzerdefinierter GPTs"
-  },
-  {
-    "title": "Working with files in ChatGPT",
-    "link": "https://openai.com/academy/working-with-files",
-    "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie Dateien in ChatGPT hochladen und mit ihnen arbeiten, um Daten zu analysieren, Dokumente zusammenzufassen und Inhalte aus PDFs, Tabellenkalkulationen und mehr zu generieren.",
-    "titleDE": "Arbeiten mit Dateien in ChatGPT"
-  },
-  {
-    "title": "Getting started with ChatGPT",
-    "link": "https://openai.com/academy/getting-started",
-    "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT verwenden, beginnen Sie Ihr erstes Gespräch und entdecken Sie einfache Möglichkeiten zum Schreiben, Brainstorming und Lösen von Problemen mit KI.",
-    "titleDE": "Erste Schritte mit ChatGPT"
-  },
-  {
-    "title": "Creating images with ChatGPT",
-    "link": "https://openai.com/academy/image-generation",
-    "description": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie mit ChatGPT mithilfe klarer Eingabeaufforderungen Bilder erstellen und verfeinern, Designs iterieren und in wenigen Minuten hochwertige Grafiken erstellen.",
-    "titleDE": "Bilder mit ChatGPT erstellen"
-  },
-  {
-    "title": "Our response to the Axios developer tool compromise",
-    "link": "https://openai.com/index/axios-developer-tool-compromise",
-    "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI reagiert auf den Axios-Lieferkettenangriff, indem es macOS-Codesignaturzertifikate rotiert, Apps aktualisiert und bestätigt, dass keine Benutzerdaten kompromittiert wurden.",
-    "titleDE": "Unsere Antwort auf den Kompromiss mit dem Axios-Entwicklertool"
-  },
-  {
-    "title": "Brainstorming with ChatGPT",
-    "link": "https://openai.com/academy/brainstorming",
-    "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT verwenden, um Ideen zu sammeln, das Denken zu organisieren und grobe Konzepte in strukturierte, umsetzbare Pläne umzuwandeln.",
-    "titleDE": "Brainstorming mit ChatGPT"
-  },
-  {
-    "title": "Writing with ChatGPT",
-    "link": "https://openai.com/academy/writing",
-    "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT zum Schreiben verwenden, um Inhalte mit klarer Struktur, Tonalität und Absicht zu entwerfen, zu überarbeiten und zu verfeinern.",
-    "titleDE": "Schreiben mit ChatGPT"
-  },
-  {
-    "title": "Responsible and safe use of AI ",
-    "link": "https://openai.com/academy/responsible-and-safe-use",
-    "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie KI mit Best Practices für Sicherheit, Genauigkeit und Transparenz verantwortungsvoll einsetzen, wenn Sie Tools wie ChatGPT verwenden.",
-    "titleDE": "Verantwortungsvoller und sicherer Umgang mit KI"
-  },
-  {
-    "title": "ChatGPT for operations teams",
-    "link": "https://openai.com/academy/operations",
-    "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Betriebsteams ChatGPT nutzen, um Arbeitsabläufe zu rationalisieren, die Koordination zu verbessern, Prozesse zu standardisieren und eine schnellere Ausführung voranzutreiben.",
-    "titleDE": "ChatGPT für Betriebsteams"
-  },
-  {
-    "title": "Research with ChatGPT",
-    "link": "https://openai.com/academy/search-and-deep-research",
-    "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie mit ChatGPT mithilfe von Such- und Tiefenrecherchen recherchieren, um aktuelle Informationen zu finden, Quellen zu analysieren und strukturierte Erkenntnisse zu generieren.",
-    "titleDE": "Recherchieren Sie mit ChatGPT"
-  },
-  {
-    "title": "ChatGPT for customer success teams",
-    "link": "https://openai.com/academy/customer-success",
-    "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Kundenerfolgsteams ChatGPT nutzen, um Konten zu verwalten, die Kommunikation zu verbessern, die Abwanderung zu reduzieren und die Akzeptanz und Verlängerungen voranzutreiben.",
-    "titleDE": "ChatGPT für Kundenerfolgsteams"
-  },
-  {
-    "title": "Healthcare",
-    "link": "https://openai.com/academy/healthcare",
-    "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie, wie Kliniker ChatGPT nutzen, um Diagnose, Dokumentation und Patientenversorgung mit sicheren, HIPAA-konformen KI-Tools zu unterstützen.",
-    "titleDE": "Gesundheitspflege"
-  },
-  {
-    "title": "ChatGPT for sales teams",
-    "link": "https://openai.com/academy/sales",
-    "description": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Vertriebsteams ChatGPT nutzen, um Konten zu recherchieren, die Kontaktaufnahme zu personalisieren, Geschäfte zu verwalten und Pipeline und Konvertierung zu verbessern.",
-    "titleDE": "ChatGPT für Vertriebsteams"
-  },
-  {
-    "title": "Analyzing data with ChatGPT",
-    "link": "https://openai.com/academy/data-analysis",
-    "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie Daten mit ChatGPT analysieren, indem Sie Datensätze untersuchen, Erkenntnisse generieren, Visualisierungen erstellen und Erkenntnisse in umsetzbare Entscheidungen umwandeln.",
-    "titleDE": "Daten mit ChatGPT analysieren"
-  },
-  {
-    "title": "ChatGPT for managers",
-    "link": "https://openai.com/academy/managers",
-    "description": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Manager ChatGPT nutzen, um sich auf Gespräche vorzubereiten, klares Feedback zu schreiben, organisiert zu bleiben und die Teameffektivität zu verbessern.",
-    "titleDE": "ChatGPT für Manager"
-  },
-  {
-    "title": "Applications of AI at OpenAI",
-    "link": "https://openai.com/academy/applications-of-ai",
-    "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie, wie OpenAI-Produkte wie ChatGPT, Codex und APIs KI in den realen Einsatz für Arbeit, Entwicklung und alltägliche Aufgaben bringen.",
-    "titleDE": "Anwendungen von KI bei OpenAI"
-  },
-  {
-    "title": "Financial services",
-    "link": "https://openai.com/academy/financial-services",
-    "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie KI-Ressourcen für Finanzdienstleistungen, einschließlich Prompt Packs, GPTs, Leitfäden und Tools, die Institutionen bei der sicheren Bereitstellung und Skalierung von KI unterstützen.",
-    "titleDE": "Finanzdienstleistungen"
-  },
-  {
-    "title": "AI fundamentals",
-    "link": "https://openai.com/academy/what-is-ai",
-    "description": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, was KI ist, wie sie funktioniert und wie Tools wie ChatGPT große Sprachmodelle verwenden. Ein klarer, anfängerfreundlicher Leitfaden zum Verständnis künstlicher Intelligenz.",
-    "titleDE": "KI-Grundlagen"
-  },
-  {
-    "title": "Personalizing ChatGPT",
-    "link": "https://openai.com/academy/personalization",
-    "description": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT mithilfe benutzerdefinierter Anweisungen und Speicher personalisieren, um relevantere, konsistentere und maßgeschneiderte Antworten zu erhalten.",
-    "titleDE": "Personalisierung von ChatGPT"
-  },
-  {
-    "title": "Using skills",
-    "link": "https://openai.com/academy/skills",
-    "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie ChatGPT-Kenntnisse erstellen und nutzen, um wiederverwendbare Arbeitsabläufe zu erstellen, wiederkehrende Aufgaben zu automatisieren und konsistente, qualitativ hochwertige Ergebnisse sicherzustellen.",
-    "titleDE": "Fähigkeiten nutzen"
-  },
-  {
-    "title": "ChatGPT for marketing teams",
-    "link": "https://openai.com/academy/marketing",
-    "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "pubDate": "2026-04-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Marketingteams ChatGPT nutzen, um Kampagnen zu planen, Inhalte zu generieren, die Leistung zu analysieren und schneller von der Idee zur Umsetzung zu gelangen.",
-    "titleDE": "ChatGPT für Marketingteams"
-  },
-  {
-    "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
-    "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
-    "description": "Western Union exec says there were \"challenges\" working with Broadcom.",
-    "pubDate": "2026-04-09T19:44:31.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Der Geschäftsführer von Western Union sagt, dass es bei der Zusammenarbeit mit Broadcom „Herausforderungen“ gegeben habe.",
-    "titleDE": "„Negative“ Ansichten darüber, dass Broadcom Tausende von VMware-Migrationen vorantreibt, sagt der Rivale"
   }
 ]
