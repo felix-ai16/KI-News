@@ -1,5 +1,335 @@
 [
   {
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "description": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+    "pubDate": "2026-04-21T23:45:21.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta gibt an, über ein neues internes Tool zu verfügen, das Mausbewegungen und Tastenklicks in Daten umwandelt, mit denen seine KI-Modelle trainiert werden können.",
+    "titleDE": "Meta wird die Tastatureingaben der Mitarbeiter aufzeichnen und damit seine KI-Modelle trainieren"
+  },
+  {
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "description": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+    "pubDate": "2026-04-21T23:26:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic teilte TechCrunch mit, dass es die Behauptungen untersucht, behauptet jedoch, dass es keine Beweise dafür gebe, dass seine Systeme betroffen seien.",
+    "titleDE": "Berichten zufolge hat sich eine unbefugte Gruppe Zugriff auf das exklusive Cyber-Tool Mythos von Anthropic verschafft"
+  },
+  {
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "description": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+    "pubDate": "2026-04-21T22:58:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Schritt könnte Schwächen in jedem Unternehmen verstärken, aber er deckt sie auch auf. Weder Cursor noch xAI verfügen über proprietäre Modelle, die mit den führenden Angeboten von Anthropic und OpenAI mithalten können – dieselben Unternehmen, die jetzt direkt mit Cursor um den Entwicklermarkt konkurrieren.",
+    "titleDE": "SpaceX arbeitet mit Cursor zusammen und hat eine Option, das Startup für 60 Milliarden US-Dollar zu kaufen"
+  },
+  {
+    "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+    "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+    "description": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by The Information this week said Sergey Brin has directed Google's \"strike team\" to help its agentic AI tools catch up, while Sam Altman reportedly declared a \"code red\" at OpenAI last year before shutting down Sora to focus on the ChatGPT superapp and its own Codex too …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T22:45:37.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Da ein Börsengang für Elon Musks Kombi-Unternehmen SpaceX/xAI/X bevorsteht, hat SpaceX eine seltsame Vereinbarung angekündigt, entweder die automatisierte Programmierplattform Cursor für 60 Milliarden US-Dollar zu erwerben oder eine Gebühr von 10 Milliarden US-Dollar zu zahlen. Der Kauf dieses Startups, das sich auf KI-Codierung konzentriert, könnte dazu beitragen, dass die Tools von xAI ...",
+    "titleDE": "SpaceX schließt einen Deal ab, um Cursor möglicherweise für 60 Milliarden US-Dollar zu kaufen"
+  },
+  {
+    "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+    "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+    "description": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about…",
+    "pubDate": "2026-04-21T22:09:25.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Hören Sie sich die Sitzung an oder schauen Sie sich unten eine Sonderausgabe der Roundtables an, die live von EmTech AI übertragen wird, der wichtigsten Konferenz von MIT Technology Review für KI-Führung. Abonnenten erhielten einen exklusiven ersten Einblick in eine neue Liste mit 10 Schlüsseltechnologien, neuen Trends, mutigen Ideen und leistungsstarken Mo...",
+    "titleDE": "Roundtables: Enthüllung der 10 Dinge, die derzeit in der KI wichtig sind"
+  },
+  {
+    "title": "The new word in home construction could be “plastics”",
+    "link": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+    "description": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Einwegkunststoffe sind eine dauerhafte Quelle der Umweltverschmutzung, und die Notwendigkeit, eine wachsende Weltbevölkerung unterzubringen, setzt Ressourcen wie Holz zunehmend unter Druck. MIT-Ingenieure haben eine Idee, die beide Probleme gleichzeitig lösen könnte. In einer aktuellen Studie hat ein Team unter der Leitung von Maschinenbauingenieuren ...",
+    "titleDE": "Das neue Wort im Hausbau könnte „Kunststoffe“ sein"
+  },
+  {
+    "title": "A natural protein may protect the GI tract from infection",
+    "link": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+    "description": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract.  Intelectin-2 binds to a sugar…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Eingebettet in die Schleimhautoberflächen des Körpers binden Proteine, sogenannte Lektine, an Zucker, die sich auf Zelloberflächen befinden. Ein Team unter der Leitung der MIT-Chemieprofessorin Laura Kiessling hat herausgefunden, dass ein solches Protein, Intelectin-2, sowohl zur Stärkung der Schleimhautbarriere beiträgt als auch einen Breitbandschutz gegen schädliche Bakterien bietet...",
+    "titleDE": "Ein natürliches Protein kann den Magen-Darm-Trakt vor Infektionen schützen"
+  },
+  {
+    "title": "This tool could show how consciousness works",
+    "link": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+    "description": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Wie wird die physische Materie in unserem Gehirn in Gedanken, Empfindungen und Emotionen umgesetzt? Es ist schwierig, diese Frage ohne Neurochirurgie zu untersuchen. Aber in einem aktuellen Artikel skizzieren der MIT-Philosoph Matthias Michel, der Lincoln Lab-Forscher Daniel Freeman und Kollegen eine Strategie, wie man dies mit einem ... erreichen kann.",
+    "titleDE": "Dieses Tool könnte zeigen, wie Bewusstsein funktioniert"
+  },
+  {
+    "title": "Early life may have breathed oxygen earlier than believed",
+    "link": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+    "description": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Vor etwa 2,3 Milliarden Jahren legte eine entscheidende Periode, die als „Großes Oxidationsereignis“ bekannt ist, den evolutionären Kurs für sauerstoffatmendes Leben auf der Erde fest. Aber Geobiologen und Kollegen des MIT haben Hinweise darauf gefunden, dass einige frühe Lebensformen die Fähigkeit entwickelt haben, Sauerstoff zu nutzen, und zwar Hunderte von Millionen Jahren vor ...",
+    "titleDE": "Das frühe Leben hat möglicherweise früher Sauerstoff geatmet als angenommen"
+  },
+  {
+    "title": "Analog computing from waste heat",
+    "link": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+    "description": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded not as binary 1s and 0s…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Von elektronischen Geräten erzeugte Wärme ist normalerweise ein Problem, aber ein Team unter der Leitung von Giuseppe Romano, einem Forscher am Institute for Soldier Nanotechnologies des MIT, hat einen Weg gefunden, sie für die Datenverarbeitung zu nutzen, die nicht auf Strom angewiesen ist. Bei diesem analogen Rechenverfahren werden Eingabedaten n...",
+    "titleDE": "Analoges Rechnen aus Abwärme"
+  },
+  {
+    "title": "Get ready for hotter, muggier, stormier summers",
+    "link": "https://www.technologyreview.com/2026/04/21/1134873/get-ready-for-hotter-muggier-stormier-summers/",
+    "description": "A long stretch of humid heat followed by a powerful thunderstorm is a familiar weather pattern in the tropics, but it’s also becoming more common in midlatitude regions such as the US Midwest. A recent study by two MIT scientists identifies a key atmospheric condition that determines how hot, humid, and stormy such a region…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Eine lange Strecke feuchter Hitze, gefolgt von einem heftigen Gewitter, ist ein bekanntes Wettermuster in den Tropen, kommt aber auch in Regionen mittlerer Breite wie dem Mittleren Westen der USA immer häufiger vor. Eine aktuelle Studie zweier MIT-Wissenschaftler identifiziert einen entscheidenden atmosphärischen Zustand, der bestimmt, wie heiß, feucht,...",
+    "titleDE": "Machen Sie sich bereit für heißere, schwülere und stürmischere Sommer"
+  },
+  {
+    "title": "Recent books from the MIT community",
+    "link": "https://www.technologyreview.com/2026/04/21/1134879/recent-books-from-the-mit-community-28/",
+    "description": "Priority Technologies: Ensuring US Security and Shared ProsperityEdited by Elisabeth B. Reynolds, professor of the practice of urban studies and planning and former executive director of the MIT Task Force on the Work of the Future MIT PRESS, 2026, $24.95 The Shape of Wonder: How Scientists Think, Work, and LiveBy Alan Lightman, professor of the practice…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Vorrangige Technologien: Gewährleistung der US-Sicherheit und des gemeinsamen Wohlstands. Herausgegeben von Elisabeth B. Reynolds, Professorin für Stadtstudien und -planung und ehemalige Geschäftsführerin der MIT-Task Force für die Arbeit der Zukunft MIT PRESS, 2026, 24,95 $ The Shape of Wonder: Wie Wissenschaftler denken, W...",
+    "titleDE": "Aktuelle Bücher aus der MIT-Community"
+  },
+  {
+    "title": "AI at MIT",
+    "link": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/",
+    "description": "At MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whether she’d have gone all in on artificial intelligence had it not been for the covid pandemic. She had joined the faculty…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Am MIT ist KI so allgegenwärtig geworden, dass man fast unbeabsichtigt darin Einzug halten kann. Nehmen Sie Sili Deng, einen außerordentlichen Professor für Maschinenbau. Deng sagt, sie wisse immer noch nicht, ob sie ohne die Covid-Pandemie voll auf künstliche Intelligenz gesetzt hätte. Sie hat...",
+    "titleDE": "KI am MIT"
+  },
+  {
+    "title": "Inventor recalls eye imaging breakthrough",
+    "link": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
+    "description": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.  OCT is a noninvasive technique used…",
+    "pubDate": "2026-04-21T21:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Wenn Sie bei einem Augenarzt waren und ein Bild vom Inneren Ihres Auges gemacht haben, stehen die Chancen gut, dass es mit der optischen Kohärenztomographie (OCT) gemacht wurde – einer Technologie, die vom Kliniker und Wissenschaftler David Huang 1985, SM 1989 und Ph.D. 1993 erfunden wurde und heute bei 40 Millionen Eingriffen pro Jahr eingesetzt wird. OCT ist ein nichtinvasives Verfahren.",
+    "titleDE": "Erfinder erinnert sich an den Durchbruch bei der Augenbildgebung"
+  },
+  {
+    "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+    "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "description": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+    "pubDate": "2026-04-21T20:23:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apples Spitzenjob bringt fast konkurrenzlose Macht und Geld mit sich, bringt aber auch viel Gepäck mit sich.",
+    "titleDE": "John Ternus von Apple wird eines der mächtigsten Unternehmen der Welt leiten; Der Job ist ein Minenfeld"
+  },
+  {
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "description": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "pubDate": "2026-04-21T19:11:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das von einem OSU-Forscher gegründete Startup entwickelt KI-Agenten, die zu Experten in jedem Bereich werden können.",
+    "titleDE": "Das KI-Forschungslabor NeoCognition erhält 40 Millionen US-Dollar Startkapital für die Entwicklung von Agenten, die wie Menschen lernen"
+  },
+  {
+    "title": "AI backlash is coming for elections",
+    "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+    "description": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence.\nBut look at the issues that most campaigns are focused on, and AI is far less prevalent, experts say.\nMore than 60 percent of both Republicans and Democrats polled by Ipsos earlier this year agree that the government should regulate AI for economic stability and public safety, and that the technology's development should slow down. Still, \"when you just ask folks, 'w …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T19:00:05.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Fragen Sie die Amerikaner, was sie von KI halten, und die meisten sagen, dass sie Bedenken haben. Gemeinden haben Widerstand gegen Rechenzentrumsprojekte geleistet und diese in den gesamten USA zum Stillstand gebracht. In den sozialen Medien ist die Wut auf KI-Unternehmen und -Führungskräfte ungebremst – manchmal bis zur Billigung von Gewalt. Aber schauen Sie sich die Probleme an ...",
+    "titleDE": "Bei den Wahlen kommt es zu einer KI-Gegenreaktion"
+  },
+  {
+    "title": "OpenAI’s updated image generator can now pull information from the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+    "description": "An image generated by ChatGPT Images 2.0. | Image: OpenAI\t\n\nOpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve details of your choosing, and generate text.\nIt's powered by OpenAI's new GPT Image 2 model, with new thinking capabilities available to ChatGPT Plus, Pro, Business, and Enterprise subscribers. When a thinking model is selected, the chatbot's image generator can pull information from the w …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T19:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein von ChatGPT Images 2.0 generiertes Bild. | Bild: OpenAI OpenAI bringt die neueste Version seines KI-gestützten Bildgenerators mit neuen „Denkfunktionen“ auf den Markt, die es ihm ermöglichen, das Web zu durchsuchen, um mehrere Bilder aus einer einzigen Eingabeaufforderung zu erstellen. Am Dienstag gab OpenAI bekannt, dass ChatGPT Image...",
+    "titleDE": "Der aktualisierte Bildgenerator von OpenAI kann jetzt Informationen aus dem Web abrufen"
+  },
+  {
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "description": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "pubDate": "2026-04-21T19:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "ChatGPT Images 2.0, das neueste Bildgenerierungsmodell von OpenAI, zeigt, wie sehr sich die KI-Fähigkeiten in den letzten Jahren weiterentwickelt haben.",
+    "titleDE": "Das neue Images 2.0-Modell von ChatGPT ist überraschend gut bei der Textgenerierung"
+  },
+  {
+    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+    "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "description": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+    "pubDate": "2026-04-21T18:51:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während eines Podcast-Auftritts prangerte OpenAI-CEO Sam Altman diese Woche das neue Cybersicherheitsmodell seines Konkurrenten an und stellte fest, dass das Unternehmen Angst nutzte, um sein Produkt beeindruckender klingen zu lassen, als es tatsächlich ist.",
+    "titleDE": "Sam Altman wirft Schatten auf Anthropics Cyber-Modell Mythos: „angstbasiertes Marketing“"
+  },
+  {
+    "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+    "link": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+    "description": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instead. Or, you can plug in a desktop graphics card (or network card, or other PCIe cards) for more power than most laptops ever dream of having, with eight lanes of PCI-Express bandwidth. \nFramework's calling it the OCuLink Dev Kit, because it uses the OCuLink standard to transmit data between your CPU and the external GPU, and because the company wa …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T18:07:24.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Erinnern Sie sich noch daran, als Framework den ersten Laptop herstellte, bei dem Sie die gesamte interne Grafikkarte problemlos in drei Minuten aufrüsten können? Das Unternehmen steigt auch in das externe Grafikspiel ein. Wie letzten August versprochen, können Sie die GPU-Module des Framework Laptop 16 stattdessen in externe umwandeln...",
+    "titleDE": "Die ersten eGPUs von Framework verwandeln seinen Laptop in einen Desktop-PC"
+  },
+  {
+    "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+    "description": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear.\nThe platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program. Public figures can use it to keep track of AI content on YouTube of themselves or request removal (takedowns are evaluated against YouTube's privacy policy, and not every request will be approved). YouTube began testing the feature with content creators last fall; in March, the company expanded the program to politicians and journalists. YouTube says the tool will cover celebriti …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T17:30:24.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "YouTube weitet seine KI-Deepfake-Überwachungsfunktion auf Hollywood aus – was bedeutet, dass einige Promi-KI-Videos bald verschwinden könnten. Die Ähnlichkeitserkennungsfunktion der Plattform durchsucht YouTube nach KI-Deepfake-Inhalten und markiert diese für Personen des öffentlichen Lebens, die am Programm teilnehmen. Persönlichkeiten des öffentlichen Lebens können es nutzen, um ...",
+    "titleDE": "Prominente können KI-Deepfakes auf YouTube finden und deren Entfernung beantragen"
+  },
+  {
+    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+    "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+    "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+    "pubDate": "2026-04-21T17:11:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Löschung des Fotos erfolgt nach einer FTC-Vereinbarung mit Clarifai. Laut Gerichtsdokumenten hatte das Unternehmen OkCupid – dessen Führungskräfte in Clarifai investiert hatten – im Jahr 2014 gebeten, Daten weiterzugeben.",
+    "titleDE": "Clarifai löscht 3 Millionen Fotos, die OkCupid bereitgestellt hat, um die Gesichtserkennungs-KI zu trainieren, heißt es in einem Bericht"
+  },
+  {
+    "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+    "description": "You just cannot convince me this is how people order coffee. | Image: Starbucks\t\n\nVenti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate to say the words aloud; in the app, it's four taps and I'm ready to go.\nMy first time ordering Starbucks through its new ChatGPT integration, which launched last week, was comparatively a complete mess. Getting started is easy enough, if not exactly obvious: Just open ChatGPT and type \"@Starbucks\" plus your order. You can probably guess what happens next, right …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T16:19:40.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Sie können mich einfach nicht davon überzeugen, dass die Leute so Kaffee bestellen. | Bild: Starbucks Venti Eiskaffee, leichte Magermilch. Das bekomme ich bei Starbucks. Das ist es, was ich, solange ich mich erinnern kann, jedes Mal bei Starbucks bekommen habe, abgesehen von einer kurzen Liebesbeziehung mit der Kaffeetrinkerin …",
+    "titleDE": "Das Bestellen mit der Starbucks ChatGPT-App war ein wahrer Kaffee-Albtraum"
+  },
+  {
+    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+    "description": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+    "pubDate": "2026-04-21T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neue KI-native Plattform von Latitude, Voyage, soll Gamern dabei helfen, ihr ganz eigenes Rollenspiel zu entwickeln.",
+    "titleDE": "Der KI-Dungeon-Hersteller Latitude stellt Voyage vor, eine Plattform zur Erstellung KI-gestützter RPGs"
+  },
+  {
+    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+    "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+    "description": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+    "pubDate": "2026-04-21T15:24:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Bond möchte, dass Sie von der Couch aufstehen und in die reale Welt zurückkehren, sagt sein Schöpfer. Das KI-System der neuen Plattform soll Benutzer dazu motivieren, Dinge außerhalb der App zu erledigen.",
+    "titleDE": "Bond, eine neue Social-Media-Plattform, möchte KI nutzen, um Ihnen dabei zu helfen, Ihre Doomscrolling-Gewohnheit aufzugeben"
+  },
+  {
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "description": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+    "pubDate": "2026-04-21T15:02:06.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "YouTube erweitert sein KI-Tool zur Ähnlichkeitserkennung auf Prominente und bietet Talenten und ihren Vertretern die Möglichkeit, Deepfakes zu finden und zu entfernen.",
+    "titleDE": "YouTube erweitert seine KI-Technologie zur Ähnlichkeitserkennung auf Prominente"
+  },
+  {
+    "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+    "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+    "description": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+    "pubDate": "2026-04-21T14:30:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Drei neue Agenten-Sicherheits- und Richtlinienfunktionen, die in Ads Advisor integriert sind, helfen Ihnen, Ihr Google Ads-Konto zu schützen und zu optimieren.",
+    "titleDE": "3 neue Möglichkeiten, wie Ads Advisor Google Ads sicherer und schneller macht"
+  },
+  {
+    "title": "John Ternus’ first big problem is AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+    "description": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. \nTernus, currently Apple's SVP of hardware engineering, will take over as CEO on September 1st, after Cook's decade and a half in the role. Ternus is a 25-year veteran of the company and the first Apple CEO in about 30 years to come from the hardware sector. According to Apple, he's led hardware engineering work for every model of iPad, as well as the most rec …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T13:37:55.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Vor weniger als einem Jahr machte Apple auf seiner jährlichen WWDC-Veranstaltung Schlagzeilen, weil es keine KI-Ankündigungen gab. Zehn Monate später gab das Unternehmen bekannt, dass der Hardware-Manager John Ternus die Nachfolge des langjährigen CEO Tim Cook als CEO antreten wird – und in der offiziellen Pressemitteilung wird KI kein einziges Mal erwähnt. Ternus, aktuell...",
+    "titleDE": "John Ternus‘ erstes großes Problem ist die KI"
+  },
+  {
+    "title": "GRAI believes AI can make music more social, not replace artists",
+    "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+    "description": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+    "pubDate": "2026-04-21T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das KI-Musik-Startup GRAI sagt, dass Fans Tracks remixen und keine Songs von Grund auf neu erstellen wollen.",
+    "titleDE": "GRAI glaubt, dass KI Musik sozialer machen und Künstler nicht ersetzen kann"
+  },
+  {
+    "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+    "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+    "description": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+    "pubDate": "2026-04-21T12:35:20.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Ein hartnäckiges Missverständnis behindert die ohnehin schon harte Arbeit der Quantenreife.",
+    "titleDE": "Entgegen dem landläufigen Aberglauben ist AES 128 in einer Post-Quanten-Welt völlig in Ordnung"
+  },
+  {
+    "title": "Yelp is making its AI chatbot way more useful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+    "description": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more relevant and practically useful to consumers while turning huge troves of user-generated data into a competitive edge. \nIn a press release, Yelp says the Yelp Assistant chatbot will be at \"the center of the app experience,\" where it can answer questions, make recommendations, and even handle bookings in a single conversation. The bot will be availa …\nRead the full story at The Verge.",
+    "pubDate": "2026-04-21T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Yelp verpasst seinem Chatbot-Assistenten ein großes Upgrade und verwandelt die Plattform mit einer Reihe neuer Funktionen, die darauf ausgelegt sind, „Dinge zu erledigen“, näher an einen digitalen Concierge. Der Schritt, einer von mehreren KI-fokussierten Updates in den letzten Monaten, ist Teil einer umfassenderen Brancheninitiative, KI realistischer zu machen...",
+    "titleDE": "Yelp macht seinen KI-Chatbot viel nützlicher"
+  },
+  {
+    "title": "Scaling Codex to enterprises worldwide",
+    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+    "pubDate": "2026-04-21T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI startet Codex Labs, arbeitet mit Accenture, PwC, Infosys und anderen zusammen, um Unternehmen bei der Bereitstellung und Skalierung von Codex über den gesamten Softwareentwicklungslebenszyklus hinweg zu unterstützen, und erreicht 4 Mio. Codex WAU.",
+    "titleDE": "Skalierung von Codex für Unternehmen weltweit"
+  },
+  {
     "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
     "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
     "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
@@ -10,14 +340,14 @@
     "titleDE": "Anthropic nimmt 5 Milliarden US-Dollar von Amazon und verspricht im Gegenzug 100 Milliarden US-Dollar an Cloud-Ausgaben"
   },
   {
-    "title": "Google rolls out Gemini in Chrome in 7 new countries",
+    "title": "Google rolls out Gemini in Chrome in APAC countries",
     "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
     "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
     "pubDate": "2026-04-20T22:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Google führt Gemini in Chrome in Australien, Indonesien, Japan, den Philippinen, Singapur, Südkorea und Vietnam ein. Das Unternehmen führt diese Funktion in allen diesen Ländern außer Japan sowohl für Desktops als auch für iOS ein.",
-    "titleDE": "Google führt Gemini in Chrome in sieben neuen Ländern ein"
+    "titleDE": "Google führt Gemini in Chrome in APAC-Ländern ein"
   },
   {
     "title": "Silicon Valley has forgotten what normal people want",
@@ -70,36 +400,6 @@
     "titleDE": "CEO und CFO verlassen plötzlich den KI-Atomkraft-Neuling Fermi"
   },
   {
-    "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-    "link": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…",
-    "pubDate": "2026-04-20T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Niemand ist sich sicher, ob das Leben in synthetischen Spiegeln uns alle töten wird. Im Februar 2019 schlug eine Gruppe von Wissenschaftlern eine risikoreiche, innovative und unwiderstehlich aufregende Idee vor, die ...",
-    "titleDE": "Der Download: mörderische „Spiegel“-Bakterien und chinesische Arbeiter, die gegen KI-Doppelgänger kämpfen"
-  },
-  {
-    "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-    "link": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
-    "description": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma…",
-    "pubDate": "2026-04-20T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Wenn Sie etwas Wolfsähnliches einfangen möchten, schiffen Sie sich am besten vor Tagesanbruch ein. An einem Morgen im Januar, als der östliche Horizont noch rosa gefärbt war, fuhr ich mit zwei jungen Wissenschaftlern in eine Nebeldecke. Vierzig Meilen westlich erstrahlte die industrielle Ausbreitung von Houston in goldenem Glanz. Tanner Broussa...",
-    "titleDE": "Colossal Biosciences gab an, rote Wölfe geklont zu haben. Ist es echt?"
-  },
-  {
-    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-    "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-    "description": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with…",
-    "pubDate": "2026-04-20T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Tech-Mitarbeiter in China werden von ihren Vorgesetzten angewiesen, KI-Agenten auszubilden, um sie zu ersetzen – und das löst bei ansonsten enthusiastischen Early Adopters eine Welle der Selbstreflexion aus. Anfang dieses Monats gab es ein GitHub-Projekt namens Colleague Skill, das behauptete, Arbeiter könnten damit ihre Kol...",
-    "titleDE": "Chinesische Techniker beginnen, ihre KI-Doppelgänger zu trainieren – und wehren sich"
-  },
-  {
     "title": "OpenAI helps Hyatt advance AI among colleagues ",
     "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
     "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
@@ -118,16 +418,6 @@
     "category": "news",
     "descriptionDE": "In der neuesten Folge von Equity besprechen wir die jüngsten Akquisitionen von OpenAI und ob sie „zwei große existenzielle Probleme“ für das Unternehmen lösen.",
     "titleDE": "Die existenziellen Fragen von OpenAI"
-  },
-  {
-    "title": "Cloud development platform Vercel was hacked",
-    "link": "https://www.theverge.com/tech/914723/vercel-hacked",
-    "description": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised third-party AI tool was the avenue for attack, though it did not specify which third party was involved.\n\n\nWe've identified a security incident that inv …\n\n\nRead the full story at The Verge.",
-    "pubDate": "2026-04-19T19:54:52.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Vercel, eine große Entwicklungsplattform, die Webanwendungen hostet und bereitstellt, wurde kompromittiert und die Hacker versuchen, gestohlene Daten zu verkaufen. Eine Person, die behauptet, Mitglied von ShinyHunters zu sein, die hinter dem jüngsten Hack von Rockstar Games steckt, hat einige Daten online gestellt, darunter Mitarbeiternamen, E-Mail-Anzeigen …",
-    "titleDE": "Die Cloud-Entwicklungsplattform Vercel wurde gehackt"
   },
   {
     "title": "The 12-month window",
@@ -150,76 +440,6 @@
     "titleDE": "Palantir veröffentlicht ein Mini-Manifest, in dem er Inklusivität und „regressive“ Kulturen anprangert"
   },
   {
-    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-    "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-    "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-    "pubDate": "2026-04-19T16:01:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Willkommen zurück bei TechCrunch Mobility, Ihrem Hub für die Zukunft des Transports und jetzt, mehr denn je, welche Rolle KI spielt.",
-    "titleDE": "TechCrunch Mobility: Uber tritt in seine Assetmaxxing-Ära ein"
-  },
-  {
-    "title": "Tesla brings its robotaxi service to Dallas and Houston",
-    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-    "description": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
-    "pubDate": "2026-04-18T21:37:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen bietet nun Robotaxi-Dienste in drei Städten an, alle in Texas, nachdem es letztes Jahr in Austin gestartet ist und im Januar 2026 damit begonnen hat, Fahrten ohne Sicherheitsfahrer anzubieten.",
-    "titleDE": "Tesla bringt seinen Robotaxi-Service nach Dallas und Houston"
-  },
-  {
-    "title": "The RAM shortage could last years",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-    "description": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.\nThe world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among the three for 2026.\nNikkei says that production would need to increase by 12 percent a year in 2026 and 2027 to meet demand. But according to Counte …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-18T21:08:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut Nikkei Asia wird erwartet, dass die Hersteller, selbst wenn die Zulieferer die DRAM-Produktion hochfahren, bis Ende 2027 nur 60 Prozent der Nachfrage decken können. Der Vorsitzende der SK Group hat sogar gesagt, dass die Knappheit bis 2030 andauern könnte. Die weltweit größten Speicherhersteller – Samsung, SK Hynix und Micron – arbeiten alle...",
-    "titleDE": "Der RAM-Mangel könnte Jahre dauern"
-  },
-  {
-    "title": "AI chip startup Cerebras files for IPO",
-    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-    "pubDate": "2026-04-18T19:19:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In den letzten Monaten gab das Unternehmen eine Vereinbarung mit Amazon Web Services über die Verwendung von Cerebras-Chips in Amazon-Rechenzentren sowie einen Deal mit OpenAI im Wert von angeblich mehr als 10 Milliarden US-Dollar bekannt.",
-    "titleDE": "KI-Chip-Startup Cerebras meldet Börsengang an"
-  },
-  {
-    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "description": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-    "pubDate": "2026-04-18T14:56:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Obwohl Anthropic kürzlich vom Pentagon als Lieferkettenrisiko eingestuft wurde, spricht es immer noch mit hochrangigen Mitgliedern der Trump-Regierung.",
-    "titleDE": "Anthropics Beziehung zur Trump-Regierung scheint sich aufzutauen"
-  },
-  {
-    "title": "The App Store is booming again, and AI may be why",
-    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-    "description": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-    "pubDate": "2026-04-18T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Neue Daten von Appfigures zeigen einen Anstieg der Einführung neuer Apps im Jahr 2026, was darauf hindeutet, dass KI-Tools einen Boom bei mobiler Software ankurbeln könnten.",
-    "titleDE": "Der App Store boomt wieder, und KI könnte der Grund dafür sein"
-  },
-  {
-    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-    "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-    "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-    "pubDate": "2026-04-17T22:34:02.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "World, das mit seinem Orb-zentrierten anonymen Verifizierungsprojekt für Aufsehen (aber auch großes Interesse) gesorgt hat, möchte seinen Einfluss durch eine Vielzahl neuer Partnerschaften ausbauen.",
-    "titleDE": "Sam Altmans Projekt World möchte sein menschliches Verifizierungsimperium vergrößern. Erster Halt: Tinder."
-  },
-  {
     "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
     "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
     "description": "Grinex says needed hacking resources \"available exclusively to... unfriendly states.\"",
@@ -228,116 +448,6 @@
     "category": "news",
     "descriptionDE": "Grinex sagt, dass benötigte Hacking-Ressourcen „ausschließlich für ... unfreundliche Staaten verfügbar“ seien.",
     "titleDE": "Von den USA sanktionierte Wechselstube sagt, 15-Millionen-Dollar-Raub von „unfreundlichen Staaten“ begangen"
-  },
-  {
-    "title": "OpenAI’s former Sora boss is leaving",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-    "description": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\nAs part of a note Peebles posted on X, he said:\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-04-17T21:13:25.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Letzten Monat gab OpenAI sein Videogenerierungstool Sora auf und am Freitag gab der Leiter des Sora-Teams, Bill Peebles, bekannt, dass er das Unternehmen verlässt. OpenAI hat seine Prioritäten verschoben, um „Nebenquests“ zu vermeiden, und Peebles‘ Abgang ist nur eine von vielen jüngsten Änderungen …",
-    "titleDE": "Der ehemalige Sora-Chef von OpenAI geht"
-  },
-  {
-    "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-    "description": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" \nTo verify that they're not a bot or an AI agent, users have to physically visit one of World's orbs in person. According to World, the orb \"takes pictures of your face and eyes, then encrypts and sto …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-17T20:42:47.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Tinder-Benutzer, die beweisen, dass sie eine echte Person sind, indem sie eine identitätsverifizierende Kugel besuchen, können bald fünf kostenlose Boosts in der App erhalten – und es ist nur der neueste Dienst, der die Kugel annimmt. World, das von OpenAI-CEO Sam Altman mitbegründet wurde, testete zunächst die Tinder-Verifizierung mithilfe seiner Gesichtserkennung.",
-    "titleDE": "Sollten Sie vor Ihrem nächsten Date in Sam Altmans Kugel starren?"
-  },
-  {
-    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-    "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-    "pubDate": "2026-04-17T20:38:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Kevin Weil und Bill Peebles verlassen OpenAI, während das Unternehmen Sora schließt und sein Wissenschaftsteam auflöst, was eine deutliche Kehrtwende weg von Consumer-Moonshots hin zu Unternehmens-KI signalisiert.",
-    "titleDE": "Kevin Weil und Bill Peebles verlassen OpenAI, da das Unternehmen weiterhin „Nebenquests“ aufgibt"
-  },
-  {
-    "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-    "description": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview.\nAnthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its technology for domestic mass surveillance or lethal fully autonomous weapons with no human in the loop. Anthropic's tech has in the past been used heavily b …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-17T20:14:21.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Trump-Administration hat fast zwei Monate lang mit dem KI-Unternehmen Anthropic gekämpft. Es wird das Unternehmen als „RADIKALES LINKES, AUFGEFALLENES UNTERNEHMEN“ voller „Links-Verrückter“ und einer Bedrohung für die nationale Sicherheit bezeichnet. Aber Berichten zufolge könnte ein Teil des Eises zwischen den beiden schmelzen, dank Anthropics lebhaftem Ne...",
-    "titleDE": "Das neue Cybersicherheitsmodell von Anthropic könnte es wieder in die Gunst der Regierung bringen"
-  },
-  {
-    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-    "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-    "description": "Returning backers a16z and Thrive are expected to lead the round.",
-    "pubDate": "2026-04-17T19:17:26.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Es wird erwartet, dass die zurückkehrenden Unterstützer a16z und Thrive die Runde anführen.",
-    "titleDE": "Quellen: Cursor in Gesprächen zur Beschaffung von mehr als 2 Milliarden US-Dollar bei einer Bewertung von 50 Milliarden US-Dollar, da das Unternehmenswachstum stark ansteigt"
-  },
-  {
-    "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-    "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-    "description": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-    "pubDate": "2026-04-17T18:42:45.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Es gibt viel mehr Code – aber er ist viel teurer und erfordert viel mehr Umschreiben.",
-    "titleDE": "„Tokenmaxxing“ macht Entwickler weniger produktiv als sie denken"
-  },
-  {
-    "title": "This charming gadget writes bad AI poetry",
-    "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-    "description": "I kind of wish it just took pictures.\t\n\nI've never been as charmed and frustrated by one gadget as I have with the Poetry Camera.\nIt's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. \nBut aside from obviously appealing, I'm not exactly sure what it is. I mean, I know what it is. It's a camera that makes AI poems instead of photos. You take a picture, and instead of printing a photo, you get an AI-generated poem inspired by the scene, printed on thermal receipt paper. But after printing dozens of poems, I can only report feeling frustrated instead of inspired.\n …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-17T17:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ich wünschte, es würden nur Fotos gemacht. Ich war noch nie von einem Gerät so fasziniert und frustriert wie von der Poetry Camera. Es ist ein entzückendes Objekt. Weiß und kirschrot mit einem farblich passenden gewebten Riemen sieht es verspielt und bezaubernd lo-fi aus. Wenn ich es in einem Ladenregal sehen würde, würde ich es auf jeden Fall kaufen...",
-    "titleDE": "Dieses charmante Gerät schreibt schlechte KI-Poesie"
-  },
-  {
-    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap ",
-    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-    "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
-    "pubDate": "2026-04-17T15:57:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Kluft zwischen KI-Insidern und allen anderen wird größer, und die Ausgaben, das Misstrauen und sogar das neue Vokabular beginnen es zu zeigen. Während OpenAI damit beschäftigt ist, alles aufzukaufen, von Finanz-Apps bis hin zu Talkshows, hat sich ein bestimmtes Schuhunternehmen gerade in ein KI-Infrastrukturunternehmen umbenannt, und Anthropic enthüllt ...",
-    "titleDE": "Tokenmaxxing, der Einkaufsbummel von OpenAI und die KI-Angstlücke"
-  },
-  {
-    "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-    "description": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal.\nFollowing a test last year, Dairy Queen is widely launching the tech built by Presto, an AI company that already works with chains like Carl's Jr., Hardee's, Taco John's, and Fazoli's. In 2023, a report from Bloomberg revealed that Presto's AI drive-thrus may actually be assisted by human workers based in locations like the Philippines.\nPresto's chatbot …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-17T15:46:37.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dairy Queen ist die neueste Fast-Food-Kette, die auf KI setzt, indem sie Dutzende ihrer Drive-Through-Filialen in den USA und Kanada mit einem Chatbot versorgt. Laut dem Wall Street Journal soll es dazu beitragen, den Drive-in-Service zu beschleunigen und „Kunden dazu zu ermutigen, mehr Essen zu ihren Bestellungen hinzuzufügen“. Folgt...",
-    "titleDE": "Dairy Queen setzt einen KI-Chatbot in sein Drive-Thrus ein"
-  },
-  {
-    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-    "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-    "description": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-    "pubDate": "2026-04-17T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nach Angaben des Unternehmens soll Claude Design Menschen wie Gründern und Produktmanagern ohne Design-Hintergrund dabei helfen, ihre Ideen einfacher zu teilen.",
-    "titleDE": "Anthropic bringt Claude Design auf den Markt, ein neues Produkt zum Erstellen schneller Visuals"
-  },
-  {
-    "title": "Pie Day 2026",
-    "link": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-    "description": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
-    "pubDate": "2026-04-17T14:07:41.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Ellies Pi Day-Beitrag: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ Wie Ellie das Backen von 30 Kuchen organisierte: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
-    "titleDE": "Kuchentag 2026"
   },
   {
     "title": "7 ways to travel smarter this summer, with help from Google",
@@ -350,36 +460,6 @@
     "titleDE": "7 Möglichkeiten, diesen Sommer mit Hilfe von Google intelligenter zu reisen"
   },
   {
-    "title": "The ‘AI is inevitable’ trap",
-    "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-    "description": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, or at least a peak of AI? \n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, we look at both the data and the vibes. David and Nilay explore a new study from Stanford that says AI is getting better at lots of things, a …\nRead the full story at The Verge.",
-    "pubDate": "2026-04-17T13:24:34.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Im jüngsten Zeichen des KI-Spaßes verkündete das Schuhunternehmen Allbirds der Welt, dass es nun ein KI-Unternehmen sei, und schaffte es kurzzeitig, seinen Aktienkurs zu versiebenfachen. Die Newbird AI-Geschichte ist wirklich nur eines von vielen Dingen dieser Woche, die uns fragen ließen: Haben wir den Höhepunkt der KI erreicht, oder zumindest einen Höhepunkt ...",
-    "titleDE": "Die „KI ist unvermeidliche“ Falle"
-  },
-  {
-    "title": "Are we tokenmaxxing our way to nowhere?",
-    "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-    "description": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
-    "pubDate": "2026-04-17T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Kluft zwischen KI-Insidern und allen anderen wird größer, und die Ausgaben, das Misstrauen und sogar das neue Vokabular beginnen es zu zeigen. Während OpenAI damit beschäftigt ist, alles aufzukaufen, von Finanz-Apps bis hin zu Talkshows, hat sich ein bestimmtes Schuhunternehmen gerade in ein KI-Infrastrukturunternehmen umbenannt, und Anthropic enthüllt ...",
-    "titleDE": "Machen wir uns auf den Weg ins Nirgendwo?"
-  },
-  {
-    "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-    "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
-    "pubDate": "2026-04-17T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Das Problem mit der Annahme, man sei ein Teil des Neandertalers Es gibt eine Theorie, dass viele von uns einen „inneren Neandertaler“ haben. Die Idee ist, dass Homo sapiens und eine Cousinart...",
-    "titleDE": "Der Download: schlechte Nachrichten für den inneren Neandertaler und die menschliche Illusion der KI-Kriegsführung"
-  },
-  {
     "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
     "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
     "description": "Here's which players are winning the race to transition to post-quantum crypto.",
@@ -388,26 +468,6 @@
     "category": "news",
     "descriptionDE": "Hier sehen Sie, welche Spieler das Rennen um den Übergang zur Post-Quanten-Kryptowährung gewinnen.",
     "titleDE": "Die jüngsten Fortschritte bringen Big Tech näher an die Gefahrenzone des Q-Day"
-  },
-  {
-    "title": "The case for fixing everything",
-    "link": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-    "description": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us…",
-    "pubDate": "2026-04-17T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Das schöne neue Buch „Maintenance: Of Everything, Part One“ der Tech-Branchenlegende Stewart Brand verspricht, das erste einer Reihe zu sein, die „einen umfassenden Überblick über die zivilisatorische Bedeutung der Wartung“ bietet. Einer von mehreren Biographen von Brand beschrieb ihn als eine tragende Säule beider Länder ...",
-    "titleDE": "Der Grund, alles zu reparieren"
-  },
-  {
-    "title": "How robots learn: A brief, contemporary history",
-    "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-    "description": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
-    "pubDate": "2026-04-17T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Früher träumten Robotiker groß, bauten aber klein. Sie würden hoffen, die außergewöhnliche Komplexität des menschlichen Körpers zu erreichen oder zu übertreffen, und dann würden sie ihre Karriere damit verbringen, Roboterarme für Automobilfabriken zu verbessern. Ziel ist C-3P0; Am Ende lande ich beim Roomba. Das eigentliche Ziel vieler dieser Forscher war der Roboter...",
-    "titleDE": "Wie Roboter lernen: Eine kurze zeitgenössische Geschichte"
   },
   {
     "title": "A new way to explore the web with AI Mode in Chrome",
@@ -428,36 +488,6 @@
     "category": "news",
     "descriptionDE": "Nano Banana 2 nutzt jetzt Ihren persönlichen Kontext und Google Fotos, um Bilder zu erstellen, die Ihr einzigartiges Leben widerspiegeln.",
     "titleDE": "Neue Möglichkeiten zum Erstellen personalisierter Bilder in der Gemini-App"
-  },
-  {
-    "title": "Making AI operational in constrained public sector environments",
-    "link": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-    "description": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
-    "pubDate": "2026-04-16T13:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Der KI-Boom hat alle Branchen erfasst und Organisationen des öffentlichen Sektors stehen unter dem Druck, die Einführung zu beschleunigen. Gleichzeitig sind Regierungsinstitutionen mit besonderen Einschränkungen in Bezug auf Sicherheit, Governance und Betrieb konfrontiert, die sie von ihren geschäftlichen Pendants unterscheiden. Aus diesem Grund...",
-    "titleDE": "KI in eingeschränkten Umgebungen des öffentlichen Sektors einsatzbereit machen"
-  },
-  {
-    "title": "Treating enterprise AI as an operating layer",
-    "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-    "description": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
-    "pubDate": "2026-04-16T13:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Es gibt eine Bruchlinie, die sich durch die Unternehmens-KI zieht, und sie ist nicht diejenige, die die meiste Aufmerksamkeit erhält. In der öffentlichen Diskussion werden immer noch Grundlagenmodelle und Benchmarks verfolgt – GPT vs. Gemini, Argumentationswerte und geringfügige Leistungssteigerungen. In der Praxis ist der dauerhaftere Vorteil jedoch struktureller Natur: ...",
-    "titleDE": "Behandlung der Unternehmens-KI als Betriebsebene"
-  },
-  {
-    "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
-    "link": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
-    "pubDate": "2026-04-16T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Cyberbetrüger umgehen die Sicherheit von Banken mit illegalen Tools, die über Telegram verkauft werden. In einem Geldwäschezentrum in Kambodscha öffnet ein Mitarbeiter eine Banking-App auf seinem...",
-    "titleDE": "Der Download: Bankumgehungen von Cyberbetrügern und Probleme bei der CO2-Entfernung"
   },
   {
     "title": "Codex for (almost) everything",
@@ -506,27 +536,7 @@
     "pubDate": "2026-04-15T10:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "OpenAI aktualisiert das Agents SDK mit nativer Sandbox-Ausführung und einer modellnativen Nutzung und hilft Entwicklern so, sichere, langlebige Agents für alle Dateien und Tools zu erstellen.",
+    "descriptionDE": "OpenAI aktualisiert das Agents SDK mit nativer Sandbox-Ausführung und einer modellnativen Nutzung und hilft Entwicklern dabei, sichere, langlebige Agents für alle Dateien und Tools zu erstellen.",
     "titleDE": "Die nächste Weiterentwicklung des Agents SDK"
-  },
-  {
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "description": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
-    "pubDate": "2026-04-14T17:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Mit Skills in Chrome können Sie KI-Workflows entdecken, speichern und neu mischen – und sie sofort wiederholen.",
-    "titleDE": "Verwandeln Sie Ihre besten KI-Eingabeaufforderungen in Ein-Klick-Tools in Chrome"
-  },
-  {
-    "title": "Bringing people together at AI for the Economy Forum",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-    "description": "Google is bringing people together in Washington D.C. at our AI for the Economy Forum.",
-    "pubDate": "2026-04-14T09:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Google bringt Menschen in Washington D.C. auf unserem AI for the Economy Forum zusammen.",
-    "titleDE": "Menschen zusammenbringen beim AI for the Economy Forum"
   }
 ]
