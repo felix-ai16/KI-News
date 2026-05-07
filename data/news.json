@@ -1,33 +1,463 @@
 [
   {
-    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "description": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-    "pubDate": "2026-05-05T03:31:54.000Z",
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+    "pubDate": "2026-05-07T05:25:10.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Der Nvidia-CEO scheint der Meinung zu sein, dass die Behauptungen über das arbeitsplatzvernichtende Potenzial von KI stark übertrieben seien.",
-    "titleDE": "Während sich die Arbeitnehmer über KI Sorgen machen, sagt Jensen Huang von Nvidia, dass KI „eine enorme Anzahl von Arbeitsplätzen schafft“"
+    "descriptionDE": "Anfang dieser Woche trafen sich fünf Personen, die jede Ebene der KI-Lieferkette berühren, auf der Milken Global Conference in Beverly Hills, wo sie mit TechCrunch über alles sprachen, von Chipknappheit über orbitale Rechenzentren bis hin zur Möglichkeit, dass die gesamte Architektur, die der Technologie zugrunde liegt, ...",
+    "titleDE": "Fünf Architekten der KI-Wirtschaft erklären, wo die Räder stehen"
   },
   {
-    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-    "description": "When the bromance sours, we all end up in court. | Image: Cath Virginia / The Verge, Getty Images\t\n\nThe strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.\nBrockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club energy. There was a lot of \"I wouldn't characterize it that way,\" \"I wouldn't say it that way,\" and \"That sounds like something I wrote. Can I see it in context?\" When Musk's attorney, Steven Molo, read some of the evidence aloud, Brockman would pedantically correct him if he skipped a word, even if that word was \"a\" or \"the.\" Wh …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-04T23:49:33.000Z",
+    "title": "Musk’s biggest loyalist became his biggest liability",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+    "description": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing?\nZilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to characterize this? A Musk advisor? She denies she was a \"chief of staff\" but says she worked for Musk's \"entire AI portfolio: Tesla, Neuralink, and OpenAI\" starting in 2017. The two met through OpenAI, and they had what she referred to as a \"one off\" before becoming \"friends and colleagues.\" The \"one off,\" she confirmed, was \"romantic in nature.\"\nHer  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-06T23:37:02.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Wenn die Bromance sauer wird, landen wir alle vor Gericht. | Bild: Cath Virginia / The Verge, Getty Images Der stärkste Zeuge für Elon Musks Fall gegen OpenAI war bisher Greg Brockmans Tagebuch. Brockman selbst liegt knapp dahinter. Brockman wurde auf eher ungewöhnliche Weise in den Zeugenstand gerufen ...",
-    "titleDE": "Der Präsident von OpenAI erledigt „alles“, außer dass er eine Frage beantwortet"
+    "descriptionDE": "Ich saß heute im Gerichtssaal des Prozesses Musk gegen Altman und war mir schmerzlich bewusst, dass niemand Shivon Zilis die Frage stellen würde, die alle beschäftigt: Mädchen, was zum Teufel machst du? Zilis, die unter Eid aussagte, dass sie Mutter von vier Kindern von Musk sei, war … wie lässt sich das am besten charakterisieren …",
+    "titleDE": "Musks größter Loyalist wurde zu seiner größten Belastung"
   },
   {
-    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "description": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-    "pubDate": "2026-05-04T21:53:21.000Z",
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "description": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "pubDate": "2026-05-06T21:57:56.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Der KI-Chiphersteller Cerebras steuert auf einen Blockbuster-Börsengang zu, der einen Wert von 26,6 Milliarden US-Dollar oder mehr haben könnte. Die Beziehung zu OpenAI ist tief und fruchtbar.",
-    "titleDE": "OpenAIs gemütlicher Partner Cerebras ist auf dem Weg zu einem Blockbuster-Börsengang"
+    "descriptionDE": "Barry Diller verteidigte OpenAI-CEO Sam Altman und warnte gleichzeitig, dass AGI weiterhin eine unberechenbare Kraft sei, die Leitplanken brauche.",
+    "titleDE": "Barry Diller vertraut Sam Altman. Aber „Vertrauen ist irrelevant“, während AGI näher rückt, sagt er."
+  },
+  {
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "description": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "pubDate": "2026-05-06T21:43:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der im vergangenen November angekündigte Deal hätte die KI-Suchmaschine von Perplexity direkt in Snapchat integriert.",
+    "titleDE": "Snap sagt, dass sein 400-Millionen-Dollar-Deal mit Perplexity „einvernehmlich beendet“ wurde"
+  },
+  {
+    "title": "Is xAI a neocloud now?",
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "description": "xAI's real business may be more about building data centers than training AI models.",
+    "pubDate": "2026-05-06T21:32:55.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das eigentliche Geschäft von xAI besteht möglicherweise mehr im Aufbau von Rechenzentren als im Training von KI-Modellen.",
+    "titleDE": "Ist xAI jetzt eine Neocloud?"
+  },
+  {
+    "title": "Google shuts down Project Mariner",
+    "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+    "description": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology voyaged to other Google products.\"\nGoogle first revealed Project Mariner in December 2024 and later announced an update allowing it to perform up to 10 tasks at a time. Over the past year, Google has integrated features powered by Project Mariner into its other AI tools, including Gemini Agent, which can do things like arc …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-06T21:21:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google hat Project Mariner eingestellt, eine experimentelle Funktion, die dazu entwickelt wurde, Aufgaben für Sie im gesamten Web auszuführen, wie Maxwell Zeff von Wired zuvor berichtete. Die Landingpage von Project Mariner enthält jetzt die Meldung: „Vielen Dank, dass Sie Project Mariner nutzen. Es wurde am 4. Mai geschlossen ...",
+    "titleDE": "Google schließt Project Mariner"
+  },
+  {
+    "title": "How David Sacks crashed and burned in the White House",
+    "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+    "description": "AI and Crypto Czar David O. Sacks speaks during a meeting of the White House Task Force on Artificial Intelligence Education at the White House. | Matt McClain/The Washington Post via Getty Images\t\n\nHello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct link to do so! And do you think I should know something? Send it to tina.nguyen+tips@theverge.com.\nOn Monday, The New York Times reported that the White House was considering having the government review AI models before release. To the casual Verge reader, it appeared to be a total reversal in Donald Trump's policies. For the past year, he had been a vocal champion o …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-06T20:18:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "KI- und Krypto-Zar David O. Sacks spricht während einer Sitzung der White House Task Force on Artificial Intelligence Education im Weißen Haus. | Matt McClain/The Washington Post über Getty Images Hallo und willkommen bei Regulator, einem Newsletter exklusiv für Verge-Abonnenten über Technik, Politik und...",
+    "titleDE": "Wie David Sacks im Weißen Haus abstürzte und verbrannte"
+  },
+  {
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+    "pubDate": "2026-05-06T18:23:54.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Hartnäckige Verhandlungen zwischen Startup-Gründern werden selten so öffentlich geteilt, insbesondere wenn ein Unternehmen so weltverändernd ist wie OpenAI.",
+    "titleDE": "Wie Elon Musk laut Greg Brockman OpenAI verließ"
+  },
+  {
+    "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+    "description": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a new AI model did not need to go through the company's deployment safety board. \"As you understand it, was Mr. Altman telling the truth when he made that statement to you?\" Murati was asked in the deposition. \"No,\" Murati said.\nMurati said that during her tenure at OpenAI, Altman made her work more difficult. Her criticism \"is completely management  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-06T17:55:53.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mira Murati, die ehemalige CTO von OpenAI, hat unter Eid ausgesagt, dass CEO Sam Altman sie bezüglich der Sicherheitsstandards für ein neues KI-Modell belogen habe. In einer Videobehauptung, die während des laufenden Prozesses Musk gegen Altman am Mittwoch gezeigt wurde, sagte Murati, Altman habe fälschlicherweise angegeben, dass die Rechtsabteilung von OpenAI eine neue Entscheidung getroffen habe...",
+    "titleDE": "Mira Murati teilt dem Gericht mit, dass sie den Worten von Sam Altman nicht trauen könne"
+  },
+  {
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "description": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+    "pubDate": "2026-05-06T17:23:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Dem Vorschlag zufolge soll es sich bei dem Projekt um eine „mehrstufige, vertikal integrierte Halbleiterfertigungsanlage der nächsten Generation und fortschrittliche Computerfertigung“ handeln.",
+    "titleDE": "SpaceX könnte bis zu 119 Milliarden US-Dollar für die Chipfabrik „Terafab“ in Texas ausgeben"
+  },
+  {
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+    "pubDate": "2026-05-06T17:20:34.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das chinesische KI-Labor erlangte Anfang 2025 Bekanntheit, nachdem es ein großes Sprachmodell auf den Markt gebracht hatte, das mit einem Bruchteil der Rechenleistung und zu einem Bruchteil der Kosten der großen US-Modelle wie denen von OpenAI und Anthropic trainierte.",
+    "titleDE": "DeepSeek könnte in seiner ersten Investitionsrunde eine Bewertung von 45 Milliarden US-Dollar erreichen"
+  },
+  {
+    "title": "5 gardening tips you can try right in Search",
+    "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "description": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+    "pubDate": "2026-05-06T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Wir haben die besten Möglichkeiten zusammengestellt, wie Sie den KI-Modus, Search Live und Shopping von Google nutzen können, um Ihren Pflanzen zum Gedeihen zu verhelfen.",
+    "titleDE": "5 Gartentipps, die Sie direkt in der Suche ausprobieren können"
+  },
+  {
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+    "pubDate": "2026-05-06T15:49:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während das Zitieren von Webforen und Diskussionsforen Benutzern dabei helfen kann, Antworten auf weitere Nischenfragen zu finden, könnte sich diese Designwahl auch als chaotisch erweisen.",
+    "titleDE": "Google aktualisiert die KI-Suche um Zitate von Reddit und anderen Quellen"
+  },
+  {
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "description": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+    "pubDate": "2026-05-06T15:46:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Genesis AI, ein Startup, das eine Seed-Runde in Höhe von 105 Millionen US-Dollar für den Aufbau grundlegender KI für die Robotik aufgelegt hat, hat sein erstes Modell, GENE-26.5, vorgestellt, aber auch eine Demo, die eine Reihe von Roboterhänden zeigt, die komplexe Aufgaben ausführen.",
+    "titleDE": "Demo-Shows zeigen, dass das von Khosla unterstützte Robotik-Startup Genesis AI den Full Stack erreicht hat"
+  },
+  {
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nElon Musk, his financial manager and Neuralink CEO, Jared Birchall, and OpenAI cofounder Greg Brockman have already testified before the jury. Now, on Wednesday, May 6th,  Shivon Zilis, a former OpenAI board member who shares four children with Musk, is taking the stand, and the courtroom is seeing testimony from former OpenAI exec Mira Murati via video.\nMicrosoft CEO Satya Nadella is scheduled to appear on Monday, with OpenAI cofounder and former chief scientist Ilya Sutskever lined up to testify after that.\n\nMusk was a cofounder of OpenAI and claims that Altman and Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nPeople to Know\nPlaintiff\nElon Musk — plaintiff, OpenAI cofounder and now CEO of rival xAI\nSteven Molo — lead counsel for plaintiff\nJared Birchall — manager of Musk’s family office\nShivon Zilis — former OpenAI board member who shares multiple children with Musk\nDefendant\nSam Altman — defendant, CEO of OpenAI \nWilliam Savitt — lead counsel for defendant\nGreg Brockman — president of OpenAI as well as a cofounder \nIlya Sutskever — former chief scientist at OpenAI and a cofounder\nJudge\nYvonne Gonzalez Rogers — aka YGR, trial judge\nHere’s all the latest on the trial between Musk and Altman:\nMusk’s biggest loyalist became his biggest liability\n\t\t\t\nWe are going through the removal of Sam Altman from OpenAI in detail.\n\t\t\t\nToner is relating how Sam Altman’s firing happened.\n\t\t\t\nToner says she found out about ChatGPT by seeing screenshots on Twitter.\n\t\t\t\nMaking AI models is “more like alchemy than chemistry,” Toner says.\n\t\t\t\nWe are now looking at Helen Toner’s deposition.\n\t\t\t\nMicrosoft would like to be excluded from this narrative.\n\t\t\t\n“It’s not in my neurons” Zilis says instead of “I don’t remember.”\n\t\t\t\nSarah Eddy, an attorney representing OpenAI, got sarcastic with Zilis.\n\t\t\t\nShivon Zilis brainstormed possible scenarios for AI.\n\t\t\t\nMusk offered Sam Altman a board seat at Tesla…\n\t\t\t\nShivon’s emails aren’t great for Musk.\n\t\t\t\nThe big sticking point for Brockman and Sutskever was control.\n\t\t\t\nSam Altman loves exclamation marks.\n\t\t\t\nMira Murati tells the court that she couldn’t trust Sam Altman’s words\n\t\t\t\nZilis’ past emails mentioned in court proceedings include her referencing a potential “conversion to for-profit” for OpenAI.\n\t\t\t\nThis is getting interesting.\n\t\t\t\nZilis sent Altman a text message of support after his 2023 ouster.\n\t\t\t\nZilis said another concern she had about Altman related to OpenAI’s potential deal with Helion.\n\t\t\t\nAlso in the spirit of clarifications this morning…\n\t\t\t\nZilis said she had major concerns about OpenAI’s board not being notified in advance of ChatGPT’s release.\n\t\t\t\nZilis said that the fallout from Altman’s 2023 ouster changed her view of OpenAI’s Microsoft deal.\n\t\t\t\nWhen asked how much Musk works per week, Zilis laughed.\n\t\t\t\nMusk’s team has called Shivon Zilis.\n\t\t\t\nMurati says problems with Altman persisted after he returned to the company.\n\t\t\t\n“OpenAI was at catastrophic risk of falling apart” when Altman was fired, Murati says.\n\t\t\t\nWe are seeing video testimony from Mira Murati’s deposition.\n\t\t\t\nWe are clearing up “a few inaccuracies from yesterday.”\n\t\t\t\nWe are taking care of some matters before the jury comes in.\n\t\t\t\nMicrosoft and OpenAI’s definition of AGI was just revealed.\n\t\t\t\nThe jurors look as bored as I feel.\n\t\t\t\nBrockman steps down. We are looking at the video deposition of Robert Wu.\n\t\t\t\nBrockman is telling the truth about considering removing Musk from the board.\n\t\t\t\nEvery time Molo makes a summary of Brockman’s testimony, Brockman objects to it.\n\t\t\t\nWe are now fighting about “Either go do something on your own or continue with OpenAI as a non-profit.”\n\t\t\t\nOne other thing I don’t understand…\n\t\t\t\nMolo is trying to reiterate what he did more effectively yesterday.\n\t\t\t\n“You had no problems answering your lawyers’ questions,” Molo is practically yelling.\n\t\t\t\nMolo asks Brockman if Musk was “being mean” to him.\n\t\t\t\nWe are back to quibbling.\n\t\t\t\nWe are now discussing the OpenAI Foundation layoffs.\n\t\t\t\nMicrosoft is done, bless them.\n\t\t\t\nMicrosoft is now getting to talk to Brockman.\n\t\t\t\nThe blip.\n\t\t\t\nWe are now discussing Shivon Zilis.\n\t\t\t\nWe are now going through the assorted releases of GPT models.\n\t\t\t\nWhen Musk resigned, he gave a speech to OpenAI’s employees that might have been demoralizing…\n\t\t\t\nOne observation from Brockman and Sutskever’s emails.\n\t\t\t\nWe are now recontextualizing more entries from Brockman.\n\t\t\t\nThere were discussions between Brockman, Altman, and Sutskever about removing Musk from the board.\n\t\t\t\nWe are back from a break.\n\t\t\t\n“I thought he was going to hit me,” Brockman says of Musk.\n\t\t\t\nElon Musk doesn’t love anything he can’t control.\n\t\t\t\nSam Altman discussed an equal equity split…\n\t\t\t\nWe are now discussing Brockman’s journal.\n\t\t\t\nBrockman talks Dota 2.\n\t\t\t\nElon Musk tried to get Bill Gates to donate to OpenAI.\n\t\t\t\nFirst sidebar of the trial.\n\t\t\t\nOpenAI had layoffs at Musk’s insistence.\n\t\t\t\nGreg Brockman tells the court that while at OpenAI, he and three others worked at Tesla.\n\t\t\t\nYGR is on the bench.\n\t\t\t\nGoogle’s AI architect lived rent-free in Elon Musk’s head\n\t\t\t\nOpenAI’s president does ‘all the things,’ except answer a question\n\t\t\t\nJury is sent out for the day.\n\t\t\t\nWe are hearing about the early days of OpenAI.\n\t\t\t\nEarly worries about Musk came from Ilya Sutskever.\n\t\t\t\nBrockman is describing his bromance with Altman.\n\t\t\t\n“I do all the things.”\n\t\t\t\nBrockman says we are 80 percent of the way to AGI.\n\t\t\t\nOpen AI’s direct examination of Brockman is pretty sedate so far… aside from Tesla.\n\t\t\t\nOpenAI’s lawyers are now getting their shot at Brockman.\n\t\t\t\nFor real, I think nerds should not testify in court.\n\t\t\t\nWe are now looking at Brockman’s other financial dealings.\n\t\t\t\nWe finished with the Microsoft investment pretty quickly.\n\t\t\t\nAltman didn’t return after we took our break.\n\t\t\t\nWe are presently having a fight about purple boxes.\n\t\t\t\nWe have been doing the same question for perhaps the last five minutes.\n\t\t\t\n“Financially what will take me to $1B?”\n\t\t\t\n“His story will correctly be that we weren’t honest with him in the end about still wanting to do the for profit just without him.”\n\t\t\t\nGreg Brockman’s journal: “it’d be wrong to steal the non-profit from him.”\n\t\t\t\nBrockman is not doing himself any favors.\n\t\t\t\nBrockman’s cross-examination isn’t as testy as Musk’s, but he’s also pushing back on a lot of questions.\n\t\t\t\nIs sending stuff to Sam Teller and Shivon Zilis the same as sending it to Musk?\n\t\t\t\nBrockman and Altman’s alliance?\n\t\t\t\n“Is Demis Hassabis evil?”\n\t\t\t\nGreg Brockman is talking about the earliest days of OpenAI.\n\t\t\t\nGreg Brockman and Sam Altman have just entered the courtroom.\n\t\t\t\nWe’re done with Russell.\n\t\t\t\n“The age of abundance for Elon.”\n\t\t\t\nOh now we have some meat.\n\t\t\t\nElon Musk’s expert doesn’t follow him on X.\n\t\t\t\nI am befuddled by this expert testimony.\n\t\t\t\nWe are dealing with the cross now.\n\t\t\t\nSure is lucky that mentions of Grok’s safety issues got limited.\n\t\t\t\nIndividual vs. systemic risk.\n\t\t\t\nWe now have a very boring expert witness testifying to AI risks.\n\t\t\t\nStuart Russell is here to tell us about AI.\n\t\t\t\n“I need that today. That’s good. I like that.”\n\t\t\t\nGreg Brockman won’t be asked about Musk’s threat.\n\t\t\t\nElon Musk tried to settle before the trial — and got threatening.\n\t\t\t\nMusk v. Altman is getting a live audio stream next week.\n\t\t\t\nOpenAI Tesla receipts and other Musk v. Altman documents.\n\t\t\t\nAll the evidence revealed so far in Musk v. Altman\n\t\t\t\nHere’s how Gabe Newell and Hideo Kojima ended up in the Musk v. Altman evidence.\n\t\t\t\nThe craziest part of Musk v. Altman happened while the jury was out of the room\n\t\t\t\nJury is being dismissed early so YGR can deal with an objection to Birchall’s testimony.\n\t\t\t\nBirchall is actually very funny outside of court? Good for him.\n\t\t\t\nWe are now hearing about the pause in quarterly donations.\n\t\t\t\nWe’re back.\n\t\t\t\nSecond break of the day.\n\t\t\t\nBirchall cross.\n\t\t\t\nElon Musk confirms xAI used OpenAI’s models to train Grok\n\t\t\t\nBirchall has just been asked about the four Teslas.\n\t\t\t\nBirchall testifies about Musk’s contributions to OpenAI.\n\t\t\t\nA woman in the gallery has lowered a sleep mask over her eyes and is attempting to sleep.\n\t\t\t\nMusk steps down. He may be recalled.\n\t\t\t\nWe are on re-cross. Musk is getting testy again.\n\t\t\t\nThe Microsoft investment comes back up.\n\t\t\t\nAnd we’re back.\n\t\t\t\nWe’re in break — and I just checked out something interesting.\n\t\t\t\nElon Musk’s robot army definitely will not kill you.\n\t\t\t\nMusk insists he wasn’t kneecapping OpenAI.\n\t\t\t\nMusk seems notably more subdued today.\n\t\t\t\n“At least change the name,” Musk says he told Altman.\n\t\t\t\nElon Musk v. Capitalism.\n\t\t\t\nAn “ongoing conversation” around open source.\n\t\t\t\nWe’re still talking about whether Musk read the term sheet.\n\t\t\t\nThe jurors have been seated.\n\t\t\t\nMusk has just entered the courtroom.\n\t\t\t\n“Issues of extinction are excluded.”\n\t\t\t\nGood morning!\n\t\t\t\nElon Musk’s worst enemy in court is Elon Musk\n\t\t\t\nFreedom!\n\t\t\t\nUnfortunately we will not be talking about safety details of any specific product.\n\t\t\t\nThe jury is leaving for the day. “I suspect it’s a nice day out there,” YGR says.\n\t\t\t\nMechaHitler might be a bad look for the AI safety defender.\n\t\t\t\nMusk’s broader AI safety commitment (or lack thereof) comes up.\n\t\t\t\nThis is so testy.\n\t\t\t\nDid Musk even read the OpenAI term sheet?\n\t\t\t\nMusk asked Shivon Zilis to stay “close and friendly” with OpenAI to keep info flowing.\n\t\t\t\nMusk says xAI probably won’t be the first to get to AGI.\n\t\t\t\nWe’re back from a break, talking about SpaceX and xAI.\n\t\t\t\nDon’t worry about Tesla’s robot army!\n\t\t\t\n“You mostly do unfair questions.”\n\t\t\t\n“It’s a free country.”\n\t\t\t\n“Will you answer my question?”\n\t\t\t\nMusk’s desire for control comes up again.\n\t\t\t\n“This is a hypothetical.”\n\t\t\t\nDid Musk initially envision OpenAI as a corporation?\n\t\t\t\nMusk is being combative on cross already.\n\t\t\t\n“I did say that I would commit up to a billion dollars, yes.”\n\t\t\t\nIs Tesla really not working on AGI?\n\t\t\t\nMusk is returning to the stand.\n\t\t\t\nAt times, being a judge is much like being a kindergarten teacher.\n\t\t\t\nWe’re on a break.\n\t\t\t\n“I mean, all due respect to Microsoft, do you really want Microsoft controlling digital superintelligence?”\n\t\t\t\n“What’s going on here this is a bait and switch.”\n\t\t\t\nA Musk-Altman spat about Microsoft.\n\t\t\t\nMusk really cannot help himself.\n\t\t\t\n“Capped profit” wasn’t an issue, even when Microsoft got involved.\n\t\t\t\n“Tesla is not pursuing AGI.”\n\t\t\t\nMusk is more on his game today.\n\t\t\t\n“After I received these reassurances that OpenAI would continue to be a nonprofit I continued to donate over $10 million.”\n\t\t\t\n“I actually was a fool who provided free funding for them to create a startup.”\n\t\t\t\nMore discussion of who would own OpenAI.\n\t\t\t\n“I don’t lose my temper,” says Elon Musk.\n\t\t\t\n“2017 was a hard year, and we’ve made mistakes.”\n\t\t\t\n“I formed many for-profit tech companies, and could have done so with OAI,”\n\t\t\t\n“Crystal clear focus.”\n\t\t\t\nSam Altman has just entered the room, right ahead of the jury.\n\t\t\t\nA member of the public just got dressed down by YGR about taking photos.\n\t\t\t\nMusk v. Altman et al. is back in session.\n\t\t\t\nIn naming OpenAI, Elon Musk worried anything related to the Turing Test could mean bad PR.\n\t\t\t\nElon Musk appeared more petty than prepared\n\t\t\t\nThat’s a wrap!\n\t\t\t\nYGR scolds OpenAI for taking inconsistent positions on the origin of its name.\n\t\t\t\nElon Musk tells the jury that all he wants to do is save humanity\n\t\t\t\nArguments over ownership.\n\t\t\t\nApparently OpenAI could have had an ICO.\n\t\t\t\n“I was not averse to a small for-profit,” Musk says.\n\t\t\t\nWe’re reading emails between Musk and Jensen Huang.\n\t\t\t\nMusk says nonprofit was non-negotiable for OpenAI.\n\t\t\t\nWe’re at the founding of OpenAI.\n\t\t\t\nMusk says he would have created something like OpenAI on his own.\n\t\t\t\nMusk recalls meeting Sam Altman.\n\t\t\t\nSam Altman left during a break, but Elon Musk’s lawyer didn’t notice.\n\t\t\t\n“Here we are in 2026 and AI is scary smart.”\n\t\t\t\n“I have extreme concerns about AI,” says Musk.\n\t\t\t\nAI will be as smart as “any human as soon as next year.”\n\t\t\t\nMusk claims he has time for SpaceX, Tesla, Neuralink, and the Boring Company because he works a lot.\n\t\t\t\nMusk is telling the jury he (co)founded Tesla.\n\t\t\t\nNeuralink’s long-term goal is… AI?\n\t\t\t\n“There need to be things that people are excited about that make life worth living … Being out there among the stars can excite everyone.”\n\t\t\t\nA little Musk biography.\n\t\t\t\nElon Musk, looking funereal in a black suit with a black tie, says “it’s not okay to steal a charity.”\n\t\t\t\nElon Musk takes the stand in high-profile trial against OpenAI\n\t\t\t\nWe are back from a break.\n\t\t\t\nElon Musk will be the first witness in Musk v. Altman.\n\t\t\t\n“Microsoft unlocked with OpenAI a virtuous cycle.”\n\t\t\t\nMicrosoft enters the chat.\n\t\t\t\n“We are here because Mr. Musk didn’t get his way at OpenAI.”\n\t\t\t\n“[Musk] demanded control, he demanded the ability to make all the decisions without regard to the other founders.”\n\t\t\t\nOpenAI lawyers argue that Elon was right in the middle of discussions about a for-profit pivot.\n\t\t\t\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial.\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v. Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
+    "pubDate": "2026-05-06T15:37:32.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Sam Altman und Elon Musk stehen sich in einem hochriskanten Prozess gegenüber, der die Zukunft von OpenAI und seinem bekanntesten Produkt, ChatGPT, verändern könnte. Im Jahr 2024 reichte Musk eine Klage ein, in der er OpenAI beschuldigte, seine Gründungsmission, KI zum Nutzen der Menschheit zu entwickeln, aufgegeben und den Fokus auf die Steigerung der Gewinne verlagert zu haben ...",
+    "titleDE": "Live-Updates vom Gerichtsstreit zwischen Elon Musk und Sam Altman über die Zukunft von OpenAI"
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "description": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+    "pubDate": "2026-05-06T15:27:36.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Match Group sagte, dass es seine Einstellungspläne für den Rest des Jahres verlangsamt, weil KI-Tools „viel Geld kosten“.",
+    "titleDE": "Tinder-Eigentümer Match Group verlangsamt die Einstellung von Mitarbeitern, um den verstärkten Einsatz von KI-Tools zu finanzieren"
+  },
+  {
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "description": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+    "pubDate": "2026-05-06T15:12:49.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apple hat zugestimmt, 250 Millionen US-Dollar zu zahlen, um eine Sammelklage wegen zu großer Versprechungen bei der Einführung der KI-Funktionen von Siri beizulegen.",
+    "titleDE": "Apple zahlt 250 Millionen US-Dollar, um den Rechtsstreit wegen verzögerter KI-Funktionen von Siri beizulegen"
+  },
+  {
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+    "description": "Ethos says it is onboarding 35,000 experts per week.",
+    "pubDate": "2026-05-06T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ethos gibt an, jede Woche 35.000 Experten einzubinden.",
+    "titleDE": "Ethos sammelt 22,75 Millionen US-Dollar von a16z für sein Expertennetzwerk mit Voice-Onboarding"
+  },
+  {
+    "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+    "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+    "description": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+    "pubDate": "2026-05-06T14:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Führungskräfte von Coinbase, M13 und der Mignano Law Group sprechen bei TechCrunch Disrupt 2026 darüber, wie M&A eine Frühphasenstrategie ist. Registrieren Sie sich, um dies live zu hören.",
+    "titleDE": "Bei TechCrunch Disrupt 2026 werden alle Ihre M&A-Fragen beantwortet"
+  },
+  {
+    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+    "description": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+    "pubDate": "2026-05-06T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Noch drei Tage, um sich 50 % Rabatt auf ein zweites Ticket für Disrupt 2026 zu sichern. Kaufen Sie ein TechCrunch Disrupt 2026-Ticket und erhalten Sie ein zweites Ticket mit 50 % Rabatt. Gewinnen Sie mehr Sichtbarkeit in der Technologiebranche. Das Angebot endet am 8. Mai um 23:59 Uhr. PT.",
+    "titleDE": "Noch 3 Tage, um sich 50 % Rabatt auf ein zweites Ticket für TechCrunch Disrupt 2026 zu sichern"
+  },
+  {
+    "title": "AI boom pushes Samsung to $1T",
+    "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "description": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+    "pubDate": "2026-05-06T13:54:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Samsung überschritt die Bewertungsmarke von 1 Billion US-Dollar, nachdem die Aktien aufgrund der KI-gesteuerten Chip-Nachfrage in die Höhe schossen. Damit ist Samsung nach TSMC erst das zweite asiatische Unternehmen, das diesen Meilenstein erreicht hat.",
+    "titleDE": "KI-Boom treibt Samsung auf 1 Billion US-Dollar"
+  },
+  {
+    "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+    "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+    "description": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+    "pubDate": "2026-05-06T13:32:47.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Eine Hommage an die Optimierungen und Anpassungen, die das Leben am CLI einfacher machen.",
+    "titleDE": "Ars fragt: Teilen Sie Ihre Hülle und zeigen Sie uns Ihre ausgetricksten Terminals!"
+  },
+  {
+    "title": "Google&#8217;s AI search summaries will now quote Reddit",
+    "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+    "description": "Want real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge\t\n\nGoogle is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics.\nGoogle says this update aims to address that \"people are increasingly seeking out advice from others\" when searching for information online. This will be relatable for anyone who's added \"Reddit\" to the end of Google Search terms to find experiences from real humans instead of SEO-optimized  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-06T13:00:30.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Möchten Sie echtes menschliches Feedback zu Ihren Suchergebnissen? Die KI von Google ruft es jetzt für Sie ab. | Bild von Google / The Verge Google aktualisiert seine KI-Suchfunktionen, um es Benutzern zu erleichtern, Informationen aus Quellen zu finden, die sie kennen und denen sie vertrauen. Eine der bemerkenswerteren Änderungen führt „eine Vorschau …“ ein.",
+    "titleDE": "In den Zusammenfassungen der KI-Suche von Google wird jetzt Reddit zitiert"
+  },
+  {
+    "title": "The Download: seafloor science and military chatbots",
+    "link": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will…",
+    "pubDate": "2026-05-06T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Preiswerte Tauchboote, die über den Meeresboden springen, könnten die Tiefseewissenschaft und den Bergbau ankurbeln. Letzte Woche begannen zwei längliche Neon-Tauchboote, fast 6.000 Meter tief abzutauchen...",
+    "titleDE": "Der Download: Meeresbodenforschung und militärische Chatbots"
+  },
+  {
+    "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+    "link": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+    "description": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft.\nThe changes, which come a week after Roslansky named a new CEO of LinkedIn, are part of a broader reshuffle triggered by Rajesh Jha, executive vice president of Microsoft's experiences and devices group, retiring from Microsoft after more than 35 years. Jha was responsible for the  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-06T11:45:41.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der LinkedIn-Chef von Microsoft, Ryan Roslansky, hat letztes Jahr eine erweiterte Rolle im Unternehmen als Head of Office übernommen und erhält nun im Rahmen der jüngsten Führungsumbildung bei Microsoft mehr Verantwortung. Quellen sagen mir, dass die Microsoft Teams-Organisation dazu übergeht, Roslan Bericht zu erstatten ...",
+    "titleDE": "Der Office- und LinkedIn-Chef von Microsoft leitet jetzt Teams in der jüngsten Umstrukturierung"
+  },
+  {
+    "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+    "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "description": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled.\nThe weights.bin file in question is connected to Google's Gemini Nano AI model, which powers Chrome AI tools like scam detection, writing assistance, autofill, and suggestion features. As the Gemini Nano model is designed to run lo …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-06T10:13:09.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Aufgrund einer großen KI-Modelldatei auf dem Gerät, die in einigen Fällen automatisch in die Systemordner des Browsers heruntergeladen wird, beansprucht Google Chrome möglicherweise mehr Speicherplatz als erwartet. Benutzer, die einen unerklärlichen Rückgang des verfügbaren Desktop-Gerätespeichers festgestellt haben, entdecken jetzt, dass ...",
+    "titleDE": "Die KI-Funktionen von Chrome beanspruchen möglicherweise 4 GB Speicherplatz auf Ihrem Computer"
+  },
+  {
+    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "description": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company.",
+    "pubDate": "2026-05-06T06:47:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Enterprise AI wird das A und O von QuTwo sein. „KI ist der Nordstern, den wir weiterhin anstreben werden. Quantum ist nur eine neue Art von Berechnung“, sagte Sarlin, der fest davon überzeugt ist, dass QuTwo ein KI-Unternehmen ist.",
+    "titleDE": "Peter Sarlins QuTwo erreicht in der Angel-Runde eine Bewertung von 380 Millionen US-Dollar"
+  },
+  {
+    "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
+    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+    "pubDate": "2026-05-06T06:34:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wonder möchte seine Roboterküchen in KI-betriebene „Restaurantfabriken“ verwandeln, die es jedem ermöglichen, mit einer Aufforderung eine virtuelle Lebensmittelmarke zu gründen.",
+    "titleDE": "Marc Lore sagt, dass KI es bald jedem ermöglichen wird, ein Restaurant zu eröffnen"
+  },
+  {
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+    "pubDate": "2026-05-06T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Lernen Sie die ChatGPT Futures Class von 2026 kennen – 26 studentische Innovatoren, die KI nutzen, um zu bauen, zu forschen und reale Auswirkungen zu erzielen. Entdecken Sie mit ChatGPT, wie diese Generation Lernen, Kreativität und Chancen neu definiert.",
+    "titleDE": "Wir stellen vor: ChatGPT Futures: Klasse von 2026"
+  },
+  {
+    "title": "How frontier enterprises are building an AI advantage",
+    "link": "https://openai.com/index/introducing-b2b-signals",
+    "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "pubDate": "2026-05-06T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Die B2B-Signale-Forschung von OpenAI zeigt, wie Pionierunternehmen die KI-Einführung vertiefen, Codex-gestützte Agenten-Workflows skalieren und dauerhafte Wettbewerbsvorteile aufbauen.",
+    "titleDE": "Wie Grenzunternehmen einen KI-Vorsprung aufbauen"
+  },
+  {
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "link": "https://openai.com/index/uber",
+    "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "pubDate": "2026-05-06T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Uber nutzt OpenAI, um KI-Assistenten und Sprachfunktionen zu unterstützen, die Fahrern helfen, intelligenter zu verdienen und Fahrgästen schneller zu buchen, und zwar auf einem globalen Echtzeit-Marktplatz.",
+    "titleDE": "Uber nutzt OpenAI, um Menschen dabei zu helfen, intelligenter zu verdienen und schneller zu buchen"
+  },
+  {
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "link": "https://openai.com/index/singular-bank",
+    "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+    "pubDate": "2026-05-06T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Die Singular Bank hat Singularity entwickelt, einen internen Assistenten, der ChatGPT und Codex verwendet, um Bankern dabei zu helfen, täglich 60–90 Minuten bei der Vorbereitung von Besprechungen, der Portfolioanalyse und der Nachbereitung einzusparen.",
+    "titleDE": "Singular Bank hilft Bankern mit ChatGPT und Codex, schnell voranzukommen"
+  },
+  {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+    "pubDate": "2026-05-05T23:50:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "SAP plant, das deutsche KI-Startup Prior Labs zu kaufen und stark in dieses zu investieren. Außerdem wird den Agenten der Kunden die Nutzung einiger ausgewählter Geräte wie Nvidias NemoClaw untersagt.",
+    "titleDE": "SAP setzt 1,16 Milliarden US-Dollar auf ein 18 Monate altes deutsches KI-Labor und sagt „Ja“ zu NemoClaw"
+  },
+  {
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "description": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
+    "pubDate": "2026-05-05T22:57:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die KI von Altara zielt darauf ab, Fehler zu diagnostizieren und die Forschung und Entwicklung durch die Vereinheitlichung von in Tabellenkalkulationen und Altsystemen isolierten Daten zu beschleunigen.",
+    "titleDE": "Altara sichert sich 7 Millionen US-Dollar, um die Datenlücke zu schließen, die die Naturwissenschaften bremst"
+  },
+  {
+    "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+    "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+    "description": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better at handling recurring and all-day events and allow users to \"move around\" upcoming events. \nLast month, Google also updated Gemini for Home with improvements for understanding natural language and identifying devices correctly. The upgrades follow reports of bugs in Google's new smart home assistant, like confusing differe …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-05T21:46:04.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nutzer von Google Home können Gemini jetzt bitten, komplexere, mehrstufige Aufgaben zu erledigen und mehrere Aufgaben in einem einzigen Befehl zu kombinieren. Google hat Gemini for Home auf Gemini 3.1 aktualisiert, was angeblich die Fähigkeit des Smart-Home-Assistenten verbessern wird, Anfragen zu interpretieren und darauf zu reagieren. Das Upgrade wird auch...",
+    "titleDE": "Die Gemini-KI von Google Home kann kompliziertere Anfragen verarbeiten"
+  },
+  {
+    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+    "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+    "description": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and March 29th, 2025.\nPeople who submit qualifying claims can receive $25 for each eligible device, \"which may decrease or increase up to $95 per device, depending on claim volume and other factors,\" according to Clarkson Law Firm, the legal team behind the class action lawsuit. \nThe settlement will resolve a 2025 lawsuit, alleging  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-05T21:18:23.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Apple hat sich bereit erklärt, 250 Millionen US-Dollar zu zahlen, um eine Sammelklage beizulegen, in der dem Unternehmen vorgeworfen wurde, Kunden über die Verfügbarkeit seiner Apple Intelligence-Funktionen irregeführt zu haben. Der vorgeschlagene Vergleich würde für Personen in den USA gelten, die zwischen Juni alle Modelle des iPhone 16 und des iPhone 15 Pro gekauft haben.",
+    "titleDE": "Apple willigt ein, iPhone-Besitzern 250 Millionen US-Dollar für die Nichtbereitstellung von AI Siri zu zahlen"
+  },
+  {
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "pubDate": "2026-05-05T20:56:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge haben Benutzer mit den neuesten Betriebssystem-Updates von Apple die Wahl, welche KI-Modelle von Drittanbietern sie für eine Vielzahl von Aufgaben verwenden möchten.",
+    "titleDE": "Apple plant, iOS 27 zu einem „Choose Your Own Adventure“ von KI-Modellen zu machen"
+  },
+  {
+    "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+    "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+    "description": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+    "pubDate": "2026-05-05T19:46:15.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Benutzer von Daemon Tools: Es ist an der Zeit, Ihre Computer auf heimliche Infektionen zu überprüfen, Stat.",
+    "titleDE": "Die weit verbreitete Festplatten-App Daemon Tools wurde bei einem monatelangen Supply-Chain-Angriff mit einer Hintertür versehen"
+  },
+  {
+    "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+    "description": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+    "pubDate": "2026-05-05T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Google arbeitet mit XPRIZE und Range Media Partners beim 3,5 Millionen US-Dollar teuren Future Vision-Filmwettbewerb zusammen.",
+    "titleDE": "Google arbeitet mit XPRIZE und Range Media Partners beim 3,5 Millionen US-Dollar teuren Future Vision-Filmwettbewerb zusammen."
+  },
+  {
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
+    "pubDate": "2026-05-05T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Erste Woche des Prozesses Musk gegen Altman: Wie es im Raum war Zwei der mächtigsten Persönlichkeiten der KI – Sam Altman und Elon Musk – befinden sich mitten in…",
+    "titleDE": "Der Download: Einblicke in den Prozess Musk gegen Altman und KI für die Demokratie"
+  },
+  {
+    "title": "Why Reddit blocked my daily visit to its mobile website",
+    "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+    "description": "Reddit REALLY wants you to use its app.",
+    "pubDate": "2026-05-05T11:20:08.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Reddit möchte WIRKLICH, dass Sie seine App nutzen.",
+    "titleDE": "Warum Reddit meinen täglichen Besuch seiner mobilen Website blockiert hat"
+  },
+  {
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "link": "https://openai.com/index/mrc-supercomputer-networking",
+    "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI führt MRC (Multipath Reliable Connection) ein, ein neues Supercomputer-Netzwerkprotokoll, das über OCP veröffentlicht wird, um die Belastbarkeit und Leistung in großen KI-Trainingsclustern zu verbessern.",
+    "titleDE": "Erschließung großer KI-Trainingsnetzwerke mit MRC (Multipath Reliable Connection)"
+  },
+  {
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "description": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "GPT-5.5 Instant aktualisiert das Standardmodell von ChatGPT mit intelligenteren, genaueren Antworten, weniger Halluzinationen und verbesserten Personalisierungskontrollen.",
+    "titleDE": "GPT-5.5 Instant: intelligenter, klarer und personalisierter"
+  },
+  {
+    "title": "GPT-5.5 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "description": "",
+    "pubDate": "2026-05-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "",
+    "titleDE": "GPT-5.5 Instant System Card"
+  },
+  {
+    "title": "A blueprint for using AI to strengthen democracy",
+    "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "description": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
+    "pubDate": "2026-05-05T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Alle paar Jahrhunderte verändern Veränderungen in der Art und Weise, wie Informationen übertragen werden, die Art und Weise, wie Gesellschaften sich selbst regieren. Die Druckerpresse verbreitete die Umgangssprache und trug zur Gründung der Reformation und schließlich zur repräsentativen Regierung bei. Der Telegraph ermöglichte die Verwaltung riesiger Nationen wie den USA, beschleunigte ...",
+    "titleDE": "Eine Blaupause für den Einsatz von KI zur Stärkung der Demokratie"
+  },
+  {
+    "title": "New ways to buy ChatGPT ads",
+    "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "description": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "pubDate": "2026-05-05T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI erweitert ChatGPT-Anzeigen um einen Beta-Selbstbedienungs-Anzeigenmanager, CPC-Gebote und verbesserte Messtools – entwickelt, um die Privatsphäre zu schützen und Gespräche von Werbung getrennt zu halten.",
+    "titleDE": "Neue Möglichkeiten, ChatGPT-Anzeigen zu kaufen"
   },
   {
     "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
@@ -40,16 +470,6 @@
     "titleDE": "OpenAI und PwC arbeiten zusammen, um das Amt des CFO neu zu gestalten"
   },
   {
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "description": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-    "pubDate": "2026-05-04T19:12:49.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Appfigures stellt fest, dass die Einführung visueller Modelle 6,5-mal mehr Downloads generiert – aber die meisten wandeln diesen Anstieg nicht in Umsatz um.",
-    "titleDE": "Bild-KI-Modelle treiben jetzt das App-Wachstum voran und schlagen Chatbot-Upgrades"
-  },
-  {
     "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
     "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
     "description": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
@@ -57,7 +477,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Angesichts sinkender Umsätze und Ladenschließungen will GameStop das viel größere eBay kaufen.",
-    "titleDE": "GameStop bietet eBay 56 Milliarden US-Dollar an und kann nicht erklären, wie das Unternehmen dafür bezahlen soll"
+    "titleDE": "GameStop bietet eBay 56 Milliarden US-Dollar an und kann nicht erklären, wie es dafür bezahlen soll"
   },
   {
     "title": "The latest AI news we announced in April 2026",
@@ -70,56 +490,6 @@
     "titleDE": "Die neuesten KI-Neuigkeiten haben wir im April 2026 angekündigt"
   },
   {
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-    "pubDate": "2026-05-04T16:57:47.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Stuart Russell ist ein langjähriger KI-Forscher, der der Meinung ist, dass Regierungen Grenzlabore einschränken müssen.",
-    "titleDE": "Elon Musks einziger KI-Experte beim OpenAI-Prozess befürchtet ein AGI-Wettrüsten"
-  },
-  {
-    "title": "The creator of Roomba is back with a furry robot companion",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-    "description": "The first “Familiar” from Colin Angle’s new startup, Familiar Machines & Magic, is a robot that is designed to live in your home and interact autonomously with family members. | Image: Familiar Machines and Magic\t\n\nColin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner.\nThe first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized robotic pet that resembles a cross between a bear, a barn owl, and a golden retriever. It has an expressive face, with movable eyebrows, ears, and eyes, and the company calls it a \"Familiar,\" a name meant to evoke folklore around the idea of a supernatural companion. Based on a demo video I saw ahead of its appearance at the WSJ Future of Everything conference this w …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-04T16:51:38.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der erste „Familiar“ von Colin Angles neuem Startup Familiar Machines & Magic ist ein Roboter, der in Ihrem Zuhause leben und autonom mit Familienmitgliedern interagieren soll. | Bild: Familiar Machines und Magic Colin Angle, der Hersteller von Roomba und der Mann, der dabei geholfen hat, 50 Millionen Haushaltsro...",
-    "titleDE": "Der Erfinder von Roomba ist mit einem pelzigen Roboterbegleiter zurück"
-  },
-  {
-    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-    "description": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-    "pubDate": "2026-05-04T16:45:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Durch die Erhöhung erhält Sierra mehr als 1 Milliarde US-Dollar für die Zusammenarbeit – Kapital, mit dem das Unternehmen nach eigenen Angaben zum „globalen Standard“ für KI-gestützte Kundenerlebnisse werden will.",
-    "titleDE": "Sierra sammelt 950 Millionen US-Dollar, während der Wettlauf um die eigene Unternehmens-KI ernst wird"
-  },
-  {
-    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-    "description": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-    "pubDate": "2026-05-04T16:36:03.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Musk schrieb dem Präsidenten und Mitbegründer von OpenAI eine SMS und sagte, dass er und CEO Sam Altman „die am meisten gehassten Männer in Amerika sein werden“, wenn OpenAI den Rechtsstreit nicht beilegt.",
-    "titleDE": "Elon Musk schickte Greg Brockman und Sam Altman bedrohliche Texte, nachdem er um eine Einigung gebeten hatte, behauptet OpenAI"
-  },
-  {
-    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-    "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-    "description": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-    "pubDate": "2026-05-04T15:59:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sowohl Anthropic als auch OpenAI haben sich mit Vermögensverwaltern zusammengetan, um ihre KI-Produkte für Unternehmen aggressiver zu vermarkten.",
-    "titleDE": "Anthropic und OpenAI starten beide Joint Ventures für KI-Dienste für Unternehmen"
-  },
-  {
     "title": "Week one of the Musk v. Altman trial: What it was like in the room",
     "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to…",
@@ -130,16 +500,6 @@
     "titleDE": "Woche eins des Prozesses Musk gegen Altman: Wie es im Raum war"
   },
   {
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nThe trial began with jury selection on April 27th. Elon Musk took the stand on April 28th as the first witness called, portraying his interest in founding OpenAI as an effort to help save humanity, then returned to the stand on April 29th and again for a third day of testimony on April 30th, before his financial manager and Neuralink CEO, Jared Birchall, took the stand.\nWeek two of the trial has begun, with professor Stuart Russell and OpenAI cofounder Greg Brockman scheduled to take the stand on Monday, May 4th, and, for the first time, a live audio stream on YouTube.\nMusk was a cofounder of OpenAI and claims that Altman and Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\n\nHere’s all the latest on the trial between Musk and Altman:\nOpenAI’s president does ‘all the things,’ except answer a question\n\t\t\t\nJury is sent out for the day.\n\t\t\t\nWe are hearing about the early days of OpenAI.\n\t\t\t\nEarly worries about Musk came from Ilya Sutskever.\n\t\t\t\nBrockman is describing his bromance with Altman.\n\t\t\t\n“I do all the things.”\n\t\t\t\nBrockman says we are 80 percent of the way to AGI.\n\t\t\t\nOpen AI’s direct examination of Brockman is pretty sedate so far… aside from Tesla.\n\t\t\t\nOpenAI’s lawyers are now getting their shot at Brockman.\n\t\t\t\nFor real, I think nerds should not testify in court.\n\t\t\t\nWe are now looking at Brockman’s other financial dealings.\n\t\t\t\nWe finished with the Microsoft investment pretty quickly.\n\t\t\t\nAltman didn’t return after we took our break.\n\t\t\t\nWe are presently having a fight about purple boxes.\n\t\t\t\nWe have been doing the same question for perhaps the last five minutes.\n\t\t\t\n“Financially what will take me to $1B?”\n\t\t\t\n“His story will correctly be that we weren’t honest with him in the end about still wanting to do the for profit just without him.”\n\t\t\t\nGreg Brockman’s journal: “it’d be wrong to steal the non-profit from him.”\n\t\t\t\nBrockman is not doing himself any favors.\n\t\t\t\nBrockman’s cross examination isn’t as testy as Musk’s, but he’s also pushing back on a lot of questions.\n\t\t\t\nIs sending stuff to Sam Teller and Shivon Zilis the same as sending it to Musk?\n\t\t\t\nBrockman and Altman’s alliance?\n\t\t\t\n“Is Demis Hassabis evil?”\n\t\t\t\nGreg Brockman is talking about the earliest days of OpenAI.\n\t\t\t\nGreg Brockman and Sam Altman have just entered the courtroom.\n\t\t\t\nWe’re done with Russell.\n\t\t\t\n“The age of abundance for Elon.”\n\t\t\t\nOh now we have some meat.\n\t\t\t\nElon Musk’s expert doesn’t follow him on X.\n\t\t\t\nI am befuddled by this expert testimony.\n\t\t\t\nWe are dealing with the cross now.\n\t\t\t\nSure is lucky that mentions of Grok’s safety issues got limited.\n\t\t\t\nIndividual vs. systemic risk.\n\t\t\t\nWe now have a very boring expert witness testifying to AI risks.\n\t\t\t\nStuart Russell is here to tell us about AI.\n\t\t\t\n“I need that today. That’s good. I like that.”\n\t\t\t\nGreg Brockman won’t be asked about Musk’s threat.\n\t\t\t\nElon Musk tried to settle before the trial — and got threatening.\n\t\t\t\nMusk v. Altman is getting a live audio stream next week.\n\t\t\t\nOpenAI Tesla receipts and other Musk v. Altman documents.\n\t\t\t\nAll the evidence revealed so far in Musk v. Altman\n\t\t\t\nHere’s how Gabe Newell and Hideo Kojima ended up in the Musk v. Altman evidence.\n\t\t\t\nThe craziest part of Musk v. Altman happened while the jury was out of the room\n\t\t\t\nJury is being dismissed early so YGR can deal with an objection to Birchall’s testimony.\n\t\t\t\nBirchall is actually very funny outside of court? Good for him.\n\t\t\t\nWe are now hearing about the pause in quarterly donations.\n\t\t\t\nWe’re back.\n\t\t\t\nSecond break of the day.\n\t\t\t\nBirchall cross.\n\t\t\t\nElon Musk confirms xAI used OpenAI’s models to train Grok\n\t\t\t\nBirchall has just been asked about the four Teslas.\n\t\t\t\nBirchall testifies about Musk’s contributions to OpenAI.\n\t\t\t\nA woman in the gallery has lowered a sleep mask over her eyes and is attempting to sleep.\n\t\t\t\nMusk steps down. He may be recalled.\n\t\t\t\nWe are on re-cross. Musk is getting testy again.\n\t\t\t\nThe Microsoft investment comes back up.\n\t\t\t\nAnd we’re back.\n\t\t\t\nWe’re in break — and I just checked out something interesting.\n\t\t\t\nElon Musk’s robot army definitely will not kill you.\n\t\t\t\nMusk insists he wasn’t kneecapping OpenAI.\n\t\t\t\nMusk seems notably more subdued today.\n\t\t\t\n“At least change the name,” Musk says he told Altman.\n\t\t\t\nElon Musk v. Capitalism.\n\t\t\t\nAn “ongoing conversation” around open source.\n\t\t\t\nWe’re still talking about whether Musk read the term sheet.\n\t\t\t\nThe jurors have been seated.\n\t\t\t\nMusk has just entered the courtroom.\n\t\t\t\n“Issues of extinction are excluded.”\n\t\t\t\nGood morning!\n\t\t\t\nElon Musk’s worst enemy in court is Elon Musk\n\t\t\t\nFreedom!\n\t\t\t\nUnfortunately we will not be talking about safety details of any specific product.\n\t\t\t\nThe jury is leaving for the day. “I suspect it’s a nice day out there,” YGR says.\n\t\t\t\nMechaHitler might be a bad look for the AI safety defender.\n\t\t\t\nMusk’s broader AI safety commitment (or lack thereof) comes up.\n\t\t\t\nThis is so testy.\n\t\t\t\nDid Musk even read the OpenAI term sheet?\n\t\t\t\nMusk asked Shivon Zilis to stay “close and friendly” with OpenAI to keep info flowing.\n\t\t\t\nMusk says xAI probably won’t be the first to get to AGI.\n\t\t\t\nWe’re back from a break, talking about SpaceX and xAI.\n\t\t\t\nDon’t worry about Tesla’s robot army!\n\t\t\t\n“You mostly do unfair questions.”\n\t\t\t\n“It’s a free country.”\n\t\t\t\n“Will you answer my question?”\n\t\t\t\nMusk’s desire for control comes up again.\n\t\t\t\n“This is a hypothetical.”\n\t\t\t\nDid Musk initially envision OpenAI as a corporation?\n\t\t\t\nMusk is being combative on cross already.\n\t\t\t\n“I did say that I would commit up to a billion dollars, yes.”\n\t\t\t\nIs Tesla really not working on AGI?\n\t\t\t\nMusk is returning to the stand.\n\t\t\t\nAt times, being a judge is much like being a kindergarten teacher.\n\t\t\t\nWe’re on a break.\n\t\t\t\n“I mean, all due respect to Microsoft, do you really want Microsoft controlling digital superintelligence?”\n\t\t\t\n“What’s going on here this is a bait and switch.”\n\t\t\t\nA Musk-Altman spat about Microsoft.\n\t\t\t\nMusk really cannot help himself.\n\t\t\t\n“Capped profit” wasn’t an issue, even when Microsoft got involved.\n\t\t\t\n“Tesla is not pursuing AGI.”\n\t\t\t\nMusk is more on his game today.\n\t\t\t\n“After I received these reassurances that OpenAI would continue to be a nonprofit I continued to donate over $10 million.”\n\t\t\t\n“I actually was a fool who provided free funding for them to create a startup.”\n\t\t\t\nMore discussion of who would own OpenAI.\n\t\t\t\n“I don’t lose my temper,” says Elon Musk.\n\t\t\t\n“2017 was a hard year, and we’ve made mistakes.”\n\t\t\t\n“I formed many for-profit tech companies, and could have done so with OAI,”\n\t\t\t\n“Crystal clear focus.”\n\t\t\t\nSam Altman has just entered the room, right ahead of the jury.\n\t\t\t\nA member of the public just got dressed down by YGR about taking photos.\n\t\t\t\nMusk v. Altman et al. is back in session.\n\t\t\t\nIn naming OpenAI, Elon Musk worried anything related to the Turing Test could mean bad PR.\n\t\t\t\nElon Musk appeared more petty than prepared\n\t\t\t\nThat’s a wrap!\n\t\t\t\nYGR scolds OpenAI for taking inconsistent positions on the origin of its name.\n\t\t\t\nElon Musk tells the jury that all he wants to do is save humanity\n\t\t\t\nArguments over ownership.\n\t\t\t\nApparently OpenAI could have had an ICO.\n\t\t\t\n“I was not averse to a small for-profit,” Musk says.\n\t\t\t\nWe’re reading emails between Musk and Jensen Huang.\n\t\t\t\nMusk says nonprofit was non-negotiable for OpenAI.\n\t\t\t\nWe’re at the founding of OpenAI.\n\t\t\t\nMusk says he would have created something like OpenAI on his own.\n\t\t\t\nMusk recalls meeting Sam Altman.\n\t\t\t\nSam Altman left during a break, but Elon Musk’s lawyer didn’t notice.\n\t\t\t\n“Here we are in 2026 and AI is scary smart.”\n\t\t\t\n“I have extreme concerns about AI,” says Musk.\n\t\t\t\nAI will be as smart as “any human as soon as next year.”\n\t\t\t\nMusk claims he has time for SpaceX, Tesla, Neuralink, and the Boring Company because he works a lot.\n\t\t\t\nMusk is telling the jury he (co)founded Tesla.\n\t\t\t\nNeuralink’s long-term goal is… AI?\n\t\t\t\n“There need to be things that people are excited about that make life worth living … Being out there among the stars can excite everyone.”\n\t\t\t\nA little Musk biography.\n\t\t\t\nElon Musk, looking funereal in a black suit with a black tie, says “it’s not okay to steal a charity.”\n\t\t\t\nElon Musk takes the stand in high-profile trial against OpenAI\n\t\t\t\nWe are back from a break.\n\t\t\t\nElon Musk will be the first witness in Musk v. Altman.\n\t\t\t\n“Microsoft unlocked with OpenAI a virtuous cycle.”\n\t\t\t\nMicrosoft enters the chat.\n\t\t\t\n“We are here because Mr. Musk didn’t get his way at OpenAI.”\n\t\t\t\n“[Musk] demanded control, he demanded the ability to make all the decisions without regard to the other founders.”\n\t\t\t\nOpenAI lawyers argue that Elon was right in the middle of discussions about a for-profit pivot.\n\t\t\t\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial.\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v. Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
-    "pubDate": "2026-05-04T15:43:49.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sam Altman und Elon Musk stehen sich in einem hochriskanten Prozess gegenüber, der die Zukunft von OpenAI und seinem bekanntesten Produkt, ChatGPT, verändern könnte. Im Jahr 2024 reichte Musk eine Klage ein, in der er OpenAI beschuldigte, seine Gründungsmission, KI zum Nutzen der Menschheit zu entwickeln, aufgegeben und den Fokus auf die Steigerung der Gewinne verlagert zu haben ...",
-    "titleDE": "Live-Updates vom Gerichtsstreit zwischen Elon Musk und Sam Altman über die Zukunft von OpenAI"
-  },
-  {
     "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
     "description": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
@@ -148,26 +508,6 @@
     "category": "news",
     "descriptionDE": "Ereignisgesteuerte Webhooks sind ein Push-basiertes Benachrichtigungssystem, das ineffiziente Abfragen überflüssig macht.",
     "titleDE": "Reduzieren Sie Reibung und Latenz für lang laufende Jobs mit Webhooks in der Gemini API"
-  },
-  {
-    "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "description": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
-    "pubDate": "2026-05-04T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das BOGO-Angebot ist live. Kaufen Sie für begrenzte Zeit einen Pass für TechCrunch Disrupt 2026 und erhalten Sie 50 % Rabatt auf einen zweiten Pass desselben Tickettyps. Das Angebot endet diesen Freitag, den 8. Mai. Hier speichern.",
-    "titleDE": "Nur 5 Tage: Bringen Sie einen Partner oder Kollegen mit und erhalten Sie 50 % Rabatt auf einen zweiten TechCrunch Disrupt 2026-Pass"
-  },
-  {
-    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-    "description": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-    "pubDate": "2026-05-04T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "DoorDash hat am Montag neue KI-gestützte Tools hinzugefügt, mit denen Händler das Onboarding beschleunigen, Fotos bearbeiten können, um Gerichte besser aussehen zu lassen, und neue Websites aus vorhandenen Inhalten erstellen können.",
-    "titleDE": "DoorDash fügt KI-Tools hinzu, um das Onboarding von Händlern zu beschleunigen und Fotos von Gerichten zu bearbeiten"
   },
   {
     "title": "Tailoring AI solutions for health care needs",
@@ -190,86 +530,6 @@
     "titleDE": "Wie OpenAI skalierbare Sprach-KI mit geringer Latenz bereitstellt"
   },
   {
-    "title": "‘This is fine’ creator says AI startup stole his art",
-    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-    "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-    "pubDate": "2026-05-03T20:16:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Anzeige stammt von Artisan, dem KI-Startup hinter Werbetafeln, das Unternehmen dazu auffordert, „keine Menschen mehr einzustellen“.",
-    "titleDE": "„Das ist in Ordnung“, sagt der Schöpfer, KI-Startup habe seine Kunst gestohlen"
-  },
-  {
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-    "pubDate": "2026-05-03T18:00:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Eine neue Studie untersucht, wie große Sprachmodelle in verschiedenen medizinischen Kontexten funktionieren, einschließlich realer Notaufnahmen – bei denen mindestens ein Modell genauer zu sein schien als menschliche Ärzte.",
-    "titleDE": "In einer Harvard-Studie lieferte KI genauere Diagnosen in der Notaufnahme als zwei menschliche Ärzte"
-  },
-  {
-    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-    "link": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-    "description": "Downey at home in LA with one of his channel’s frequent guest stars. | Image: The Verge; Shutterstock\t\n\nIt's not hyperbole to call DualShot Recorder an overnight sensation. \nIt took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a cadre of friendly neighborhood squirrels and their favorite caretaker.\nDerrick Downey Jr. built a career on short-form videos documenting his interactions with the squirrels that visit his patio in LA. His Instagram and TikTok accounts each have well over a million followers (myself included) who know well the regular cast of characters: Maxine, Richard, …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-03T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Downey zu Hause in LA mit einem der häufigen Gaststars seines Senders. | Bild: The Verge; Shutterstock Es ist keine Übertreibung, den DualShot Recorder als eine Sensation über Nacht zu bezeichnen. Es dauerte nur 12 Stunden nach der Veröffentlichung, bis es auf Platz eins der App Store-Liste der bestbezahlten Apps landete. Es war eine Überraschung...",
-    "titleDE": "Wie der beliebteste Eichhörnchen-Vater im Internet die heißeste Kamera-App des Jahres 2026 erstellt hat"
-  },
-  {
-    "title": "AI music is flooding streaming services — but who wants it?",
-    "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe use of generative AI in pop music started almost as a gimmick. There was a sense of experimentalism to 2018's I AM AI by Taryn Southern and 2019's Proto by Holly Herndon, albums that were created with significant assistance from AI. Others got in on the action too, exploring the outer limits of tools like Google's Magenta and even training their own mod …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-03T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Um mehr darüber zu erfahren, wie KI die Musik und die Musikindustrie verändert, folgen Sie Terrence O'Brien. Der Stepback erreicht die Posteingänge unserer Abonnenten um 8 Uhr ET. Melden Sie sich hier für The Stepback an. Wie es begann Die Verwendung von g...",
-    "titleDE": "KI-Musik überschwemmt Streaming-Dienste – aber wer will das schon?"
-  },
-  {
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "description": "The Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards.",
-    "pubDate": "2026-05-02T21:54:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Academy of Motion Picture Arts and Sciences sagte, dass nur Darbietungen, „die in der gesetzlichen Abrechnung des Films aufgeführt sind und nachweislich von Menschen mit deren Zustimmung aufgeführt wurden“, für die Oscar-Verleihung in Frage kommen.",
-    "titleDE": "KI-generierte Schauspieler und Drehbücher sind jetzt für Oscars ausgeschlossen"
-  },
-  {
-    "title": "The best AI dictation apps, tested and ranked",
-    "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "pubDate": "2026-05-02T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI-gestützte Diktier-Apps sind nützlich, um E-Mails zu beantworten, Notizen zu machen und sogar mit Ihrer Stimme zu programmieren",
-    "titleDE": "Die besten KI-Diktier-Apps, getestet und bewertet"
-  },
-  {
-    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-    "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-    "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: In a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
-    "pubDate": "2026-05-01T23:06:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Auf der ausverkauften StrictlyVC-Veranstaltung von TechCrunch in San Francisco am Donnerstagabend haben wir in kurzer Zeit viel erreicht, angefangen mit der Frage, die sich derzeit jeder in der Branche stellt: In einer Welt, in der der Rivale Cursor Berichten zufolge Gespräche über die Übernahme durch SpaceX für 60 Milliarden US-Dollar führt, ist Replit...",
-    "titleDE": "Amjad Masad von Replit über den Cursor-Deal, den Kampf gegen Apple und warum er lieber nicht verkaufen möchte"
-  },
-  {
-    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-    "pubDate": "2026-05-01T22:13:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta kaufte das humanoide Startup Assured Robot Intelligence, um seine KI-Modelle für Roboter zu verbessern, sagte das Unternehmen.",
-    "titleDE": "Meta kauft Robotik-Startup, um seine Ambitionen im Bereich humanoide KI zu stärken"
-  },
-  {
     "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
     "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
     "description": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
@@ -280,16 +540,6 @@
     "titleDE": "Musk vs. Altman Woche 1: Elon Musk sagt, er sei betrogen worden, warnt davor, dass KI uns alle töten könnte, und gibt zu, dass xAI die Modelle von OpenAI destilliert"
   },
   {
-    "title": "All the evidence revealed so far in Musk v. Altman",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-    "description": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-01T19:14:51.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Prozess Musk gegen Altman ist im Gange, und das bedeutet, dass Beweisstücke oder Beweise, die vor Gericht vorgelegt werden sollen, Stück für Stück enthüllt werden. Bisher kursieren E-Mail-Austausch, Fotos und Unternehmensdokumente aus den Anfängen von OpenAI – und aus der Zeit, bevor das KI-Labor überhaupt einen Namen hatte. Einige hoch...",
-    "titleDE": "Alle bisher im Fall Musk gegen Altman enthüllten Beweise"
-  },
-  {
     "title": "Ubuntu infrastructure has been down for more than a day",
     "link": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
     "description": "The outage has hampered communication concerning a critical vulnerability that gives root.",
@@ -298,26 +548,6 @@
     "category": "news",
     "descriptionDE": "Der Ausfall hat die Kommunikation bezüglich einer kritischen Sicherheitslücke behindert, die einen Fehler verursacht.",
     "titleDE": "Die Ubuntu-Infrastruktur ist seit mehr als einem Tag ausgefallen"
-  },
-  {
-    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-    "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
-    "pubDate": "2026-05-01T17:44:29.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musk verbrachte diese Woche fast drei Tage im Zeugenstand in seiner Klage gegen OpenAI, und schon wird es chaotisch. Vor Gericht tauchen E-Mails, Textnachrichten und seine eigenen Tweets auf, und es werden noch viele weitere Zeugen hinzukommen. Musks Argument gegen OpenAI? Durch die Umwandlung des Unternehmens...",
-    "titleDE": "Wussten Sie, dass Sie eine Wohltätigkeitsorganisation nicht stehlen können? Mach dir keine Sorge. Elon Musk wird Sie daran erinnern."
-  },
-  {
-    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-    "pubDate": "2026-05-01T16:02:36.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Deals kommen zustande, da das US-Verteidigungsministerium nach dem kontroversen Streit mit Anthropic über die Nutzungsbedingungen seiner KI-Modelle sein Engagement bei KI-Anbietern verstärkt diversifiziert hat.",
-    "titleDE": "Pentagon schließt Verträge mit Nvidia, Microsoft und AWS ab, um KI in geheimen Netzwerken einzusetzen"
   },
   {
     "title": "Cyber-Insecurity in the AI Era",
@@ -340,46 +570,6 @@
     "titleDE": "Operationalisierung der KI für Skalierung und Souveränität"
   },
   {
-    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-    "description": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - after declaring it a supply-chain risk.\nThis builds upon deals with OpenAI and xAI, which have already reached agreements with the Pentagon for the \"lawful\" use of their AI systems. A report from The Information suggests Google has struck a similar agreement. As noted by The Wall Street Journal, Mi …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-01T14:09:56.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut einer Ankündigung vom Freitag hat das Pentagon Verträge mit OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musks xAI und dem Startup Reflection abgeschlossen, die es der Behörde ermöglichen, ihre KI-Tools in geheimen Umgebungen einzusetzen. Gleichzeitig hat das Verteidigungsministerium Anthropic weggelassen – was...",
-    "titleDE": "Das Pentagon schließt geheime KI-Deals mit OpenAI, Google und Nvidia ab – aber nicht mit Anthropic"
-  },
-  {
-    "title": "Musk v. Altman is just getting started",
-    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-    "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
-    "pubDate": "2026-05-01T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musk verbrachte diese Woche fast drei Tage im Zeugenstand in seiner Klage gegen OpenAI, und schon wird es chaotisch. Vor Gericht tauchen E-Mails, Textnachrichten und seine eigenen Tweets auf, und es werden noch viele weitere Zeugen hinzukommen. Musks Argument gegen OpenAI? Durch die Umwandlung des Unternehmens...",
-    "titleDE": "Musk vs. Altman fängt gerade erst an"
-  },
-  {
-    "title": "Elon Musk had a bad week in court",
-    "link": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-    "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nInstead, Musk spent much of the week arguing with lawyers (including his own!), changing his story, an …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-01T13:33:15.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Elon Musk ist derjenige, der diesen Prozess wollte. Er hat Monate damit verbracht, zu behaupten, OpenAI habe „eine gemeinnützige Organisation gestohlen“ und er sei die eigentliche treibende Kraft hinter einem der derzeit wichtigsten Technologieunternehmen. Alles deutet darauf hin, dass er seinen Prozess gegen das Unternehmen nicht gewinnen wird, aber er kämpft trotzdem dagegen ...",
-    "titleDE": "Elon Musk hatte eine schlechte Woche vor Gericht"
-  },
-  {
-    "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-    "description": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly (and cheaply) whip up images and videos of just about anything. But often, what their clients are looking for are dramatic animations inspired by the Christian Bible.\nOn TikTok, YouTube, Instagram, and Facebook it is very easy to stumble across AI-generated clips that retell stories from the Bible. Lik …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-01T13:25:25.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Anfangs waren Plattformen wie Fiverr Orte, an denen Menschen Freiberufler einstellen konnten, die spezialisierte kreative Arbeit leisteten und dabei Fähigkeiten nutzten, deren Entwicklung Jahre dauerte. Im Zeitalter der generativen KI haben sich jedoch viele dieser Gig-Worker die Technologie zu eigen gemacht, um den Anforderungen der Kunden gerecht zu werden. Diese funktionieren...",
-    "titleDE": "Christliche Content-Ersteller lagern die KI-Arbeit an Gig-Worker auf Fiverr aus"
-  },
-  {
     "title": "The Download: a new Christian phone network, and debugging LLMs",
     "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
@@ -387,17 +577,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein neues US-Telefonnetz für Christen soll pornografische und geschlechtsbezogene Inhalte blockieren. Ein neues US-weites Mobilfunknetz für Christen soll nächstes Jahr in Betrieb gehen ...",
-    "titleDE": "Der Download: ein neues christliches Telefonnetz und Debugging-LLMs"
-  },
-  {
-    "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-    "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-    "description": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts.\n\"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing clearly defined, repeatable tasks like reviewing contracts clause by clause against a playbook,\" explains Sumit Chauhan, corporate vice president of Microsoft's Office Product Group. \nThe Legal Agent can work with existing documents that have tracked changes, and analyz …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-01T11:18:54.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Microsoft führt einen neuen KI-Agenten in Word ein, der speziell für Rechtsteams entwickelt wurde. Legal Agent kümmert sich um Dokumentbearbeitungen, den Verhandlungsverlauf und komplexe Dokumente, um Rechtsteams bei der Bewältigung von Aufgaben wie der Überprüfung von Verträgen zu unterstützen. „Anstatt sich bei der Interpretation von Befehlen auf allgemeine KI-Modelle zu verlassen, ...",
-    "titleDE": "Microsoft möchte, dass Anwälte seinem neuen KI-Agenten in Word-Dokumenten vertrauen"
+    "titleDE": "Der Download: ein neues christliches Telefonnetz und das Debuggen von LLMs"
   },
   {
     "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
@@ -410,46 +590,6 @@
     "titleDE": "Kostengünstige Tauchboote, die über den Meeresboden springen, könnten die Tiefseewissenschaft und den Bergbau ankurbeln"
   },
   {
-    "title": "Trump’s mass firing just dealt another blow to American science",
-    "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-    "description": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
-    "pubDate": "2026-05-01T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die vergangene Woche hat der Wissenschaft in den USA einen weiteren Schlag ins Gesicht geliefert. Dieses Mal war das Ziel die National Science Foundation – eine Bundesbehörde, die große Forschungsprojekte im Wert von rund 9 Milliarden US-Dollar finanziert. Die Bemühungen der Stiftung wurden von einem Vorstand aus 22 prominenten Wissenschaftlern überwacht. Am Freitag la...",
-    "titleDE": "Trumps Massenentlassungen haben der amerikanischen Wissenschaft einen weiteren Schlag versetzt"
-  },
-  {
-    "title": "A new US phone network for Christians aims to block porn and gender-related content",
-    "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-    "description": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter…",
-    "pubDate": "2026-05-01T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Nächste Woche soll ein neues US-weites Mobilfunknetz für Christen an den Start gehen. Es blockiert Pornos, was laut Experten für Netzwerksicherheit das erste Mal ist, dass ein US-Mobilfunktarif eine Sperrung auf Netzwerkebene für solche Inhalte einsetzt, die selbst von erwachsenen Kontoinhabern nicht deaktiviert werden kann. Es rollt auch aus ...",
-    "titleDE": "Ein neues US-Telefonnetzwerk für Christen zielt darauf ab, pornografische und geschlechtsbezogene Inhalte zu blockieren"
-  },
-  {
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "description": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-    "pubDate": "2026-05-01T02:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Benutzer in Indien nutzen ChatGPT Images 2.0 für kreative, persönliche Bilder – von Avataren bis hin zu filmischen Porträts.",
-    "titleDE": "ChatGPT Images 2.0 ist in Indien ein Hit, anderswo jedoch noch kein großer Gewinner"
-  },
-  {
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-    "pubDate": "2026-04-30T23:07:56.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut mit der Angelegenheit vertrauten Quellen fordert Anthropic Investoren dazu auf, innerhalb der nächsten 48 Stunden Zuteilungen für die neueste Spendenaktion des KI-Unternehmens einzureichen.",
-    "titleDE": "Quellen: Die potenzielle Bewertungsrunde von Anthropic über 900 Milliarden US-Dollar könnte innerhalb von zwei Wochen stattfinden"
-  },
-  {
     "title": "The most severe Linux threat to surface in years catches the world flat-footed",
     "link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
     "description": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
@@ -457,76 +597,6 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "CopyFail bedroht Multi-Tenant-Server, CI/CD-Workflows, Kubernetes-Container und mehr.",
-    "titleDE": "Die schwerwiegendste Linux-Bedrohung, die seit Jahren auftaucht, trifft die Welt auf dem falschen Fuß"
-  },
-  {
-    "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-    "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-    "description": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. byAntonio Regalado March 30, 2026 Related Stories: Access all subscriber-only eBooks:",
-    "pubDate": "2026-04-30T18:42:50.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Der ultimative Plan für ein ewiges Leben ist ein brandneuer Körper. Dieses nur für Abonnenten zugängliche E-Book befasst sich mit R3 Bio, einem kleinen Startup, das eine verblüffende und ethisch anspruchsvolle Vision für „hirnlose Klone“ entwickelt hat, die als Ersatz für menschliche Körper dienen sollen. vonAntonio Regalado 30. März 2026 Ähnliche Geschichten: Zugriff auf alle ...",
-    "titleDE": "Exklusives E-Book: Einblick in das heimliche Startup, das hirnlose menschliche Klone auf den Markt brachte"
-  },
-  {
-    "title": "Introducing Advanced Account Security",
-    "link": "https://openai.com/index/advanced-account-security",
-    "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-    "pubDate": "2026-04-30T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Einführung der erweiterten Kontosicherheit: Phishing-resistente Anmeldung, stärkere Wiederherstellung und verbesserte Schutzmaßnahmen zum Schutz vertraulicher Daten und zur Verhinderung von Kontoübernahmen.",
-    "titleDE": "Einführung der erweiterten Kontosicherheit"
-  },
-  {
-    "title": "Where the goblins came from",
-    "link": "https://openai.com/index/where-the-goblins-came-from",
-    "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-    "pubDate": "2026-04-29T20:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wie sich Goblin-Ausgaben in KI-Modellen verbreiten: Zeitleiste, Grundursache und Lösungen für persönlichkeitsbedingte Macken im GPT-5-Verhalten.",
-    "titleDE": "Woher die Kobolde kamen"
-  },
-  {
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-    "pubDate": "2026-04-29T15:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI skaliert Stargate, um die Recheninfrastruktur für AGI aufzubauen und fügt neue Rechenzentrumskapazitäten hinzu, um der wachsenden KI-Nachfrage gerecht zu werden.",
-    "titleDE": "Aufbau der Recheninfrastruktur für das Intelligenzzeitalter"
-  },
-  {
-    "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
-    "link": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
-    "description": "Security firms find themselves especially exposed.",
-    "pubDate": "2026-04-29T11:00:24.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Besonders gefährdet sehen sich Sicherheitsfirmen.",
-    "titleDE": "Warum ein kürzlich erfolgter Supply-Chain-Angriff die Sicherheitsfirmen Checkmarx und Bitwarden ins Visier nahm"
-  },
-  {
-    "title": "Cybersecurity in the Intelligence Age",
-    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-    "pubDate": "2026-04-29T04:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI skizziert einen fünfteiligen Aktionsplan zur Stärkung der Cybersicherheit im Zeitalter der Intelligenz, der sich auf die Demokratisierung der KI-gestützten Cyberabwehr und den Schutz kritischer Systeme konzentriert.",
-    "titleDE": "Cybersicherheit im Zeitalter der Intelligenz"
-  },
-  {
-    "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-    "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-    "description": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
-    "pubDate": "2026-04-28T16:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Google teilt anlässlich des 20-jährigen Jubiläums von Google Translate 20 unterhaltsame Fakten mit – von den Anfängen als KI-Experiment im Jahr 2006 bis hin zur Unterstützung von heute fast 250 Sprachen.",
-    "titleDE": "Wir feiern 20 Jahre Google Translate: Interessante Fakten, Tipps und neue Funktionen zum Ausprobieren"
+    "titleDE": "Die schwerwiegendste Linux-Bedrohung, die seit Jahren auftaucht, erwischt die Welt auf dem falschen Fuß"
   }
 ]
