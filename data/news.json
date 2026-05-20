@@ -1,5 +1,445 @@
 [
   {
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "pubDate": "2026-05-20T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI treibt „Education for Countries“ voran und erweitert die KI-Einführung in Schulen durch neue Partnerschaften, Lehrerausbildung und Tools zur Verbesserung globaler Lernergebnisse.",
+    "titleDE": "Die nächste Phase von OpenAIs Bildung für Länder"
+  },
+  {
+    "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+    "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+    "description": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying:\nGoogle's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that we were standing in the foothills of the singularity. \nIt will be a profound moment for humanity. This technology will be a force multiplier for human ingenuity and usher in a new golden age of scientific discovery and progress, improving the lives of everyone, everywhere. We look forward to bu …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T22:16:02.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Willkommen in einem „tiefgreifenden Moment für die Menschheit“, so Demis Hassabis, CEO von Google DeepMind, der am Dienstag die Keynote-Präsentation von Google I/O mit den Worten abschloss: „Googles Spitzenforschung und Produkte werden dazu beitragen, das unglaubliche Potenzial von AGI zum Nutzen der ganzen Welt freizusetzen.“ Wenn wir schauen...",
+    "titleDE": "Demis Hassabis sagte, dies könnten die „Ausläufer der Singularität“ sein. Was?"
+  },
+  {
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "description": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "pubDate": "2026-05-19T21:33:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google gibt an, die App so konzipiert zu haben, dass sie für jedermann zugänglich ist, vom Lehrer bis zum Kleinunternehmer.",
+    "titleDE": "Google hat sich gerade auf der IO 2026 zum Kandidaten für KI-Design erklärt"
+  },
+  {
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "description": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "pubDate": "2026-05-19T21:25:31.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google erweitert den KI-Posteingang von Gmail um eine Konversations-Sprachsuche, sodass Nutzer Gemini bitten können, vergrabene E-Mail-Details zu finden.",
+    "titleDE": "Sie können jetzt mit Ihrem Gmail-Posteingang kommunizieren, wie bei Google IO 2026 zu sehen ist"
+  },
+  {
+    "title": "The future of Google is a search box that does everything",
+    "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
+    "description": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box.\nTake the trusty Google search bar itself, something Google is generally hesitant to update, which is getting some updates. It will \"dynamically\" expand as you type longer queries. It will offer \"AI-powered suggestions\" that Google claims will \"go beyond autocomplete,\" which could cause you to fill in the blanks of a search in a way you didn't intend and that may or  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T21:24:14.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nachdem ich mir letztes Jahr die I/O-Keynote von Google angesehen hatte, schrieb ich, dass es sich anfühlte, als ob die Zukunft von Google darin bestünde, Google zu googeln. Nachdem ich mir die diesjährige I/O-Keynote am Dienstag angesehen habe, glaube ich nicht, dass Google nur für Sie googeln möchte – ich denke, dass es alles für Sie erledigen möchte, alles über ein Suchfeld. Nehmen Sie das vertrauenswürdige Goog...",
+    "titleDE": "Die Zukunft von Google ist ein Suchfeld, das alles kann"
+  },
+  {
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "pubDate": "2026-05-19T21:16:25.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google führt KI-gestützte „Informationsagenten“ ein, die Themen im Hintergrund überwachen und Benutzer proaktiv auf Aktualisierungen und Änderungen aufmerksam machen können.",
+    "titleDE": "So nutzen Sie die neuen KI-Agenten von Google, um über Ihre Standardsuchen hinauszugehen"
+  },
+  {
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "description": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+    "pubDate": "2026-05-19T21:08:51.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ocean, eine Agenten-E-Mail-Sicherheitsplattform, behauptet, dass ihre KI den Kontext jeder eingehenden E-Mail gründlich analysieren kann, um Betrugs- und Nachahmungsversuche zu erkennen.",
+    "titleDE": "Vom jugendlichen Hacker zum Iron Dome-Forscher sammelte dieser Gründer 28 Millionen US-Dollar, um KI-Phishing zu bekämpfen"
+  },
+  {
+    "title": "Google’s AI future demands trust — and your personal data",
+    "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+    "description": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown of what to expect during your day. Google is even expanding access to Gmail's AI inbox, which can generate custom to-do lists and draft personalized replies based on your emails.\nMany of these features seem genuinely useful, but at the heart of each of them is an AI engine that runs on a trove of personal information. While other AI companies, …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T21:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google hat große Versprechen für seine KI-gestützte Zukunft – und vieles davon hängt von Ihrem Vertrauen ab. Auf der I/O 2026 stellte Google eine Reihe neuer Tools vor, von denen es behauptet, dass sie Ihnen das Leben erleichtern werden. Gemini Spark, der ständig verfügbare KI-Agent von Google, kann bei der Organisation einer bevorstehenden Veranstaltung helfen, während Daily Brief einen Überblick bieten kann ...",
+    "titleDE": "Die KI-Zukunft von Google erfordert Vertrauen – und Ihre persönlichen Daten"
+  },
+  {
+    "title": "Introducing OpenAI for Singapore",
+    "link": "https://openai.com/index/introducing-openai-for-singapore",
+    "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "pubDate": "2026-05-19T20:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI für Singapur startet eine mehrjährige KI-Partnerschaft, um den Einsatz zu erweitern, lokale Talente aufzubauen und Unternehmen und öffentliche Dienste mit KI zu unterstützen.",
+    "titleDE": "Einführung von OpenAI für Singapur"
+  },
+  {
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "description": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in…",
+    "pubDate": "2026-05-19T20:15:18.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Hören Sie sich die Sitzung an oder schauen Sie unten zu. Elon Musk verlor seine Klage gegen OpenAI, in der er behauptete, CEO Sam Altman und Präsident Greg Brockman hätten ihn über den gemeinnützigen Status des Unternehmens getäuscht. Sehen Sie zu, wie die KI-Reporterin und Anwältin Michelle Kim, die für MIT Technology Review über den Prozess berichtete, mitmacht ...",
+    "titleDE": "Runde Tische: Im Prozess Musk gegen Altman"
+  },
+  {
+    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "description": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+    "pubDate": "2026-05-19T20:11:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die schnelle Entscheidung der Jury, die Klage von Elon Musk gegen die anderen Gründer von OpenAI und Microsoft abzulehnen, bestätigte, was wir im Gerichtssaal sahen: Musks Klage war schwach, teilweise weil er so lange mit der Einreichung gewartet hatte.",
+    "titleDE": "Elon Musk sagte, Sam Altman habe eine gemeinnützige Organisation „gestohlen“ – aber der Prozess zeigte, dass er ähnliche Ziele hatte"
+  },
+  {
+    "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+    "description": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+    "pubDate": "2026-05-19T19:15:31.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google nennt die neuen Geräte „Audiobrillen“, da Benutzer ihnen über sein Ökosystem aus Apps und Diensten, darunter Gemini, verbale Befehle erteilen und Dinge erledigen können.",
+    "titleDE": "Google orientiert sich an Metas Buch und kündigt auf der IO 2026 neue audiobetriebene Datenbrillen an"
+  },
+  {
+    "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+    "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+    "description": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+    "pubDate": "2026-05-19T18:27:08.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "SSH-Schlüssel, Klartext-Passwörter und andere sensible Daten waren seit November 2025 im Umlauf.",
+    "titleDE": "In atemberaubender Darstellung dummer, geheimer CISA-Anmeldeinformationen, die im öffentlichen GitHub-Repo gefunden wurden"
+  },
+  {
+    "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+    "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+    "description": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded Android Automotive as its vehicle operating system.\nGoogle posits that the first use case will be to ask Gemini to translate difficult-to-understand parking signs, though the company obviously sees other future applications as possible as well. Google envisions a camera-enabled Gemini recalling a road sign, inte …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Zwillinge gewinnen die Kraft des Sehens und der Mobilität. Google und Volvo gaben heute auf der I/O-Konferenz bekannt, dass der KI-gestützte Assistent im kommenden SUV EX60 auf externe Kameras zugreifen kann, um Fahrzeugbesitzern die Umgebung zu erklären und zu interpretieren. Das Upgrade ist möglich dank...",
+    "titleDE": "Gemini wird die externen Kameras von Volvo nutzen, um Parkschilder zu interpretieren"
+  },
+  {
+    "title": "The 13 biggest announcements at Google I/O 2026",
+    "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+    "description": "Google CEO Sundar Pichai on stage at I/O 2026. | Screenshot: YouTube\t\n\nGoogle's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses.\nIf you weren't able to tune into the event's livestream today or follow along with our live blog, you can catch up on everything you missed in our roundup below.\nGemini 3.5\nGoogle launched updated AI models at I/O, starting with Gemini 3.5 Flash, with Gemini 3.5 Pro following next month. Starting today, Gemini 3.5 Flash will be the default model for the Gemini app and AI Mode in Search. Google says the new model is significantly  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T17:54:33.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google-CEO Sundar Pichai auf der Bühne der I/O 2026. | Screenshot: YouTube Die heutige Keynote zur I/O 2026 von Google war wieder voller KI-bezogener Ankündigungen, darunter eine neue Familie von Gemini 3.5 AI-Modellen, neue Funktionen für Suche und Gmail sowie Updates zu den Datenbrillen Project Aura. Wenn du nicht in der Lage wärst...",
+    "titleDE": "Die 13 größten Ankündigungen auf der Google I/O 2026"
+  },
+  {
+    "title": "Google’s Genie world model can now simulate real streets with Street View",
+    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+    "description": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+    "pubDate": "2026-05-19T17:51:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google DeepMind integriert Street View mit Project Genie, um immersive, interaktive Weltsimulationen für Robotik, Spiele und Reisen zu erstellen und es Benutzern zu ermöglichen, Umgebungen, Wetteränderungen und seltene Szenarien zu erkunden.",
+    "titleDE": "Das Genie-Weltmodell von Google kann jetzt mit Street View echte Straßen simulieren"
+  },
+  {
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "pubDate": "2026-05-19T17:51:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google stellte auf der jährlichen Entwicklerkonferenz des Unternehmens Gemini 3.5 Flash vor, sein bisher leistungsstärkstes Codierungs- und Agenten-KI-Modell. Es ist in der Lage, komplexe Aufgaben autonom auszuführen und Software von Grund auf zu erstellen.",
+    "titleDE": "Mit Gemini 3.5 Flash setzt Google seine nächste KI-Welle auf Agenten, nicht auf Chatbots"
+  },
+  {
+    "title": "Google wants to compete with Anthropic’s Mythos",
+    "link": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+    "description": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally - and marketing it as a way to, as Google DeepMind CTO Koray Kavukcuoglu put it, \"help secure the world's code bases\" by both flagging and fixing vulnerabilities. \nAnthropic's surprise Claude Mythos Preview announcement seemed to shock the AI world - and a ton of others, like top banks and the Federal Reserve chair. So, led by Anthropic's news, a  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T17:48:22.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google unternimmt große Fortschritte in der Cybersicherheit. Auf der I/O gab das Unternehmen bekannt, dass es ausgewählte Expertengruppen einlädt, die API für CodeMender zu testen, einen „KI-Agenten für Codesicherheit“, den es im vergangenen Oktober erstmals vorgestellt hatte. Der Unterschied besteht darin, dass Google das Tool jetzt extern breiter verfügbar macht –...",
+    "titleDE": "Google möchte mit Mythos von Anthropic konkurrieren"
+  },
+  {
+    "title": "Google Search as you know it is over",
+    "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+    "description": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+    "pubDate": "2026-05-19T17:46:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google verwandelt die Suche von einer Linkliste in ein KI-gestütztes Erlebnis mit gesprächigen Antworten, autonomen Agenten und interaktiven Schnittstellen – ein Wandel, der den Traffic zu Publishern im gesamten Web weiter reduzieren könnte.",
+    "titleDE": "Die Google-Suche, wie Sie sie kennen, ist vorbei"
+  },
+  {
+    "title": "Google can now vibe-code you an Android app",
+    "link": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+    "description": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps.\nWith Google AI Studio, you can prompt your idea for an app and preview it with an embedded emulator of Android. When you want to try it out on an actual phone, you can connect an Android device to your computer and install it. In the future, you'll also be able to invite app testers from AI Studio.\nIt sounds like you won't be able to whip up just any old app of your dreams, though; in a blog post, Google says that this \"initial release\" of the functionality is focused on \"personal utility\" apps  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google kündigt ein großes Upgrade einer seiner Vibe-Coding-Plattformen an: Ab heute können Sie mit AI Studio native Android-Apps erstellen. Mit Google AI Studio können Sie Ihre Idee für eine App einreichen und sie mit einem eingebetteten Android-Emulator in der Vorschau anzeigen. Wenn Sie es an einem tatsächlichen Ort ausprobieren möchten ...",
+    "titleDE": "Google kann Ihnen jetzt einen Vibe-Code für eine Android-App zuweisen"
+  },
+  {
+    "title": "Would you let robots spend your money? Google is betting on it",
+    "link": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
+    "description": "Google is going all in on AI-driven shopping even as some competitors back off. \nAt Google I/O, the company unveiled the latest iteration of its AI commerce tools: a \"Universal Cart\" that works across different retailers and Google products like Gemini - and eventually YouTube and Gmail, too. Users can add products to Google's universal cart as they browse Search and chat with Gemini and then check out through Google. The cart will also track prices, provide in-stock notifications, suggest potential discounts, and alert shoppers to potential issues with their selections. \nDespite the transformative changes AI has brought to the workplace,  …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google setzt voll auf KI-gesteuertes Einkaufen, auch wenn einige Konkurrenten zurückschrecken. Auf der Google I/O stellte das Unternehmen die neueste Version seiner KI-Commerce-Tools vor: einen „Universal Cart“, der bei verschiedenen Einzelhändlern und Google-Produkten wie Gemini – und schließlich auch YouTube und Gmail – funktioniert. Benutzer c...",
+    "titleDE": "Würden Sie Roboter Ihr Geld ausgeben lassen? Google setzt darauf"
+  },
+  {
+    "title": "Google Search is getting its biggest changes ever",
+    "link": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
+    "description": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google's chatbot-like search experience.\nPowered by the new Gemini 3.5 Flash model, Google's updated search box expands for longer queries, while offering a new AI-powered autocomplete feature to build on your question. Robby Stein, Google's vice president of product for Search, told The Verge you'll \"reliably\" see AI Overviews if you ask a natural-language question. Asking follo …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Google-Suche tritt in die nächste Phase ihrer KI-Entwicklung ein. Während der Google I/O 2026 stellte das Unternehmen ein neu gestaltetes Suchfeld vor, das den Wechsel zwischen KI-Übersichten, den KI-generierten Zusammenfassungen, die oben in den Suchergebnissen angezeigt werden, und dem KI-Modus, dem Chatbot-ähnlichen Sucherlebnis von Google, erleichtert.",
+    "titleDE": "Die Google-Suche erlebt die größten Veränderungen aller Zeiten"
+  },
+  {
+    "title": "Gmail is going to start talking to you",
+    "link": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
+    "description": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox.\nTo use Gmail Live, tap an icon that will appear in your search bar and just start talking. In a press briefing, a Google employee showed a live demo of the feature where she asked questions about things like events at her kid's school and an upcoming trip to Detroit. Gmail pulled up relevant details in the Gmail Live interface, like the date and location of a show-and-tell event at the school, all sourced from the employee's inbox.\nIt was an intriguing demo, and yo …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google führt eine große neue Funktion für Gmail namens Gmail Live ein, einen neuen KI-gestützten Sprachmodus, der im Grunde dem Gemini Live-Erlebnis ähnelt, aber speziell für Ihren Posteingang entwickelt wurde. Um Gmail Live zu verwenden, tippen Sie auf ein Symbol, das in Ihrer Suchleiste angezeigt wird, und beginnen Sie einfach zu sprechen. In einer Pressekonferenz sagte ein Google-Mitarbeiter:",
+    "titleDE": "Gmail wird mit Ihnen kommunizieren"
+  },
+  {
+    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "description": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI kündigte zwei neue Maßnahmen zur Erkennung von KI-generierten Bildern an: den Beitritt zum offenen C2PA-Standard und die Hinzufügung von Googles SynthID zu seinen Produkten.",
+    "titleDE": "OpenAI erleichtert die Überprüfung, ob ein Bild von ihren Modellen erstellt wurde"
+  },
+  {
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+    "description": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google hat neue webbasierte KI-Tools vorgestellt, mit denen in wenigen Minuten native Android-Apps generiert werden können, während das Unternehmen seinen Vorstoß in die KI-gestützte Softwareentwicklung ausweitet.",
+    "titleDE": "Mit dem AI Studio von Google kann jetzt jeder in wenigen Minuten Android-Apps erstellen"
+  },
+  {
+    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+    "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "description": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google begrüßt den Aufstieg von KI-Programmierungsagenten mit neuen Android-Tools, die für die Zusammenarbeit mit Plattformen wie Claude Code und OpenAIs Codex konzipiert sind und es Entwicklern – oder ihren KI-Assistenten – ermöglichen, Android-Apps schneller über die Befehlszeile zu erstellen.",
+    "titleDE": "Die Agenten-App-Codierung erhält mit der Veröffentlichung von Android CLI durch Google ein Upgrade"
+  },
+  {
+    "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+    "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+    "description": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die meisten Menschen kaufen auf mehreren Geräten, bei vielen Einzelhändlern und im Laufe vieler Tage ein. Aus diesem Grund führt Google Universal Cart ein.",
+    "titleDE": "Der neue Universal Cart von Google möchte Ihre gesamte Einkaufsreise im Internet verfolgen"
+  },
+  {
+    "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+    "description": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Auf der Google I/O-Entwicklerkonferenz kündigte das Unternehmen einen neuen persönlichen Agentenassistenten namens Gemini Spark an, der auf den Basismodellen von Gemini und einem Agentensystem von Google Antigravity basiert.",
+    "titleDE": "Google stellt auf der IO 2026 Gemini Spark vor, einen rund um die Uhr verfügbaren Agentenassistenten mit Gmail-Integration"
+  },
+  {
+    "title": "Google adds voice-based prompting to Docs and Keep",
+    "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+    "description": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit dem neuen Workspace-Update ermöglicht Google seinen Nutzern, Entwürfe zu erstellen, Notizen zu machen und per Spracheingabe nach E-Mails zu suchen.",
+    "titleDE": "Google fügt Docs und Keep sprachbasierte Eingabeaufforderungen hinzu"
+  },
+  {
+    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+    "description": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google stellt einen neuen AI Ultra-Plan zum Preis von 100 US-Dollar vor, der den Nutzern zusammen mit der Einführung von Antigravity 2.0 ein fünfmal höheres Nutzungslimit als der AI Pro-Plan bietet.",
+    "titleDE": "Google stellt Antigravity 2.0 mit einer aktualisierten Desktop-App und einem CLI-Tool auf der IO 2026 vor"
+  },
+  {
+    "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+    "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+    "description": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Gemini Omni von Google ist ein neues multimodales Modell, das über Text, Bilder, Audio und Video hinweg argumentiert, um Videos durch einfache Konversation zu erstellen und zu bearbeiten – beginnend mit Omni Flash.",
+    "titleDE": "Gemini Omni von Google wandelt Bilder, Audio und Text in Videos um – und das ist erst der Anfang"
+  },
+  {
+    "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+    "description": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Aktualisierungen signalisieren den Vorstoß von Google, seine Gemini-App in einen Allzweck-KI-Hub und nicht in einen eigenständigen Chatbot umzuwandeln.",
+    "titleDE": "Google aktualisiert seine Gemini-App, um es auf der IO 2026 mit ChatGPT und Claude aufzunehmen"
+  },
+  {
+    "title": "I/O 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "description": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Auf der Google I/O 2026 haben wir darüber berichtet, wie wir KI für alle hilfreicher machen. Sehen Sie sich alles an, was wir angekündigt haben.",
+    "titleDE": "I/O 2026"
+  },
+  {
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+    "description": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Sehen Sie ein Jahr nach der Einführung, wie die Benutzer von AI Mode von Schlüsselwörtern auf Abfragen in natürlicher Sprache umsteigen.",
+    "titleDE": "Wie der KI-Modus die Art und Weise verändert, wie Menschen in den USA suchen."
+  },
+  {
+    "title": "New ways to create and get things done in Google Workspace",
+    "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+    "description": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Ankündigung neuer Sprachfunktionen in Gmail, Docs und Keep, eines neuen Designtools namens Google Pics und Updates für AI Inbox.",
+    "titleDE": "Neue Möglichkeiten zum Erstellen und Erledigen von Aufgaben in Google Workspace"
+  },
+  {
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "description": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Das Neueste von Google I/O: Erfahren Sie, wie wir Ihnen dabei helfen, mit Gemini mehr zu erledigen.",
+    "titleDE": "I/O 2026: Willkommen in der Agenten-Gemini-Ära"
+  },
+  {
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "description": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Auf der Google I/O haben wir Gemini 3.5 veröffentlicht, unsere neueste Modellserie, die bahnbrechende Intelligenz mit Action verbindet.",
+    "titleDE": "Gemini 3.5: Grenzintelligenz mit Taten"
+  },
+  {
+    "title": "A new era for AI Search",
+    "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "description": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Wir haben den nächsten Schritt auf unserem Weg vorgestellt, das Beste einer Suchmaschine mit dem Besten der KI zu vereinen.",
+    "titleDE": "Eine neue Ära für die KI-Suche"
+  },
+  {
+    "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+    "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+    "description": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
+    "pubDate": "2026-05-19T17:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Einführung eines AI Ultra-Plans im Wert von 100 $ – plus neue Funktionen und Vorteile für Google AI Plus-, Pro- und Ultra-Abonnenten.",
+    "titleDE": "Alles Neue in unseren Google AI-Abonnements, frisch von der I/O 2026"
+  },
+  {
+    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+    "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+    "description": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+    "pubDate": "2026-05-19T15:43:04.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nach Angaben des Unternehmens ist Pre-Training für die groß angelegten Trainingsläufe verantwortlich, die Claude sein Kernwissen und seine Fähigkeiten vermitteln. Es ist auch eine der teuersten und rechenintensivsten Phasen beim Aufbau eines Grenzmodells.",
+    "titleDE": "OpenAI-Mitbegründer Andrej Karpathy schließt sich dem Vorschulungsteam von Anthropic an"
+  },
+  {
+    "title": "Understanding the modern cybercrime landscape",
+    "link": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+    "description": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typically use automation and AI to exploit longstanding vulnerabilities, and many have adopted…",
+    "pubDate": "2026-05-19T13:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Im Laufe des Jahres 2025 beobachtete HPE erhebliche Veränderungen in der Vorgehensweise von Cyberkriminellen. Bei der Analyse realer Bedrohungen haben unsere HPE Threat Labs in ihrem neuen In the Wild Report eine Industrialisierung der Methoden der Cyberkriminellen hervorgehoben, die eine größere Reichweite, Geschwindigkeit und Struktur ihrer Kampagnen ermöglicht. Sie typi...",
+    "titleDE": "Verständnis der modernen Cyberkriminalitätslandschaft"
+  },
+  {
+    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+    "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
+    "pubDate": "2026-05-19T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. Aus diesem Grund hat Elon Musk seine Klage gegen OpenAI verloren. Elon Musk hat seine Klage gegen OpenAI verloren, in der es um die Frage ging, ob das Unternehmen gegen seine Gründungsvereinbarung verstoßen hat...",
+    "titleDE": "Der Download: Musk gegen Altman, Datenbrillen für die Kriegsführung und Google I/O"
+  },
+  {
+    "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+    "link": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+    "description": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.  Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial egg” as part of its effort to resurrect extinct avian…",
+    "pubDate": "2026-05-19T12:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Küken wechselten ihre Position und begannen zu piepen – oder versuchten zu schlüpfen. Aber nicht aus einem Ei. Stattdessen wuchsen diese Hühner in transparenten 3D-gedruckten Plastikbechern im Hauptquartier von Colossal Biosciences in Dallas. Das Biotech-Unternehmen behauptete heute, es habe ein „vollständig künstliches Ei“ entwickelt ...",
+    "titleDE": "Colossal Biosciences züchtet Hühner in einer 3D-gedruckten künstlichen Eierschale"
+  },
+  {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "pubDate": "2026-05-19T10:45:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI fördert die Herkunft von KI-Inhalten mit Content Credentials, SynthID und einem Verifizierungstool, das Menschen dabei hilft, KI-generierte Medien zu identifizieren und ihnen zu vertrauen.",
+    "titleDE": "Förderung der Inhaltsherkunft für ein sichereres und transparenteres KI-Ökosystem"
+  },
+  {
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
     "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
     "description": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announced on X that he will…",
@@ -20,46 +460,6 @@
     "titleDE": "SandboxAQ bringt seine Arzneimittelforschungsmodelle zu Claude – kein Doktortitel in Informatik erforderlich"
   },
   {
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "pubDate": "2026-05-18T19:27:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Stainless, ein 2022 gegründetes Startup mit Sitz in New York, erlangte in der aufstrebenden KI-Branche einen Namen durch die Automatisierung der Erstellung und Wartung von Software Development Kits oder SDKs – den Bibliotheken, die Entwickler zur Interaktion mit APIs verwenden.",
-    "titleDE": "Anthropic hat das Entwicklungstools-Startup übernommen, das von OpenAI, Google und Cloudflare verwendet wird"
-  },
-  {
-    "title": "Musk v. Altman proved that AI is led by the wrong people",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-    "description": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just two hours of deliberation, dismissing Musk's claims due to the statute of limitations.\nIn a strictly legal sense, three weeks of testimony added up to nothing. But the trial offered a more damning broader takeaway: Almost nobody in this saga seems worth trusting. Some of the most powerful people in tech seem temperamentally incapable …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-18T19:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Tech-Prozess des Jahres, Musk gegen Altman, war letztlich ein Kampf um die Kontrolle. Elon Musk argumentierte, dass Sam Altman, mit dem er das mittlerweile riesige Unternehmen OpenAI gründete, nicht die Zukunft der KI bestimmen sollte. Altmans Anwälte wiederum stellten Musks eigene Glaubwürdigkeit in Frage. Eine Jury kam am Montag zu einem Urteil...",
-    "titleDE": "Musk vs. Altman hat bewiesen, dass KI von den falschen Leuten geleitet wird"
-  },
-  {
-    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. \nAfter nearly a month of the hearing that featured testimony from Musk, Altman, Microsoft CEO Satya Nadella, OpenAI cofounder Greg Brockman, former OpenAI board member and mother of several of Musk’s children Shivon Zilis, and a few others, the jury deliberated for a couple of hours before returning with a verdict, deciding to dismiss all charges due to the statute of limitations.\nMusk was a cofounder of OpenAI and claims that Altman and Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI claimed that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk asked for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation.\nPeople to Know\nPlaintiff\nElon Musk — plaintiff, OpenAI cofounder and now CEO of rival xAI\nSteven Molo — lead counsel for the plaintiff\nJared Birchall — manager of Musk’s family office\nShivon Zilis — former OpenAI board member who shares multiple children with Musk\nDefendant\nSam Altman — defendant, CEO of OpenAI \nWilliam Savitt — lead counsel for the defendant\nGreg Brockman — president of OpenAI as well as a cofounder \nIlya Sutskever — former chief scientist at OpenAI and a cofounder\nJudge\nYvonne Gonzalez Rogers — aka YGR, trial judge\nHere’s all the latest on the trial between Musk and Altman:\nThe jury has delivered a unanimous verdict.\n\t\t\t\nAn observer has just been ejected from the court by the US marshals.\n\t\t\t\nC. Paul Wazzan is the expert called by Musk to determine damages.\n\t\t\t\nMusk v. Altman proved that AI is led by the wrong people\n\t\t\t\nClosing time\n\t\t\t\n“I told you in my opening statement you wouldn’t hear very much from Microsoft, and you haven’t.”\n\t\t\t\n“I feel like I’m going to miss you all,” Savitt tells the jury.\n\t\t\t\nSavitt calls out the fact that Musk is abroad with President Trump today.\n\t\t\t\nSavitt says Musk has “selective amnesia.”\n\t\t\t\nBehold, the Elon Musk jackass trophy\n\t\t\t\nSavitt is talking about the statute of limitations.\n\t\t\t\nHere’s the jackass trophy that the jury didn’t get to see.\n\t\t\t\nWe are back from our break. William Savitt is taking it home for the OpenAI defense.\n\t\t\t\nTesla AI is evidence of Musk’s failure, Eddy says.\n\t\t\t\n“The documents tell the truth here,” Eddy says.\n\t\t\t\nEddy suggests that Musk’s donated Teslas were, effectively, bribes.\n\t\t\t\nEddy is, wisely, leaning hard on chronology in explaining their defense.\n\t\t\t\nSarah Eddy is giving the closing argument for OpenAI.\n\t\t\t\nMolo is done presenting Musk’s closing argument.\n\t\t\t\nFor all of the very irritating testimony about “the blip,” Molo hasn’t convincingly connected it to his case.\n\t\t\t\nMolo is now attempting to make a case against Microsoft.\n\t\t\t\nDuring our break, the jurors were out of the room, and the lawyers were beefing again.\n\t\t\t\nWe are back on the millions and billions of OpenAI equity that employees have interest in.\n\t\t\t\nThis is kind of choppy.\n\t\t\t\nMolo is now suggesting that the “crown jewels” of OpenAI are its IP.\n\t\t\t\nMusk’s early money meant “a great, great deal,” Molo says. Inarguable!\n\t\t\t\nMolo calls Shivon Zilis, mother of Musk’s children, “the most even-keeled, even-tempered witness at the trial.”\n\t\t\t\nAh we are back at the museum store funding the museum.\n\t\t\t\nPerhaps Mr. Molo is unfamiliar with xAI.\n\t\t\t\nFair enough, Mr. Molo.\n\t\t\t\nI see why Molo is leaning on the spoken testimony.\n\t\t\t\nMolo is now calling out Altman’s testimony.\n\t\t\t\nMolo is suggesting that Greg Brockman’s conduct makes him untrustworthy.\n\t\t\t\nMolo has begun his closing statement for Elon Musk, who is in China.\n\t\t\t\nYGR is now reading aloud the instructions to the jury.\n\t\t\t\nThe monitor has left the courtroom.\n\t\t\t\nWe are now having a fight about a new, large monitor that has appeared on the Musk table.\n\t\t\t\n“They didn’t give us page numbers, your honor.”\n\t\t\t\nMusk left the country with President Trump despite a judge’s orders.\n\t\t\t\nMicrosoft and OpenAI rest.\n\t\t\t\nIn the most boring expert testimony yet, Louis Dudney, a forensic accountant, testified about how those funds were spent.\n\t\t\t\nThe shade we are getting in here is incredible.\n\t\t\t\nThe cross is focusing on Coates’ pay.\n\t\t\t\nJohn Coates, OpenAI’s expert witness, is running a demolition derby on Musk’s expert witness.\n\t\t\t\nMuseum gift shop metaphor found dead in a ditch.\n\t\t\t\nWe’re listening to an expert witness, David Hemel, a law professor at NYU.\n\t\t\t\nDuring Elon Musk’s all-hands Q&A before departing OpenAI, Achiam said he felt Musk wanted to “race towards AGI.”\n\t\t\t\nAchiam is running circles around this lawyer on cross, without doing the annoying things other witnesses have done.\n\t\t\t\nOkay, it’s time for the cross of Achiam.\n\t\t\t\n“I think he was just upset that he had been challenged,” Achiam said. “This was not friendly.”\n\t\t\t\nDuring the all-hands, Musk expressed concerns about what would happen if DeepMind got to AGI first,\n\t\t\t\n“It was a bit like seeing Bigfoot through Plexiglass,” Achiam says of seeing Elon Musk in the office.\n\t\t\t\nIlya Sutskever would get up on tables to give speeches in the early days of OpenAI.\n\t\t\t\nAchiam talked about the roles of Greg Brockman and Ilya Sutskever in OpenAI’s early days.\n\t\t\t\nJosh Achiam described what it was like to work at OpenAI in 2017.\n\t\t\t\nAchiam started at OpenAI as an intern in the summer of 2017, and became a full-time employee in December.\n\t\t\t\nHi my name is Josh Achiam and welcome to “will we see the jackass trophy?”\n\t\t\t\nFairly stupid choice by Musk’s lawyers to go after Microsoft’s major decision rights.\n\t\t\t\nMusk cross. I guess we are now going to have a fight about due diligence.\n\t\t\t\n“Our due diligence found no conditions related to Elon Musk,” Wetter says.\n\t\t\t\nMike Wetter for Microsoft is taking the stand now.\n\t\t\t\nScott, who is wearing sneakers and a black crew neck under his blazer, seems quite pleasant on cross.\n\t\t\t\nWe are now getting cross-examination from Musk’s lawyer.\n\t\t\t\nMicrosoft’s CTO Kevin Scott is on the stand.\n\t\t\t\nMicrosoft doesn’t want any of this\n\t\t\t\nIn his testimony, Musk said he never called anyone a jackass.\n\t\t\t\nIncredible evidence dispute this morning.\n\t\t\t\nSam Altman was winning on the stand, but it might not be enough\n\t\t\t\nAbout 200 people work on safety at OpenAI.\n\t\t\t\nThe chair of OpenAI’s safety and security committee said they’ve formally delayed its model releases.\n\t\t\t\nIrritatingly, no one has asked him why he’s called “Zico.”\n\t\t\t\nMicrosoft establishes that OpenAI has other investors…\n\t\t\t\nWe see the Musk “bait and switch” texts again.\n\t\t\t\nWhat if we had a drinking game for this trial?\n\t\t\t\nMusk says, “This is a bait and switch” in a October 2022 text chain.\n\t\t\t\nMolo is not doing especially impressive lawyering here.\n\t\t\t\nMolo asked Altman if he’d ever fire himself as CEO of the OpenAI for-profit.\n\t\t\t\n“The blip” again.\n\t\t\t\nWell, I do love a long inquiry into the linear nature of time.\n\t\t\t\nThe difference between Musk and Altman on cross is really stark.\n\t\t\t\nRonan Farrow’s article is brought up.\n\t\t\t\nThis cross is spicy!\n\t\t\t\nMr. Molo is going directly in at Altman: “Do you always tell the truth?”\n\t\t\t\n“If I knew how difficult and painful this was going to be, I never would have tried,” Altman said.\n\t\t\t\nWe are now talking about Altman’s investments.\n\t\t\t\n“I had poured the last years of my life, and I was watching it be destroyed,” Altman said.\n\t\t\t\n“I was in this like fog of war, I didn’t know what was going on,” Altman says of what happened next.\n\t\t\t\nWe are now onto “the Blip.”\n\t\t\t\nSam Altman says Elon Musk’s mind games were damaging OpenAI\n\t\t\t\nOpenAI has raised “approximately $175 billion” in investment, Altman says.\n\t\t\t\nAltman seems to be getting into his testimony…\n\t\t\t\nMusk didn’t invest in the OpenAI for-profit because “he was no longer going to invest in any startups he did not control.”\n\t\t\t\nIt looks like Sam Altman discussed the for-profit OpenAI with Elon Musk in detail.\n\t\t\t\n“Unlike a lot of other meetings with Mr. Musk, this was a good vibes meeting.”\n\t\t\t\nNow into Shivon Zilis. Altman says he retained her on the board to try to keep friendly relations with Musk.\n\t\t\t\n“I was annoyed” when Elon Musk tried to recruit talent from OpenAI, Altman said.\n\t\t\t\nMusk resigned because he had lost confidence in OpenAI “and did not believe we were going to be successful.”\n\t\t\t\nMusk suspended his quarterly donations in 2017. That left OpenAI in “a very tough position.”\n\t\t\t\nWhen it was time to get more capital, Musk was pushing OpenAI to be acquired by Tesla.\n\t\t\t\nA particularly “hair-raising moment” for Altman was a succession plan from Musk.\n\t\t\t\nElon Musk has control issues, Altman says.\n\t\t\t\nSam Altman takes the stand in trial against Elon Musk\n\t\t\t\nOpenAI has called Sam Altman as a witness.\n\t\t\t\nTaylor says the reason OpenAI Foundation has been able to do more work is the recapitalization.\n\t\t\t\nBret Taylor is back on the stand.\n\t\t\t\nWe’ve talked about how this case isn’t just for whatever happens in the court…\n\t\t\t\nBret Taylor has been asked to slow down twice.\n\t\t\t\n“OpenAI is decidedly not profitable,” Taylor said.\n\t\t\t\nThere’s “a lot of tension” between LLMs and what Taylor calls “content companies”…\n\t\t\t\nPlantiff rests. OpenAI calls its first witness, Bret Taylor of OpenAI Foundation.\n\t\t\t\nIlya Sutskever says he was uncomfortable with Musk’s large ownership demand.\n\t\t\t\nSutskever’s testimony is kind of a snooze so far.\n\t\t\t\nSatya Nadella is excused.\n\t\t\t\nA lot of people contact Satya Nadella about their boards, apparently!\n\t\t\t\nMicrosoft’s lawyer is now back with Nadella.\n\t\t\t\nWe are discovering that Satya Nadella knows very little about the OpenAI nonprofit.\n\t\t\t\nI can’t speak for the jury but I am very, very sick of hearing about “the blip.”\n\t\t\t\n“Not consistently candid” press release about Sam Altman’s firing is what Molo is citing as why Nadella should have known why Altman was fired.\n\t\t\t\nWe are arguing now about risk and return.\n\t\t\t\n“I don’t want to be IBM and OpenAI to be Microsoft.”\n\t\t\t\nWe are on cross, with Steven Molo for Musk.\n\t\t\t\nSatya Nadella seemed to forget he currently served on the board of a nonprofit.\n\t\t\t\nWhat is Copilot?\n\t\t\t\nDuring Altman’s ouster, Satya Nadella tried to reassure investors everything would not “crumble.”\n\t\t\t\n“Below them, above them, around them.”\n\t\t\t\n“We have each other’s phone numbers,” Nadella says of Musk.\n\t\t\t\nNadella tells us that before the OpenAI partnership, Google was its biggest AI competitor.\n\t\t\t\nSatya Nadella is taking the stand, in a navy suit and a light blue tie with a white shirt.\n\t\t\t\nJury is here. We are now finishing a video deposition from Friday about the OAI deal with MSFT.\n\t\t\t\n👑\n\t\t\t\nWe are having an arugment about evidence.\n\t\t\t\nMusk v. Altman week two recap.\n\t\t\t\nMicrosoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure\n\t\t\t\nMira Murati’s deposition pulled back the curtain on Sam Altman’s ouster\n\t\t\t\nOh this tack is more effective. Then OpenAI lawyer is going after Columbia…\n\t\t\t\nThis cross of Schizer is pretty weak.\n\t\t\t\nBasically everything Schizer is saying is couched as a hypothetical…\n\t\t\t\nWe are now hearing from David Schizer, one of Musk’s expert witnesses.\n\t\t\t\nWe are still listening to McCauley.\n\t\t\t\nTasha McCauley is testifying now in a video deposition.\n\t\t\t\n“Do you have any idea how you ended up in this courtroom?”\n\t\t\t\nI am having a hard time taking Rosie Campbell seriously.\n\t\t\t\nWe are now hearing from Rosie Campbell, a former OpenAI employee.\n\t\t\t\nOpenAI’s board discussed merging with Anthropic during “the Blip.”\n\t\t\t\nHelen Toner is now talking about the board’s decision-making process.\n\t\t\t\nYGR is back on the bench.\n\t\t\t\nMusk’s biggest loyalist became his biggest liability\n\t\t\t\nWe are going through the removal of Sam Altman from OpenAI in detail.\n\t\t\t\nToner is relating how Sam Altman’s firing happened.\n\t\t\t\nToner says she found out about ChatGPT by seeing screenshots on Twitter.\n\t\t\t\nMaking AI models is “more like alchemy than chemistry,” Toner says.\n\t\t\t\nWe are now looking at Helen Toner’s deposition.\n\t\t\t\nMicrosoft would like to be excluded from this narrative.\n\t\t\t\n“It’s not in my neurons,” Zilis says, instead of “I don’t remember.”\n\t\t\t\nSarah Eddy, an attorney representing OpenAI, got sarcastic with Zilis.\n\t\t\t\nShivon Zilis brainstormed possible scenarios for AI.\n\t\t\t\nMusk offered Sam Altman a board seat at Tesla…\n\t\t\t\nShivon’s emails aren’t great for Musk.\n\t\t\t\nThe big sticking point for Brockman and Sutskever was control.\n\t\t\t\nSam Altman loves exclamation marks.\n\t\t\t\nMira Murati tells the court that she couldn’t trust Sam Altman’s words\n\t\t\t\nZilis’ past emails mentioned in court proceedings include her referencing a potential “conversion to for-profit” for OpenAI.\n\t\t\t\nThis is getting interesting.\n\t\t\t\nZilis sent Altman a text message of support after his 2023 ouster.\n\t\t\t\nZilis said another concern she had about Altman related to OpenAI’s potential deal with Helion.\n\t\t\t\nAlso in the spirit of clarifications this morning…\n\t\t\t\nZilis said she had major concerns about OpenAI’s board not being notified in advance of ChatGPT’s release.\n\t\t\t\nZilis said that the fallout from Altman’s 2023 ouster changed her view of OpenAI’s Microsoft deal.\n\t\t\t\nWhen asked how much Musk works per week, Zilis laughed.\n\t\t\t\nMusk’s team has called Shivon Zilis.\n\t\t\t\nMurati says problems with Altman persisted after he returned to the company.\n\t\t\t\n“OpenAI was at catastrophic risk of falling apart” when Altman was fired, Murati says.\n\t\t\t\nWe are seeing video testimony from Mira Murati’s deposition.\n\t\t\t\nWe are clearing up “a few inaccuracies from yesterday.”\n\t\t\t\nWe are taking care of some matters before the jury comes in.\n\t\t\t\nMicrosoft and OpenAI’s definition of AGI was just revealed.\n\t\t\t\nThe jurors look as bored as I feel.\n\t\t\t\nBrockman steps down. We are looking at the video deposition of Robert Wu.\n\t\t\t\nBrockman is telling the truth about considering removing Musk from the board.\n\t\t\t\nEvery time Molo makes a summary of Brockman’s testimony, Brockman objects to it.\n\t\t\t\nWe are now fighting about “Either go do something on your own or continue with OpenAI as a non-profit.”\n\t\t\t\nOne other thing I don’t understand…\n\t\t\t\nMolo is trying to reiterate what he did more effectively yesterday.\n\t\t\t\n“You had no problems answering your lawyers’ questions,” Molo is practically yelling.\n\t\t\t\nMolo asks Brockman if Musk was “being mean” to him.\n\t\t\t\nWe are back to quibbling.\n\t\t\t\nWe are now discussing the OpenAI Foundation layoffs.\n\t\t\t\nMicrosoft is done, bless them.\n\t\t\t\nMicrosoft is now getting to talk to Brockman.\n\t\t\t\nThe blip.\n\t\t\t\nWe are now discussing Shivon Zilis.\n\t\t\t\nWe are now going through the assorted releases of GPT models.\n\t\t\t\nWhen Musk resigned, he gave a speech to OpenAI’s employees that might have been demoralizing…\n\t\t\t\nOne observation from Brockman and Sutskever’s emails.\n\t\t\t\nWe are now recontextualizing more entries from Brockman.\n\t\t\t\nThere were discussions between Brockman, Altman, and Sutskever about removing Musk from the board.\n\t\t\t\nWe are back from a break.\n\t\t\t\n“I thought he was going to hit me,” Brockman says of Musk.\n\t\t\t\nElon Musk doesn’t love anything he can’t control.\n\t\t\t\nSam Altman discussed an equal equity split…\n\t\t\t\nWe are now discussing Brockman’s journal.\n\t\t\t\nBrockman talks Dota 2.\n\t\t\t\nElon Musk tried to get Bill Gates to donate to OpenAI.\n\t\t\t\nFirst sidebar of the trial.\n\t\t\t\nOpenAI had layoffs at Musk’s insistence.\n\t\t\t\nGreg Brockman tells the court that while at OpenAI, he and three others worked at Tesla.\n\t\t\t\nYGR is on the bench.\n\t\t\t\nGoogle’s AI architect lived rent-free in Elon Musk’s head\n\t\t\t\nOpenAI’s president does ‘all the things,’ except answer a question\n\t\t\t\nJury is sent out for the day.\n\t\t\t\nWe are hearing about the early days of OpenAI.\n\t\t\t\nEarly worries about Musk came from Ilya Sutskever.\n\t\t\t\nBrockman is describing his bromance with Altman.\n\t\t\t\n“I do all the things.”\n\t\t\t\nBrockman says we are 80 percent of the way to AGI.\n\t\t\t\nOpen AI’s direct examination of Brockman is pretty sedate so far… aside from Tesla.\n\t\t\t\nOpenAI’s lawyers are now getting their shot at Brockman.\n\t\t\t\nFor real, I think nerds should not testify in court.\n\t\t\t\nWe are now looking at Brockman’s other financial dealings.\n\t\t\t\nWe finished with the Microsoft investment pretty quickly.\n\t\t\t\nAltman didn’t return after we took our break.\n\t\t\t\nWe are presently having a fight about purple boxes.\n\t\t\t\nWe have been doing the same question for perhaps the last five minutes.\n\t\t\t\n“Financially what will take me to $1B?”\n\t\t\t\n“His story will correctly be that we weren’t honest with him in the end about still wanting to do the for profit just without him.”\n\t\t\t\nGreg Brockman’s journal: “it’d be wrong to steal the non-profit from him.”\n\t\t\t\nBrockman is not doing himself any favors.\n\t\t\t\nBrockman’s cross-examination isn’t as testy as Musk’s, but he’s also pushing back on a lot of questions.\n\t\t\t\nIs sending stuff to Sam Teller and Shivon Zilis the same as sending it to Musk?\n\t\t\t\nBrockman and Altman’s alliance?\n\t\t\t\n“Is Demis Hassabis evil?”\n\t\t\t\nGreg Brockman is talking about the earliest days of OpenAI.\n\t\t\t\nGreg Brockman and Sam Altman have just entered the courtroom.\n\t\t\t\nWe’re done with Russell.\n\t\t\t\n“The age of abundance for Elon.”\n\t\t\t\nOh now we have some meat.\n\t\t\t\nElon Musk’s expert doesn’t follow him on X.\n\t\t\t\nI am befuddled by this expert testimony.\n\t\t\t\nWe are dealing with the cross now.\n\t\t\t\nSure is lucky that mentions of Grok’s safety issues got limited.\n\t\t\t\nIndividual vs. systemic risk.\n\t\t\t\nWe now have a very boring expert witness testifying to AI risks.\n\t\t\t\nStuart Russell is here to tell us about AI.\n\t\t\t\n“I need that today. That’s good. I like that.”\n\t\t\t\nGreg Brockman won’t be asked about Musk’s threat.\n\t\t\t\nElon Musk tried to settle before the trial — and got threatening.\n\t\t\t\nMusk v. Altman is getting a live audio stream next week.\n\t\t\t\nOpenAI Tesla receipts and other Musk v. Altman documents.\n\t\t\t\nAll the evidence revealed so far in Musk v. Altman\n\t\t\t\nHere’s how Gabe Newell and Hideo Kojima ended up in the Musk v. Altman evidence.\n\t\t\t\nThe craziest part of Musk v. Altman happened while the jury was out of the room\n\t\t\t\nJury is being dismissed early so YGR can deal with an objection to Birchall’s testimony.\n\t\t\t\nBirchall is actually very funny outside of court? Good for him.\n\t\t\t\nWe are now hearing about the pause in quarterly donations.\n\t\t\t\nWe’re back.\n\t\t\t\nSecond break of the day.\n\t\t\t\nBirchall cross.\n\t\t\t\nElon Musk confirms xAI used OpenAI’s models to train Grok\n\t\t\t\nBirchall has just been asked about the four Teslas.\n\t\t\t\nBirchall testifies about Musk’s contributions to OpenAI.\n\t\t\t\nA woman in the gallery has lowered a sleep mask over her eyes and is attempting to sleep.\n\t\t\t\nMusk steps down. He may be recalled.\n\t\t\t\nWe are on re-cross. Musk is getting testy again.\n\t\t\t\nThe Microsoft investment comes back up.\n\t\t\t\nAnd we’re back.\n\t\t\t\nWe’re in break — and I just checked out something interesting.\n\t\t\t\nElon Musk’s robot army definitely will not kill you.\n\t\t\t\nMusk insists he wasn’t kneecapping OpenAI.\n\t\t\t\nMusk seems notably more subdued today.\n\t\t\t\n“At least change the name,” Musk says he told Altman.\n\t\t\t\nElon Musk v. Capitalism.\n\t\t\t\nAn “ongoing conversation” around open source.\n\t\t\t\nWe’re still talking about whether Musk read the term sheet.\n\t\t\t\nThe jurors have been seated.\n\t\t\t\nMusk has just entered the courtroom.\n\t\t\t\n“Issues of extinction are excluded.”\n\t\t\t\nGood morning!\n\t\t\t\nElon Musk’s worst enemy in court is Elon Musk\n\t\t\t\nFreedom!\n\t\t\t\nUnfortunately we will not be talking about safety details of any specific product.\n\t\t\t\nThe jury is leaving for the day. “I suspect it’s a nice day out there,” YGR says.\n\t\t\t\nMechaHitler might be a bad look for the AI safety defender.\n\t\t\t\nMusk’s broader AI safety commitment (or lack thereof) comes up.\n\t\t\t\nThis is so testy.\n\t\t\t\nDid Musk even read the OpenAI term sheet?\n\t\t\t\nMusk asked Shivon Zilis to stay “close and friendly” with OpenAI to keep info flowing.\n\t\t\t\nMusk says xAI probably won’t be the first to get to AGI.\n\t\t\t\nWe’re back from a break, talking about SpaceX and xAI.\n\t\t\t\nDon’t worry about Tesla’s robot army!\n\t\t\t\n“You mostly do unfair questions.”\n\t\t\t\n“It’s a free country.”\n\t\t\t\n“Will you answer my question?”\n\t\t\t\nMusk’s desire for control comes up again.\n\t\t\t\n“This is a hypothetical.”\n\t\t\t\nDid Musk initially envision OpenAI as a corporation?\n\t\t\t\nMusk is being combative on cross already.\n\t\t\t\n“I did say that I would commit up to a billion dollars, yes.”\n\t\t\t\nIs Tesla really not working on AGI?\n\t\t\t\nMusk is returning to the stand.\n\t\t\t\nAt times, being a judge is much like being a kindergarten teacher.\n\t\t\t\nWe’re on a break.\n\t\t\t\n“I mean, all due respect to Microsoft, do you really want Microsoft controlling digital superintelligence?”\n\t\t\t\n“What’s going on here this is a bait and switch.”\n\t\t\t\nA Musk-Altman spat about Microsoft.\n\t\t\t\nMusk really cannot help himself.\n\t\t\t\n“Capped profit” wasn’t an issue, even when Microsoft got involved.\n\t\t\t\n“Tesla is not pursuing AGI.”\n\t\t\t\nMusk is more on his game today.\n\t\t\t\n“After I received these reassurances that OpenAI would continue to be a nonprofit I continued to donate over $10 million.”\n\t\t\t\n“I actually was a fool who provided free funding for them to create a startup.”\n\t\t\t\nMore discussion of who would own OpenAI.\n\t\t\t\n“I don’t lose my temper,” says Elon Musk.\n\t\t\t\n“2017 was a hard year, and we’ve made mistakes.”\n\t\t\t\n“I formed many for-profit tech companies, and could have done so with OAI,”\n\t\t\t\n“Crystal clear focus.”\n\t\t\t\nSam Altman has just entered the room, right ahead of the jury.\n\t\t\t\nA member of the public just got dressed down by YGR about taking photos.\n\t\t\t\nMusk v. Altman et al. is back in session.\n\t\t\t\nIn naming OpenAI, Elon Musk worried anything related to the Turing Test could mean bad PR.\n\t\t\t\nElon Musk appeared more petty than prepared\n\t\t\t\nThat’s a wrap!\n\t\t\t\nYGR scolds OpenAI for taking inconsistent positions on the origin of its name.\n\t\t\t\nElon Musk tells the jury that all he wants to do is save humanity\n\t\t\t\nArguments over ownership.\n\t\t\t\nApparently OpenAI could have had an ICO.\n\t\t\t\n“I was not averse to a small for-profit,” Musk says.\n\t\t\t\nWe’re reading emails between Musk and Jensen Huang.\n\t\t\t\nMusk says nonprofit was non-negotiable for OpenAI.\n\t\t\t\nWe’re at the founding of OpenAI.\n\t\t\t\nMusk says he would have created something like OpenAI on his own.\n\t\t\t\nMusk recalls meeting Sam Altman.\n\t\t\t\nSam Altman left during a break, but Elon Musk’s lawyer didn’t notice.\n\t\t\t\n“Here we are in 2026 and AI is scary smart.”\n\t\t\t\n“I have extreme concerns about AI,” says Musk.\n\t\t\t\nAI will be as smart as “any human as soon as next year.”\n\t\t\t\nMusk claims he has time for SpaceX, Tesla, Neuralink, and the Boring Company because he works a lot.\n\t\t\t\nMusk is telling the jury he (co)founded Tesla.\n\t\t\t\nNeuralink’s long-term goal is… AI?\n\t\t\t\n“There need to be things that people are excited about that make life worth living … Being out there among the stars can excite everyone.”\n\t\t\t\nA little Musk biography.\n\t\t\t\nElon Musk, looking funereal in a black suit with a black tie, says “it’s not okay to steal a charity.”\n\t\t\t\nElon Musk takes the stand in high-profile trial against OpenAI\n\t\t\t\nWe are back from a break.\n\t\t\t\nElon Musk will be the first witness in Musk v. Altman.\n\t\t\t\n“Microsoft unlocked with OpenAI a virtuous cycle.”\n\t\t\t\nMicrosoft enters the chat.\n\t\t\t\n“We are here because Mr. Musk didn’t get his way at OpenAI.”\n\t\t\t\n“[Musk] demanded control, he demanded the ability to make all the decisions without regard to the other founders.”\n\t\t\t\nOpenAI lawyers argue that Elon was right in the middle of discussions about a for-profit pivot.\n\t\t\t\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial.\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v. Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
-    "pubDate": "2026-05-18T17:49:49.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sam Altman und Elon Musk stehen sich in einem hochriskanten Prozess gegenüber, der die Zukunft von OpenAI und seinem bekanntesten Produkt, ChatGPT, verändern könnte. Im Jahr 2024 reichte Musk eine Klage ein, in der er OpenAI beschuldigte, seine Gründungsmission, KI zum Nutzen der Menschheit zu entwickeln, aufgegeben und den Fokus auf die Steigerung der Gewinne verlagert zu haben ...",
-    "titleDE": "Alle Updates zum Kampf von Elon Musk und Sam Altman um OpenAI"
-  },
-  {
-    "title": "Elon Musk loses his case against Sam Altman",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-    "description": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these.\nThe jury here is an advisory jury, meaning the group is installed solely to offer another opinion to the judge, and its verdict is technically not legally binding. Ultimately, US District Judge Yvonne Gonzalez Rogers is the ultimate legal authority - and she accepted the decision.\nThe jury found that Musk's claim for breach of charitable trust was barred by the statute of limitatio …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-18T17:39:32.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nach rund zweistündiger Beratung kam die Jury im Fall Musk gegen Altman, dem Tech-Prozess des Jahres, zu einem einstimmigen Urteil. Die Gruppe stellte fest, dass zwei Klagen verjährt waren und eine dritte Klage aufgrund der Abweisung einer dieser Klagen scheiterte. Die Jury hier ist eine beratende Jury, ich...",
-    "titleDE": "Elon Musk verliert seinen Prozess gegen Sam Altman"
-  },
-  {
     "title": "What to expect from Google this week",
     "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
@@ -68,16 +468,6 @@
     "category": "trend",
     "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Wenn Google morgen seine Türen für seine jährliche Entwicklerkonferenz I/O öffnet, wird das Unternehmen dies mit einem klaren dritten Platz im Rennen um die Stiftungsmodelle tun. Vor einem Jahr, bei G...",
     "titleDE": "Was Sie diese Woche von Google erwarten können"
-  },
-  {
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "pubDate": "2026-05-18T17:34:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musks Behauptung, er sei von seinen OpenAI-Mitbegründern misshandelt worden, scheiterte, nachdem neun kalifornische Geschworene in einem einstimmigen Urteil entschieden hatten, dass seine Klagen zu spät eingereicht worden seien.",
-    "titleDE": "Elon Musk hat seine Klage gegen Sam Altman und OpenAI verloren"
   },
   {
     "title": "The Signals That Matter – MIT Insider’s Panel",
@@ -100,26 +490,6 @@
     "titleDE": "In Andurils und Metas Bestreben, intelligente Brillen für die Kriegsführung herzustellen"
   },
   {
-    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
-    "link": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-    "description": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation and adjust its length before it starts generating the episode.\nSome \"Alexa Podcast\" examples shared by Amazon have two AI-generated hosts talking about the history of the Roman Empire, new music, and expectations for the World Cup. Amazon says you can also ask Alexa Plus to generate audio lessons about the Apollo missions, o …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-18T15:55:25.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut einer Ankündigung vom Montag kann Alexa Plus, der verbesserte KI-Assistent von Amazon, nun Podcasts zu „praktisch jedem Thema“ generieren. Mit dem Update sagt Amazon, dass Sie Alexa Plus ein Thema geben können, und der KI-Assistent wird einen Überblick darüber bieten, worüber seine KI-Hosts sprechen wollen, sodass Sie ...",
-    "titleDE": "Amazon Alexa Plus kann jetzt KI-generierte Podcasts erstellen"
-  },
-  {
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-    "pubDate": "2026-05-18T14:56:47.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Amazons Alexa+ kann jetzt auf Abruf benutzerdefinierte KI-Podcasts generieren, da das Unternehmen seinen Assistenten zu einer personalisierten KI-Content-Plattform erweitert.",
-    "titleDE": "Mit der neuen Alexa+-Funktion von Amazon können Podcast-Episoden generiert werden"
-  },
-  {
     "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
     "link": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,…",
@@ -130,16 +500,6 @@
     "titleDE": "Der Download: Musk vs. Altman Woche 3 und Trumps Tech-Handel"
   },
   {
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "description": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-    "pubDate": "2026-05-18T11:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Eine Linse in der Größe eines Daumennagels – und das südkoreanische Startup, das sie herstellt – könnte zum optischen Rückgrat der Ära der KI-Brillen werden.",
-    "titleDE": "Das südkoreanische Unternehmen LetinAR baut Optiken hinter KI-Brillen"
-  },
-  {
     "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
     "link": "https://openai.com/index/dell-codex-enterprise-partnership",
     "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
@@ -148,116 +508,6 @@
     "category": "news",
     "descriptionDE": "OpenAI und Dell arbeiten zusammen, um Codex in Hybrid- und On-Premise-Umgebungen zu bringen und Unternehmen dabei zu helfen, KI-Codierungsagenten sicher über Daten und Arbeitsabläufe hinweg bereitzustellen.",
     "titleDE": "OpenAI und Dell arbeiten zusammen, um Codex in hybride und lokale Unternehmensumgebungen zu bringen"
-  },
-  {
-    "title": "Apple’s Siri revamp could include auto-deleting chats",
-    "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-    "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-    "pubDate": "2026-05-17T20:15:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Datenschutz wird ein wichtiges Thema sein, wenn Apple eine neue Version von Siri vorstellt.",
-    "titleDE": "Apples Siri-Überarbeitung könnte das automatische Löschen von Chats beinhalten"
-  },
-  {
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "description": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-    "pubDate": "2026-05-17T19:46:34.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein großes Thema in den letzten Tagen des Prozesses war die Frage, ob OpenAI-CEO Sam Altman vertrauenswürdig ist.",
-    "titleDE": "Warum Vertrauen beim Elon Musk-OpenAI-Test eine große Frage ist"
-  },
-  {
-    "title": "Revamped Siri will reportedly offer autodeleting chats",
-    "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "description": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. Users will be able to save conversations for 30 days, one year, or forever. That's in stark contrast to the other major players in the space that generally only offer temporary incognito chats, if that.\nIt appears Apple is betting that people are willing to give up some convenience in the name of greater privacy, as anxiety around AI c …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-17T18:40:28.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apple hofft, dass seine Erfolgsbilanz beim Datenschutz das Alleinstellungsmerkmal an der KI-Front sein kann und ihm vielleicht sogar etwas Nachholbedarf verschaffen kann, da das Unternehmen weiterhin hinter der Konkurrenz zurückbleibt. Laut Mark Gurman von Bloomberg wird die eher Chatbot-ähnliche Siri, die in iOS 27 eingeführt wird, die Option zum automatischen Löschen von Chats enthalten ...",
-    "titleDE": "Berichten zufolge bietet das überarbeitete Siri automatisch löschende Chats an"
-  },
-  {
-    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-    "description": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel particularly negative about it.\nSchmidt acknowledged the anxiety, according to Business Insider, saying fears \"that the machines are coming, that the jobs are evaporating, that the climate is breaking, that politics are fractured, and that you are inheriting a mess that you did not create,\" were \"rational.\" But Schmidt's frustration was also palpa …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-17T17:22:23.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der ehemalige Google-CEO Eric Schmidt hielt am Freitag die Eröffnungsrede an der University of Arizona. Und als seine Rede in die Diskussion über KI überging, wurde er immer wieder von Buhrufen übertönt. KI ist bereits ein umstrittenes Thema, und es ist nicht verwunderlich, dass diejenigen, die kurz vor dem Einstieg in einen verwüsteten Arbeitsmarkt stehen, sich ...",
-    "titleDE": "Studenten der University of Arizona buhen Eric Schmidts KI-Cheerleading während des Studienbeginns aus"
-  },
-  {
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-    "pubDate": "2026-05-17T16:32:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Es ist schwierig, Absolventen für eine von künstlicher Intelligenz geprägte Zukunft zu begeistern.",
-    "titleDE": "Wenn Sie im Jahr 2026 eine Eröffnungsrede halten, erwähnen Sie KI vielleicht nicht"
-  },
-  {
-    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-    "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "pubDate": "2026-05-17T16:05:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Willkommen zurück bei TechCrunch Mobility – Ihrem zentralen Knotenpunkt für Neuigkeiten und Einblicke in die Zukunft des Transportwesens.",
-    "titleDE": "TechCrunch Mobility: Das Wettrüsten um KI-Fähigkeiten steht vor der Tür für die Automobilindustrie"
-  },
-  {
-    "title": "Chatbots at the drive-thru are just the beginning",
-    "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. \nHow it started\nIn 2021, McDonald's became one of the first major fast-food chains to greet customers with an AI chatbot at the drive-thru. It started small, deploying the voice-ordering technology at 10 of its locations in Chicago. McDonald's developed its drive-thru tech after acquiring Apprente, a startup focused on voice-based, conversational technology in 2019, and later wor …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-17T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Für weitere Neuigkeiten darüber, wie KI in unser tägliches Leben eindringt, folgen Sie Emma Roth. Der Stepback erreicht die Posteingänge unserer Abonnenten um 8 Uhr ET. Melden Sie sich hier für The Stepback an. Wie es begann Im Jahr 2021 hat McDonald's ...",
-    "titleDE": "Chatbots beim Drive-in sind nur der Anfang"
-  },
-  {
-    "title": "The haves and have-nots of the AI gold rush",
-    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
-    "pubDate": "2026-05-16T20:17:16.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Stimmung rund um den aktuellen KI-Boom ist selbst in der Technologiebranche nicht besonders gut.",
-    "titleDE": "Die Besitzenden und Besitzlosen des KI-Goldrauschs"
-  },
-  {
-    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-    "pubDate": "2026-05-16T18:54:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "ArXiv unternimmt mehr, um gegen die unvorsichtige Verwendung großer Sprachmodelle in wissenschaftlichen Arbeiten vorzugehen.",
-    "titleDE": "Das Forschungsrepository ArXiv wird Autoren für ein Jahr sperren, wenn sie die ganze Arbeit der KI überlassen"
-  },
-  {
-    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "description": "The variety of terrible is impressive.\t\n\nAfter Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options for changing exposure, color, and background blur. \nIn its product video, Sony says that the AI Camera Assistant will also suggest \"the most photogenic angle.\" Though the clip only shows it suggesting that someone zoom in, which is not the same as suggesting a camera angle. \n\nThe examples that Sony posted on X, while bette …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-16T15:37:05.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Vielfalt des Schrecklichen ist beeindruckend. Nachdem Sony mit einem Beitrag, in dem der KI-Kameraassistent auf dem Xperia 1 Das Unternehmen gibt an, dass es keine Fotos bearbeitet, sondern Vorschläge zu Beleuchtung, Tiefe und Motiv macht. Po...",
-    "titleDE": "Sony versucht zu erklären, dass sein AI Camera Assistant nicht schlecht ist"
-  },
-  {
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "description": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-    "pubDate": "2026-05-16T15:33:33.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die jüngste Umstrukturierung von OpenAI erfolgt, da das Unternehmen Berichten zufolge plant, ChatGPT und sein Programmierprodukt Codex zu kombinieren.",
-    "titleDE": "Greg Brockman, Mitbegründer von OpenAI, übernimmt die Verantwortung für die Produktstrategie"
   },
   {
     "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -280,106 +530,6 @@
     "titleDE": "Musk vs. Altman Woche 3: Elon Musk und Sam Altman lieferten sich einen Schlagabtausch über die Glaubwürdigkeit des anderen. Nun wird sich die Jury für eine Seite entscheiden."
   },
   {
-    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-    "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-    "description": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves.\nThe likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts the user; the person then has the option to request that YouTube remove the content. YouTube has said in the past that it has found the number of removal requests to be \"very small.\"\nYouTube began testing the feature with content creators, and then expanded it to government officials, politicians, journalists, and fina …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-15T22:25:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "YouTube weitet sein KI-Programm zur Ähnlichkeitserkennung auf alle Nutzer über 18 Jahren aus – das bedeutet, dass nahezu jeder auf der Plattform nach potenziellen Deepfakes von sich selbst suchen kann. Die Ähnlichkeitserkennungsfunktion verwendet einen Selfie-ähnlichen Scan des Gesichts einer Person, um YouTube auf Doppelgänger zu überwachen. Wenn es ...",
-    "titleDE": "YouTube erweitert sein KI-Tool zur Deepfake-Erkennung auf alle erwachsenen Nutzer"
-  },
-  {
-    "title": "ArXiv will ban researchers who upload papers full of AI slop",
-    "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-    "description": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop.\nIf a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be banned from ArXiv for a year, according to Thomas Dietterich, ArXiv's section chair of its computer science section. Future ArXiv submissions will also have to be accepted at \"a reputable peer-reviewed venue.\"\nHere's what he said on X:\nAttention @arxiv authors: Our Code of Conduct states that by signing your name …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-05-15T20:38:19.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "ArXiv, eine beliebte Plattform für wissenschaftliche Preprint-Forschung, unternimmt einen neuen Schritt, um die Menge an Artikeln zu reduzieren, die KI-Fragmente enthalten. Wenn ein Artikel „unwiderlegbare Beweise dafür enthält, dass die Autoren die Ergebnisse der LLM-Generierung nicht überprüft haben“, wie etwa halluzinierte Referenzen oder „Meta-Kommentare“, ...",
-    "titleDE": "ArXiv wird Forscher verbieten, die Arbeiten voller KI-Falsch hochladen"
-  },
-  {
-    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-    "description": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
-    "pubDate": "2026-05-15T19:24:16.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Prozess Musk gegen Altman ging diese Woche zu Ende und die letzten Argumente drehten sich immer wieder um eine Frage: Können wir den Leuten vertrauen, die für KI verantwortlich sind? All dies spielt sich ab, während SpaceX mit einer ganzen Generation von Gründern auf einen möglicherweise größten Börsengang in der amerikanischen Geschichte zusteuert ...",
-    "titleDE": "Der OpenAI-Test geht zu Ende und die Maschine des Musk-Gründers dreht sich weiter"
-  },
-  {
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "description": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-    "pubDate": "2026-05-15T18:14:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Lake Tahoe, der beliebteste Urlaubsort im Silicon Valley, wird bald von höheren Energiepreisen betroffen sein, da KI die Nachfrage nach Strom steigert.",
-    "titleDE": "Das Urlaubsland des Silicon Valley braucht einen neuen Energieversorger, gerade als KI die Preise in die Höhe treibt"
-  },
-  {
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "description": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-    "pubDate": "2026-05-15T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sobald Benutzer ihre Konten verbinden, sehen sie ein Dashboard mit der Leistung ihres Portfolios, ihren Ausgaben, Abonnements und anstehenden Zahlungen.",
-    "titleDE": "OpenAI führt ChatGPT für persönliche Finanzen ein und ermöglicht Ihnen die Verbindung von Bankkonten"
-  },
-  {
-    "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "description": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-    "pubDate": "2026-05-15T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das KI-Videogenerierungs-Startup Runway setzt darauf, dass die Videogenerierung der Weg zu Weltmodellen ist. Und dass es ein Vorteil und keine Belastung ist, ein KI-Außenseiter zu sein.",
-    "titleDE": "Runway begann damit, Filmemachern zu helfen – jetzt will es Google bei KI schlagen"
-  },
-  {
-    "title": "Osaurus brings both local and cloud AI models to your Mac",
-    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "description": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-    "pubDate": "2026-05-15T12:19:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Osaurus￼ kombiniert lokale und Cloud-KI-Modelle in einer Mac-App, die den Speicher, die Dateien und die Tools der Benutzer auf ihrer eigenen Hardware speichert.",
-    "titleDE": "Osaurus bringt sowohl lokale als auch Cloud-KI-Modelle auf Ihren Mac"
-  },
-  {
-    "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-    "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling. Now, many are being made entirely with…",
-    "pubDate": "2026-05-15T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie chinesische Kurzdramen zu KI-Content-Maschinen wurden Chinas Kurzfilmindustrie wird von mundgerechten, melodramatischen und schmutzigen Shows angetrieben, die für Smartphone-Drehs entwickelt wurden...",
-    "titleDE": "Der Download: Chinas KI-Dramafabrik und die fehlenden Gesundheitsziele der WHO"
-  },
-  {
-    "title": "The world is on track to miss its health targets",
-    "link": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-    "description": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday. And the results aren’t looking brilliant. While…",
-    "pubDate": "2026-05-15T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Jedes Jahr veröffentlicht die Weltgesundheitsorganisation einen globalen Gesundheitsstatistikbericht. Es stellt die Zahlen hinter den weltweiten Gesundheitstrends dar und bewertet vor allem, ob wir auf dem richtigen Weg sind, die ehrgeizigen Ziele zu erreichen, die wir uns für 2015 gesetzt haben. Es ist ein bisschen wie eine Gesundheitsbewertung. Der Bericht 2026 wurde am Mittwoch veröffentlicht....",
-    "titleDE": "Die Welt ist auf dem besten Weg, ihre Gesundheitsziele zu verfehlen"
-  },
-  {
-    "title": "How Chinese short dramas became AI content machines",
-    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-    "description": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or…",
-    "pubDate": "2026-05-15T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "In einem schwach beleuchteten Schlafzimmer wird eine verängstigte junge Frau von einem großen, muskulösen Mann auf ein Bett geworfen. Er ergreift ihre Hand und flammenartige Ranken kriechen über ihren Körper und verschmelzen mit ihrem Fleisch. Sie schwebt und fällt dann. Auf ihrer Brust erscheint ein drachenförmiges Tattoo. „Zwei Monate“, sagt der Mann. „Gib mir ein Hallo...“",
-    "titleDE": "Wie chinesische Kurzdramen zu KI-Content-Maschinen wurden"
-  },
-  {
     "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
     "link": "https://openai.com/index/databricks",
     "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
@@ -387,7 +537,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "Databricks verwendet GPT-5.5 für Enterprise-Agent-Workflows, nachdem das Modell beim OfficeQA Pro-Benchmark einen neuen Stand der Technik gesetzt hat.",
-    "titleDE": "Databricks bringt GPT-5.5 in die Arbeitsabläufe von Unternehmensagenten ein"
+    "titleDE": "Databricks bringt GPT-5.5 in die Workflows von Unternehmensagenten"
   },
   {
     "title": "How business operations teams use Codex",
@@ -396,7 +546,7 @@
     "pubDate": "2026-05-15T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Geschäftsbetriebsteams Codex verwenden können, um Initiativenbriefe, Strategieaktualisierungen, Führungsentscheidungspakete, Fortschrittsaktualisierungen und mehr aus realen Arbeitseingaben zu erstellen.",
+    "descriptionDE": "Erfahren Sie, wie Geschäftsbetriebsteams Codex nutzen können, um Initiativenbriefe, Strategieaktualisierungen, Führungsentscheidungspakete, Fortschrittsaktualisierungen und mehr aus realen Arbeitseingaben zu erstellen.",
     "titleDE": "Wie Geschäftsbetriebsteams Codex nutzen"
   },
   {
@@ -406,7 +556,7 @@
     "pubDate": "2026-05-15T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Vertriebsteams Codex verwenden können, um Pipeline-Briefings, Meeting-Vorbereitungspakete, Prognoseüberprüfungen, Account-Pläne und festgefahrene Geschäftsdiagnosen anhand realer Arbeitseingaben zu erstellen.",
+    "descriptionDE": "Erfahren Sie, wie Vertriebsteams Codex nutzen können, um Pipeline-Briefings, Meeting-Vorbereitungspakete, Prognoseüberprüfungen, Account-Pläne und festgefahrene Geschäftsdiagnosen anhand realer Arbeitseingaben zu erstellen.",
     "titleDE": "Wie Vertriebsteams Codex nutzen"
   },
   {
@@ -426,38 +576,8 @@
     "pubDate": "2026-05-15T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Data-Science-Teams Codex verwenden können, um aus realen Arbeitseingaben Ursachenberichte, Auswirkungsanzeigen, KPI-Memos, bereichsbezogene Analysen und Dashboard-Spezifikationen zu erstellen.",
+    "descriptionDE": "Erfahren Sie, wie Data-Science-Teams Codex nutzen können, um aus realen Arbeitseingaben Ursachenberichte, Auswirkungsanzeigen, KPI-Memos, bereichsbezogene Analysen und Dashboard-Spezifikationen zu erstellen.",
     "titleDE": "Wie Data-Science-Teams Codex nutzen"
-  },
-  {
-    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-    "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-    "description": "Here's what the biggest tech court case of the year is all about.",
-    "pubDate": "2026-05-14T22:47:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Hier erfahren Sie, worum es im größten Tech-Gerichtsfall des Jahres geht.",
-    "titleDE": "Was die Jury im Fall Elon Musk vs. Sam Altman tatsächlich entscheiden wird"
-  },
-  {
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "pubDate": "2026-05-14T21:30:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Berichten zufolge haben seit Februar mehr als 50 Mitarbeiter das neu fusionierte SpaceXAI von Elon Musk verlassen, was Fragen zu Burnout, Führungswechseln, Talentabwerbung und der Frage aufwirft, ob Liquiditätsereignisse die Bindungsanreize geschwächt haben.",
-    "titleDE": "Elon Musks SpaceXAI hat seit seiner Fusion Personal verloren"
-  },
-  {
-    "title": "OpenAI says Codex is coming to your phone",
-    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "description": "The update gives users enhanced flexibility over how they can manage their workflows.",
-    "pubDate": "2026-05-14T20:58:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Update bietet Benutzern mehr Flexibilität bei der Verwaltung ihrer Arbeitsabläufe.",
-    "titleDE": "OpenAI sagt, dass Codex auf Ihr Telefon kommt"
   },
   {
     "title": "Sea's View on the Future of Agentic Software Development with Codex",
@@ -490,16 +610,6 @@
     "titleDE": "Cisco verkündet Rekordumsatz und 4.000 Entlassungen am selben Tag"
   },
   {
-    "title": "Data readiness for agentic AI in financial services",
-    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-    "description": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
-    "pubDate": "2026-05-14T13:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Finanzdienstleistungsunternehmen haben besondere Anforderungen an Business-KI. Sie sind in einem der am stärksten regulierten Sektoren tätig und reagieren gleichzeitig auf externe Ereignisse, die sich von Sekunde zu Sekunde ändern. Daher hängt der Erfolg der Agenten-KI im Finanzdienstleistungsbereich weniger von der Ausgereiftheit der... ab.",
-    "titleDE": "Datenbereitschaft für Agenten-KI in Finanzdienstleistungen"
-  },
-  {
     "title": "Work with Codex from anywhere",
     "link": "https://openai.com/index/work-with-codex-from-anywhere",
     "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
@@ -507,7 +617,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "Verwenden Sie Codex überall mit der mobilen ChatGPT-App. Überwachen, steuern und genehmigen Sie Codierungsaufgaben in Echtzeit über Geräte und Remote-Umgebungen hinweg.",
-    "titleDE": "Arbeiten Sie von überall aus mit Codex"
+    "titleDE": "Arbeiten Sie mit Codex von überall aus"
   },
   {
     "title": "Helping ChatGPT better recognize context in sensitive conversations",
@@ -528,25 +638,5 @@
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie OpenAI eine sichere Sandbox für Codex unter Windows erstellt hat, die sichere, effiziente Coding-Agents mit kontrolliertem Dateizugriff und Netzwerkbeschränkungen ermöglicht.",
     "titleDE": "Erstellen Sie eine sichere und effektive Sandbox, um Codex unter Windows zu aktivieren"
-  },
-  {
-    "title": "Our response to the TanStack npm supply chain attack",
-    "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-    "pubDate": "2026-05-13T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI beschreibt detailliert seine Reaktion auf den Lieferkettenangriff „Mini Shai-Hulud“ von TanStack, beschreibt Schutzmaßnahmen zur Sicherung von Systemen und zum Signieren von Zertifikaten und erklärt, warum macOS-Benutzer OpenAI-Apps bis zum 12. Juni 2026 aktualisieren müssen. Erfahren Sie, was passiert ist, was betroffen war und wie OpenAI die Verteidigung stärkt...",
-    "titleDE": "Unsere Reaktion auf den TanStack npm Supply-Chain-Angriff"
-  },
-  {
-    "title": "How finance teams use Codex",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-    "pubDate": "2026-05-12T15:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Finanzteams Codex nutzen können, um MBRs, Berichtspakete, Varianzbrücken, Modellprüfungen und Planungsszenarien aus realen Arbeitseingaben zu erstellen.",
-    "titleDE": "Wie Finanzteams Codex nutzen"
   }
 ]
