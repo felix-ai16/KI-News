@@ -1,5 +1,35 @@
 [
   {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "pubDate": "2026-05-23T15:08:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "IBM und Scuderia Ferrari HP zeigen TechCrunch, wie sie das Fan-Erlebnis neu definieren.",
+    "titleDE": "Ferrari nutzt die KI von IBM, um F1-Superfans zu erschaffen"
+  },
+  {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "pubDate": "2026-05-23T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Elon Muks‘ xAI setzt voll auf Erdgas, während SpaceX von orbitalen Rechenzentren besessen ist. Was ist mit der von ihm versprochenen „solarelektrischen Wirtschaft“ passiert?",
+    "titleDE": "Elon Musk hat die Solarenergie (auf der Erde) aufgegeben"
+  },
+  {
+    "title": "Google’s new anything-to-anything AI model is wild",
+    "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "description": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the tools to make realistic videos are surprisingly good, requiring surprisingly little effort and know-how. And that trend is c …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-23T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nur ein ausgestopftes Reh, das die beste Zeit seines Lebens hat. | Bild: Gemini / The Verge Letztes Jahr habe ich das Stofftier meines Kindes gefälscht, damit es so aussieht, als wäre sein Plüschhirsch im Urlaub. Es war ein Experiment, um zu sehen, ob ich die in einer von Google geschalteten Gemini-Anzeige dargestellten Ereignisse nachbilden konnte, und ich habe sie nie gezeigt...",
+    "titleDE": "Googles neues Alles-zu-Alles-KI-Modell ist wild"
+  },
+  {
     "title": "AI is being used to resurrect the voices of dead pilots",
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
@@ -290,16 +320,6 @@
     "titleDE": "Spotify bringt KI-generierte Remixe auf den Markt"
   },
   {
-    "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
-    "link": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-    "description": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Spotify says its AI can also \"take action on your behalf,\" such as \"researching topics, using a web browser, organizing information, and helping complete tasks.\" \nAny content you generate in Studio, like a daily briefing podcast, can be saved to your Spotify library. It will be launching \"in the coming weeks\" as a research preview for users 18 and  …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-21T15:47:29.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Studio von Spotify Labs ist eine neue eigenständige KI-App, die mithilfe von Chatbot-Eingabeaufforderungen ein tägliches Briefing, Podcasts und Playlists auf Ihrem PC generiert. Der von der KI generierte Inhalt basiert auf Ihrem Spotify-Hörverlauf sowie auf Informationen von Apps, die Sie damit verbinden, wie Ihrem E-Mail-Posteingang, Kalender und Notizen. Sp...",
-    "titleDE": "Der KI-Agent von Spotify Studio erstellt täglich einen Podcast speziell für Sie"
-  },
-  {
     "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
     "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
     "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
@@ -438,26 +458,6 @@
     "category": "news",
     "descriptionDE": "Das nächste große Ding für Nvidia werden CPUs für KI-Agenten im Wert von 200 Milliarden US-Dollar sein, prognostiziert CEO Jensen Huang.",
     "titleDE": "Jensen Huang sagt, er habe für Nvidia einen „brandneuen“ 200-Milliarden-Dollar-Markt gefunden"
-  },
-  {
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-    "pubDate": "2026-05-21T00:21:21.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic hat seinen Investoren mitgeteilt, dass es den Umsatz im zweiten Quartal auf rund 10,9 Milliarden US-Dollar mehr als verdoppeln wird.",
-    "titleDE": "Anthropic sagt, dass es bald sein erstes profitables Quartal haben wird"
-  },
-  {
-    "title": "Clouted wants to take the guesswork out of making short videos go viral",
-    "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-    "description": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-    "pubDate": "2026-05-20T22:30:45.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Videoclip-Startup sammelte eine 7-Millionen-Dollar-Seed-Runde unter der Leitung von Slow Ventures.",
-    "titleDE": "Clouted möchte dem Rätselraten ein Ende bereiten, wenn es darum geht, Kurzvideos viral zu machen"
   },
   {
     "title": "We’re announcing new community investments in Missouri.",
