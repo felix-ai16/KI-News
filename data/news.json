@@ -1,5 +1,35 @@
 [
   {
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "description": "We're in the transition period -- all of us.",
+    "pubDate": "2026-05-24T21:39:21.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wir befinden uns in der Übergangszeit – wir alle.",
+    "titleDE": "Jeder navigiert in Echtzeit durch die KI-Sicherheit – sogar Google"
+  },
+  {
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "pubDate": "2026-05-24T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wie andere KI-Wearables bietet Amazons Bee eine seltsame Kombination aus Komfort und Privatsphäre.",
+    "titleDE": "Ich habe das tragbare Bee von Amazon ausprobiert und bin sowohl fasziniert als auch leicht verunsichert"
+  },
+  {
+    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHacking the first generation of AI chatbots was a laughably simple affair. You didn't need any technical know-how, backdoor access, or even a basic understanding of what a large language model was. You didn't need to code. To get an AI system that had cost billions to build to abandon its safety instructions, sometimes all you had to do was ask.\nThese attacks, known as jailbreaks, had the quality …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-24T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Um mehr über KI-Unfug zu erfahren, folgen Sie Robert Hart. Der Stepback erreicht die Posteingänge unserer Abonnenten um 8 Uhr ET. Melden Sie sich hier für The Stepback an. Wie es begann Das Hacken der ersten Generation von KI-Chatbots war ein lau...",
+    "titleDE": "Hacker lernen, die „Persönlichkeiten“ von Chatbots auszunutzen."
+  },
+  {
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
@@ -147,7 +177,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Der SpaceX S-1 ist endlich da und die Geschichte, die er erzählt, geht weit über Raketen hinaus. Die Akte umfasst allein 36 Seiten mit Risikofaktoren, und die darin enthaltenen Zahlen stimmen mit dem Ziel überein: ein insgesamt adressierbarer Markt im Wert von 28 Billionen US-Dollar, ein Gehaltspaket, das an die Gründung einer Marskolonie gebunden ist, und ein Bewertungsziel, das …",
-    "titleDE": "SpaceX-Anträge sollen an die Öffentlichkeit gehen, und die Rechnung erfordert ein wenig Vertrauen"
+    "titleDE": "SpaceX-Dateien sollen an die Öffentlichkeit gehen, und die Rechnung erfordert ein wenig Vertrauen"
   },
   {
     "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
@@ -216,7 +246,7 @@
     "pubDate": "2026-05-22T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "OpenAI wird im Gartner Magic Quadrant 2026 für Enterprise AI Coding Agents als führend eingestuft, wobei Codex für Innovation und Bereitstellung im Unternehmensmaßstab gewürdigt wird.",
+    "descriptionDE": "OpenAI wird im Gartner Magic Quadrant 2026 für Enterprise AI Coding Agents als führend eingestuft, wobei Codex für Innovation und unternehmensweite Bereitstellung gewürdigt wird.",
     "titleDE": "OpenAI wurde von Gartner als führender Anbieter von Enterprise-Coding-Agents ausgezeichnet"
   },
   {
@@ -310,16 +340,6 @@
     "titleDE": "Mit diesem KI-Gitarrenpedal kann ich meine eigenen Effekte erzeugen"
   },
   {
-    "title": "Spotify is launching AI-generated remixes",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-    "description": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do participate will collect royalties on these AI remixes.\nIn October of last year, Spotify announced that it was working with UMG, as well as other major labels, Sony Music Group, Warner Music Group, Merlin, and Believe, to create \"responsible AI products.\" At the time, it was unclear exactly what that meant. But this appears to be the first product of t …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-21T15:54:03.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Spotify und Universal Music Group (UMG) haben gerade einen Lizenzvertrag angekündigt, der es Benutzern ermöglicht, die Erstellung von KI-generierten Remixen und Covern für Streaming-Songs anzuregen. Das Tool wird ein kostenpflichtiges Add-on für Premium-Abonnenten sein. Künstler können sich vom Programm abmelden, aber diejenigen, die teilnehmen...",
-    "titleDE": "Spotify bringt KI-generierte Remixe auf den Markt"
-  },
-  {
     "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
     "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
     "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
@@ -400,16 +420,6 @@
     "titleDE": "Die US-Regierung beteiligt sich mit 2 Milliarden US-Dollar an neun Quantencomputerunternehmen"
   },
   {
-    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-    "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-    "description": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-    "pubDate": "2026-05-21T13:38:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Recycling-Startups nutzen KI, um die Rückgewinnung kritischer Mineralien wie Aluminium zu verbessern, mit dem Ziel, eine riesige Metallquelle aufzubauen.",
-    "titleDE": "Da die Aluminiumpreise um 20 % gestiegen sind, setzen Recycling-Startups auf KI, um Geld zu verdienen"
-  },
-  {
     "title": "The Download: online safety’s future and climate tech’s big pivot",
     "link": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
@@ -448,16 +458,6 @@
     "category": "trend",
     "descriptionDE": "Seit ihren Anfängen im Amt hat die Trump-Administration Forscher verfolgt, die Hassreden, Belästigung, Propaganda und Desinformation im Internet untersuchen und versuchen, ihnen entgegenzuwirken. Nun wehren sich einige dieser Forscher. Letzte Woche ihre Klage – die globale Auswirkungen haben könnte ...",
     "titleDE": "Tech-Forscher verklagen die Trump-Regierung wegen der Zukunft der Online-Sicherheit"
-  },
-  {
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-    "pubDate": "2026-05-21T00:28:31.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das nächste große Ding für Nvidia werden CPUs für KI-Agenten im Wert von 200 Milliarden US-Dollar sein, prognostiziert CEO Jensen Huang.",
-    "titleDE": "Jensen Huang sagt, er habe für Nvidia einen „brandneuen“ 200-Milliarden-Dollar-Markt gefunden"
   },
   {
     "title": "We’re announcing new community investments in Missouri.",
@@ -638,15 +638,5 @@
     "category": "news",
     "descriptionDE": "OpenAI fördert die Herkunft von KI-Inhalten mit Content Credentials, SynthID und einem Verifizierungstool, das Menschen dabei hilft, KI-generierte Medien zu identifizieren und ihnen zu vertrauen.",
     "titleDE": "Förderung der Inhaltsherkunft für ein sichereres und transparenteres KI-Ökosystem"
-  },
-  {
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-    "pubDate": "2026-05-18T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI und Dell arbeiten zusammen, um Codex in Hybrid- und On-Premise-Umgebungen zu bringen und Unternehmen dabei zu helfen, KI-Codierungsagenten sicher über Daten und Arbeitsabläufe hinweg bereitzustellen.",
-    "titleDE": "OpenAI und Dell arbeiten zusammen, um Codex in hybride und lokale Unternehmensumgebungen zu bringen"
   }
 ]
