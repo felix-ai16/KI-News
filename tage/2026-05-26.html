@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Dienstag, 26. Mai 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Dienstag, 26. Mai 2026</h1>
+  <p class="subtitle">3 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify" target="_blank" rel="noopener">Uber-Präsident sagt, KI-Ausgaben seien „immer schwerer zu rechtfertigen“</a></h2><p class="news-description">Uber-Präsident Andrew Macdonald (im Bild) sagt, es sei „schwer, eine Grenze“ zwischen KI-Ausgaben und verfügbaren Funktionen zu ziehen. | Foto: Zed Jameson/Bloomberg über Getty Images Nachdem Uber Berichten zufolge sein jährliches KI-Budget nur vier Monate nach Beginn des Jahres 2026 aufgebraucht hat, fragt sich Uber nun, ob es mich tatsächlich sieht …</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/" target="_blank" rel="noopener">Ein Realitätscheck zur KI-Job-Hysterie</a></h2><p class="news-description">Hast du es nicht gehört? Angestellte Arbeitsplätze verschwinden, dezimiert durch KI. Entlassungswellen im Technologiesektor (zuletzt bei Coinbase, Meta und Cisco) sollen ein Vorgeschmack darauf sein, was bald auf uns alle als Wissensarbeiter zukommt. Aber bevor Sie Ihren Job als Softwareentwickler oder Finanzanalyst kündigen –...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/" target="_blank" rel="noopener">Es ist an der Zeit, sich mit der drohenden Krise im Berufseinstiegssektor auseinanderzusetzen.</a></h2><p class="news-description">Künstliche Intelligenz hat bisher keine saubere Geschichte der Massenarbeitslosigkeit hervorgebracht. Die Gesamtbeschäftigung in den entwickelten Ländern bleibt im Großen und Ganzen stabil, und jüngste Bewertungen haben nur begrenzte Hinweise darauf gefunden, dass KI die Schlagzeilenzahlen verschoben hat. Doch möglicherweise verbirgt sich unter der Oberfläche eine besorgniserregende Veränderung ...</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
