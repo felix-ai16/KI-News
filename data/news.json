@@ -1,5 +1,45 @@
 [
   {
+    "title": "Erin Brockovich takes aim at data center secrecy",
+    "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "description": "Environmental activist Erin Brockovich has a new mission.",
+    "pubDate": "2026-05-31T21:05:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Umweltaktivistin Erin Brockovich hat eine neue Mission.",
+    "titleDE": "Erin Brockovich nimmt die Geheimhaltung von Rechenzentren ins Visier"
+  },
+  {
+    "title": "Making sense of the debate over AI psychosis",
+    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "pubDate": "2026-05-31T15:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In der neuesten Folge von Equity diskutieren wir darüber, ob Tech-CEOs „besonders anfällig für KI-Psychosen“ sind.",
+    "titleDE": "Die Debatte über KI-Psychose verstehen"
+  },
+  {
+    "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+    "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded fake.\nSo I went looking for it. What I eventually found, after weeks of searching, dozens of emails, and a reporting effort that spanned continents, was somehow even dumber than I'd imagined.\nMy first port of call was Gudtrip's website, which only made the vape seem more like a prank. The company's description of the pr …\nRead the full story at The Verge.",
+    "pubDate": "2026-05-31T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Krypto-Weed-Vaper fand mich am 20.04., dem großen Feiertag der Cannabis-Enthusiasten auf der ganzen Welt. Es kam über Slack an, mit dem Miniaturbild eines Mannes, der eine Dampfwolke ausatmet, und der Aufschrift „Jeder Treffer liefert Bitcoin“ darauf. Es wurde behauptet, Werbung für ein Gerät namens Gudtrip zu machen, und ich dachte, überhaupt...",
+    "titleDE": "Ich habe mich auf die Suche nach dem KI-Gras-Vapor gemacht, der einem Bitcoin zum Rauchen gibt"
+  },
+  {
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+    "pubDate": "2026-05-30T21:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ziel sei es, bis zu 5 Gigawatt zusätzliche Rechenzentrumskapazität zu entwickeln und zu betreiben, so das Unternehmen.",
+    "titleDE": "SoftBank will bis zu 75 Milliarden Euro in den Bau französischer Rechenzentren investieren"
+  },
+  {
     "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
     "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
     "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
@@ -370,26 +410,6 @@
     "titleDE": "Asana erwirbt den No-Code-Agenten-Builder StackAI"
   },
   {
-    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-    "pubDate": "2026-05-28T18:52:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic hat eine Serie-H-Runde im Wert von 65 Milliarden US-Dollar mit einer Post-Money-Bewertung von 965 Milliarden US-Dollar abgeschlossen. Dies könnte die letzte private Mittelbeschaffung des KI-Startups vor einem mit Spannung erwarteten Börsengang sein.",
-    "titleDE": "Anthropic sammelt 65 Milliarden US-Dollar ein und nähert sich vor dem Börsengang der Bewertung von 1 Billion US-Dollar"
-  },
-  {
-    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-    "pubDate": "2026-05-28T18:32:25.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Große Börsen entwickeln Derivateprodukte rund um KI-Token, die zunehmend weniger als Rechenleistung, sondern eher als Rohstoffinput wie Strom oder Bandbreite betrachtet werden.",
-    "titleDE": "Genau wie Gold und Öl werden wir bald in der Lage sein, KI-Token-Futures zu handeln"
-  },
-  {
     "title": "How a new extraction process could unlock the world’s lithium",
     "link": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
     "description": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.  The research was published today in Science, and a startup called Rock Zero is working to…",
@@ -400,16 +420,6 @@
     "titleDE": "Wie ein neues Extraktionsverfahren das weltweite Lithium erschließen könnte"
   },
   {
-    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-    "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-    "description": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
-    "pubDate": "2026-05-28T17:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "StrictlyVC Los Angeles findet am 18. Juni statt. Nehmen Sie an sinnvollen Networking- und Kamingesprächen mit Führungskräften von Mach Industries, Shinkei Systems und anderen teil. Registrieren Sie sich noch heute.",
-    "titleDE": "In nur 3 Wochen kommt StrictlyVC nach Los Angeles"
-  },
-  {
     "title": "Claude’s new model is more ‘honest’ when it messes up",
     "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
     "description": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\"\nAccording to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\"\nThe AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus 4.8 is \"around 4x less likely than its predeces …\nRead the full story at The Verge.",
@@ -418,16 +428,6 @@
     "category": "news",
     "descriptionDE": "Anthropic bringt am Donnerstag Claude Opus 4.8 auf den Markt und das Unternehmen lobt die „Ehrlichkeit“ des Modells. Laut Anthropic trainiert es „alle [seine] Modelle, ehrlich zu sein – zum Beispiel, um Behauptungen zu vermeiden, die sie nicht unterstützen können.“ Es wird jedoch darauf hingewiesen, dass „ein allgemeines Problem bei KI-Modellen darin besteht, dass sie ...“",
     "titleDE": "Claudes neues Modell ist „ehrlicher“, wenn es etwas vermasselt"
-  },
-  {
-    "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-    "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-    "description": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter.\nDreams of Violets cost $2,000 to make and is \"based on journalistic reports, photographs, and eyewitness accounts,\" according to a press release. It was created by Ash and Pooya Koosha, two brothers who left Iran in 2009. Pooya cofounded Fountain 0, the company behind the film, while Ash serves as CEO.\n\nFountain 0 says Dreams of Violets …\nRead the full story at The Verge.",
-    "pubDate": "2026-05-28T16:08:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Das Tribeca Festival im nächsten Monat wird die Premiere eines KI-generierten Films beinhalten: Dreams of Violets. Der 75-minütige Film ist eine fiktive Dramatisierung der Massentötung von Demonstranten durch die iranische Regierung im Januar, wobei die Menschen und Bilder vollständig von KI erstellt wurden, wie The Hollywood zuvor berichtete ...",
-    "titleDE": "Ein KI-generierter Film im Wert von 2.000 US-Dollar wird bei Tribeca sein Debüt geben"
   },
   {
     "title": "Catch up on 12 major I/O 2026 moments",
@@ -540,16 +540,6 @@
     "titleDE": "Aufbau selbstverbessernder Steuerberater mit Codex"
   },
   {
-    "title": "Election information and safeguards in 2026",
-    "link": "https://openai.com/index/election-safeguards-2026",
-    "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-    "pubDate": "2026-05-27T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Im Vorfeld globaler Wahlen helfen wir Menschen beim Zugang zu Informationen, unterstützen Cyber-Verteidiger und erhöhen die KI-Transparenz",
-    "titleDE": "Wahlinformationen und Schutzmaßnahmen im Jahr 2026"
-  },
-  {
     "title": "Warp’s big bet on building open source with GPT-5.5",
     "link": "https://openai.com/index/warp",
     "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
@@ -558,6 +548,16 @@
     "category": "news",
     "descriptionDE": "Warp verwendet GPT-5.5- und OpenAI-Modelle, um Coding-Agents über lokale, Cloud- und Open-Source-Entwicklungsworkflows hinweg zu koordinieren.",
     "titleDE": "Warps große Wette auf die Entwicklung von Open Source mit GPT-5.5"
+  },
+  {
+    "title": "Election information and safeguards in 2026",
+    "link": "https://openai.com/index/election-safeguards-2026",
+    "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "pubDate": "2026-05-27T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Im Vorfeld globaler Wahlen helfen wir Menschen beim Zugang zu Informationen, unterstützen Cyber-Verteidiger und erhöhen die KI-Transparenz",
+    "titleDE": "Wahlinformationen und Schutzmaßnahmen im Jahr 2026"
   },
   {
     "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
@@ -598,15 +598,5 @@
     "category": "news",
     "descriptionDE": "Deal hat auch das erste Quantengießereiunternehmen gegründet, aber besteht dafür ein Bedarf?",
     "titleDE": "Die große Wette der USA auf Quantencomputer ist möglicherweise nicht ganz legal"
-  },
-  {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-    "pubDate": "2026-05-25T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI arbeitet mit Grupo Folha und Grupo UOL zusammen, um vertrauenswürdigen brasilianischen Journalismus zu ChatGPT zu bringen und den Zugang zu Nachrichten mit Namensnennung und Transparenz zu erweitern.",
-    "titleDE": "OpenAI, Grupo Folha und Grupo UOL geben strategische Content-Partnerschaft bekannt"
   }
 ]
