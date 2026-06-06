@@ -1,223 +1,493 @@
 [
   {
-    "title": "AI has a water problem. Google thinks it has a fix",
-    "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-    "description": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. \nThe company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its facilities, and be transparent about its water use overall. \n\"We're just one of dozens of players in the space,\" Google's global head of infrastructure a …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-03T09:00:00.000Z",
+    "title": "How a USB-connected speaker can infect a PC without ever being touched",
+    "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+    "description": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+    "pubDate": "2026-06-05T21:00:29.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Der Verkäufer des Sound Blaster Katana V2X betrachtet das Verhalten nicht als Sicherheitslücke.",
+    "titleDE": "Wie ein über USB angeschlossener Lautsprecher einen PC infizieren kann, ohne jemals berührt zu werden"
+  },
+  {
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+    "pubDate": "2026-06-05T20:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Bewerbungsfrist für Startup Battlefield 200 endet offiziell am 8. Juni um 23:59 Uhr. PT. Warten Sie nicht länger. Sichern Sie sich Ihre Chance, diesen Oktober auf der Disrupt Stage beim TechCrunch Disrupt 2026 im Moscone West in San Francisco anzutreten.",
+    "titleDE": "Die Bewerbungen für Startup Battlefield 200 werden offiziell in 3 Tagen geschlossen"
+  },
+  {
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+    "pubDate": "2026-06-05T18:57:20.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In einer Erklärung beschrieb ein Google-Vertreter den Deal als Folge der unerwarteten Nachfrage nach seinen kürzlich eingeführten KI-Produkten.",
+    "titleDE": "Google zahlt SpaceX 920 Millionen US-Dollar pro Monat für die Rechenleistung"
+  },
+  {
+    "title": "The most interesting startups right now want to get you off your phone",
+    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+    "pubDate": "2026-06-05T17:17:06.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während die KI-Fundraising-Maschine weiterhin ihre eigenen Rekorde bricht, bauen einige Gründer in die andere Richtung. Mirror-Gründer Brynn Putnam hat gerade Geld für Board gesammelt, ein Startup, das sich darauf konzentriert, Menschen durch persönliche Spiele und soziale Erlebnisse zusammenzubringen. Cyberdeck-Ersteller gehen viral...",
+    "titleDE": "Die derzeit interessantesten Startups möchten Sie von Ihrem Telefon abhalten"
+  },
+  {
+    "title": "This is your laptop… on AI",
+    "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "description": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want this?\nOn this episode of The Vergecast, Nilay and David run through a lot of the products coming out of Microsoft Build and Google I/O, from Gemini S …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-05T16:39:07.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Angesichts der weit verbreiteten Gegenreaktion auf den Bau von KI-Rechenzentren in den gesamten USA wirbt Google für seine Bemühungen, die Auswirkungen auf die Umwelt zu minimieren, indem das Wasser für die lokalen Gemeinden tatsächlich erhöht wird. Das Unternehmen hat in einem neuen Blogbeitrag, der am Mittwoch veröffentlicht wurde, fünf Verpflichtungen rund um den Wasserverbrauch dargelegt.",
-    "titleDE": "KI hat ein Wasserproblem. Google glaubt, dass es eine Lösung gibt"
+    "descriptionDE": "Wir sind jetzt mitten in der Saison der Entwicklerkonferenzen und eines der bisherigen Themen ist die unerbittliche Überzeugung großer Technologieunternehmen, dass KI alles daran verändern wird, wie wir alles tun. Jensen Huang von Nvidia machte dies diese Woche deutlicher als jeder andere, als er eine völlig neue Art von ... beschrieb.",
+    "titleDE": "Das ist Ihr Laptop ... auf KI"
   },
   {
-    "title": "Google must let publishers opt out of AI Search features, rules UK",
-    "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-    "description": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used for the \"fine-tuning\" of Google's AI models. \n\"In a world first, publishers will now have effective tools to prevent their content being used to power AI features in search, such as AI Overviews,\" the CMA announced. \"This will put publishers, like news organizations, in a stronger position to negotiate co …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-03T08:45:48.000Z",
+    "title": "New York lawmakers pass one-year ban on new data centers",
+    "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+    "description": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\nLawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they create. It also requires companies planning to build large data centers - defined as having a peak demand of at least 20 megawatts - to hold and fun …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-05T15:25:10.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Dank einer britischen Regulierungsentscheidung erhalten Online-Publisher mehr Kontrolle darüber, ob ihre Websites in den KI-Suchfunktionen von Google angezeigt werden. Die neue Verhaltensregel der Wettbewerbs- und Marktaufsichtsbehörde (CMA) verlangt von Google, Websitebesitzern zu gestatten, ihre Inhalte von Funktionen wie KI fernzuhalten ...",
-    "titleDE": "Nach britischen Regeln muss Google Publishern die Möglichkeit geben, die Funktionen der KI-Suche zu deaktivieren"
+    "descriptionDE": "Der Gesetzgeber des Staates New York hat ein einjähriges Moratorium für neue große Rechenzentren verabschiedet, das erste landesweite Verbot dieser Art, wenn die demokratische Gouverneurin Kathy Hochul es in Kraft setzt. Die hinter dem Gesetzentwurf stehenden Gesetzgeber sagen, dass er den politischen Entscheidungsträgern Zeit geben soll, die Auswirkungen großer Rechenzentren auf die Umwelt zu verstehen.",
+    "titleDE": "New Yorker Gesetzgeber beschließen ein einjähriges Verbot für neue Rechenzentren"
   },
   {
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "description": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-    "pubDate": "2026-06-02T22:50:56.000Z",
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "pubDate": "2026-06-05T14:49:12.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Das Cybersicherheitsunternehmen steht kurz vor einer 300-Millionen-Dollar-Runde unter der Führung von Evolution Equity Partners.",
-    "titleDE": "Cyera strebt trotz operativer Verluste eine Bewertung von 12 Milliarden US-Dollar bei einem 80-fachen ARR-Vielfachen an"
+    "descriptionDE": "„Die ganze Diskussion verlagerte sich von Tokenmaxxing und ‚schnell gehen‘ zu ‚Wir brauchen Leitplanken, wie kontrollieren wir das?‘“",
+    "titleDE": "Die Token-Rechnung wird fällig: In der Branche wird darum gekämpft, die außer Kontrolle geratenen Kosten der KI in den Griff zu bekommen"
   },
   {
-    "title": "Microsoft Build 2026: The 7 biggest announcements",
-    "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-    "description": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models.\nIf you didn't watch the event live, you can catch up on all the latest news in the roundup below.\nA mini Surface PC designed for AI development\nThe Surface RTX Spark Dev Box is geared toward developers who want to run local AI models on their device, serving as a substitute for Qualcomm's canceled dev kit. It comes equipped with Nvidia's new Arm-based Spark RTX chip and 128G …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-02T19:23:52.000Z",
+    "title": "The latest AI news we announced in May 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "description": "Here are Google’s latest AI updates from May 2026",
+    "pubDate": "2026-06-05T14:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom Mai 2026",
+    "titleDE": "Die neuesten KI-Neuigkeiten haben wir im Mai 2026 angekündigt"
+  },
+  {
+    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+    "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+    "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+    "pubDate": "2026-06-05T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während die KI-Fundraising-Maschine weiterhin ihre eigenen Rekorde bricht, bauen einige Gründer in die andere Richtung. Mirror-Gründer Brynn Putnam hat gerade Geld für Board gesammelt, ein Startup, das sich darauf konzentriert, Menschen durch persönliche Spiele und soziale Erlebnisse zusammenzubringen. Cyberdeck-Ersteller gehen viral...",
+    "titleDE": "Die „Together Tech“-Welle könnte die faszinierendste Startup-Wette des Jahres 2026 sein"
+  },
+  {
+    "title": "This AI startup says it can tell if a script will make a hit film",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+    "description": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for Christy, which would go on to be a box office flop, would outperform the script for Sinners, which became an Oscar-winning blockbuster.\nAs many AI execs have pitched before, Quilty's founders believe that can help \"democratize\" their industry by giving up-and-coming creatives access to assistive tools -  …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-05T13:57:31.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Microsoft hat gerade Build 2026 mit einer Keynote von CEO Satya Nadella und anderen Unternehmensführern eröffnet. Wie erwartet war es voller Ankündigungen, die von neuer Surface-Hardware über einen ständig aktiven persönlichen Assistenten bis hin zu Updates für die hauseigenen KI-Modelle von Microsoft reichten. Wenn Sie die Veranstaltung nicht gesehen haben ...",
-    "titleDE": "Microsoft Build 2026: Die 7 größten Ankündigungen"
+    "descriptionDE": "Als Quilty Anfang des Jahres auf den Markt kam, versprach das KI-Startup, dass sein Tool allein durch das Lesen des Drehbuchs den Erfolg eines Films genau vorhersagen könne. Als die Leute jedoch tatsächlich die Gelegenheit bekamen, mit Quiltys Produkt zu experimentieren, blieben sie skeptisch. Trotz aller verfügbaren Daten...",
+    "titleDE": "Dieses KI-Startup sagt, es könne erkennen, ob aus einem Drehbuch ein Erfolgsfilm entsteht"
   },
   {
-    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "description": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-    "pubDate": "2026-06-02T19:11:48.000Z",
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "description": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "pubDate": "2026-06-05T13:03:10.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Die Kürzungen bei Uber erfolgten, nachdem das Unternehmen seine Mitarbeiter Berichten zufolge dazu ermutigt hatte, KI so weit wie möglich zu nutzen.",
-    "titleDE": "Uber begrenzt die KI-Ausgaben seiner Mitarbeiter, nachdem das Budget innerhalb von 4 Monaten durchbrochen wurde"
+    "descriptionDE": "Der australische Rechenzentrumsbetreiber plant, in Indien eine Kapazität von 5 GW aufzubauen.",
+    "titleDE": "AirTrunk stellt 30 Milliarden US-Dollar für den Bau von 5 GW KI-Rechenzentren in Indien bereit"
   },
   {
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "description": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-    "pubDate": "2026-06-02T19:02:21.000Z",
+    "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+    "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+    "pubDate": "2026-06-05T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Der Meta-Hack zeigt, dass es bei der KI-Sicherheit um mehr geht als um Mythos. Am Montag tauchten Berichte auf, dass Angreifer den KI-Kundensupport-Agenten von Meta genutzt hatten, um Instagram zu stehlen ...",
+    "titleDE": "Der Download: KI-Hacking jenseits von Mythos und die Auswirkungen von Chatbots auf unser Gehirn"
+  },
+  {
+    "title": "Are AI chatbots making us lose control of our brains?",
+    "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+    "description": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+    "pubDate": "2026-06-05T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Woche war ich bei SXSW London. Es wurde Musik, Film und viel – und ich meine, viel – über KI gesprochen. Ich hatte auch die Gelegenheit, mich mit Gloria Mark zusammenzusetzen, einer Psychologin an der University of California, Irvine, die in den letzten 30 Jahren untersucht hat, wie Menschen mit digitaler Technologie interagieren ...",
+    "titleDE": "Führen KI-Chatbots dazu, dass wir die Kontrolle über unser Gehirn verlieren?"
+  },
+  {
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "description": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
+    "pubDate": "2026-06-05T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Am 5. Juni berichtete 404 Media, dass Angreifer den KI-Kundensupport-Agenten von Meta genutzt hätten, um Instagram-Konten zu stehlen. Ihr Ansatz war einfach: Sie forderten den Agenten auf, die Konten mit den von ihnen kontrollierten E-Mail-Adressen zu verknüpfen, und der Agent kam dieser Bitte nach. Ein Angreifer brach in das ruhende Obama-Gebäude ein.",
+    "titleDE": "Der Meta-Hack zeigt, dass KI-Sicherheit mehr beinhaltet als nur Mythos"
+  },
+  {
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "description": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "pubDate": "2026-06-05T05:06:37.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Microsoft hat am Dienstag das Adaptive Spec-driven Scoring for Evaluation and Regression Testing vorgestellt, ein Open-Source-Framework zur Durchführung von KI-Bewertungen.",
-    "titleDE": "Mit dem neuen Microsoft-Tool können Entwickler KI-Verhaltenstests mithilfe von Textbeschreibungen durchführen"
+    "descriptionDE": "Im gegenwärtigen Umfeld ist die Rendite, wenn man mit dem Kopf nach unten bleibt, sinkt; Irgendwann muss man etwas Lärm machen, nur um den Markt daran zu erinnern, dass man existiert.",
+    "titleDE": "Vorsichtig tritt Mira Murati zurück ins Rampenlicht"
   },
   {
-    "title": "Trump signs executive order to review AI models before they’re released",
-    "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-    "description": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\"\nThe order says the US AI industry has succeeded in part \"because we refuse to stifle this innovation with overly burdensome regulation,\" but that it also recognizes new AI capabilities come with security risks. Accordingly, it directs several federal agencies to come up with a framework to \"assess the advanced cyber capabilities of AI models\" before they're releas …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-02T18:33:42.000Z",
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+    "pubDate": "2026-06-04T22:43:26.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic ist rasant gewachsen. Das Unternehmen gab bekannt, dass der Jahresumsatz im Mai die Marke von 47 Milliarden US-Dollar überschritten hat, ein dramatischer Anstieg gegenüber rund 9 Milliarden US-Dollar Ende 2025. Diese Entwicklung steht jedoch vor einer echten Bewährungsprobe.",
+    "titleDE": "Vor dem Börsengang schüttelt Daniela Amodei von Anthropic alle Zweifel an den Erträgen von AI ab"
+  },
+  {
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "pubDate": "2026-06-04T22:29:50.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der CEO von Airbnb sagte letztes Jahr, dass man keine LLM-Partnerschaft eingegangen sei, weil die bestehenden Produkte noch nicht ganz ausgereift seien.",
+    "titleDE": "Brian Chesky von Airbnb plant die Eröffnung eines neuen KI-Labors"
+  },
+  {
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+    "pubDate": "2026-06-04T21:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Am Donnerstag, den 18. Juni, treffen sich Investoren, Gründer und Technologieführer auf dem Aerospace Corporation Campus zu einem Gesprächsabend, an dem sie einige der folgenreichsten Veränderungen in den Bereichen Risikokapital, Verteidigungstechnologie, künstliche Intelligenz und fortschrittliche Industrie untersuchen. Sicher ...",
+    "titleDE": "Verteidigungstechnologie, KI und Fundraising stehen am 18. Juni bei StrictlyVC Los Angeles im Mittelpunkt"
+  },
+  {
+    "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+    "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+    "description": "By targeting large numbers of users, attackers increased their chances of success.",
+    "pubDate": "2026-06-04T20:02:04.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Indem Angreifer eine große Anzahl von Benutzern ins Visier nahmen, erhöhten sie ihre Erfolgschancen.",
+    "titleDE": "Dashlane erklärt, wie es Angreifern gelang, verschlüsselte Passwort-Tresore herunterzuladen"
+  },
+  {
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "description": "Meta may have found one way to slash its massive data center bill: tents.",
+    "pubDate": "2026-06-04T19:33:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta hat möglicherweise einen Weg gefunden, seine riesigen Rechnungen für Rechenzentren zu senken: Zelte.",
+    "titleDE": "Meta stiehlt eine Taktik von Tesla und baut Rechenzentren in Zelten"
+  },
+  {
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+    "pubDate": "2026-06-04T19:20:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Poke, das Startup, das es Menschen ermöglicht, KI-Agenten über einfache Textnachrichten zu nutzen, ist der erste KI-Agent, der für Apples Messages for Business-Plattform zugelassen ist.",
+    "titleDE": "Apple genehmigt Poke als ersten KI-Agenten auf seiner Messages for Business-Plattform"
+  },
+  {
+    "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+    "description": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\nThe change comes just days after Adams called on O'Leary to slash the size of his Stratos Project data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-04T18:38:04.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Präsident Donald Trump unterzeichnete am Dienstag eine Durchführungsverordnung zur Schaffung eines „freiwilligen Rahmens“, der es KI-Unternehmen ermöglicht, ihre Grenzmodelle vor ihrer Veröffentlichung mit der Bundesregierung zu teilen, „um sichere Innovationen zu fördern und die Cybersicherheit kritischer Infrastrukturen zu stärken“. In der Bestellung steht, dass...",
-    "titleDE": "Trump unterzeichnet eine Durchführungsverordnung zur Überprüfung von KI-Modellen vor ihrer Veröffentlichung"
+    "descriptionDE": "Kevin O'Leary stimmte zu, die Größe seines geplanten 40.000 Hektar großen Rechenzentrums in Utah zu halbieren, obwohl der Druck von Anwohnern und Aktivisten zunahm, wie zuvor von der lokalen Tochtergesellschaft ABC4 berichtet wurde. Der Shark Tank-Star schickte am Donnerstag einen Brief an den Senatspräsidenten von Utah, J. Stuart Adams, in dem er sagte, dass er 1 ... entfernen werde.",
+    "titleDE": "Kevin O’Leary stimmt der Verkleinerung des riesigen Rechenzentrums in Utah zu"
   },
   {
-    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-    "description": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-    "pubDate": "2026-06-02T18:16:53.000Z",
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+    "pubDate": "2026-06-04T16:32:48.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Der Vorbehalt besteht darin, dass einer der berühmtesten lebenden Regisseure der Welt die Technologie ausschließlich zum Storyboarding nutzt.",
-    "titleDE": "Martin Scorsese wird die neueste – und unwahrscheinlichste – Hollywood-Stimme für KI"
+    "descriptionDE": "Ersteller müssen oft Diagramme und Dashboards analysieren, um ihre Leistung zu verstehen, aber mit dem neuen KI-Assistenten können sie schnelle Antworten auf Fragen wie „Wann sollte ich posten?“ erhalten. und „Was sagen die Leute in meinen Kommentaren?“",
+    "titleDE": "Meta führt auf Facebook einen neuen KI-Erstellungsassistenten ein"
   },
   {
-    "title": "Microsoft’s first advanced reasoning AI is here",
-    "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-    "description": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties.\nAccording to Microsoft, MAI-Thinking-1 is a \"medium-sized model\" that \"matches leading models\" on \"key\" software engineering benchmarks. Microsoft says the company \"trained it from the ground up on clean data, without distillation from third-party models.\" \nAs for other models announced today, t …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-02T18:12:44.000Z",
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "description": "Apple's WWDC nears: Here's what you can look forward to.",
+    "pubDate": "2026-06-04T16:31:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apples WWDC rückt näher: Darauf können Sie sich freuen.",
+    "titleDE": "Was Sie von der WWDC 2026 erwarten können: Siris mit Spannung erwartete Überarbeitung und Apple Intelligence-Updates"
+  },
+  {
+    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+    "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+    "description": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+    "pubDate": "2026-06-04T15:05:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das kalifornische Startup brachte die vierte Generation seines Haushaltshilferoboters Stretch auf den Markt.",
+    "titleDE": "Ist das Silicon Valley bereit, Roboter in die Häuser der Menschen einzubauen? Hallo Roboter ist."
+  },
+  {
+    "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+    "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+    "description": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on Thursday, Reuters reports. \"We are doing our best to ensure TSMC does not become a bottleneck.\"\nThe surge in AI use has already put constraints on the memory industry, with the widespread shortage of RAM and NAND Flash memory expected to last for years. The AI boom is boosting the sale of semiconductor …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-04T14:15:44.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Microsoft hat auf der Build 2026 eine Reihe neuer hauseigener KI-Modelle angekündigt, darunter ein neues „Flaggschiff“-Modell: MAI-Thinking-1. Es ist ein ehrgeiziger Schritt in die Modellentwicklung für Microsoft, das im vergangenen Jahr seine ersten hauseigenen Modelle vorgestellt hat – zuvor hatte es auf die Modelle von OpenAI gesetzt. Die beiden Unternehmen...",
-    "titleDE": "Die erste fortschrittliche Schlussfolgerungs-KI von Microsoft ist da"
+    "descriptionDE": "Laut Berichten von Reuters und Bloomberg hat Taiwan Semiconductor Manufacturing Co. – der weltweit größte Halbleiterhersteller – trotz seines Fabrikaufbaus in den USA Schwierigkeiten, die Nachfrage amerikanischer Kunden zu befriedigen. „Die Kundennachfrage ist so hoch und wir können nur begrenzt unterstützen“, sagte TSMC-CEO ...",
+    "titleDE": "TSMC hat Mühe, mit der KI-Nachfrage Schritt zu halten: „Wir können nur eine begrenzte Menge unterstützen.“"
   },
   {
-    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-    "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-    "description": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-    "pubDate": "2026-06-02T18:02:44.000Z",
+    "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+    "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+    "description": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+    "pubDate": "2026-06-04T14:05:58.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Microsoft Scout wurde auf der Build vorgestellt und ist ein neuer KI-Assistent, der die Leistungsfähigkeit und Flexibilität von OpenClaw in das Microsoft 365-System integrieren soll.",
-    "titleDE": "Microsoft bringt Scout auf den Markt, einen von OpenClaw inspirierten persönlichen Assistenten"
+    "descriptionDE": "Apples App Store erzielte einen Umsatz von 1,4 Billionen US-Dollar, gegenüber 1,3 Billionen US-Dollar im letzten Jahr, wobei der Umsatz mit digitalen Gütern 149 Milliarden US-Dollar betrug.",
+    "titleDE": "Apple wirbt mit 1,4 Billionen US-Dollar an App-Store-Abrechnungen und -Verkäufen, 90 % ohne Provision"
   },
   {
-    "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-    "link": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-    "description": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expense reporting, email drafts, and much more.\nUnlike Copilot that lives inside Microsoft 365 apps, Microsoft Scout can see and do a lot more. \"This is a personal assistant, it's the first real personal assistant we've offered customers,\" explains Omar Shahine, corporate vice president of Microsoft Scout, in an interview with The Verge. \"I think it's …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-02T18:00:00.000Z",
+    "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+    "link": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+    "description": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I can’t recommend it enough. \nI wanted to have Ryan on the show because we’re on the cusp of the SpaceX IPO, which promises to be one of the most consequential public offerings in history for a variety of reasons — its biggest-ever size, of course, at nearly $2 trillion dollars, but also because all kinds of rules that keep our markets fair are being bent, if not outright broken, along the way. I also wanted to talk to Ryan because buried somewhere inside SpaceX is X, the social platform formerly known as Twitter, which Musk purchased in 2022. That’s what Ryan cowrote that book about. \nI was very confident that Musk would come to regret buying Twitter back then. I wrote a piece called “Welcome To hell, Elon,” which is probably the single most-read thing I’ve ever written. My thesis was that there would be no way to grow Twitter users and revenue without moderating the platform well and, ultimately, that Elon buying Twitter would destroy his reputation and cause damage to his other companies. \nNow, we have the numbers from the SpaceX IPO filing to see how right my prediction was. X is shrinking by every major metric, but it may not matter, as Ryan points out. Take a listen, and let me know what you think.\nRyan and I also got into all those rules being broken to land the SpaceX IPO — rules about shareholder control, inclusion in the major index funds, and all the other levers of market accountability that usually serve to keep companies in check. You’re going to hear us say “corporate governance” a lot in this episode, and while it may sound boring, it won’t be if you take a shot every time it comes up.\nOkay, don’t do that. But do consider what it means that Elon has become so rich, so powerful, and so detached from the levers of accountability that he can apparently get away with anything. That’s all without any of the major fund managers or investors calling foul because they don’t want to miss out on what could be the biggest financial windfall in recent memory. There’s a lot to think about in this episode. \nOkay: New York Times tech reporter Ryan Mac, on Elon Musk, X, and the SpaceX IPO. Here we go.\n\n\nThis interview has been lightly edited for length and clarity. \nRyan Mac, you’re a technology reporter at the New York Times. Welcome to Decoder.\nThanks for having me.\nI am really excited to talk to you. I can’t believe you’ve never been on the show before. I feel like we’ve done a lot of reporting in and around each other. I’m a big fan. Thanks so much for being on.\nI know. What the hell, man? You just have avoided me this whole time. But no, I’m kidding. It’s good to be here. I’ve listened to many episodes, so great to be a part of it.\nWell, now we’re going to ask you to answer for your crimes, which is what the Decoder audience really wants me to do, I guess. \nSpeaking of crimes, we’re going to talk about the SpaceX IPO. Elon Musk has obviously filed to take SpaceX public. There’s a lot in that IPO, including the idea that there’s a $28 trillion addressable market for SpaceX services, which is more than the world. Just a lot in there. \nYou’ve reported on a lot of it. So I do want to dive into it, but I actually want to start with X, the everything app, the app formerly known as Twitter. Because the SpaceX S-1 really gives us our first look into what that business is, what it has become, where it’s growing. \nIn 2022, I wrote an article — maybe the most viral article I’ve ever written — it was called “Welcome to hell, Elon,” in which I very confidently predicted that buying Twitter would be a disaster for Elon Musk. I’m just going to read you my thesis. It was the first sentence of the piece. And then I want to try to back into what we know about X. I’m very curious if you think this has come true or not.\nSo my thesis was: “Twitter is a disaster clown car company that is successful despite itself and there is no possible way to grow users and revenue without making a series of enormous compromises that will ultimately destroy Elon Musk’s reputation and possibly cause grievous damage to his other companies.”\nThere’s one view to say, “Yep, that totally came true.” There’s another view to say that actually Elon is more powerful than ever and on the cusp of an IPO that’s going to make him a trillionaire. So tell me about X. What do we know about X, the company in the years since Elon has bought it and what do we know about its financials as reported in this S-1?\nSure. I think you mentioned the word “growing” in all that and I think the place to start is the fact that X is simply not growing. It’s stagnated in terms of revenue, stagnated in terms of user growth. It’s been buried twice within Elon’s companies — first into xAI and now into SpaceX. So it’s become, in some ways, an afterthought in the Musk empire, despite it still being arguably Musk’s favorite thing. He spends countless hours a day on that thing, like many of us used to, and many of us still do. \nBut in terms of a business proposition, it’s a non-factor if you compare it to some of the other aspects of this business — something like Starlink, for example. If you look back at 2022, it’s just bizarre. He bought this company on a whim. He pitched this idea to investors that he would have one billion users. He would have integrated payments. It would be somewhere you could potentially book a taxi. He pitched this idea of it being WeChat. You mentioned the everything app. And it’s certainly not the everything app. At one point he was like, “You could watch TV on it.”\nNone of that has come to fruition. Yet I look at what’s happened in the last four to five years since then, and he’s gotten more powerful than ever. His net worth has increased. I think around the time he bought the company he was around $300 billion. His net worth now fluctuates anywhere from $600 to $800 billion these days. And a SpaceX IPO will take him potentially beyond the trillion dollar mark for the first time ever in human history. So it’s bizarre in that there are a lot of contradictory things about it, but at the end of the day, I’d argue he still comes out on top.\nIs it just as simple as he bought a distribution platform for his own tweets and he controlled it and he fixed the algorithm to favor himself and that worked? And it doesn’t matter that revenue is down $100 million year over year and not even quite 40 percent of Twitter’s pre-acquisition revenue? \nHe’s destroyed the business by every metric we can see in the S-1. Every number is down. And only the revenue from data licensing to AI companies is up. \nHis own AI company too. Yes, if you singularly look at X as a business, it’s clearly a failure from the time he took over the company to Fidelity marking the valuation of the company down to $10 billion before he merged it with xAI. But also you have to look at it in the whole landscape of Musk Inc. Since he bought the company, he spun up xAI, raised billions of dollars for that company. He then merged it into xAI, burying it, and then he merged it again with xAI into SpaceX. \nI guess he’s up, if you’re doing a plus-minus analysis of valuations of these companies. Again, these are valuations that seemingly have no basis in business fundamentals. We’re playing with Musk math here. He has this whole cadre of investors and friends that are willing to back him to the end of the Earth, but yeah, he’s, I’d say, winning.\nThere’s a version of this where you could straightforwardly make the argument that however many billions he lost on Twitter is worth it as an investment that got him to, “We’re going to do a trillion-dollar SpaceX IPO.”\nYeah, and I caution against looking back at it historically and thinking that was his plan all along. There is this trope that came up after Trump won the election that Elon Musk bought X to then help elect Donald Trump. There was really no proof of that, especially when we did our reporting at The Times and for our book Character Limit, but it has worked out for him. It’s indisputable in that sense. \nHe has bought a distribution platform for his own tweets. He’s the most followed person on the platform now. He controls the algorithm, he controls the content that gets boosted on the platform. I don’t know how to say this more, but he’s winning and that’s just where we are right now in society.\nIn the pre-X days when it was still Twitter, Elon would constantly talk about how he didn’t do any marketing for Tesla. They had spent no money in advertising, no money in marketing. He would just tweet to move Tesla sales up and down. And there was infinite demand for the Tesla Model 3 in particular and the Model Y. So much so that every other car maker essentially got confused and made Tesla Model Ys of their own.\nThey just thought people wanted electric cars. And maybe they just wanted Tesla’s and maybe there was a meme stock component to it, but Elon was just very good at using Twitter to drive demand for his products. He would constantly say, “I don’t have to pay for marketing. I just have this platform.” \nThe other part of my thesis was that buying X and changing the algorithm and being as political as he has been would cause reputational damage to Elon, would cause reputational damage to his companies. There’s some evidence that that is true in the case of Tesla, where the cars are less popular than they once were, certainly. There are campaigns to protest at Tesla dealerships. Is that true for SpaceX? Is it true for the rest of his empire?\nIt’s a great question. And with Tesla, of course, after the election, you saw the Tesla Takedown protests, people slapping those bumper stickers on their cars: “I bought this before Elon went crazy.” You could see the share of the Tesla market in the EV market falling. Of course, there’s a lot to do with the rise of Chinese vehicle manufacturers like BYD. \nBut I don’t know. I don’t think I see the same kind of reputational harm to SpaceX that I’ve seen with Tesla. And that may be because there’s just not as much consumer contact with parts of SpaceX. I think of something like the launch business. I’m not going out and buying a launch. Regular people aren’t buying launches; SpaceX is contracting with governments and big companies. Not to mention that they largely have a monopoly on getting things into space.\nIf your option is working with a company that has a CEO that is reputationally compromised versus not getting into space at all, you’ll probably go with the former. Starlink is another basket. It offers a product that is quite good and is not challenged in any way. I think of something like Iridium, for example, or the companies it competes against, and it just blows them out of the water. It’s such a strong service, so much so that governments rely on it and Ukraine relies on it and the numbers there continue to grow. That’s the crown jewel of the SpaceX business empire right now in terms of revenue and profit.\nThere’s no moral case to be made for being on Hughesnet still. You can’t be a better person by being on some of the other satellite providers that service the rural parts of the country. We see it in our own traffic and our own comments. We cover Starlink. There’s nothing better. They continue to innovate in the ways they continue to innovate and the audience doesn’t like it, but then there’s a huge part of the audience that says, “Wait, I don’t have a market alternative to this.”\nYou’re saying where there isn’t a market alternative, the reputational issues have not been a problem and every place where there might be or there’s a consumer market, the reputational issues have damaged it. I think X is actually the example of this. There are a number of market alternatives to X, so people have just left the platform.\nWhether or not there’s one big competitor to X remains to be seen. Threads by some accounts is vastly bigger than X, but it does not have the influence. Bluesky is run by very charming, very ideological people. They’re doing whatever it is they’re doing. It’s certainly not a competitor head up to X. Is there a reason that influence hasn’t recapitulated itself anywhere, or that the people still on X have stayed there?\nOh man, it’s something I think about a lot and I think the rumors of X’s demise at the time were greatly exaggerated in a way. These social platforms are so sticky. I remember one of the rounds of layoffs — I think it was the “A Fork in the Road” or one of those earlier rounds — and Twitter went down for a period of time, too. I remember being at dinner and everyone just writing eulogies for Twitter that night. And I’m like, “Guys, I don’t think this is it.”\nThis is a pretty resilient platform. It’s been developed over more than a decade. It’s been around for a while. It’s quite a resilient thing and it has a dedicated user base. That’s why we love it. It’s a great social experiment. At the time, I was wary of being like, “This is the end of Twitter.” And you’re starting to see now just how resilient it is.\nWe’re so caught up in it as reporters. We’re on it all the time. But there are normal people out there that still go to X because their soccer community is on it. Or it’s where they talk about movies and they have their six best friends there. It’s still a very sticky platform, in spite of the CSAM from Grok or the abusive stuff from Elon or the hate speech. They persist because it’s just where they’ve learned to be. It’s hard to generate that from scratch, and I think that’s why you’re seeing things like Bluesky hit a ceiling here in terms of attracting a wider audience.\nDo you think as we go into the IPO and SpaceX becomes a public company and X is just one piece of the puzzle, that it increases or decreases in importance to Elon? It is his favorite thing. But running a public rocket company is just a very different set of priorities.\nMaybe, but also he never operates as we expect him to. Running Tesla and having a Twitter account have not worked out well for him in the past. He’s been sued for some of the stuff he’s put on Twitter. I think of 2018 when he got sued for saying funding was secured for taking Tesla private. And he paid $20 million in a fine and largely got away with it.\nHe’s way more powerful now and way richer than ever. So I don’t think SpaceX being a public company will necessarily change his habits on X these days. The other day I saw him posting about the Anthropic deal. I don’t know if you saw that. That was in the S-1 and he was pushing back on the idea that Anthropic would pay this amount of money for a certain amount of years — this large amount of revenue, about $1.25 billion a year.\nHe was openly contradicting what was in the company’s IPO documents, which you cannot do during a quiet period. I don’t think anything’s going to come of that. I don’t think he’ll get a slap on the wrist or anything. He’s just higher than any form of accountability right now.\nThat brings us to the larger SpaceX IPO in general, because the whole thing is structured to avoid the mechanisms of accountability that usually exist in our markets. It’s going to end up on the NASDAQ in some way, shape or form in a way that basically all of us are going to end up invested in SpaceX.\nAnd we can’t take our dollars away because it’ll be in index funds. Elon is going to control an enormous part of the company in a way that maybe he just can never be removed. Who knows if even having a board of directors is important in that case. And then he has a monopoly on rocket launches, at least for now, and who knows if there will be market alternatives that provide accountability to SpaceX.\nWalk us through how this is structured. You’ve written about it at length that the SpaceX IPO is a corporate governance disaster, if you care about corporate governance. Walk us through it.\nI’m a big corporate governance guy myself.\n[Laughs] It is the hottest. It’s what all the TikTok dances are about lately.\nYeah, I have a corporate governance tattoo on my lower back. But no, this is serious stuff and it’s concerning to people that study corporate governance. So let’s talk about Elon Musk’s ownership of the company and his voting control of the company.\nHe has super-voting shares that, all told, give him about 85 percent control of votes at the company. And that’s a super-supermajority at this point. He basically controls every corporate decision at the share voting level. I think of something like Meta, for example, and compare that to Mark Zuckerberg. With super voting and voting agreements, Zuckerberg controls about 60 percent. Elon has even a larger stranglehold on his company than that. What does that mean? It means he controls the board, he appoints friends and advisors to board seats.\nThere’s no independent board commission to structure pay packages. Essentially he has control over how he gets compensated. I wrote about this pay package that he got earlier this year where he was awarded 1.3 billion shares in what’s called restricted stock.\nIf you actually look at the footnotes there in that S-1, you could see that he’s already able to vote that stock, which is insane and it’s unheard of. He hasn’t earned any of these shares and these shares are pegged to hitting milestones with the company, like creating a colony on Mars with a million people and putting data centers in space with, I think, 100 terawatts of compute a year, just an astronomical figure. \nHe has to hit these things in order to gain these shares to sell them. Well, he hasn’t hit any of these milestones and he’s able to vote these already given the stipulations that were put on them from management.\nCan I ask you about this, the colony on Mars? This is all bananas, right?\nI guess we’re burying the lede here, yeah.\nHe gets a huge pay package if he puts a colony on Mars with a million people in it and puts however many terawatts of compute in space. He’s in charge of this S-1. He obviously wrote it to his own specifications. Why set milestones that are unachievable and then vote the stock anyway instead of just giving yourself the stock?\nGood question. Maybe it gives it some semblance that he has to work towards these goals, but if you talk to corporate governance folks, they’re appalled that he gets to vote these anyways. This adds to his voting control, that 85 percent we talked about earlier. On top of that, he gets to take out loans against these shares. Of course that comes with board approval, but he controls the board. So he’s able to take out loans against these shares and get cash. And yeah, I don’t know. I don’t know why he’s even playing this dance of “I have to hit these milestones.”\nMy theory is that it’s so he can tweet about them. Legitimately, my theory is that he wants to be able to say, “I don’t get paid unless I put a million people on Mars.” Regardless of the technical details of whether he can vote the shares or take out loans against them as collateral. He gets to represent to the world, “I don’t receive the windfall until there are a million people on Mars.”\nThat’s a great point. There’s also a fun little wrinkle here in that you don’t pay taxes on them until you earn them. And so because he hasn’t earned them, because he doesn’t technically hold them yet or doesn’t have the ability to sell them, it’s not taxable. He doesn’t have to pay taxes on that either until he hits his milestones. In some ways, if you believe he’ll never hit them, he can still derive the power and potentially financial gain from it simply by holding them, or having this pay package under his thumb.\nThe usual way that a market could correct this is by a bunch of people telling retail investors, “Don’t invest in this IPO.” Or a bunch of people who are angry at Elon Musk selling their Teslas and telling their friends not to buy this IPO and driving their stock price down. That is a market corrective. We can see this happen with a variety of companies over time. \nThis IPO is going to end up in index funds very quickly in a way that I think is also terrifying a bunch of corporate governance experts, the sexiest new characters in American politics. Talk about that. How are we going to mechanically all end up owning SpaceX whether we want to or not?\nThis is the most underplayed and insane thing to think about. So how does this work? Maybe you and I take a look at the SpaceX IPO and we say, “I don’t like those financials. I personally would not invest in that company. I’m not going to buy shares through my Robinhood account or Schwab account.”\nBut let’s say we also have investments in index funds. We all have retirement accounts, and sometimes they’re invested in index funds. So we’re just passive investors in stock and these index funds trace the American industry by buying up shares in various stocks. So what’s happening here is that SpaceX and these indices have worked together to relax some of the rules. Let’s take the NASDAQ-100, for example. The NASDAQ-100 has 100 stocks in it that trace American industry, like blue chip stocks.\nTypically, it takes about 90 days for a company after its IPO to enter the NASDAQ-100, or to be allowed into the NASDAQ-100. The reason for that is it allows for some type of cooling period. Typically, after an IPO’s stocks go up and down, it takes some time to settle on the public market and to have a steady valuation, and that’s normal.\nIn this case, SpaceX gets to enter the index after 15 days, in the midst of this very big hype cycle. That’s essentially going to force a lot of these index funds to buy up SpaceX shares because it has entered the index. That will give SpaceX access to a lot of capital it would have had to have waited for for a couple of months. And that’s going to continue to drive the buying frenzy in the stock. It’s genius in a way, from SpaceX’s perspective, to get that access to billions of dollars of capital in some of these index funds, and that’s just one way the rules have been relaxed for this IPO.\nHow did that occur? Did Elon just roll up to all the index fund owners and say, “Pretty please?” Did you buy them off? Was it above board? Was it corrupt?\nBasically it’s been pretty opaque, but these things were simply announced. There have been rules around profitability that have been relaxed as well at some of these indices. There have been rules around governance that have been relaxed as well. \nWhat I’m seeing here, what I’ve talked to folks about, is just this level of hype has generated so much FOMO around this stock, this fear of missing out. You get to the point where these rules are being thrown out. I talked to one corporate governance expert who said it’d be like having all the rules and setting aside all the rules for football. And you play with the rules of football and you’ve perfected it and you have it down to the rules of the game and then when you get to the Super Bowl, the biggest event of the year, you change those rules. And that’s what we’re seeing here with SpaceX.\nThere are a lot of people who root against the Kansas City Chiefs who understand exactly what you’re talking about in very specific ways.\n[Laughs] It’d be like taking the tush push out of the NFL. \nWell, I get it, but it’s also one of the biggest IPOs. The banks have all been listed on the IPO. They’re all participating in it. Is it just as simple as they all want the business, or do they also have some amount of influence over the index funds so that they’re just changing the rules?\nYeah. I think of this quote from a story that two of my colleagues wrote last week for The Times. There’s this one fund manager who simply said, “If I miss out on the SpaceX IPO, someone’s going to tap me on the shoulder and ask me why I wasn’t in that. Whereas if I get burned on the SpaceX IPO, so many other people are going to get burned as well. So I have a way to cover my ass.”\nYou’re just reading this quote and thinking, “What is going on here? He’s just admitting to a herd mentality here.” That’s what we’re seeing. Now multiply that by every retail investor who’s getting marketing materials on Robinhood telling him, “Oh, we have IPO shares available in SpaceX, buy, buy, buy.” It’s unheard of.\nOne of the things that really strikes me about that is the normal market dynamic is some people would obviously heavily bet on SpaceX succeeding and some people would heavily bet against it and you want that dynamic to find the right price for this. Here that just seems to be erased.\nI’ll be interested in the short interest against this stock. I think that’ll be very interesting. But if you look at Elon’s track record, let’s say with Tesla for example, and how the stock has gone up over the years there, he’s completely crushed a lot of shorts there. He used to go to war against them, and he used to tweet about them all the time, but the best way to beat short sellers is to continue to increase the value of the stock, which Tesla has done over the years. \nThere’s just a meme-ification of this whole thing. This is not just a hype stock, but a meme stock in some ways, and that’s what happens when you have a celebrity CEO like this running a company.\nThat’s what’s really interesting to me because the car sales are falling. The product is not as successful as it once was. In many cases, the products are old. The Model S and Model X are being discontinued because they’re so old and he doesn’t want to spend money updating them.\nNow, he’s promising robotics and robotaxis and a bunch of other things that may never come to pass. Is he going to be able to pull the same move with SpaceX? Just continually promise something bigger to come in the future that changes the value dynamic with the company?\nHe is right now as we speak. What happened at the beginning of this year? SpaceX was going along its way. It was a launch business with rockets that have self-landing capabilities and a really good business in Starlink. And what did he do? He combined it with xAI and said, “Actually, you know what we’re going to do? We’re going to put data centers into space and this is the future. And oh, by the way, we’re going to put a factory on Mars to build these satellites to launch into space. And then we’ll get to the Mars colony.”\nThese are goals that have come up within the last year. He didn’t talk about these things previously. In the same way at Tesla where he has completely pivoted the company towards robots and the humanoid whatever things, you’re getting the same effect at SpaceX where he’s just selling people on a completely different bill of goods.\nIt’s just so interesting. I look at some of the contradictions he’s made over the years. There’s a tweet of his that he put up probably a year ago where he said, “The Moon doesn’t matter, we’re not focused on the Moon, we’re focused on Mars.” And then you go back and you look at the IPO documents and what he said more recently in the last couple of months and now they’re all in on the Moon. And that’s because NASA has put a renewed focus on the Moon and there’s money there. \nSo yeah, if you’re going off of what Elon says, it is whichever way the wind blows at this point and thus far that’s worked for him. People are willing to go with him and believe in him.\nHere we are, a half hour into a conversation about the SpaceX IPO and we’re going to talk about the fundamentals of the SpaceX business because that’s about where it ranks. It’s like the 15th thing on the priority list when you talk about the SpaceX IPO is the fundamentals of the business.\nAs you’ve said several times now, Starlink is the only profitable part of this business. It generated $11.4 billion in revenue last year. It goes up and down. Everything else is a gigantic money loser. The AI division had a deficit of $6.4 billion. The NASA contracts for launch lost $657 million. \nEverything else is losing money and then Starlink is the business that’s growing and generating actual profits. I look at that, I think, “Boy, I’ve covered the broadband industry for a long time here at The Verge. AT&T and Verizon are not the world’s sexiest businesses. They’re not throwing off so much margin that you can lose $6 billion on AI for the rest of your life.” \nHow does that work? Is there more Starlink to be had? Are we going to rip up all the fiber in the world and we’ll all get satellites? How do you generate enough money with Starlink to pay for all of this other stuff?\nGreat question. I believe SpaceX thinks Starlink can continue to grow. There are a lot of markets that haven’t been tapped yet. I think of something like India, for example, where the company is heavily courting the Modi government there to allow them to operate in a country with 1.5 billion people. There are markets like that where it can access and continue to grow that roughly 10 million, I think, monthly active user base.\nCan I push back on that just for one second?\nSure.\nThe Indian market is very complicated, but it is very well served by its own telecom providers. Reliance Jio is the winner in the Indian market and a huge number of people just have a cell phone as their primary connectivity device. They’re doing fine and it’s dirt cheap. Even if you’re excited about putting Starlink in that market, how do you compete against that? Is it possible? Have they laid out the case?\nThey have not. You can also argue that the revenue per user there is not going to be the same as it would be in the US or wherever else. But yeah, they’ve made the argument that as long as it continues to grow, it’s a good thing. They’ll continue to launch more satellites into space with these things and cover the world essentially. \nSpaceX CEO Gwynne Shotwell gave a presentation at Mobile World Congress earlier this year where she basically put out a hit on all these big telecoms. Online she’s compared herself or compared SpaceX to David versus Goliath, which is a convenient narrative where you have a $1.25 trillion David going against these supposed Goliaths here.\nThat’s the bull case for Starlink. But if you look at the other fundamentals of this, the spending on AI is quite nuts. It’s losing so much money on AI development. We haven’t even talked about the massive amount it has to pay for Cursor, which is a $60 billion deal. So you asked earlier, what are people investing in here? They’re investing in promises. There are no fundamentals here.\nWe can talk until we’re blue in the face about profits and revenues and growth, but at the end of the day, most investors are betting on Elon’s words and his ability to sell them on this idea of putting data centers into space or getting people to Mars.\nThe AI piece is fascinating. They’re estimating that $22.7 trillion will be generated from enterprise AI.\nYeah, I want to talk about this TAM. It’s just insane.\nTAM stands for total addressable market. It is $28 trillion, I think, maybe slightly more.\nThere’s a great line in the S-1, which says something like this is the largest TAM ever in human history. And I’m like, “Cool. Show me how you got there.” And it’s just like, “Trust me, bro.” It’s like, “We got this. We did the numbers and it’s $23 trillion in AI and $3 trillion in rocket launches.” I don’t know where the fundamentals are for that. What are they basing that on? Sure, it’s in their S-1, but it’s a lot of “trust me” at this point.\nThe case for this is going to be a great IPO because SpaceX figured out the Falcon 9 and rocket reusability and they essentially have a monopoly on launched services in the United States, at least until Jeff Bezos and Blue Origin figure out whatever they’re going to figure out. That’s a pretty good case. I can see that case.\nStarlink is a growing business. We are essentially the default government contractor for a very important mission both in national security and telecom and everything else we use satellites for. I see all of that.\nWhy add on this totally illusory enterprise $22.7 trillion from AI when you’re up against OpenAI, Anthropic and Google? And Elon has admitted very publicly that xAI was not built correctly and needs to be totally rebuilt. Now, he’s selling compute capacity to Anthropic on the side.\nTAM says everything. It shows where they think the addressable market is, which is in AI. And all the hype right now is around AI, with OpenAI and Anthropic both expected to go public or at least file to go public. Anthropic did that today. I think Elon saw that. And if you had just taken the old SpaceX business public, what does that look like? That’s the launch business and that’s Starlink, that’s a solid business, right?\nIs it a $1.25 to $1.5 trillion business? No. But if you layer on all these promises of, “Actually, we control getting things into space so we’re going to control getting data centers into space, and we’re going to own all the data centers in space and everyone’s going to have to rely on us to power the future of the American economy,” that’s a much more bullish proposition. It’s also a much more valuable proposition and one that you can raise a lot more money on.\nElon sees this as a singular opportunity to raise money. We’re talking about $50 to $75 billion in cash raised. That outstrips the current largest IPO, which was Saudi Aramco that raised almost $30 billion a couple of years ago. If you layer AI on top of that, you get a lot of this hype that he can sell into and raise all that cash.\nWhat does he want to do with that cash?\nOf course, get people to Mars.\nObviously.\n[Laughs] Of course, easy. Once you have $50 billion, you can land a million people on Mars. Yeah, these are expensive propositions. Building Starship is an expensive proposition. Building data centers on Earth is an expensive proposition, as is buying up all that compute, buying up talent, and buying companies like Cursor. He needs that cash to do all those things and continue building up Musk Inc. It’s not like they’re going to sit on this cash pile for a long time.\nIt occurs to me that Elon does not enjoy normal rich guy activities. He’s not buying boats. He doesn’t have a fleet of cars. He does have a lot of children. They’re expensive. I’ve got two. They seem very expensive. I can use $50 billion just for that. The AI piece of it is confusing to me because it doesn’t seem like there’s evidence that Elon’s AI efforts are competitive.\nThey’re competitive in the fact that Grok has distribution on X and I think a lot of these companies would love to have distribution that way. The fact that X users can just talk to Grok whenever they want — to do some unsavory things, but they still have distribution. Claude does not have that distribution. But Anthropic is ahead in coding.\nAnthropic is ahead in a lot of places. OpenAI has mindshare. Google has distribution in every way it can possibly have distribution. It’s going to power the next version of Siri for Apple. How do you win? How do you raise all this money and say, “We’re going to have a $22 trillion enterprise service at market,” when no one in AI thinks you’re even close to the lead right now. Can you just buy the talent?\nxAI is clearly behind in the model war. I saw this great tweet the other day that if Claude is Coca-Cola and OpenAI is Pepsi, then Grok is the RC Cola.\nI knew you were going to say RC Cola and I was pre-offended.\n[Laughs] Oh, no. Are you an RC Cola fan? I could go with Faygo for the Juggalos out there and I’m sure there’s a lot of Juggalos that like using Grok. \nBut it’s the fourth- or fifth- or sixth-best model, at least in terms of popularity. Can you build a business around that? Can that business be worth trillions of dollars? Probably not. And there’s some admission from Elon that, or there has been admission from Elon that it hasn’t gone as well. \nYou mentioned how he said the company wasn’t built right. You look at the Cursor acquisition they’re trying to pay for to get back in the game. You also look at this very interesting deal that the company has with Anthropic to rent out its compute from one of its main data centers that it built in Tennessee. \nColossus has two data centers, Colossus 1 and Colossus 2. It has since rented out one of these to Anthropic in a $1.25 billion a month deal. Anthropic is paying that much to get access to that compute. You’d probably argue that if everything was going swell at Grok and at xAI that they’d be using all that compute to push their own models and help their own customers. But in this case, it’s become sort of an AWS-type service where it’s renting out its space and that’s a good business. I’m not going to deny that — who wouldn’t want $1.25 billion a month in revenue? But it’s not what that thing was built for in the first place.\nIs there a way back for them to lead at the frontier? Is it, “We’re going to raise $50 billion and maybe we’ll just hire everybody from OpenAI”?\nPotentially. And if you look at some of the comments last week from Elon on X where he pushed back on the idea that that Anthropic deal would be for the next three years, he said, “We reserve the right to take some of that compute back.” \nHe’s suggesting maybe their models get good again to the point where they’ll need that compute. He changes with the wind and his business plan changes with the wind. We’ve seen that in the last six months to a year, these completely new businesses are coming out of nowhere. I don’t think there’s ever a “never” or a “never again” for Elon, and I guess he reserves the right to return to that at some point.\nI want to end where we started, which is in 2022 when Elon buys Twitter and renames it X. It’s now famously the “everything app.” We’re clearly all doing our payments there all day long. You wrote a whole book about it. I made the prediction that buying Twitter would trash his reputation and maybe harm his companies.\nHere we are now on the cusp of what might be one of the biggest IPOs in history. And it seems like in order to make it work, all of the rules of the game have had to be changed or rigged to favor Elon. If we were operating in a normal circumstance with the normal rules, with the normal index fund seizing rules, and he had to wait 90 days for profitability and people are looking at the actual fundamentals of this business, do you think there’s a chance that this IPO is as big as it’s going to end up being?\nProbably not as big. It’s hard to say. I still think there would be an incredible amount of hype around this company. You just don’t get this type of excitement for any CEO beyond Elon Musk. For a lot of people, they don’t necessarily pay attention to his politics or his everyday posting on Twitter, his hate speech or whatever thing he’s concocting on the platform. They see him as a successful businessman, a generational talent that put Teslas on the roads, and they see that every day. \nThey see that as a chance to invest in him. There would still be a large amount of retail, obviously not the same amount as having to force index funds to buy into a company. But that alone might drive a lot of success for this IPO. Again, it’s a completely hypothetical situation. We’ll have to see in two weeks.\nI’m very curious. Do you think there are any other correctives? We’ve talked about the market correctives, you talked about the index rules, you talked about the corporate governance issues. Are there any other correctives here, or are we just along for the ride?\nOh man, I’ve thought about accountability for Elon for a long time. That’s the point of our book. How do you hold someone that rich accountable? And I just think the normal levers of accountability for someone like that have gone out the window. Yeah, we’re along for the ride.\nI have one example in this IPO, which is if you’re a shareholder in SpaceX, you agree to arbitration for any issues around if you believe some kind of fraud or violation of securities law has happened. In the past, Elon has faced lawsuits from shareholders at Tesla and Twitter. At SpaceX, he’s essentially removed that ability to pursue those types of shareholder lawsuits. \nHe’s stacking the deck for himself here and removing any of the obstacles he could face as a public company CEO and entrenched himself in this company, built a pretty big moat around himself. The impact of that will be seen for years to come.\nWell, Ryan, it feels like no matter what, you and I are both going to end up as SpaceX shareholders. So I’ll see you at the next meeting. Thank you so much for being on Decoder. This is great.\nThanks for having me. I’ll see you on Mars.\n[Laughs] One million strong, bro. \nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-06-04T14:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Ähnlich wie Google bringt Microsoft eine eigene Version von OpenClaw auf den Markt. Microsoft Scout ist ein ständig verfügbarer Assistent, der sich in Microsoft 365-Apps wie Outlook, OneDrive und Microsoft Teams integriert und es Unternehmen ermöglicht, Mitarbeitern einen virtuellen Assistenten zuzuweisen, der sie bei der Organisation von Kalendern, Ausgaben usw. unterstützt.",
-    "titleDE": "Microsoft Scout ist ein neuer persönlicher KI-Assistent, der auf OpenClaw basiert"
+    "descriptionDE": "Heute spreche ich bei Decoder mit Ryan Mac, einem Technologiereporter bei der New York Times und Mitautor des hervorragenden Buchs „Character Limit: How Elon Musk Destroyed Twitter“, das 2024 erschien. Ich kann es nicht genug empfehlen. Ich wollte Ryan in der Show haben, weil wir an der Schwelle zum SpaceX-I... stehen.",
+    "titleDE": "Elon Musk überrollt die Wall Street und wird Billionär"
   },
   {
-    "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-    "link": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-    "description": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang up.\nIt's part of Google's broader June Android drop, which will add support for Apple AirDrop across more devices, including the Samsung Galaxy S25 lineup. Google is also making its Personal Safety app available to kids under 13, widely rolling out support for its AI-powered clothing try-on feature in Photos, and bringing the ability to find items in an outfi …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-02T18:00:00.000Z",
+    "title": "Let us filter AI slop, you cowards",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+    "description": "Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last year, with many now automatically applying labels to distinguish AI-generated images, videos, and music from those made by real, human creators.\nThat's all very well and good if we're just stumbling across labeled content at random, but you know what would be better? Letting us filter out the AI slop.\nCurrent labeling efforts haven't meaningfully changed how content is presented online. You may notice that some TikTok or YouTube videos in you …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-04T12:30:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Google führt eine neue Funktion für seine Telefon-App ein, die Sie vor Betrügereien mit künstlicher Intelligenz schützen soll. Wenn Sie nun einen Anruf von einem Betrüger erhalten, der offenbar von derselben Nummer wie einer Ihrer Kontakte kommt, markiert Phone by Google den Anruf als verdächtig, sodass Sie auflegen können. Es ist ein Teil...",
-    "titleDE": "Die Telefon-App von Google informiert Sie, wenn ein Betrüger sich als einer Ihrer Kontakte ausgibt"
+    "descriptionDE": "Niemand sollte der Gefahr ausgesetzt sein, überall in seinen Social-Media-Feeds Garnelen-Jesus zu sehen. | Bild: Cath Virginia / The Verge, Getty Images Es lässt sich fast nicht vermeiden, KI-generierte Inhalte online zu sehen, aber das muss nicht so sein. YouTube, Instagram, TikTok und mehr haben die Authentifizierung von Inhalten intensiviert ...",
+    "titleDE": "Lasst uns den KI-Schwachsinn filtern, ihr Feiglinge"
   },
   {
-    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-    "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-    "description": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
-    "pubDate": "2026-06-02T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Da sich immer mehr Menschen weigern, Anrufe von unbekannten Nummern entgegenzunehmen, ändern Betrüger ihre Taktik, indem sie vertrauenswürdige Telefonnummern fälschen und KI-Deepfake-Technologie nutzen, um wie Autoritätspersonen, Familienmitglieder oder Arbeitgeber zu klingen.",
-    "titleDE": "Google führt die Erkennung gefälschter Anrufe ein, um sich vor KI-Betrügereien mit Deepfake-Identitätsbetrug zu schützen"
-  },
-  {
-    "title": "Microsoft offers devs a better way to control AI agent behavior",
-    "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-    "description": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-    "pubDate": "2026-06-02T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit der Spezifikation können Entwickler-, Compliance- und Sicherheitsteams ihre eigenen Richtlinien definieren, die Agenten in tragbaren Richtliniendateien befolgen sollen.",
-    "titleDE": "Microsoft bietet Entwicklern eine bessere Möglichkeit, das Verhalten von KI-Agenten zu steuern"
-  },
-  {
-    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-    "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-    "description": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-    "pubDate": "2026-06-02T17:47:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In der Sammelklage, die der in Virginia ansässige Charles Sigwalt in Seattle eingereicht hat, wird behauptet, dass die Funktion „Familiar Faces“ von Ring Bilder von Passanten ohne Zustimmung speichert.",
-    "titleDE": "Amazon steht vor einer Sammelklage wegen der Gesichtserkennungsfunktion von Ring"
-  },
-  {
-    "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
-    "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-    "description": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows.\nMicrosoft demonstrated two concept Project Solara devices at Build today: Desk concept and badge concept. The desk concept is an Amazon Echo Show-like device that unlocks with facial recognition and provides access to AI agents. \n\nThe badge concept is a wearable, the type of badge you'd typically use to access a work building. It has a camera and a fingerprint scanner, which can wake an AI agent wi …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-02T17:31:02.000Z",
+    "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+    "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing what they say is an alarming biosecurity gap that could help trigger a global pandemic.\nAnthropic's Dario Amodei, OpenAI's Sam Altman, and Microsoft's Mustafa Suleyman are among the signatories urging US lawmakers to require companies selling synthetic DNA and RNA - genetic material that can ordered online and assembled in a lab - to screen purchases for sequences t …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-04T12:12:12.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Microsoft hat gerade auf der Build 2026 „Project Solara“ angekündigt, ein neues Betriebssystem für Gadgets, auf denen KI-Agenten ausgeführt werden. Das Unternehmen nennt es „eine neue Plattform, die von Grund auf für agentengesteuerte Erlebnisse entwickelt wurde“. Es basiert auf Android, nicht auf Windows. Microsoft demonstrierte zwei Konzepte für Project Solara-Entwickler...",
-    "titleDE": "Microsofts Project Solara ist ein Betriebssystem für KI-Agent-Gadgets"
+    "descriptionDE": "Einige der größten Konkurrenten der KI-Branche haben ihre zahlreichen Beschwerden aus einem gemeinsamen Grund beiseite gelegt: Sie wollen es den Menschen erschweren, ihre Technologie zur Entwicklung biologischer Waffen zu nutzen. In einem offenen Brief an US-Gesetzgeber drängen Technologieführer den Kongress, Regeln zu erlassen, um das zu schließen, was ihrer Meinung nach ein …",
+    "titleDE": "KI-Führer fordern einen strengeren Schutz vor KI-gestützten Biowaffen"
   },
   {
-    "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
-    "link": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-    "description": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is optimized for sustained workloads and local AI tasks.\nThe Surface RTX Spark Dev Box looks a little like the top of an Xbox Series X console, with an aluminum chassis that also doubles as a heatsink. It has a 100-watt thermal envelope, slightly more than the 45-watt-to-80-watt thermal envelopes for Nvidia's RTX Spark laptops. This miniature Surface PC also has 128GB of unifie …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-02T16:30:00.000Z",
+    "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
+    "pubDate": "2026-06-04T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen An den meisten Tagen durchforstet Richterin Maritza Braswell, eine Bundesrichterin in Colorado, in ihren Kammern ...",
+    "titleDE": "Der Download: KI-generierte Klagen und virtuelle Kraftwerke für Rechenzentren"
+  },
+  {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "link": "https://openai.com/index/endava-frontiers",
+    "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "pubDate": "2026-06-04T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Endava KI-Agenten, ChatGPT Enterprise und Codex nutzt, um die Softwarebereitstellung zu beschleunigen, Arbeitsabläufe zu automatisieren und eine KI-native Kultur im gesamten Unternehmen aufzubauen.",
+    "titleDE": "Wie Endava die Softwarebereitstellung rund um KI-Agenten neu gestaltet"
+  },
+  {
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
+    "pubDate": "2026-06-04T10:50:18.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "An den meisten Tagen durchforstet Richterin Maritza Braswell, eine Bundesrichterin in Colorado, in ihren Kanzleien Stapel von Dokumenten, die von Leuten ohne Anwalt verfasst wurden. Viele von ihnen können es sich nicht leisten, einen Anwalt zu beauftragen, und andere haben Fälle, die zu schwach oder zu klein sind, um einen zu interessieren. Sie liest jeden einzelnen sorgfältig durch, wohlgemerkt...",
+    "titleDE": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
+  },
+  {
+    "title": "Amazon develops a warehouse robot that workers can speak to",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+    "description": "The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon\t\n\nAmazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. \nAmazon says the AI-powered upgrade means its human employees can assign the robot tasks in the same way they'd communicate with colleagues. Previously, workers would need to use specialized software to direct the floor-level, tortoise-like systems, which are designed for heavy lifting and moving large carts throughout Amazon's warehouses. \"You tell it what needs to be  …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-04T09:31:14.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Microsoft hat erst am Wochenende ein neues Surface Laptop Ultra angekündigt und stellt nun einen Miniatur-Surface-PC vor, der sich an Entwickler richtet. Die neue Surface RTX Spark Dev Box wird wie das Surface Laptop Ultra von Nvidias neuen Arm-basierten RTX Spark-Chips angetrieben und ist für nachhaltiges Arbeiten optimiert.",
-    "titleDE": "Microsoft hat die Mini-Surface-Entwicklungsbox entwickelt, die Qualcomm nicht konnte"
+    "descriptionDE": "Das Design hat sich gegenüber dem ursprünglichen Proteus, der 2022 angekündigt wurde, nicht wesentlich verändert. | Bild: Amazon Amazon hat eine neue Version seines völlig autonomen Lagerroboters Proteus angekündigt, der mithilfe von Sprache statt Code interagieren wird. Die erweiterten Fähigkeiten sind Teil eines wachsenden Pivot-Towers...",
+    "titleDE": "Amazon entwickelt einen Lagerroboter, mit dem Arbeiter sprechen können"
   },
   {
-    "title": "Trump signs narrower executive order on AI oversight after industry objections ",
-    "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-    "description": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
-    "pubDate": "2026-06-02T16:23:08.000Z",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "link": "https://openai.com/index/chatgpt-memory-dreaming",
+    "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "pubDate": "2026-06-04T09:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "ChatGPT führt ein neues Speichersystem ein, um sich Präferenzen besser zu merken und den Kontext in allen Gesprächen aktuell und relevant zu halten.",
+    "titleDE": "Träumen: Besseres Gedächtnis für ein hilfreicheres ChatGPT"
+  },
+  {
+    "title": "Biodefense in the Intelligence Age",
+    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "description": "An action plan for AI-powered biological resilience",
+    "pubDate": "2026-06-04T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Ein Aktionsplan für KI-gestützte biologische Widerstandsfähigkeit",
+    "titleDE": "Bioverteidigung im Zeitalter der Intelligenz"
+  },
+  {
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "description": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "pubDate": "2026-06-03T22:56:51.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Nach Einwänden der Industrie unterzeichnete Präsident Trump eine überarbeitete KI-Durchführungsverordnung, die nur freiwillige staatliche Überprüfungen fortschrittlicher Modelle vor der Veröffentlichung vorschreibt.",
-    "titleDE": "Nach Einwänden der Industrie unterzeichnet Trump eine engere Durchführungsverordnung zur KI-Aufsicht"
+    "descriptionDE": "Lovable und Google haben einen erweiterten mehrjährigen Vertrag unterzeichnet, der eine Verfünffachung der Präsenz von Lovable in Google Cloud und einen erweiterten Zugang zu Anthropic Claude beinhaltet.",
+    "titleDE": "Laut Quelle unterzeichnet Lovable einen mehrjährigen Vertrag mit Google Cloud, um die Nutzung um das Fünffache zu steigern"
   },
   {
-    "title": "OpenAI launches new Codex tools for white-collar work",
-    "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "description": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.",
-    "pubDate": "2026-06-02T16:00:00.000Z",
+    "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+    "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+    "description": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+    "pubDate": "2026-06-03T19:53:14.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Der Sicherheitshinweis lässt wichtige Details aus. Dashlane schweigt völlig.",
+    "titleDE": "Sie verstehen die Benachrichtigung über den Tresordiebstahl von Dashlane nicht? Du bist nicht allein."
+  },
+  {
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+    "pubDate": "2026-06-03T19:38:32.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "OpenAI hat eine Reihe von sechs Plug-ins veröffentlicht, die auf bestimmte Aufgabenbereiche ausgerichtet sind: Datenanalyse, kreative Produktion, Vertrieb, Produktdesign, Kapitalanlage und Investmentbanking. Jedes der neuen Tools ist in der Codex-App verfügbar und bündelt Integrationen, Anweisungen und Kontext, damit Codex annähernd ...",
-    "titleDE": "OpenAI führt neue Codex-Tools für Büroarbeiten ein"
+    "descriptionDE": "Wenn der rekordverdächtige Aktienverkauf von Alphabet im Wert von 85 Milliarden US-Dollar den Appetit der Anleger auf KI-bezogene Angebote signalisiert, können wir sehen, dass die Anleger bereit sind, sich darauf einzulassen.",
+    "titleDE": "Die rekordverdächtige Kapitalerhöhung von Alphabet in Höhe von 85 Milliarden US-Dollar für das KI-Geschäft von Google ist ein verdammt gutes Signal"
   },
   {
-    "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-    "link": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-    "description": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based OS called Project Solara that’s designed for gadgets that run AI agents. \nBuild will continue through June 3rd, and we’ll have all the updates on Microsoft’s announcements here.\nFollow along here for the latest news and updates.\n\n\n\t\t\t\t\t\nKnow your audience, I guess.\n\t\t\t\nMicrosoft Build 2026: The 7 biggest announcements\n\t\t\t\nMicrosoft’s next-gen quantum chip cuts timeline to useful quantum computing\n\t\t\t\nMicrosoft’s first advanced reasoning AI is here\n\t\t\t\nMicrosoft Scout is a new AI personal assistant built on OpenClaw\n\t\t\t\nMicrosoft launches its Command Line blog during Build 2026.\n\t\t\t\nMicrosoft makes it more secure to run OpenClaw on Windows.\n\t\t\t\nMicrosoft’s Project Solara is an OS for AI agent gadgets\n\t\t\t\nMicrosoft’s AI agent OS: Project Solara.\n\t\t\t\nNvidia’s CEO dials into Build.\n\t\t\t\nThe new Surface mini PC is here.\n\t\t\t\nBuild kicks off with Windows.\n\t\t\t\nMicrosoft’s new developer-optimized Windows embraces Linux even more\n\t\t\t\nMicrosoft created the mini Surface dev box that Qualcomm couldn’t\n\t\t\t\nMicrosoft Build 2026 is about to begin.\n\t\t\t\nHow to watch Microsoft’s Build 2026 conference\n\t\t\t\nMicrosoft to unveil new AI models and Windows improvements at Build\n\t\t\t\nMicrosoft’s big developer conference returns to San Francisco in June",
-    "pubDate": "2026-06-02T15:59:58.000Z",
+    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+    "pubDate": "2026-06-03T19:07:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Dreambeans ist eine kuratierte Liste von KI-illustrierten „Geschichten“, die aus den persönlichen Daten in Ihrem Google-Konto ausgewählt werden.",
+    "titleDE": "Googles Dreambeans, das bisher seltsamste KI-Tool, wird Ihr Leben in einen Cartoon verwandeln"
+  },
+  {
+    "title": "As AI gets better, it reveals an empty promise",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+    "description": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to me is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in our world.\n\"Productivity\" is often pitched as a panacea for what befalls us in our personal lives, even going so far as to implicate our moral worthiness …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-03T17:45:35.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Microsoft Build 2026 startete mit einer Keynote-Präsentation, in der einige entwicklerorientierte Windows-Updates, ein OpenClaw-basierter KI-Assistent namens Scout, der neue Quantencomputing-Chip Majorana 2 und ein für KI-Entwickler konzipierter Surface-Mini-PC vorgestellt wurden. Microsoft hat außerdem ein neues Android-basiertes ...",
-    "titleDE": "Microsoft Build 2026: Alle Neuigkeiten zu Windows, KI, RTX Spark und mehr"
+    "descriptionDE": "Diese Woche haben wir von meinen Kollegen David Pierce und Jay Peters Tandem-Hands-Ons mit Googles neuem Gemini-KI-Agenten – Spark. Ihre Erkenntnisse sind ähnlich: Es ist so effektiv, dass es beängstigend ist. Spark wusste, dass Davids Hund Frida heißt und kannte den Vornamen von Jays Frau, obwohl keiner der beiden...",
+    "titleDE": "Je besser die KI wird, desto mehr offenbart sie ein leeres Versprechen"
   },
   {
-    "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-    "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-    "description": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-    "pubDate": "2026-06-02T14:44:21.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic erweitert Project Glasswing, sein Sicherheitslückenprogramm und den Zugang zu Mythos auf 150 Organisationen in 15 Ländern – und zielt dabei auf kritische Infrastrukturen in den Bereichen Energie, Wasser, Gesundheitswesen und Kommunikation ab, wo ein Cyberangriff 100 Millionen Menschen treffen könnte.",
-    "titleDE": "Anthropic skaliert Claude Mythos für kritische Infrastrukturen in über 15 Ländern"
+    "title": "How virtual power plants could provide energy for data centers",
+    "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+    "description": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
+    "pubDate": "2026-06-03T16:51:38.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Würden Sie eine Zahlung in Anspruch nehmen, um Ihren Stromverbrauch zu senken? Würde es etwas ändern, wenn Sie dies tun würden, um ein lokales Rechenzentrum mit Strom zu versorgen? Google hat gerade einen neuen Vertrag zur Finanzierung eines virtuellen Kraftwerks (VPP) im größten Stromnetz der USA unterzeichnet. Die Vereinbarung besteht mit Voltus,…",
+    "titleDE": "Wie virtuelle Kraftwerke Rechenzentren mit Energie versorgen könnten"
   },
   {
-    "title": "ZeroDrift raises $10M to protect AI models from themselves",
-    "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-    "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-    "pubDate": "2026-06-02T12:32:59.000Z",
+    "title": "Amazon will show AI product images when you search for some reason",
+    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "description": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "pubDate": "2026-06-03T15:50:26.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Ein neuer KI-Compliance-Dienst sitzt zwischen KI-Modellen und Endbenutzern, um alle Nachrichten zu kennzeichnen und zu ersetzen, die ein Compliance-Problem darstellen könnten.",
-    "titleDE": "ZeroDrift sammelt 10 Millionen US-Dollar, um KI-Modelle vor sich selbst zu schützen"
+    "descriptionDE": "Amazon nutzt visuelle Suche und KI, um KI-generierte Produktbilder anzuzeigen, die Ihren Suchanfragen entsprechen. Der Einzelhändler sagt, dass es dabei helfen wird, Benutzer zu den Produkten zu führen.",
+    "titleDE": "Amazon zeigt aus irgendeinem Grund KI-Produktbilder an, wenn Sie suchen"
+  },
+  {
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "pubDate": "2026-06-03T13:15:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "GPT-Rosalind treibt die biowissenschaftliche Forschung durch verbessertes biologisches Denken, Fachwissen in medizinischer Chemie, Genomanalyse und experimentelle Arbeitsablauffähigkeiten voran.",
+    "titleDE": "Einführung neuer Funktionen in GPT-Rosalind"
+  },
+  {
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+    "description": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+    "pubDate": "2026-06-03T13:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie Second-Hand-Ergebnisse mit KI-Tools in der Google-Suche und beim Google-Shopping.",
+    "titleDE": "5 Möglichkeiten, wie die Google-Suche Ihren Secondhand- und Vintage-Einkauf verbessern kann"
+  },
+  {
+    "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+    "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
+    "pubDate": "2026-06-03T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. 5 Schlüsselpunkte in Trumps neuer KI-Verordnung Weniger als zwei Wochen nach der Aufhebung einer Durchführungsverordnung zu KI unterzeichnete Präsident Donald Trump am Dienstag eine neue. Vielversprechend...",
+    "titleDE": "Der Download: Trumps neue KI-Anordnung und intelligente Brillen für die Kriegsführung"
+  },
+  {
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "link": "https://openai.com/index/wasmer",
+    "description": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "pubDate": "2026-06-03T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Sehen Sie, wie Wasmer Codex mit GPT-5.5 verwendet hat, um eine Node.js-Laufzeit für den Edge zu erstellen, wodurch die Entwicklung um das 10- bis 20-fache beschleunigt und die Auslieferung in Wochen statt in Monaten erfolgt.",
+    "titleDE": "Wie Wasmer Codex nutzte, um eine Node.js-Laufzeitumgebung für den Edge zu erstellen"
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "link": "https://openai.com/index/frontier-safety-blueprint",
+    "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "pubDate": "2026-06-03T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI skizziert einen Entwurf für die US-Regierung der Grenz-KI und schlägt einen föderalen Rahmen für Sicherheit, Widerstandsfähigkeit und nationale Sicherheit vor.",
+    "titleDE": "Ein Entwurf für eine demokratische Steuerung der Grenz-KI"
+  },
+  {
+    "title": "OpenAI public policy agenda",
+    "link": "https://openai.com/index/public-policy-agenda",
+    "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "pubDate": "2026-06-03T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI erläutert seine politische Agenda für KI, einschließlich Sicherheit, Jugendschutz, Arbeitskräfteübergang und globale Standards, um sicherzustellen, dass KI der Gesellschaft zugute kommt.",
+    "titleDE": "OpenAI-Politikagenda"
   },
   {
     "title": "The Download: AI can run your admin department now",
@@ -228,16 +498,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie kleine Unternehmen KI nutzen können Von Buchhaltung über Design bis hin zu Marktforschung und Produktentwicklung ist eine erstaunliche Bandbreite an Fähigkeiten erforderlich, um ein ... zu leiten.",
     "titleDE": "Der Download: AI kann jetzt Ihre Verwaltungsabteilung leiten"
-  },
-  {
-    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-    "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-    "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-    "pubDate": "2026-06-02T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut Eric Romo, Präsident von Impulse Space, hängt die Entwicklung physikalischer Systeme immer noch von menschlichem Talent ab.",
-    "titleDE": "Das Raketenantriebs-Startup Impulse sammelt 500 Millionen US-Dollar für die Einstellung von Mitarbeitern, nicht für KI"
   },
   {
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -300,36 +560,6 @@
     "titleDE": "Codex wird zu einem Produktivitätstool für alle"
   },
   {
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
-    "pubDate": "2026-06-01T22:55:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Das Unternehmen verzeichnet eine starke Nachfrage von Unternehmen und Verbrauchern nach seinen KI-Lösungen und -Diensten, die das verfügbare Angebot des Unternehmens übersteigt“, sagte Alphabet in seiner Erklärung.",
-    "titleDE": "Alphabet plant, 80 Milliarden US-Dollar aufzubringen, um den KI-Ausbau zu finanzieren"
-  },
-  {
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "description": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
-    "pubDate": "2026-06-01T21:35:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn Nvidia einen Weg gefunden hat, KI-Agenten einfach, sicher und nützlich für die breite Masse bereitzustellen, könnte – und sollte – ein großer Erfolg erzielt werden.",
-    "titleDE": "Nvidia verfolgt mit KI-Agent-PCs von Microsoft, Dell und HP den 200-Milliarden-Dollar-CPU-Markt"
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-    "pubDate": "2026-06-01T20:03:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Klage dreht sich teilweise um eine Schießerei an der Florida State University im letzten Jahr und die angebliche Rolle von ChatGPT bei dem Vorfall.",
-    "titleDE": "Florida verklagt OpenAI, Sam Altman, in der ersten Klage dieser Art wegen gewalttätiger Vorfälle"
-  },
-  {
     "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
     "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
     "description": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
@@ -338,16 +568,6 @@
     "category": "news",
     "descriptionDE": "Jeder, der betroffene Red Hat-Pakete heruntergeladen hat, sollte dies sofort untersuchen.",
     "titleDE": "Dutzende Pakete von Red Hat wurden über den offiziellen NPM-Kanal durch eine Hintertür zugänglich gemacht"
-  },
-  {
-    "title": "Water access is now a risk factor in SpaceX’s IPO",
-    "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-    "pubDate": "2026-06-01T18:19:53.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen gibt an, dass es „erhebliche“ Wasserressourcen benötigt, um seine Rechenzentren zu kühlen, und dass der Zugang zu reichlich vorhandenem, bezahlbarem Wasser eine Herausforderung darstellt.",
-    "titleDE": "Der Zugang zu Wasser ist jetzt ein Risikofaktor beim Börsengang von SpaceX"
   },
   {
     "title": "Our views on AI policy and political advocacy",
@@ -360,26 +580,6 @@
     "titleDE": "Unsere Ansichten zur KI-Politik und zur politischen Interessenvertretung"
   },
   {
-    "title": "Anthropic files to go public",
-    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "description": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-    "pubDate": "2026-06-01T16:36:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic, heute ein KI-Kraftpaket, das erstklassige Unternehmenskunden gewonnen hat, galt einst als Außenseiter in der aufstrebenden Welt der großen Sprachmodelle.",
-    "titleDE": "Anthropische Akten werden veröffentlicht"
-  },
-  {
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "description": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
-    "pubDate": "2026-06-01T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "WindBorne profitiert von seiner einzigartigen Kombination aus Modellbildung und Datenerfassung. Das Unternehmen hat derzeit etwa 400 Ballons im Flug, die zu jedem Zeitpunkt Sensorwerte sammeln und von 15 Standorten auf der ganzen Welt aus gestartet werden. Die Fortschritte im aktuellen Modell resultieren aus Verbesserungen bei der Datenerfassung...",
-    "titleDE": "Dieses KI-Wetter-Startup übertrifft die Prognosen der Regierungsbehörden"
-  },
-  {
     "title": "How we used Gemini to build Google I/O 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
     "description": "Learn how Googlers used AI to produce Google I/O 2026.",
@@ -388,26 +588,6 @@
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie Google-Mitarbeiter KI nutzten, um Google I/O 2026 zu erstellen.",
     "titleDE": "Wie wir mit Gemini Google I/O 2026 erstellt haben"
-  },
-  {
-    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-    "pubDate": "2026-06-01T14:49:10.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die alternative Suchmaschine DuckDuckGo führt Weberweiterungen ohne KI für Chrome- und Firefox-Benutzer ein.",
-    "titleDE": "DuckDuckGo erleichtert den Zugriff auf seine Suchmaschine ohne KI, da der Datenverkehr boomt"
-  },
-  {
-    "title": "The Download: China’s brain implant ambitions",
-    "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October, Dong Hui decided to try holding a…",
-    "pubDate": "2026-06-01T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. China hat den weltweit ersten invasiven Gehirn-Computer-Chip genehmigt – hier ist, was als nächstes kommt. Letzten Oktober saß er im Hof ​​seines Hauses in der chinesischen Provinz Henan ...",
-    "titleDE": "Der Download: Chinas Ambitionen für Gehirnimplantate"
   },
   {
     "title": "Building the infrastructure for the Intelligence Age in Michigan",
@@ -428,205 +608,5 @@
     "category": "news",
     "descriptionDE": "OpenAI-Frontier-Modelle und Codex sind jetzt allgemein auf AWS verfügbar und bieten Unternehmen einen neuen Weg zum Aufbau mit OpenAI über die AWS-Umgebungen, Kontrollen und Beschaffungsworkflows, die sie bereits verwenden. Kunden können mit OpenAI auf AWS beginnen und schneller von der Evaluierung zur Produktion übergehen.",
     "titleDE": "OpenAI-Frontier-Modelle und Codex sind jetzt auf AWS verfügbar"
-  },
-  {
-    "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-    "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-    "description": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.  Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, he wrote…",
-    "pubDate": "2026-06-01T09:09:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Eines Tages im vergangenen Oktober beschloss Dong Hui, als er im Hof ​​seines Hauses in der chinesischen Provinz Henan saß, zu versuchen, einen Stift zum Schreiben zu halten. Dong, 39, hatte sich sechs Jahre zuvor bei einem Autounfall Rückenmarksverletzungen zugezogen, die ihn vom Nacken abwärts gelähmt machten. Langsam aber entschlossen schrieb er...",
-    "titleDE": "China hat den weltweit ersten invasiven Gehirn-Computer-Chip zugelassen – hier erfahren Sie, was als nächstes kommt"
-  },
-  {
-    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-    "description": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-    "pubDate": "2026-05-29T19:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Wir haben Google AI Studio verwendet, um ein Quiz über unsere Top-Ankündigungen zur I/O 2026 per Vibe-Code zu erstellen.",
-    "titleDE": "Nehmen Sie an unserem I/O 2026-Quiz teil, das in Google AI Studio programmiert wurde."
-  },
-  {
-    "title": "Botnet of more than 17 million devices dismantled",
-    "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
-    "description": "The botnet was reportedly tied to a Russia-based residential proxy network.",
-    "pubDate": "2026-05-29T18:46:33.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Berichten zufolge war das Botnetz mit einem in Russland ansässigen Privat-Proxy-Netzwerk verbunden.",
-    "titleDE": "Botnetz von mehr als 17 Millionen Geräten demontiert"
-  },
-  {
-    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-    "description": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-    "pubDate": "2026-05-29T17:30:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Sehen Sie sich 9 Videos an, die die Funktionen von Gemini Omni und Gemini 3.5 zeigen, die auf der Google I/O 2026 angekündigt wurden.",
-    "titleDE": "9 Demos von Gemini Omni und Gemini 3.5 in Aktion"
-  },
-  {
-    "title": "The Download: unlocking lithium and controlling Ebola",
-    "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs…",
-    "pubDate": "2026-05-29T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie ein neues Extraktionsverfahren das Lithium der Welt erschließen könnte Eine neue Methode zur Lithiumgewinnung könnte Kosten und Emissionen aus einem der wichtigsten der Welt senken...",
-    "titleDE": "Der Download: Lithium freisetzen und Ebola kontrollieren"
-  },
-  {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "link": "https://openai.com/index/boston-childrens-hospital",
-    "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-    "pubDate": "2026-05-29T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Das Boston Children’s Hospital nutzt die OpenAI-Technologie, um die Patientenversorgung zu verbessern, die betriebliche Belastung zu reduzieren und bei der Diagnose von mehr als 40 Fällen seltener Krankheiten zu helfen.",
-    "titleDE": "Boston Children’s nutzt KI, um neue Diagnosen freizuschalten"
-  },
-  {
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "link": "https://openai.com/index/braintrust",
-    "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-    "pubDate": "2026-05-29T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wie Braintrust-Ingenieure Codex mit GPT-5.5 verwenden, um Experimente durchzuführen und schneller zu programmieren.",
-    "titleDE": "Wie Braintrust mit Codex Kundenanfragen in Code umwandelt"
-  },
-  {
-    "title": "Check out real-life AI prototypes from the Futures Lab.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-    "description": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-    "pubDate": "2026-05-29T12:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Studierende der University of Waterloo entwickeln KI-Prototypen wie Gebärdensprachlehrer, um die Zukunft von Bildung und Arbeit neu zu gestalten.",
-    "titleDE": "Schauen Sie sich reale KI-Prototypen aus dem Futures Lab an."
-  },
-  {
-    "title": "The deadly Ebola outbreak is proving difficult to control",
-    "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-    "description": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
-    "pubDate": "2026-05-29T11:19:52.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Alarmierung wurde am 5. Mai ausgelöst. Vier Mitarbeiter des Gesundheitswesens in der Provinz Ituri in der Demokratischen Republik Kongo waren innerhalb von vier Tagen an einer unbekannten Krankheit gestorben. Zur Untersuchung wurden Schnelleinsatzteams entsandt, und Tests in einem Forschungszentrum in Kinshasa brachten den Übeltäter zutage: das Bundibugyo-Virus...",
-    "titleDE": "Der tödliche Ebola-Ausbruch erweist sich als schwer zu kontrollieren"
-  },
-  {
-    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-    "description": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
-    "pubDate": "2026-05-29T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die neue Enzyklika von Papst Leo XIV. über künstliche Intelligenz enthält eine Aussage, die ernsthafte Aufmerksamkeit von Technologen und politischen Entscheidungsträgern erfordert: „Technologie ist niemals neutral.“ „Magnifica Humanitas“ („Großartige Menschheit“) ist ein klarer Aufruf an alle Menschen, mutig und solidarisch zu handeln, wenn wir ...",
-    "titleDE": "Wie die Magnifica Humanitas des Papstes eine Vorlage für Einzelpersonen bietet, um dem KI-Moment gerecht zu werden"
-  },
-  {
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-    "pubDate": "2026-05-29T03:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI führt Rosalind Biodefense ein und erweitert damit den vertrauenswürdigen Zugang zu GPT-Rosalind für geprüfte Entwickler und Partner der US-Regierung, die durch Grenz-KI die biologische Verteidigung, die öffentliche Gesundheit und die Pandemievorsorge vorantreiben.",
-    "titleDE": "Stärkung der gesellschaftlichen Widerstandsfähigkeit mit Rosalind Biodefense"
-  },
-  {
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-    "pubDate": "2026-05-29T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI gibt Leitlinien zu KI-Bewertungen Dritter weiter und behandelt die Bewertung von Modellfähigkeiten, Sicherheitsvorkehrungen und Gültigkeit für Grenzsysteme.",
-    "titleDE": "Ein gemeinsames Playbook für vertrauenswürdige Bewertungen durch Dritte"
-  },
-  {
-    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-    "description": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
-    "pubDate": "2026-05-28T20:29:53.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Unbekannter Zusatz in jqwik wies KI-Programmierungsagenten an, App-Ausgaben zu löschen.",
-    "titleDE": "Die Entwickler haben die Nase voll von Vibe-Programmierern und schleichen heimlich datenvernichtende Eingabeaufforderungen in ihren Code ein"
-  },
-  {
-    "title": "How a new extraction process could unlock the world’s lithium",
-    "link": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-    "description": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.  The research was published today in Science, and a startup called Rock Zero is working to…",
-    "pubDate": "2026-05-28T18:01:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Forscher sagen, sie hätten einen neuen Weg zur Gewinnung von Lithium gefunden, einem entscheidenden Metall, das in Lithium-Ionen-Batterien verwendet wird, die Elektrofahrzeuge und Energiespeicheranlagen antreiben. Diese neue Technik könnte umweltfreundlicher und kostengünstiger sein als bestehende. Die Forschung wurde heute in Science veröffentlicht,...",
-    "titleDE": "Wie ein neues Extraktionsverfahren das weltweite Lithium erschließen könnte"
-  },
-  {
-    "title": "Catch up on 12 major I/O 2026 moments",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-    "description": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
-    "pubDate": "2026-05-28T15:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Hier sind 12 der wichtigsten Keynote-Momente der Google I/O 2026, darunter Neuigkeiten zu Gemini Omni, Gemini 3.5 Flash und mehr.",
-    "titleDE": "Informieren Sie sich über 12 wichtige I/O-Momente 2026"
-  },
-  {
-    "title": "The Download: climate tech goes public and the AI Hype Index returns",
-    "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed…",
-    "pubDate": "2026-05-28T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Klimatechnologieunternehmen gehen an die Börse. Was kommt als nächstes? Das Solar- und Batterieunternehmen Solv Energy ging im Februar an die Börse und erreichte einen Wert von 6 Milliarden US-Dollar. X-Energie, weiß...",
-    "titleDE": "Der Download: Climate Tech geht an die Börse und der AI Hype Index kehrt zurück"
-  },
-  {
-    "title": "How Endava builds an agentic organization with Codex",
-    "link": "https://openai.com/index/endava",
-    "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-    "pubDate": "2026-05-28T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Endava Codex nutzt, um eine Agentenorganisation aufzubauen, die Softwarebereitstellung zu beschleunigen und die Anforderungsanalyse von Wochen auf Stunden zu reduzieren.",
-    "titleDE": "Wie Endava mit Codex eine Agentenorganisation aufbaut"
-  },
-  {
-    "title": "OpenAI’s Frontier Governance Framework",
-    "link": "https://openai.com/index/openai-frontier-governance-framework",
-    "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-    "pubDate": "2026-05-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie das Frontier Governance Framework von OpenAI und wie unsere KI-Sicherheits- und Risikopraktiken mit den neuen EU- und kalifornischen Vorschriften übereinstimmen.",
-    "titleDE": "Das Frontier Governance Framework von OpenAI"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "pubDate": "2026-05-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "MUFG nutzt ChatGPT Enterprise, um eine KI-native Organisation aufzubauen, Arbeitsabläufe zu verbessern und neue KI-gestützte Finanzdienstleistungen in großem Maßstab bereitzustellen.",
-    "titleDE": "MUFG möchte mit OpenAI KI-nativ werden"
-  },
-  {
-    "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
-    "link": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-    "description": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
-    "pubDate": "2026-05-27T20:56:03.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die verräterische SSD-Aktivität kann im Browser mit einfachem JavaScript gemessen werden.",
-    "titleDE": "Websites bieten eine neue Möglichkeit, Besucher auszuspionieren: die Analyse ihrer SSD-Aktivität"
   }
 ]
