@@ -1,5 +1,75 @@
 [
   {
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "pubDate": "2026-06-06T20:32:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Selbst im Sperrmodus könnte ChatGPT immer noch anfällig für sofortige Injektionen sein, aber das Ziel besteht darin, die Wahrscheinlichkeit zu verringern, dass vertrauliche Daten dabei weitergegeben werden.",
+    "titleDE": "OpenAI stellt den Lockdown-Modus vor, um sensible Daten vor Prompt-Injection-Angriffen zu schützen"
+  },
+  {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "description": "Apple's WWDC nears: Here's what you can look forward to.",
+    "pubDate": "2026-06-06T18:13:36.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apples WWDC rückt näher: Darauf können Sie sich freuen.",
+    "titleDE": "Was Sie von der WWDC 2026 erwarten können: Siris mit Spannung erwartete Überarbeitung und Apple Intelligence-Updates"
+  },
+  {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "description": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "pubDate": "2026-06-06T17:42:15.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge gründet Krishnan eine neue Institution, um Trumps KI-Politik weiter zu gestalten.",
+    "titleDE": "Sriram Krishnan gibt seine Rolle als KI-Berater des Weißen Hauses auf"
+  },
+  {
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "description": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "pubDate": "2026-06-06T16:17:21.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Präsident Donald Trump sagte, er diskutiere Geschäfte, „bei denen das amerikanische Volk vom Erfolg der KI profitieren kann“.",
+    "titleDE": "Die Trump-Administration könnte eine Kapitalbeteiligung an OpenAI übernehmen"
+  },
+  {
+    "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "description": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\"\nThe woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone chimes in to add something that a mayor shouldn't have to be told about their constituents: \"it doesn't matter whether they're rentals, they're still hu …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-06T15:05:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein geplantes 2-Milliarden-Dollar-Rechenzentrum ist in der Kleinstadt Shelbyville, Indiana, zu einem politischen Brennpunkt geworden. Und die Kontroverse ist nur noch heftiger geworden, nachdem der Bürgermeister Scott Furgeson vor der Kamera dabei gefilmt wurde, wie er über die aufgestellten „No Data Center“-Schilder sagte: „Ich habe überall viele davon gesehen …“",
+    "titleDE": "Der Bürgermeister von Shelbyville, Indiana, sagt, nur Menschen, die in „beschissenen Häusern“ leben, seien gegen Rechenzentren"
+  },
+  {
+    "title": "Meta made its own AI-generated clickbait news feed",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "description": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | ﻿Image: Meta AI\t\n\nFacebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI.\nThe standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable as you'd expect from AI-created works.\nThe Meta AI app first launched in April 2025 with its focus on a public \"Discover\" feed that showed AI-generated images and conversations from other users (who frequently seemed unaware that they were being made public). That's all disappeared. The app now has a standard chatbot interface,  …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-06T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein KI-generiertes Bild der königlichen Familie mit zwei Königin Elizabeth II. | Bild: Meta AI Facebook ist seit langem mit Feeds von Clickbait-Artikeln gefüllt. Jetzt erstellt Meta seine eigenen Clickbait-Artikel mit KI. Die eigenständige Meta AI-App verfügt jetzt über einen Abschnitt „Für Sie“, der eine Liste mit Klickmöglichkeiten enthält.",
+    "titleDE": "Meta hat seinen eigenen KI-generierten Clickbait-Newsfeed erstellt"
+  },
+  {
+    "title": "Here comes new Siri again",
+    "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+    "description": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024.\t\n\nApple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.\nAt WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact, its promotion around Apple Intelligence was so misleading that the company is settling a class-action lawsuit and has t …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-06T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Den ersten Blick auf die neue KI Siri bekamen wir bereits auf der WWDC 2024. Apple war in den letzten Jahren in Sachen KI auf dem Rückzug. Aber seltsamerweise ist es vielleicht gar kein so schlechter Schachzug, von hinten zu spielen. Auf der WWDC am Montag scheint Apple sich darauf vorzubereiten, uns die neue Siri wieder vorzustellen. A...",
+    "titleDE": "Hier kommt wieder die neue Siri"
+  },
+  {
     "title": "How a USB-connected speaker can infect a PC without ever being touched",
     "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
     "description": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
@@ -230,16 +300,6 @@
     "titleDE": "Meta führt auf Facebook einen neuen KI-Erstellungsassistenten ein"
   },
   {
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "description": "Apple's WWDC nears: Here's what you can look forward to.",
-    "pubDate": "2026-06-04T16:31:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Apples WWDC rückt näher: Darauf können Sie sich freuen.",
-    "titleDE": "Was Sie von der WWDC 2026 erwarten können: Siris mit Spannung erwartete Überarbeitung und Apple Intelligence-Updates"
-  },
-  {
     "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
     "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
     "description": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
@@ -290,16 +350,6 @@
     "titleDE": "Lasst uns den KI-Schwachsinn filtern, ihr Feiglinge"
   },
   {
-    "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-    "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing what they say is an alarming biosecurity gap that could help trigger a global pandemic.\nAnthropic's Dario Amodei, OpenAI's Sam Altman, and Microsoft's Mustafa Suleyman are among the signatories urging US lawmakers to require companies selling synthetic DNA and RNA - genetic material that can ordered online and assembled in a lab - to screen purchases for sequences t …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-04T12:12:12.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Einige der größten Konkurrenten der KI-Branche haben ihre zahlreichen Beschwerden aus einem gemeinsamen Grund beiseite gelegt: Sie wollen es den Menschen erschweren, ihre Technologie zur Entwicklung biologischer Waffen zu nutzen. In einem offenen Brief an US-Gesetzgeber drängen Technologieführer den Kongress, Regeln zu erlassen, um das zu schließen, was ihrer Meinung nach ein …",
-    "titleDE": "KI-Führer fordern einen strengeren Schutz vor KI-gestützten Biowaffen"
-  },
-  {
     "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
     "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
@@ -328,16 +378,6 @@
     "category": "trend",
     "descriptionDE": "An den meisten Tagen durchforstet Richterin Maritza Braswell, eine Bundesrichterin in Colorado, in ihren Kanzleien Stapel von Dokumenten, die von Leuten ohne Anwalt verfasst wurden. Viele von ihnen können es sich nicht leisten, einen Anwalt zu beauftragen, und andere haben Fälle, die zu schwach oder zu klein sind, um einen zu interessieren. Sie liest jeden einzelnen sorgfältig durch, wohlgemerkt...",
     "titleDE": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
-  },
-  {
-    "title": "Amazon develops a warehouse robot that workers can speak to",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-    "description": "The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon\t\n\nAmazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. \nAmazon says the AI-powered upgrade means its human employees can assign the robot tasks in the same way they'd communicate with colleagues. Previously, workers would need to use specialized software to direct the floor-level, tortoise-like systems, which are designed for heavy lifting and moving large carts throughout Amazon's warehouses. \"You tell it what needs to be  …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-04T09:31:14.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Das Design hat sich gegenüber dem ursprünglichen Proteus, der 2022 angekündigt wurde, nicht wesentlich verändert. | Bild: Amazon Amazon hat eine neue Version seines völlig autonomen Lagerroboters Proteus angekündigt, der mithilfe von Sprache statt Code interagieren wird. Die erweiterten Fähigkeiten sind Teil eines wachsenden Pivot-Towers...",
-    "titleDE": "Amazon entwickelt einen Lagerroboter, mit dem Arbeiter sprechen können"
   },
   {
     "title": "Dreaming: Better memory for a more helpful ChatGPT",
@@ -380,36 +420,6 @@
     "titleDE": "Sie verstehen die Benachrichtigung über den Tresordiebstahl von Dashlane nicht? Du bist nicht allein."
   },
   {
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-    "pubDate": "2026-06-03T19:38:32.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn der rekordverdächtige Aktienverkauf von Alphabet im Wert von 85 Milliarden US-Dollar den Appetit der Anleger auf KI-bezogene Angebote signalisiert, können wir sehen, dass die Anleger bereit sind, sich darauf einzulassen.",
-    "titleDE": "Die rekordverdächtige Kapitalerhöhung von Alphabet in Höhe von 85 Milliarden US-Dollar für das KI-Geschäft von Google ist ein verdammt gutes Signal"
-  },
-  {
-    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-    "pubDate": "2026-06-03T19:07:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dreambeans ist eine kuratierte Liste von KI-illustrierten „Geschichten“, die aus den persönlichen Daten in Ihrem Google-Konto ausgewählt werden.",
-    "titleDE": "Googles Dreambeans, das bisher seltsamste KI-Tool, wird Ihr Leben in einen Cartoon verwandeln"
-  },
-  {
-    "title": "As AI gets better, it reveals an empty promise",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-    "description": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to me is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in our world.\n\"Productivity\" is often pitched as a panacea for what befalls us in our personal lives, even going so far as to implicate our moral worthiness …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-03T17:45:35.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Diese Woche haben wir von meinen Kollegen David Pierce und Jay Peters Tandem-Hands-Ons mit Googles neuem Gemini-KI-Agenten – Spark. Ihre Erkenntnisse sind ähnlich: Es ist so effektiv, dass es beängstigend ist. Spark wusste, dass Davids Hund Frida heißt und kannte den Vornamen von Jays Frau, obwohl keiner der beiden...",
-    "titleDE": "Je besser die KI wird, desto mehr offenbart sie ein leeres Versprechen"
-  },
-  {
     "title": "How virtual power plants could provide energy for data centers",
     "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
     "description": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
@@ -418,16 +428,6 @@
     "category": "trend",
     "descriptionDE": "Würden Sie eine Zahlung in Anspruch nehmen, um Ihren Stromverbrauch zu senken? Würde es etwas ändern, wenn Sie dies tun würden, um ein lokales Rechenzentrum mit Strom zu versorgen? Google hat gerade einen neuen Vertrag zur Finanzierung eines virtuellen Kraftwerks (VPP) im größten Stromnetz der USA unterzeichnet. Die Vereinbarung besteht mit Voltus,…",
     "titleDE": "Wie virtuelle Kraftwerke Rechenzentren mit Energie versorgen könnten"
-  },
-  {
-    "title": "Amazon will show AI product images when you search for some reason",
-    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "description": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-    "pubDate": "2026-06-03T15:50:26.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Amazon nutzt visuelle Suche und KI, um KI-generierte Produktbilder anzuzeigen, die Ihren Suchanfragen entsprechen. Der Einzelhändler sagt, dass es dabei helfen wird, Benutzer zu den Produkten zu führen.",
-    "titleDE": "Amazon zeigt aus irgendeinem Grund KI-Produktbilder an, wenn Sie suchen"
   },
   {
     "title": "Introducing new capabilities to GPT-Rosalind",
