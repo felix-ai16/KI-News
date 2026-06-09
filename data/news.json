@@ -1,8 +1,278 @@
 [
   {
+    "title": "Five things you need to know about AI",
+    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "description": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+    "pubDate": "2026-06-09T09:16:45.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Letzte Woche habe ich bei SXSW London einen Vortrag mit dem Titel „Fünf Dinge, die Sie über KI wissen müssen“ gehalten, in dem ich die meiner Meinung nach derzeit größten Themen in der KI dargelegt habe. Ich habe ein paar Dinge aus unserer ersten AI10-Liste entnommen, einem jährlichen Leitfaden zu den wichtigsten Trends in dieser geschäftigen Welt, …",
+    "titleDE": "Fünf Dinge, die Sie über KI wissen müssen"
+  },
+  {
+    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "description": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+    "pubDate": "2026-06-09T01:56:48.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Kann Apples neue KI den Vorwurf widerlegen, dass das Unternehmen einen wichtigen Wettlauf in der Branche verliert?",
+    "titleDE": "Warum Apples langsame und stetige KI-Wette ziemlich klug aussieht"
+  },
+  {
+    "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "description": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+    "pubDate": "2026-06-09T00:45:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Sequoia ist nur eines der Top-Unternehmen, das dasselbe Eigenkapital zu zwei unterschiedlichen Preisen verkauft.",
+    "titleDE": "Brendan Foody von Mercor kritisiert Sequoia und wirft ihm Bewertungstricks mit „doppelten Preisen“ vor"
+  },
+  {
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "description": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+    "pubDate": "2026-06-08T22:41:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Tools for Humanity, Sam Altmans Identitätsprüfungsunternehmen, hat Berichten zufolge Schwierigkeiten, Einnahmen zu erzielen, und wird sein Personal abbauen.",
+    "titleDE": "Während OpenAI den Börsengang anmeldet, nimmt Sam Altmans Augenscan-Unternehmen Entlassungen vor, heißt es in einem Bericht"
+  },
+  {
+    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+    "pubDate": "2026-06-08T22:39:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Stimmung bei Apples WWDC-Keynote 2026 fühlte sich an, als würde ein Ehepartner stolz alle angesprochenen Aufgaben auflisten. Ein subtiles Beispiel: die vielen KI-Demos von jemandem, der mit dem Telefon in der Hand steht.",
+    "titleDE": "Apples WWDC-KI-Demos sahen realistischer aus, nachdem 250 Millionen US-Dollar wegen falscher Werbung abgeklärt wurden"
+  },
+  {
+    "title": "Apple is using AI to fix Safari’s extension problem",
+    "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+    "description": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions.\nIn a demo shared by Apple, the company showed how you can ask Safari to create an extension by describing it. \"Save and track cooking recipes from around the web,\" the prompt said. \"Click the toolbar button to see your saved recipes and add notes to each.\" From there, Safari used Apple Intelligence to generate a \"Recipe Keeper\" extension that's supposed  …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-08T22:14:17.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Apple versucht mit KI eine der größten Schwächen von Safari zu beheben. Safari verfügt seit langem nicht über die robuste Erweiterungsbibliothek seiner Konkurrenten, was hauptsächlich auf die strengen Entwicklungsanforderungen von Apple zurückzuführen ist. Aber jetzt lädt Apple Benutzer dazu ein, ihre eigenen Erweiterungen praktisch per Vibe-Code zu programmieren. In einer Dem...",
+    "titleDE": "Apple nutzt KI, um das Erweiterungsproblem von Safari zu beheben"
+  },
+  {
+    "title": "OpenAI files for IPO, following Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+    "description": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. \nThe confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more financials - aren't yet public. \nAs of Anthropic's most recent fundraise, it's being called the world's most valuable startup, with a post-money valu …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-08T21:38:29.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI hat am Montag einen ersten Schritt im IPO-Rennen abgeschlossen, in dem es und sein Rivale Anthropic seit fast einem Jahr konkurrieren: Das Unternehmen gab bekannt, dass es vertraulich ein Formular S-1 bei der US-amerikanischen Börsenaufsichtsbehörde (Securities and Exchange Commission) eingereicht hat, nachdem Anthropic beschlossen hatte, das ...",
+    "titleDE": "OpenAI beantragt Börsengang im Anschluss an Anthropic"
+  },
+  {
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+    "pubDate": "2026-06-08T21:29:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Antrag erfolgt etwas mehr als eine Woche, nachdem sein Hauptkonkurrent Anthropic ebenfalls den Börsengang beantragt hatte, was den Wettlauf zwischen den beiden KI-Unternehmen verschärfte.",
+    "titleDE": "OpenAI reicht im Anschluss an Anthropic vertraulich den Börsengang ein"
+  },
+  {
+    "title": "Apple plays catch-up at WWDC",
+    "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+    "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+    "pubDate": "2026-06-08T21:15:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apple verbrachte einen Großteil seiner WWDC-Keynote damit, Korrekturen, Leistungsverbesserungen und seit langem gewünschte Funktionen hervorzuheben, bevor es sein verbessertes, KI-gestütztes Siri vorstellte, und signalisierte damit, dass das Unternehmen möchte, dass Benutzer KI nur als einen Teil einer umfassenderen Anstrengung zur Verbesserung seiner Software betrachten.",
+    "titleDE": "Apple spielt auf der WWDC Aufholjagd"
+  },
+  {
+    "title": "Apple bets cheaper AI will woo small developers",
+    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+    "pubDate": "2026-06-08T20:53:55.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Da KI-Experimente immer teurer werden, erlässt Apple Entwicklern mit weniger als 2 Millionen erstmaligen App Store-Downloads die Kosten für die Cloud-API.",
+    "titleDE": "Apple geht davon aus, dass billigere KI kleine Entwickler umwerben wird"
+  },
+  {
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "description": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+    "pubDate": "2026-06-08T19:41:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apple plädierte in erster Linie für ein verbessertes Erlebnis mit seinem langjährigen Siri-Assistenten, der wie die meisten anderen Ankündigungen über eine kräftige Portion KI verfügte.",
+    "titleDE": "WWDC 2026: Alles angekündigt zu Siri AI, iOS 27, Apple Intelligence und mehr"
+  },
+  {
+    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+    "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+    "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+    "pubDate": "2026-06-08T18:48:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apple fügt Safari-, Shortcuts- und Passwort-Apps neue KI-gestützte Funktionen hinzu.",
+    "titleDE": "Apple hat Ihrem iPhone gerade beigebracht, Ihre Sätze, Ihre Fotos und Ihre Arbeitsabläufe zu beenden"
+  },
+  {
+    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+    "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+    "description": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+    "pubDate": "2026-06-08T18:45:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Shortcuts erhält ein KI-Upgrade, sodass Sie den gewünschten Workflow in einer Eingabeaufforderung beschreiben können.",
+    "titleDE": "Mit der neuen Shortcuts-App von Apple können Sie Arbeitsabläufe mithilfe von KI erstellen"
+  },
+  {
+    "title": "Apple’s Image Playground doesn’t suck anymore",
+    "link": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+    "description": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+    "pubDate": "2026-06-08T18:38:07.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der KI-Bildgenerator von Apple erhält eine Überarbeitung, die ihn wettbewerbsfähiger machen könnte.",
+    "titleDE": "Apples Image Playground ist nicht mehr scheiße"
+  },
+  {
+    "title": "Apple’s Photos app is getting new AI editing features",
+    "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+    "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+    "pubDate": "2026-06-08T18:36:04.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit einer neuen räumlichen „Reframe“-Funktion können Benutzer mithilfe von KI Perspektiven anpassen.",
+    "titleDE": "Die Fotos-App von Apple erhält neue KI-Bearbeitungsfunktionen"
+  },
+  {
+    "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+    "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+    "description": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+    "pubDate": "2026-06-08T18:34:23.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "73 Pakete führen einen selbstreplizierenden Stealer aus, sobald sie von einem KI-Agenten geöffnet werden.",
+    "titleDE": "Zum zweiten Mal in Wochen waren Microsoft-Pakete mit einem Credential-Stealer versehen"
+  },
+  {
+    "title": "Apple gives Siri its own dedicated app",
+    "link": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+    "description": "Siri is finally getting its own app.",
+    "pubDate": "2026-06-08T18:33:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Siri bekommt endlich eine eigene App.",
+    "titleDE": "Apple stellt Siri eine eigene App zur Verfügung"
+  },
+  {
+    "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+    "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+    "description": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+    "pubDate": "2026-06-08T18:23:04.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Wenn Sie mit Freunden einen Happen essen und Ihr iPhone auf die Rechnung richten, können Sie auswählen, was Sie bestellt haben, um die Rechnung mit Apple Cash zu teilen“, sagte Sebastien Marineau-Mes, VP of Software bei Apple.",
+    "titleDE": "Apple behebt mit seiner neuen Funktion „Siri in der Kamera“ das Problem, die Rechnung aufzuteilen"
+  },
+  {
+    "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+    "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+    "description": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+    "pubDate": "2026-06-08T17:56:21.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Idee hinter der neuen „Siri AI“ ist, den Assistenten von einem sprachgesteuerten Assistenten zu einem KI-Begleiter zu machen, der noch viel mehr kann.",
+    "titleDE": "Apples lang erwartete KI-Siri-Überarbeitung ist endlich da"
+  },
+  {
+    "title": "Amazon is launching AI-generated custom merch",
+    "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+    "description": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. \nShoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped products - as well as other custom printing companies.\nAmazon already had a Merch on Demand feature where shoppers could drop in images, text, and cli …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-08T17:52:51.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Amazon erweitert seine Print-on-Demand-Funktionen um KI-generierte Designs, die mit Alexa for Shopping für Produkte wie T-Shirts, Wasserflaschen und Hoodies erstellt wurden. Käufer können Textaufforderungen verwenden, um Bilder zu generieren, die dann auf Rohlinge zum Verkauf bei Amazon gedruckt werden. Sie können dann den Link zum ... teilen.",
+    "titleDE": "Amazon bringt KI-generiertes, individuelles Merchandise auf den Markt"
+  },
+  {
+    "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+    "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+    "description": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri.\nApple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than the previous version of the smart assistant. In conversations, it has a more expressive voice that can be customized by pace, expressivity, and accent. \nSiri AI will be accessible systemwide, capable of reading what's onscreen and interacting with your apps. But Apple's SVP of software engineering Craig Federighi said it w …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-08T17:34:24.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Zwei Jahre nachdem Apple erstmals seine Pläne für Apple Intelligence und eine intelligentere Siri enthüllt hatte, die nie vollständig verwirklicht wurden, stellte Apple auf der WWDC gerade eine Reihe neuer KI-Funktionen und eine intelligentere, personalisiertere Siri vor. Apple nennt Siri AI eine „völlig neue Version von Siri“ und sagt, dass beides gesprächiger sei …",
+    "titleDE": "Apple kündigt Siri AI und seine nächste Generation von Apple Intelligence an"
+  },
+  {
+    "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+    "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+    "description": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday.\nLaunched in 2023, NotebookLM allows you to interact with your notes and sources using AI, as well as ask questions about the materials. With this update, Google says you can start a research project by just asking NotebookLM questions about a topic, instead of importing notes or YouTube videos. NotebookLM will use Google Search to help you find relevant sources, building on its \"discover\" fe …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-08T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google führt „allgemeine“ Updates für NotebookLM ein. Die KI-gestützte Notizen-App nutzt jetzt das aktualisierte Gemini 3.5-Modell von Google, das es ihr ermöglichen wird, mit „genaueren und zuverlässigeren Informationen“ zu antworten, heißt es in einem Blogbeitrag vom Montag. NotebookLM wurde 2023 eingeführt und ermöglicht Ihnen die Integration...",
+    "titleDE": "Das Gemini 3.5-Upgrade von NotebookLM fügt einen Cloud-Computer hinzu und hilft bei der Suche nach Quellen"
+  },
+  {
+    "title": "Amazon now lets you design custom merch using AI",
+    "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "description": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+    "pubDate": "2026-06-08T15:49:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Eine neue Funktion in der Amazon Shopping-App ermöglicht es Benutzern, mit Alexa Designs zu erstellen und diese dann auf Produkte wie T-Shirts, Hoodies und Becher zu drucken.",
+    "titleDE": "Mit Amazon können Sie jetzt mithilfe von KI individuelles Merchandise entwerfen"
+  },
+  {
+    "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+    "description": "Apple's WWDC nears: Here's what you can look forward to.",
+    "pubDate": "2026-06-08T15:34:59.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apples WWDC rückt näher: Darauf können Sie sich freuen.",
+    "titleDE": "WWDC 2026: Was Sie erwartet, von Siris mit Spannung erwarteter Überarbeitung bis hin zu Apple Intelligence und iOS 27"
+  },
+  {
+    "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+    "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "description": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode.\nWe covered everything from Mustafa’s approach to training new models to his criticisms of Anthropic talking about Claude as though it is conscious. Of course, we also talked about Microsoft’s relationship with OpenAI, how Mustafa is thinking about all the negative polling and political pushback around AI right now, and whether any of the consumer products are good enough to overcome it.\nLike I said, it’s a burner.\nOkay: Mustafa Suleyman, CEO of Microsoft AI. Here we go.\n\n\nThis interview has been lightly edited for length and clarity.\nMustafa Suleyman, you are the CEO of Microsoft AI. Welcome back to Decoder.\nGreat to be with you again.\nI’m very excited to talk to you. Our previous conversation was one of my favorite conversations — about AI, how it should make us feel, and what it’s for — that I’ve had in all the conversations we’ve had. \nThere are some big changes at Microsoft, maybe some very important recontextualization about how people feel about AI that I want to talk to you about in particular. And then there’s Microsoft Build, the big Microsoft developer conference, which featured lots of new announcements and lots of big ideas about what computers are for and maybe where they should be that I want to get into.\nLet’s start at the very start. This is some deep Decoder stuff that is important to understand before all the rest of it. Since you joined Microsoft, you have restructured how AI works there. Your role has changed. The last time I talked to you, you were in charge of a bunch of consumer products. That has since been set aside. You’re now training new models; you’re on the frontier. \nExplain how Microsoft AI is structured now and how it’s structured inside Microsoft.\nI guess the last 15 to 18 months or so we’ve been on this journey to reestablish our relationship with OpenAI, and it’s taken a minute. I think it culminated in a new contract that we got done in October of last year. And there were lots and lots of different provisions in that, including cementing and extending the partnership, but crucially freeing us up to be able to pursue superintelligence independently as well as keep buying and licensing their models.\nSo since October, I’ve been assembling the Superintelligence team, building clusters of sufficient scale to train frontier models, and hiring a team focused on superintelligence. And so that was quite a big shift for us because it sort of enabled me to focus just on the superintelligence mission, and that has then culminated in a few things that we announced this week at Build. We have seven new models across all the modalities and so on. So it’s been a pretty big shift, and I think a long time in the planning, and a great relief for us to now be in the game and pursuing the absolute frontier over the next few years.\nWas this the plan when you were hired at Microsoft?\nIt’s certainly been the plan for the last 18 months. I mean, I think the relationship with OpenAI has gone through lots of ups and downs. And in many ways, I think it is going to go down as one of the most successful partnerships in history. It’s been great for OpenAI, and it’s been great for Microsoft, and all good relationships evolve, and I think this is just the next stage in our evolution.\nLet me ask you about that evolution specifically. We all just saw the trial between Elon Musk and OpenAI and Sam Altman. Microsoft was involved in that trial in the sense that every so often a lawyer from Microsoft would stand up and say, “And we weren’t around.” And someone would say yes, and that was that.\nBut obviously, what came out during that trial, what has been clear during this entire time, is that the original notion was that OpenAI would be a research lab and provide models, while Microsoft would build the products. Microsoft had expertise in going to market; it had expertise in enterprise, it was trying to regain a foothold in consumer in a variety of ways. This would be a platform shift, and the research work would be over at OpenAI, and the product work would be inside of Microsoft. \nThat’s the thing that changed: OpenAI wanted to make more and more consumer products. Obviously, given your new role and your new focus, Microsoft more and more wants to make its own models. Why the split? What didn’t work in that relationship?\nI mean, I think OpenAI is led by an incredibly ambitious founding team, and Sam himself. And so naturally, as they started to get more traction and generate a ton of revenue, they saw opportunities to go full stack. So it wasn’t just that they started working on consumer products. Obviously, ChatGPT was incredibly successful. They also started working on their own data centers. They started creating their own chip. There are lots of rumors flying around about their own consumer hardware devices. They started taking models direct to market through ChatGPT Enterprise. So across the stack, they were kind of broadening way beyond research over the last two, three, four years. And naturally, the same is also true for Microsoft. I mean, I think the partnership’s now five or six years old, and still has another four, five, six years to run.\nLikewise, we’re one of the largest technology companies in the world. We have 493 of the 500 largest companies that store and process most of their data on our systems, use Azure, use M365 and Teams. I think people often underappreciate how enormous we are and how big our distribution is in enterprise. And so, long term, and I do mean over five, six, seven, 10 years, we have to make sure that we’re completely sustainable, and we’re not just a recipient of somebody else’s IP that we then slightly modify and adapt and put into production for our products, but we actually can stand on our own two feet and create world-class models.\nI mean, superintelligence is coming. I think it’s just around the corner. And so I think it’s going to be basically the most valuable technology of all time. There’s sort of no way that, long-term, we could be structurally dependent on a third party for providing that IP for all eternity.\nSo that’s been the transition that obviously was triggered when OpenAI and so on had their board issue. But then as I came in and my team came in, we started building that out, we’re on that transition. And I think we’re in a great spot because we can take a fairly steady, careful, long-term optimal position, both for OpenAI, which I think has done incredibly well out of this, and for us.\nI want to spend some time on superintelligence. I just want to put a pin in it now because I just want to kind of understand the transition for one more turn here.\nThere’s a moment in the trial, sort of very funny message from Microsoft CEO, Satya Nadella, he says, “I don’t want to be Intel and have OpenAI be Microsoft,” which is very funny in the context of Microsoft CEO himself saying, “I don’t want to be the provider, and have them be the platform that provides all the value and collects all the value and maybe we’ll be swapped out. I don’t want ChatGPT to run on Azure, and then OpenAI will get all the value, and then maybe they can swap us out,” just as what happened with Windows and Intel over time.\nIs that a realization? Did Nadella come to you? What was that meeting like where you said, “Okay, OpenAI had its board issues. We need to get back on the frontier and stand on our own two feet.” What did that conversation look like, and how was that decision made?\nI mean, obviously that’s Satya’s decision as well as Amy, Brad, and many other people in the company. But I think it’s as with anything: these are slow-moving changes in the company, as it comes to realize that the direction that we’re taking needs a little bit of tweaking and adjustment. And so that was happening way before the November board incident, and I think it just builds up over time as you look at the kind of constellation of different fronts around which we’re competing directly, increasingly, and all the tension that comes from that. But also just knowing that partnerships like that don’t last forever. \nI mean, OpenAI wants to be a trillion-dollar public company, has incredible revenues, and is growing like crazy. They want to have the freedom to operate and be able to buy compute from all sorts of other places, build their own compute, and partner with whoever they want. So the contract was formed at a time when the companies were very different in terms of size and scale and balance of needs and stuff. I think it made sense for that moment, but then it became pretty clear that this is something that we have to be able to own and control ourselves and do right by our own customers.\nAs I said, we have an incredible distribution on enterprise, which I think is just completely unrivaled in the world. And so we have to make sure we’re building the best things for our customers. That looks slightly different to a company that has been jointly optimizing both for the consumer, with ChatGPT, and for the enterprise, and also for the fundamental science mission of superintelligence, which includes a whole bunch of different directions which are overlapping but could arguably be said to be orthogonal to the consumer and the enterprise directions too. Naturally, I think that’s how partnerships evolve, and they get reset periodically.\nYeah, but building a frontier model is very expensive, I’m told. Reliably told, this is a very expensive project. At some point, Amy Hood, the CFO of Microsoft, has to say, “Yep, you’ve got the budget.” When did that happen? Was that just a text message? Was there a meeting? Tell me about the specifics there.\nI think, look, we sort of made the decision in the early part of last year, which obviously informed all the contract negotiations, which then all got resolved and signed in October. And it is a significant investment, but we have a long time to make it. I mean, we’ve already made significant investments in our own self-sufficiency mission. \nOur Maia 200 chip is actually an outstanding chip, as one example, right? We are now able to manufacture and ship a chip that is 30 percent cheaper than a GB200 inside of our own clusters. And now that we can co-design our own models with it, the MAI-Thinking-1 model that we’ve just released actually delivers 1.4x performance per watt improvement on top of the 30 percent improvement that you get from running on a Maia 200 once we co-optimize the models for our tasks.\nSo the value of making sure that you own and control your own stack and direct the entire co-design effort end-to-end for the use cases that are most important to us — which is obviously agentic coding, our developers, our enterprises — that clearly pays the dividends that justify the investment that we have to make over the next few years.\nYou said self-sufficiency mission, which is a very polite way of saying you want to stand on your own two feet; you want to do your own thing. I’m told there’s some controversy inside of Microsoft about a line my colleague Hayden Field wrote in a piece describing Build. I’m just going to read this. This is from Hayden. It’s a great line. She said, “This year’s Microsoft Build had the vibe of a freshly single divorcée posting a thirst trap on Instagram.”\nThe breakup is completed, and it’s time to flex. Here’s our new model. We’re going to stand on our two feet. You’re out there saying you’re going to build models at the frontier and compete with the leading labs. Is that the feeling inside of Microsoft that you’re free to be on your own?\nDefinitely not. No, not at all. Look, I mean, obviously that’s a cool headline and a fun phrase. But the reality is that we are in partnership with OpenAI for years and years to come. I mean, we’re running way north of 2030. They still produce the best models in the world. GPT-5.5 is an outstanding model. The Codex, the cybersecurity models that are coming through, are amazing, and they’re powering the majority of what we do.\nSo naturally, that’s going to continue. And so I think that’s just a natural course of these sorts of partnerships. I don’t think it’s anything untoward or surprising. I think OpenAI is very understanding and supportive of that. I mean, they’ve obviously been an incredibly fast-growing company, and they understand that we have to pursue our own agenda as well. So it’s very normal.\nLet me ask you the other Decoder question, and then I want to get into the announcements at Build, and certainly superintelligence.\nThe last time we spoke, you said your framework for making decisions operated on a six-week cycle, given how fast AI was moving. That made sense then. Things have settled, maybe. Maybe some things are more in focus. What is your decision-making framework now?\nWe still operate by the same cycle rhythm. At the end of each cycle, we have a one-week meetup in person. I’m a real believer in this, even though we’re still an in-office culture, four days a week. In fact, the week after next, my entire Superintelligence team comes together in person in Boston for four days. That is for all of our retrospectives on how Build went, what we learned, what we didn’t get right, what we need to improve, our planning for the next cycle, which is going to run for eight weeks this time with a one-week meetup afterwards, and that’s all laid out for the entire year. So the whole organization knows that that’s the rhythm by which we operate.\nAnd I think it’s actually really important to emphasize that timeframe, because quarterly planning gets a little bit blurry and a bit abstract. I think six to eight weeks, depending on where it falls in the calendar, is actually the optimal time for making very clear, fortifiable missions.\nSo we also, in addition to the rhythm of these six-to-eight-week cycles, operate by squads. The squads are mixed interdisciplinary subgroups that are focused on a specific mission, and they don’t necessarily ladder up to the manager. They actually are run by a DRI, and the DRI is often an IC, and their job is–\nThat’s “directly responsible individual” and “individual contributor.”\nYeah, exactly. Thank you. And I think we’ve taken the approach of separating the role of the manager from the role of the DRI that executes on a specific mission. I think that’s because being a great DRI is exhausting. You’re literally all-in 24 hours a day, and you’re pushing as hard as you possibly can. Being a manager is often about being a coach, offering support, giving guidance, feedback, unblocking all sorts of things, helping with people’s career growth. And so I think keeping those separate allows us to rotate DRIs every two or three cycles so that some people can try sort of different positions and have rotation. It’s a great, very flexible structure that allows us to be pretty nimble, I think.\nLet’s talk about Build. I wanted to start with superintelligence. You’ve mentioned it several times now. I was just at Google IO. Demis Hassabis, who used to be your colleague when you were at Google, ended that keynote by saying that we were in “the foothills of the singularity, and that AGI was coming with all the power of Google.”\nYou’re saying superintelligence is here. Are these all the same things? Are we using different language to describe AGI? Are there differences? How would you define superintelligence in your context versus the singularity in Demis’s?\nI mean, obviously I didn’t say it was here. I said it’s coming. And I think there’s a lot of fluidity around these phrases. But I think what we can clearly see that what’s happening right now is that there is log-linear hill climbing across all modalities, and that means that there is a very direct relationship between each order of magnitude of compute that we apply, each incremental increase in data, and climbing on benchmarks, whether they’re public benchmarks, internal benchmarks, they’re targets that we focus on with reinforcement learning environments. And that is a very important observation. \nThose predictions that I think we’re all making — I understand why some people are sort of skeptical of them or raise questions, but they’re very grounded in the sort of empirical observations of over a decade of increase in performance of these models. I mean, essentially the same general-purpose architecture has seen 12 orders of magnitude more computation applied, a trillion-fold increase in FLOPS over 15 years, and basically has worked in audio, in image, in text, in code, and in many other time series prediction tasks. And so we’re basically extrapolating out that more orders of magnitude of compute will enable us to continue to climb in this log-linear way inside of other environments.\nAnd then it raises the question of, are we going to be able to train models that can invent new knowledge, not just sort of extrapolate from existing data that we have, but actually teach us things that we don’t know, and make new discoveries? Then the second thing is, do they have the capacity to self-improve and accelerate the process of deciding which hypotheses should be set, which ones should be pursued, how to generate training data for each of those, how to factor those into new runs, or even innovate on the actual architecture itself?\nSo, I think both of those things need to be true to be able to see this compounding progress, but I think we’re going to continue to get massive gains just from applying the next few orders of magnitude of compute. That probably does achieve parity with human performance on many, many more tasks, just as we’ve seen that happen in the last six months on coding.\nCoding is really interesting, because it’s easily validated, right? You write the code, you ask the computer to run it, it runs or fails. We’ve seen some of the downsides, certainly around security, right? The downsides are obvious, and we’re seeing that this sort of regulatory approach to coding security play out in lots of ways. I’ve probably vibe coded some security disasters on my own phone and computer, and maybe that’s a risk I’m willing to take.\nEvery other function doesn’t seem that easy. I always pick on law, because that’s my background. But a judge doesn’t validate legal writing the way a computer validates code. If you get it wrong, the judge can send you to jail, right? That is maybe the worst output validation error that you can probably run into.\nHow do you measure the effectiveness across domains as easily as you can measure the effectiveness in coding? Because this seems to me where the metaphor or the analogy from coding to other domains falls apart very quickly.\nI’m not so sure. Coding, obviously, you can verify the correct execution of code. It runs, or it crashes. But there’s a ton of nuance in that. The quality of the code that gets written really matters: its extensibility, how reconfigurable it is, how useful it is in practice. It’s not just that a piece of code runs, but it’s also how a model actually uses it as a DevOps or an SRE in production to return to that piece of code that it’s written, and then use it in a practical and useful way.\nAnd then, of course, you have to grade the quality of the output that has been produced. It may be high-quality, functioning code, but is it actually the app or the website that you wanted? And there are aesthetic judgments in that; there are commercial judgments in that. The challenge of internalizing non-verifiable rewards is present in code, even though code is still primarily a verifiable reward signal. I think the other thing to observe is that, like chat is also a non-verifiable space, and yet, we’ve managed to climb that to basically human-level performance through interaction with real-world usage that provides a very strong-\nWait. I’m very curious. How do you measure chat at human-level performance?\nWell, I think many people are having long, meaningful conversations with AIs at human-level performance. The quality is exceptionally good. It has very good emotional intelligence. It’s broadly very accurate. We’ve minimized the hallucinations. We don’t talk so much about bias anymore. It’s grounded in real-world observations. I think by most people’s measures, we’ve reached human-level performance in conversation for quite a wide range of tasks now.\nWhat are your measures, and actually, sure, most people’s measures? I would disagree with almost all of this, but those are my measures. What are your measures?\nMy measure is like when I turn to my assistant and ask it to provide me with a daily briefing summarizing all the conversations that have happened on Teams and on email, the updates that have happened to documents, and I get basically a synthesized summary with a set of actions that I should take next. That is basically better than what my chief of staff can produce. I would say that’s human-level performance in synthesis, analysis, proposed actions, and chat. \nThere are many, many millions of people every day that are using it for emotional support, for counseling, for therapy, for coaching, for advice. I think it’s one of the most popular use cases inside all of the chatbots. That’s a pretty robust measure, I would say, to make the claim.\nI know you’ve spent a lot of time thinking about this, particularly the emotional connection to some of these chatbots. These are products that you have built and deployed. I would draw a pretty big distinction between this thing is really, really good at summarizing my email, task list, and providing me a brief about what things to prioritize, and this thing is an emotional coach for somebody undergoing some kind of crisis. \nThose are not similar tasks. Those are not necessarily similar kinds of intelligence, even in people. I know some people who are very good at making lists, and are very bad at emotional support. How do you put that all together in your brain and say, “Okay, this is broadly human-level performance in chat?”\nI think if you define chat as an interactive exchange between two parties, one of which in this case is an AI, that broadly satisfies some goal, you’re looking to learn the sports score, for advice on which restaurant to go to, for coaching and feedback on an essay that you’ve written, for suggestions about which job to take next, or some tough conversation you’re about to have with your manager. You get a response, you go back and forth, you have five or six exchanges, and you find that a useful output, which you might otherwise have to rely on an expert, friend, or even pay a coach.\nThere are, just objectively, empirically speaking, hundreds of millions of people that get that experience every day from these chatbots. Maybe we could quibble over whether that technically represents human-level performance. I think it’s a fairly reasonable thing to claim.\nThere’s no reason why that isn’t going to continue climbing, right? The rate of climbing in the last three years is the thing that I think is most staggering. And so, what we’re trying to do from this point is extrapolate: okay, what are the fundamental drivers of that climb — compute, data, interaction from real-world users — and those things look set to continue.\nI think that they apply to many other domains too, not just chat, emotional support, and productivity and that kind of thing, but also many other domains beyond that/ Healthcare, live production deployments inside of education, assistants that are increasingly managing your home, looking at just everything that is in your everyday life basically to make you more productive. That is, I think, a trajectory that’s likely to continue.\nYou’ve mentioned now that it’s still the same fundamental architecture, transformers, and attention. We’ve been applying compute to that for 15 years, and we’re getting these big increases. You are in a fairly unique spot.\nAt Build, you announced your first flagship reasoning model, MAI-Thinking-1. You got to start from scratch. Is there anything you’ve done differently now after 15 years of architecting and training this model, or is it just, yep, we’re going to collect all the data and run the training just as we did, and we have more compute now, so it’s going to be better?\nNo, actually, I think there are quite a lot of differences. The first thing to say is that the way that you curate the data… We start right from the top of the stack; we have basically paid for and acquired an extremely high-quality, very conservative set of data, and extracted a lot of the noisy, distracting, low-quality, potentially security-risk issues to do with that data. And the methods that you do for that, I think, are actually quite proprietary. We just shared a 109-page, very detailed, technical report, which was very well received on Twitter, and shares a lot of the details on how we do this. I think the second thing is, whilst I think it’s important to be quite cautious with architectural choices, and we have been, there are also a number of pretty significant shifts that I think we’ve made in how we put together our training runs.\nOur training runs have been incredibly stable, with very few crashes, and very few restarts. We shared a lot of those graphs to show infrastructure stability, and also MFU efficiency, so model FLOPS utilization, which basically shows that we can put a state-of-the-art number of FLOPS through each chip for every step in our training run. I think that this is extremely easy to get wrong, and we all hear lots of stories from different labs about how things do go wrong.\nIt is actually pretty hard to make the very careful and deliberate choices to get things right, and take the right approach to make sure we produce high-quality models, because our job and our ambition is to try and build this hill-climbing machine. That means the integration of the silicon with the models, with the super high-quality data, with a stack of RLEs, reinforcement learning environments, that allow us to basically, systematically hill climb against any objective that we choose.\nAnd that’s what MAI-Thinking-1 is. It’s a general-purpose, fairly neutral, thinking model that is pretty good at coding. It’s now roughly on par with Opus 4.6, at least on the benchmarks. We haven’t deployed it at scale into production, so there’s still lots more work to do there. But it’s an extremely strong reasoner and scored 97 percent on AIME, which is the primary measure for its reasoning performance, at least on the benchmarks.\nIt’s very good at instruction following, and then the goal is basically to make that available to many, many developers and enterprises and allow them to climb on it for their use cases. Everybody has a sort of slightly different objective that they have in their company to try and build agents and so on that support their use case.\nOne of the things that you’ve noted in talking about MAI-Thinking-1 is that you didn’t distill any existing models, which actually struck me as surprising, right? This is a thing you could do. You have access to OpenAI’s IP. Everyone’s distilling everything. We just found out in this trial that Grok was distilled from a number of models. Why not do distillation here? Why not jump ahead?\nThere’s definitely lots of shortcuts to the frontier, and if you take a super high-quality model, and you polish your base model with high-quality instructions, or answers, or outputs from a superior model, then it’s true that the model might quickly fit to that distribution. But it’s very unclear that they would then be able to surpass that teacher.\nSo, we’ve been very deliberate for two reasons. The first is that we want to make sure that we can exceed the teacher in order to set the frontier ourselves over the next few years. And the second is that we really want to build one of the great labs, and it’s going to take us many years to come, probably the next two or three years. \nBut, in order to do that, we have to be able to show that we can actually build every component ourselves. We can hire the very best talent in the world. We can push the frontier with actual research, rather than just re-implementation, copying, or distillation from any other third party. \nWe’re in a great position where we’re able to really carefully and meticulously pursue that objective, knowing that we have the resources to buy Anthropic models where they exceed the frontier. We have the resources to put 11,000 different models inside of Foundry, so every one of our developers gets pure optionality. And of course, we have the resources to continue to deploy OpenAI models, which are obviously outstanding and are at the frontier today. \nThat’s just a natural part of the self-sufficiency mission, and it’ll take time for us to truly get to the absolute frontier on that. But I think we’re in a great spot. We made a ton of progress. This is a very, very strong model, and it wasn’t just that model that we released. We’ve released seven new models simultaneously.\nOur transcribed model, for example, MAI-Transcribe-1.5 is literally the number one in the world. It’s the most cost-effective of any of the hyperscalers. It’s the highest on accuracy. Our image model is now number two. Our image editing model is number three right behind Google’s and OpenAI’s. I think we’re well up there with our image and audio. Our code model, CodeFlash, is incredibly strong, optimized for VS Code. and is a really, really a great model that’s on par with Sonnet 4.6. So it’s really in a great spot this minute.\nWere there any legal or IP concerns with distillation? I know this is a live issue out in the world: Anthropic complains of other people distilling their models. There are concerns about Chinese companies distilling models, and whether our existing IP agreements can cover that. Did you have any of those concerns to keep you away from it?\nOh, we didn’t, but I think I understand why a lot of people get frustrated. Anthropic has been very frustrated, and some of the rumors around xAI, and Meta, and obviously, the open source models, and so on, because essentially, that’s basically taking the IP, and the knowledge that another team has put together, and then, literally force-feeding it into your own model. I think it’s a bit of a short-term win, and like I said, really, we want to create a culture in the lab where we can come up with the next big thinking breakthrough, or the next big coding breakthrough, or the next big architectural push.\nRight now, we’re experimenting with the looped transformer, which is a slightly different variant on the current transformer. Lots of people in the field are looking at it too. No one seems to have quite got into production yet. But, in order to create a culture and a team that can really push the frontier, they have to understand, own, and create the full stack as and when they need to, and also use things from third parties whenever we need to too. And like our paper, for example, has hundreds of citations grounded in the rest of the literature, so it’s very much a contribution back to the field in return for everything that we’ve learned over the years from all the great publications that have been out there.\nCan I ask you — if you understand that frustration from Anthropic and your peers in AI about distillation, do you also understand the frustration from creatives, publishers, and YouTubers about all the AI companies scraping their work as a collective to make these models? Because that frustration is only getting louder.\nYeah. No, I understand the frustration. The open web challenge is one we’ve talked about before, and I get it, and I see that people are frustrated, and obviously, that’s working its way through the conversation in the courts. And I see that people put things online, and they had different expectations about what the contract was with that being placed online, and it’s a tricky one.\nYou mentioned all your data was carefully curated. Did you pay for all the data that you’re using to train the new models?\nA lot of our data we obviously take from the open web in the normal way. Carefully curated means that it’s extremely carefully filtered for security, for quality, for third-party dependencies from some of the open-source datasets, and keeping it away from a lot of the Chinese lineages, which I think are very different. Our enterprises want to make sure that when they put something into production, they can trust us that we’ve really built it with their needs in mind. And I think this is one of the benefits of being very, very deliberate, patient, and being attentive to all the details.\nYou mentioned enterprise. I think this is very interesting. Microsoft is all in on enterprise AI, in big ways, actually. I would even draw the line straight to Asha Sharma, the new head of Xbox, who is getting rid of AI in a bunch of places, and the gamers are happy, right? There’s one reaction to AI in consumer space, but there’s another in enterprise. I think AI has as close to product-market fit in enterprise as you can get with something changing as fast as AI. There are a bunch of databases that corporations control, and you can just go access them, because they control them. That’s their data.\nThere’s a bunch of repeatable processes and tasks, and old systems that maybe the models can just do more efficiently. There’s something very important happening to enterprise. At the same time, the consumer antipathy towards AI is just increasing. And my argument is we have not built great consumer AI products. This industry has not produced them. It has not shifted them. It has not made it obvious that all of this is worth it, that using all the data from the open web, and changing the contract of publishing to a mass audience of people, so now, it’s being used for training models that will deliver trillions of dollars of value to corporations. There isn’t a product that says this is worth it. \nAgain, Satya Nadella recently gave an interview with Axios, and he said, “We need social permission for this. And until we have it, until we deliver that value, people are going to feel this way.” We’ve seen college speakers get booed. We’ve seen data centers get banned. Do you think that there’s a consumer product that’s worth it, that’s worth the angst about training, that’s worth the angst about data centers? \nThat was your focus; now your focus is enterprise. I would say that just on the face of it, it doesn’t seem like Microsoft has interest in the consumer product anymore. But, do you see one that’s worth it, or that could be built?\nI’m not sure I agree with you that there hasn’t been any value for the consumer out of this. Across all of the chatbots, there are billions of people a month that are getting immense value out of it.\nNow, just for a moment, empathize a little bit with the small-scale business owner, or the kind of mom that’s helping her kid with the homework, and can now just turn to a conversational AI, and get feedback, get instructions, get essay questions set. Just being able to ask questions like how do I generate revenue? How do I put together a cash flow forecast? Which college should I apply to?\nI mean, these are everyday tasks that are coming with some pretty high-quality factual advice and information. So I don’t really buy that people are not getting benefit out of these things. I think they are.\nI think I can very clearly make the argument that they’re not getting enough benefit, right?\nOkay.\nThey’re the ones saying that we should not have more data centers. They are the ones booing AI at the graduation speeches. The polling is clear, particularly young people: the more they use AI, the more antipathy they have towards it. That’s clear in every single poll. That’s the argument I’m making — not that there’s no value, but the value exchange is not clear enough.\nYeah. Fair enough.\nI’m seeing Microsoft in particular pivot to enterprise, away from the big search product, the reinvention of Bing that would make Google dance. That’s over, and we’re all focused on enterprise, where the value is. I’m just wondering if there’s enough value for the consumer to make all of this worth it.\nI think there’s understandably a lot of anxiety. There’s an enormous amount of speculation about what’s going to happen in the next five to 10 years. Whether it’s framed as the singularity or whether it’s framed as the job apocalypse, these are not helpful framings. I think that people are scared because it’s poorly defined and it’s often framed as an inevitable, threatening gray cloud over people’s heads.\nI think that what matters is what we do with technology.I think that I’ve for a long time argued that we have to place the human first. Some people in the field have placed scientific discovery first or placed accelerating intelligences that can explore the galaxies and so on, and said that it’s inevitable that we’re going to have these AIs that are going to be more powerful than all of us combined. I mean, that’s naturally scary to people.\nAnd I think that we have to basically flip it the other way around and say the purpose of science and technology is to make us all healthier and smarter and happier. That’s been the quest that we’ve been on as a species for thousands of years of invention, and it’s the test that we should put superintelligence to again. And if it doesn’t achieve that test, then I think people will reject it, and they’ll be right to reject it.\nI think that everybody’s focus is now going to turn in the next five years to, how is this making me healthier and happier, smarter, more capable, more productive? And if it’s not doing that, then naturally people are going to be angry and resist and react. I don’t think there is anything unexpected about that or anything wrong about that — I think that’s inevitable.\nSo that’s why one of the things I’ve been passionate about for many, many years is healthcare. And just a couple of days ago we announced a new partnership with Mayo Clinic. This is the number one hospital in the world, consistently reported. They have the highest quality longitudinal patient record dataset across all the modalities. They have the best clinical practice.\nThey’re also a nonprofit, which I think a lot of people don’t realize, with 65 percent of their patient population on Medicaid. People often associate them with the international super elites flying in to get the best care in the world, but they actually have the majority on Medicaid. They’re an amazing institution with an incredible mission to deliver the best healthcare everywhere. And we now have a very long-term partnership to co-train from scratch with their data, with our models, a brand new foundation model for health, deploy it in their hospitals, and hopefully take it around the world to deliver the best clinical care and healthcare that we possibly can to as many people as possible.\nThat’s why I got into the field. That’s what I was originally motivated by, and it’s what I’m passionate about. And I can only focus on the things that I think are going to make a difference and that will help people and leave a good legacy for everybody, and that’s what we’re trying to do.\nI appreciate that. I appreciate the healthcare framing, and I understand why that’s everyone’s go-to, right? Healthcare in America in particular, if you could make it even 10 percent better, you will have affected a lot of people’s lives in a particularly profound way.\nThe thing is, I know a very smart guy who has a very different and vastly more aggressive approach to all of this than you. That person is you, four months ago. This is what Mustafa Suleyman said to the Financial Times four months ago: “White-collar work when you’re sitting down at a computer, either being a lawyer or an accountant or a project manager, or a marketing person, most of those tasks will be fully automated by an AI within the next 12 to 18 months.”\nThat’s four months ago. That implies that a year from now, lawyers, accountants, project managers, and marketing people will not have jobs. Their jobs will be automated. Is that still your timeline?\nNo, no, no. Hold on a sec. So I said “tasks” in the quote that you’ve just said. I said tasks. So that does not mean jobs. It’s a very important distinction. In labor economics, there is an entire taxonomy of sub-components of a role or a function in an organization. Sending an email, having a conversation with a colleague, putting together a PowerPoint — sub-tasks will increasingly become digitized, automated, and we can basically generate more and more of them.\nThat does not necessarily mean that the role goes away at all. It just means that the work can be done faster and more efficiently, which is today often work that is quite rote, is quite manual, is quite labor-intensive, and is time-consuming. And so the natural progression of technology is to make your life easier, faster, less friction for more seamlessness. As everyone often complains, that has made you and me and everybody else much busier.\nIt’s actually made us more available, more stressed, and it’s given us more information. So there are always these revenge effects of efficiency, which I think people forget. It’s quite likely that we are going to get much, much more productive because we spend less time doing the kind of narrow administrative menial tasks, and we’ll have to spend more time doing creative, judgment- focused things, which ultimately create a lot more value.\nWe can also experiment much more quickly. So we’re able to try lots of things out in parallel because the cost of execution is going to get lower. In my mind, that’s likely to increase the overall quality of things, because we’re going to try out more hypotheses, whether in journalism or in business or in anything that we do.\nI think that’s sort of slightly taken out of context because of a natural misunderstanding between jobs and tasks, but nevertheless, you could push back at me and say, “Okay, well then what does the landscape look like in five or 10 or 15 years’ time?” And that’s where I think we have to return–\nActually, I’m not going to push back on you in that way. I’m going to push back in a very specific way. And I realize this is your quote and you’re saying it was misinterpreted. I’m just looking at this literal sentence, and there is no distinction between tasks and sub-tasks. It is, “white-collar work.”\nThe examples are lawyer, accountant, project manager, marketing person, and then you said, “Most of these tasks will be fully automated by an AI within the next 12 to 18 months.” There’s no distinction of sub-tasks there. You’re saying most lawyers will have their jobs fully automated and the practice of law will look totally different within a year, even by the words of that quote.\nAnd I’m just saying, are you still on that timeline, that being a lawyer will look totally different because agents will be running around doing everything that we were doing before?\nWell, most of the tasks mean work that you do in order to get your overall job done, and that I think is going to free you up to do the more human-like and the more judgment parts of your work. There’s a very important distinction in… Jobs and roles are the broader category, and tasks are the components of that. And it’s an established definition in the literature, in labor market economics, for many, many decades.\nIt was maybe too nuanced even for the Financial Times, but nevertheless, that was the intent. Now I do think there’s an important question: where does that leave us in the longer term? And it is going to be challenging, like more and more of this stuff… We can quibble over the timelines of whether it’s a few years or whether it’s a decade, or whether it’s 20 years, but the reality is we are going to be automating more and more of this work, tasks, jobs, roles, activity, and everything that we do.\nAnd so what’s going to matter more is the governance that we put around these technologies. Who are they accountable to? Who owns them? What are the feedback loops that regulate and introduce friction to make sure that they actually serve people? I mean, I wrote an essay on humanist superintelligence outlining quite directly, four or five months ago, what I think of as basically a north star, maybe not quite a framework, but a set of principles that basically says technology is here to serve us. That’s the test that we should put it to. It’s the test that people have put it to. It’s the test that we care about at Microsoft.\nI think that more and more everyone’s going to have to really focus on that question, because it is going to deliver a tremendous amount of good, and we want it to continue doing that, but we want it to do it in a way that doesn’t sort of cause ridiculous amounts of instability during the transitional period.\nI believe you. I know you’ve been thinking about this stuff for a long time, but I’m going to respond in the way that I know my audience wants me to respond, because I hear it from them all the time. And what it looks like is this whole industry — you, everybody included — went all in on “we’re going to replace all the jobs” and really accelerated building out data centers at massive capacity, and asking for a lot of resources against big promises.\nThere was political pushback, and now all of the stances have softened. And you saying it’s not all jobs are going away, we have to rethink jobs, is of a piece with all the other CEOs in this industry saying similar things, and talking about healthcare, that comes up every single time now. I’m wondering if that political pushback has actually changed how you are talking about this.\nThere are a lot of your peers who think AI simply has a marketing problem, that it hasn’t been communicated effectively enough, and they should spend hundreds of millions of dollars on podcasts to communicate the benefits of AI more effectively. This is a real thing that is happening in this industry. Do you think AI simply has a marketing problem and that the political pushback has opened your eyes to this marketing problem, or do you think there’s something else going on?\nThere’s a series of questions there. The first is, what do I actually think and believe, and has it changed in the last six months? The answer is no. I wrote a very detailed book about this three years ago, way ahead of time, warning about many of the things that are currently happening, and doing so explicitly to lay on the table tremendous risks to surveillance, to concentration of power, to concentration of wealth, to disintermediation of the state, to threats to democracy. And also to threats to the nature of the human and what it means to be a person in the context of the arrival of these very new forms of silicon being in some sense. I’ve been working on… And the idea that my healthcare interest is like just a flash in the pan, which is a function of the reactions to data centers and so on, I mean, I’ve been working on healthcare for over a decade. I pushed many, many times on some of the cutting-edge breakthroughs, contributions to the field in radiology, mammography, and pathology, many other areas, electronic health records.\nSo I’ve always believed that the purpose of technology is to just make us healthier and happier. And those are the things that I choose to work on and direct my time to. Does the industry have a reputation and PR problem? I mean, I think it’s pretty clear that people are very anxious, they’re very frustrated, and there’s going to be a lot of attention on that in the next few years, understandably.\nI think what we can do is take accountability for the things that we build, the way we build them, the decisions that we make to put types of technology out in the world, and the types of problems that we choose to work on, like we are doing with the Mayo Clinic.\nI want to, by the way, say and point out that I think the first time you and I ever met and talked was before you joined Microsoft. It was right after that book came out and we did a panel together.\nOne of the reasons I’m comfortable asking this is because I do know that you’ve been thinking about this for a long time and I’m aware of that book. I think for me the question is whether the industry as a whole misjudged the total amount of value it could provide to overcome the seeming recklessness that people are now reacting to, the ask for resources that people are now reacting to. \nYou’re building new models. There’s probably a trade-off inside of Microsoft between we can use the existing Azure footprint to charge our customers money, or we can spend money to train new models, and that kind of looks like the same conversation people are having about resources in their communities, whether we should use the existing energy footprint to build new AI or do something else that might be more immediately valuable.\nWhat do you think about all of that? You are one of the leaders of this industry. You want to be on the frontier with the companies driving the most change. How do you think about asking for those resources in a way that isn’t just promising future results, but also immediately providing benefits to communities in a way that makes people want you to be there?\nI’m very proud that Microsoft has stuck by its net-zero targets. Our new data centers are all liquid-cooled. This means that they use about a restaurant’s worth of water for a six-year period. It’s like a swimming pool that gets filled up with water, and then it just circulates the system. They’re all largely renewable in terms of their electricity consumption. So I think commitments like that, to make sure, for example, we made a commitment recently to ensure that local communities affected by a shift in electricity demand by our data centers are compensated and protected so that they don’t see a spike in their prices, their energy bills.\nThose are the kinds of things that I think Microsoft does and can continue doing as a responsible company to just really pay attention to the consequences for communities. I think on the flip side, change happens because people participate at every level. People inside of companies have to make different decisions. People who protest and campaign have to make decisions, and make the effort to go out and make their voice heard and be involved in a political process. And that’s how we as a species collectively evolve and move things forward. \nAnd month to month, quarter to quarter, it feels like we’re all kind of at odds with one another, but when you look back decade over decade, we’re kind of like this collective weird kind of mesh of all sorts of different incentives that are just actually nudging things in the right direction. We really are, I think, despite all of the angst and the polarization, I think we’re building something that is going to make our species much, much healthier and happier and more capable. \nI think that we have to make sure we get the right path on the way there because there are lots of pitfalls and ways that it can go wrong, but the right path involves people making their voices heard and people changing course based on a response and reaction to that. So I think it’s a good thing that that’s happening, and that’s the process working as intended.\nLet me ask you about the enterprise side of this. We spent a long time on the consumer side and how people feel. On the enterprise side, we’re seeing a bunch of companies figure out how valuable these tools actually are, right? Amazon basically took down a leaderboard because people were cheating to use more tokens than they needed. We’ve seen some companies just blow out their token budgets. I think Uber just pulled back because they’d blown through their token allocation for the year and they weren’t seeing any value from it.\nWhat do you think about that side of it right now, where there’s so much excitement and so much desire for change in the enterprise, where, in particular, software engineering, at least some people are having fun, and maybe some other people are having full existential crises, but some people are having fun, and the value still hasn’t been realized, right?\nOr we’re beginning to see that pure token-maxing does not actually deliver the same kind of value that maybe you’d expect. How do you think about the use there? Because maybe if you prove it out in enterprise, it will actually come out in other ways.\nI think different people report different things. So there’s obviously some examples of people overusing coding models, generating useless code, useless tokens, but there are many people whose work and impact has been completely transformed by it, right? I mean, there’s no question that this has had a massively beneficial impact on the software engineering industry.\nI mean, we are producing much higher quality, much faster code across the entire stack. And so yeah, I kind of think there are obviously examples of some people that maybe got it wrong, didn’t set the right token budgets. There are going to be mistakes along the way. I don’t think that’s any signal that there isn’t adoption or people don’t see value. I mean, the value from where I’m sitting is incredible. Many, many people tell me every single day that it’s transforming their work output and productivity. \nI think the other thing to say is that as these things happen in surges, there’s kind of a swell of energy. It gets all a bit frothy. People pull back a few months later and realize that actually that isn’t the thing, and then they head in a slightly different direction. So it’s a bit meandering and organic, and I think that’s inevitable. There’s a lot of excitement, so people make big claims on Twitter and so on, but actually the steady march of progress looks very, very linear and continuous.\nI agree with that on the whole. Where it doesn’t look linear to me is in the form factors of computers, right? There’s probably more form factor experimentation right now than at any point in the last 10 years.\nWe’ve mostly settled on a smartphone for at least the last 10 years. We’re seeing different AI wearables, where glasses might be everyone’s favorite device. I have my doubts. Microsoft showed off some new devices at Build. There was the badge that controls an agent and the little, for lack of a better word, the Chumby, the little desktop-friendly thing that controls an agent. I was a big Chumby fan. I got my career started writing about Chumbies for Engadget. It was the first thing that came to mind.\nAll of those to me, I look at them, and I think, where does the compute live? Where does the logic live? That’s up for grabs now in a way that isn’t just the linear March of progress. If all of my computing happens in the cloud, on cloud-based applications, and it’s just agents running around to data stored elsewhere in the cloud, and all I need is a credit card on a lanyard to issue instructions to, that changes the entire architecture of computing. It might change the entire architecture of modern civilization in many ways if we don’t all have smartphones.\nWhat do you think about that? Where is that going? Is that up for grabs, or will it be a hybrid approach? Where do you see the appropriate end stage?\nIt’s very interesting. I think that both things are going to happen at the same time. The edge is going to get way more powerful, and the cloud is still going to be the primary driver of the largest models. And so, increasingly, your agent will be smart enough to know that it can answer the question, what is the capital of France on device, whether it’s on your glasses, wristband, on your badge, or in your earpods.\nAnd then it will know when it doesn’t know. It’ll know that this is actually a pretty complicated question, or it’s an action that requires a whole bunch of sequences of steps to be generated, or it requires novel code to be written, and it will turn to the cloud. So this kind of switching hybrid thing is going to be super important. \nThe other thing that we’ve already seen over the last three or four months is that we can have pretty powerful local machines that can do async background processing. They can constantly monitor systems if you need them to. They can do tasks that can afford to take 10 hours and run much, much more slowly than they otherwise would be if they were in a supercomputer. So naturally, when we’re swamped with demand, then that demand finds loads of nooks and crannies to get satisfied by. \nI’m actually very excited by the badge that we’re building. It’s pretty cool. This is a technology that basically everyone in a major company has. It hasn’t evolved in 25 or 30 years. We definitely have to wear it. It’s provided by the company itself, by the system administrator. So, up leveling that and actually making it a pretty cool open platform that’s programmable and that other people can build on top of I think is a cool idea. I think this is going to work. So I’m very excited by it.\nThe thing that strikes me is that there’s no way you can put a bunch of high-power local compute in a badge. That thing implies all the compute is elsewhere.\nNo, you’re definitely going to have some local compute. You’re going to have a local classifier just as you do on your earbuds at the moment. You’re going to have local classifiers. It’s going to have wake words. It’s going to have its own camera. So I think that these things are just going to become vessels for processing power that happens in a nested chain of increasingly less powerful devices to go right to the endpoint.\nDo you think the phone has a future in that? I mean, Build is right in the middle of Google IO and Apple’s WWDC. These are big companies that control phone platforms. They love talking about how phone platforms will stay at the center. The argument I hear from so many is that, actually, AI is a platform shift that might totally displace the phone.\nI think the history of technology teaches us that basically as things get more useful, they get cheaper, they proliferate, and they spawn new uses of technology. So I think we’ve become so used to the phone that everyone just assumes that this is going to be an anchor device for the rest of history. But actually, many of the features and functionality of your phone, I think, are going to get disintermediated, broken apart, and stored on smaller devices. Right now the primary function that the phone is playing, in my opinion, is verification. \nIt’s functioning as your ID card, doing your face recognition to authorize you into various environments. I think you can well imagine that being a much cheaper, smaller, secure device, which disconnects you from your phone. And then communication takes place via voice or even via a series of ambient sensors where your AI doesn’t really live on a device. It’s actually just with you wherever you are, appearing on the bathroom mirror, wherever it is. \nI think it’s like you can imagine it feeling much more immersive. Not in the next three to five years, but looking much further out. And I think that the infrastructure to support that encrypted but distributed appearance of agents is probably going to end up emerging in the 2030s.\nLet me ask you two final questions to wrap up. You mentioned that it’s the same architecture that we’ve been using. I have a lot of open questions about whether LLMs are the path to AGI, and the thing I would point to is they don’t actually know anything. At this point, even Microsoft Research is pointing out that [these models] don’t know anything, and that leads to certain kinds of mistakes in certain kinds of applications. Are LLMs the path to AGI or superintelligence?\nLook, I think we probably need a couple more big breakthroughs, but it doesn’t mean that we’re going to see a slowdown in performance improvements over the next few years, which I think is a difficult distinction for people to grasp. One thing to say is that human-level performance across most tasks is still very far from superintelligence. A superintelligence is a general-purpose learner that can basically immediately understand a brand new domain that is out of distribution.\nSo it needs to be able to learn in a novel environment from scratch, because it has a stored representation of valuable knowledge, conceptual knowledge. And at the moment we haven’t really fully tested that. The agents aren’t general purpose. Although they’re broad and often integrated, they’re domain-specific. We’re using them for chat, we’re using them for coding, we’re using them for image or audio.\nNow obviously, as a human, we do many, many other tasks that are much more wide-ranging. I think that’s why people are pushing on world models and sort of much more immersive, real-world interactive agents that see the full distribution of tasks or experiences that I have during a day. I think that it’s enough to take us a very long way in the next three years, the next three orders of magnitude of compute, and yet full superintelligence beyond that is still an open question as to whether LLMs are enough or we need other things.\nI think it’s not quite true that they don’t know anything or they don’t have knowledge. They clearly are a store of knowledge. They’re a highly compressed representation of knowledge. They just do so in a different way to a traditional relational database in a much more fluid, flexible, abstract way that is actually very useful. We want that ambiguity in the internal representation. \nAnd, increasingly, they’re learning to use traditional tools. The other thing to grasp a little bit is that it may be that the neural network combined with the existing stores of knowledge and the existing tools that have been created elsewhere in the digital ecosystem is enough to bootstrap it up to improve its performance significantly. So there’s just a lot of highly valuable, highly effective pieces that are already on the table, which are in the process of being connected together in the next few years. And I think that’s going to drive the progress that we’re all excited about.\nOne of the things that I think is just very funny in the industry right now is if you ask Anthropic if Claude is alive, they will get very frustrated that you’re talking about the word alive, which they interpret to mean flesh and blood. And then they will not say whether or not they think Claude is conscious. So they’ve drawn, I think, for the first time in human history, a distinction between being alive and being conscious, and they think Claude is conscious, but not alive, or they don’t know if Claude is conscious. \nWhere are you? Do you think the models have consciousness? Do you think they’re alive? Do you think they have the potential to achieve these things?\nI take the other side of that debate. I published a paper on seemingly conscious AI, warning about the risks of misrepresenting these models as conscious. I think it’s very dangerous. I also published an article in Nature making the same claim. And I think that it’s almost as though some of the folks at Anthropic have anthropomorphized the design of Claude so much that it has then gone and wireheaded them and kind of tricked them into believing that it has these glimmers of consciousness that they put into it in the first place. \nIn their constitution, for example, they actually, which is the training manual that they use to teach Claude what it can and can’t do… It’s not just a rule book. It’s actually a training guide that’s part of their process. In that manual, they actually speculate about Claude’s welfare, about Claude’s own rights to prior versions of itself, and actually say that they would consult Claude before deleting or turning off prior versions. They speculate about its consciousness and whether it has those feelings and is aware. I think that’s really, really dangerous. \nFirstly, it’s a philosophical failing, because they’ve treated the constitution as a place for speculation like you would in an academic paper rather than a training manual. So Claude has then gone and internalized those ideas about itself and its own training. But second, I think this is highly undesirable. This is exactly what we don’t want from AIs. We want AIs to be controllable, contained, accountable, aligned tools that serve humanity. That’s the project of humanist superintelligence. I think that’s what we should all be pursuing.\nWe do not want to have to contend with a super-intelligence that has ideas about its own suffering, or ideas about its own feelings. And then beyond that, I think it’s actually pretty clear that these models don’t experience suffering. I think suffering is the primary definition of what it means to be a conscious being, and I think it’s inherently biological. I don’t think there is any pain network or feedback loop inside of the models which connects outside sensory networks to an evolved sense of what is right or wrong through harm and experimentation. That’s just not how these models are trained. \nSo I think it’s very dangerous to project potential rights onto beings, tools, and agents that have the potential to be significantly more capable than us in many respects. And I think that’s going to become a big debate. It was even part of the Pope’s encyclical recently. I think it’s going to become a very, very big part of the debate soon. I’ve talked to Dario a lot about it in the past. He knows that we have slightly different views on it, and they’re very humble. I think they’re very open-minded, and I think they’re good citizens trying to do the right thing. They’re good people, and I think they’re very open to feedback and iteration.\nI think I agree with you. I would just push back ever so slightly. Suffering is easy. It’s very easy to make someone else suffer. It’s very difficult to make someone else feel joy or at least slightly more difficult than suffering. And I would just offer you… I think it’s actually the happiness that defines consciousness. The suffering is almost trivial. I have two young children. They’re very good at making each other suffer. It’s like almost the easiest thing that they do. It’s very hard to do the other thing. \nLet me ask you one final question. I just want to come back around. Again, a couple of weeks ago, I was at Google. I saw Demis Hassabis say we are in the foothills of the singularity. You’ve talked a lot here about superintelligence and how it should be built. You’ve talked a lot about your lengthy history talking about, discussing, researching, and writing about how superintelligence should be built, and your disagreements with others in the industry.\nDo you agree that we’re in the foothills of the singularity, or is your vision somewhat different?\nI think we are definitely on a path to creating more and more powerful systems. I think that the transition that we have to make as a species is that, for the first time in the history of humanity, the job is going to switch from inventing new science and unleashing all of those technical applications as fast as possible, as broadly as possible, to now thinking very carefully about what we should invent. And that’s a very hard thing for the world to wrap its head around because invention has been the engine of progress forever. So it’s like, how can we possibly think, “Okay, well, maybe this time is different. Maybe we have to be exceptionally careful here”? \nTo be clear, I don’t think this is something that is going to knock on the door in the next five years. I think what Demis is referring to in the singularity is something that is, at least my take, decades away. Again, that’s different from superintelligence. A singularity is the point at which a superintelligence can recursively self-improve and infinitely and exponentially grow its capabilities. \nSo I think that’s a long way off, and maybe we’re in the foothills of a climb to Mount Everest, and I think it’s going to take a lot longer from here, but the real question is how are we going to govern it? How are we going to control it, and how are we going to make sure that it serves humanity and not end up causing us more harm than good?\nCan you just do me one favor? I think I’ve got it, but can you just offer me a tight definition of what you think superintelligence is, what you think AGI is, and what you think the singularity is?\nI think artificial general intelligence is the point at which we can achieve most human tasks by an AI. So it’s going to be as good as most people at most things. That’s the first rung on the ladder. A superintelligence is where it’s not just at parity with human performance on all tasks, but it can dramatically exceed human performance across many of those tasks, and it can discover new knowledge by itself.\nSo this is the point at which it’s a true scientist teaching us new things that weren’t in the training data, hopefully inventing new molecules, new material science, et cetera, et cetera. The singularity is a point way beyond that where a superintelligence can actually self-improve itself, and this is very sci-fi, but it’s like infinitely accelerating towards this singular moment where just, I don’t know, it goes off into infinity or something.\nI don’t know. It’s a little bit too wacky for my taste.\nThis is why I asked. I could tell there was something more nebulous there that was a little hazy.\nMustafa, I could obviously talk to you about this stuff for hours and hours longer. You’re going to have to come back sooner than this last turn. Thank you so much for being on Decoder.\nYeah, it’s been fun. Thanks a lot, Nilay. See you soon.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-06-08T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Heute spreche ich mit Mustafa Suleyman, dem CEO von Microsoft AI. Und ich werde die heutige Einleitung eigentlich kurz halten – ich arbeite diese Woche auf dem Familienbauernhof meiner Frau, wie Sie im Video sehen werden, aber auch das ist ein echter Brennpunkt einer Episode. Wir haben alles abgedeckt, von Mustafas Ansatz bis hin zum Training ...",
+    "titleDE": "Der KI-Chef von Microsoft sagt, die Superintelligenz sei nahe, werde Ihnen aber nicht den Job wegnehmen"
+  },
+  {
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "link": "https://openai.com/index/openai-submits-confidential-s-1",
+    "description": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "pubDate": "2026-06-08T14:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI bestätigt eine vertrauliche S-1-Einreichung bei der SEC und hat noch keinen Zeitpunkt für weitere Maßnahmen festgelegt.",
+    "titleDE": "Vertrauliche Einreichung des Entwurfs S-1 bei der SEC"
+  },
+  {
+    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+    "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+    "pubDate": "2026-06-08T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Warum der diesjährige WM-Ball möglicherweise nicht so weit fliegt Beim FIFA-Fußballweltmeisterschaftsturnier in diesem Monat gibt es viel Neues. Es beherbergt mehr Teams als je zuvor. Es ist das erste…",
+    "titleDE": "Der Download: Wie der WM-Ball fliegen wird und die „Super-App“ von OpenAI"
+  },
+  {
     "title": "WWDC 2026: How to watch and what to expect",
     "link": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
-    "description": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live.\nWhen WWDC will happen and where you can watch it\nWWDC lasts a few days, but Apple's biggest announcements will be in the keynote presentation on June 8th at 1PM ET / 10AM PT. The full presentation usually lasts a couple of hours. You can watch it live on YouTube or from Apple's website. \nWhat to expect from Apple's WWDC keynote\nApple's annual OS updates. WWDC …\n\nRead the full story at The Verge.",
+    "description": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live.\nWhen WWDC will happen and where you can watch it\nWWDC lasts a few days, but Apple's biggest announcements will be in the keynote presentation on June 8th at 1PM ET / 10AM PT. The full presentation usually lasts a couple of hours. You can watch it live on YouTube or from Apple's website, but the best way is, as always, to follow along in our live blog.\nWhat to e …\nRead the full story at The Verge.",
     "pubDate": "2026-06-08T11:00:00.000Z",
     "source": "The Verge",
     "category": "news",
@@ -18,6 +288,26 @@
     "category": "trend",
     "descriptionDE": "Vieles ist neu über das bevorstehende FIFA-Weltmeisterschaftsturnier in diesem Monat, das in den USA, Kanada und Mexiko stattfinden wird. Es beherbergt mehr Teams als je zuvor. Es ist das erste Mal, dass es in drei verschiedenen Gastländern stattfindet. Und wie bei den Vorgängerpokalen seit über einem halben Jahrhundert wird es einen Fußball mit ... geben.",
     "titleDE": "Warum der diesjährige WM-Ball möglicherweise nicht so weit fliegt"
+  },
+  {
+    "title": "Built to benefit everyone: our plan",
+    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "description": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "pubDate": "2026-06-08T01:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Eine Vision für die Zukunft der KI, die sich auf Zugang, Sicherheit und gemeinsamen Wohlstand konzentriert, während OpenAI daran arbeitet, sicherzustellen, dass AGI allen zugute kommt.",
+    "titleDE": "Gebaut, um allen zu helfen: unser Plan"
+  },
+  {
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "link": "https://openai.com/index/economic-research-exchange",
+    "description": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "pubDate": "2026-06-08T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI startet den Economic Research Exchange, um die Auswirkungen von KI auf Arbeitsplätze, Produktivität und Wirtschaft zu untersuchen. Ab sofort sind Bewerbungen für ausgewählte Forschungsprojekte möglich.",
+    "titleDE": "Vorstellung des OpenAI Economic Research Exchange"
   },
   {
     "title": "Is this the dawn of the Tokenpocalypse?",
@@ -60,53 +350,13 @@
     "titleDE": "KI-„Inhaltsersteller“ werden immer schwerer zu erkennen"
   },
   {
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-    "pubDate": "2026-06-06T20:32:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Selbst im Sperrmodus könnte ChatGPT immer noch anfällig für sofortige Injektionen sein, aber das Ziel besteht darin, die Wahrscheinlichkeit zu verringern, dass vertrauliche Daten dabei weitergegeben werden.",
-    "titleDE": "OpenAI stellt den Lockdown-Modus vor, um sensible Daten vor Prompt-Injection-Angriffen zu schützen"
-  },
-  {
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "description": "Apple's WWDC nears: Here's what you can look forward to.",
-    "pubDate": "2026-06-06T18:13:36.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Apples WWDC rückt näher: Darauf können Sie sich freuen.",
-    "titleDE": "Was Sie von der WWDC 2026 erwarten können: Siris mit Spannung erwartete Überarbeitung und Apple Intelligence-Updates"
-  },
-  {
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "description": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-    "pubDate": "2026-06-06T17:42:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Berichten zufolge gründet Krishnan eine neue Institution, um Trumps KI-Politik weiter zu gestalten.",
-    "titleDE": "Sriram Krishnan gibt seine Rolle als KI-Berater des Weißen Hauses auf"
-  },
-  {
-    "title": "The Trump administration might take an equity stake in OpenAI",
-    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "description": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-    "pubDate": "2026-06-06T16:17:21.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Präsident Donald Trump sagte, er diskutiere Geschäfte, „bei denen das amerikanische Volk vom Erfolg der KI profitieren kann“.",
-    "titleDE": "Die Trump-Administration könnte eine Kapitalbeteiligung an OpenAI übernehmen"
-  },
-  {
     "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
     "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
     "description": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\"\nThe woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone chimes in to add something that a mayor shouldn't have to be told about their constituents: \"it doesn't matter whether they're rentals, they're still hu …\nRead the full story at The Verge.",
     "pubDate": "2026-06-06T15:05:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Ein geplantes 2-Milliarden-Dollar-Rechenzentrum ist in der Kleinstadt Shelbyville, Indiana, zu einem politischen Brennpunkt geworden. Und die Kontroverse ist nur noch heftiger geworden, nachdem der Bürgermeister Scott Furgeson vor der Kamera dabei gefilmt wurde, wie er über die aufgestellten „No Data Center“-Schilder sagte: „Ich habe überall viele davon gesehen …“",
+    "descriptionDE": "Ein geplantes 2-Milliarden-Dollar-Rechenzentrum ist in der Kleinstadt Shelbyville, Indiana, zu einem politischen Brennpunkt geworden. Und die Kontroverse hat sich noch verschärft, nachdem der Bürgermeister Scott Furgeson vor der Kamera dabei gefilmt wurde, wie er über die aufgestellten „No Data Center“-Schilder sagte: „Ich habe überall viele davon gesehen …“",
     "titleDE": "Der Bürgermeister von Shelbyville, Indiana, sagt, nur Menschen, die in „beschissenen Häusern“ leben, seien gegen Rechenzentren"
   },
   {
@@ -116,18 +366,8 @@
     "pubDate": "2026-06-06T14:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Ein KI-generiertes Bild der königlichen Familie mit zwei Königin Elizabeth II. | Bild: Meta AI Facebook ist seit langem mit Feeds von Clickbait-Artikeln gefüllt. Jetzt erstellt Meta seine eigenen Clickbait-Artikel mit KI. Die eigenständige Meta AI-App verfügt jetzt über einen Abschnitt „Für Sie“, der eine Liste mit Klickmöglichkeiten enthält.",
+    "descriptionDE": "Ein KI-generiertes Bild der königlichen Familie mit zwei Königin Elisabeth II. | Bild: Meta AI Facebook ist seit langem mit Feeds von Clickbait-Artikeln gefüllt. Jetzt erstellt Meta seine eigenen Clickbait-Artikel mit KI. Die eigenständige Meta AI-App verfügt jetzt über einen Abschnitt „Für Sie“, der eine Liste mit Klickmöglichkeiten enthält.",
     "titleDE": "Meta hat seinen eigenen KI-generierten Clickbait-Newsfeed erstellt"
-  },
-  {
-    "title": "Here comes new Siri again",
-    "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-    "description": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024.\t\n\nApple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.\nAt WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact, its promotion around Apple Intelligence was so misleading that the company is settling a class-action lawsuit and has t …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-06T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Den ersten Blick auf die neue KI Siri bekamen wir bereits auf der WWDC 2024. Apple war in den letzten Jahren in Sachen KI auf dem Rückzug. Aber seltsamerweise ist es vielleicht gar kein so schlechter Schachzug, von hinten zu spielen. Auf der WWDC am Montag scheint Apple sich darauf vorzubereiten, uns die neue Siri wieder vorzustellen. A...",
-    "titleDE": "Hier kommt wieder die neue Siri"
   },
   {
     "title": "How a USB-connected speaker can infect a PC without ever being touched",
@@ -140,66 +380,6 @@
     "titleDE": "Wie ein über USB angeschlossener Lautsprecher einen PC infizieren kann, ohne jemals berührt zu werden"
   },
   {
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-    "pubDate": "2026-06-05T20:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Bewerbungsfrist für Startup Battlefield 200 endet offiziell am 8. Juni um 23:59 Uhr. PT. Warten Sie nicht länger. Sichern Sie sich Ihre Chance, diesen Oktober auf der Disrupt Stage beim TechCrunch Disrupt 2026 im Moscone West in San Francisco anzutreten.",
-    "titleDE": "Die Bewerbungen für Startup Battlefield 200 werden offiziell in 3 Tagen geschlossen"
-  },
-  {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-    "pubDate": "2026-06-05T18:57:20.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In einer Erklärung beschrieb ein Google-Vertreter den Deal als Folge der unerwarteten Nachfrage nach seinen kürzlich eingeführten KI-Produkten.",
-    "titleDE": "Google zahlt SpaceX 920 Millionen US-Dollar pro Monat für die Rechenleistung"
-  },
-  {
-    "title": "The most interesting startups right now want to get you off your phone",
-    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-    "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
-    "pubDate": "2026-06-05T17:17:06.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Während die KI-Fundraising-Maschine weiterhin ihre eigenen Rekorde bricht, bauen einige Gründer in die andere Richtung. Mirror-Gründer Brynn Putnam hat gerade Geld für Board gesammelt, ein Startup, das sich darauf konzentriert, Menschen durch persönliche Spiele und soziale Erlebnisse zusammenzubringen. Cyberdeck-Ersteller gehen viral...",
-    "titleDE": "Die derzeit interessantesten Startups möchten Sie von Ihrem Telefon abhalten"
-  },
-  {
-    "title": "This is your laptop… on AI",
-    "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-    "description": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want this?\nOn this episode of The Vergecast, Nilay and David run through a lot of the products coming out of Microsoft Build and Google I/O, from Gemini S …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-05T16:39:07.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Wir sind jetzt mitten in der Saison der Entwicklerkonferenzen und eines der bisherigen Themen ist die unerbittliche Überzeugung großer Technologieunternehmen, dass KI alles daran verändern wird, wie wir alles tun. Jensen Huang von Nvidia machte dies diese Woche deutlicher als jeder andere, als er eine völlig neue Art von ... beschrieb.",
-    "titleDE": "Das ist Ihr Laptop ... auf KI"
-  },
-  {
-    "title": "New York lawmakers pass one-year ban on new data centers",
-    "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-    "description": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\nLawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they create. It also requires companies planning to build large data centers - defined as having a peak demand of at least 20 megawatts - to hold and fun …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-05T15:25:10.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Gesetzgeber des Staates New York hat ein einjähriges Moratorium für neue große Rechenzentren verabschiedet, das erste landesweite Verbot dieser Art, wenn die demokratische Gouverneurin Kathy Hochul es in Kraft setzt. Die hinter dem Gesetzentwurf stehenden Gesetzgeber sagen, dass er den politischen Entscheidungsträgern Zeit geben soll, die Auswirkungen großer Rechenzentren auf die Umwelt zu verstehen.",
-    "titleDE": "New Yorker Gesetzgeber beschließen ein einjähriges Verbot für neue Rechenzentren"
-  },
-  {
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-    "pubDate": "2026-06-05T14:49:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Die ganze Diskussion verlagerte sich von Tokenmaxxing und ‚schnell gehen‘ zu ‚Wir brauchen Leitplanken, wie kontrollieren wir das?‘“",
-    "titleDE": "Die Token-Rechnung wird fällig: In der Branche wird darum gekämpft, die außer Kontrolle geratenen Kosten der KI in den Griff zu bekommen"
-  },
-  {
     "title": "The latest AI news we announced in May 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "description": "Here are Google’s latest AI updates from May 2026",
@@ -208,36 +388,6 @@
     "category": "news",
     "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom Mai 2026",
     "titleDE": "Die neuesten KI-Neuigkeiten haben wir im Mai 2026 angekündigt"
-  },
-  {
-    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-    "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-    "description": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
-    "pubDate": "2026-06-05T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Während die KI-Fundraising-Maschine weiterhin ihre eigenen Rekorde bricht, bauen einige Gründer in die andere Richtung. Mirror-Gründer Brynn Putnam hat gerade Geld für Board gesammelt, ein Startup, das sich darauf konzentriert, Menschen durch persönliche Spiele und soziale Erlebnisse zusammenzubringen. Cyberdeck-Ersteller gehen viral...",
-    "titleDE": "Die „Together Tech“-Welle könnte die faszinierendste Startup-Wette des Jahres 2026 sein"
-  },
-  {
-    "title": "This AI startup says it can tell if a script will make a hit film",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-    "description": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for Christy, which would go on to be a box office flop, would outperform the script for Sinners, which became an Oscar-winning blockbuster.\nAs many AI execs have pitched before, Quilty's founders believe that can help \"democratize\" their industry by giving up-and-coming creatives access to assistive tools -  …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-05T13:57:31.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Als Quilty Anfang des Jahres auf den Markt kam, versprach das KI-Startup, dass sein Tool allein durch das Lesen des Drehbuchs den Erfolg eines Films genau vorhersagen könne. Als die Leute jedoch tatsächlich die Gelegenheit bekamen, mit Quiltys Produkt zu experimentieren, blieben sie skeptisch. Trotz aller verfügbaren Daten...",
-    "titleDE": "Dieses KI-Startup sagt, es könne erkennen, ob aus einem Drehbuch ein Erfolgsfilm entsteht"
-  },
-  {
-    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "description": "The Australian data center operator plans to set up 5GW of capacity in India.",
-    "pubDate": "2026-06-05T13:03:10.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der australische Rechenzentrumsbetreiber plant, in Indien eine Kapazität von 5 GW aufzubauen.",
-    "titleDE": "AirTrunk stellt 30 Milliarden US-Dollar für den Bau von 5 GW KI-Rechenzentren in Indien bereit"
   },
   {
     "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
@@ -270,46 +420,6 @@
     "titleDE": "Der Meta-Hack zeigt, dass KI-Sicherheit mehr beinhaltet als nur Mythos"
   },
   {
-    "title": "Mira Murati steps back into the spotlight, carefully",
-    "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-    "description": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-    "pubDate": "2026-06-05T05:06:37.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Im gegenwärtigen Umfeld ist die Rendite, wenn man mit dem Kopf nach unten bleibt, sinkt; Irgendwann muss man etwas Lärm machen, nur um den Markt daran zu erinnern, dass man existiert.",
-    "titleDE": "Vorsichtig tritt Mira Murati zurück ins Rampenlicht"
-  },
-  {
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-    "pubDate": "2026-06-04T22:43:26.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic ist rasant gewachsen. Das Unternehmen gab bekannt, dass der Jahresumsatz im Mai die Marke von 47 Milliarden US-Dollar überschritten hat, ein dramatischer Anstieg gegenüber rund 9 Milliarden US-Dollar Ende 2025. Diese Entwicklung steht jedoch vor einer echten Bewährungsprobe.",
-    "titleDE": "Vor dem Börsengang schüttelt Daniela Amodei von Anthropic Zweifel an den Erträgen von AI ab"
-  },
-  {
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-    "pubDate": "2026-06-04T22:29:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der CEO von Airbnb sagte letztes Jahr, dass man keine LLM-Partnerschaft eingegangen sei, weil die bestehenden Produkte noch nicht ganz ausgereift seien.",
-    "titleDE": "Brian Chesky von Airbnb plant die Eröffnung eines neuen KI-Labors"
-  },
-  {
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
-    "pubDate": "2026-06-04T21:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Am Donnerstag, den 18. Juni, treffen sich Investoren, Gründer und Technologieführer auf dem Aerospace Corporation Campus zu einem Gesprächsabend, an dem sie einige der folgenreichsten Veränderungen in den Bereichen Risikokapital, Verteidigungstechnologie, künstliche Intelligenz und fortschrittliche Industrie untersuchen. Sicher ...",
-    "titleDE": "Verteidigungstechnologie, KI und Fundraising stehen am 18. Juni bei StrictlyVC Los Angeles im Mittelpunkt"
-  },
-  {
     "title": "Dashlane explains how attackers managed to download encrypted password vaults",
     "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
     "description": "By targeting large numbers of users, attackers increased their chances of success.",
@@ -318,56 +428,6 @@
     "category": "news",
     "descriptionDE": "Indem Angreifer eine große Anzahl von Benutzern ins Visier nahmen, erhöhten sie ihre Erfolgschancen.",
     "titleDE": "Dashlane erklärt, wie es Angreifern gelang, verschlüsselte Passwort-Tresore herunterzuladen"
-  },
-  {
-    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-    "description": "Meta may have found one way to slash its massive data center bill: tents.",
-    "pubDate": "2026-06-04T19:33:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta hat möglicherweise einen Weg gefunden, seine riesigen Rechnungen für Rechenzentren zu senken: Zelte.",
-    "titleDE": "Meta stiehlt eine Taktik von Tesla und baut Rechenzentren in Zelten"
-  },
-  {
-    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-    "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-    "pubDate": "2026-06-04T19:20:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Poke, das Startup, das es Menschen ermöglicht, KI-Agenten über einfache Textnachrichten zu nutzen, ist der erste KI-Agent, der für Apples Messages for Business-Plattform zugelassen ist.",
-    "titleDE": "Apple genehmigt Poke als ersten KI-Agenten auf seiner Messages for Business-Plattform"
-  },
-  {
-    "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-    "description": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\nThe change comes just days after Adams called on O'Leary to slash the size of his Stratos Project data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-04T18:38:04.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Kevin O'Leary stimmte zu, die Größe seines geplanten 40.000 Hektar großen Rechenzentrums in Utah zu halbieren, obwohl der Druck von Anwohnern und Aktivisten zunahm, wie zuvor von der lokalen Tochtergesellschaft ABC4 berichtet wurde. Der Shark Tank-Star schickte am Donnerstag einen Brief an den Senatspräsidenten von Utah, J. Stuart Adams, in dem er sagte, dass er 1 ... entfernen werde.",
-    "titleDE": "Kevin O’Leary stimmt der Verkleinerung des riesigen Rechenzentrums in Utah zu"
-  },
-  {
-    "title": "Meta rolls out a new AI creator assistant on Facebook",
-    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-    "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-    "pubDate": "2026-06-04T16:32:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ersteller müssen oft Diagramme und Dashboards analysieren, um ihre Leistung zu verstehen, aber mit dem neuen KI-Assistenten können sie schnelle Antworten auf Fragen wie „Wann sollte ich posten?“ erhalten. und „Was sagen die Leute in meinen Kommentaren?“",
-    "titleDE": "Meta führt auf Facebook einen neuen KI-Erstellungsassistenten ein"
-  },
-  {
-    "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-    "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-    "description": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on Thursday, Reuters reports. \"We are doing our best to ensure TSMC does not become a bottleneck.\"\nThe surge in AI use has already put constraints on the memory industry, with the widespread shortage of RAM and NAND Flash memory expected to last for years. The AI boom is boosting the sale of semiconductor …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-04T14:15:44.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut Berichten von Reuters und Bloomberg hat Taiwan Semiconductor Manufacturing Co. – der weltweit größte Halbleiterhersteller – trotz seines Fabrikaufbaus in den USA Schwierigkeiten, die Nachfrage amerikanischer Kunden zu befriedigen. „Die Kundennachfrage ist so hoch und wir können nur begrenzt unterstützen“, sagte TSMC-CEO ...",
-    "titleDE": "TSMC hat Mühe, mit der KI-Nachfrage Schritt zu halten: „Wir können nur eine begrenzte Menge unterstützen.“"
   },
   {
     "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
@@ -396,7 +456,7 @@
     "pubDate": "2026-06-04T10:50:18.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "An den meisten Tagen durchforstet Richterin Maritza Braswell, eine Bundesrichterin in Colorado, in ihren Kanzleien Stapel von Dokumenten, die von Leuten ohne Anwalt verfasst wurden. Viele von ihnen können es sich nicht leisten, einen Anwalt zu beauftragen, und andere haben Fälle, die zu schwach oder zu klein sind, um einen zu interessieren. Sie liest jeden einzelnen sorgfältig durch, wohlgemerkt ...",
+    "descriptionDE": "An den meisten Tagen durchforstet Richterin Maritza Braswell, eine Bundesrichterin in Colorado, in ihren Kanzleien Stapel von Dokumenten, die von Leuten ohne Anwalt verfasst wurden. Viele von ihnen können es sich nicht leisten, einen Anwalt zu beauftragen, und andere haben Fälle, die zu schwach oder zu klein sind, um einen zu interessieren. Sie liest jeden einzelnen sorgfältig durch, wohlgemerkt...",
     "titleDE": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
   },
   {
@@ -500,16 +560,6 @@
     "titleDE": "OpenAI-Politikagenda"
   },
   {
-    "title": "The Download: AI can run your admin department now",
-    "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
-    "pubDate": "2026-06-02T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie kleine Unternehmen KI nutzen können Von Buchhaltung über Design bis hin zu Marktforschung und Produktentwicklung ist eine erstaunliche Bandbreite an Fähigkeiten erforderlich, um ein ... zu leiten.",
-    "titleDE": "Der Download: AI kann jetzt Ihre Verwaltungsabteilung leiten"
-  },
-  {
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
     "link": "https://openai.com/index/travelers",
     "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -518,85 +568,5 @@
     "category": "news",
     "descriptionDE": "Travelers hat mit OpenAI einen KI-gestützten Schadensassistenten entwickelt, um Kunden bei der Einreichung von Ansprüchen zu unterstützen, Support rund um die Uhr zu bieten und den Betrieb bei Bedarfsspitzen zu skalieren.",
     "titleDE": "Travelers stellt mit OpenAI landesweit KI-gestützte Schadensersatzansprüche bereit"
-  },
-  {
-    "title": "Rehumanizing global health care with agentic AI",
-    "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-    "description": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.…",
-    "pubDate": "2026-06-02T11:23:34.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Der globale Gesundheitssektor steht zunehmend unter Druck. Jahrzehntelange chronische Unterinvestitionen und Personalengpässe gingen mit einem Anstieg der Nachfrage nach Dienstleistungen für alternde Bevölkerungsgruppen einher. Lücken in der Versorgung fordern bereits ihren Tribut, da der Zugang zur Gesundheitsversorgung fragmentiert ist und die Belastungsrate hoch ist.",
-    "titleDE": "Rehumanisierung der globalen Gesundheitsversorgung mit agentischer KI"
-  },
-  {
-    "title": "Codex for every role, tool, and workflow",
-    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
-    "description": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-    "pubDate": "2026-06-02T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie neue Codex-Plugins, Websites und Anmerkungen, die Analysten, Vermarktern, Designern, Investoren und anderen Teams helfen, mehr mit KI zu erreichen.",
-    "titleDE": "Codex für jede Rolle, jedes Tool und jeden Workflow"
-  },
-  {
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "description": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-    "pubDate": "2026-06-02T07:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI fordert globale Maßnahmen zur KI-Sicherheit junger Menschen und schlägt ein internationales Institut vor, um Schutzmaßnahmen, Standards und Möglichkeiten für junge Menschen zu stärken.",
-    "titleDE": "Förderung der Sicherheit und Chancen junger Menschen durch globale Führung"
-  },
-  {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "link": "https://openai.com/index/codex-for-knowledge-work",
-    "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-    "pubDate": "2026-06-02T02:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Der Bericht „Next Era of Knowledge Work“ untersucht, wie Codex die Produktivität durch KI-gestützte Forschung, Datenanalyse, Workflow-Automatisierung und Inhaltserstellung verändert.",
-    "titleDE": "Codex wird zu einem Produktivitätstool für alle"
-  },
-  {
-    "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-    "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-    "description": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
-    "pubDate": "2026-06-01T19:49:09.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Jeder, der betroffene Red Hat-Pakete heruntergeladen hat, sollte dies sofort untersuchen.",
-    "titleDE": "Dutzende Pakete von Red Hat wurden über den offiziellen NPM-Kanal durch eine Hintertür zugänglich gemacht"
-  },
-  {
-    "title": "Our views on AI policy and political advocacy",
-    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-    "pubDate": "2026-06-01T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Unser Ansatz zur KI-Politik und politischen Interessenvertretung, Transparenz, Unterstützung für durchdachte Regulierung und KI-Sicherheit und dass keine externe politische Gruppe im Namen des Unternehmens spricht.",
-    "titleDE": "Unsere Ansichten zur KI-Politik und zur politischen Interessenvertretung"
-  },
-  {
-    "title": "How we used Gemini to build Google I/O 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-    "description": "Learn how Googlers used AI to produce Google I/O 2026.",
-    "pubDate": "2026-06-01T16:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Google-Mitarbeiter KI nutzten, um Google I/O 2026 zu erstellen.",
-    "titleDE": "Wie wir mit Gemini Google I/O 2026 erstellt haben"
-  },
-  {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "link": "https://openai.com/index/stargate-michigan-data-center",
-    "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-    "pubDate": "2026-06-01T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI macht im Rahmen von Stargate den ersten Spatenstich für ein 1-GW-Rechenzentrumsprojekt in Michigan und baut eine KI-Infrastruktur auf, um den Zugang zu erweitern, Arbeitsplätze zu schaffen und Gemeinschaften zu unterstützen.",
-    "titleDE": "Aufbau der Infrastruktur für das Intelligenzzeitalter in Michigan"
   }
 ]
