@@ -1,5 +1,275 @@
 [
   {
+    "title": "Job titles of the future: Nature’s drug designer",
+    "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+    "description": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.  For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was increasingly concerned about…",
+    "pubDate": "2026-06-11T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Im Jahr 2018, nach fast zwei Jahrzehnten im Pharmakonzern, war der Chemiker Tim Cernak bereit, seine Fähigkeiten einem neuen Einsatz zuzuführen. Für Merck hatte er Präzisionstherapien gegen Krebs, HIV und Diabetes entwickelt, die Krankheiten bekämpfen und gleichzeitig die Schädigung gesunder Zellen minimieren könnten. Aber als lebenslanger Naturliebhaber war er...",
+    "titleDE": "Berufsbezeichnungen der Zukunft: Arzneimittelentwickler der Natur"
+  },
+  {
+    "title": "Inside soccer’s data renaissance",
+    "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+    "description": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were Jesse…",
+    "pubDate": "2026-06-11T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Stellen Sie sich vor, Sie schalten den Eröffnungsstoß eines WM-Spiels ein und sehen, wie ein Spieler den Ball absichtlich ganz über das Spielfeld und direkt ins Aus des gegnerischen Feldes schickt. Gelegenheitsfans kratzen sich vielleicht am Kopf. Wo ist die Logik, Sekunden nach Beginn eines Spiels den Ball aufzugeben? Wenn du...",
+    "titleDE": "Einblicke in die Datenrenaissance des Fußballs"
+  },
+  {
+    "title": "Why China is betting on big nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+    "description": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Meanwhile, the US has built just two reactors in that…",
+    "pubDate": "2026-06-11T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Es ist eine Geschichte zweier Atomindustrien. In China wachsen große Reaktoren in atemberaubendem Tempo zusammen. Das Land hat seine Atomkraftflotte seit 2016 nahezu verdoppelt und erreicht eine Gesamtleistung von fast 60 Gigawatt. Bei den neuen Anlagen handelt es sich nahezu ausschließlich um Druckwasserreaktoren im Gigawatt-Maßstab. Bedeuten...",
+    "titleDE": "Warum China auf große Atomreaktoren setzt"
+  },
+  {
+    "title": "Deezer launches an AI music detector for other streaming services",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+    "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify have opted for a voluntary tagging system. \n\"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists include synthetic music, no matter which streaming platform they use,\" Deezer CEO Alexis Lanternier said in a press release. So, since nobody is ta …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-11T08:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Deezer scannt jetzt Ihre Playlists auf anderen Streaming-Plattformen, um KI-generierte Musik zu erkennen. Deezer war der erste große Streaming-Dienst, der mit der Kennzeichnung von KI-generierter Musik begann. Es bot seine Technologie sogar anderen Plattformen an, aber es schien nicht viele Käufer zu haben. Qobuz startete seine eigene Det...",
+    "titleDE": "Deezer bringt einen KI-Musikdetektor für andere Streaming-Dienste auf den Markt"
+  },
+  {
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "description": "The decision comes as India emerges as the world’s largest GCC market.",
+    "pubDate": "2026-06-11T04:02:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Entscheidung fällt, da sich Indien zum weltweit größten GCC-Markt entwickelt.",
+    "titleDE": "Der Ausstieg von Opendoor aus Indien löst eine größere Diskussion über KI und Outsourcing aus"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "description": "If you doubted his genius, doubt no more.",
+    "pubDate": "2026-06-11T03:53:06.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wenn Sie an seinem Genie gezweifelt haben, zweifeln Sie nicht mehr.",
+    "titleDE": "Dario Amodei von Anthropic hat nur einen direkten Bericht"
+  },
+  {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "pubDate": "2026-06-11T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie, wie der Astrophysiker Chi-kwan Chan Codex verwendet, um Simulationen von Schwarzen Löchern zu erstellen und Wissenschaftlern dabei zu helfen, extreme Physik zu studieren und Einsteins allgemeine Relativitätstheorie zu testen.",
+    "titleDE": "Wie ein Astrophysiker Codex nutzt, um Schwarze Löcher zu simulieren"
+  },
+  {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "pubDate": "2026-06-11T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI unterstützt den EU-Verhaltenskodex zur Transparenz von KI-Inhalten und fördert Herkunftsstandards und Tools, um Menschen das Verständnis von KI-generierten Inhalten zu erleichtern.",
+    "titleDE": "Unterstützung der Arbeit Europas zur Gewährleistung eines vertrauenswürdigen KI-Ökosystems"
+  },
+  {
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "pubDate": "2026-06-10T22:31:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein ehemaliger xAI-Ingenieur verklagt das Unternehmen und SpaceX und behauptet, er sei entlassen worden, weil er Tage vor dem historischen Börsengang von SpaceX Bedenken hinsichtlich der KI-Sicherheit in Bezug auf Grok geäußert hatte.",
+    "titleDE": "xAI entließ einen Ingenieur, der wegen der Sicherheit von Grok Alarm schlug, heißt es in einer neuen Klage"
+  },
+  {
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "description": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "pubDate": "2026-06-10T20:19:31.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Unternehmen verbrennen exorbitante Summen, um im KI-Wettrüsten Schritt zu halten. Die Schulden steigen.",
+    "titleDE": "Nach dem Verkauf der Anleihe leiht sich Amazon 17,5 Milliarden US-Dollar von Banken, während die KI-Ausgaben weiter anhalten"
+  },
+  {
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "link": "https://openai.com/index/openai-on-oracle-cloud",
+    "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "pubDate": "2026-06-10T20:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Greifen Sie über Oracle Cloud auf OpenAI-Modelle und Codex zu und nutzen Sie bestehende Verpflichtungen zum Aufbau und Einsatz von KI mit Unternehmenssicherheit und Governance.",
+    "titleDE": "Greifen Sie über Ihr Oracle-Cloud-Engagement auf OpenAI-Modelle und Codex zu"
+  },
+  {
+    "title": "Claude Fable won’t answer basic biology questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+    "description": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship model, Claude Opus 4.8.\nIt isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design.\nFable is a public-facing, Mythos-class model, a family so capable at cybersecurity tasks Anthropic said it was too dangerous to release publicly. But while Anthropic has spent much of the extended Mythos rol …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-10T18:43:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic hat gerade Claude Fable 5 veröffentlicht, es als das leistungsstärkste KI-Modell bezeichnet, das es jemals allgemein verfügbar gemacht hat, und unter anderem seine Fähigkeiten in der Biologie gelobt. Aber das Modell beantwortet keine grundlegenden Fragen der Biologie – die Art, die man von einem Oberstufenschüler erwarten würde. Stattdessen wird die Abfrage an ... übergeben.",
+    "titleDE": "Claude Fable beantwortet keine grundlegenden Fragen zur Biologie"
+  },
+  {
+    "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+    "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+    "description": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.\nIn a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO Eric Schmidt getting an earful at the University of Arizona, or the speaker in Florida who seemed surprised when students booed at the mention of AI as \"the next industrial revolution.\" The videos speak to a broader societal sentiment around AI - the technology is deeply unpopular even as technology compani …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-10T17:45:11.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Neue Hochschulabsolventen im ganzen Land haben Studienantrittsredner ausgebuht und belästigt, die die KI in den Vordergrund rücken. Microsoft möchte, dass jeder darüber spricht. In einem Blogbeitrag mit mehr als 3.100 Wörtern ging der stellvertretende Vorsitzende und Präsident von Microsoft, Brad Smith, auf die jüngste Flut viraler Clips von Absolventen ein...",
+    "titleDE": "Microsoft versteht vollkommen, warum Studenten KI-gestopfte Abschlussredner ausbuhen"
+  },
+  {
+    "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+    "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+    "description": "(L-R) Sen. Mike Rounds, Pamela Brown, Chris Malachowsky, Kevin O'Leary, Gabriele Caccia, Tammy Haddad, Michele L. Jawando, Sen. Mark Warner, Michael Kelly and Major General Patrick Ellis attend the Second Annual AI Honors. | Getty Images for Washington AI N\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip to the Heineken Experience, which is, truly, an ~experience~.\nBefore I left, I asked everyone in Washington to please chill out while I was gone. This clearly did not happen, and I have returned to a political landscape that can be best described as that meme from Community where the room is on fire. Let's get into th …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-10T17:38:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "(L-R) Senator Mike Rounds, Pamela Brown, Chris Malachowsky, Kevin O'Leary, Gabriele Caccia, Tammy Haddad, Michele L. Jawando, Senator Mark Warner, Michael Kelly und Generalmajor Patrick Ellis nehmen an den zweiten jährlichen AI Honours teil. | Getty Images für Washington AI N Hallo und willkommen bei Regulator, einem Newsletter ...",
+    "titleDE": "Die Zukunft der KI-Regulierung besteht darin, die seltsamsten und ängstlichsten Bettgenossen zu umwerben"
+  },
+  {
+    "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+    "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+    "description": "A group of independent musicians is suing Google claiming it trained Lyria on their uploads. | Image: Cath Virginia / The Verge\t\n\nIf you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. \nA group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed a motion to dismiss the case, saying:\nTheir lawsuit is based on the unsupported hypothesis that Google trained on their specific works. Even accepting their untested allegations as fact, the Complaint cannot stand. Plaintiffs each granted YouTube, and Google - which provides the service-a broad license to use the uploaded con …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-06-10T17:20:36.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Eine Gruppe unabhängiger Musiker verklagt Google mit der Begründung, es habe Lyria bei ihren Uploads geschult. | Bild: Cath Virginia / The Verge Wenn Sie einen Song auf YouTube hochgeladen haben, hält Google Ihr Video mit ziemlicher Sicherheit für fair, um seine Lyria-Musik-KI zu trainieren, aber es gibt es im Moment einfach nicht zu. Eine Gruppe von mir...",
+    "titleDE": "Google gibt nicht einfach zu, dass es YouTube-Ersteller mit seiner Musik-KI versorgt"
+  },
+  {
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "pubDate": "2026-06-10T17:07:35.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Ramp AI Index geben die am stärksten von KI besessenen Unternehmen monatlich etwa 7.500 US-Dollar pro Mitarbeiter für KI aus. Das ist noch nicht mehr als das Gehalt eines Ingenieurs.",
+    "titleDE": "„KI-geprägte“ Unternehmen geben jeden Monat 7.500 US-Dollar pro Mitarbeiter für KI aus"
+  },
+  {
+    "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+    "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+    "description": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. \nWhile Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm told the model isn't available in the model picker that Microsoft employees use for internal versions of GitHub Copilot. All other Claude models are still available internally at Microsoft, because they operate under Zero Data Retention (ZDR) rules.\nI understand that Microsoft ha …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-10T16:50:23.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic hat gestern Claude Fable veröffentlicht, sein erstes KI-Modell der Mythos-Klasse, und es löst bei Microsoft bereits Bedenken aus. Quellen sagen mir, dass Microsoft die Nutzung von Claude Fable 5 für Mitarbeiter aufgrund der neuen Datenaufbewahrungsanforderungen von Anthropic einschränkt. Während Microsoft schnell herauskam...",
+    "titleDE": "Microsoft schränkt Claude Fable für Mitarbeiter aufgrund von Bedenken hinsichtlich der Datenaufbewahrung ein"
+  },
+  {
+    "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+    "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+    "description": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting.\nThat includes the images you search for with Google Lens, recordings from its real-time Search Live tool, voice searches, and phrases spoken into Translate, according to an update on the company's website. You can switch off the Search Services History setting and disable the \"Save Media\" option if you don't want Google to save these interactions.\nGoogle says it will use your Search Services History to \"provide, d …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-10T16:18:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google nimmt einige Änderungen an der Art und Weise vor, wie Ihre Interaktionen mit der Suche gespeichert werden. In einer an Nutzer gesendeten E-Mail teilt Google mit, dass die von Ihnen für die Suche verwendeten Bilder, Dateien, Audio- und Videodateien unter einer neuen Einstellung „Suchdienstverlauf“ gespeichert werden. Dazu gehören die Bilder, nach denen Sie mit Google Lens suchen, Aufnahmen von ...",
+    "titleDE": "Google speichert Ihre Lens-Fotos, durchsucht Live-Aufnahmen und übersetzt Audio für das KI-Training"
+  },
+  {
+    "title": "How memory tools can make AI models worse",
+    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+    "pubDate": "2026-06-10T16:11:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Neue Forschungsergebnisse legen nahe, dass KI-Speichersysteme die Modellleistung beeinträchtigen und kriecherische Tendenzen fördern können.",
+    "titleDE": "Wie Speichertools KI-Modelle verschlechtern können"
+  },
+  {
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "description": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+    "pubDate": "2026-06-10T15:41:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Cybersicherheitsforscher beschweren sich darüber, dass das neue Modell Fable von Anthropic zu strenge Leitplanken für jegliche Cybersicherheitsarbeit aufweist.",
+    "titleDE": "Cybersicherheitsforscher sind mit den Leitplanken in Anthropics Fable nicht zufrieden"
+  },
+  {
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "description": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+    "pubDate": "2026-06-10T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Niteshift, ein Start-up für KI-Codierungsagenten, hat von einem Who-is-Who der Angels eine Startkapitalfinanzierung in Höhe von 7 Millionen US-Dollar erhalten. Es geht darum, dass die Wettunternehmen die Macht über die Modellbauer haben und sich nicht an sie binden wollen.",
+    "titleDE": "Datadog-Veteranen gründen das KI-Codierungs-Startup Niteshift im Wettkampf gegen Big AI Lock-in"
+  },
+  {
+    "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+    "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+    "description": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+    "pubDate": "2026-06-10T14:48:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der größte Teil des Werts des Börsengangs von SpaceX ist praktisch eine Kaufoption für die ehrgeizigen Pläne des Unternehmens für Weltraum-Rechenzentren.",
+    "titleDE": "Die drei Hard-Tech-Mondschüsse, die den unglaublichen Börsengang von SpaceX vorantreiben"
+  },
+  {
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "description": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+    "pubDate": "2026-06-10T14:31:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Durch die Übernahme will WMG besser nachverfolgen, wann die Arbeit seiner Künstler in KI-generierten Inhalten oder zum Training von KI-Modellen verwendet wird.",
+    "titleDE": "Warner Music erwirbt das KI-Attributions-Startup Sureel AI"
+  },
+  {
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "description": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+    "pubDate": "2026-06-10T13:33:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Finanzierungsrunde wurde von Norwest geleitet, unter Beteiligung von S Capital VC, Cerca Partners und Oceans Ventures. Als strategischer Investor beteiligte sich auch Snowflake Ventures.",
+    "titleDE": "Jedify sammelt 24 Millionen US-Dollar, um Unternehmen dabei zu helfen, KI-Agenten mit Kontext zu ihrem Unternehmen auszustatten"
+  },
+  {
+    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+    "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+    "description": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+    "pubDate": "2026-06-10T13:07:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Decart bringt Oasis 3 auf den Markt, ein Echtzeit-Weltmodell, das fotorealistische Fahrumgebungen für autonome Fahrzeugtests generiert und jetzt über eine API für Entwickler verfügbar ist, auf denen Entwickler aufbauen können.",
+    "titleDE": "Decarts neues Weltmodell kann stundenlanges fotorealistisches Fahren simulieren – mit einigen Einschränkungen"
+  },
+  {
+    "title": "The Download: the “steroid olympics” and a safer Mythos",
+    "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las…",
+    "pubDate": "2026-06-10T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die „Steroidolympiade“ waren ein Zirkus – und ein Fenster in unsere Kultur – Amit Katwala Vor ein paar Wochen wurde in einer 50-Millionen-Dollar-Arena auf einem Casino-Parkplatz in La...",
+    "titleDE": "Der Download: die „Steroidolympiade“ und ein sichererer Mythos"
+  },
+  {
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "pubDate": "2026-06-10T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "In einem neuen Bericht von OpenAI werden Einflussoperationen im Zusammenhang mit der Volksrepublik China detailliert beschrieben, bei denen KI zum Einsatz kommt, um US-Technologiedebatten, Narrative über Rechenzentren, Zölle und falsche Behauptungen über ChatGPT ins Visier zu nehmen.",
+    "titleDE": "Mit der Volksrepublik China verbundene Einflussoperationen zielen auf KI-Debatten in den USA ab"
+  },
+  {
     "title": "The “steroid olympics” were a circus—and a window into our culture",
     "link": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
     "description": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for athletes…",
@@ -130,16 +400,6 @@
     "titleDE": "WWDC 2026: Alles angekündigt zu Siri AI, iOS 27, Apple Intelligence und mehr"
   },
   {
-    "title": "Anthropic releases its first Mythos-class model Claude Fable ",
-    "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-    "description": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. \nAccording to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex.\nFable 5 marks the first broad release from Anthropic's Mythos class of AI models, after the company said the family was so capable at cybersecurity tasks that it was too dangerous to release publicly. Anthropic said the release was \"made possible by new safeguards that block responses in specific high-risk areas,\" with …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-09T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Anthropic hat gerade Claude Fable 5 angekündigt, ein neues KI-Modell, das angeblich das leistungsstärkste Modell ist, das es jemals allgemein verfügbar gemacht hat. Nach Angaben des Unternehmens zeigt Fable 5 „außergewöhnliche Leistungen in den Bereichen Software-Engineering, Wissensarbeit und Vision“, wobei sein Vorsprung gegenüber anderen Modellen wächst, je mehr Aufgaben ...",
-    "titleDE": "Anthropic veröffentlicht sein erstes Modell der Mythos-Klasse, Claude Fable"
-  },
-  {
     "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
     "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
     "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
@@ -148,26 +408,6 @@
     "category": "news",
     "descriptionDE": "Anthropic veröffentlicht Claude Fable 5, sein erstes Modell der Mythos-Klasse, das der Öffentlichkeit zugänglich ist. Das Modell verfügt über Leitplanken, die Reaktionen in Hochrisikobereichen wie Cybersicherheit und Biologie blockieren.",
     "titleDE": "Claude Fable 5 von Anthropic ist eine Version von Mythos, auf die die Öffentlichkeit heute zugreifen kann"
-  },
-  {
-    "title": "Apple is embracing the fantasy of AI photo editing",
-    "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
-    "description": "Apple’s feature showcase at WWDC 2026 didn’t flag which if these “photographs” are real or created with its new AI fakery. | Images by Apple / compiled by The Verge\t\n\nApple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools. They give users effortless powers of manipulating images that Apple still refers to as \"photos.\" \nTwo years ago, Apple launched Clean Up - an AI-powered object removal tool in Apple's Photo app that's similar to the Magic Eraser feature in Google Photos. At the time, Apple software chief Craig Federighi said that it was important for the company …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-09T16:13:14.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apples Feature-Showcase auf der WWDC 2026 hat nicht angegeben, ob diese „Fotos“ echt sind oder mit seiner neuen KI-Fälschung erstellt wurden. | Bilder von Apple / zusammengestellt von The Verge Apple stellte früher die Frage, ob generative KI-gestützte Bearbeitungsfunktionen das Risiko wert seien, unsere Wahrnehmung der Welt zu verzerren. N...",
-    "titleDE": "Apple macht sich die Fantasie der KI-Fotobearbeitung zu eigen"
-  },
-  {
-    "title": "It’s not FAANG anymore. It’s MANGOS.",
-    "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-    "description": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-    "pubDate": "2026-06-09T16:09:14.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Da SpaceX, Anthropic und OpenAI alle große öffentliche Debüts anstreben, könnte die Technologiebranche bald eine neue Klasse von Unternehmensoberhäuptern haben – und ein passendes neues Akronym. Verabschieden Sie sich von FAANG und begrüßen Sie MANGOS.",
-    "titleDE": "Es ist nicht mehr FAANG. Es sind MANGOS."
   },
   {
     "title": "High-severity vulnerability in Linux caused by a single faulty character",
@@ -180,66 +420,6 @@
     "titleDE": "Hochgradige Sicherheitslücke in Linux, die durch ein einzelnes fehlerhaftes Zeichen verursacht wird"
   },
   {
-    "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
-    "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
-    "description": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their jobs:\nSending an email, having a conversation with a colleague, putting together a PowerPoint - sub-tasks will increasingly become digitized, automated, and we can basically generate more and more of them. That does not necessarily mean that the role goes away at all. It just means that the work can be done faster and more efficiently, which is …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-06-09T14:54:51.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Microsoft-KI-Chef Mustafa Suleyman nimmt seine Aussage zurück, dass KI die Arbeit von Angestellten, darunter Anwälte, Buchhalter und Projektmanager, automatisiert. In einer Folge von Decoder am Montag sagte Suleyman, er meinte, dass KI diesen Arbeitern helfen werde, Aufgaben zu erledigen, anstatt ihre Aufgaben zu erledigen ...",
-    "titleDE": "Der AI-Chef von Microsoft weist Kommentare zur Übernahme von Büroarbeit durch KI zurück"
-  },
-  {
-    "title": "Apple’s AI promises are finally, almost, sort of here",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
-    "description": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's possible.\" But its slew of announcements - centered on a brand-new \"Siri AI\" - had more to do with catching up. \nAfter almost entirely neglecting Siri and punting its AI promises down the road in 2025, Apple went all in on the tech this year. It pitched Siri as an all-encompassing virtual assistant that ties together all your Apple devices, with multimodal features, a dedicated app, an all-in-one AI agent, and more. Executives emphasized privacy ag …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-09T14:18:18.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apple startete seine jährliche Entwicklerkonferenz mit mutigen Versprechungen zum Thema KI. Das Unternehmen, sagte CEO Tim Cook, werde „neue Technologien und Innovationen einführen, die die Grenzen des Möglichen verschieben“. Aber die zahlreichen Ankündigungen – in deren Mittelpunkt eine brandneue „Siri-KI“ stand – hatten mehr mit dem Fangen zu tun …",
-    "titleDE": "Apples KI-Versprechen sind endlich fast da"
-  },
-  {
-    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-    "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-    "description": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
-    "pubDate": "2026-06-09T13:47:25.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sandstones Serie A kommt nur sechs Monate nach einer von Sequoia angeführten Seed-Runde.",
-    "titleDE": "Sandstone sammelt 30 Millionen US-Dollar, um KI in interne Rechtsteams einzuführen"
-  },
-  {
-    "title": "Apple’s best AI idea looks a lot like vibe coding",
-    "link": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
-    "description": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, announcing Siri features you can already find on Android phones and in the Claude and ChatGPT apps. The pitch, in so many cases, is just \"this thing you know, but on your iPhone now.\"\nBut a few minutes after I downloaded the first developer beta of iPadOS 26 (I didn't want to risk it on my Mac or my iPhone, both of which are too important to my dail …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-09T13:34:48.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die meisten aktuellen KI-Ideen von Apple stimmen in etwa mit den KI-Ideen aller anderen überein. Ein Chatbot, dem Sie Fragen stellen können; schnelle Möglichkeiten zum Erstellen oder Zusammenfassen von Text; bizarre, grenzwertig gruselige Werkzeuge zur Bilderzeugung. Das Unternehmen verbrachte den größten Teil seiner WWDC-Keynote damit, sich über den neuesten Stand der KI-Technik zu informieren, ann...",
-    "titleDE": "Apples beste KI-Idee ähnelt stark der Vibe-Codierung"
-  },
-  {
-    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-    "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-    "description": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-    "pubDate": "2026-06-09T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut Lovable hat das Unternehmen inzwischen einen Jahresumsatz von über 500 Millionen US-Dollar erzielt und seine Benutzer bauen Unternehmen auf und ersetzen interne Software.",
-    "titleDE": "Lovable gibt an, einen Jahresumsatz von 500 Millionen US-Dollar erzielt zu haben, mit 1 Million neuen Projekten pro Woche"
-  },
-  {
-    "title": "Apple’s AI pitch will live or die by its privacy promise",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
-    "description": "Apple says its cloud processing is as private as on-device, despite expanding to run on Google’s servers. | Screenshot: Apple WWDC 2026 keynote\t\n\nAs expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - the question will be how well it holds up. \nThe new Apple Intelligence features and the updated Siri AI have been designed to work across iPhone, iPad, Mac, Apple Watch, and Vision Pro. There's a dedicated Siri AI app, with a ChatGPT-esque chatbot experience, new AI-powered camera and photo editing features, and the beginnings of an agentic exper …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-09T12:55:33.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apple gibt an, dass die Cloud-Verarbeitung genauso privat ist wie auf dem Gerät, obwohl sie auf die Server von Google ausgeweitet wird. | Screenshot: Keynote zur Apple WWDC 2026 Wie erwartet ging es in der gestrigen WWDC-Keynote hauptsächlich um KI. Und wie erwartet versuchte Apple, seine verspätete Ankunft zum Verkaufsargument zu machen: Es hat nicht eilig ...",
-    "titleDE": "Apples KI-Pitch wird von seinem Datenschutzversprechen leben oder sterben"
-  },
-  {
     "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
     "link": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a…",
@@ -248,16 +428,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. David Sinclair plant, im XPrize-Wettbewerb Medikamente zur Ganzkörperverjüngung zu testen. Der ausgesprochene Langlebigkeitsforscher David Sinclair hat vorausgesagt, dass eines Tages...",
     "titleDE": "Der Download: Medikamente zur Ganzkörperverjüngung und fünf Dinge, die Sie über KI wissen sollten"
-  },
-  {
-    "title": "How an e-scooter founder raised $5 million to build space data centers",
-    "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-    "description": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-    "pubDate": "2026-06-09T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Orbital-Gründer Euwyn Poon baute bei Spin 250.000 Roller. Jetzt will er 10.000 Weltraum-Rechenzentren starten.",
-    "titleDE": "Wie ein E-Scooter-Gründer 5 Millionen US-Dollar sammelte, um Weltraum-Rechenzentren zu bauen"
   },
   {
     "title": "How engineers at Nextdoor use Codex to build without limits",
@@ -278,16 +448,6 @@
     "category": "trend",
     "descriptionDE": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um bis zu 300 % zunehmen wird, erwägen Führungsteams sorgfältig die Auswirkungen einer hybriden Mensch-KI-Belegschaft. Im Gegensatz zur bestehenden Automatisierung auf Unternehmensebene, die auf manuellen Eingaben basiert, sind KI-Agenten in der Lage, autonom zu koordinieren ...",
     "titleDE": "Lernen, in einem hybriden Mensch-KI-Unternehmen zu führen"
-  },
-  {
-    "title": "Amazon employees ask Seattle to put the brakes on new data centers",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
-    "description": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the city. Among the moratorium's fiercest supporters are current employees from the city's biggest tech giant, Amazon, who joined others to testify in support of the policy last week.\nData centers have sparked protests across the country over concerns about water consumption, local electricity prices, and noise. In Seattle and the surrounding King County, the issue is coming to a head. If the city council votes in favor of a moratorium on June 9th …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-09T10:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Am Dienstag wird der Stadtrat von Seattle darüber abstimmen, ob ein einjähriges Moratorium für neue Rechenzentren erlassen werden soll – nur zwei Monate nachdem mehrere Unternehmen den Bau von fünf großen Zentren in der Stadt vorgeschlagen hatten. Zu den schärfsten Befürwortern des Moratoriums gehören aktuelle Mitarbeiter des größten Technologiekonzerns der Stadt.",
-    "titleDE": "Amazon-Mitarbeiter fordern Seattle auf, den Bau neuer Rechenzentren zu bremsen"
   },
   {
     "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
@@ -320,26 +480,6 @@
     "titleDE": "Fünf Dinge, die Sie über KI wissen müssen"
   },
   {
-    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "description": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
-    "pubDate": "2026-06-09T01:56:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Kann Apples neuer KI-Aufschwung die Vorwürfe entkräften, das Unternehmen verliere ein überaus wichtiges Rennen in der Branche?",
-    "titleDE": "Warum Apples langsame und stetige KI-Wette ziemlich klug aussieht"
-  },
-  {
-    "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-    "description": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-    "pubDate": "2026-06-09T00:45:56.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sequoia ist nur eines der Top-Unternehmen, das dasselbe Eigenkapital zu zwei unterschiedlichen Preisen verkauft.",
-    "titleDE": "Brendan Foody von Mercor kritisiert Sequoia und wirft ihm Bewertungstricks mit „doppelten Preisen“ vor"
-  },
-  {
     "title": "Industrial policy for the Intelligence Age",
     "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
     "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
@@ -348,66 +488,6 @@
     "category": "news",
     "descriptionDE": "Entdecken Sie unsere ehrgeizigen, den Menschen in den Mittelpunkt stellenden industriepolitischen Ideen für das KI-Zeitalter – mit Schwerpunkt auf der Erweiterung von Chancen, der gemeinsamen Nutzung von Wohlstand und dem Aufbau widerstandsfähiger Institutionen im Zuge der Weiterentwicklung fortschrittlicher Intelligenz.",
     "titleDE": "Industriepolitik für das Intelligenzzeitalter"
-  },
-  {
-    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-    "description": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-    "pubDate": "2026-06-08T22:41:45.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Tools for Humanity, Sam Altmans Identitätsprüfungsunternehmen, hat Berichten zufolge Schwierigkeiten, Einnahmen zu erzielen, und wird sein Personal abbauen.",
-    "titleDE": "Während OpenAI den Börsengang anmeldet, nimmt Sam Altmans Augenscan-Unternehmen Entlassungen vor, heißt es in einem Bericht"
-  },
-  {
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-    "pubDate": "2026-06-08T22:39:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Stimmung bei Apples WWDC-Keynote 2026 fühlte sich an, als würde ein Ehepartner stolz alle angesprochenen Aufgaben auflisten. Ein subtiles Beispiel: die vielen KI-Demos von jemandem, der mit dem Telefon in der Hand steht.",
-    "titleDE": "Apples WWDC-KI-Demos sahen realistischer aus, nachdem 250 Millionen US-Dollar wegen falscher Werbung abgeklärt wurden"
-  },
-  {
-    "title": "OpenAI files confidentially for IPO, following Anthropic",
-    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-    "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-    "pubDate": "2026-06-08T21:29:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Antrag erfolgt etwas mehr als eine Woche, nachdem sein Hauptkonkurrent Anthropic ebenfalls den Börsengang beantragt hatte, was den Wettlauf zwischen den beiden KI-Unternehmen verschärfte.",
-    "titleDE": "OpenAI reicht im Anschluss an Anthropic vertraulich den Börsengang ein"
-  },
-  {
-    "title": "Apple plays catch-up at WWDC",
-    "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-    "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-    "pubDate": "2026-06-08T21:15:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Apple verbrachte einen Großteil seiner WWDC-Keynote damit, Korrekturen, Leistungsverbesserungen und seit langem gewünschte Funktionen hervorzuheben, bevor es sein verbessertes, KI-gestütztes Siri vorstellte, und signalisierte damit, dass das Unternehmen möchte, dass Benutzer KI nur als einen Teil einer umfassenderen Anstrengung zur Verbesserung seiner Software betrachten.",
-    "titleDE": "Apple spielt auf der WWDC Aufholjagd"
-  },
-  {
-    "title": "Apple bets cheaper AI will woo small developers",
-    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-    "pubDate": "2026-06-08T20:53:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Da KI-Experimente immer teurer werden, erlässt Apple Entwicklern mit weniger als 2 Millionen erstmaligen App Store-Downloads die Kosten für die Cloud-API.",
-    "titleDE": "Apple geht davon aus, dass billigere KI kleine Entwickler umwerben wird"
-  },
-  {
-    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-    "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-    "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-    "pubDate": "2026-06-08T18:48:45.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Apple fügt Safari-, Shortcuts- und Passwort-Apps neue KI-gestützte Funktionen hinzu.",
-    "titleDE": "Apple hat Ihrem iPhone gerade beigebracht, Ihre Sätze, Ihre Fotos und Ihre Arbeitsabläufe zu beenden"
   },
   {
     "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
@@ -438,16 +518,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Warum der diesjährige WM-Ball möglicherweise nicht so weit fliegt Beim FIFA-Fußballweltmeisterschaftsturnier in diesem Monat gibt es viel Neues. Es beherbergt mehr Teams als je zuvor. Es ist das erste…",
     "titleDE": "Der Download: Wie der WM-Ball fliegen wird und die „Super-App“ von OpenAI"
-  },
-  {
-    "title": "Why this year’s World Cup ball may not fly as far",
-    "link": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
-    "description": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a…",
-    "pubDate": "2026-06-08T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Vieles ist neu über das bevorstehende FIFA-Weltmeisterschaftsturnier in diesem Monat, das in den USA, Kanada und Mexiko stattfinden wird. Es beherbergt mehr Teams als je zuvor. Es ist das erste Mal, dass es in drei verschiedenen Gastländern stattfindet. Und wie bei den Vorgängerpokalen seit über einem halben Jahrhundert wird es einen Fußball mit ... geben.",
-    "titleDE": "Warum der diesjährige WM-Ball möglicherweise nicht so weit fliegt"
   },
   {
     "title": "Built to benefit everyone: our plan",
@@ -490,36 +560,6 @@
     "titleDE": "Die neuesten KI-Neuigkeiten haben wir im Mai 2026 angekündigt"
   },
   {
-    "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-    "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
-    "pubDate": "2026-06-05T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Der Meta-Hack zeigt, dass hinter KI-Sicherheit mehr steckt als nur Mythos. Am Montag tauchten Berichte auf, dass Angreifer den KI-Kundensupport-Agenten von Meta genutzt hatten, um Instagram zu stehlen ...",
-    "titleDE": "Der Download: KI-Hacking jenseits von Mythos und die Auswirkungen von Chatbots auf unser Gehirn"
-  },
-  {
-    "title": "Are AI chatbots making us lose control of our brains?",
-    "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-    "description": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
-    "pubDate": "2026-06-05T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Woche war ich bei SXSW London. Es wurde Musik, Film und viel – und ich meine, viel – über KI gesprochen. Ich hatte auch die Gelegenheit, mich mit Gloria Mark zusammenzusetzen, einer Psychologin an der University of California, Irvine, die in den letzten 30 Jahren untersucht hat, wie Menschen mit digitaler Technologie interagieren ...",
-    "titleDE": "Führen KI-Chatbots dazu, dass wir die Kontrolle über unser Gehirn verlieren?"
-  },
-  {
-    "title": "The Meta hack shows there’s more to AI security than Mythos",
-    "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "description": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
-    "pubDate": "2026-06-05T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Am 5. Juni berichtete 404 Media, dass Angreifer den KI-Kundensupport-Agenten von Meta genutzt hätten, um Instagram-Konten zu stehlen. Ihr Ansatz war einfach: Sie forderten den Agenten auf, die Konten mit den von ihnen kontrollierten E-Mail-Adressen zu verknüpfen, und der Agent kam dieser Bitte nach. Ein Angreifer brach in das ruhende Obama-Gebäude ein.",
-    "titleDE": "Der Meta-Hack zeigt, dass KI-Sicherheit mehr beinhaltet als nur Mythos"
-  },
-  {
     "title": "Dashlane explains how attackers managed to download encrypted password vaults",
     "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
     "description": "By targeting large numbers of users, attackers increased their chances of success.",
@@ -538,65 +578,5 @@
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie Endava KI-Agenten, ChatGPT Enterprise und Codex nutzt, um die Softwarebereitstellung zu beschleunigen, Arbeitsabläufe zu automatisieren und eine KI-native Kultur im gesamten Unternehmen aufzubauen.",
     "titleDE": "Wie Endava die Softwarebereitstellung rund um KI-Agenten neu gestaltet"
-  },
-  {
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "link": "https://openai.com/index/chatgpt-memory-dreaming",
-    "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-    "pubDate": "2026-06-04T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "ChatGPT führt ein neues Speichersystem ein, um sich Präferenzen besser zu merken und den Kontext in allen Gesprächen aktuell und relevant zu halten.",
-    "titleDE": "Träumen: Besseres Gedächtnis für ein hilfreicheres ChatGPT"
-  },
-  {
-    "title": "Biodefense in the Intelligence Age",
-    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "description": "An action plan for AI-powered biological resilience",
-    "pubDate": "2026-06-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Ein Aktionsplan für KI-gestützte biologische Widerstandsfähigkeit",
-    "titleDE": "Bioverteidigung im Zeitalter der Intelligenz"
-  },
-  {
-    "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-    "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-    "description": "Security advisory leaves out key details. Dashlane maintains complete silence.",
-    "pubDate": "2026-06-03T19:53:14.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Der Sicherheitshinweis lässt wichtige Details aus. Dashlane schweigt völlig.",
-    "titleDE": "Sie verstehen die Benachrichtigung über den Tresordiebstahl von Dashlane nicht? Du bist nicht allein."
-  },
-  {
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-    "pubDate": "2026-06-03T13:15:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "GPT-Rosalind treibt die biowissenschaftliche Forschung durch verbessertes biologisches Denken, Fachwissen in medizinischer Chemie, Genomanalyse und experimentelle Arbeitsablauffähigkeiten voran.",
-    "titleDE": "Einführung neuer Funktionen in GPT-Rosalind"
-  },
-  {
-    "title": "5 ways Google Search can level up your thrift and vintage shopping",
-    "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-    "description": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
-    "pubDate": "2026-06-03T13:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie Second-Hand-Ergebnisse mit KI-Tools in der Google-Suche und beim Google-Shopping.",
-    "titleDE": "5 Möglichkeiten, wie die Google-Suche Ihren Secondhand- und Vintage-Einkauf verbessern kann"
-  },
-  {
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "link": "https://openai.com/index/wasmer",
-    "description": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-    "pubDate": "2026-06-03T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Sehen Sie, wie Wasmer Codex mit GPT-5.5 verwendet hat, um eine Node.js-Laufzeit für den Edge zu erstellen, wodurch die Entwicklung um das 10- bis 20-fache beschleunigt und die Auslieferung in Wochen statt in Monaten erfolgt.",
-    "titleDE": "Wie Wasmer Codex nutzte, um eine Node.js-Laufzeitumgebung für den Edge zu erstellen"
   }
 ]
