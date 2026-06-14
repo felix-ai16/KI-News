@@ -1,5 +1,105 @@
 [
   {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "pubDate": "2026-06-14T03:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Technologieführer diskutieren darüber, ob die Anthropic-Episode ein Weckruf für Indiens KI-Ambitionen ist.",
+    "titleDE": "Während Anthropic den Zugang zu neuen Modellen sperrt, debattiert Indien über seine KI-Zukunft"
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "pubDate": "2026-06-14T00:03:49.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta beginnt mit dem Abbau seiner Manus-Übernahme im Wert von 2 Milliarden US-Dollar, nachdem Peking die Rückabwicklung des Deals angeordnet hat.",
+    "titleDE": "Berichten zufolge beabsichtigt Meta, den 2-Milliarden-Dollar-Manus-Deal nach Pekings Forderung aufzulösen"
+  },
+  {
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "description": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-13T21:39:26.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Laut dem Wall Street Journal wurde die Exportkontrollrichtlinie, die dazu führte, dass Anthropic den Zugang zu Fable 5 und Mythos 5 sperrte, teilweise durch Cybersicherheitsuntersuchungen von Amazon und Gespräche zwischen CEO Andy Jassy und dem Weißen Haus ausgelöst. Dem Bericht zufolge ist das Papier von Amazon...",
+    "titleDE": "Berichten zufolge führten Amazon-Sicherheitsuntersuchungen zum Verbot von Anthropic Fable durch das Weiße Haus"
+  },
+  {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "description": "Once again, AI proves to be an unreliable source of information about AI.",
+    "pubDate": "2026-06-13T20:42:31.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Einmal mehr erweist sich KI als unzuverlässige Informationsquelle über KI.",
+    "titleDE": "KPMG zieht Bericht über KI-Nutzung aufgrund offensichtlicher Halluzinationen zurück"
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "description": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "pubDate": "2026-06-13T19:11:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Andy Jassy, ​​CEO von Amazon, war möglicherweise der Auslöser der Sicherheitsbedenken, die dazu führten, dass Anthropic am Freitag den weltweiten Zugang zu zwei Modellen sperrte.",
+    "titleDE": "Berichten zufolge äußerte der CEO von Amazon vor dem Vorgehen der Regierung Bedenken hinsichtlich des Anthropic-Modells"
+  },
+  {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "pubDate": "2026-06-13T16:47:18.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es ist nicht klar, welche Staaten beteiligt sind, aber sie stellen Fragen zu allem, von den Werberichtlinien von OpenAI bis hin zum Umgang mit Gesundheitsdaten.",
+    "titleDE": "OpenAI wird von der Generalstaatsanwaltschaft untersucht"
+  },
+  {
+    "title": "My yard is dying, so I made an app for that",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+    "description": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was thrilling.\nThis was my second or third attempt a …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-13T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Als ich fünf Minuten nach einer längeren Aufforderung an Gemini an meinen Computer zurückkehrte, sah ich zwei Dinge: eine funktionsfähige App in einem Vorschaufenster und eine Meldung über einen Fehler. „~ Der Kanal ist unwiederbringlich kaputt und wird entsorgt!“ Hörte sich schlecht an! Aber direkt darunter war ein Button, um den Fehler zu beheben. Ziemlich seltsam, dass...",
+    "titleDE": "Mein Garten stirbt, deshalb habe ich eine App dafür erstellt"
+  },
+  {
+    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "description": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\nIn a statement, Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it claims that any evidence of potential jailbreak was provided verbally, and that the vulnerabilities discovered were minor and available via other model …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-13T12:55:49.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Am Freitagabend ordnete die Regierung Anthropic an, aus Gründen der nationalen Sicherheit den Zugang zu Fable 5 und Mythos 5 für alle ausländischen Nationen innerhalb und außerhalb der USA zu sperren. Dieser Auftrag umfasste Mitarbeiter von Anthropic. Um diesen Anforderungen gerecht zu werden, hat das Unternehmen den Zugang zu ... vollständig abgeschnitten.",
+    "titleDE": "Anthropic sperrt den Zugang zu Fable 5 und Mythos 5 auf Anordnung der Regierung"
+  },
+  {
+    "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "description": "iPhone owners are getting real, native AI photo editing for the first time.\t\n\nThe most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready.\nAs far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But for the iPhone, they represent a tipping point in what the native photos app allows you to do to your photos. I mean memories. I mean, I don't know anymore.\nThese new features are part of the iOS 27 developer beta right now, so bear in mind that Apple may continue making tweaks to them before they're released to the general public. There are three, or maybe two and a  …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-13T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "iPhone-Besitzer erhalten zum ersten Mal echte, native KI-Fotobearbeitung. Die beliebteste Kamera der Welt hat gerade ihre ersten ernsthaften KI-Fotobearbeitungsfunktionen erhalten, und ich glaube nicht, dass einer von uns bereit ist. Was die KI-Fotobearbeitung angeht, sind die neuen Funktionen in iOS 27 im Vergleich zu ... ziemlich lahm.",
+    "titleDE": "Die neuen KI-Fotobearbeitungstools von Apple funktionieren größtenteils, im Guten wie im Schlechten"
+  },
+  {
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "description": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind\t\n\nFor all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of visually inconsistent footage. And some of Hollywood's biggest AI partnerships have suddenly evaporated in ways that make it seem like studios might not be able to rely on the new technology coming out of Silicon Valley. For the most part, short-form video slop appears to be the only thing that major production houses ar …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-13T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Konzeptkunst von Dear Upstairs Neighbors, die früher benutzerdefinierte Builds der Veo- und Imagen-Modelle von Google trainierte. | Bild: Google DeepMind Bei all dem Lärm, der darüber gemacht wurde, dass die generative KI die Filmbranche revolutionieren könnte, gab es bisher noch keine wirklichen Projekte, die mit der … erstellt wurden.",
+    "titleDE": "Die Zukunft Hollywoods besteht nicht darin, Eingabeaufforderungen in KI-Modelle der Vanilla-Generation einzuspeisen"
+  },
+  {
     "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
     "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
     "description": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
@@ -136,7 +236,7 @@
     "pubDate": "2026-06-12T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Warum „Neuprogrammierung“ derzeit der angesagteste Ansatz zur Umkehrung des Alterns ist Anfang dieser Woche konzentrierte sich Life Biosciences, ein Biotech-Unternehmen, auf die Umkehrung altersbedingter ...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. Warum „Neuprogrammierung“ derzeit der angesagteste Ansatz zur Umkehrung des Alterns ist Anfang dieser Woche konzentrierte sich Life Biosciences, ein Biotech-Unternehmen, auf die Umkehrung altersbedingter ...",
     "titleDE": "Der Download: „Neuprogrammierung“ des Alterns und das verborgene Gefühl des Abfangens"
   },
   {
@@ -260,16 +360,6 @@
     "titleDE": "SPV-Investoren von SpaceX werden ihre wahren Bestände erst erfahren, wenn die Sperrfristen nach dem Börsengang aufgehoben werden"
   },
   {
-    "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-    "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-    "description": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by 2 percent from its 2024 total even as it expanded operations. \nAmazon also claims it's using water more efficiently than some Big Tech rivals - this graphic in Amazon's report points to Mic …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-11T17:26:57.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Kurz nachdem Seattle ein einjähriges Moratorium für Rechenzentren erlassen hatte, auf das einige Amazon-Mitarbeiter drängten, teilte Amazon Berichten zufolge zum ersten Mal mit, wie viel Wasser seine Rechenzentren verbrauchen. Da Bedenken hinsichtlich des Wasserverbrauchs und des Energieverbrauchs im Mittelpunkt der Debatten über den Bau neuer KI-Rechenzentren stehen, hat Amazon ...",
-    "titleDE": "Die Rechenzentren von Amazon verbrauchten im vergangenen Jahr 2,5 Milliarden Gallonen Wasser"
-  },
-  {
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
     "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
     "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
@@ -290,34 +380,14 @@
     "titleDE": "Die neue App von Pool verwandelt Ihre Screenshots in etwas Nützliches"
   },
   {
-    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-    "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-    "pubDate": "2026-06-11T14:23:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der neue Chatbot namens Ask DoorDash ermöglicht es Benutzern, die App mit ihren eigenen Worten nach dem zu durchsuchen, was sie suchen, anstatt durch Restaurants und Geschäfte scrollen zu müssen, um einen Einkaufswagen zu erstellen.",
-    "titleDE": "Mit dem neuen KI-Chatbot von DoorDash können Sie mit Eingabeaufforderungen und Fotos bestellen"
-  },
-  {
     "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
     "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the…",
     "pubDate": "2026-06-11T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein Einblick in die Datenrenaissance des Fußballs. Stellen Sie sich vor, Sie schalten den Eröffnungsstoß eines WM-Spiels ein und sehen, wie ein Spieler den Ball absichtlich ins Aus wirft. Du ...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. Ein Einblick in die Datenrenaissance des Fußballs. Stellen Sie sich vor, Sie schalten den Eröffnungsstoß eines WM-Spiels ein und sehen, wie ein Spieler den Ball absichtlich ins Aus wirft. Du ...",
     "titleDE": "Der Download: Fußballs Datenrenaissance und Chinas große Atompläne"
-  },
-  {
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "description": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries.\nFable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are too dangerous for public release. Anthropic says it has addressed some of those risks by launching Fable with safeguards that prevent it from responding to certain \"high-r …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-11T11:40:43.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Anthropic hat sich für die heimliche Drosselung seines neuen KI-Modells, Claude Fable 5, mit versteckten Leitplanken entschuldigt, die sowohl Forscher als auch Konkurrenten untergraben, die es zur Entwicklung konkurrierender Systeme nutzen. Das Unternehmen gibt an, den Kurs umzukehren und transparenter darüber zu sein, wann die Beschränkungen in Kraft treten, selbst ...",
-    "titleDE": "Anthropic entschuldigt sich für die unsichtbaren Leitplanken von Claude Fable"
   },
   {
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
@@ -356,38 +426,8 @@
     "pubDate": "2026-06-11T10:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Es ist eine Geschichte zweier Atomindustrien. In China wachsen große Reaktoren in atemberaubendem Tempo zusammen. Das Land hat seine Atomkraftflotte seit 2016 nahezu verdoppelt und erreicht eine Gesamtleistung von fast 60 Gigawatt. Bei den neuen Anlagen handelt es sich nahezu ausschließlich um Druckwasserreaktoren im Gigawatt-Maßstab. Bedeuten...",
+    "descriptionDE": "Es ist die Geschichte zweier Atomindustrien. In China wachsen große Reaktoren in atemberaubendem Tempo zusammen. Das Land hat seine Atomkraftflotte seit 2016 nahezu verdoppelt und erreicht eine Gesamtleistung von fast 60 Gigawatt. Bei den neuen Anlagen handelt es sich nahezu ausschließlich um Druckwasserreaktoren im Gigawatt-Maßstab. Bedeuten...",
     "titleDE": "Warum China auf große Atomreaktoren setzt"
-  },
-  {
-    "title": "Deezer launches an AI music detector for other streaming services",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-    "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify have opted for a voluntary tagging system. \n\"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists include synthetic music, no matter which streaming platform they use,\" Deezer CEO Alexis Lanternier said in a press release. So, since nobody is ta …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-11T08:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Deezer scannt jetzt Ihre Playlists auf anderen Streaming-Plattformen, um KI-generierte Musik zu erkennen. Deezer war der erste große Streaming-Dienst, der mit der Kennzeichnung von KI-generierter Musik begann. Es bot seine Technologie sogar anderen Plattformen an, aber es schien nicht viele Käufer zu haben. Qobuz startete seine eigene Det...",
-    "titleDE": "Deezer bringt einen KI-Musikdetektor für andere Streaming-Dienste auf den Markt"
-  },
-  {
-    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "description": "The decision comes as India emerges as the world’s largest GCC market.",
-    "pubDate": "2026-06-11T04:02:19.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Entscheidung fällt, da sich Indien zum weltweit größten GCC-Markt entwickelt.",
-    "titleDE": "Der Ausstieg von Opendoor aus Indien löst eine größere Diskussion über KI und Outsourcing aus"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei has just one direct report",
-    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-    "pubDate": "2026-06-11T03:53:06.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn Gründer und andere Unternehmensführer nicht bereits neidisch auf Dario Amodei waren, der an der Spitze eines der am schnellsten wachsenden KI-Unternehmen der Welt sitzt, werden sie jetzt ernsthaft neidisch sein.",
-    "titleDE": "Dario Amodei von Anthropic hat nur einen direkten Bericht"
   },
   {
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
@@ -426,28 +466,8 @@
     "pubDate": "2026-06-11T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Entdecken Sie, wie der Astrophysiker Chi-kwan Chan Codex verwendet, um Simulationen von Schwarzen Löchern zu erstellen und Wissenschaftlern dabei zu helfen, extreme Physik zu studieren und Einsteins allgemeine Relativitätstheorie zu testen.",
+    "descriptionDE": "Entdecken Sie, wie der Astrophysiker Chi-kwan Chan Codex verwendet, um Simulationen von Schwarzen Löchern zu erstellen und Wissenschaftlern dabei zu helfen, extreme Physik zu untersuchen und Einsteins allgemeine Relativitätstheorie zu testen.",
     "titleDE": "Wie ein Astrophysiker Codex nutzt, um Schwarze Löcher zu simulieren"
-  },
-  {
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-    "pubDate": "2026-06-10T22:31:19.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein ehemaliger xAI-Ingenieur verklagt das Unternehmen und SpaceX und behauptet, er sei entlassen worden, weil er Tage vor dem historischen Börsengang von SpaceX Bedenken hinsichtlich der KI-Sicherheit in Bezug auf Grok geäußert hatte.",
-    "titleDE": "xAI entließ einen Ingenieur, der wegen der Sicherheit von Grok Alarm schlug, heißt es in einer neuen Klage"
-  },
-  {
-    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-    "description": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
-    "pubDate": "2026-06-10T20:19:31.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Unternehmen verbrennen exorbitante Summen, um im KI-Wettrüsten Schritt zu halten. Die Schulden steigen.",
-    "titleDE": "Nach dem Verkauf der Anleihe leiht sich Amazon 17,5 Milliarden US-Dollar von Banken, während die KI-Ausgaben weiter anhalten"
   },
   {
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -460,33 +480,13 @@
     "titleDE": "Greifen Sie über Ihr Oracle-Cloud-Engagement auf OpenAI-Modelle und Codex zu"
   },
   {
-    "title": "Claude Fable won’t answer basic biology questions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-    "description": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship model, Claude Opus 4.8.\nIt isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design.\nFable is a public-facing, Mythos-class model, a family so capable at cybersecurity tasks Anthropic said it was too dangerous to release publicly. But while Anthropic has spent much of the extended Mythos rol …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-10T18:43:34.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Anthropic hat gerade Claude Fable 5 veröffentlicht, es als das leistungsstärkste KI-Modell bezeichnet, das es jemals allgemein verfügbar gemacht hat, und unter anderem seine Fähigkeiten in der Biologie gelobt. Aber das Modell beantwortet keine grundlegenden Fragen der Biologie – die Art, die man von einem Oberstufenschüler erwarten würde. Stattdessen wird die Abfrage an ... übergeben.",
-    "titleDE": "Claude Fable beantwortet keine grundlegenden Fragen zur Biologie"
-  },
-  {
-    "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-    "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-    "description": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.\nIn a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO Eric Schmidt getting an earful at the University of Arizona, or the speaker in Florida who seemed surprised when students booed at the mention of AI as \"the next industrial revolution.\" The videos speak to a broader societal sentiment around AI - the technology is deeply unpopular even as technology compani …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-10T17:45:11.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Neue Hochschulabsolventen im ganzen Land haben Studienantrittsredner ausgebuht und belästigt, die die KI in den Vordergrund rücken. Microsoft möchte, dass jeder darüber spricht. In einem Blogbeitrag mit mehr als 3.100 Wörtern ging der stellvertretende Vorsitzende und Präsident von Microsoft, Brad Smith, auf die jüngste Flut viraler Clips von Absolventen ein...",
-    "titleDE": "Microsoft versteht vollkommen, warum Studenten KI-gestopfte Abschlussredner ausbuhen"
-  },
-  {
     "title": "The Download: the “steroid olympics” and a safer Mythos",
     "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las…",
     "pubDate": "2026-06-10T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die „Steroidolympiade“ waren ein Zirkus – und ein Fenster in unsere Kultur – Amit Katwala Vor ein paar Wochen wurde in einer 50-Millionen-Dollar-Arena auf einem Casino-Parkplatz in La...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. Die „Steroidolympiade“ waren ein Zirkus – und ein Fenster in unsere Kultur – Amit Katwala Vor ein paar Wochen wurde in einer 50-Millionen-Dollar-Arena auf einem Casino-Parkplatz in La...",
     "titleDE": "Der Download: die „Steroidolympiade“ und ein sichererer Mythos"
   },
   {
