@@ -1,5 +1,55 @@
 [
   {
+    "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+    "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+    "description": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.…",
+    "pubDate": "2026-06-15T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Nach drei Jahren rekordverdächtiger Hitze wird dieses Jahr ein weiterer Hit. Klimaanlage? Nirgendwohin gehen. Die Internationale Energieagentur prognostiziert, dass sich die Zahl der Wechselstromanlagen bis 2050 verdreifachen wird. Das ist gut für die Gesundheit – eine Lancet-Studie schätzte, dass Wechselstromanlagen fast 200.000 P...",
+    "titleDE": "Diese neuen Solid-State-ACs versprechen eine coole Zukunft. Wissenschaftler sind sich nicht so sicher."
+  },
+  {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+    "pubDate": "2026-06-15T07:25:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Was dies brisant macht: In dem Moment, in dem Zehntausende Arbeiter vor die Tür gesetzt werden, wird eine kleine Kohorte von KI-Insidern in einem Ausmaß reich, das kaum vorstellbar ist.",
+    "titleDE": "Die KI-Entlassungswelle wird zum Pulverfass"
+  },
+  {
+    "title": "China may have accessed Mythos",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "description": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump adviser David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-14T18:27:55.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Laut einem neuen Bericht von Semafor war die Entscheidung des Weißen Hauses, Exportbeschränkungen für Mythos von Anthropic zu verhängen, teilweise auf Befürchtungen zurückzuführen, dass eine mit China verbundene Gruppe darauf zugegriffen habe. Wenn die chinesische Regierung tatsächlich Zugang zu Mythos 5 oder Fabel 5 hätte, wäre das ein ernstes Problem...",
+    "titleDE": "China hat möglicherweise auf Mythos zugegriffen"
+  },
+  {
+    "title": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "pubDate": "2026-06-14T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI startet das Partnernetzwerk und investiert 150 Millionen US-Dollar, um globalen Partnern dabei zu helfen, die Einführung, Bereitstellung und Transformation von KI in Unternehmen zu beschleunigen.",
+    "titleDE": "Vorstellung des OpenAI-Partnernetzwerks"
+  },
+  {
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "pubDate": "2026-06-14T16:38:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Startups versuchen, „auf der Welle des Börsengangs von SpaceX mitzureiten“.",
+    "titleDE": "Wer ist sonst noch dabei, wenn KI-Unternehmen um den Börsengang kämpfen?"
+  },
+  {
     "title": "As Anthropic suspends access to new models, India debates its AI future",
     "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
     "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
@@ -22,11 +72,11 @@
   {
     "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
     "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-    "description": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of …\nRead the full story at The Verge.",
+    "description": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that man …\nRead the full story at The Verge.",
     "pubDate": "2026-06-13T21:39:26.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Laut dem Wall Street Journal wurde die Exportkontrollrichtlinie, die dazu führte, dass Anthropic den Zugang zu Fable 5 und Mythos 5 sperrte, teilweise durch Cybersicherheitsuntersuchungen von Amazon und Gespräche zwischen CEO Andy Jassy und dem Weißen Haus ausgelöst. Dem Bericht zufolge ist das Papier von Amazon...",
+    "descriptionDE": "Laut The Wall Street Journal wurde die Exportkontrollrichtlinie, die dazu führte, dass Anthropic den Zugang zu Fable 5 und Mythos 5 sperrte, teilweise durch Cybersicherheitsforschung von Amazon und Gespräche zwischen CEO Andy Jassy und dem Weißen Haus ausgelöst. Dem Bericht zufolge ist das Papier von Am...",
     "titleDE": "Berichten zufolge führten Amazon-Sicherheitsuntersuchungen zum Verbot von Anthropic Fable durch das Weiße Haus"
   },
   {
@@ -280,16 +330,6 @@
     "titleDE": "Inside Interoception: Das verborgene Gefühl dafür, wie Sie sich in Ihrem Inneren fühlen"
   },
   {
-    "title": "Siri won’t be your AI girlfriend",
-    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-    "description": "‘Listen, that's not what I'm here for.' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.\n\"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi, who is responsible for software at Apple. \"And sycophancy, right? They kind of want to pull you in. They might encourage you to reveal things about yourself, and then use that as a basis to establish a connection.\"\n\nApple purposely took a di …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-12T07:00:31.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "„Hören Sie, dafür bin ich nicht hier.“ | Bild: Apple Unsere ersten Tests haben bereits gezeigt, dass die KI von Siri weiß, wann sie den Mund halten muss, und das ist ganz bewusst so. In einem von MacRumors entdeckten Interview mit Mostly Human sagte Craig Federighi, Apples neue Siri werde sich nicht so kriecherisch verhalten wie Chatbots von ...",
-    "titleDE": "Siri wird nicht deine KI-Freundin sein"
-  },
-  {
     "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
     "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
     "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
@@ -358,26 +398,6 @@
     "category": "news",
     "descriptionDE": "Nach dem Börsendebüt von SpaceX müssen SPV-Investoren der unteren Preisklasse mit versteckten Gebühren, langen Auszahlungsverzögerungen und dem Risiko eines regelrechten Betrugs rechnen.",
     "titleDE": "SPV-Investoren von SpaceX werden ihre wahren Bestände erst erfahren, wenn die Sperrfristen nach dem Börsengang aufgehoben werden"
-  },
-  {
-    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-    "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-    "pubDate": "2026-06-11T16:36:20.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Deezer hat ein Tool eingeführt, das Wiedergabelisten von Spotify, Apple Music und anderen Plattformen scannt, um KI-Musik zu identifizieren.",
-    "titleDE": "Das neue Tool von Deezer kann KI-Musik von Spotify, Apple Music und anderen identifizieren"
-  },
-  {
-    "title": "Pool’s new app turns your screenshots into something useful",
-    "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-    "description": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-    "pubDate": "2026-06-11T15:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neue App von Pool sortiert Screenshots automatisch in personalisierte Sammlungen, spürt die ursprünglichen Links hinter gespeicherten Inhalten auf und hilft Ihnen, Produkte, Rezepte, Reiseideen und andere Dinge wiederzuentdecken, die Sie eigentlich noch einmal besuchen wollten.",
-    "titleDE": "Die neue App von Pool verwandelt Ihre Screenshots in etwas Nützliches"
   },
   {
     "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
@@ -480,16 +500,6 @@
     "titleDE": "Greifen Sie über Ihr Oracle-Cloud-Engagement auf OpenAI-Modelle und Codex zu"
   },
   {
-    "title": "The Download: the “steroid olympics” and a safer Mythos",
-    "link": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las…",
-    "pubDate": "2026-06-10T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. Die „Steroidolympiade“ waren ein Zirkus – und ein Fenster in unsere Kultur – Amit Katwala Vor ein paar Wochen wurde in einer 50-Millionen-Dollar-Arena auf einem Casino-Parkplatz in La...",
-    "titleDE": "Der Download: die „Steroidolympiade“ und ein sichererer Mythos"
-  },
-  {
     "title": "PRC-linked influence operations are targeting AI debates in the US",
     "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
     "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
@@ -517,7 +527,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Ein separater Zero-Day, der ebenfalls von Nightmare Eclipse bekannt gegeben wurde, scheint ebenfalls gepatcht zu sein.",
-    "titleDE": "In hitziger Rivalität mit den Forschern verwickelt, behebt Microsoft die 0-Day-Fixes, die sie offengelegt haben"
+    "titleDE": "In hitziger Rivalität mit den Forschern verwickelt, behebt Microsoft die von ihnen bekannt gegebenen 0-Day-Reparaturen"
   },
   {
     "title": "High-severity vulnerability in Linux caused by a single faulty character",
@@ -578,25 +588,5 @@
     "category": "news",
     "descriptionDE": "OpenAI bestätigt eine vertrauliche S-1-Einreichung bei der SEC und hat noch keinen Zeitpunkt für weitere Maßnahmen festgelegt.",
     "titleDE": "Vertrauliche Einreichung des Entwurfs S-1 bei der SEC"
-  },
-  {
-    "title": "Built to benefit everyone: our plan",
-    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "description": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-    "pubDate": "2026-06-08T01:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Eine Vision für die Zukunft der KI, die sich auf Zugang, Sicherheit und gemeinsamen Wohlstand konzentriert, während OpenAI daran arbeitet, sicherzustellen, dass AGI allen zugute kommt.",
-    "titleDE": "Gebaut, um allen zu helfen: unser Plan"
-  },
-  {
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "link": "https://openai.com/index/economic-research-exchange",
-    "description": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-    "pubDate": "2026-06-08T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI startet den Economic Research Exchange, um die Auswirkungen von KI auf Arbeitsplätze, Produktivität und Wirtschaft zu untersuchen. Ab sofort sind Bewerbungen für ausgewählte Forschungsprojekte möglich.",
-    "titleDE": "Vorstellung des OpenAI Economic Research Exchange"
   }
 ]
