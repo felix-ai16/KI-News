@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Mittwoch, 17. Juni 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Mittwoch, 17. Juni 2026</h1>
+  <p class="subtitle">3 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno" target="_blank" rel="noopener">Der nächste humanoide Roboter sieht möglicherweise überhaupt nicht menschlich aus</a></h2><p class="news-description">Der nächste humanoide Roboter hat möglicherweise keinen Kopf. Es könnte sein, dass es keine Beine hat. Es kann sogar auf einem Untergestell mit Rädern stehen und wie ein Liegestuhl zusammengeklappt werden. Aber wie Genesis AI es ausdrückt: „Humanoide Roboter müssen nicht menschlich aussehen.“ Das erklärt das Aussehen von Eno, dem neuen Roboter des französischen Startups, das von ehemaligen Go... unterstützt wird.</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/" target="_blank" rel="noopener">Unternehmer in Nairobi plädieren für die Umstellung auf Solarenergie</a></h2><p class="news-description">Der größte Teil des kenianischen Stromnetzes wird mit erneuerbaren Energien betrieben. Doch da 25 % der Gemeinden über keine zentralisierte Stromversorgung verfügen, setzt das Land auf netzunabhängige Solarenergie, um sein Ziel zu erreichen, bis 2030 einen universellen Zugang zu Elektrizität zu gewährleisten, ohne die Emissionen in die Höhe zu treiben. Die sich ständig verbessernde Wirtschaftlichkeit der Solartechnologie hat ...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/" target="_blank" rel="noopener">Die Atmosphäre hacken: Geoengineering erhält einen Realitätscheck</a></h2><p class="news-description">Jim Franke reißt das Deckblatt einer Präsentation auf dem umklappbaren Schreibtisch in seinem Büro weg und enthüllt die Abbildung eines seltsam aussehenden Flugzeugs mit massiven Flügeln, die sich aus einem stämmigen Rumpf erstrecken. Das unbemannte Flugzeug schwebt Tausende Meter höher als Verkehrsflugzeuge – so hoch, dass man...</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
