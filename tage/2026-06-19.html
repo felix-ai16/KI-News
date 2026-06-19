@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Freitag, 19. Juni 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Freitag, 19. Juni 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/" target="_blank" rel="noopener">Die unvermeidliche Schwäche von Metriken</a></h2><p class="news-description">Es gibt viele nützliche Dinge, die eine Metrik aufdecken kann. Es gibt noch mehr, die es verdecken oder korrumpieren kann. Es hat weit über ein Jahrzehnt gedauert, bis ich mein eigenes Leben immer detaillierter verfolgt habe, um diese Dualität vollständig zu verstehen, die wahrscheinlich etwas über mich und die Natur der Messung verrät. Wie ein Lo...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/" target="_blank" rel="noopener">Versuche mit Gehirn-Computer-Schnittstellen nehmen Fahrt auf</a></h2><p class="news-description">Diese Woche habe ich über die Geschichte von Casey Harrell berichtet – einem Mann mit ALS, der laut den Forschern, die mit ihm zusammengearbeitet haben, „der erste Power-User“ eines Gehirnimplantats ist. Harrell ist gelähmt und kann ohne das Gerät nicht zusammenhängend sprechen. Mittlerweile hat er fast drei Jahre damit verbracht, eine Gehirn-Computer-Schnittstelle zu nutzen...</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/" target="_blank" rel="noopener">Die USA sagen, dass das Top-Chip-Tool von ASML möglicherweise in China steht. ASML sagt, dass dies nicht der Fall ist</a></h2><p class="news-description">Es gibt eine kommerzielle Logik, die der Idee widerspricht, dass ASML seine Exportlizenz riskieren würde, um einen chinesischen Kunden zu bewaffnen.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/" target="_blank" rel="noopener">Quelle: Elastic willigt ein, das von CRV unterstützte DeducingAI für bis zu 85 Millionen US-Dollar zu kaufen</a></h2><p class="news-description">DeduktivAI, ein Startup, das KI nutzt, um Fehler in Software zu erkennen und zu beheben, wurde erst vor drei Jahren gegründet.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>

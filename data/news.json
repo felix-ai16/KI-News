@@ -1,13 +1,283 @@
 [
   {
+    "title": "The inevitable weakness of metrics",
+    "link": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "description": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
+    "pubDate": "2026-06-19T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Es gibt viele nützliche Dinge, die eine Metrik aufdecken kann. Es gibt noch mehr, die es verdecken oder korrumpieren kann. Es hat weit über ein Jahrzehnt gedauert, bis ich mein eigenes Leben immer detaillierter verfolgt habe, um diese Dualität vollständig zu verstehen, die wahrscheinlich etwas über mich und die Natur der Messung verrät. Wie ein Lo...",
+    "titleDE": "Die unvermeidliche Schwäche von Metriken"
+  },
+  {
+    "title": "Brain-computer interface trials are taking off",
+    "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "description": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
+    "pubDate": "2026-06-19T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Woche habe ich über die Geschichte von Casey Harrell berichtet – einem Mann mit ALS, der laut den Forschern, die mit ihm zusammengearbeitet haben, „der erste Power-User“ eines Gehirnimplantats ist. Harrell ist gelähmt und kann ohne das Gerät nicht zusammenhängend sprechen. Mittlerweile hat er fast drei Jahre damit verbracht, eine Gehirn-Computer-Schnittstelle zu nutzen...",
+    "titleDE": "Versuche mit Gehirn-Computer-Schnittstellen nehmen Fahrt auf"
+  },
+  {
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+    "pubDate": "2026-06-19T07:59:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es gibt eine kommerzielle Logik, die der Idee widerspricht, dass ASML seine Exportlizenz riskieren würde, um einen chinesischen Kunden zu bewaffnen.",
+    "titleDE": "Die USA sagen, dass das Top-Chip-Tool von ASML möglicherweise in China steht. ASML sagt, dass dies nicht der Fall ist"
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "description": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "pubDate": "2026-06-19T00:51:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "DeduktivAI, ein Startup, das KI nutzt, um Fehler in Software zu erkennen und zu beheben, wurde erst vor drei Jahren gegründet.",
+    "titleDE": "Quelle: Elastic willigt ein, das von CRV unterstützte DeducingAI für bis zu 85 Millionen US-Dollar zu kaufen"
+  },
+  {
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "description": "Crypto Clipper spreads over USB and communicates over Tor.",
+    "pubDate": "2026-06-18T23:28:52.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Crypto Clipper verbreitet sich über USB und kommuniziert über Tor.",
+    "titleDE": "Microsoft entdeckt eine neue, leichtgewichtige Hintertür, die Kryptowährungen stiehlt"
+  },
+  {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+    "pubDate": "2026-06-18T21:20:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge steht das Startup Baseten kurz vor dem Abschluss einer 1,5-Milliarden-Dollar-Runde bei 13 Milliarden Dollar, während der „Inferenz-Goldrausch“ weiter voranschreitet.",
+    "titleDE": "Berichten zufolge hat das KI-Inferenz-Startup Baseten Monate nach seiner letzten Mega-Runde 1,5 Milliarden US-Dollar eingesammelt"
+  },
+  {
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+    "pubDate": "2026-06-18T20:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Snapchat-Hersteller gliedert eine weitere interne Einheit aus. Dotmo wird sich aus aktuellen Snap-Mitarbeitern zusammensetzen, die das Social-Media-Unternehmen verlassen, um sich auf die KI-Videoentwicklung zu konzentrieren.",
+    "titleDE": "Aus Kostengründen gliedert Snap das KI-Videoteam in das neue Unternehmen Dotmo aus"
+  },
+  {
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
+    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "pubDate": "2026-06-18T19:59:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI baut sich vor seinem Börsengang auf und landet in derselben Woche den Transformer-Miterfinder Noam Shazeer von Google DeepMind und den ehemaligen Trump-KI-Politiker Dean Ball.",
+    "titleDE": "OpenAI bringt im Vorfeld seines Börsengangs einige große Geschütze auf den Markt"
+  },
+  {
+    "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+    "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+    "description": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+    "pubDate": "2026-06-18T19:41:35.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Die vor 12 Monaten bekannt gewordene Sicherheitslücke betrifft mehrere Hersteller.",
+    "titleDE": "Apple behebt eine hochgradige Abhörlücke in den Beats Studio Buds"
+  },
+  {
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "description": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+    "pubDate": "2026-06-18T18:51:46.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ungefähr 47 % der Singles sehen den Einsatz von KI beim Dating negativ – aber viele Nutzer von Dating-Apps sind offen dafür, dass KI bei der Profilverbesserung und beim Gesprächseinstieg hilft.",
+    "titleDE": "Laut Match steht fast die Hälfte der US-Singles der KI beim Dating negativ gegenüber"
+  },
+  {
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "description": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "pubDate": "2026-06-18T18:22:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "AWS führt Gespräche über den Verkauf seiner Chips an andere Rechenzentren. CEO Andy Jassy sagte, dies sei eine Chance von 50 Milliarden US-Dollar für das Unternehmen.",
+    "titleDE": "Amazon hofft, Nvidia durch den Verkauf seiner KI-Chips direkter herausfordern zu können"
+  },
+  {
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "pubDate": "2026-06-18T17:49:23.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "FERC forderte die Netzbetreiber auf, den Rechenzentren eine Überholspur für Zusammenschaltungen zu geben, scheiterte jedoch daran, die Engpässe bei der Stromversorgung zu beheben.",
+    "titleDE": "KI-Rechenzentren haben gerade eine von der Regierung vorgeschriebene Überholspur für den Netzzugang erhalten"
+  },
+  {
+    "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+    "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+    "description": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+    "pubDate": "2026-06-18T17:42:18.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Ein bisher nicht gemeldeter SpaceX-Investor hat Verbindungen zu chinesischen Militärunternehmen.",
+    "titleDE": "Vor dem Börsengang von SpaceX erwarben Investoren in China heimlich Anteile"
+  },
+  {
+    "title": "The smartphone era created an attention crisis — slow tech is fixing it",
+    "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+    "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+    "pubDate": "2026-06-18T17:16:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Die Menschen wollen einfach nur die Kontrolle über ihre Zeit, ihr Leben, ihre Aufmerksamkeit zurückgewinnen … Sie sind niedergeschlagen für alles, was ihnen dabei hilft.“",
+    "titleDE": "Das Smartphone-Zeitalter hat zu einer Aufmerksamkeitskrise geführt – langsame Technologie löst das Problem"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "pubDate": "2026-06-18T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI führt neue Ausgabenkontrollen und Nutzungsanalysen für ChatGPT Enterprise ein und hilft Unternehmen dabei, Kosten zu verwalten und KI sicher zu skalieren.",
+    "titleDE": "Neue Nutzungsanalysen und aktualisierte Ausgabenkontrollen für Unternehmen"
+  },
+  {
+    "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "description": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+    "pubDate": "2026-06-18T16:55:04.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nachdem er sich anderthalb Jahre lang auf seine eigene Reise konzentriert hat – von Fitness und Ernährung bis hin zu Meditation, Nüchternheit, Beziehungen und persönlichem Wachstum – möchte Brown anderen dabei helfen, dasselbe zu tun.",
+    "titleDE": "„Queer Eye“-Lifecoach Karamo Brown bringt Kē auf den Markt, eine Wellness-App mit seinem digitalen KI-Klon"
+  },
+  {
+    "title": "Amazon employees say they’re facing termination for backing data center limits",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "description": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. \nOn June 10th - one week after the hearing, and one day after the City Council passed a milestone moratorium on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each called into an impromptu meeting with Amazon's \"Employee Relations.\" HR representatives told the employees that the company was investigating them  …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-18T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Als drei Amazon-Softwareentwickler Anfang dieses Monats bei Anhörungen des Stadtrats von Seattle zu Rechenzentren aussagten, begannen sie ihre Aussage mit der Berufung auf ein städtisches Gesetz, das Diskriminierung am Arbeitsplatz aufgrund politischer Äußerungen verbietet. Jetzt beschuldigen sie ihren Arbeitgeber, gegen dieses Gesetz verstoßen zu haben, indem sie Vergeltungsmaßnahmen gegen ... ergriffen haben.",
+    "titleDE": "Amazon-Mitarbeiter sagen, dass ihnen wegen der Unterstützung von Rechenzentrumsbeschränkungen eine Kündigung droht"
+  },
+  {
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+    "pubDate": "2026-06-18T15:20:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Startup trainiert verkörperte KI- und Weltmodelle unter Verwendung des Medal-Datensatzes von 2 Milliarden Videos pro Jahr von 10 Millionen monatlich aktiven Nutzern.",
+    "titleDE": "General Intuition führt Gespräche über die Beschaffung von 300 Millionen US-Dollar bei einer Bewertung von rund 2 Milliarden US-Dollar"
+  },
+  {
+    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight ",
+    "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+    "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+    "pubDate": "2026-06-18T15:13:21.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Guardrails positioniert sich als populistische politische Bewegung, die auf kleinen Spenden von Menschen in den Schützengräben des KI-Booms lebt.",
+    "titleDE": "Ein von Technikern unterstütztes PAC bringt ein 5-Millionen-Dollar-Messer zu der 100-Millionen-Dollar-Schießerei von Big Tech mit"
+  },
+  {
+    "title": "Who decides when AI is too dangerous?",
+    "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "description": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5. \nOn Friday, not even a week since Anthropic released Fable to the public, the US government said it was imposing export controls on the new model, as well as the underlying Mythos model that Fable is based on. Those controls restricted foreign nationals, even those working for Anthropic in the United States, from accessing these models. Anthropic then took Fable and Mythos offline for everyone, because the company said it was worried it would not be able to restrict access and reasonably comply with the order otherwise. \nAs you might imagine, this is all a giant mess. Hayden actually just published a fantastic play-by-play on The Verge about how this all went down last Friday and the scramble through the weekend from both sides to figure out what exactly happened and how it might get resolved. So I wanted her to come on and just walk me through the timeline and what it all means. \n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThe situation is ongoing. As of Tuesday when we’re recording this episode, Fable is still offline — in fact, if you boot up Claude, it tells you right above the chatbox window that “Fable 5 is currently unavailable.” Yet as you’ll hear Hayden explain, whether Fable comes back online this week or not, the ripple effects of the government’s feud with Anthropic have far-reaching consequences for the tech industry and the US’s AI regulatory regime. \nThere’s also a big irony here, and you’ll hear Hayden and me get into that, too: Anthropic has spent years arguing that AI might soon be powerful enough to be dangerous — and that the government needed to get serious about regulating AI sooner rather than later. Well… now we’re here, and Anthropic doesn’t love the way it’s playing out. \nAnd now, everyone — but maybe especially the Chinese government — is watching to see whether the United States’ AI regulatory approach takes the shape of a serious safety framework. Or whether it’s just another weapon for the White House to use against the companies and people that don’t bend the knee to the Trump admin. Like I said, it’s a real mess.\nOK: Verge senior AI reporter Hayden Field on the Claude Fable ban and the new AI regulatory landscape. Here we go.\n\n\nThis transcript has been lightly edited for length and clarity. \nHayden Field, you’re a senior AI reporter here at The Verge. Welcome back to Decoder.\nThanks. Great to be here.\nIt’s always chaos when you’re here, Hayden. That’s what I’ve come to discover.\nIt really is. My rule is still in effect, in that it’s always a Friday. Stuff always hits the fan on a Friday and this was no different.\nParticularly when it comes to the government regulating AI, there’s a real “what if it all went crazy on Friday, so we all had to think about it over the weekend.” And then I think this has been basically true throughout the Trump administration. The scramble to put it all back together on Monday is immediate.\nYep, exactly. It’s crazy. And the fact that all these talks were happening all over the weekend and then Monday, still no resolution. I’m surprised that things aren’t resolved yet, but yeah, lots of drama.\nWell, this podcast is going to come out on a Thursday. We’re recording on a Tuesday. We’ll see what happens over the next two days. But I think the big picture here of how the United States government should regulate AI and what that means for American AI companies on the world stage is open. I don’t think it’s going to be resolved with whatever happens with Fable. \nLet’s try to understand the whole story and then pull those themes out of it, because they’re just going to keep coming back around again and again and again, I think with every new model released now. So, let’s start at the start. What is Claude Mythos? What is Fable? How do they relate to each other?\nGreat question. I asked Anthropic the same thing when they came out with this like a week ago. Because AI companies are really bad at naming things and it’s always very confusing. But the situation is that Mythos is the underlying model that is powering both Mythos 5 and Fable 5. Fable is a new model. They haven’t had Fable 1, 2, 3, or 4. They just immediately started with Fable 5, very confusing. But Fable is the watered down, or safeguarded, version of Mythos 5. When they came out with Mythos Preview in April, Anthropic kept really hyping it up. They were saying this is a potential cyber-weapon. It can never be released to the public, at least until safeguards catch up. We’re only going to release it to enterprise and governments, or “cyber defenders” is what they called them — places that need to patch up all their frameworks before bad actors come in and exploit those vulnerabilities.\nNow, fast-forward to last week and Anthropic released not only Mythos 5, which is the first official Mythos — before it was Mythos Preview, so we skipped straight to 5 — then they also released on the same day Fable 5, which was the very first public version of Mythos-class models. So, same underlying framework, but now tons of safeguards built on top to hopefully stop the public from accessing this super dangerous — by Anthropic’s own admission — model that could mess up everything. \nSo, that’s what they released. And they spent a long time hyping this up and talking about how dangerous it was and then it kind of came back to haunt them later.\nFable is a Mythos with security guardrails. When it first came out, there was a wave of controversy, right? AI and security researchers found those guardrails were actually preventing them from doing research and seeing what Fable was capable of, because if they tried to push the boundary, it would downgrade them to Anthropic’s previous models.\nYeah. It became kind of like a meme. People were making fun of how strict the guardrails were when it came out.\nSo, that’s the thing that’s confusing me, where there’s a controversy because the guardrails are so strict and then something happened that made the government think Fable was so dangerous that it needed to be pulled. What happened?\nI talked to some independent red teamers about this. Before the Amazon white paper was circulating, before this allegation of a jailbreak was public, I talked to some red teamers about how safe Fable 5 was. They were all pretty impressed with how the guardrails held up. I was expecting it to be a little bit easier to jailbreak. They were saying they had tried a lot of stuff and nothing was working. That’s not my experience when I usually talk to independent red teamers. They’re like, “Yeah, I got it to break here. I got it to break there.” In this case, they were saying it held up pretty well. \nNow, according to a source familiar with the negotiations who was directly involved that I spoke with yesterday, this is kind of the timeline of last week. In the middle of last week, Anthropic was made aware of some research that Amazon researchers conducted. They had uncovered a potential jailbreak, something they were pretty worried about. \nThey sent it over to Anthropic. Anthropic was kind of going back and forth with the Amazon researchers talking about it. They were discussing whether it was really a jailbreak, or whether it was not that big of a deal essentially. Apparently, reports say that Amazon CEO Andy Jassy then got worried about it and called maybe [Treasury Secretary] Scott Bessent, or some member of the Trump administration, on Friday and talked about his concerns. \nThe Trump administration freaked out. They immediately called Anthropic. They send them a message actually and they say, “Look, you need to shut this down in 90 minutes.”\n90 minutes?\nYep, 90-minute ultimatum. And they said, “We need to figure out how to fix this jailbreak that’s come to light.” Anthropic got on the phone with the Trump administration within 15 minutes of that first call and they were asking for more details. They’re like, “Okay, let’s talk about this. Are you talking about the research we’re already aware of? Are you talking about something different? What is the jailbreak you’re talking about?” They’re trying to get more details and talk to the administration.\nI think the administration was also mad that Dario Amodei, the CEO of Anthropic, didn’t call back until an hour and 15 minutes after that first call. Anthropic called back 15 minutes in. It took Dario an hour and 15 minutes to call back. So, there was a lot going on here. But by the time they’re talking, the 90-minute deadline passes and the Trump administration says, “Okay, that’s it. Yep. We’re hitting you with export controls.”\nThat is when they told Anthropic that no foreign national can use either of these models and Anthropic has to just make sure that that is the case. No foreign national, whether they work at Anthropic or not. If you’re, say, Bank of America and you have access to Mythos 5 and you’re using it to plug vulnerabilities in your system and you’re not a US citizen, you can’t use it. Same with a random, just regular individual using Fable 5. Same with an Anthropic researcher who is not a US citizen. \nSo, Anthropic did the only thing it could really do in the situation and they said, “Okay, we got to sideline both these models. We can’t in like one minute figure out a way to make sure no non-US citizens are using the models.” So, that’s what happened.\nI mean, it was a crazy couple of hours. Anthropic comes out with a statement later that night saying they’re trying to work with the Trump administration on this. They spent all weekend virtually meeting with administration officials and then flying three employees out — who I detail in the piece we just published — to D.C. to talk to them in person. \nNotably, Dario was not there in person. He’s virtually joining all these meetings. I can confirm he was not at a wellness retreat, which is what some reports say, but they won’t tell me where he is. But he’s not at a wellness retreat. That’s all I know.\nAbsolutely not at a wellness retreat is Anthropic’s position. Okay.\n[Laughs] So, yeah, there’s a lot going on, very dramatic. All the sources I spoke with over the past couple of days were saying the whole tech industry and the cybersecurity community in particular are just talking. One source told me, “Beijing is laughing at us right now.”\nIt was interesting because some cybersecurity leaders in the space came together to write a public letter and they said, “Look, not all of us believe in regulation, but if you are going to regulate it, this is not the way,” which I think is just indicative of this whole situation.\n\n\nMaybe you believe in aggressive government regulation, maybe you don’t. There’s a way to operate the regulatory efforts that is rigorous and thoughtful and careful and predictable. Nothing about this seems like it was rigorous or thoughtful or predictable.\nI actually want to start at the beginning. Andy Jassy and Scott Bessent might be smart guys. They obviously have very senior positions in our society. They’re not experts in AI. How did we get to Andy Jassy, the CEO of Amazon, relaying concerns about AI security research to Scott Bessent, who does not really oversee AI policy in any meaningful way, and that resulted in a 90-minute ultimatum delivered to a company whose CEO is absent? I don’t think your politics should matter. \nEither this is the worst security breach in history that the CEO of Amazon is going to call the treasury secretary, or this is just a bunch of guys who want to feel important. And I can’t quite figure out which one it is.\nIt’s a combination of a couple things. One, it’s the fact that, like you mentioned, a lot of these guys are not experts in AI. Any jailbreak of this is obviously serious and worth considering, but I think that it’s the type of thing that when you don’t have direct knowledge of how these systems work, you’re going to take a really black-and-white approach. These guys weren’t experts. \nAndy Jassy hears about this from his own researchers. His own researchers, by the way, who had been going back and forth with Anthropic for a couple days on this. They weren’t calling the president about it. They’re like, “Okay, let’s discuss this and figure out what we can do here.” The researchers allegedly didn’t seem to think it was the end of the world. They’re just like, “Oh, we uncovered this, let’s discuss.” Anthropic was working on it and then Andy Jassy hears about it. He makes this call, everything hits the fan, which makes sense because if you are not an AI expert — and even if you are an AI expert, maybe you’re not an expert on cybersecurity and how exactly these systems work, of course — so you’re going to freak out.\nIt’s understandable, but what is really strange is what happened after that. Make this phone call and the administration becomes aware, okay. But what I think is really weird is the 90-minute ultimatum and not giving Anthropic additional details when they said, “Hey, let’s talk about it. Are you talking about the vulnerability we’re already aware of or are you talking about something else? And can you just tell us about it so then we can talk about it?” They said, “No, 90 minutes, do it or die.”\nAnd then making it so that no foreign national can access the system ever. That is what’s really strange. Just the way all these cards fell is what everyone in the tech industry thinks is just really strange and it’s indicative of, as you mentioned, the way that the Trump administration has been operating with tech. A lot of times it seems to be President Trump has one conversation and he’s swayed from that most recent conversation. So he’s been very anti-regulation, very pro-American AI and wanting to advance and export American AI, which is something that the commerce department is requesting.\nThe Trump admin has a [request for information] out right now. They’re all about exporting American AI and advancing and beating China, but then they do this thing that kneecaps everyone with no notice and could very well impact not just Anthropic, but also OpenAI, Google, every competitor in the space that also has what they call a semi-equivalent Mythos product.\nIt seems really disorganized and it’s very interesting that this often ends up in a scramble with all these CEOs trying to race to kowtow to the Trump administration without really being grounded a lot of times in science or evidence that really matches what’s going on. The level of freak out is not usually matching the evidence there.\nAmazon is an investor in Anthropic. They’re a major partner. Why did Andy Jassy kneecap his own investment in this way?\nWell, Amazon typically does a lot of red teaming just normally. It’s just part of their process. So it makes sense that this would have been tested and then unearthed. But what’s interesting is why Andy Jassy called the Trump administration about it. I’m not sure why.\nMaybe it was a typical call that was already happening and he just happened to mention something offhand. Maybe he was calling them and saying, “Yeah, good thing you did the executive order because X, Y, Z.” We don’t know. But what is interesting — and I’m glad you asked this — is that a lot of the sources I spoke with said that the stuff in the alleged jailbreak and in the Amazon white paper that’s been circulating, all of it could be achieved by OpenAI’s GPT-5.5 and some other models.\nThat’s the allegation, that these skills are not unique to Fable 5, the skills in question as part of the jailbreak. Mythos is obviously more powerful than Fable because it doesn’t have safeguards, but when it comes to Fable and the problems that were brought to light by Amazon, it seems like those problems are not unique to Fable and that GPT-5.5 can also achieve those. A lot of people in the industry are asking, “Why Anthropic?”\nA real element of this is that it’s always Anthropic. Anthropic has the most contentious relationship with the Trump administration. They were designated a supply chain risk by the Department of Defense, but the posture here is different from the usual Anthropic drama.\nHistorically, Anthropic has said, “We don’t want you to use our tools for X, Y, and Z.” And the Trump administration has said, “No, we get to do whatever we want with the AI tools.” That’s why Anthropic was designated supply chain risk by the Department of Defense. They said, “We have some red lines about how we want to be used in the military context.” Pete Hegseth said, “Nope, I’m going to do whatever I want. You have to allow all lawful purposes” — that’s the line — “and because you won’t, you’re a supply chain risk.” There’s now a lawsuit that’s being argued about.\nHere it’s the opposite. The Trump administration is worried that the model is too powerful and can be used for too many things, and Anthropic seems to think that that belief is overblown, that the administration is overplaying a thing that they can fix. They just need the time to do it and some rigor and conversation about how effective their fix is.\nHow do you put that together? On the one hand, the Trump administration is anti-AI regulatory efforts. On the one hand, they say, “We get to do whatever we want with the models, make them as powerful as you can.” And then here the model is too powerful and has to be pulled before any foreign national can even look at it.\nIt really just speaks to the fact that the administration is trusting these companies to tell it what it should be doing. We’ve seen that a bunch with any regulation that has happened or has become voluntary. Lots of drafts have been adjusted after the Trump administration talks to AI companies. They already don’t like Anthropic. There’s already a big trust breakdown between the two from the supply chain risk situation, from the lawsuit, from drawing red lines. \nI can’t imagine that this exact situation would have played out if this had been a competitor. OpenAI has a Mythos semi-equivalent model of its own. Again, no company is really saying theirs is as good as Mythos, but they say it’s pretty good. The freakout would have still happened, but I cannot imagine the rest of it would have played out the way it has. The Trump admin would have given them more time. They would have had more of a conversation and I don’t think they would have made this foreign nationals rule that has sent shockwaves through the whole industry and the world. \nOne of the sources I spoke with said that he already knew that backup contracts were being signed with non-US companies right now. Open weight models were being deployed on alternative hardware arrangements because now companies everywhere are saying, “Oh wow, we’ve got to make political risk part of our business plan now. We don’t really know what’s going to happen with American AI. Let’s make some backup plans here,” which is not good for the industry. It’s just interesting that the Trump administration is so afraid of China overtaking us, yet they’re willing to kneecap one of their champions, as it were, in the industry.\nBut I also think it’s interesting that the reasoning from the Trump administration that’s been coming out day by day seems to differ. Every day they seem to have a new excuse or part of the conversation that’s coming to light. First they say, “Oh, well, what if China had access?” A source I spoke with said that’s a rumor from a few weeks ago, from way before Fable 5 or Mythos 5 came out and that it was referencing a Chinese telecom company that the administration had previously approved to have access to Mythos Preview and that when the administration said, “Oh, actually, you know what? We changed our mind. Let’s take them off,” Anthropic immediately took them off and revoked that access. That’s an old rumor. \nWe’re also seeing the executive order explanation, where rumors have come to light that Anthropic wasn’t complying with the Trump administration’s executive order. Well, that executive order hasn’t gone into effect yet. He only signed it on June 2nd. It’s two weeks ago. It takes 60 days for them to figure out which models are going to be covered under it. There is a voluntary partnership with a 30-day pre-release review. It’s voluntary.\nIt’s funny because I’m not saying Anthropic’s totally in the right here at all. But it’s just interesting because in this situation, there’s so much misdirection and scrambling and just weirdness that it’s rare that you see me feeling bad for an AI company. It really is. I am not like, “Oh yeah, they’re doing great.” All AI companies have their own issues, but in this one case, I’m saying, “Wow, I really don’t know if this would have happened to OpenAI or another competitor, after all the drama Anthropic’s been going through with the Trump administration.”\nWe know the Trump admin can be petty and I think they would’ve freaked out for any company that was under this situation, but I can’t see it playing out the exact same way with a competitor.\nIs it just as simple as Dario Amodei doesn’t go to the White House? He doesn’t give Trump gifts? I mean, Sam Altman does press conferences with Donald Trump. Sundar Pichai attended the inauguration.\nZuckerberg was at the UFC fight.\n[Laughs] Notable AI winner Mark Zuckerberg was at the UFC fight trying to buy his way into success. Is it just as simple as there’s a personality clash here?\nThat’s the way it’s been perceived by some reports. That’s definitely part of it. Some reports have said Dario doesn’t know how to talk to the administration and that he doesn’t kowtow as much. He doesn’t know how to play the game. That’s part of it.\nThe other part of it is that the Trump administration isn’t quite sure how they’re going to regulate AI and President Trump is being pulled in different directions. Sometimes he feels like it needs to be more regulated. Sometimes he thinks it needs to be less. If he’s talking to an AI CEO, it seems like he’s like, “Yeah, you know what? I trust them. We’re good. Let them go ahead. We got to beat China.”\nIn other cases, he sees that the public is going through a pretty anti-AI era right now. There’s a rise in AI populism and he’s saying, “Oh, well, actually the everyman doesn’t like AI. Maybe I should regulate it.”\nIt’s something we’ve seen with the administration a bunch over the past however many years, but now it’s being represented in AI regulation. It’s just there’s not really a rhyme or reason right now. I don’t think that Anthropic’s communications with the administration help. If you don’t take their call the second they call, if you’re not flying to the White House to have dinner, it probably hurts your relationship a little bit in a presidency that seems to be pretty relationship-based a lot of the time.\nI would contrast that with the previous administration, which was almost devoid of personality. The Biden administration, notable for a lack of personality and people, was very technocratic and very rules based in a way that I think people often thought was bloodless.\nBut the Biden administration did put forward an executive order that had things like transparency reviews and research requirements for the frontier models. Trump came into office, and he wiped all that out. He said, “We’re not going to regulate these companies.” And now it seems like we’re just headed back there.\nIf you’re going to put out an ultra-powerful model, the administration wants control of it. Certainly they will use the bluntest instrument they have in the form of export controls, but we’re going to get back to a more fine-grained, more rigorous approach to how these models are deployed and used and who gets to use them. Was it a mistake to wipe out the Biden framework? Are we headed back to that framework? Where do we think this goes now?\nI could see us going back there because I interviewed a ton of people in the industry at the time, ranging across a ton of different viewpoints, and most of them believed that the Biden era executive order wasn’t quite enough. Some people thought it was a good first step and that’s why I could see us going back there because it wasn’t seen as being extremely aggressive.\nIf anything, it was seen as being a good first step in the direction, but really just one rung on the ladder. That’s why I could see the current administration going back there because it wasn’t that far. I will say AI companies will lobby against even that little step.\nThey did. They were pretty mad about it. \nThey did. They did deeply. But from the executive order we just saw, I could see it going back there, but a little more voluntary, which, again, all these things usually get watered down. It’s like they come out swinging and then they talk to some AI CEOs and they’re like, “Oh, okay, let’s roll it back a little bit.” So who knows, honestly.\nBut the reason I became an AI reporter is because I felt like there was no real regulation in the space, and this was even before ChatGPT. Journalism is a way to shine a light on what’s going on in the industry. Still, six years later, we’re not seeing a lot of regulation and any that has happened got rolled back. Maybe we’ll go back in that direction. I do see us going somewhere there, but maybe not even as much as that first rung.\nIt almost feels like the industry needs to push for a more considered regulatory approach, right? They need to say, “This is chaos. This can’t be how we operate. Every new model can’t be forced to contend with panicked phone calls on the weekend.”\nWhat kind of system would you build if you wanted a more rigorous review process here? Is it that they just submit their models to the government and the government says what’s dangerous and not? Is it more industry-based? What are the solutions being proposed?\nThat’s a good question. There haven’t been a lot of really robust solutions proposed recently because of this current administration. They’ve had a really light touch approach to regulation so no one’s really surfacing those. Now that that might be changing, we’ll see more robust frameworks proposed.\nI just hope that they’re not voluntary. AI companies already do a lot of voluntary disclosure. If you’re going to regulate, do it. There are a lot of different opinions on how light touch or heavy touch regulation should be, but I do think that voluntary frameworks are pretty watered down. You know what I mean? We already have those.\nSo what’s next? It’s important to remember how the general public feels because this is who AI is really affecting at the end of the day. There’s a rise in anti-AI populism and the fact that people are upset. There are data center protests going on everywhere. People are even, in extreme cases, attacking AI CEO’s homes, or at least attempting to. There is a lot of disquiet here and people feel like they’re getting replaced. They feel like their jobs are getting replaced. I was listening to a Seattle city council hearing recently and a lot of AI engineers were testifying saying that they got laid off because of AI and they were engineers.\nBoth AI leaders and the government often are pretty distanced from what the general public is feeling about this technology and it’s important to note. We’ll see how that impacts, if at all, regulation that comes out. I don’t have high hopes for a lot of regulation under this administration because they can be really sway-ey. They have dinner one time and then things might shift a little bit. To be fair, many politicians are that way, but we’ll see. Maybe after this executive order’s 60 days are up, we’ll see some changes that surprise me.\n\n\nOne of the weirder aspects of this is that Anthropic itself is the company that most pushes for regulation, that most sounds the alarm, is the most doomer-ish of all the companies. Jack Clark, one of the co-founders of Anthropic, recently put out research and his conclusion was that, “We believe it would be good for the world to have the option to slow or temporarily pause frontier AI development to enable societal structures and alignment research to keep up with the advance of the technology.”\nAnthropic is way on the front line of saying, “Oh, we might kill everyone. Boy, we should stop this.” But they’re also on the front line of model capability. By all accounts, Mythos is the most powerful model that exists today. Is Anthropic just getting itself in trouble? Is this just a marketing strategy for them that’s backfiring?\nIt’s a combination. The marketing speak is definitely backfiring. If you say something’s that dangerous and then a researcher unearths something that maybe wasn’t quite meant to be possible, then yeah, people are going to freak out. That’s why I can see the first thing happening to anyone. I can’t see the rest of it the way that the cards fell.\nBut it’s partly there, it came back to haunt them. It was a little bit on them in terms of the hype, but I also think that they are trying to be honest in some ways about the risk that this technology can pose. And it would be really bad if a system that can flag high level vulnerabilities in our global infrastructure that we use, like your bank system or a government website, could just be used by bad actors. If it fell into the wrong hands, yeah, that’s pretty bad.\nIt comes down to communication. It’s important to talk about the risks and not downplay them, but also if you do that and then you make a mistake or something unexpected happens, you have to deal with the consequences. There’s a lot to unpack there, for sure. I also think that a lot of companies do downplay risks of different systems. We’ve seen a bunch of AI CEOs, including Anthropic’s, talk about how jobs aren’t all going to be replaced, saying it’s going to be okay.\nI always take all this stuff with a huge grain of salt. At the end of the day, whatever AI company you’re talking about, whether it’s Anthropic or another one, they all have the incentives to turn a profit and make money at all costs — especially if they become a public company, which they are about to. People like to paint Anthropic one way and other competitors another, but they’re all pursuing the same goal. They just are doing it a little bit differently.\nIs there a version of this where we just treat AI like military technology from the jump, and the public gets a watered down version of the military technology? Because that seems to be the risk profile that the Trump administration is operating within. Like this is fundamentally offensive technology. We can deploy it against our enemies. We can use it to attack the banks. Everyone is worried about the security implications here.\nIs there a world in which we just start there and then say, “To deploy to the public, to consumers, you have to cut this way down. We’re not going to sell F22s to the public, but we can sell Ford Raptors to the public.” There’s some version of this, right? Where the technology gets cut way down for the public with the bleeding edge just fundamentally for the military.\nThat’s what we’ve seen a lot for decades and it’s starting to happen now with Mythos. Fable is the watered-down version and enterprise and governments have access to the more powerful version. There are a lot of different opinions on that. One of OpenAI’s biggest marketing pushes right now is, “Oh, Anthropic wants the most powerful AI to only be in the hands of the elites and we want to bring it to the public.”\nSo there are a bunch of different marketing pushes right now. Everyone’s just using everything to their advantage to paint their competitors badly, Anthropic included. The race is just heating up so intensely that the AI companies at the forefront are doing anything they can to win at all costs. For some, it’s because they think that they are the best and most moral winner, which can always be a big issue as we’ve seen in every sci-fi or fantasy movie. The for-the-greater-good philosophy is typically used by the villain in the story.\nThere’s a big race happening right now and I totally agree with Jack Clark that it might be good to slow things down a bit. If everyone could agree — which is a huge long shot and especially it’d be very difficult to get other countries to agree as well. But we are definitely building the technology much faster than we can think about the implications of it and we have been for a long time.\nI think it’s the first episode of Decoder where Dario Amodei was directly compared to Thanos, so that’s great.\n[Laughs] To be fair, I was thinking about a villain from Harry Potter when I said that — Grindelwald.\nOh my gosh. All right. Well, Dario, if you want to come on and address these allegations, you’re more than welcome.\nI also have to say, it’s not just Dario. All the AI CEOs are saying that, all of them. It’s crazy.\nWhere does this end? What are the next steps here? There are meetings happening this week. People are going to be hearing this on Thursday. There’s a chance Anthropic is just back on the market. There’s a chance it’s not. But after this, it seems like everybody wants a process. Where do you think this ends?\nIt’s very difficult to predict how this administration is going to act, as we saw with the supply chain risk situation. Even though a lot of government agencies were big fans of Claude, I thought that that was going to be rolled back eventually, but they just signed deals with seven other companies and said, “Okay, we’re good. Even if you guys were fans of Claude, whatever, here are seven other options for you.”\nIt’s anyone’s guess right now. I do think that the foreign nationals thing is going to be rolled back. I just can’t imagine that after all the hubbub that the administration has created about how American AI has to win, the Hegseth memo from January 9th arguing speed at all costs. I just think this administration is so focused on winning in AI that there’s no way they’re going to continue with that rule. I could see this becoming a personality game over the next few days. Anthropic compromises in some way, they try to communicate better. And then in a couple of days this gets rolled back.\nBut then I’ve seen some rumors that the Trump administration is trying to acquire a stake in Anthropic and OpenAI, an ownership stake. So there could be a lot of different “resolutions” to that here. We’ll see, but I definitely can’t foresee this as it exists right now continuing for more than a couple of days. The industry is just aghast at this situation. \nHayden, we’re going to obviously have to have you back very soon as this comes to a close. Thank you so much for being on Decoder.\nThanks so much.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-06-18T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "In der heutigen Folge von Decoder ist mein Gast Hayden Field, leitender KI-Reporter von The Verge. Wenn Hayden in die Show kommt, liegt das oft daran, dass in der Welt der KI etwas schief gelaufen ist. Letztes Wochenende war das eine ziemlich intensive Mischung aus Anthropic, der Trump-Regierung und Anthropics neuen ...",
+    "titleDE": "Wer entscheidet, wann KI zu gefährlich ist?"
+  },
+  {
+    "title": "Photoshop and Premiere now have AI assistants",
+    "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+    "description": "Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe\t\n\nAdobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used to organize your work and automate app-specific tasks.\nWhile the AI assistants are all powered by Adobe's \"conversational creative agent,\" they work independently and operate \"as a specialist\" within each Creative Cloud app, according to Adobe's announcement. That means the Premiere AI assistant is fine-tuned for tasks like …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-18T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Photoshop ist eine von mehreren Adobe Creative Cloud-Apps, die über neue Konversationsbearbeitungsfunktionen verfügen. | Bild: Adobe Adobes Plan, KI-Assistenten in seine gesamte Creative Cloud-Suite zu integrieren, ist jetzt in vollem Gange, und neue Chatbots werden jetzt in seinen größten Bearbeitungs- und Design-Apps eingeführt. Als Teil von...",
+    "titleDE": "Photoshop und Premiere verfügen jetzt über KI-Assistenten"
+  },
+  {
+    "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+    "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+    "description": "Give your characters, objects, and backgrounds a name to easily replicate them without changing the design. | Image: Adobe\t\n\nAdobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, making it easier to go from ideation to production-ready designs without switching between apps.\nThis is the latest of several design overhauls to Adobe's all-in-one Firefly AI hub since it was first launched in September 2023. In addition to the UI updates, the new Firefly AI studi …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-18T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Geben Sie Ihren Charakteren, Objekten und Hintergründen einen Namen, um sie einfach nachzubilden, ohne das Design zu ändern. | Bild: Adobe Adobe führt neben einem „neu konzipierten“ KI-Studio einige neue Funktionen für seinen Firefly-KI-Assistenten ein, mit dem Sie neue Designs über eine einzige Oberfläche bearbeiten und generieren können. ...",
+    "titleDE": "Das neu gestaltete KI-Studio von Adobe merkt sich, wie Ihre Kreationen aussehen"
+  },
+  {
+    "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+    "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has…",
+    "pubDate": "2026-06-18T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Suche nach Dunkler Materie ist weit aufgerissen. Seit Jahrzehnten sind Physiker auf der Suche nach schwach wechselwirkenden massiven Teilchen (WIMPs), einem führenden Kandidaten für ...",
+    "titleDE": "Der Download: eine neue Jagd nach dunkler Materie und Kenias Argumente für die Umstellung auf Solarenergie"
+  },
+  {
+    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+    "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+    "description": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+    "pubDate": "2026-06-18T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Vergessen Sie Aufkleber, GIFs und Emoji-Reaktionen. Pixi geht davon aus, dass die nächste Entwicklung des Messagings interaktive Augmented Reality (AR) ist.",
+    "titleDE": "Die neue iOS-App von Pixi verwandelt Textnachrichten in interaktive AR-Erlebnisse"
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "pubDate": "2026-06-18T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie GPT-5.5 Instant die Gesundheits- und Wellness-Reaktionen von ChatGPT durch stärkere Argumentation, besseren Kontext, klarere Kommunikation und ärztlich fundierte Bewertungen verbessert.",
+    "titleDE": "Verbesserung der Gesundheitsintelligenz in ChatGPT"
+  },
+  {
+    "title": "Geoengineering still faces major practical challenges",
+    "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+    "description": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. Some…",
+    "pubDate": "2026-06-18T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Solares Geoengineering wird oft als eine Art Notbremse dargestellt. Etwas in der Art von Pull im Falle eines Klimanotfalls, um lichtreflektierende Partikel zu streuen, um Sonnenlicht aus der Atmosphäre zu reflektieren und den Planeten zu kühlen. Aber es könnte weniger eine einfache Bremse als vielmehr eine komplizierte sein ...",
+    "titleDE": "Das Geoengineering steht immer noch vor großen praktischen Herausforderungen"
+  },
+  {
     "title": "The search for dark matter has been blown wide open",
     "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
     "description": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted…",
     "pubDate": "2026-06-18T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Unterhalb eines Apenninmassivs, unterhalb der Jinping-Berge von Sichuan und auf dem Grund einer Mine in South Dakota ist eine kosmische Jagd im Gange. Tief unter diesen Felsschilden isoliert, zielen riesige, mit flüssigem Xenon gefüllte Detektoren darauf ab, die ersten direkten Nachweise von Dunkler Materie zu ermöglichen, der lang gesuchten...",
+    "descriptionDE": "Unterhalb eines Apenninmassivs, unterhalb der Jinping-Berge von Sichuan und auf dem Grund einer Mine in South Dakota ist eine kosmische Jagd im Gange. Tief unter diesen Felsschilden isoliert, zielen riesige, mit flüssigem Xenon gefüllte Detektoren darauf ab, die ersten direkten Nachweise von Dunkler Materie zu ermöglichen, der lang gesuchten ...",
     "titleDE": "Die Suche nach Dunkler Materie ist weit aufgerissen"
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "pubDate": "2026-06-18T08:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Forscher nutzten ein OpenAI-Argumentationsmodell, um bei der Diagnose seltener Krankheiten zu helfen, und identifizierten 18 neue Diagnosen in bisher ungelösten Fällen.",
+    "titleDE": "Mithilfe von KI können Ärzte seltene genetische Erkrankungen bei Kindern diagnostizieren"
   },
   {
     "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
@@ -120,16 +390,6 @@
     "titleDE": "Die nächste Evolutionsstufe der sozialen Medien: benutzergesteuerte Algorithmen"
   },
   {
-    "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-    "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-    "description": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.  This tension between […]",
-    "pubDate": "2026-06-17T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Tokenmaxxing war Anfang des Jahres der heißeste Trend im Silicon Valley, wobei CEOs ihre Mitarbeiter ermutigten, den KI-Einsatz so weit wie möglich voranzutreiben. Dann wurde die Rechnung fällig. Berichten zufolge hat Uber sein jährliches KI-Budget innerhalb weniger Monate aufgebraucht, einige Unternehmen haben Claude-Lizenzen für Teile ihrer Organisation gekürzt und Me...",
-    "titleDE": "Tiffany Luck von NEA über KI-Börsengänge, persönliche Agenten und die ROI-Berechnung"
-  },
-  {
     "title": "\"Dangerous\" AI models are coming no matter what",
     "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
     "description": "AI models with advanced hacking capabilities will soon be the norm.",
@@ -140,16 +400,6 @@
     "titleDE": "„Gefährliche“ KI-Modelle kommen, egal was passiert"
   },
   {
-    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-    "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-    "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-    "pubDate": "2026-06-17T17:43:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Weltmodelle sind das nächste große Ding in der KI jenseits von LLMs und mit dieser Runde hat sich Odyssey als eines der Startups gefestigt, die man im Auge behalten sollte.",
-    "titleDE": "Der Weltmodellbauer Odyssey erhält eine Bewertung von 1,45 Milliarden US-Dollar, unterstützt von Amazon und anderen großen Namen"
-  },
-  {
     "title": "Two-thirds of Americans think AI is advancing too quickly",
     "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
     "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society.\nInterestingly, it's the younger generations who both report using AI more and who are inclined to have a more pessimistic view. 66 percent of Americans betw …\nRead the full story at The Verge.",
@@ -158,26 +408,6 @@
     "category": "news",
     "descriptionDE": "Laut der neuesten Umfrage von Pew Research geben 49 Prozent der Amerikaner an, Chatbots zumindest gelegentlich zu nutzen, aber 63 Prozent sind der Meinung, dass sich die Technologie zu schnell weiterentwickelt. Insgesamt hat die Nutzung von KI-Chatbots seit 2024 dramatisch zugenommen, als nur 33 Prozent angaben, sie zu nutzen. Insbesondere ChatGPTs...",
     "titleDE": "Zwei Drittel der Amerikaner glauben, dass KI zu schnell voranschreitet"
-  },
-  {
-    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
-    "pubDate": "2026-06-17T17:00:01.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Obwohl die Wall Street KI liebt, sind die Amerikaner jeden Tag deutlich weniger optimistisch, was die Branche angeht, wie ein neuer Bericht von Pew Research zeigt.",
-    "titleDE": "Nur 16 Prozent der Amerikaner glauben, dass KI einen positiven Einfluss auf die Gesellschaft haben wird, wie eine neue Studie zeigt"
-  },
-  {
-    "title": "Google bets on Gemini to reinvent the smart home speaker",
-    "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
-    "pubDate": "2026-06-17T16:30:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Google geht davon aus, dass generative KI dem Smart Speaker neues Leben einhauchen kann. Der neue Google Home Speaker des Unternehmens für 99,99 US-Dollar ersetzt die starren Befehle der Google Assistant-Ära durch gesprächigere Gemini-Interaktionen.",
-    "titleDE": "Google setzt auf Gemini, um den Smart-Home-Lautsprecher neu zu erfinden"
   },
   {
     "title": "Vibe-decoding the White House-Anthropic fight over Fable",
@@ -200,26 +430,6 @@
     "titleDE": "Kann jemand cool aussehen, wenn er die 2.000-Dollar-Brille von Snap trägt?"
   },
   {
-    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
-    "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
-    "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-    "pubDate": "2026-06-17T15:24:41.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Die Menschen wollen einfach nur die Kontrolle über ihre Zeit, ihr Leben, ihre Aufmerksamkeit zurückgewinnen … Sie sind niedergeschlagen für alles, was ihnen dabei hilft.“",
-    "titleDE": "Die Slowtech-Revolution ist hier, um Ihre Telefonsucht zu töten und Ihre Aufmerksamkeitsspanne zu retten"
-  },
-  {
-    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-    "description": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
-    "pubDate": "2026-06-17T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn physische KI mit den Leistungen von LLMs mithalten soll, muss ein Datenproblem gelöst werden.",
-    "titleDE": "Das Sammeln von Robotertrainingsdaten ist schmutzige und unspektakuläre Arbeit. Einige KI-Labore zahlen dafür bereits XDOF."
-  },
-  {
     "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "description": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
@@ -230,16 +440,6 @@
     "titleDE": "Neue Forschungsergebnisse zeigen, wie AMIE, unsere medizinische KI, bei der Bewältigung von Gesundheitszuständen helfen könnte."
   },
   {
-    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "description": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
-    "pubDate": "2026-06-17T14:15:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Pramaana wird sich auf hochsensible Branchen wie Recht, Arzneimittelforschung und Steuervorbereitung konzentrieren – wo Fehler kostspielig sein können und Zuverlässigkeit von größter Bedeutung ist.",
-    "titleDE": "Pramaana Labs erhält eine Seed-Runde in Höhe von 27 Millionen US-Dollar von Khosla Ventures, um eine formelle Verifizierung der KI zu ermöglichen"
-  },
-  {
     "title": "AI search grounded in Facebook posts? What could go wrong?",
     "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
     "description": "More AI search in more places.\t\n\nAI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong.\nAI Mode is a new option when you hit the search bar in the Facebook app. It's designed to tackle complex queries - much like AI Mode in Google Search. But Meta's version draws on public posts across Meta apps - including Facebook Groups and Instagram Reels - to inform its results. That could be useful, considering the neighborhood groups and local organizations a …\nRead the full story at The Verge.",
@@ -247,37 +447,7 @@
     "source": "The Verge",
     "category": "news",
     "descriptionDE": "Mehr KI-Suche an mehr Orten. KI ist heutzutage ziemlich zuverlässig darin, Dinge in Ihren Kalender einzutragen, aber sie hat es noch nicht ganz geschafft, die damit verbundene und alles entscheidende Frage zu beantworten: „Was soll ich dieses Wochenende tun?“ Der neue KI-Modus von Meta in der Suche könnte ein nützliches Werkzeug sein – falls es jemals lernt, nicht mehr zu bekommen ...",
-    "titleDE": "KI-Suche basiert auf Facebook-Posts? Was könnte schief gehen?"
-  },
-  {
-    "title": "Google’s first smart speaker in six years arrives next week",
-    "link": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
-    "description": "The Google Home Speaker comes in four colors, including porcelain. (Stroopwafel not included.) | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th.\nNothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same slightly squished round design, with touch-capacitive buttons on top and a light ring at the bottom to indicate status. And it still comes in four colors: porcelain (white), hazel (black), jade (green), and berry (red). The last two are US-only.\nGoogle Home Speaker\nGoogle's first smart home speaker in six years, built for Gemini for Home. It has 360-d …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-06-17T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Google Home Speaker ist in vier Farben erhältlich, darunter Porzellan. (Stroopwafel nicht im Lieferumfang enthalten.) | Foto von Jennifer Pattison Tuohy / The Verge Der erste neue Smart Speaker von Google seit sechs Jahren wird am 25. Juni ausgeliefert und verpasst damit nur knapp das versprochene Markteinführungsfenster im Frühjahr. Vorbestellungen für Google Home ...",
-    "titleDE": "Googles erster Smart Speaker seit sechs Jahren kommt nächste Woche auf den Markt"
-  },
-  {
-    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "description": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-    "pubDate": "2026-06-17T12:38:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der kanadische Rentenriese wird einen Anteil von 8,2 % an CtrlS erwerben, einem Technologieriesen, der mehr als 15 Rechenzentren in ganz Indien betreibt.",
-    "titleDE": "Der kanadische Rentenriese beteiligt sich am Wettlauf um die Finanzierung des KI-gestützten Rechenzentrums-Booms in Indien"
-  },
-  {
-    "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-    "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-    "description": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
-    "pubDate": "2026-06-17T12:14:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit dieser Akquisition eröffnet DeepL ein Büro in San Francisco, um sein US-Geschäft auszubauen.",
-    "titleDE": "DeepL erwirbt Mixhalo für Audio-Streaming und Übersetzung von Live-Events"
+    "titleDE": "KI-Suche basiert auf Facebook-Posts? Was könnte schiefgehen?"
   },
   {
     "title": "The Download: a reality check for geoengineering and the science of interoception",
@@ -300,16 +470,6 @@
     "titleDE": "Windows- und Linux-Benutzer: Die Frist für die Aktualisierung der Secure Boot-Schlüssel steht vor der Tür"
   },
   {
-    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "description": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-    "pubDate": "2026-06-17T11:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Pinterest hat „Ask Pinterest“ auf den Markt gebracht, eine experimentelle KI-gestützte Shopping-App, mit der Benutzer über eine Konversationsoberfläche nach Empfehlungen und Inspiration suchen können.",
-    "titleDE": "Pinterest startet eine experimentelle KI-Shopping-App namens „Ask Pinterest“"
-  },
-  {
     "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
     "link": "https://openai.com/index/ai-chemist-improves-reaction",
     "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
@@ -318,16 +478,6 @@
     "category": "news",
     "descriptionDE": "OpenAI und Molecule.one zeigen, wie ein nahezu autonomer KI-Chemiker mithilfe von GPT-5.4 eine wichtige Reaktion bei der Arzneimittelherstellung verbesserte und so die Forschung in der medizinischen Chemie voranbrachte.",
     "titleDE": "Ein nahezu autonomer KI-Chemiker verbessert eine anspruchsvolle Reaktion in der medizinischen Chemie"
-  },
-  {
-    "title": "The next humanoid robot might not look human at all",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-    "description": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" \nThat explains the look of Eno, the new robot from the French startup backed by former Google CEO Eric Schmidt. Genesis says Eno is designed \"around human capability\" rather than human appearance and is intended as a fully \"general-purpose\" robot rather than a machine built around a single task, like folding laundry. One part is still very human though: its hands, which the company says are designed to \"exactly match the form and fu …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-17T09:46:56.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der nächste humanoide Roboter hat möglicherweise keinen Kopf. Es könnte sein, dass es keine Beine hat. Es kann sogar auf einem Untergestell mit Rädern stehen und wie ein Liegestuhl zusammengeklappt werden. Aber wie Genesis AI es ausdrückt: „Humanoide Roboter müssen nicht menschlich aussehen.“ Das erklärt das Aussehen von Eno, dem neuen Roboter des französischen Startups, das von ehemaligen Go... unterstützt wird.",
-    "titleDE": "Der nächste humanoide Roboter sieht möglicherweise überhaupt nicht menschlich aus"
   },
   {
     "title": "Entrepreneurs in Nairobi make the case for going solar",
@@ -356,18 +506,8 @@
     "pubDate": "2026-06-17T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Wir stellen vor: LifeSciBench, ein von Experten verfasster und überprüfter Benchmark zur Bewertung, wie KI-Systeme reale Aufgaben und Entscheidungen in der Life-Science-Forschung bewältigen.",
+    "descriptionDE": "Wir stellen LifeSciBench vor, einen von Experten verfassten und von Experten überprüften Benchmark zur Bewertung, wie KI-Systeme reale Aufgaben und Entscheidungen in der Life-Science-Forschung bewältigen.",
     "titleDE": "Wir stellen vor: LifeSciBench"
-  },
-  {
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-    "pubDate": "2026-06-16T22:34:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Beliebtheit von Anthropic bei Geschäftsanwendern nimmt so stark zu, dass die jüngste Auseinandersetzung mit der Regierung sie sogar noch steigern könnte, wie Daten von Ramp zeigen.",
-    "titleDE": "Verkaufsdaten deuten darauf hin, dass Anthropics jüngste Fehde mit der Trump-Administration tatsächlich hilfreich sein könnte"
   },
   {
     "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
@@ -390,46 +530,6 @@
     "titleDE": "Exklusives E-Book: Wie KI zum nächsten Militärberater wird"
   },
   {
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "pubDate": "2026-06-16T20:11:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Wert von SpaceX ist seit Handelsbeginn der Aktien am Freitag um 1 Billion US-Dollar gestiegen.",
-    "titleDE": "Die Bewertung von SpaceX steigt auf 2,6 Billionen US-Dollar und überholt Amazon kurzzeitig"
-  },
-  {
-    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "description": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
-    "pubDate": "2026-06-16T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Google hat Android 17 und Wear OS 7 veröffentlicht und damit neue Multitasking-Funktionen, Kindersicherung, Sicherheitstools und Smartwatch-Upgrades eingeführt. Der Start wird auch von einem Pixel Drop begleitet, der die neuesten KI-Modelle von Google auf seine Geräte bringt.",
-    "titleDE": "Android 17 wird mit neuen Multitasking-Tools eingeführt, während Google die Gemini-Funktionen erweitert"
-  },
-  {
-    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-    "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-    "description": "AirPods Pro 3 shown with an iPhone and live translation features. | Photo by Amelia Holowaty Krales / The Verge\t\n\nNow that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta releases for this fall's iOS 27 update, the new earbuds are internally being tested with next year's update, iOS 28.\n With cameras mounted in their stems and lights to indicate when data is being uploaded to the cloud, they could give the upgraded version of Siri \"visual context\"  about your surroundings, be …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-16T17:04:05.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "AirPods Pro 3 mit iPhone und Live-Übersetzungsfunktionen gezeigt. | Foto von Amelia Holowaty Krales / The Verge Nachdem wir nun die WWDC und all die neuen KI-gestützten Funktionen, die auf Apples Plattformen kommen, hinter uns haben, hat Bloomberg-Reporter Mark Gurman weitere Details über angeblich neue Hardware, wie die Kamera …",
-    "titleDE": "Gerüchte über Apple 2027: AirPods mit Kameras für KI und das zweite faltbare iPhone"
-  },
-  {
-    "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-    "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-    "description": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.\nAlthough Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at last month's Google I/O: the forthcoming Aura glasses for Android XR. At the time, Xreal and Google were coy about the processor upgrades to the long-awaited spectacles. Turns out, it was the Reality Elite.\nSpec-wise, the new chip focuses on across-the-board performance upgrades. The GPU gets a 60 percent bump, the  …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-16T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Intelligente Brillen sind noch eine junge Kategorie, aber der Chiphersteller Qualcomm arbeitet hart daran, das Silizium aufzurüsten, um die nächste Welle von XR-Geräten anzutreiben: den Snapdragon Reality Elite. Obwohl Qualcomm den Chip heute auf der Augmented World Expo ankündigt, haben wir technisch gesehen bereits ein Gerät in die Hand genommen …",
-    "titleDE": "Der neueste Chip von Qualcomm deutet darauf hin, dass leistungsstärkere Datenbrillen auf dem Weg sein könnten"
-  },
-  {
     "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
     "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost…",
@@ -450,16 +550,6 @@
     "titleDE": "Eine kritische Sicherheitslücke in Copilot ermöglichte es Hackern, 2FA-Code von Benutzern zu stehlen"
   },
   {
-    "title": "Want to get a data center online quickly? Give it some flex.",
-    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-    "description": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different…",
-    "pubDate": "2026-06-16T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Am Ende einer angespannten und torlosen ersten Halbzeit eines Fußballspiels zwischen der englischen Herrenmannschaft und dem Rivalen Deutschland seufzten Millionen Briten gemeinsam und taten, was sie in stressigen Momenten so oft tun: Sie kochten Tee. Die Welle der anklickenden Wasserkocher löste jedoch etwas anderes aus …",
-    "titleDE": "Möchten Sie schnell ein Rechenzentrum online stellen? Geben Sie ihm etwas Flexibilität."
-  },
-  {
     "title": "Predicting model behavior before release by simulating deployment",
     "link": "https://openai.com/index/deployment-simulation",
     "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
@@ -468,16 +558,6 @@
     "category": "news",
     "descriptionDE": "OpenAI führt Deployment Simulation ein, eine Methode zur Vorhersage des Verhaltens von KI-Modellen vor der Bereitstellung unter Verwendung realer Konversationsdaten, um die Sicherheit und Bewertungsgenauigkeit zu verbessern.",
     "titleDE": "Vorhersage des Modellverhaltens vor der Veröffentlichung durch Simulation der Bereitstellung"
-  },
-  {
-    "title": "Why do South Koreans love AI so much?",
-    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,…",
-    "pubDate": "2026-06-15T18:46:08.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Als ich nach einem anstrengenden 12-stündigen Flug von San Francisco in Seoul landete, lief ich durch einen unbemannten Einwanderungskontrollpunkt, wo eine Maschine mein Gesicht scannte und ...",
-    "titleDE": "Warum lieben Südkoreaner KI so sehr?"
   },
   {
     "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
@@ -490,16 +570,6 @@
     "titleDE": "Benutzer weinen übel, nachdem AMD die Speicher-Kryptowährung von seinen Consumer-CPUs entfernt hat"
   },
   {
-    "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-    "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-    "description": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He…",
-    "pubDate": "2026-06-15T15:12:28.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Casey Harrell trägt seit fast drei Jahren einen Satz Elektroden in seinem Gehirn. Harrell, der an Amyotropher Lateralsklerose (ALS) leidet und gelähmt ist, nutzte 2023 mit Hilfe eines Forschungsteams erstmals seine Gehirn-Computer-Schnittstelle (BCI), um Sätze zu „sprechen“. Seitdem hat Harrell ...",
-    "titleDE": "Dieser Mann mit ALS ist „der erste Power-User“ eines Gehirnimplantats, das ihn sprechen lässt"
-  },
-  {
     "title": "We’re strengthening our presence in Alabama through new investments and community support.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
     "description": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -508,16 +578,6 @@
     "category": "news",
     "descriptionDE": "Google hat für 2026 und 2027 eine Investition von 1,5 Milliarden US-Dollar angekündigt, um seinen Rechenzentrumscampus in Jackson County, Alabama, zu erweitern. Seit 2019 in einem umgebauten ehemaligen…",
     "titleDE": "Wir stärken unsere Präsenz in Alabama durch neue Investitionen und Unterstützung durch die Gemeinschaft."
-  },
-  {
-    "title": "The Download: cutting AC emissions, and nature’s drug designer",
-    "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-conditioning isn’t going anywhere. That’s good for our health,…",
-    "pubDate": "2026-06-15T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Diese neuen Solid-State-ACs versprechen eine coole Zukunft. Wissenschaftler sind sich nicht so sicher. Nach drei Jahren rekordverdächtiger Hitze und einer erneuten Hitzewelle im Anmarsch...",
-    "titleDE": "Der Download: Reduzierung der AC-Emissionen und der Arzneimitteldesigner der Natur"
   },
   {
     "title": "Introducing the OpenAI Partner Network",
@@ -538,35 +598,5 @@
     "category": "news",
     "descriptionDE": "Die Sicherheitslücke in der Oracle-eigenen PeopleSoft-Software ist so kritisch wie nur möglich.",
     "titleDE": "PeopleSoft 0-Day betrifft Hunderte von Organisationen und stiehlt Gigabytes an Daten"
-  },
-  {
-    "title": "New OpenAI Academy courses for the next era of work",
-    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "pubDate": "2026-06-12T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI stellt drei Academy-Kurse vor, die Menschen dabei helfen, praktische KI-Fähigkeiten aufzubauen, wiederholbare Arbeitsabläufe zu erstellen und Agenten in der täglichen Arbeit einzusetzen.",
-    "titleDE": "Neue OpenAI Academy-Kurse für die nächste Ära der Arbeit"
-  },
-  {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "link": "https://openai.com/index/preply",
-    "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "pubDate": "2026-06-12T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Preply nutzt OpenAI, um KI-generierte Unterrichtszusammenfassungen zu starten und personalisiertes Feedback und Sprachlernübungen bereitzustellen.",
-    "titleDE": "Wie Preply KI und menschliche Tutoren kombiniert, um das Lernen zu personalisieren"
-  },
-  {
-    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-    "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-    "pubDate": "2026-06-11T20:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Wir helfen beim Aufbau der Arbeitskräfte der nächsten Generation des Staates und investieren in Energieprogramme.",
-    "titleDE": "Unsere neuen Gemeinschaftsinvestitionen in Virginia unterstützen lokale Arbeitsplätze und erhöhen die Erschwinglichkeit von Energie."
   }
 ]
