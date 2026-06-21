@@ -1,5 +1,45 @@
 [
   {
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "pubDate": "2026-06-20T20:32:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Das sind nicht deine Freunde. Das sind keine bewussten Wesen. Das sind keine empfindungsfähigen Gesprächspartner.“",
+    "titleDE": "Meredith Whittaker von Signal möchte Sie daran erinnern, dass KI-Chatbots „nicht Ihre Freunde“ sind."
+  },
+  {
+    "title": "In the Weights is your new AI-centric vanity search",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "description": "So ... what's your In the Weights score?",
+    "pubDate": "2026-06-20T19:41:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Also ... was ist Ihr In-the-Weights-Ergebnis?",
+    "titleDE": "In the Weights ist Ihre neue KI-zentrierte Vanity-Suche"
+  },
+  {
+    "title": "The Atlantic created a searchable database of the music used to train AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each.\nAccording to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability have both confirmed they have in research papers. Some of the sources, like the Free Music Archive dataset, are free to stream for personal use but re …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-20T18:46:48.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Atlantic-Reporter Alex Reisner hat kürzlich vier Musikdatensätze entdeckt, die zum Trainieren von KI-Modellen verwendet werden, und sie für die Öffentlichkeit vollständig durchsuchbar gemacht. Zwei der Sets sind mit 12 Millionen und 9 Millionen Titeln absolut riesig. Die anderen beiden sind viel kleiner, stellen aber immer noch eine beträchtliche Menge dar...",
+    "titleDE": "The Atlantic hat eine durchsuchbare Datenbank der Musik erstellt, die zum Trainieren von KI verwendet wird"
+  },
+  {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "description": "Jumper isn't the only big name leaving Google DeepMind.",
+    "pubDate": "2026-06-20T16:39:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Jumper ist nicht der einzige große Name, der Google DeepMind verlässt.",
+    "titleDE": "Nobelpreisträger John Jumper verlässt DeepMind und wechselt zum Rivalen Anthropic"
+  },
+  {
     "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
     "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
     "description": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
@@ -207,7 +247,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "FERC forderte die Netzbetreiber auf, den Rechenzentren eine Überholspur für Zusammenschaltungen zu geben, scheiterte jedoch daran, die Engpässe bei der Stromversorgung zu beheben.",
-    "titleDE": "KI-Rechenzentren haben gerade eine von der Regierung vorgeschriebene Überholspur ans Stromnetz erhalten"
+    "titleDE": "KI-Rechenzentren haben gerade eine von der Regierung vorgeschriebene Überholspur für den Netzzugang erhalten"
   },
   {
     "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
@@ -277,17 +317,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Das Startup trainiert verkörperte KI- und Weltmodelle unter Verwendung des Medal-Datensatzes von 2 Milliarden Videos pro Jahr von 10 Millionen monatlich aktiven Nutzern.",
-    "titleDE": "General Intuition führt Gespräche über die Beschaffung von 300 Millionen US-Dollar bei einer Bewertung von etwa 2 Milliarden US-Dollar"
-  },
-  {
-    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight ",
-    "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-    "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-    "pubDate": "2026-06-18T15:13:21.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Guardrails positioniert sich als populistische politische Bewegung, die auf kleinen Spenden von Menschen in den Schützengräben des KI-Booms lebt.",
-    "titleDE": "Ein von Technikern unterstütztes PAC bringt ein 5-Millionen-Dollar-Messer zu der 100-Millionen-Dollar-Schießerei von Big Tech mit"
+    "titleDE": "General Intuition führt Gespräche über die Beschaffung von 300 Millionen US-Dollar bei einer Bewertung von rund 2 Milliarden US-Dollar"
   },
   {
     "title": "Who decides when AI is too dangerous?",
@@ -330,16 +360,6 @@
     "titleDE": "Der Download: eine neue Jagd nach dunkler Materie und Kenias Argumente für die Umstellung auf Solarenergie"
   },
   {
-    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
-    "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-    "description": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
-    "pubDate": "2026-06-18T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Vergessen Sie Aufkleber, GIFs und Emoji-Reaktionen. Pixi geht davon aus, dass die nächste Entwicklung des Messagings interaktive Augmented Reality (AR) ist.",
-    "titleDE": "Die neue iOS-App von Pixi verwandelt Textnachrichten in interaktive AR-Erlebnisse"
-  },
-  {
     "title": "Improving health intelligence in ChatGPT",
     "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
     "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
@@ -366,7 +386,7 @@
     "pubDate": "2026-06-18T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Unterhalb eines Apenninmassivs, unterhalb der Jinping-Berge von Sichuan und auf dem Grund einer Mine in South Dakota ist eine kosmische Jagd im Gange. Tief unter diesen Felsschilden isoliert, zielen riesige, mit flüssigem Xenon gefüllte Detektoren darauf ab, die ersten direkten Nachweise von Dunkler Materie zu ermöglichen, der lang gesuchten...",
+    "descriptionDE": "Unterhalb eines Apenninmassivs, unterhalb der Jinping-Berge von Sichuan und auf dem Grund einer Mine in South Dakota ist eine kosmische Jagd im Gange. Tief unter diesen Felsschilden isoliert, zielen riesige, mit flüssigem Xenon gefüllte Detektoren darauf ab, die ersten direkten Nachweise von Dunkler Materie zu ermöglichen, der lang gesuchten ...",
     "titleDE": "Die Suche nach Dunkler Materie ist weit aufgerissen"
   },
   {
@@ -388,16 +408,6 @@
     "category": "news",
     "descriptionDE": "„Ein Scan eines bildgebenden Phantoms, segmentiert, um zu überprüfen, wie sauber sich Strukturen unter kontrollierten Bedingungen trennen.“ | Bild: Midjourney Medical David Holz, CEO von Midjourney Medical, hat gerade das erste Hardwareprodukt des Unternehmens vorgestellt und plant den Bau eines Spas in San Francisco, was seiner Meinung nach etwas anders ist als ...",
     "titleDE": "Die Arbeit reicht von der Erstellung von Katzenbildern bis hin zu Ganzkörper-Ultraschalluntersuchungen"
-  },
-  {
-    "title": "Roelof Botha joins SpaceX’s board of directors",
-    "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-    "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-    "pubDate": "2026-06-17T20:32:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der frühere Leiter von Sequoia Capital besetzt eine „bestehende freie Stelle“ im Vorstand von SpaceX, wenige Tage nachdem das Unternehmen im Rahmen des größten Börsengangs aller Zeiten an die Börse gegangen ist.",
-    "titleDE": "Roelof Botha tritt dem Vorstand von SpaceX bei"
   },
   {
     "title": "Massive breach spills credentials for thousands of sensitive networks",
@@ -450,16 +460,6 @@
     "titleDE": "Zwei Drittel der Amerikaner glauben, dass KI zu schnell voranschreitet"
   },
   {
-    "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-    "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-    "description": "CEO of Anthropic Dario Amodei attends a working lunch with G7 leaders, G7 outreach partners, and global tech CEOs on innovation and AI, during the G7 Summit on June 17th, 2026, in Evian-les-Bains, France. | Photo: Anna Moneymaker / Getty Images\t\n\nHello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com.\nBack when I was covering Donald Trump's first presidency, it was incredibly common to read three different versions of the same story. His administration had split into several factions, all of which had different interests, and all of which hated each other. There was the Reince Pr …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-17T16:27:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dario Amodei, CEO von Anthropic, nimmt während des G7-Gipfels am 17. Juni 2026 in Evian-les-Bains, Frankreich, an einem Arbeitsessen mit G7-Führungskräften, G7-Outreach-Partnern und globalen Technologie-CEOs zum Thema Innovation und KI teil. | Foto: Anna Moneymaker / Getty Images Hallo und willkommen bei Regulator, eine E-Mail für Verge-Subs...",
-    "titleDE": "Stimmungsaufschluss über den Streit zwischen dem Weißen Haus und den Menschen um Fable"
-  },
-  {
     "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "description": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
@@ -486,7 +486,7 @@
     "pubDate": "2026-06-17T11:15:17.000Z",
     "source": "Ars Technica",
     "category": "news",
-    "descriptionDE": "Was Sie über den Ablauf von Schlüsseln wissen müssen, die die Startsequenz Ihres Computers sichern.",
+    "descriptionDE": "Was Sie über das Ablaufen von Schlüsseln wissen müssen, die die Startsequenz Ihres Computers sichern.",
     "titleDE": "Windows- und Linux-Benutzer: Die Frist für die Aktualisierung der Secure Boot-Schlüssel steht vor der Tür"
   },
   {
@@ -506,7 +506,7 @@
     "pubDate": "2026-06-17T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Der größte Teil des kenianischen Stromnetzes wird mit erneuerbaren Energien betrieben. Doch da 25 % der Gemeinden über keine zentralisierte Stromversorgung verfügen, setzt das Land auf netzunabhängige Solarenergie, um sein Ziel zu erreichen, bis 2030 einen universellen Zugang zu Elektrizität zu ermöglichen, ohne die Emissionen in die Höhe zu treiben. Die sich ständig verbessernde Wirtschaftlichkeit der Solartechnologie hat ...",
+    "descriptionDE": "Der größte Teil des kenianischen Stromnetzes wird mit erneuerbaren Energien betrieben. Doch da 25 % der Gemeinden über keine zentralisierte Stromversorgung verfügen, setzt das Land auf netzunabhängige Solarenergie, um sein Ziel zu erreichen, bis 2030 einen universellen Zugang zu Elektrizität zu gewährleisten, ohne die Emissionen in die Höhe zu treiben. Die sich ständig verbessernde Wirtschaftlichkeit der Solartechnologie hat ...",
     "titleDE": "Unternehmer in Nairobi plädieren für die Umstellung auf Solarenergie"
   },
   {
@@ -517,7 +517,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Jim Franke reißt das Deckblatt einer Präsentation auf dem umklappbaren Schreibtisch in seinem Büro weg und enthüllt die Abbildung eines seltsam aussehenden Flugzeugs mit massiven Flügeln, die sich aus einem stämmigen Rumpf erstrecken. Das unbemannte Flugzeug schwebt Tausende Meter höher als Verkehrsflugzeuge – so hoch, dass man...",
-    "titleDE": "Die Atmosphäre hacken: Geoengineering bekommt einen Realitätscheck"
+    "titleDE": "Die Atmosphäre hacken: Geoengineering erhält einen Realitätscheck"
   },
   {
     "title": "Introducing LifeSciBench",
@@ -526,7 +526,7 @@
     "pubDate": "2026-06-17T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Wir stellen vor: LifeSciBench, ein von Experten verfasster und überprüfter Benchmark zur Bewertung, wie KI-Systeme reale Aufgaben und Entscheidungen in der Life-Science-Forschung bewältigen.",
+    "descriptionDE": "Wir stellen LifeSciBench vor, einen von Experten verfassten und von Experten überprüften Benchmark zur Bewertung, wie KI-Systeme reale Aufgaben und Entscheidungen in der Life-Science-Forschung bewältigen.",
     "titleDE": "Wir stellen vor: LifeSciBench"
   },
   {
@@ -536,7 +536,7 @@
     "pubDate": "2026-06-16T22:11:15.000Z",
     "source": "Ars Technica",
     "category": "news",
-    "descriptionDE": "Der Partner teilt Ars mit, dass HPE mehr kostenlose VM Essentials-Lizenzen verteilen sollte.",
+    "descriptionDE": "Partner teilt Ars mit, dass HPE mehr kostenlose VM Essentials-Lizenzen verteilen sollte.",
     "titleDE": "Jahr der kostenlosen HPE-Software ein „Schritt in die richtige Richtung“ im VMware-Wettbewerb"
   },
   {
