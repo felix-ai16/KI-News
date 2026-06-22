@@ -1,5 +1,55 @@
 [
   {
+    "title": "Read this before you vibe-code another app",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+    "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to. \n\"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new technology and understanding it, and I'm sure there are others making the same mistake,\" said Starr, a project manager in the tech sector.\n\n\"It was …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-06-22T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Bob Starr war von seiner Vibe-codierten Website begeistert. „Boomberg“ zeigte, wie viel US-Steuergelder an Technologieunternehmen fließen, und Starr stellte es direkt nach der Veröffentlichung online. Erst Monate nach der Inbetriebnahme der Website wurde ihm klar, dass es ein Problem gab: ein verstecktes SQL-Injection-Risiko. Es könnte...",
+    "titleDE": "Lesen Sie dies, bevor Sie eine andere App per Vibecode programmieren"
+  },
+  {
+    "title": "Inside the world’s deepest and longest subsea road tunnel",
+    "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+    "description": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+    "pubDate": "2026-06-22T08:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Es ist kalt, es ist sehr, sehr laut und – um ganz ehrlich zu sein – ich fühle mich nicht besonders entspannt. Ich befinde mich derzeit etwa 300 Meter unter der Nordsee, in einer dunklen, feuchten Höhle. Es riecht seltsam. Und ich bin mir zunehmend des Drucks bewusst, der von Millionen Tonnen Meerwasser direkt über ... ausgeht.",
+    "titleDE": "Im tiefsten und längsten Unterwasser-Straßentunnel der Welt"
+  },
+  {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "pubDate": "2026-06-21T23:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Samsung Electronics stellt ChatGPT Enterprise und Codex für Mitarbeiter weltweit bereit und markiert damit einen der größten KI-Rollouts von OpenAI für Unternehmen.",
+    "titleDE": "Samsung Electronics stellt seinen Mitarbeitern ChatGPT und Codex zur Verfügung"
+  },
+  {
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "pubDate": "2026-06-21T15:28:17.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In der neuen Folge von Equity haben wir darüber gesprochen, was die jüngsten Schritte der Regierung gegen Anthropic tatsächlich veranlasst hat und was dies für das KI-Ökosystem bedeuten könnte.",
+    "titleDE": "Wer profitiert davon, wenn die Trump-Administration hart gegen Anthropic vorgeht?"
+  },
+  {
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+    "pubDate": "2026-06-21T14:40:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Siris KI-Überarbeitung hat vielleicht auf der WWDC für Schlagzeilen gesorgt, aber einige der nützlichsten KI-Funktionen von Apple kommen an anderer Stelle in iOS 27 auf den Markt.",
+    "titleDE": "Jenseits von Siri: Hier sind die praktischen KI-Funktionen, die in iOS 27 auf Ihr iPhone kommen"
+  },
+  {
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
@@ -90,14 +140,14 @@
     "titleDE": "Der Film über Sam Altman wurde von Amazon MGM eingestellt"
   },
   {
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
     "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
     "pubDate": "2026-06-19T13:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Man kann es ein Startup mit einem einzigen Gründer und einer sehr großen Startkapitalrunde nennen, aber was als nächstes kommt, ist weniger klar.",
-    "titleDE": "Der CEO des neuen KI-Unternehmens Allbirds hat einen Plan, aber kein Team"
+    "titleDE": "Der CEO des neuen KI-Geschäfts von Allbirds hat einen Plan. Jetzt braucht sie ein „brandneues Team“"
   },
   {
     "title": "The Download: AI bottleneck debates, and BCI trials take off",
@@ -152,11 +202,11 @@
   {
     "title": "Barret Zoph is out at OpenAI again after just five months",
     "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-    "description": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. \nZoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. \nOpenAI confirmed to The Verge that Zoph will be depart …\nRead the full story at The Verge.",
+    "description": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. \nZoph returned to OpenAI in mid-January after a stint as cofounder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO.\nOpenAI confirmed to The Verge that Zoph will be departin …\nRead the full story at The Verge.",
     "pubDate": "2026-06-19T04:49:33.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Fünf Monate nach seiner Rückkehr zu OpenAI hat Barret Zoph – der Leiter des Unternehmens-KI-Vertriebs – das Unternehmen verlassen, wie The Verge erfahren hat. Zoph kehrte Mitte Januar zu OpenAI zurück, nachdem er als Mitbegründer und CTO von Thinking Machines Lab tätig war, dem konkurrierenden KI-Unternehmen, das von der ehemaligen OpenAI-CTO Mira Murati gegründet wurde ...",
+    "descriptionDE": "Fünf Monate nach seiner Rückkehr zu OpenAI hat Barret Zoph – der Leiter des Unternehmens-KI-Vertriebs – das Unternehmen verlassen, wie The Verge erfahren hat. Zoph kehrte Mitte Januar zu OpenAI zurück, nachdem er als Mitbegründer und CTO von Thinking Machines Lab tätig war, dem konkurrierenden KI-Unternehmen, das von der ehemaligen OpenAI-CTO Mira Murati gegründet wurde.",
     "titleDE": "Barret Zoph ist nach nur fünf Monaten wieder bei OpenAI unterwegs"
   },
   {
@@ -290,16 +340,6 @@
     "titleDE": "Neue Nutzungsanalysen und aktualisierte Ausgabenkontrollen für Unternehmen"
   },
   {
-    "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "description": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-    "pubDate": "2026-06-18T16:55:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nachdem er sich anderthalb Jahre lang auf seine eigene Reise konzentriert hat – von Fitness und Ernährung bis hin zu Meditation, Nüchternheit, Beziehungen und persönlichem Wachstum – möchte Brown anderen dabei helfen, dasselbe zu tun.",
-    "titleDE": "„Queer Eye“-Lifecoach Karamo Brown bringt Kē auf den Markt, eine Wellness-App mit seinem digitalen KI-Klon"
-  },
-  {
     "title": "Amazon employees say they’re facing termination for backing data center limits",
     "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
     "description": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. \nOn June 10th - one week after the hearing, and one day after the City Council passed a milestone moratorium on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each called into an impromptu meeting with Amazon's \"Employee Relations.\" HR representatives told the employees that the company was investigating them  …\nRead the full story at The Verge.",
@@ -308,16 +348,6 @@
     "category": "news",
     "descriptionDE": "Als drei Amazon-Softwareentwickler Anfang dieses Monats bei Anhörungen des Stadtrats von Seattle zu Rechenzentren aussagten, begannen sie ihre Aussage mit der Berufung auf ein städtisches Gesetz, das Diskriminierung am Arbeitsplatz aufgrund politischer Äußerungen verbietet. Jetzt beschuldigen sie ihren Arbeitgeber, gegen dieses Gesetz verstoßen zu haben, indem sie Vergeltungsmaßnahmen gegen ... ergriffen haben.",
     "titleDE": "Amazon-Mitarbeiter sagen, dass ihnen wegen der Unterstützung von Rechenzentrumsbeschränkungen eine Kündigung droht"
-  },
-  {
-    "title": "General Intuition in talks to raise $300M at around $2B valuation",
-    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-    "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-    "pubDate": "2026-06-18T15:20:37.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Startup trainiert verkörperte KI- und Weltmodelle unter Verwendung des Medal-Datensatzes von 2 Milliarden Videos pro Jahr von 10 Millionen monatlich aktiven Nutzern.",
-    "titleDE": "General Intuition führt Gespräche über die Beschaffung von 300 Millionen US-Dollar bei einer Bewertung von rund 2 Milliarden US-Dollar"
   },
   {
     "title": "Who decides when AI is too dangerous?",
@@ -386,7 +416,7 @@
     "pubDate": "2026-06-18T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Unterhalb eines Apenninmassivs, unterhalb der Jinping-Berge von Sichuan und auf dem Grund einer Mine in South Dakota ist eine kosmische Jagd im Gange. Tief unter diesen Felsschilden isoliert, zielen riesige, mit flüssigem Xenon gefüllte Detektoren darauf ab, die ersten direkten Nachweise von Dunkler Materie zu ermöglichen, der lang gesuchten ...",
+    "descriptionDE": "Unterhalb eines Apenninmassivs, unterhalb der Jinping-Berge von Sichuan und auf dem Grund einer Mine in South Dakota ist eine kosmische Jagd im Gange. Tief unter diesen Felsschilden isoliert, zielen riesige, mit flüssigem Xenon gefüllte Detektoren darauf ab, die ersten direkten Nachweise von Dunkler Materie zu ermöglichen, der lang gesuchten...",
     "titleDE": "Die Suche nach Dunkler Materie ist weit aufgerissen"
   },
   {
@@ -450,16 +480,6 @@
     "titleDE": "„Gefährliche“ KI-Modelle kommen, egal was passiert"
   },
   {
-    "title": "Two-thirds of Americans think AI is advancing too quickly",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-    "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society.\nInterestingly, it's the younger generations who both report using AI more and who are inclined to have a more pessimistic view. 66 percent of Americans betw …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-17T17:20:24.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut der neuesten Umfrage von Pew Research geben 49 Prozent der Amerikaner an, Chatbots zumindest gelegentlich zu nutzen, aber 63 Prozent sind der Meinung, dass sich die Technologie zu schnell weiterentwickelt. Insgesamt hat die Nutzung von KI-Chatbots seit 2024 dramatisch zugenommen, als nur 33 Prozent angaben, sie zu nutzen. Insbesondere ChatGPTs...",
-    "titleDE": "Zwei Drittel der Amerikaner glauben, dass KI zu schnell voranschreitet"
-  },
-  {
     "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "description": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
@@ -486,7 +506,7 @@
     "pubDate": "2026-06-17T11:15:17.000Z",
     "source": "Ars Technica",
     "category": "news",
-    "descriptionDE": "Was Sie über das Ablaufen von Schlüsseln wissen müssen, die die Startsequenz Ihres Computers sichern.",
+    "descriptionDE": "Was Sie über den Ablauf von Schlüsseln wissen müssen, die die Startsequenz Ihres Computers sichern.",
     "titleDE": "Windows- und Linux-Benutzer: Die Frist für die Aktualisierung der Secure Boot-Schlüssel steht vor der Tür"
   },
   {
@@ -510,16 +530,6 @@
     "titleDE": "Unternehmer in Nairobi plädieren für die Umstellung auf Solarenergie"
   },
   {
-    "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-    "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
-    "description": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth.…",
-    "pubDate": "2026-06-17T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Jim Franke reißt das Deckblatt einer Präsentation auf dem umklappbaren Schreibtisch in seinem Büro weg und enthüllt die Abbildung eines seltsam aussehenden Flugzeugs mit massiven Flügeln, die sich aus einem stämmigen Rumpf erstrecken. Das unbemannte Flugzeug schwebt Tausende Meter höher als Verkehrsflugzeuge – so hoch, dass man...",
-    "titleDE": "Die Atmosphäre hacken: Geoengineering erhält einen Realitätscheck"
-  },
-  {
     "title": "Introducing LifeSciBench",
     "link": "https://openai.com/index/introducing-life-sci-bench",
     "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
@@ -536,7 +546,7 @@
     "pubDate": "2026-06-16T22:11:15.000Z",
     "source": "Ars Technica",
     "category": "news",
-    "descriptionDE": "Partner teilt Ars mit, dass HPE mehr kostenlose VM Essentials-Lizenzen verteilen sollte.",
+    "descriptionDE": "Der Partner teilt Ars mit, dass HPE mehr kostenlose VM Essentials-Lizenzen verteilen sollte.",
     "titleDE": "Jahr der kostenlosen HPE-Software ein „Schritt in die richtige Richtung“ im VMware-Wettbewerb"
   },
   {
@@ -578,15 +588,5 @@
     "category": "news",
     "descriptionDE": "Google hat für 2026 und 2027 eine Investition von 1,5 Milliarden US-Dollar angekündigt, um seinen Rechenzentrumscampus in Jackson County, Alabama, zu erweitern. Seit 2019 in einem umgebauten ehemaligen…",
     "titleDE": "Wir stärken unsere Präsenz in Alabama durch neue Investitionen und Unterstützung durch die Gemeinschaft."
-  },
-  {
-    "title": "Introducing the OpenAI Partner Network",
-    "link": "https://openai.com/index/introducing-openai-partner-network",
-    "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-    "pubDate": "2026-06-14T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI startet das Partnernetzwerk und investiert 150 Millionen US-Dollar, um globalen Partnern dabei zu helfen, die Einführung, Bereitstellung und Transformation von KI in Unternehmen zu beschleunigen.",
-    "titleDE": "Vorstellung des OpenAI-Partnernetzwerks"
   }
 ]
