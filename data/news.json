@@ -1,8 +1,178 @@
 [
   {
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+    "pubDate": "2026-06-25T23:34:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge plant OpenAI, sein neuestes Modell, GPT 5.6, mit einer ausgewählten Gruppe von Partnern statt mit der breiten Öffentlichkeit zu teilen. Der Grund: Die Trump-Administration hat es so angeordnet.",
+    "titleDE": "Das Weiße Haus fordert OpenAI auf, die Veröffentlichung seines neuen Modells aus Sicherheitsgründen zu verlangsamen"
+  },
+  {
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. \nThe Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would reportedly approve access for customers on a case-by-case basis.\nIt's a more favorable deal than the Trump administration gave OpenAI rival Anthropic …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-25T21:57:06.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge hat die Trump-Administration OpenAI aus Angst vor möglichen Sicherheitsproblemen gebeten, die Veröffentlichung ihres nächsten Großmodells, GPT-5.6, zeitlich zu verschieben. Die Informationen berichteten, dass Sam Altman, CEO von OpenAI, den Mitarbeitern am Mittwoch in einer Frage-und-Antwort-Runde mitgeteilt habe, dass das Unternehmen GPT-5.6 in begrenzter Vorschau veröffentlichen werde.",
+    "titleDE": "OpenAI wird GPT-5.6 auf Anfrage der Trump-Administration verzögern"
+  },
+  {
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "pubDate": "2026-06-25T20:19:25.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Agententest-Startup Patronus AI, gegründet von ehemaligen Meta-KI-Forschern, erfährt laut seinem Investor eine nahezu unstillbare Nachfrage.",
+    "titleDE": "Patronus AI erhält 50 Millionen US-Dollar für den Aufbau „digitaler Welten“, die KI-Agenten einem Stresstest unterziehen"
+  },
+  {
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "description": "Notion is \"going all in on using agents to run your inbox.\"",
+    "pubDate": "2026-06-25T19:04:57.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Die Idee besteht darin, „alles darauf zu setzen, Agenten zu nutzen, um Ihren Posteingang zu verwalten“.",
+    "titleDE": "Denken Sie daran, die von Skiff beeinflusste E-Mail-App zu töten, da die meisten Benutzer stattdessen KI-Agenten verwenden"
+  },
+  {
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "pubDate": "2026-06-25T17:38:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Trotz der überragenden Marktführerschaft von ChatGPT entscheiden sich Verbraucher, die für KI zahlen, zunehmend für Claude von Anthropic, wie Daten zeigen.",
+    "titleDE": "Claude von Anthropic überzeugt zahlende Verbraucher, einen Markt, der ChatGPT gehört"
+  },
+  {
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "pubDate": "2026-06-25T16:55:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "General Intuition hat 320 Millionen US-Dollar gesammelt, um die KI zu skalieren, die auf Millionen von Stunden Spielzeit trainiert wurde. Wettaktionsdaten können der KI dabei helfen, etwas zu entwickeln, das der menschlichen Intuition näher kommt.",
+    "titleDE": "Die 2,3-Milliarden-Dollar-Wette von General Intuition, dass Videospiele KI-Agenten für die reale Welt trainieren können"
+  },
+  {
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "pubDate": "2026-06-25T16:48:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Un-0 ist ein Systemtool zur Bildgenerierung, das erstmals zeigt, wie die Technologie des Unternehmens herkömmliche KI-Systeme nachbilden kann.",
+    "titleDE": "Der ehemalige KI-Chef von Databricks glaubt, dass er die Stromrechnung von KI um das Tausendfache senken kann"
+  },
+  {
+    "title": "Our latest Google Finance upgrades, including a new app",
+    "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "description": "The new Google Finance is coming out of beta and launching a new Android app.",
+    "pubDate": "2026-06-25T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Das neue Google Finance verlässt die Betaphase und bringt eine neue Android-App auf den Markt.",
+    "titleDE": "Unsere neuesten Google Finance-Upgrades, einschließlich einer neuen App"
+  },
+  {
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "pubDate": "2026-06-25T14:55:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Netris stellt Software bereit, die auf Netzwerk-Switches läuft, und bietet eine Plattform, die Neocloud-Betreibern hilft, die Zeit bis zur Inbetriebnahme zu verkürzen.",
+    "titleDE": "Netris sammelt 15 Millionen US-Dollar aus der Serie A von a16z, um KI-Neoclouds schneller in Betrieb zu nehmen"
+  },
+  {
+    "title": "Repositioning retail for the AI era",
+    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and…",
+    "pubDate": "2026-06-25T14:22:59.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Künstliche Intelligenz verändert den Einzelhandel rasant, allerdings nicht in der Art und Weise, wie Verbraucher es vielleicht sofort bemerken würden. Die größte Veränderung sind vielleicht nicht auffällige virtuelle Anproben oder Chatbot-Einkaufsassistenten, sondern die Art und Weise, wie Entscheidungen hinter den Kulissen getroffen werden: wie Produkte in den Suchergebnissen auftauchen, wie erfunden...",
+    "titleDE": "Neupositionierung des Einzelhandels für das KI-Zeitalter"
+  },
+  {
+    "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+    "description": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+    "pubDate": "2026-06-25T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Noch zwei Tage, um sich Ihren Platz beim TechCrunch Founder Summit 2026 zu sichern und bis zu 190 $ zu sparen, bevor die Frühbucherpreise am 26. Juni um 23:59 Uhr ablaufen. PT. Registrieren Sie sich noch heute.",
+    "titleDE": "Noch 2 Tage, um bis zu 190 US-Dollar zu sparen: Schließen Sie sich über 1.000 Gründern und Investoren beim TechCrunch Founder Summit an"
+  },
+  {
+    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+    "description": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+    "pubDate": "2026-06-25T13:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Adobe sagte, dass es die Tools von Topaz Labs in seine Apps integrieren werde.",
+    "titleDE": "Adobe übernimmt den Hersteller von Bild- und Videoverbesserungstools Topaz Labs"
+  },
+  {
+    "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+    "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to…",
+    "pubDate": "2026-06-25T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die extreme Hitze in Europa führt zum Stillstand von Kraftwerken. Europa befindet sich mitten in einer rekordverdächtigen Hitzewelle, und das Stromnetz wird an seine Grenzen gebracht, da die Menschen...",
+    "titleDE": "Der Download: Europas Hitzewelle trifft das Stromnetz und IBMs Chip zielt auf das Mooresche Gesetz"
+  },
+  {
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "description": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+    "pubDate": "2026-06-25T12:00:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die jüngste Investition von Amazon in Indien erfolgt zu einem Zeitpunkt, an dem globale Technologieunternehmen darum kämpfen, die KI-Infrastruktur im Land auszubauen.",
+    "titleDE": "Amazon erhöht seine Indien-Wette mit neuen 13-Milliarden-Dollar-Investitionen in die KI-Infrastruktur"
+  },
+  {
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "description": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, requiring Ford to hire experienced technicians - sometimes bringing back former employees - to correct errors made by the company's robots. \nIn Ford's view, AI is both powerful and prone to pitfalls. Its effectiveness depends entirely on the quality of the data used to train the AI models. In addition, the auto …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-25T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Um seinen neuen Status als Nr. 1 im ersten Qualitätsranking von JD Power unter den Mainstream-Automobilherstellern zu feiern, spricht Ford über die Herausforderungen, mit denen das Unternehmen in den letzten Jahren konfrontiert war, insbesondere im Zusammenhang mit seiner Abhängigkeit von automatisierten Systemen in Produktion und Design. Es stellte sich heraus, dass diese automatisierten Systeme nicht...",
+    "titleDE": "Ford musste ehemalige Ingenieure zurückholen, um Fehler seiner automatisierten Systeme zu beheben"
+  },
+  {
+    "title": "What Europe’s heat wave means for the power grid",
+    "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+    "description": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.  As the summer ramps up…",
+    "pubDate": "2026-06-25T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Es war schwer, diese Woche den Schlagzeilen über die europäische Hitzewelle zu entgehen. Die Temperaturen brechen auf dem gesamten Kontinent Rekorde, und das Wetter bedroht Leben, schließt Schulen und erzwingt in einem besonders ironischen Fall die Absage einer Veranstaltung der London Climate Action Week ...",
+    "titleDE": "Was die Hitzewelle in Europa für das Stromnetz bedeutet"
+  },
+  {
+    "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+    "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+    "description": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half…",
+    "pubDate": "2026-06-25T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "IBM hat einen neuen Prototyp-Chip mit rund 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels gebaut, was der doppelten Dichte der bisherigen hochmodernen Technologie des Unternehmens entspricht, die das Unternehmen im Jahr 2021 angekündigt hat.",
+    "titleDE": "IBM hat eine Chip-Technologie vorgestellt, die dazu beitragen könnte, das Mooresche Gesetz um ein weiteres Jahrzehnt zu verlängern"
+  },
+  {
     "title": "Facebook’s Creator Studio has been revived as an AI companion app",
     "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-    "description": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences, and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.\nMeta's AI Creator Assistant is a central focus of the newly reimagined app - users can ask the chatbot to provide performance tracking insights and tailored recommendations for improving engagement. It can also be used to find \"the most important comments\" left by the user's audience, and \"instantly draft replies in your voice.\"\nThe Creator Studio app isn't widely a …\nRead the full story at The Verge.",
+    "description": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.\nMeta's AI Creator Assistant is a central focus of the newly reimagined app - users can ask the chatbot to provide performance tracking insights and tailored recommendations for improving engagement. It can also be used to find \"the most important comments\" left by the user's audience and \"instantly draft replies in your voice.\"\nThe Creator Studio app isn't widely ava …\nRead the full story at The Verge.",
     "pubDate": "2026-06-25T09:06:19.000Z",
     "source": "The Verge",
     "category": "news",
@@ -190,16 +360,6 @@
     "titleDE": "OpenAI stellt seinen ersten KI-Prozessor vor: Jalapeño"
   },
   {
-    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-    "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "description": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "pubDate": "2026-06-24T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sie haben nur noch 3 Tage Zeit, um bis zu 190 $ auf Ihren Pass für den TechCrunch Founder Summit 2026 zu sparen, bevor die Frühbucherpreise am 26. Juni um 23:59 Uhr enden. PT. Registrieren Sie sich noch heute.",
-    "titleDE": "Noch 3 Tage, um bis zu 190 $ auf Ihren TechCrunch Founder Summit 2026-Pass zu sparen"
-  },
-  {
     "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
     "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
     "description": "The Speaker comes in four colors… but red is the way. | Photo: David Pierce / The Verge\t\n\nRight out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't missed a single wake word - except for the time I stage-whispered to it from the other room while trying to avoid waking up the baby, but I'm not sure that's a fair test. I set up the speaker in the bathroom and chatted with it from the shower; Siri hardly ever hears me over the running water, but Google did pretty well.\nThese are the sort …\nRead the full story at The Verge.",
@@ -246,7 +406,7 @@
     "pubDate": "2026-06-24T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Bereits im August wird sich eine riesige Silberkugel ihren Weg durch die trockene Luft im Südwesten der USA bahnen und den Pazifik überqueren, um die Küste Japans zu erreichen. Dort wird das etwa 200 Fuß lange Schiff, gebaut von der in New Mexico ansässigen Firma Sceye, etwa 18 Kilometer über der Meeresoberfläche parken, in ...",
+    "descriptionDE": "Bereits im August wird sich eine riesige Silberkugel ihren Weg durch die trockene Luft im Südwesten der USA bahnen und den Pazifik überqueren, um die Küste Japans zu erreichen. Dort wird das etwa 200 Fuß lange Schiff, gebaut von der in New Mexico ansässigen Firma Sceye, etwa 18 Kilometer über der Meeresoberfläche parken, in...",
     "titleDE": "Diese fliegende, solarbetriebene Plattform könnte besseres Internet aus der Luft liefern"
   },
   {
@@ -268,16 +428,6 @@
     "category": "news",
     "descriptionDE": "OpenAI und Broadcom stellen Jalapeño vor, einen maßgeschneiderten KI-Chip, der für LLM-Inferenz entwickelt wurde, um Leistung, Effizienz und Skalierbarkeit in allen KI-Systemen zu verbessern.",
     "titleDE": "OpenAI und Broadcom stellen LLM-optimierten Inferenzchip vor"
-  },
-  {
-    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-    "description": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-    "pubDate": "2026-06-23T23:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Bar-Deal verschafft MoEngage Zugriff auf Technologie, die KI-Agenten einzelnen Kunden zuweist.",
-    "titleDE": "Das indische Unternehmen MoEngage geht davon aus, dass die Zukunft des Marketings in Millionen von KI-Agenten liegt"
   },
   {
     "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
@@ -310,46 +460,6 @@
     "titleDE": "Hollywood beugt sich vor OpenAI"
   },
   {
-    "title": "Heads in the game",
-    "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-    "description": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,…",
-    "pubDate": "2026-06-23T21:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Das Finale der Männer-Weltmeisterschaft 2022 in Katar zwischen Argentinien und Frankreich entwickelte sich zu einem der epischsten Spiele der Fußballgeschichte. Da nur noch 12 Minuten in der Verlängerung des Spiels verblieben, um ein Unentschieden zu brechen, musste der Schiedsrichter eine wichtige Entscheidung treffen – und zwar schnell. Lionel Messi,…",
-    "titleDE": "Köpfe im Spiel"
-  },
-  {
-    "title": "Super Mario is mathier than you think",
-    "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-    "description": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and monster-­ridden terrain where your only means…",
-    "pubDate": "2026-06-23T21:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Hier ist ein Problem, das Sie in der Schule wahrscheinlich nicht gelöst haben: Sie sind ein ehrgeiziger junger Klempner aus Brooklyn in einer Welt, die von gewalttätigen, menschengroßen Pilzen namens Goombas bewohnt wird. Die Liebe deines Lebens wurde entführt, also begibst du dich auf die Suche nach ihrer Rettung und wagst dich durch Strecken voller Rohre und ...",
-    "titleDE": "Super Mario ist mathematischer als Sie denken"
-  },
-  {
-    "title": "A man of many words",
-    "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-    "description": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition of its kind. The story of how the word…",
-    "pubDate": "2026-06-23T21:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Brian Sietsema hat ein Lieblingswort. Es ist etwas überraschend, dass er nur einen auswählen kann. Er ist die Person, auf die sich Rechtschreibprüfer verlassen, um die Aussprache zu bestätigen und Fragen zu den Wurzeln der Wörter zu beantworten, die ihnen beim Scripps National Spelling Bee – dem wohl prestigeträchtigsten Wettbewerb der Welt – vorgelegt werden ...",
-    "titleDE": "Ein Mann vieler Worte"
-  },
-  {
-    "title": "Sharing a love for calculus",
-    "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-    "description": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.  Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned challenge: American high school students’ startlingly uneven access…",
-    "pubDate": "2026-06-23T21:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die landesweite Diskussion über den Wert von Bildung wird derzeit von Spekulationen über die Risiken und positiven Potenziale von KI dominiert. Was auch immer Ihre eigene Sicht auf diese Debatte sein mag, ich hoffe, Sie werden erfreut sein zu erfahren, dass das MIT ebenfalls an einer äußerst wichtigen, aber vergleichsweise altmodischen Herausforderung arbeitet …",
-    "titleDE": "Teilen Sie Ihre Liebe zur Infinitesimalrechnung"
-  },
-  {
     "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
     "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
     "description": "Oracle is spending billions on data center infrastructure to support AI.",
@@ -358,26 +468,6 @@
     "category": "news",
     "descriptionDE": "Oracle gibt Milliarden in die Rechenzentrumsinfrastruktur aus, um KI zu unterstützen.",
     "titleDE": "Die 21.000 Entlassungen von Oracle tragen dazu bei, seine schuldenfinanzierten KI-Investitionen voranzutreiben"
-  },
-  {
-    "title": "Why corporate AI super PACs spent $27 million on a local election",
-    "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-    "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's newsroom, and not by a slop algorithm. \nSome news: The Verge now has a special subscription price of $10 / year for students with a valid email address! It gets you everything that a regular subscription gets: ad-free podcasts, subscriber Q&As, and much, much more.\nWe're coming to you …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-23T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Hallo und willkommen bei Regulator, dem Newsletter für Verge-Abonnenten, der die Missgeschicke ihrer Lieblings-Tech-Oberherren und Washingtoner Sumpfkreaturen aufzeichnet. („Favorit“ ist natürlich subjektiv.) Noch kein Abonnent? Melden Sie sich hier an, vor allem, wenn Sie die neuesten Informationen zu hochwertigem Amazon Prime erhalten möchten ...",
-    "titleDE": "Warum KI-Super-PACs von Unternehmen 27 Millionen US-Dollar für eine Kommunalwahl ausgaben"
-  },
-  {
-    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-    "pubDate": "2026-06-23T17:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropics neuer Claude Tag bringt einen stets aktiven KI-Teamkollegen zu Slack. Aber über die Produktivität hinaus ist die Funktion ein strategisches Spiel zur Erfassung des Organisationskontexts, des institutionellen Wissens und der Unternehmensabläufe.",
-    "titleDE": "Claude Tag von Anthropic lernt Ihr Unternehmen kennen, eine Slack-Nachricht nach der anderen"
   },
   {
     "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -390,36 +480,6 @@
     "titleDE": "Wie GPT-5 der Immunologin Derya Unutmaz dabei half, ein drei Jahre altes Rätsel zu lösen"
   },
   {
-    "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
-    "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-    "description": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nLast week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. \nThe company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal is to help people live longer, better, and healthier lives. CEO David Holz has suggested the system could one day be better than MRI. Experts are skeptical. While several medical imaging specialists told The Verge they were not dismissive of the idea outright, they said Midjourney has shown little public evidence to su …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-23T15:56:35.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein Scan eines bildgebenden Phantoms, segmentiert, um zu überprüfen, wie sauber sich Strukturen unter kontrollierten Bedingungen trennen. | Bild: Midjourney Medical Letzte Woche hat Midjourney, ein KI-Startup, das vor allem für seinen Bildgenerator bekannt ist, einen ungewöhnlichen Dreh- und Angelpunkt gesetzt: die medizinische Bildgebung. Das Unternehmen kündigte einen futuristischen Ultraschall an ...",
-    "titleDE": "Etwas stimmt nicht mit Midjourneys Umstellung auf Körperscanner"
-  },
-  {
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "description": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "pubDate": "2026-06-23T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Noch vier Tage, um bis zu 190 $ auf Ihren Pass für den TechCrunch Founder Summit 2026 – das ultimative Gründer-Bootcamp – zu sparen, bevor die Frühbucherpreise am 26. Juni um 23:59 Uhr enden. PT. Registrieren Sie sich noch heute.",
-    "titleDE": "Noch 4 Tage, um bis zu 190 $ beim TechCrunch Founder Summit 2026 zu sparen"
-  },
-  {
-    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-    "description": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
-    "pubDate": "2026-06-23T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das in Stockholm ansässige Startup Fika Jobs baut eine Video-First-Einstellungsplattform auf, die KI-Interviewagenten mit kurzen Videoprofilen kombiniert und so etwas schafft, das wie eine Mischung aus LinkedIn und TikTok wirkt.",
-    "titleDE": "Fika Jobs sammelt 4 Millionen US-Dollar für den Aufbau einer Video-First-Einstellungsplattform, auf der KI-Agenten Kandidaten interviewen"
-  },
-  {
     "title": "Helping build shared standards for advanced AI",
     "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
@@ -430,26 +490,6 @@
     "titleDE": "Wir helfen beim Aufbau gemeinsamer Standards für fortgeschrittene KI"
   },
   {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "pubDate": "2026-06-23T01:27:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein laufender Blick – in umgekehrter chronologischer Reihenfolge – auf die größeren Technologieunternehmen, die in diesem Jahr erhebliche Entlassungen angekündigt haben, wobei KI ein erklärter Faktor ist.",
-    "titleDE": "Die aktuelle Liste: Große Entlassungen im Technologiebereich im Jahr 2026, bei denen Arbeitgeber KI anführen"
-  },
-  {
-    "title": "OpenAI launches new initiative to help find and patch open source bugs",
-    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "description": "OpenAI is using AI to help the open source community better protect itself.",
-    "pubDate": "2026-06-23T00:11:31.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI nutzt KI, um der Open-Source-Community dabei zu helfen, sich besser zu schützen.",
-    "titleDE": "OpenAI startet neue Initiative, um Open-Source-Fehler zu finden und zu beheben"
-  },
-  {
     "title": "How Omio is building the future of conversational travel",
     "link": "https://openai.com/index/omio",
     "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
@@ -458,16 +498,6 @@
     "category": "news",
     "descriptionDE": "Entdecken Sie, wie Omio OpenAI nutzt, um gesprächige Reiseerlebnisse zu ermöglichen, die Produktentwicklung zu beschleunigen und sich in ein KI-natives Unternehmen zu verwandeln.",
     "titleDE": "Wie Omio die Zukunft des Konversationsreisens gestaltet"
-  },
-  {
-    "title": "The AI world is getting ‘loopy’",
-    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "description": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-    "pubDate": "2026-06-22T20:53:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Schleife bringt die Agenten-KI einen Schritt weiter, indem sie einem Schwarm von Agenten erlaubt, kontinuierlich und endlos im Hintergrund zu arbeiten.",
-    "titleDE": "Die KI-Welt wird „verrückt“"
   },
   {
     "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
@@ -518,55 +548,5 @@
     "category": "news",
     "descriptionDE": "Samsung Electronics stellt ChatGPT Enterprise und Codex für Mitarbeiter weltweit bereit und markiert damit einen der größten KI-Rollouts von OpenAI für Unternehmen.",
     "titleDE": "Samsung Electronics stellt seinen Mitarbeitern ChatGPT und Codex zur Verfügung"
-  },
-  {
-    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-    "description": "Crypto Clipper spreads over USB and communicates over Tor.",
-    "pubDate": "2026-06-18T23:28:52.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Crypto Clipper verbreitet sich über USB und kommuniziert über Tor.",
-    "titleDE": "Microsoft entdeckt eine neue, leichtgewichtige Hintertür, die Kryptowährungen stiehlt"
-  },
-  {
-    "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-    "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-    "description": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
-    "pubDate": "2026-06-18T19:41:35.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die vor 12 Monaten bekannt gewordene Sicherheitslücke betrifft mehrere Hersteller.",
-    "titleDE": "Apple behebt eine hochgradige Abhörlücke in den Beats Studio Buds"
-  },
-  {
-    "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-    "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-    "description": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
-    "pubDate": "2026-06-18T17:42:18.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Ein bisher nicht gemeldeter SpaceX-Investor hat Verbindungen zu chinesischen Militärunternehmen.",
-    "titleDE": "Vor dem Börsengang von SpaceX erwarben Investoren in China heimlich Anteile"
-  },
-  {
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-    "pubDate": "2026-06-18T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI führt neue Ausgabenkontrollen und Nutzungsanalysen für ChatGPT Enterprise ein und hilft Unternehmen dabei, Kosten zu verwalten und KI sicher zu skalieren.",
-    "titleDE": "Neue Nutzungsanalysen und aktualisierte Ausgabenkontrollen für Unternehmen"
-  },
-  {
-    "title": "Improving health intelligence in ChatGPT",
-    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "pubDate": "2026-06-18T11:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie GPT-5.5 Instant die Gesundheits- und Wellness-Reaktionen von ChatGPT durch stärkere Argumentation, besseren Kontext, klarere Kommunikation und ärztlich fundierte Bewertungen verbessert.",
-    "titleDE": "Verbesserung der Gesundheitsintelligenz in ChatGPT"
   }
 ]
