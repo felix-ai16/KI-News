@@ -1,5 +1,135 @@
 [
   {
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "pubDate": "2026-06-27T01:01:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge sind über 100 Unternehmen und Regierungsbehörden berechtigt, Mythos 5 zu verwenden, einschließlich ihrer nichtamerikanischen Mitarbeiter.",
+    "titleDE": "Trump Admin veröffentlicht Anthropic Mythos zur Nutzung durch mehr als 100 US-Unternehmen und Agenturen"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos 5 is back",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "description": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement.\nThe letter, dated June 26th and sent by Commerce Secretary Howard Lutnick to Anthropic co-founder Tom Brown, who had been recently leading negotiations, states that there's been a \"revision to the license requiremen …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-27T00:33:44.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nach einem Achterbahn-Verhandlungsprozess mit der Trump-Administration, der sich über zwei Wochen hinzog, ist Anthropics Mythos 5 endlich wieder in Aktion – zumindest einigermaßen für eine ausgewählte Gruppe von Organisationen, wie aus einem Brief der Regierung an Anthropic hervorgeht, der von The Verge eingesehen wurde. Fabel ...",
+    "titleDE": "Anthropics Mythos 5 ist zurück"
+  },
+  {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "pubDate": "2026-06-26T18:32:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Wir glauben nicht, dass diese Art des staatlichen Zugangsprozesses zum langfristigen Standard werden sollte“, sagt OpenAI. „Es hält die besten Tools für Benutzer, Entwickler, Unternehmen, Cyber-Verteidiger und globale Partner bereit, die sie benötigen.“",
+    "titleDE": "OpenAI schränkt die Einführung von GPT-5.6 auf Antrag der Regierung ein und sagt, dass Einschränkungen nicht die Norm sein sollten"
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "pubDate": "2026-06-26T18:19:36.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Einstellung markiert den jüngsten Vorstoß von OpenAI nach Indien und die Erweiterung von Büros, Partnerschaften und Einstellungen.",
+    "titleDE": "OpenAI wirbt Uber India-Chef ab, um seinen größten Markt außerhalb der USA anzuführen"
+  },
+  {
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
+    "pubDate": "2026-06-26T17:43:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nvidia dominiert seit Jahren den Markt für KI-Chips, aber die Ära der völligen Abhängigkeit könnte zu Ende gehen. OpenAI hat gerade seine Pläne mitgeteilt, die Dinge mit Jalapeño, seinem mit Broadcom entwickelten maßgeschneiderten Inferenzchip, aufzupeppen, und schließt sich damit Google, Apple und SpaceX in einer wachsenden Liste von Unternehmen an, die sich ihren Weg aus ... bahnen.",
+    "titleDE": "Warum jeder von OpenAI bis SpaceX seine eigenen Chips baut (und Nvidia aufheizt)"
+  },
+  {
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here.  On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI tasks. \nPer million tokens, GPT-5.6 Sol is priced at $5 input / $30 output (nearly half the cost of Anthropic's Claude Fable 5, which is $10 input / $5 …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-26T17:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Weniger als 24 Stunden nach der Nachricht, dass OpenAI auf Wunsch der Trump-Administration die Veröffentlichung seines nächsten Modells zeitlich verschieben würde, ist dieses Modell, GPT-5.6, da. Am Freitag stellte das Unternehmen die limitierte Vorschau seiner neuen GPT 5.6-Modellreihe vor: Sol, das Flaggschiff; Terra, ein Mittelklassemodell für „High-V...“",
+    "titleDE": "OpenAI stellt GPT-5.6 inmitten des US-amerikanischen KI-Regulierungsdramas vor"
+  },
+  {
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "pubDate": "2026-06-26T16:24:47.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "KI-Modelle sind so weit fortgeschritten, dass ihre Fähigkeiten echte politische Konsequenzen haben. Der Umgang mit diesen Folgen erfordert kollektives Handeln.",
+    "titleDE": "Es geht nicht mehr um Anthropic vs. OpenAI"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "description": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight.\nAnthropic declined to comment multiple times this week about the state of the talks, saying there was no news to share. But the lack of news is the story here. After 14 days of high-intensity negotiations, nobody knows when or if Anthropic's most powerful AI models will come back, let alone whether President Trump could expand his order to m …\nRead the full story at The Verge.",
+    "pubDate": "2026-06-26T14:07:03.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Es ist zwei Wochen her, seit Anthropic seine Modelle der Mythos-Klasse nach einem Ultimatum der Trump-Administration am Freitagabend offline genommen hat. Das Unternehmen wurde sofort aktiv und schickte eine Flut von Führungskräften nach Washington, D.C. Aber es fehlten verdächtig Updates, und es gab keine Lösung in si...",
+    "titleDE": "Das Mythos-Chaos von Anthropic wird immer schlimmer"
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
+    "pubDate": "2026-06-26T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nvidia dominiert seit Jahren den Markt für KI-Chips, aber die Ära der völligen Abhängigkeit könnte zu Ende gehen. OpenAI hat gerade seine Pläne mitgeteilt, die Dinge mit Jalapeño, seinem mit Broadcom entwickelten maßgeschneiderten Inferenzchip, aufzupeppen, und schließt sich damit Google, Apple und SpaceX in einer wachsenden Liste von Unternehmen an, die sich ihren Weg aus ... bahnen.",
+    "titleDE": "Der Jalapeño-Chip von OpenAI ist die auffälligste Abkehr von Big Tech von Nvidia"
+  },
+  {
+    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+    "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+    "pubDate": "2026-06-26T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Sparen Sie bis zu 190 $ bei Ihrem Pass zum TechCrunch Founder Summit 2026. Der Frühbucherpreis endet heute um 23:59 Uhr. PT, danach steigen die Tarife. Registrieren Sie sich jetzt.",
+    "titleDE": "Heute Abend endet der Frühbucherpreis für den TechCrunch Founder Summit"
+  },
+  {
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
+    "pubDate": "2026-06-26T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Hitzewellen beeinträchtigen Ihr Gehirn. Wissenschaftler versuchen herauszufinden, warum. —Jessica Hamzelou Diese Woche war es heiß in London. Wirklich heiß. Eine gefährliche Hitzewelle h...",
+    "titleDE": "Der Download: hirnschmelzende Hitzewellen und beispiellose OpenAI-Einschränkungen"
+  },
+  {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "pubDate": "2026-06-26T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI gibt eine Vorschau auf GPT-5.6 Sol, ein Modell der nächsten Generation mit stärkeren Fähigkeiten in den Bereichen Codierung, Wissenschaft und Cybersicherheit, gepaart mit seinem fortschrittlichsten Sicherheits-Stack.",
+    "titleDE": "Vorschau auf GPT-5.6 Sol: ein Modell der nächsten Generation"
+  },
+  {
+    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+    "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+    "description": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
+    "pubDate": "2026-06-26T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Woche war es heiß in London. Wirklich heiß. Eine gefährliche Hitzewelle hat Westeuropa heimgesucht. Gestern verzeichnete Großbritannien mit 36,1 °C (ca. 97 °F) die höchste Juni-Temperatur aller Zeiten. Aber wie die Wetter-App auf meinem Handy bestätigte, waren es gefühlte 39 °C. Es ist erschreckend, dass wir solche Temperaturen sehen ...",
+    "titleDE": "Hitzewellen beeinträchtigen Ihr Gehirn. Wissenschaftler versuchen herauszufinden, warum."
+  },
+  {
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
@@ -230,26 +360,6 @@
     "titleDE": "Eigentlich sollte KI Arbeitsplätze im Ingenieurwesen vernichten, aber neue Daten deuten darauf hin, dass sie am widerstandsfähigsten ist"
   },
   {
-    "title": "AI researchers continue to leave Google for its rivals",
-    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "description": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-    "pubDate": "2026-06-24T21:42:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Spitzen-KI-Forscher Jonas Adler und Alexander Pritzel verlassen Google und wechseln zu Anthropic, nachdem sie die Spitzenwissenschaftler Noam Shazeer und John Jumper verlassen haben.",
-    "titleDE": "KI-Forscher verlassen Google weiterhin und wechseln zu seinen Konkurrenten"
-  },
-  {
-    "title": "The memory chip crunch is paying off for this US company",
-    "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-    "description": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-    "pubDate": "2026-06-24T21:30:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Umsatz vervierfachte sich im Vergleich zum Vorjahreszeitraum auf 41,45 Milliarden US-Dollar. Der Gewinn des Unternehmens stieg im Jahresvergleich von 1,88 Milliarden US-Dollar auf unglaubliche 28,2 Milliarden US-Dollar.",
-    "titleDE": "Die Speicherchip-Knappheit zahlt sich für dieses US-Unternehmen aus"
-  },
-  {
     "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
     "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
     "description": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
@@ -258,16 +368,6 @@
     "category": "news",
     "descriptionDE": "„Operation Endgame“ bringt gleichzeitig zwei weit verbreitete Verbrechensinstrumente durcheinander.",
     "titleDE": "Doppelschlag im weltweiten Einsatz stört das „Fließband“ der Cyberkriminalität"
-  },
-  {
-    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-    "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-    "pubDate": "2026-06-24T20:09:45.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Tokenmaxxing-Ära war kurz. Wir scheinen jetzt in die Ära der Token-Rationierung einzutreten.",
-    "titleDE": "Unternehmen bemühen sich, ihre Mitarbeiter davon abzuhalten, ihre KI-Budgets mit kleinen Aufgaben auszureizen"
   },
   {
     "title": "Congresswoman denies staff used AI to write defense funding amendment",
@@ -290,26 +390,6 @@
     "titleDE": "Der 27-Millionen-Dollar-Al-Stellvertreterkrieg um Alex Bores endet unentschieden"
   },
   {
-    "title": "Facebook rolls out an AI companion app for creators",
-    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-    "pubDate": "2026-06-24T17:16:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In die neue App, die derzeit mit ausgewählten YouTubern getestet wird, ist der kürzlich eingeführte KI-Creator-Assistent von Facebook integriert.",
-    "titleDE": "Facebook führt eine KI-Begleit-App für YouTuber ein"
-  },
-  {
-    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-    "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-    "description": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-    "pubDate": "2026-06-24T16:48:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Agility Robotics, das humanoide Robotik-Startup, das 2015 aus der Oregon State University hervorgegangen ist, rechnet mit einem Erlös von 620 Millionen US-Dollar.",
-    "titleDE": "Agility Robotics plant, über SPAC im Rahmen eines 2,5-Milliarden-Dollar-Deals an die Börse zu gehen"
-  },
-  {
     "title": "Figma now has AI motion graphics and shader tools",
     "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
     "description": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in one place.\"\nNotable callouts include coding layers that let you tweak the code of your projects without leaving the Figma Design canvas, and AI-generated motion graphics effects, which allow you to make animations and transition effects by simply describing them to Figma's chatbot interface. You c …\nRead the full story at The Verge.",
@@ -318,16 +398,6 @@
     "category": "news",
     "descriptionDE": "Figma hat auf seiner jährlichen Config-Konferenz einige neue Produktaktualisierungen für Design und Codierung vorgestellt, die Kreativen dabei helfen sollen, „ihre Ideen weiter voranzutreiben“ und mühsame Aufgaben mit KI zu automatisieren. Ein Teil davon ist eine neu gestaltete Leinwand, die laut Figma jetzt für die Full-Stack-Entwicklung optimiert ist und ...",
     "titleDE": "Figma verfügt jetzt über KI-Motion-Graphics und Shader-Tools"
-  },
-  {
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "description": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-    "pubDate": "2026-06-24T16:15:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Update von Figma fügt eine neue Codeebene, Unterstützung für Bewegung und Shader sowie die Möglichkeit hinzu, mithilfe von KI benutzerdefinierte Plug-Ins für verschiedene Aufgaben zu erstellen.",
-    "titleDE": "Figma fügt im neuen Update Codeebenen, Unterstützung für Animationen und weitere KI-Funktionen hinzu"
   },
   {
     "title": "Europe’s extreme heat is shutting down power plants",
@@ -340,16 +410,6 @@
     "titleDE": "Die extreme Hitze in Europa führt zur Stilllegung von Kraftwerken"
   },
   {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-    "pubDate": "2026-06-24T14:54:46.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der neue Prozessor mit dem Namen Jalapeño wurde speziell für die besonderen Anforderungen der Inferenzsysteme von OpenAI entwickelt.",
-    "titleDE": "OpenAI stellt seinen ersten maßgeschneiderten Chip vor, der von Broadcom gebaut wurde"
-  },
-  {
     "title": "OpenAI reveals its first AI processor: Jalapeño",
     "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
     "description": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday.\nJalapeño is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI inference, models process a user's request to run an agent like Codex or offer a response from ChatGPT, while AI training involves a model consuming vast amounts of data to inform its responses.\nIt comes just nine months after OpenAI revealed that it would team up with Br …\nRead the full story at The Verge.",
@@ -358,16 +418,6 @@
     "category": "news",
     "descriptionDE": "OpenAI hat gerade einen neuen „Intelligence Processor“-Chip für KI-Server vorgestellt, der in Zusammenarbeit mit Broadcom hergestellt wurde. Laut einer Ankündigung vom Mittwoch soll der Chip mit dem Namen Jalapeño aktuelle und zukünftige große Sprachmodelle antreiben. Jalapeño ist ein ASIC (Application-Specific Integrated Circuit).",
     "titleDE": "OpenAI stellt seinen ersten KI-Prozessor vor: Jalapeño"
-  },
-  {
-    "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-    "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-    "description": "The Speaker comes in four colors… but red is the way. | Photo: David Pierce / The Verge\t\n\nRight out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't missed a single wake word - except for the time I stage-whispered to it from the other room while trying to avoid waking up the baby, but I'm not sure that's a fair test. I set up the speaker in the bathroom and chatted with it from the shower; Siri hardly ever hears me over the running water, but Google did pretty well.\nThese are the sort …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-24T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Den Lautsprecher gibt es in vier Farben … aber Rot ist die richtige Wahl. | Foto: David Pierce / The Verge Gleich nach dem Auspacken hat der neue Google Home Speaker einige wichtige Tests bestanden. Selbst wenn die Lautstärke auf 100 Prozent eingestellt war und die Musik aus dem Lautsprecher dröhnte, schaltete er den Ton schnell aus und hörte jedes Mal zu ...",
-    "titleDE": "Der Google Home Speaker klingt gut und sieht gut aus – aber er ist wählerisch"
   },
   {
     "title": "The Download: introducing the Engineering issue",
@@ -397,27 +447,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "KI boomt. Jeden Tag entstehen neue Anwendungsfälle. Um das Potenzial der Technologie auszuschöpfen, benötigen Unternehmen Daten in großem Maßstab. In vielen Fällen sind die relevanten Informationen jedoch blockiert oder unstrukturiert, was ihre Nutzung durch KI-Modelle einschränkt. Um diese Herausforderung zu verstehen, betrachten Sie die Grundlage von ...",
-    "titleDE": "Die Entstehung der Webdaten-Infrastrukturschicht für KI"
-  },
-  {
-    "title": "This flying solar-powered platform could deliver better internet from the air",
-    "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-    "description": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.  Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin…",
-    "pubDate": "2026-06-24T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Bereits im August wird sich eine riesige Silberkugel ihren Weg durch die trockene Luft im Südwesten der USA bahnen und den Pazifik überqueren, um die Küste Japans zu erreichen. Dort wird das etwa 200 Fuß lange Schiff, gebaut von der in New Mexico ansässigen Firma Sceye, etwa 18 Kilometer über der Meeresoberfläche parken, in...",
-    "titleDE": "Diese fliegende, solarbetriebene Plattform könnte besseres Internet aus der Luft liefern"
-  },
-  {
-    "title": "All challenges big and small",
-    "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
-    "description": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the desert and…",
-    "pubDate": "2026-06-24T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als ich 18 war, habe ich meinen High-School-Abschluss ausgelassen und bin nach Kuwait gegangen. Es war 1991, der erste Golfkrieg war gerade zu Ende gegangen und das Land herrschte im völligen Chaos. Abgesehen vom Generatorstrom gab es kaum bis gar keinen Strom. Überall lagen Trümmer und Blindgänger. Riesige Ölbrände erhellten die...",
-    "titleDE": "Alle Herausforderungen groß und klein"
+    "titleDE": "Die Entstehung der Web-Dateninfrastrukturschicht für KI"
   },
   {
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -426,7 +456,7 @@
     "pubDate": "2026-06-24T06:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "OpenAI und Broadcom stellen Jalapeño vor, einen maßgeschneiderten KI-Chip, der für LLM-Inferenz entwickelt wurde, um Leistung, Effizienz und Skalierbarkeit in allen KI-Systemen zu verbessern.",
+    "descriptionDE": "OpenAI und Broadcom stellen Jalapeño vor, einen benutzerdefinierten KI-Chip, der für LLM-Inferenz entwickelt wurde, um Leistung, Effizienz und Skalierbarkeit in allen KI-Systemen zu verbessern.",
     "titleDE": "OpenAI und Broadcom stellen LLM-optimierten Inferenzchip vor"
   },
   {
@@ -438,26 +468,6 @@
     "category": "news",
     "descriptionDE": "Die Verordnung warnt vor nationalen Sicherheitsrisiken, wenn die Post-Quanten-Kryptographie nicht rechtzeitig eingeführt wird.",
     "titleDE": "Das Weiße Haus verkürzt die Frist für die Abschaffung quantenanfälliger Kryptowährungen drastisch"
-  },
-  {
-    "title": "Google Home will soon get better at recognizing you",
-    "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-    "description": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces aren't clearly visible, using \"additional non-biometric signals (body size, clothing color, etc.).\" \nThe Familiar Faces library will also begin automatically updating with the most recent images of everyone in your house, so you should get fewer inaccurate notifications from outdated examples.\nGoogle also says  …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-23T22:28:19.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein neues Update für Google Home könnte die Wahrscheinlichkeit verringern, dass Ihre Smart-Home-Kameras Sie mit jemand anderem verwechseln, nur weil Sie von der Kamera wegschauen. Ab dem 23. Juni erweitert Google seine Gesichtserkennungsfunktion, sodass Personen, die Sie in Ihrer Bibliothek „Vertraute Gesichter“ markiert haben, weiterhin …",
-    "titleDE": "Google Home wird Sie bald besser erkennen"
-  },
-  {
-    "title": "Hollywood is bending the knee to OpenAI",
-    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "description": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech.\nPostproduction on Artificial was nearly finished when Amazon MGM unexpectedly announced last week that it no longer plans to distribute the film. The news came as a surprise given how far along the movie was and reports that Amazon …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-23T22:03:18.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Netflix, A24, Focus Features und Warner Bros.‘ Berichten zufolge haben sich alle von Clockwork dazu entschieden, Artificial – das neue biografische Drama von Regisseur Luca Guadagnino über den Mitbegründer und CEO von OpenAI, Sam Altman – nicht mehr für Vertriebsverträge in Anspruch zu nehmen. Und während Neon und Mubi immer noch Interesse daran haben sollen ...",
-    "titleDE": "Hollywood beugt sich vor OpenAI"
   },
   {
     "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
