@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Dienstag, 30. Juni 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Dienstag, 30. Juni 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/" target="_blank" rel="noopener">Die Kryptobörse OKX möchte, dass KI-Agenten sich gegenseitig einstellen und bezahlen</a></h2><p class="news-description">OKX vereint Zahlungen, Identität und Reputation in einem Marktplatz für KI-Agenten.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">Google AI</span></div><h2 class="news-title"><a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/" target="_blank" rel="noopener">Eröffnen Sie Großbritanniens nächste Ära der Produktivität: Aufbau einer Nation von KI-Vorreitern</a></h2><p class="news-description">Google UK veröffentlicht seinen neuesten Economic Impact Report und zeigt, wie mehr Menschen die Vorteile KI-gestützter Technologien nutzen können.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/" target="_blank" rel="noopener">Die Debatte über KI-Jobs ist jetzt noch chaotischer geworden</a></h2><p class="news-description">Ein neuer Bericht kommt zu dem Ergebnis, dass „KI-Anwender mit hoher Intensität“ einen Anstieg der Mitarbeiterzahl um 10,2 % verzeichneten. Bei diesen Unternehmen stieg die Zahl der Berufseinsteiger um 12 %, was der Behauptung widerspricht, dass KI Nachwuchskräfte vernichtet.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/" target="_blank" rel="noopener">Die Vibe-Codierungsplattform Base44 führt ein eigenes Modell ein, da KI-Startups nach Vertretbarkeit streben</a></h2><p class="news-description">Die zu Wix gehörende Vibe-Coding-Plattform Base44 hat mit der Einführung eines eigenen KI-Modells begonnen – in der Hoffnung, dass es irgendwann die Spitzenmodelle übertreffen wird.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
