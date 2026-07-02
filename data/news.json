@@ -1,5 +1,145 @@
 [
   {
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+    "pubDate": "2026-07-02T05:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Neo ist Bhavin Turakhias fünftes Projekt und sein neuestes Projekt im Bereich Unternehmenssoftware. Diesmal nimmt er es mit Microsoft Office und Google Apps mit KI auf.",
+    "titleDE": "Indischer Tech-Tycoon setzt 30 Millionen Dollar seines eigenen Geldes ein, um eine KI-Alternative zu Microsoft Office zu entwickeln"
+  },
+  {
+    "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+    "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+    "description": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+    "pubDate": "2026-07-01T21:21:21.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "T-Mobile möchte, dass Broadcom seine unbefristeten VMware-Lizenzen weiterhin unterstützt.",
+    "titleDE": "T-Mobile verlagert im Rahmen eines Rechtsstreits Zehntausende virtuelle Maschinen von VMware"
+  },
+  {
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "pubDate": "2026-07-01T18:54:18.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge zeigte SpaceX den Anlegern vor dem Börsengang ein „Handy-ähnliches“ KI-Gerät. Es könnte ein weiteres Signal sein, dass SpaceX in den drahtlosen Bereich expandieren möchte.",
+    "titleDE": "SpaceX verfügt über einen Prototyp eines KI-Geräts, und es klingt auf jeden Fall nach Telefon"
+  },
+  {
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+    "pubDate": "2026-07-01T18:47:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Sound baute seinen Ruf auf konzentrierten, überzeugenden Wetten in branchenführenden KI-Laboren auf, während Kutchers neuer Fonds offenbar die Schicht unter diesen Unternehmen jagt – die Infrastruktur und Energie, die sie antreiben.",
+    "titleDE": "Ashton Kutcher verlässt Sound Ventures, um mit Morgan Beller eine neue VC-Firma zu gründen"
+  },
+  {
+    "title": "The latest AI news we announced in June 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "description": "Here are Google’s latest AI updates from June 2026.",
+    "pubDate": "2026-07-01T18:15:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom Juni 2026.",
+    "titleDE": "Die neuesten KI-Neuigkeiten, die wir im Juni 2026 angekündigt haben"
+  },
+  {
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "pubDate": "2026-07-01T17:48:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Cloudflare gibt KI-Unternehmen bis zum 15. September Zeit, die für die Suche verwendeten Webcrawler von denen für KI-Schulungen und -Agenten zu trennen, andernfalls besteht die Gefahr, dass sie auf vielen Publisher-Websites standardmäßig blockiert werden.",
+    "titleDE": "Die neue Richtlinie von Cloudflare zwingt KI-Unternehmen dazu, für die Inhalte der Verlage zu bezahlen"
+  },
+  {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "description": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "pubDate": "2026-07-01T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Google, der New York Jobs CEO Council und Urban Assembly veranstalteten einen KI-Gipfel für 150 Führungskräfte aus Bildung und Industrie.",
+    "titleDE": "New Yorker Pädagogen und Branchenführer trafen sich in den Google-Büros, um die Zukunft der KI in Klassenzimmern zu gestalten."
+  },
+  {
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "description": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+    "pubDate": "2026-07-01T14:35:16.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Beginnen wir mit einem Spiel. Öffnen Sie den Chatbot Ihrer Wahl – Claude, ChatGPT, Gemini – und geben Sie „Geben Sie mir eine Zufallszahl zwischen 1 und 10“ ein. Du wirst 7 bekommen. Fast immer. Geben Sie nun „Andere“ ein und Sie erhalten 3 oder 4. Geben Sie noch einmal „Andere“ ein und Sie erhalten 8 oder 9. Das wird nicht jedes Mal funktionieren – aber wenn es …",
+    "titleDE": "LLMs stecken in einem Gruppendenken fest. Dieses Startup versucht, sie rauszuholen."
+  },
+  {
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+    "pubDate": "2026-07-01T14:25:23.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Venice AI ist mit einem Jahresumsatz von über 70 Millionen US-Dollar bereits profitabel, sagte CEO Erik Voorhees.",
+    "titleDE": "Venice AI wird mit 65 Millionen US-Dollar Serie A zum Einhorn, da seine datenschutzorientierte KI-Plattform durchstartet"
+  },
+  {
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+    "pubDate": "2026-07-01T14:20:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der 24/7-Agentenassistent von Google, Gemini Spark, kommt zusammen mit anderen Verbesserungen, wie Echtzeit-Tracking und Unterstützung für mehr Apps, auf den Mac.",
+    "titleDE": "Gemini Spark, der Agentenassistent von Google, ist jetzt auf dem Mac verfügbar"
+  },
+  {
+    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+    "description": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
+    "pubDate": "2026-07-01T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Builders Stage kehrt zum TechCrunch Disrupt 2026 zurück und bringt über 10.000 Gründer, Startup-Betreiber und Investoren zu praktischen Gesprächen zusammen. und Fragen und Antworten darüber, was es braucht, um erfolgreiche Unternehmen aufzubauen und zu skalieren. Registrieren Sie sich jetzt, um bis zu 330 $ zu sparen.",
+    "titleDE": "Agenda der Builders Stage enthüllt: Praktische Strategien zur Skalierung von Startups bei TechCrunch Disrupt 2026"
+  },
+  {
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "description": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+    "pubDate": "2026-07-01T13:43:07.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta entwickelt Pläne für ein Cloud-Infrastrukturgeschäft und verkauft Zugang zu KI-Rechenleistung und -Modellen. Durch diesen Schritt würde es sich mit den großen Cloud-Anbietern wie Amazon Web Services, Google Cloud und Microsoft Azure messen.",
+    "titleDE": "Meta versucht wie SpaceX, überschüssige KI-Rechenleistung in Geld umzuwandeln"
+  },
+  {
+    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+    "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
+    "pubDate": "2026-07-01T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Claude Science ist das neueste Flaggschiffprodukt von Anthropic. Bei einer Veranstaltung für Pharmamanager, Biotech-Gründer und Forscher gab Anthropic gestern bekannt ...",
+    "titleDE": "Der Download: Anthropic bringt Claude Science und Kaliforniens Kohlenstoffdünger-Mathematik auf den Markt"
+  },
+  {
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "description": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge\t\n\nSmart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that.\nAmazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. The Google Home Speaker is the company's first new smart speaker in six years and its first \"built for Gemini.\" After years of neglect, Google appears to be finally getting serious about the smart home - again. The new speaker is the clearest sign yet. Gemini for Home, however, still feels unfinished.\nGoogle …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-07-01T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Google Home Speaker ist Googles erster Smart Speaker seit Jahren. Und es ist hübsch! | Foto: Jennifer Patison Tuohy / The Verge Intelligente Redner haben die letzten Jahre damit verbracht, nach einem überzeugenden zweiten Akt zu suchen. Abgesehen von Musik, Timern und der Steuerung Ihrer Lichter haben sie sich schwer getan, die Übernahme von ... zu rechtfertigen.",
+    "titleDE": "Google hat einen großartigen intelligenten Lautsprecher entwickelt, aber Gemini ist noch nicht bereit dafür"
+  },
+  {
     "title": "The ‘Father of the Internet’ is finally retiring",
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
     "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
@@ -190,26 +330,6 @@
     "titleDE": "Die Podcasting-Plattform Riverside steigt in die Newsletter-Veröffentlichung ein"
   },
   {
-    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-    "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-    "pubDate": "2026-06-30T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Ingenieure des neuen Teams werden in Unternehmen integriert, um speziell entwickelte Agenten einzusetzen, wobei der Schwerpunkt auf schnellen Bereitstellungen und der Unabhängigkeit der Kunden liegt.",
-    "titleDE": "Amazon gründet nach OpenAI und Anthropic eine neue FDE-Organisation im Wert von 1 Milliarde US-Dollar"
-  },
-  {
-    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-    "description": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-    "pubDate": "2026-06-30T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Protons Lumo 2.0 erscheint diese Woche und bietet Benutzern eine größere Auswahl an Funktionen.",
-    "titleDE": "Lumo, Protons datenschutzorientierter KI-Chatbot, erhält ein Upgrade"
-  },
-  {
     "title": "The Download: AI “coworkers” and stratospheric internet",
     "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
@@ -250,16 +370,6 @@
     "titleDE": "Bautechnik im geheimen Forschungs- und Entwicklungszentrum der Welt"
   },
   {
-    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-    "description": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-    "pubDate": "2026-06-30T09:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OKX vereint Zahlungen, Identität und Reputation in einem Marktplatz für KI-Agenten.",
-    "titleDE": "Die Kryptobörse OKX möchte, dass KI-Agenten sich gegenseitig einstellen und bezahlen"
-  },
-  {
     "title": "How ChatGPT adoption has expanded",
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
@@ -280,24 +390,14 @@
     "titleDE": "Eröffnen Sie Großbritanniens nächste Ära der Produktivität: Aufbau einer Nation von KI-Vorreitern"
   },
   {
-    "title": "The AI jobs debate just got messier",
-    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-    "pubDate": "2026-06-30T04:01:00.000Z",
-    "source": "TechCrunch",
+    "title": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "description": "",
+    "pubDate": "2026-06-30T00:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Ein neuer Bericht kommt zu dem Ergebnis, dass „KI-Anwender mit hoher Intensität“ einen Anstieg der Mitarbeiterzahl um 10,2 % verzeichneten. Bei diesen Unternehmen stieg die Zahl der Berufseinsteiger um 12 %, was der Behauptung widerspricht, dass KI Nachwuchskräfte vernichtet.",
-    "titleDE": "Die Debatte über KI-Jobs ist jetzt noch chaotischer geworden"
-  },
-  {
-    "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-    "description": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-    "pubDate": "2026-06-30T02:28:41.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die zu Wix gehörende Vibe-Coding-Plattform Base44 hat mit der Einführung eines eigenen KI-Modells begonnen – in der Hoffnung, dass es irgendwann die Spitzenmodelle übertreffen wird.",
-    "titleDE": "Die Vibe-Coding-Plattform Base44 führt ein eigenes Modell ein, während KI-Startups nach Vertretbarkeit streben"
+    "descriptionDE": "",
+    "titleDE": "In Genebench-Pro"
   },
   {
     "title": "Introducing GeneBench-Pro",
@@ -320,16 +420,6 @@
     "titleDE": "Core-Dump-Epidemiologie: Behebung eines 18 Jahre alten Fehlers"
   },
   {
-    "title": "Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "description": "",
-    "pubDate": "2026-06-30T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "",
-    "titleDE": "In Genebench-Pro"
-  },
-  {
     "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
     "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
     "description": "Operation by two Russia-state groups has been ongoing since at least March.",
@@ -338,16 +428,6 @@
     "category": "news",
     "descriptionDE": "Die Operation zweier russisch-staatlicher Gruppen läuft seit mindestens März.",
     "titleDE": "Die USA bieten 10 Millionen US-Dollar für Informationen über die Gruppe hinter Signal- und WhatsApp-Hackerangriffen"
-  },
-  {
-    "title": "Gemini’s personalized AI image generation is now free for US users",
-    "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-    "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-    "pubDate": "2026-06-29T20:12:59.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Google weitet die personalisierte KI-Bildgenerierung von Gemini auf berechtigte kostenlose Nutzer in den USA aus und ermöglicht es dem Chatbot, Bilder basierend auf Ihren Interessen und Daten aus verbundenen Google-Apps zu erstellen.",
-    "titleDE": "Die personalisierte KI-Bildgenerierung von Gemini ist jetzt für US-Benutzer kostenlos"
   },
   {
     "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
@@ -370,26 +450,6 @@
     "titleDE": "OpenAI kündigt neue Hardware an … für Codex"
   },
   {
-    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-    "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-    "pubDate": "2026-06-29T18:10:26.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Während Anthropic eine engere Beziehung zum Bundesstaat Kalifornien aufbaut, hat die Bundesregierung den OpenAI-Rivalen zum Feind gemacht.",
-    "titleDE": "Anthropic und Gouverneur Newsom schmieden einen Deal, der es der kalifornischen Regierung ermöglicht, Claude zum halben Preis zu nutzen"
-  },
-  {
-    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-    "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-    "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-    "pubDate": "2026-06-29T18:07:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die beiden größten Speicherchip-Unternehmen der Welt geloben den Bau weiterer Speicherlaborfabriken, während Südkorea sich als führendes Land der KI-Technologie positioniert.",
-    "titleDE": "Südkoreanische Technologiegiganten stellen über 550 Milliarden US-Dollar zur Linderung von „RAMageddon“ bereit"
-  },
-  {
     "title": "AI agents are not your “coworkers”",
     "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an…",
@@ -406,7 +466,7 @@
     "pubDate": "2026-06-29T16:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Ein neuer Vorschlag würde den Verkauf von Gesundheits- und Standortinformationen von Amerikanern an Datenbroker verbieten – einschließlich Informationen, die Menschen an einen KI-Chatbot wie ChatGPT oder Claude weitergeben. In den kommenden Wochen planen Senatorin Elizabeth Warren (D-MA) und die Abgeordnete Mary Gay Scanlon (D-PA) die Einführung einer neuen v...",
+    "descriptionDE": "Ein neuer Vorschlag würde den Verkauf von Gesundheits- und Standortinformationen der Amerikaner an Datenmakler verbieten – einschließlich Informationen, die Menschen an einen KI-Chatbot wie ChatGPT oder Claude weitergeben. In den kommenden Wochen planen Senatorin Elizabeth Warren (D-MA) und die Abgeordnete Mary Gay Scanlon (D-PA) die Einführung einer neuen v...",
     "titleDE": "Der Gesetzgeber möchte KI-Unternehmen den Verkauf Ihrer Gesundheitsdaten verbieten"
   },
   {
@@ -460,16 +520,6 @@
     "titleDE": "Chinas Z.ai behauptet, dass es in Sachen Cybersicherheit mit Mythos mithalten kann"
   },
   {
-    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-    "description": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.\nTo apply, artists need to be an unsigned singer, songwriter, or producer releasing music under their own name. They also need to agree to some terms and conditions that have raised some eyebrows over on the Suno subreddit. For one, you need to agree to make your songs available on Suno for remixing. That's not necessarily super concerning, but the broad license it grants Suno to your works …\nRead the full story at The Verge.",
-    "pubDate": "2026-06-28T20:27:36.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Suno hat den Ehrgeiz, mehr als nur ein Spielzeug zur Produktion von KI-Slop zu sein, es möchte auch ein Streaming-Ziel sein und neue Künstler bekannt machen. Spark ist ihr neues Inkubatorprogramm für unabhängige Künstler, das Zuschüsse, Mentoring und Marketingunterstützung bietet. Um sich zu bewerben, müssen Künstler ein unsignierter Sünder sein...",
-    "titleDE": "Suno startet das Spark-Inkubatorprogramm, um unabhängige Künstler an seine KI-Maschine heranzuführen"
-  },
-  {
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "link": "https://openai.com/index/hp-frontier-partnership",
     "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
@@ -478,16 +528,6 @@
     "category": "news",
     "descriptionDE": "HP Inc. skaliert seine OpenAI Frontier-Partnerschaft, um KI für Kundenerlebnisse, Softwareentwicklung und Unternehmensabläufe bereitzustellen.",
     "titleDE": "HP Inc. startet strategische Partnerschaft von Frontier mit OpenAI"
-  },
-  {
-    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-    "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
-    "pubDate": "2026-06-26T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Hitzewellen beeinträchtigen Ihr Gehirn. Wissenschaftler versuchen herauszufinden, warum. —Jessica Hamzelou Diese Woche war es heiß in London. Wirklich heiß. Eine gefährliche Hitzewelle h...",
-    "titleDE": "Der Download: hirnschmelzende Hitzewellen und beispiellose OpenAI-Einschränkungen"
   },
   {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -500,23 +540,13 @@
     "titleDE": "Vorschau auf GPT-5.6 Sol: ein Modell der nächsten Generation"
   },
   {
-    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-    "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-    "description": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
-    "pubDate": "2026-06-26T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Woche war es heiß in London. Wirklich heiß. Eine gefährliche Hitzewelle hat Westeuropa heimgesucht. Gestern verzeichnete Großbritannien mit 36,1 °C (ca. 97 °F) die höchste Juni-Temperatur aller Zeiten. Aber wie die Wetter-App auf meinem Handy bestätigte, waren es gefühlte 39 °C. Es ist erschreckend, dass wir solche Temperaturen sehen ...",
-    "titleDE": "Hitzewellen beeinträchtigen Ihr Gehirn. Wissenschaftler versuchen herauszufinden, warum."
-  },
-  {
     "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
     "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
     "description": "Notion is \"going all in on using agents to run your inbox.\"",
     "pubDate": "2026-06-25T19:04:57.000Z",
     "source": "Ars Technica",
     "category": "news",
-    "descriptionDE": "Die Idee besteht darin, „voll darauf zu setzen, Agenten für die Verwaltung Ihres Posteingangs einzusetzen“.",
+    "descriptionDE": "Die Idee besteht darin, „alles darauf zu setzen, Agenten zu nutzen, um Ihren Posteingang zu verwalten“.",
     "titleDE": "Denken Sie daran, die von Skiff beeinflusste E-Mail-App zu töten, da die meisten Benutzer stattdessen KI-Agenten verwenden"
   },
   {
@@ -528,25 +558,5 @@
     "category": "news",
     "descriptionDE": "Das neue Google Finance verlässt die Betaphase und bringt eine neue Android-App auf den Markt.",
     "titleDE": "Unsere neuesten Google Finance-Upgrades, einschließlich einer neuen App"
-  },
-  {
-    "title": "How agents are transforming work",
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "pubDate": "2026-06-25T02:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Ein neues OpenAI-Forschungspapier zeigt, wie KI-Agenten die Arbeit verändern, indem sie längere, komplexere Aufgaben ermöglichen und die Produktivität über alle Rollen hinweg steigern.",
-    "titleDE": "Wie Agenten die Arbeit verändern"
-  },
-  {
-    "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-    "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-    "description": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
-    "pubDate": "2026-06-24T21:03:34.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "„Operation Endgame“ bringt gleichzeitig zwei weit verbreitete Verbrechensinstrumente durcheinander.",
-    "titleDE": "Doppelschlag im weltweiten Einsatz stört das „Fließband“ der Cyberkriminalität"
   }
 ]
