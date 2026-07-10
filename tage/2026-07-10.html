@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Freitag, 10. Juli 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Freitag, 10. Juli 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/" target="_blank" rel="noopener">Samenspender brauchen Grenzen, sagt eine europäische Fruchtbarkeitsgruppe</a></h2><p class="news-description">Ties van der Meer weiß nicht, wie viele Geschwister er hat. Die 47-Jährige wurde in einer privaten Fruchtbarkeitsklinik in den Niederlanden mit dem Sperma eines anonymen Spenders gezeugt. Nachdem die Niederlande 2004 anonyme Spenden verboten hatten, vernichtete der Arzt, der die Klinik leitete, Unterlagen, die möglicherweise …</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">OpenAI</span></div><h2 class="news-title"><a href="https://openai.com/index/deutsche-telekom" target="_blank" rel="noopener">Wie die Telekom mit KI die Telekommunikation neu verkabelt</a></h2><p class="news-description">Wie die Deutsche Telekom mit OpenAI zu einem KI-nativen Telekommunikationsunternehmen wird, das den Kundenservice, die Arbeitsabläufe der Mitarbeiter, den Netzwerkbetrieb und die Zukunft der Sprache transformiert.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/" target="_blank" rel="noopener">Laut OpenAI ist GPT 5.6 das „bevorzugte Modell“ für Microsoft Copilot 365, inmitten von Trennungsgesprächen</a></h2><p class="news-description">Die neue Modellfamilie von OpenAI wird weiterhin die Grundlage für die Arbeitsplatz- und Produktivitäts-Apps von Microsoft bilden.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026" target="_blank" rel="noopener">Die CO2-Emissionen von Microsoft sind im vergangenen Jahr um 25 Prozent gestiegen</a></h2><p class="news-description">Laut seinem Nachhaltigkeitsbericht 2026 könnte Microsoft erneut Schwierigkeiten haben, mit seinen eigenen Klimazielen Schritt zu halten. Wie GeekWire berichtet, heißt es in dem Bericht, dass die CO2-Emissionen von Microsoft im Jahr 2025 um 25 Prozent gestiegen sind und sich „ohne ausgewählte Eingriffe“ auf insgesamt 34 Millionen Tonnen belaufen. Mikro...</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
