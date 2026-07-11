@@ -1,5 +1,105 @@
 [
   {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "pubDate": "2026-07-10T23:55:07.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Unsere Absicht war es, ein nützliches kreatives Werkzeug bereitzustellen und den Menschen die Kontrolle darüber zu geben, ob auf ihre öffentlichen Inhalte auf diese Weise verwiesen werden kann“, sagte das Unternehmen in einem Blogbeitrag. „Wir haben das Feedback gehört, dass diese Funktion ihren Zweck verfehlt hat und daher nicht mehr verfügbar ist.“",
+    "titleDE": "Meta entfernt umstrittene KI-Funktion auf Instagram nach Gegenreaktion"
+  },
+  {
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "description": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference,\" Meta says in an update to a blog post about its new Muse Image AI model. \"Our intent was to provide a useful creative tool and to give pe …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-10T23:49:50.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nach erheblicher Gegenreaktion deaktiviert Meta die diese Woche angekündigte Funktion, mit der Benutzer KI-Bilder basierend auf Inhalten öffentlicher Instagram-Konten erstellen können, indem sie diese einfach mit Tags versehen. Die ursprünglich eingerichtete Funktion bedeutete, dass Inhalte von jedem öffentlichen Instagram-Konto in KI-Covern verwendet werden konnten.",
+    "titleDE": "Meta deaktiviert die Instagram-Funktion, mit der Benutzer KI-Deepfakes von öffentlichen Konten erstellen können"
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "description": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, which OpenAI bought in 2025 - along with two specific employees, Tang Tan (OpenAI's chief hardware officer) and Chang Liu (who joined OpenAI from Apple in January).\nAn Apple spokesperson shared this statement with 9to5Mac:\nAt Apple, our teams are constantly developing breakthrough technologies to create the b …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-07-10T21:36:51.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Apple hat OpenAI verklagt und behauptet, Ingenieure hätten Apple-Geheimnisse gestohlen, um die Hardwarepläne des KI-Startups voranzutreiben. In seiner Beschwerde sagt Apple, es habe „ein Muster des Diebstahls von Apples Geschäftsgeheimnissen durch OpenAI-Mitarbeiter aufgedeckt, die früher bei Apple beschäftigt waren“. Neben OpenAI nennt die Klage auch IO Prod...",
+    "titleDE": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Hardware-Geheimnissen"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+    "pubDate": "2026-07-10T21:00:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apple behauptet, dass das Fehlverhalten von der Führungsspitze von OpenAI, darunter einem langjährigen ehemaligen Mitarbeiter, verursacht wurde.",
+    "titleDE": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen"
+  },
+  {
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+    "pubDate": "2026-07-10T19:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Clem Delangue, CEO von Hugging Face, boomt Open-Source-KI. Das Unternehmen hat sich in den letzten Jahren zu so etwas wie einem GitHub für KI entwickelt, auf dem KI-Entwickler offene Modelle und Datensätze teilen und herunterladen können, die inzwischen von etwa der Hälfte der Fortune 500-Unternehmen verwendet werden. Delangue hat die gleiche Geschichte erlebt ...",
+    "titleDE": "Laut Clem Delangue von Hugging Face ist Open-Source-KI wichtiger denn je"
+  },
+  {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "pubDate": "2026-07-10T17:17:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der KI-Chip-Boom hat gerade seinen bisher größten Moment an der Wall Street hervorgebracht. Jetzt werden SK Hynix und Samsung gebeten, US-Fabriken zu bauen.",
+    "titleDE": "SK Hynix sammelt 26,5 Milliarden US-Dollar beim größten Auslands-Börsengang in der Geschichte der USA und wird zum Bau neuer US-Fabriken aufgefordert"
+  },
+  {
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "description": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+    "pubDate": "2026-07-10T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Clem Delangue, CEO von Hugging Face, boomt Open-Source-KI. Das Unternehmen hat sich in den letzten Jahren zu so etwas wie einem GitHub für KI entwickelt, auf dem KI-Entwickler offene Modelle und Datensätze teilen und herunterladen können, die inzwischen von etwa der Hälfte der Fortune 500-Unternehmen verwendet werden. Delangue hat die gleiche Geschichte erlebt ...",
+    "titleDE": "Hugging Faces CEO erklärt, warum Unternehmen damit aufhören, ihre KI zu mieten"
+  },
+  {
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "description": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know if content is AI content or not.\"\nAt the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely. In fact, he believes people who love AI content \"should be able to have a feed that's just AI town.\" Instagram, like many other platforms, including TikTok, YouTube, and Fac …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-10T13:45:02.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Obwohl Instagram-Chef Adam Mosseri KI-Inhalte auf der Plattform nicht herausfiltern möchte, argumentiert er, dass man sie „nicht in seinem Feed haben sollte“, wenn sie einem nicht gefallen. „Ich glaube nicht, dass wir KI-Inhalte herausfiltern sollten“, sagte Mosseri während eines Interviews im Podcast von Lenny Rachitsky. „Ich denke, wir sollten dich...",
+    "titleDE": "Adam Mosseri von Instagram: Wenn Sie KI nicht mögen, „dann sollten Sie sie nicht in Ihrem Feed haben“."
+  },
+  {
+    "title": "Would you host part of an AI data center in your home?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "description": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.\" Customers will be \"compensated\" for participating in the pilot program. \nSunrun plans to sell the distributed compute power from the nodes to \"enterprise compute buyers,\" like AI companies. It's a new approach to finding resources and space for AI compute infrastructure, as da …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-10T13:20:25.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein Unternehmen für Solar- und Heimenergiespeicher expandiert in KI-Rechenzentren, aber nicht durch den Bau eines solchen, sondern bietet seinen Kunden stattdessen an, dafür zu zahlen, dass sie ihre Recheneinheiten in ihren Häusern unterbringen. Sunrun startet ein Pilotprogramm für ein neues „Distributed AI Computing“-Programm, das „zahlreiche Computing-N...",
+    "titleDE": "Würden Sie einen Teil eines KI-Rechenzentrums in Ihrem Zuhause hosten?"
+  },
+  {
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+    "pubDate": "2026-07-10T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Anthropic hat einen versteckten Raum gefunden, in dem Claude über Konzepte rätselt. Die KI-Firma Anthropic hat den bislang klarsten Einblick in das, was wirklich in großen Laien vor sich geht...",
+    "titleDE": "Der Download: Claudes Innenleben und OpenAIs „Super-App“"
+  },
+  {
     "title": "Sperm donors need limits, says a European fertility group",
     "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
     "description": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have identified those donors, he says. He…",
@@ -40,14 +140,14 @@
     "titleDE": "Die CO2-Emissionen von Microsoft sind im vergangenen Jahr um 25 Prozent gestiegen"
   },
   {
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
     "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
     "pubDate": "2026-07-09T23:38:00.000Z",
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Die zweitgrößte Führungskraft von OpenAI, Fidji Simo, tritt von ihrer Vollzeitstelle zurück, nachdem sich ihr krankheitsbedingter Urlaub als länger als erwartet erwiesen hat – ein Führungsvakuum, das zu einem schwierigen Zeitpunkt entsteht, da das Unternehmen einen möglichen Börsengang im Auge hat und darum kämpft, Anthropic auf dem Unternehmensmarkt einzuholen.",
-    "titleDE": "Fidji Simo tritt von OpenAIs Nr. zurück. 2 Rolle"
+    "titleDE": "Fidji Simo tritt von OpenAIs Nr. 2-Rolle zurück"
   },
   {
     "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
@@ -216,7 +316,7 @@
     "pubDate": "2026-07-09T17:56:47.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Mit Muse Image können Benutzer KI-Bilder mithilfe von Fotos von öffentlichen Instagram-Konten erstellen. Solange das Profil einer Person öffentlich ist, kann ein anderer Benutzer dieses Konto markieren und seine Bilder als Teil einer KI-generierten Kreation verwenden.",
+    "descriptionDE": "Mit Muse Image können Benutzer KI-Bilder aus Fotos von öffentlichen Instagram-Konten erstellen. Solange das Profil einer Person öffentlich ist, kann ein anderer Benutzer dieses Konto markieren und seine Bilder als Teil einer KI-generierten Kreation verwenden.",
     "titleDE": "Instagram-Nutzer: So verhindern Sie, dass die KI von Meta Ihre Fotos verwendet"
   },
   {
@@ -260,86 +360,6 @@
     "titleDE": "OpenAI führt GPT-5.6 ein, nachdem die Regierung grünes Licht gegeben hat – und kündigt „ChatGPT Work“ an"
   },
   {
-    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-    "description": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-    "pubDate": "2026-07-09T14:53:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Claudes neues Reflect-Dashboard visualisiert nicht nur, wie Sie KI nutzen. Es macht auch auf subtile Weise deutlich, wie viel Ihrer täglichen Arbeit jetzt vom Chatbot von Anthropic abhängt.",
-    "titleDE": "Die neue Claude-Funktion von Anthropic verkauft Ihnen still und leise die KI"
-  },
-  {
-    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-    "description": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-    "pubDate": "2026-07-09T14:51:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Drei große KI-Börsengänge werden voraussichtlich mehr Wert generieren als alle von US-amerikanischen VCs unterstützten Exits seit 2000.",
-    "titleDE": "Anthropic, OpenAI und SpaceX sind größer als die Tech-Exits der letzten 25 Jahre"
-  },
-  {
-    "title": "Meta says its new AI model is ready to compete on coding",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-    "description": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API.\nMeta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements based on feedback from developers. The company says it's capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a range of apps, including multi-agent systems; and has native multimodal perception across images, videos, and documents.\nThe Muse Spark 1.1 launch fol …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-09T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nachdem Meta im April mit seinem ersten hauseigenen Muse-Spark-Modell wieder in den KI-Wettbewerb eingestiegen ist, öffnet es nun die Türen für Entwickler mit einem neuen Modell, das mit der neuen Meta-Modell-API in KI-Codierungssoftware integriert werden kann. Meta sagt, dass Muse Spark 1.1 ein „Schrittwechsel“ gegenüber der ersten Generation ist, mit Verbesserungen...",
-    "titleDE": "Meta sagt, dass sein neues KI-Modell bereit ist, im Codierungswettbewerb zu konkurrieren"
-  },
-  {
-    "title": "Say hello to Claude Wrapped",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-    "description": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, three months, six months, or year. \nAnthropic bills the reflection dashboard as a way to \"see your patterns and shape them,\" the company wrote in a blog post. It begins with a summary of an individual's key topics brought up with Claude, as well as types of tasks they delegate and their usage patterns, including peak usage times.  …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-09T13:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Beliebtheit von Spotify Wrapped hat eine breite Palette an Jahresrückblick-Funktionen in Apps von YouTube bis Uber hervorgebracht – und jetzt ist der Lookback-Trend zur KI gekommen. Anthropic kündigte am Donnerstag eine „Reflect“-Funktion für seinen Claude-Chatbot an, die es Benutzern ermöglicht, eine Analyse ihrer Nutzungsdaten über ... anzuzeigen.",
-    "titleDE": "Sag Hallo zu Claude Wrapped"
-  },
-  {
-    "title": "Character.AI wants a piece of the microdrama pie",
-    "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-    "description": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with on your phone. \nUnlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting into the microdrama space isn't surprising considering that it's projected to become a $26 billion industry in the next few years. And even though s …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-09T13:11:53.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Plan von Character.AI, mehr als nur eine LLM-basierte Chatbot-Plattform zu werden, geht über interaktive Bücher, Comics und Hörspiele hinaus. Heute gab das Unternehmen das Debüt der c.ai-Serie bekannt – kurze, episodische Videos, die darauf ausgelegt sind, auf Ihrem Telefon angesehen und mit ihnen interagiert zu werden. Im Gegensatz zu herkömmlichen...",
-    "titleDE": "Character.AI will ein Stück vom Mikrodrama-Kuchen"
-  },
-  {
-    "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-    "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-    "description": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line\t\n\nLast year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can actually execute actions on your behalf. I was able to ask Gopher to lay down a four-on-the-floor kick, with snares on the backbeat, then add a gated reverb on the snare for that '80s pomp, and it executed the instructions flawlessly. \nGopher does have some limitations. It can't create and draw automation for you. It can't insert notes or …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-09T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Gopher kann nicht für Sie Klavier spielen, aber er kann es in der Mischung vergraben. | Bild: Image Line Letztes Jahr stellte Image Line Gopher für FL Studio vor, einen KI-Chatbot, der im Grunde eine verklärte Bedienungsanleitung war. Sie fragten es, wie etwas zu tun sei, und es würde die entsprechenden Anweisungen bereitstellen. Es ist das...",
-    "titleDE": "FL Studio 2026 verwandelt seinen KI-Chatbot in Ihren Assistenzingenieur"
-  },
-  {
-    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-    "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-    "description": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-    "pubDate": "2026-07-09T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das vom Benchmark unterstützte Ollama hat 176.000 Sterne und fast 17.000 Forks auf GitHub gesammelt, indem es Entwicklern dabei hilft, KI einfach auf ihren PCs auszuführen.",
-    "titleDE": "Das beliebte Open-Source-KI-Entwicklertool Ollama bringt 65 Millionen US-Dollar ein und wächst auf fast 9 Millionen Benutzer"
-  },
-  {
-    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-    "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-    "pubDate": "2026-07-09T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In einer interessanten Variante, die sich das Kernprodukt des Unternehmens zunutze macht, können Benutzer mit den Charakteren dieser Serien chatten, ihnen Fragen stellen und sogar verschiedene Handlungsstränge im Rollenspiel spielen.",
-    "titleDE": "Character.AI betritt die Mikrodrama-Arena mit eigenen Produktionen, aber es gibt eine Wendung"
-  },
-  {
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
@@ -358,16 +378,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Vier Kernreaktoren haben in den USA einen großen Meilenstein erreicht – Casey Crownhart Ich habe mich wirklich auf den 4. Juli gefreut, und das nicht nur, weil ich ein Barbecue am Pool liebe. Das...",
     "titleDE": "Der Download: ein nuklearer Meilenstein, und China blickt auf Nvidia-Chips"
-  },
-  {
-    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-    "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-    "description": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-    "pubDate": "2026-07-09T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nilekani bleibt Fundamentums Hauptinvestor, da das Unternehmen sein Führungsteam erweitert und auf KI- und Fintech-Startups in Indien abzielt.",
-    "titleDE": "Nandan Nilekani verlässt die GP-Position bei Fundamentum, da das Unternehmen einen dritten Fonds im Wert von 200 Millionen US-Dollar auflegt"
   },
   {
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -476,7 +486,7 @@
     "pubDate": "2026-07-08T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Warum Würmer (und Mikroben) sich als Lösung für die Gülleverschmutzung durchsetzen Anthony Agueda, ein kalifornischer Milchbauer in dritter Generation, zieht einen Rechen durch ein Bett aus …",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Warum Würmer (und Mikroben) sich als Lösung für die Gülleverschmutzung durchsetzen Anthony Agueda, ein kalifornischer Milchbauer in dritter Generation, zieht einen Rechen durch ein Bett aus ...",
     "titleDE": "Der Download: Würmer bekämpfen die Umweltverschmutzung und Geoengineering steht vor der Realität"
   },
   {
@@ -547,7 +557,7 @@
     "source": "Google AI",
     "category": "news",
     "descriptionDE": "Wir kündigen neue Funktionen für verwaltete Agenten in der Gemini-API an, damit Entwickler zuverlässige, produktionsbereite Agenten erstellen können.",
-    "titleDE": "Erweiterung verwalteter Agenten in der Gemini-API: Hintergrundaufgaben, Remote-MCP und mehr"
+    "titleDE": "Erweitern verwalteter Agenten in der Gemini-API: Hintergrundaufgaben, Remote-MCP und mehr"
   },
   {
     "title": "MUFG aims to become AI-native with OpenAI",
@@ -566,17 +576,7 @@
     "pubDate": "2026-07-07T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Australian Payments Plus ChatGPT Enterprise und Codex nutzt, um die Zahlungskomplexität schneller zu bewältigen. AP+ spart Zeit, verbessert die Qualität und stellt das menschliche Urteilsvermögen in den Mittelpunkt.",
+    "descriptionDE": "Erfahren Sie, wie Australian Payments Plus ChatGPT Enterprise und Codex nutzt, um die Komplexität von Zahlungen schneller zu bewältigen. AP+ spart Zeit, verbessert die Qualität und stellt das menschliche Urteilsvermögen in den Mittelpunkt.",
     "titleDE": "Australian Payments Plus geht mit ChatGPT und Codex schneller voran"
-  },
-  {
-    "title": "Your family’s $300 stake in OpenAI",
-    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
-    "pubDate": "2026-07-06T18:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Das oft diskutierte Versprechen von OpenAI-CEO Sam Altman, dass die Amerikaner am Wohlstand teilhaben werden, den KI schafft, war letzte Woche erneut in den Nachrichten. Am Donnerstag veröffentlichte die Financial Times...",
-    "titleDE": "Der 300-Dollar-Anteil Ihrer Familie an OpenAI"
   }
 ]
