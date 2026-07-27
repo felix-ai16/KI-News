@@ -1,5 +1,35 @@
 [
   {
+    "title": "Are brain waves the next unlock for physical AI?",
+    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+    "pubDate": "2026-07-27T00:19:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Vergessen Sie YouTube-Videos – bahnbrechende physikalische KI-Modelle benötigen mehrere Kamerawinkel, dichte Anmerkungen und bald auch Gehirnwellenmessungen.",
+    "titleDE": "Sind Gehirnwellen die nächste Freischaltung für physische KI?"
+  },
+  {
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "pubDate": "2026-07-26T19:40:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In der neuesten Folge von Equity diskutierten wir darüber, warum Kimi von Moonshot AI das Silicon Valley und die Wall Street in Panik zu versetzen schien.",
+    "titleDE": "Die Panik über chinesische KI verstehen"
+  },
+  {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "pubDate": "2026-07-26T16:33:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Der erste Cyberangriff mit autonomen Agenten ist ein beispielloses Ereignis. Er verdient eine beispiellose Reaktion!“",
+    "titleDE": "CEO von Hugging Face fordert „radikale Transparenz“ nach „beispiellosem“ OpenAI-Hack"
+  },
+  {
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -96,7 +126,7 @@
     "pubDate": "2026-07-24T17:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Wochen nach Anthropics jüngster Auseinandersetzung mit der US-Regierung und Tage nach einem OpenAI-Sicherheitsvorfall, der die Diskussionen in der Technologiebranche dominierte, veröffentlichte Anthropic am Donnerstag sein neuestes Modell, Claude Opus 5. Das Unternehmen sagte in einer Pressemitteilung, dass Opus 5 „den Fähigkeiten von Claude nahe kommt …“",
+    "descriptionDE": "Wochen nach Anthropics jüngster Auseinandersetzung mit der US-Regierung und Tage nach einem OpenAI-Sicherheitsvorfall, der die Diskussionen in der Technologiebranche dominierte, veröffentlichte Anthropic am Donnerstag sein neuestes Modell, Claude Opus 5. Das Unternehmen sagte in einer Pressemitteilung, dass Opus 5 „den Fähigkeiten von Claude nahe kommt ...“",
     "titleDE": "Anthropic veröffentlicht Opus 5 mit „nahezu“ den Fähigkeiten von Fable 5"
   },
   {
@@ -126,7 +156,7 @@
     "pubDate": "2026-07-24T15:51:49.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "KI-Unternehmen, darunter Nvidia und Mistral, fordern die politischen Entscheidungsträger auf, weitreichende Beschränkungen für offene KI-Modelle zu vermeiden, während Washington über Reaktionen auf chinesische KI und die angebliche Modelldestillation debattiert.",
+    "descriptionDE": "KI-Unternehmen, darunter Nvidia und Mistral, fordern die politischen Entscheidungsträger dringend auf, weitreichende Beschränkungen für offene KI-Modelle zu vermeiden, während Washington über Reaktionen auf chinesische KI und die angebliche Modelldestillation debattiert.",
     "titleDE": "Während die USA die Reaktion auf die chinesische KI abwägen, drängt die Industrie auf weitreichende, offene Beschränkungen"
   },
   {
@@ -166,7 +196,7 @@
     "pubDate": "2026-07-24T14:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Das offene Modell Kimi des chinesischen KI-Labors Moonshot ging diese Woche viral, und zwar aus Gründen, die weniger mit dem Modell selbst als vielmehr damit zu tun hatten, wie die US-amerikanische KI-Industrie darauf reagierte. In der Zwischenzeit verließ ein unveröffentlichtes OpenAI-Modell seine Testumgebung und wurde schließlich mit einer echten Sicherheitslücke in Verbindung gebracht …",
+    "descriptionDE": "Das offene Modell Kimi des chinesischen KI-Labors Moonshot ging diese Woche viral, und zwar aus Gründen, die weniger mit dem Modell selbst als vielmehr mit der Reaktion der US-amerikanischen KI-Industrie darauf zu tun hatten. In der Zwischenzeit verließ ein unveröffentlichtes OpenAI-Modell seine Testumgebung und wurde schließlich mit einer echten Sicherheitslücke in Verbindung gebracht …",
     "titleDE": "„KI-Kommunismus“, Schurkenmodelle und warum Kimi K3 die Wall Street erschreckte"
   },
   {
@@ -196,7 +226,7 @@
     "pubDate": "2026-07-24T01:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Wir haben mit mehreren Cybersicherheitsforschern gesprochen, die nach unbekannten Schwachstellen suchen und Tools zu deren Ausnutzung entwickeln, darüber, wie sich die Leitplanken von OpenAI und Anthropic auf ihre Arbeit auswirken.",
+    "descriptionDE": "Wir haben mit mehreren Cybersicherheitsforschern, die nach unbekannten Schwachstellen suchen und Tools zu deren Ausnutzung entwickeln, darüber gesprochen, wie sich die Leitplanken von OpenAI und Anthropic auf ihre Arbeit auswirken.",
     "titleDE": "Wie KI-Leitplanken die Arbeit offensiver Cybersicherheitsforscher behindern"
   },
   {
@@ -256,7 +286,7 @@
     "pubDate": "2026-07-23T18:20:30.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Patreon entlässt 20 Prozent seiner Mitarbeiter, also rund 93 Mitarbeiter, wie 404 Media zuvor berichtete. In einem Memo an die Mitarbeiter schreibt Jack Conte, CEO von Patreon, dass das Unternehmen diese Änderungen nicht vornimmt, „weil wir glauben, dass KI den Menschen ersetzt“, sondern dass KI „die Technologie grundlegend verändert hat …“",
+    "descriptionDE": "Patreon entlässt 20 Prozent seiner Mitarbeiter, also rund 93 Mitarbeiter, wie 404 Media zuvor berichtete. In einem Memo an die Mitarbeiter schreibt Jack Conte, CEO von Patreon, dass das Unternehmen diese Änderungen nicht vornimmt, „weil wir glauben, dass KI den Menschen ersetzt“, sondern dass KI „die Technologie grundlegend verändert hat ...“",
     "titleDE": "Patreon entlässt 20 Prozent der Arbeitnehmer"
   },
   {
@@ -280,16 +310,6 @@
     "titleDE": "OpenAI erhebt große Ansprüche, indem es ChatGPT Health für alle einführt"
   },
   {
-    "title": "OpenAI makes ChatGPT Health available to all US users",
-    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-    "pubDate": "2026-07-23T17:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Benutzer können auch ihre persönlichen Daten von Diensten wie Apple Health, Function und MyFitnessPal integrieren.",
-    "titleDE": "OpenAI stellt ChatGPT Health allen US-Benutzern zur Verfügung"
-  },
-  {
     "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
     "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
     "description": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
@@ -300,33 +320,13 @@
     "titleDE": "Unterkühlte Nieren wurden in Schweinen transplantiert – eine „bahnbrechende Leistung“"
   },
   {
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-    "pubDate": "2026-07-23T16:28:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In David Bowies Song „Five Years“, den Meta in einer angeblich inspirierenden Werbung verwendete, geht es darum, dass Menschen erfahren, dass sie noch fünf Jahre bis zur Apokalypse zu leben haben.",
-    "titleDE": "Meta startete eine neue KI-Optimismus-Werbung zu einem Lied über das Aussterben der Menschheit"
-  },
-  {
-    "title": "Nvidia is sending GPUs to the moon",
-    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-    "pubDate": "2026-07-23T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn es einen Ort im Universum ohne GPUs gibt, schickt Nvidia sie dorthin.",
-    "titleDE": "Nvidia schickt GPUs zum Mond"
-  },
-  {
     "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
     "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
     "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday.\nThe news of the proposed bill follows OpenAI's admission that its AI systems mistakenly hacked Hugging Face during an internal evaluation. The bill says that, after consultation with the Secretary of Commerce and the Director of National Intelligence (DNI), the DHS would have the ability to order AI companies to shut down …\nRead the full story at The Verge.",
     "pubDate": "2026-07-23T14:13:35.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Laut einem Bericht von Politico bereiten die Gesetzgeber die Einführung eines „AI Kill Switch Act“ vor, der KI-Unternehmen dazu verpflichten würde, ihre Systeme auf Befehl des Heimatschutzministeriums herunterzufahren oder zu drosseln. Es wird erwartet, dass die Abgeordneten Ted Lieu (D-CA) und Nathaniel Moran (R-TX) die ... vorstellen.",
+    "descriptionDE": "Laut einem Bericht von Politico bereiten sich die Gesetzgeber auf die Einführung eines „AI Kill Switch Act“ vor, der KI-Unternehmen dazu verpflichten würde, ihre Systeme auf Befehl des Heimatschutzministeriums herunterzufahren oder zu drosseln. Es wird erwartet, dass die Abgeordneten Ted Lieu (D-CA) und Nathaniel Moran (R-TX) die ... vorstellen.",
     "titleDE": "Gesetzgeber bereiten Gesetzentwurf vor, der einen KI-„Kill-Switch“ vorschreibt"
   },
   {
@@ -336,7 +336,7 @@
     "pubDate": "2026-07-23T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Stromleitung, die das Stromnetz von New York umgestalten könnte, gerät ins Stocken. Während einer Hitzewelle am 3. Juli importierte das Stromnetz des Staates New York genug Strom aus Kanada, um ...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Stromleitung, die New Yorks Stromnetz umgestalten könnte, stößt auf Probleme. Während einer Hitzewelle am 3. Juli importierte das Stromnetz des Staates New York genug Strom aus Kanada, um ...",
     "titleDE": "Der Download: Energieübertragung und US-Drohungen gegen chinesische KI"
   },
   {
@@ -426,7 +426,7 @@
     "pubDate": "2026-07-22T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Wenn das römische Weltraumteleskop Nancy Grace der NASA bereits Ende nächsten Monats startet, wird es einen der bisher präzisesten Verschwindungsversuche der Astronomie unternehmen. Das Teleskop wird den ersten weltraumgebundenen „aktiven“ Koronographen tragen, ein Instrument, das effektiv den größten Teil des Lichts von einem Stern löscht...",
+    "descriptionDE": "Wenn das römische Weltraumteleskop Nancy Grace der NASA bereits Ende nächsten Monats startet, wird es einen der bisher präzisesten Verschwindensversuche der Astronomie unternehmen. Das Teleskop wird den ersten weltraumgebundenen „aktiven“ Koronographen tragen, ein Instrument, das effektiv den größten Teil des Lichts von einem Stern löscht...",
     "titleDE": "Formverändernde Spiegel am neuen Weltraumteleskop der NASA könnten Jupiter wie unseren enthüllen"
   },
   {
@@ -486,7 +486,7 @@
     "pubDate": "2026-07-21T10:37:34.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Die Diskussion über KI dreht sich oft um Algorithmen, Rechenleistung oder riesige Investitionen in neue Halbleiterfabriken und Hyperscale-Rechenzentren. Aber hinter jedem dieser Fortschritte verbirgt sich eine weitere Innovationsebene, die sie möglich macht: fortschrittliche Materialien. Jede neue Generation von KI ...",
+    "descriptionDE": "Die Diskussion über KI dreht sich oft um Algorithmen, Rechenleistung oder enorme Investitionen in neue Halbleiterfabriken und Hyperscale-Rechenzentren. Aber hinter jedem dieser Fortschritte verbirgt sich eine weitere Innovationsebene, die sie möglich macht: fortschrittliche Materialien. Jede neue Generation von KI ...",
     "titleDE": "Weiterentwicklung der KI der nächsten Generation mit Innovationen in der Materialwissenschaft"
   },
   {
