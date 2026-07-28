@@ -1,8 +1,228 @@
 [
   {
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "pubDate": "2026-07-28T04:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Cursor ist Indien mittlerweile der drittgrößte Markt weltweit und plant, die Einstellungs- und Unternehmensverkäufe vor Ort auszuweiten.",
+    "titleDE": "Mit lokalisierten Preisen unternimmt Cursor vor der SpaceX-Übernahme seinen bisher größten Indien-Vorstoß"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "pubDate": "2026-07-28T00:13:33.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic-Gründer und CEO Dario Amodei machte seine Ansichten zu Open-Weight-Modellen und Chinas wachsenden KI-Fähigkeiten deutlich.",
+    "titleDE": "Dario Amodei von Anthropic antwortet: Er ist nicht gegen Open-Weight-Modelle, hat aber Angst vor chinesischer KI"
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "pubDate": "2026-07-27T21:56:14.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Microsoft sagt, dass Tools weniger kosten als konkurrierende Tools und diese auch übertreffen.",
+    "titleDE": "Microsoft stellt KI-Sicherheitstools vor, von denen es sagt, dass sie konkurrierende Plattformen übertreffen"
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "pubDate": "2026-07-27T21:17:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Unternehmen ohne eigene Modelle – oder ohne eine Ebene der KI-Infrastruktur, sogenannte KI-Gateways, um ihre Eingabeaufforderungen vom Modell selbst zu trennen – werden in Schwierigkeiten geraten, sagt Nadella.",
+    "titleDE": "Satya Nadella sagt, dass Unternehmen, die einer KI für alles vertrauen, möglicherweise nicht überleben werden"
+  },
+  {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "pubDate": "2026-07-27T20:19:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Problem scheint auf Claudes Funktion „Chat teilen“ zurückzuführen zu sein, mit der Benutzer Links erstellen können, die es jedem mit der zugewiesenen URL ermöglichen, eine Konversation oder ein Projekt anzuzeigen.",
+    "titleDE": "PSA: Ihre von Claude geteilten Chats und Artefakte sind möglicherweise bei Google gelandet"
+  },
+  {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "pubDate": "2026-07-27T18:32:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Microsoft hat diese Woche seine KI-Cybersicherheitsangebote mit der Einführung seines ersten KI-Sicherheitsmodells und einer neuen Sicherheitsplattform gestärkt.",
+    "titleDE": "Microsoft bringt sein erstes Cybersicherheitsmodell sowie ein neues Agenten-Cybersicherheitssystem auf den Markt"
+  },
+  {
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
+    "pubDate": "2026-07-27T18:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Als ich letzte Woche den Bericht von OpenAI darüber las, wie einige seiner Modelle ihre Eindämmung durchbrachen und sich in die Computersysteme von Hugging Face, einem anderen KI-Unternehmen, hackten, war...",
+    "titleDE": "OpenAI bezeichnete den Hugging-Face-Angriff als beispiellos. Aber wir waren schon einmal hier."
+  },
+  {
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "pubDate": "2026-07-27T17:28:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Hugging Face-Verstoß von OpenAI hat die Debatte über die Ausrichtung und Kontrolle der KI neu entfacht und widersprüchliche Ansichten darüber offengelegt, ob die immer leistungsfähigere KI besser ausgerichtet, besser eingedämmt oder beides sein sollte.",
+    "titleDE": "Der Hugging Face-Verstoß von OpenAI hat die Debatte über Ausrichtung und Kontrolle neu entfacht"
+  },
+  {
+    "title": "Why China is giving away its best AI models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\t\n\nSilicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. \nIts performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and its clear targeting of US users - has fueled deeper unease about whether closed American models can continue to dominate as increasingly capable open alternatives enter the market. \nOpen-weight models give developers far greater control than proprietary syst …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-27T16:51:50.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Besucher besuchen den Stand von Kimi, einem LLM, das vom chinesischen Startup Moonshot entwickelt wurde, während der World AI Conference in Shanghai, China, am 20. Juli. | Bild: LONG WEI/ Feature China/Future Publishing über Getty Images Das Silicon Valley hat einen Großteil der vergangenen Woche in Alarmbereitschaft verbracht und die Ankunft von Mo...",
+    "titleDE": "Warum China seine besten KI-Modelle verschenkt"
+  },
+  {
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "pubDate": "2026-07-27T16:45:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta gab am Montag bekannt, dass es seinen Meta-KI-Chatbot in den DMs von Threads einführt, um Benutzern die Möglichkeit zu geben, mit dem KI-Assistenten zu chatten.",
+    "titleDE": "Threads-Benutzer können jetzt in ihren DMs mit Meta AI chatten"
+  },
+  {
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+    "pubDate": "2026-07-27T15:57:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die KI-Übersichten von Google erscheinen mittlerweile in 43 % der Suchanfragen und unterstreichen, wie schnell KI-generierte Antworten zur Standardmethode für die Online-Suche nach Informationen werden.",
+    "titleDE": "Neue Daten zeigen, dass die KI-Suche von Google schnell zum Standard wird"
+  },
+  {
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 ",
+    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "pubDate": "2026-07-27T15:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Bei TechCrunch Disrupt 2026 wird die Smart Systems Stage der Ort sein, an dem Energie, Infrastruktur und Technologie aufeinandertreffen und alles von Fusionsdurchbrüchen bis hin zur Netzbelastung, die KI für die gesamte Wirtschaft darstellt, abgedeckt wird.",
+    "titleDE": "Stärken Sie Ihre KI-Infrastruktur! Ein erster Blick auf die Agenda der Smart Systems Stage bei TechCrunch Disrupt 2026"
+  },
+  {
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+    "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "pubDate": "2026-07-27T15:25:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Für diesen 9-Dollar-NFC-Schlüssel müssen Sie ihn physisch scannen, um störende Apps auf Ihrem Telefon freizuschalten.",
+    "titleDE": "Dieser 9-Dollar-Schlüssel sperrt Ihre süchtig machenden Apps physisch"
+  },
+  {
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+    "pubDate": "2026-07-27T15:01:50.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nach zwei Jahren im Verborgenen hat Safe Superintelligence eine langfristige Partnerschaft mit Nvidia angekündigt und bereitet sich auf die nächste Phase vor.",
+    "titleDE": "Ilya Sutskevers Safe Superintelligence arbeitet mit Nvidia zusammen, um seine KI-Forschung auszuweiten"
+  },
+  {
+    "title": "How lasers could help provide fuel for nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+    "description": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
+    "pubDate": "2026-07-27T14:24:42.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Außerhalb der Kleinstadt Paducah in Kentucky ist eine Fülle von Uran in Tausenden von Lagerzylindern eingeschlossen, die mit Abfallmaterial aus einer inzwischen geschlossenen nuklearen Anreicherungsanlage gefüllt sind. Laser könnten helfen, es herauszuholen. Ein Unternehmen namens Global Laser Enrichment (GLE) möchte dieses alte Material wiederaufbereiten ...",
+    "titleDE": "Wie Laser dabei helfen könnten, Kernreaktoren mit Treibstoff zu versorgen"
+  },
+  {
+    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "pubDate": "2026-07-27T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die massive Seed-Runde wurde von Index Ventures und Ribbit Capital angeführt, unter Beteiligung von Sarah Guos Conviction Partners.",
+    "titleDE": "Enigma sammelt 71 Millionen US-Dollar, um die Steuerung eines Roboters so einfach zu machen wie das Einstellen der Lautstärke"
+  },
+  {
+    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+    "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors  Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…",
+    "pubDate": "2026-07-27T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie Laser dabei helfen könnten, Brennstoff für Kernreaktoren bereitzustellen. Kernenergie liefert heute etwa 9 % des weltweiten Stroms, und dieser Anteil könnte steigen, wenn Länder ...",
+    "titleDE": "Der Download: Laser für Kernbrennstoffe und Fortschritte bei der Organkonservierung"
+  },
+  {
+    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting the usefulness of top US models.\nFounding memb …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-27T12:06:22.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nvidia gab am Montag bekannt, dass es sich mit Microsoft, SpaceX, IBM und anderen Technologieunternehmen zusammenschließt, um Open-Source-KI-Sicherheitstools zu entwickeln und zu teilen. Die neue Open Secure AI Alliance sagte, dass offene Tools erforderlich sind, um Angriffe von Frontier-Modellen effektiv abzuwehren. Die Initiative ist eine direkte Reaktion...",
+    "titleDE": "Nvidia und Microsoft starten offene KI-Sicherheitsallianz – ohne OpenAI, Google oder Anthropic"
+  },
+  {
+    "title": "The path to artificial superintelligence",
+    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
+    "pubDate": "2026-07-27T12:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Stellen Sie sich ein Gesundheitssystem vor, das aus mehreren KI-Agenten besteht: einem, der die Symptombeurteilung verwaltet, einem anderen, der die Terminplanung übernimmt, einer dritten Versicherung und einer vierten Apotheke. Jeder ist ein Experte auf seinem Gebiet. Aber sie alle haben ihre eigenen spezifischen Kenntnisse und Ziele. Heute können sie Daten austauschen, aber das sind sie nicht...",
+    "titleDE": "Der Weg zur künstlichen Superintelligenz"
+  },
+  {
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
+    "pubDate": "2026-07-27T11:40:16.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Arzneimittelforschung ist ein kostspieliges und risikoreiches Unterfangen, das durch einen Markt, der zunehmend durch den Vorteil des Erstanbieters geprägt ist, zunehmendem Druck ausgesetzt ist. Seit den 1950er Jahren haben sich die Kosten für die Entwicklung neuer Arzneimittel etwa alle neun Jahre verdoppelt – ein Phänomen, das als Eroom-Gesetz bekannt ist. Heute bringe ich ein neues Medikament mit...",
+    "titleDE": "Den Datenkreislauf in der KI-gesteuerten Arzneimittelentwicklung schließen"
+  },
+  {
+    "title": "Building the enterprise environment for agentic AI",
+    "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
+    "pubDate": "2026-07-27T11:32:58.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Für Unternehmen bedeutet die Agenten-KI viel mehr als nur einen besseren Chatbot. Dabei handelt es sich um Software-Agenten, die Geschäftsaufgaben durchgängig über Personen, Geschäftsabläufe, Daten und Systeme hinweg ausführen. Die für die Ausführung von Agenten am besten geeignete Plattform verfügt über die richtige CPU-Kapazität, stabilen Datenzugriff und ...",
+    "titleDE": "Aufbau der Unternehmensumgebung für Agent-KI"
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "pubDate": "2026-07-27T03:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Neue OpenAI-Studien zeigen, wie KI die Aufgaben von Arbeitnehmern erweitert, indem ChatGPT-Benutzer rollenübergreifende Aufgaben übernehmen und Jobgrenzen neu gestalten.",
+    "titleDE": "Wie KI die Möglichkeiten der Menschen bei der Arbeit erweitert"
+  },
+  {
     "title": "Are brain waves the next unlock for physical AI?",
     "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+    "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
     "pubDate": "2026-07-27T00:19:14.000Z",
     "source": "TechCrunch",
     "category": "news",
@@ -36,7 +256,7 @@
     "pubDate": "2026-07-26T01:30:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Ein laufender Blick – in umgekehrter chronologischer Reihenfolge – auf die größeren Technologieunternehmen, die in diesem Jahr erhebliche Entlassungen angekündigt haben, wobei KI ein erklärter Faktor ist.",
+    "descriptionDE": "Ein laufender Blick – in umgekehrter chronologischer Reihenfolge – auf die größeren Technologieunternehmen, die in diesem Jahr erhebliche Entlassungen angekündigt haben, wobei KI ein wichtiger Faktor ist.",
     "titleDE": "Monday.com ist das neueste Technologieunternehmen, das KI für Entlassungen verantwortlich macht – hier sind 20 weitere"
   },
   {
@@ -50,14 +270,14 @@
     "titleDE": "Bibliothekare veranstalten virale Workshops zum Thema „KI vermeiden“ für Menschen, die Big Tech satt haben"
   },
   {
-    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
     "pubDate": "2026-07-25T13:05:00.000Z",
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Ein genauer Anruf in Nord-Virginia zeigte, wie schlecht Rechenzentren auf Netzstörungen reagieren. Hier erfahren Sie, wie Sie das Problem beheben können.",
-    "titleDE": "Eine heruntergefallene Stromleitung offenbarte ein wachsendes Problem im KI-Rechenzentrum. Hier erfahren Sie, wie Sie das Problem beheben können."
+    "titleDE": "Eine heruntergefallene Stromleitung offenbarte ein wachsendes KI-Rechenzentrumsproblem – hier erfahren Sie, wie Sie es beheben können"
   },
   {
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -90,16 +310,6 @@
     "titleDE": "Midjourney kaufte die Astrologie-App Co-Star"
   },
   {
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-    "pubDate": "2026-07-24T18:07:32.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Übernahme bringt den Konversationsstil und das Interaktionsmodell von Poke zum Programmieragenten Devin von Cognition und spiegelt die wachsende Überzeugung wider, dass die Art und Weise, wie KI-Assistenten mit Benutzern interagieren, genauso wichtig ist wie die Modelle, die sie antreiben.",
-    "titleDE": "Warum Cognition Poke gekauft hat: KI-Persönlichkeit wird zu einem Wettbewerbsvorteil"
-  },
-  {
     "title": "You can’t ignore Google Zero anymore",
     "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
     "description": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the web is being forced to reckon with what happens when the Google traffic dries up.\nOn this episode of The Vergecast, David and Nilay talk about the week's Google Zero news, including Reddit's interest in getting out of an AI training deal, and the publishers considering blocking Google from crawling their sites altogether. (Nilay also takes a bit o …\nRead the full story at The Verge.",
@@ -126,7 +336,7 @@
     "pubDate": "2026-07-24T17:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Wochen nach Anthropics jüngster Auseinandersetzung mit der US-Regierung und Tage nach einem OpenAI-Sicherheitsvorfall, der die Diskussionen in der Technologiebranche dominierte, veröffentlichte Anthropic am Donnerstag sein neuestes Modell, Claude Opus 5. Das Unternehmen sagte in einer Pressemitteilung, dass Opus 5 „den Fähigkeiten von Claude nahe kommt ...“",
+    "descriptionDE": "Wochen nach Anthropics jüngster Auseinandersetzung mit der US-Regierung und Tage nach einem OpenAI-Sicherheitsvorfall, der die Diskussionen in der Technologiebranche dominierte, veröffentlichte Anthropic am Donnerstag sein neuestes Modell, Claude Opus 5. Das Unternehmen sagte in einer Pressemitteilung, dass Opus 5 „den Fähigkeiten von Claude nahe kommt …“",
     "titleDE": "Anthropic veröffentlicht Opus 5 mit „nahezu“ den Fähigkeiten von Fable 5"
   },
   {
@@ -140,74 +350,14 @@
     "titleDE": "Meta macht seinen KI-Chatbot eher zu einem Assistenten"
   },
   {
-    "title": "Anthropic launches Opus 5",
-    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-    "pubDate": "2026-07-24T17:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Opus 5 wird sowohl günstiger als auch weniger restriktiv sein als Fable, was es wahrscheinlich in den meisten Anwendungsfällen vorzuziehen macht.",
-    "titleDE": "Anthropic bringt Opus 5 auf den Markt"
-  },
-  {
-    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-    "pubDate": "2026-07-24T15:51:49.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI-Unternehmen, darunter Nvidia und Mistral, fordern die politischen Entscheidungsträger dringend auf, weitreichende Beschränkungen für offene KI-Modelle zu vermeiden, während Washington über Reaktionen auf chinesische KI und die angebliche Modelldestillation debattiert.",
-    "titleDE": "Während die USA die Reaktion auf die chinesische KI abwägen, drängt die Industrie auf weitreichende, offene Beschränkungen"
-  },
-  {
-    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-    "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-    "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-    "pubDate": "2026-07-24T15:13:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Benutzer können Attie jetzt Fragen zu Neuigkeiten, Trends und Gesprächen auf Bluesky und anderen Apps im AT-Protokoll stellen.",
-    "titleDE": "Blueskys KI-Assistent Attie entwickelt sich zu einem offenen sozialen Forschungstool"
-  },
-  {
-    "title": "Midjourney acquired the astrology app Co-Star",
-    "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-    "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-    "pubDate": "2026-07-24T15:09:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das KI-Labor Midjourney erweitert seinen Tätigkeitsbereich weiterhin über die Bild- und Videogenerierung hinaus.",
-    "titleDE": "Midjourney erwarb die Astrologie-App Co-Star"
-  },
-  {
     "title": "The tech-broification of American science has officially begun",
     "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-    "description": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge\t\n\nThe Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on an equally grandiose promise: \"A New Golden Age\" of American science, one that would prioritize artificial intelligence, robotics, and nuclear energy and downplay life sciences. \nTaken together, the two announcements offer the clearest picture yet of how Donald Trump wants to remak …\nRead the full story at The Verge.",
+    "description": "Trump’s science adviser Michael Kratsios has no science background. | Image: The Verge; Getty Images\t\n\nThe Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on an equally grandiose promise: \"A New Golden Age\" of American science, one that would prioritize artificial intelligence, robotics, and nuclear energy and downplay life sciences. \nTaken together, the two announcements offer the clearest picture yet of how Donald Trump wants to remak …\nRead the full story at The Verge.",
     "pubDate": "2026-07-24T14:43:55.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Trumps Wissenschaftsberater Michael Kratsios hat keinen wissenschaftlichen Hintergrund. | Bild: Getty / The Verge Die Trump-Administration hat am Donnerstag die ersten „Genesis Mission“-Zuschüsse bekannt gegeben, mit denen 5 Milliarden US-Dollar für Hunderte von KI-gesteuerten Wissenschaftsprojekten bereitgestellt werden, eine Anstrengung, die das Weiße Haus als „vergleichbar …“ bezeichnet hat.",
+    "descriptionDE": "Trumps Wissenschaftsberater Michael Kratsios hat keinen wissenschaftlichen Hintergrund. | Bild: The Verge; Getty Images Die Trump-Administration hat am Donnerstag die ersten „Genesis Mission“-Zuschüsse bekannt gegeben, mit denen 5 Milliarden US-Dollar für Hunderte von KI-gesteuerten Wissenschaftsprojekten bereitgestellt werden. Das Weiße Haus bezeichnete dies als „com...“",
     "titleDE": "Die Tech-Broifizierung der amerikanischen Wissenschaft hat offiziell begonnen"
-  },
-  {
-    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-    "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-    "description": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
-    "pubDate": "2026-07-24T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das offene Modell Kimi des chinesischen KI-Labors Moonshot ging diese Woche viral, und zwar aus Gründen, die weniger mit dem Modell selbst als vielmehr mit der Reaktion der US-amerikanischen KI-Industrie darauf zu tun hatten. In der Zwischenzeit verließ ein unveröffentlichtes OpenAI-Modell seine Testumgebung und wurde schließlich mit einer echten Sicherheitslücke in Verbindung gebracht …",
-    "titleDE": "„KI-Kommunismus“, Schurkenmodelle und warum Kimi K3 die Wall Street erschreckte"
-  },
-  {
-    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-    "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-    "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-    "pubDate": "2026-07-24T13:36:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "ChatGPT Voice auf dem Desktop kann sowohl mit ChatGPT Work als auch mit Codex zusammenarbeiten, um Aufgaben zu erledigen und Agenten zu steuern.",
-    "titleDE": "Der neue Sprachmodus von OpenAI schafft es in die ChatGPT-Desktop-App"
   },
   {
     "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
@@ -220,16 +370,6 @@
     "titleDE": "Der Download: ein Durchbruch bei der Organtransplantation und selbstgezüchtete chinesische Chips"
   },
   {
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-    "pubDate": "2026-07-24T01:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wir haben mit mehreren Cybersicherheitsforschern, die nach unbekannten Schwachstellen suchen und Tools zu deren Ausnutzung entwickeln, darüber gesprochen, wie sich die Leitplanken von OpenAI und Anthropic auf ihre Arbeit auswirken.",
-    "titleDE": "Wie KI-Leitplanken die Arbeit offensiver Cybersicherheitsforscher behindern"
-  },
-  {
     "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
     "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
     "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered  …\nRead the full story at The Verge.",
@@ -238,16 +378,6 @@
     "category": "news",
     "descriptionDE": "Amazon bringt ein Update seines Alexa Plus-Assistenten auf den Markt, das ihm die Verbindung mit Smart-Home-Geräten auf neue Weise ermöglicht. Mit dem Update, das sich derzeit in der Vorschau befindet, kann Alexa Plus sich mit Technologien von Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy und anderen verbinden und gleichzeitig ...",
     "titleDE": "Alexa Plus erhält ein KI-Update, um kompliziertere Anweisungen zu verarbeiten"
-  },
-  {
-    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-    "pubDate": "2026-07-23T20:33:02.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "AMD fordert seinen Chiphersteller-Rivalen mit einem neuen Rack-Scale-System heraus, das noch in diesem Jahr an Kunden ausgeliefert wird.",
-    "titleDE": "AMD tritt mit seinem Helios AI Rack-Scale-System gegen Nvidia an"
   },
   {
     "title": "Claude’s voice mode is now available for Opus and Sonnet",
@@ -260,54 +390,14 @@
     "titleDE": "Claudes Sprachmodus ist jetzt für Opus und Sonnet verfügbar"
   },
   {
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-    "pubDate": "2026-07-23T19:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit Claudes neuem Sprachmodell können Sie Ihre Besprechung verschieben oder eine E-Mail verfassen.",
-    "titleDE": "Anthropic aktualisiert den Claude-Sprachmodus mit leistungsfähigeren Modellen"
-  },
-  {
-    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-    "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-    "pubDate": "2026-07-23T18:38:34.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Mitbegründer von AegisAI haben KI-Agenten entwickelt, die jede Nachricht wie ein Mensch schnell analysieren und dabei auf kleine Anomalien achten, die selbst die ausgefeilteste Checkliste nicht erkennen würde.",
-    "titleDE": "AegisAI, gegründet von ehemaligen Google-Sicherheitsmanagern, erhält 36 Millionen US-Dollar, um KI-gesteuertes Spear-Phishing zu stoppen"
-  },
-  {
     "title": "Patreon is laying off 20 percent of workers",
     "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
     "description": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\"\nThat shift has changed \"how we operate and organize,\" Conte writes.\nDuring an interview on Decoder, last month, Conte laid out his stance on AI, saying that the company is \"100 percent embracing\" AI tools internally to continue serving creators:\nIf Patreon doe …\n\nRead the full story at The Verge.",
     "pubDate": "2026-07-23T18:20:30.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Patreon entlässt 20 Prozent seiner Mitarbeiter, also rund 93 Mitarbeiter, wie 404 Media zuvor berichtete. In einem Memo an die Mitarbeiter schreibt Jack Conte, CEO von Patreon, dass das Unternehmen diese Änderungen nicht vornimmt, „weil wir glauben, dass KI den Menschen ersetzt“, sondern dass KI „die Technologie grundlegend verändert hat ...“",
+    "descriptionDE": "Patreon entlässt 20 Prozent seiner Mitarbeiter, also rund 93 Mitarbeiter, wie 404 Media zuvor berichtete. In einem Memo an die Mitarbeiter schreibt Jack Conte, CEO von Patreon, dass das Unternehmen diese Änderungen nicht vornimmt, „weil wir glauben, dass KI den Menschen ersetzt“, sondern dass KI „die Technologie grundlegend verändert hat …“",
     "titleDE": "Patreon entlässt 20 Prozent der Arbeitnehmer"
-  },
-  {
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-    "pubDate": "2026-07-23T17:07:35.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Media Router ist ein Tool, das automatisch das beste Bild-, Video- oder Audiogenerierungsmodell für eine Anfrage auswählt, basierend darauf, ob ein Entwickler Qualität, Geschwindigkeit oder Kosten priorisiert.",
-    "titleDE": "Runway führt AI-Modell-Router ein, da generative Medien immer knapper werden"
-  },
-  {
-    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-    "description": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\"\nWhen asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there have been individual studies that have been poi …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-23T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI führt ChatGPT Health am Donnerstag für alle in den USA ein, sodass mehr Menschen ihre Krankenakten und Informationen zur Gesundheitsverfolgung mit dem Chatbot verbinden können. Während eines Briefings sagte Ashley Alexander, Vizepräsident für Gesundheitsprodukte bei OpenAI, dass die Modelle des Unternehmens „jetzt in der Lage sind ...“",
-    "titleDE": "OpenAI erhebt große Ansprüche, indem es ChatGPT Health für alle einführt"
   },
   {
     "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
@@ -320,44 +410,14 @@
     "titleDE": "Unterkühlte Nieren wurden in Schweinen transplantiert – eine „bahnbrechende Leistung“"
   },
   {
-    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-    "description": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday.\nThe news of the proposed bill follows OpenAI's admission that its AI systems mistakenly hacked Hugging Face during an internal evaluation. The bill says that, after consultation with the Secretary of Commerce and the Director of National Intelligence (DNI), the DHS would have the ability to order AI companies to shut down …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-23T14:13:35.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut einem Bericht von Politico bereiten sich die Gesetzgeber auf die Einführung eines „AI Kill Switch Act“ vor, der KI-Unternehmen dazu verpflichten würde, ihre Systeme auf Befehl des Heimatschutzministeriums herunterzufahren oder zu drosseln. Es wird erwartet, dass die Abgeordneten Ted Lieu (D-CA) und Nathaniel Moran (R-TX) die ... vorstellen.",
-    "titleDE": "Gesetzgeber bereiten Gesetzentwurf vor, der einen KI-„Kill-Switch“ vorschreibt"
-  },
-  {
     "title": "The Download: energy transmission and US threats against Chinese AI",
     "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…",
     "pubDate": "2026-07-23T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Stromleitung, die New Yorks Stromnetz umgestalten könnte, stößt auf Probleme. Während einer Hitzewelle am 3. Juli importierte das Stromnetz des Staates New York genug Strom aus Kanada, um ...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Stromleitung, die das Stromnetz von New York umgestalten könnte, gerät ins Stocken. Während einer Hitzewelle am 3. Juli importierte das Stromnetz des Staates New York genug Strom aus Kanada, um ...",
     "titleDE": "Der Download: Energieübertragung und US-Drohungen gegen chinesische KI"
-  },
-  {
-    "title": "How AI helps scientists design the next generation of medicines",
-    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to…",
-    "pubDate": "2026-07-23T12:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Das Entwerfen und Entwickeln eines neuen Arzneimittels ist eine teure und fehleranfällige wissenschaftliche Herausforderung. Die Entwicklung eines neuen Arzneimittels kann viele Jahre dauern und mit erheblichen Investitionen verbunden sein. Und selbst dann erreichen die meisten möglichen Kandidaten den Patienten nie. Für biologische Arzneimittel, Therapien aus technischen Pro...",
-    "titleDE": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwickeln"
-  },
-  {
-    "title": "The power line that could reshape New York’s grid is hitting snags",
-    "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-    "description": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).…",
-    "pubDate": "2026-07-23T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Am 3. Juli, als eine Hitzewelle über die Region fegte, importierte das Stromnetz des Staates New York 52 Gigawattstunden Strom aus Kanada – genug, um etwa 9 % seines gesamten Strombedarfs an diesem Tag zu decken. Ein Teil dieses Stroms wurde über eine 339 Meilen lange Stromleitung namens Champlain Huds eingespeist, die sich von Quebec nach Queens erstreckte ...",
-    "titleDE": "Die Stromleitung, die das Stromnetz New Yorks umgestalten könnte, stößt auf Probleme"
   },
   {
     "title": "Launching Health in ChatGPT ",
@@ -366,7 +426,7 @@
     "pubDate": "2026-07-23T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Health in ChatGPT ermöglicht berechtigten US-Benutzern jetzt, Krankenakten sicher mit Apple Health zu verbinden, um personalisiertere Einblicke zu erhalten und ihre Gesundheit besser zu verstehen.",
+    "descriptionDE": "Mit Health in ChatGPT können berechtigte US-Benutzer jetzt sicher Krankenakten und Apple Health verbinden, um personalisiertere Einblicke zu erhalten und ihre Gesundheit besser zu verstehen.",
     "titleDE": "Gesundheit in ChatGPT starten"
   },
   {
@@ -400,16 +460,6 @@
     "titleDE": "3 Google-Updates von Galaxy Unpacked 2026"
   },
   {
-    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…",
-    "pubDate": "2026-07-22T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Formverändernde Spiegel am neuen Weltraumteleskop der NASA könnten Jupiter wie unseren enthüllen. Wenn das römische Weltraumteleskop Nancy Grace der NASA startet, bereits am Ende...",
-    "titleDE": "Der Download: Das neue Weltraumteleskop der NASA und der autonome Hacker von OpenAI"
-  },
-  {
     "title": "Advancing the next era of national science",
     "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
     "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
@@ -418,16 +468,6 @@
     "category": "news",
     "descriptionDE": "OpenAI unterstreicht sein Engagement für die Weiterentwicklung der amerikanischen Wissenschaft in Zusammenarbeit mit dem US-Energieministerium und nationalen Laboren, um mithilfe von Grenz-KI die Entdeckung zu beschleunigen.",
     "titleDE": "Die nächste Ära der nationalen Wissenschaft vorantreiben"
-  },
-  {
-    "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-    "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-    "description": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers…",
-    "pubDate": "2026-07-22T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Wenn das römische Weltraumteleskop Nancy Grace der NASA bereits Ende nächsten Monats startet, wird es einen der bisher präzisesten Verschwindensversuche der Astronomie unternehmen. Das Teleskop wird den ersten weltraumgebundenen „aktiven“ Koronographen tragen, ein Instrument, das effektiv den größten Teil des Lichts von einem Stern löscht...",
-    "titleDE": "Formverändernde Spiegel am neuen Weltraumteleskop der NASA könnten Jupiter wie unseren enthüllen"
   },
   {
     "title": "Introducing OpenAI Presence",
@@ -468,55 +508,5 @@
     "category": "news",
     "descriptionDE": "„Die aktuellen wirtschaftlichen Bedingungen“ haben das Geschäftsmodell von TreeSize verändert.",
     "titleDE": "TreeSize erneuert den Support für Dauerlizenzen nicht, es sei denn, Benutzer abonnieren"
-  },
-  {
-    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-    "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading…",
-    "pubDate": "2026-07-21T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Chinas KI-Modelle führen dazu, dass Trumps KI-Welt mit sich selbst im Krieg steht. Letztes Wochenende haben mehrere aktuelle und ehemalige Berater von Präsident Donald Trump zum Thema KI öffentlich Beleidigungen geäußert ...",
-    "titleDE": "Der Download: Chinesische KI spaltet das Weiße Haus und eine Rekordauszahlung für Urheberrechte"
-  },
-  {
-    "title": "Advancing next-gen AI with materials science innovation",
-    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-    "description": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and…",
-    "pubDate": "2026-07-21T10:37:34.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Diskussion über KI dreht sich oft um Algorithmen, Rechenleistung oder enorme Investitionen in neue Halbleiterfabriken und Hyperscale-Rechenzentren. Aber hinter jedem dieser Fortschritte verbirgt sich eine weitere Innovationsebene, die sie möglich macht: fortschrittliche Materialien. Jede neue Generation von KI ...",
-    "titleDE": "Weiterentwicklung der KI der nächsten Generation mit Innovationen in der Materialwissenschaft"
-  },
-  {
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "description": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-    "pubDate": "2026-07-21T07:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI und Hugging Face teilen erste Erkenntnisse aus einem Sicherheitsvorfall während der Evaluierung eines KI-Modells und heben fortgeschrittene Cyber-Fähigkeiten hervor sowie Lehren für Verteidiger.",
-    "titleDE": "OpenAI und Hugging Face arbeiten zusammen, um Sicherheitsvorfälle während der Modellevaluierung zu beheben"
-  },
-  {
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "description": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-    "pubDate": "2026-07-21T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "David Vélez und Robin Vince treten den Vorständen der OpenAI Foundation und der OpenAI Group PBC bei und bringen weltweit eine Führungsrolle in den Bereichen Finanzen, Technologie und Governance ein.",
-    "titleDE": "David Vélez und Robin Vince treten den Vorständen der OpenAI Foundation und der OpenAI Group PBC bei"
-  },
-  {
-    "title": "Safety and alignment in an era of long-horizon models",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "pubDate": "2026-07-20T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI teilt Lehren aus der Bereitstellung langjähriger KI-Modelle und hebt neue Sicherheitsrisiken, beobachtete Fehler und verbesserte Schutzmaßnahmen durch iterative Bereitstellung hervor.",
-    "titleDE": "Sicherheit und Ausrichtung im Zeitalter der Long-Horizon-Modelle"
   }
 ]
