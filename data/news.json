@@ -1,5 +1,195 @@
 [
   {
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "description": "The deal is Cyera's third acquisition this year.",
+    "pubDate": "2026-07-29T00:09:05.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Deal ist die dritte Akquisition von Cyera in diesem Jahr.",
+    "titleDE": "Cyera willigt ein, Oasis Security für 1 Milliarde US-Dollar zu erwerben, um die zunehmende Verbreitung von KI-Agenten zu schützen"
+  },
+  {
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "description": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+    "pubDate": "2026-07-28T21:36:39.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Von der Nutzung von JFrog Artifactory durch OpenAI-Modelle (0 Tage) bis zur Veröffentlichung eines Patches vergingen 10 Tage.",
+    "titleDE": "Wir haben jetzt ein besseres Verständnis dafür, wie OpenAI sich in Hugging Face gehackt hat"
+  },
+  {
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "pubDate": "2026-07-28T21:29:34.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Spur Intelligence hat von Insight Partners eine 200-Millionen-Dollar-Runde für seine Technologie erhalten, die legitimen menschlichen Datenverkehr von Bots identifizieren kann.",
+    "titleDE": "Das Bot-Erkennungs-Startup Spur kassiert 200 Millionen US-Dollar von Insight"
+  },
+  {
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+    "pubDate": "2026-07-28T20:45:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Runlayer verklagt Rippling, nachdem Rippling das MCP-Gateway-Produkt des Startups evaluiert und sich dann dafür entschieden hat, selbst eines zu bauen.",
+    "titleDE": "Das MCP-Startup Runlayer wirft Rippling vor, seine Produktidee gestohlen zu haben"
+  },
+  {
+    "title": "Sam Altman is ready to decelerate",
+    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "pubDate": "2026-07-28T20:17:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Sein Positionswechsel erfolgt nach „dem ersten Sicherheitsvorfall, den ich sehr tief empfunden habe“.",
+    "titleDE": "Sam Altman ist bereit zur Entschleunigung"
+  },
+  {
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in the statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability developmen …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-28T19:46:43.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mitarbeiter von OpenAI und Anthropic sowie von Google, Meta, Thinking Machines, Microsoft, Mistral und anderen führenden KI-Laboren haben eine Erklärung an die US-Regierung verfasst, in der sie eine mögliche Verlangsamung der bahnbrechenden KI-Entwicklung befürworten – oder zumindest eine Beschleunigung der global koordinierten Governance-E...",
+    "titleDE": "KI-Führungskräfte unterzeichnen eine Erklärung, in der sie die Regierung auffordern, etwas gegen automatisierte KI zu unternehmen"
+  },
+  {
+    "title": "AI’s finally expensive enough to make Wall Street nervous",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "description": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously forecast as its top end spending. Now, look, I recognize that there's an impulse to say things like \"What's $15 billion between friends?\" but from an investor's perspective, Google has essentially said that it can't accurately forecast its costs, which is a scary thing. Plus, Google is spending more money than it's making. And Google …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-28T19:33:03.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Hart arbeiten oder hart arbeiten? | Bild: Cath Virginia / The Verge, Getty Images Es ist Berichtssaison und die Anleger erlebten eine unangenehme Überraschung von Google: eine Erhöhung seiner Ausgabenschätzung auf bis zu 205 Milliarden US-Dollar – von der Prognose des letzten Quartals von bis zu 190 Milliarden US-Dollar. Sogar die unteren e...",
+    "titleDE": "KI ist endlich teuer genug, um die Wall Street nervös zu machen"
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "pubDate": "2026-07-28T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Ein neuer Erfahrungsbericht zeigt, wie Wissenschaftler KI-Codierungsagenten nutzen, um das wissenschaftliche Rechnen zu modernisieren und die Softwareentwicklung und -entdeckung in der Genomik und darüber hinaus zu beschleunigen.",
+    "titleDE": "Wissenschaftliches Rechnen im Zeitalter der Agenten-KI"
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "description": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "pubDate": "2026-07-28T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Wir kündigen noch mehr neue Funktionen für verwaltete Agenten in der Gemini-API an, damit Entwickler zuverlässige, produktionsbereite Agenten erstellen können.",
+    "titleDE": "Gemini API Managed Agents: 3.6 Flash, Hooks und mehr"
+  },
+  {
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+    "pubDate": "2026-07-28T15:42:26.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Entscheidung fällt zu einem Zeitpunkt, zu dem Netzbetreiber aufgrund des rasanten Tempos beim Bau von Rechenzentren darum kämpfen, Strom zu erzeugen.",
+    "titleDE": "Rechenzentren könnten mit vorübergehenden Stromausfällen rechnen, um Stromausfälle im größten US-Netz zu verhindern"
+  },
+  {
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "pubDate": "2026-07-28T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Seit seiner Gründung im letzten Jahr hat das Startup heute über 8 Millionen Menschen, die die Open-Source- oder gehostete Version seiner Modelle nutzen, und erwirtschaftet nun einen wiederkehrenden Jahresumsatz von 21 Millionen US-Dollar.",
+    "titleDE": "Fish Audio sammelt 52 Millionen US-Dollar Startkapital für die Entwicklung von KI-Sprachmodellen für Entwickler und Unternehmen"
+  },
+  {
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
+    "pubDate": "2026-07-28T13:19:17.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Schwerpunkt von Recursive auf sich selbst verbessernden KI-Systemen bedeutet, dass ein Großteil des Budgets, das traditionell für Personalbestand und Betrieb verwendet würde, direkt in die Datenverarbeitung gesteckt wird, da das Unternehmen seinen eigenen Produktentwicklungsprozess automatisieren möchte.",
+    "titleDE": "Recursive Superintelligence unterzeichnet Rechenvertrag über 410 Millionen US-Dollar mit Amazon"
+  },
+  {
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "description": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+    "pubDate": "2026-07-28T13:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Es mag kontraintuitiv klingen, aber die KI-Tools von Search können Ihnen tatsächlich dabei helfen, das Beste aus Ihrer Offline-Zeit zu machen, egal, ob Sie Konzertkarten buchen oder das Perf… finden möchten.",
+    "titleDE": "5 Möglichkeiten, wie der KI-Modus in der Suche Ihnen hilft, die reale Welt zu genießen"
+  },
+  {
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "description": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+    "pubDate": "2026-07-28T13:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Diese KI-Funktionen können Ihnen dabei helfen, ein Menü zu erstellen, eine Tischlandschaft zu entwerfen und andere Partyplanungsaufgaben zu erledigen.",
+    "titleDE": "5 Möglichkeiten, mit der Google-Suche die ultimative Dinnerparty zu veranstalten"
+  },
+  {
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets.\nThis launch builds on Personal Computer integrations that Perplexity launched for Microsoft's 365 workspace apps and Teams virtual meeting software in May. Personal Computer for Windows aims to bridge the remaining gap by  …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-28T12:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Perplexity hat sein agentenbasiertes Personal-Computer-Tool auf Windows ausgeweitet, sodass Computer mit dem weltweit beliebtesten Betriebssystem als lokal ausgeführtes KI-System genutzt werden können. Wie die Mac-Version, die Perplexity im April auf den Markt brachte, funktioniert Personal Computer für Windows wie ein „allgemeiner digitaler Worker“ ...",
+    "titleDE": "Der Personal Computer von Perplexity verwandelt Windows-PCs in KI-Agenten"
+  },
+  {
+    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
+    "pubDate": "2026-07-28T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. OpenAI bezeichnete den Hugging-Face-Angriff als beispiellos. Aber wir waren schon einmal hier. –Will Douglas Heaven, leitender KI-Redakteur, liest letzte Woche den Bericht von OpenAI darüber, wie ...",
+    "titleDE": "Der Download: Der vorhersehbare Hack von OpenAI und ein Ausverkauf der KI-Aktien"
+  },
+  {
+    "title": "Smart rings are looking like my kind of AI gadget",
+    "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+    "description": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from WisprFlow to Monologue to Spokenly to Handy to so many others, and have found them all to be useful ways to quickly write emails, Slack messages, and more. They sometimes default to giving everything a too-formal style of formatting and love ending a text message with a period (like a sociopath), but they're getting better at th …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-28T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "In den letzten Monaten habe ich viel Zeit damit verbracht, mit meinem Computer zu reden. Ein unterschätztes Merkmal der LLM-Revolution war ein bemerkenswerter Sprung in allen Arten der Diktiertechnologie – selbst die schnellsten und günstigsten Modelle werden sehr gut darin, Sprache zu verstehen und zu verarbeiten. Ich habe viele getestet...",
+    "titleDE": "Intelligente Ringe sehen aus wie meine Art von KI-Gadget"
+  },
+  {
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "description": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…",
+    "pubDate": "2026-07-28T09:18:57.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Lee, ein Ingenieur in der Halbleiterabteilung von Samsung, stempelt ab, wenn seine Schicht zu Ende ist. Früher arbeitete er länger und ging die Extrameile, um bei seinen Projekten hervorragende Leistungen zu erbringen. Aber in letzter Zeit kommt er direkt nach Hause, um an seiner Bewerbung für den südkoreanischen Rivalen des Chipherstellers, SK Hynix, zu arbeiten und Tipps zu geben ...",
+    "titleDE": "Die Chip-Hersteller von Samsung springen zum Rivalen SK Hynix"
+  },
+  {
+    "title": "Hugging Face is being used to easily undress women and children",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+    "description": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images\t\n\nHugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with requests to undress women using simple prompts.\nWhile most mainstream generative AI models like Google's Gemini and OpenAI's ChatGPT have guardrails in place to block prompts that undress or sexualize people, that seemingly isn't the case for the models on Hugging Face tested by AI Forensics. The nonprofit says …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-28T09:07:14.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Hugging Face trägt nicht viel dazu bei, die KI-Modelle, die es beherbergt, daran zu hindern, sexualisierte Deepfakes auszuspucken. | Bild: Cath Virginia / The Verge | Fotos von Getty Images Hugging Face werden verwendet, um nicht einvernehmliche Deepfakes zu erstellen, und das beliebte Open-Source-KI-Modell-Repository trägt nur sehr wenig dazu bei,...",
+    "titleDE": "Hugging Face wird zum einfachen Ausziehen von Frauen und Kindern verwendet"
+  },
+  {
     "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
     "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
     "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
@@ -230,76 +420,6 @@
     "titleDE": "Sind Gehirnwellen die nächste Freischaltung für physische KI?"
   },
   {
-    "title": "Making sense of the panic over Chinese AI",
-    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-    "pubDate": "2026-07-26T19:40:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In der neuesten Folge von Equity diskutierten wir darüber, warum Kimi von Moonshot AI das Silicon Valley und die Wall Street in Panik zu versetzen schien.",
-    "titleDE": "Die Panik über chinesische KI verstehen"
-  },
-  {
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-    "pubDate": "2026-07-26T16:33:13.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Der erste Cyberangriff mit autonomen Agenten ist ein beispielloses Ereignis. Er verdient eine beispiellose Reaktion!“",
-    "titleDE": "CEO von Hugging Face fordert „radikale Transparenz“ nach „beispiellosem“ OpenAI-Hack"
-  },
-  {
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "pubDate": "2026-07-26T01:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein laufender Blick – in umgekehrter chronologischer Reihenfolge – auf die größeren Technologieunternehmen, die in diesem Jahr erhebliche Entlassungen angekündigt haben, wobei KI ein wichtiger Faktor ist.",
-    "titleDE": "Monday.com ist das neueste Technologieunternehmen, das KI für Entlassungen verantwortlich macht – hier sind 20 weitere"
-  },
-  {
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-    "pubDate": "2026-07-25T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In Bibliotheken im ganzen Land haben Workshops zum Thema „Vermeidung von KI“ eine beispiellose Nachfrage hervorgerufen.",
-    "titleDE": "Bibliothekare veranstalten virale Workshops zum Thema „KI vermeiden“ für Menschen, die Big Tech satt haben"
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
-    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "pubDate": "2026-07-25T13:05:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein genauer Anruf in Nord-Virginia zeigte, wie schlecht Rechenzentren auf Netzstörungen reagieren. Hier erfahren Sie, wie Sie das Problem beheben können.",
-    "titleDE": "Eine heruntergefallene Stromleitung offenbarte ein wachsendes KI-Rechenzentrumsproblem – hier erfahren Sie, wie Sie es beheben können"
-  },
-  {
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-    "pubDate": "2026-07-25T00:23:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die schicke neue KI-Tastatur von OpenAI wird einigen viel Spaß machen, während viele andere sie wahrscheinlich nicht anfassen werden.",
-    "titleDE": "Ich habe die neue KI-Tastatur von OpenAI ausprobiert – was einigen Programmierern Spaß machen und alle anderen etwas verwirren wird"
-  },
-  {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-    "pubDate": "2026-07-24T22:25:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das neolab geht davon aus, dass die Automatisierung routinemäßiger Computeraufgaben bald die Codierung als größten Anwendungsfall der KI überholen wird.",
-    "titleDE": "Prentis, neues KI-Labor, mitbegründet von Reid Hoffman und Mark Pincus, in Gesprächen über die Beschaffung von 100 Millionen US-Dollar"
-  },
-  {
     "title": "Midjourney bought the astrology app Co-Star",
     "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
     "description": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg.\nCo-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the app's FAQ page, it combines human insight, data from NASA, and AI to deliver personalized advice for users each day. The terms of Midjourney's deal, which reportedly closed in spring, haven't been disclosed.\nMidjourney founder David Holz says Co-Star founder Banu …\nRead the full story at The Verge.",
@@ -340,26 +460,6 @@
     "titleDE": "Anthropic veröffentlicht Opus 5 mit „nahezu“ den Fähigkeiten von Fable 5"
   },
   {
-    "title": "Meta is making its AI chatbot more like an assistant",
-    "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-    "description": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses.\nIn a blog post, Meta says this update marks its \"next step toward personal superintelligence,\" something CEO Mark Zuckerberg has touted as the future of AI. Meta is powering the update with its newly released Muse Spark 1.1 model, which the company says will allow its chatbot to go beyond its current capabilities of answering questi …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-24T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Meta sagt, dass sein KI-Chatbot über das bloße Beantworten von Fragen und das Generieren von Bildern hinausgeht. | Bild: Meta Meta rüstet seinen KI-Chatbot mit neuen Produktivitätsfunktionen auf, um mit Konkurrenten wie Gemini, ChatGPT und Claude zu konkurrieren. Durch das Update kann Meta AI auf Ihren Kalender zugreifen, um Ihnen zu helfen...",
-    "titleDE": "Meta macht seinen KI-Chatbot eher zu einem Assistenten"
-  },
-  {
-    "title": "The tech-broification of American science has officially begun",
-    "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-    "description": "Trump’s science adviser Michael Kratsios has no science background. | Image: The Verge; Getty Images\t\n\nThe Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on an equally grandiose promise: \"A New Golden Age\" of American science, one that would prioritize artificial intelligence, robotics, and nuclear energy and downplay life sciences. \nTaken together, the two announcements offer the clearest picture yet of how Donald Trump wants to remak …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-24T14:43:55.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Trumps Wissenschaftsberater Michael Kratsios hat keinen wissenschaftlichen Hintergrund. | Bild: The Verge; Getty Images Die Trump-Administration hat am Donnerstag die ersten „Genesis Mission“-Zuschüsse bekannt gegeben, mit denen 5 Milliarden US-Dollar für Hunderte von KI-gesteuerten Wissenschaftsprojekten bereitgestellt werden. Das Weiße Haus bezeichnete dies als „com...“",
-    "titleDE": "Die Tech-Broifizierung der amerikanischen Wissenschaft hat offiziell begonnen"
-  },
-  {
     "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
     "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”  When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s…",
@@ -368,56 +468,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Unterkühlte Nieren wurden in Schweine transplantiert – eine „bahnbrechende Leistung“. Wenn es um Organspenden geht, ist Zeit alles. Sobald eine Orgel...",
     "titleDE": "Der Download: ein Durchbruch bei der Organtransplantation und selbstgezüchtete chinesische Chips"
-  },
-  {
-    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-    "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-    "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered  …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-23T21:15:06.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Amazon bringt ein Update seines Alexa Plus-Assistenten auf den Markt, das ihm die Verbindung mit Smart-Home-Geräten auf neue Weise ermöglicht. Mit dem Update, das sich derzeit in der Vorschau befindet, kann Alexa Plus sich mit Technologien von Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy und anderen verbinden und gleichzeitig ...",
-    "titleDE": "Alexa Plus erhält ein KI-Update, um kompliziertere Anweisungen zu verarbeiten"
-  },
-  {
-    "title": "Claude’s voice mode is now available for Opus and Sonnet",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-    "description": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.\nWhen Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but not alwa …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-23T19:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Bisher war der Sprachmodus nur auf Claude Haiku verfügbar, dem schnelleren, aber schwächeren Modell von Anthropic. Jetzt macht das Unternehmen seine Opus- und Sonnet-Modelle im Sprachmodus verfügbar und erweitert seine Reichweite auf Apps wie Gmail, Slack und Canva. Als Anthropic letztes Jahr den Sprachmodus einführte, war es...",
-    "titleDE": "Claudes Sprachmodus ist jetzt für Opus und Sonnet verfügbar"
-  },
-  {
-    "title": "Patreon is laying off 20 percent of workers",
-    "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-    "description": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\"\nThat shift has changed \"how we operate and organize,\" Conte writes.\nDuring an interview on Decoder, last month, Conte laid out his stance on AI, saying that the company is \"100 percent embracing\" AI tools internally to continue serving creators:\nIf Patreon doe …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-07-23T18:20:30.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Patreon entlässt 20 Prozent seiner Mitarbeiter, also rund 93 Mitarbeiter, wie 404 Media zuvor berichtete. In einem Memo an die Mitarbeiter schreibt Jack Conte, CEO von Patreon, dass das Unternehmen diese Änderungen nicht vornimmt, „weil wir glauben, dass KI den Menschen ersetzt“, sondern dass KI „die Technologie grundlegend verändert hat …“",
-    "titleDE": "Patreon entlässt 20 Prozent der Arbeitnehmer"
-  },
-  {
-    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-    "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-    "description": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
-    "pubDate": "2026-07-23T16:58:28.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Bei der Organspende ist Zeit das A und O. Sobald ein Organ vorsichtig aus dem Körper eines Spenders entnommen wurde, beginnt es zu verfallen. Chirurgen haben nur wenige Stunden Zeit, um es in einen Empfänger zu bringen. Wenn Sie es zu lange einwirken lassen, wird die Orgel unbrauchbar. In den meisten Fällen werden Organe behalten...",
-    "titleDE": "Unterkühlte Nieren wurden in Schweinen transplantiert – eine „bahnbrechende Leistung“"
-  },
-  {
-    "title": "The Download: energy transmission and US threats against Chinese AI",
-    "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…",
-    "pubDate": "2026-07-23T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Stromleitung, die das Stromnetz von New York umgestalten könnte, gerät ins Stocken. Während einer Hitzewelle am 3. Juli importierte das Stromnetz des Staates New York genug Strom aus Kanada, um ...",
-    "titleDE": "Der Download: Energieübertragung und US-Drohungen gegen chinesische KI"
   },
   {
     "title": "Launching Health in ChatGPT ",
@@ -468,45 +518,5 @@
     "category": "news",
     "descriptionDE": "OpenAI unterstreicht sein Engagement für die Weiterentwicklung der amerikanischen Wissenschaft in Zusammenarbeit mit dem US-Energieministerium und nationalen Laboren, um mithilfe von Grenz-KI die Entdeckung zu beschleunigen.",
     "titleDE": "Die nächste Ära der nationalen Wissenschaft vorantreiben"
-  },
-  {
-    "title": "Introducing OpenAI Presence",
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "pubDate": "2026-07-22T05:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wir stellen vor: OpenAI Presence, eine bewährte KI-Agentenplattform für Unternehmen, die Unternehmen bei der Bereitstellung vertrauenswürdiger Sprach- und Chat-Agenten für Kunden- und interne Arbeitsabläufe unterstützt.",
-    "titleDE": "Einführung von OpenAI Presence"
-  },
-  {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "link": "https://openai.com/index/ntt-data",
-    "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-    "pubDate": "2026-07-22T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Die NTT DATA Group nutzt ChatGPT Enterprise und Codex, um 9.000 Mitarbeitern dabei zu helfen, ihre Arbeit zu automatisieren, die Vorfallanalyse auf 30 Minuten zu verkürzen und die sichere KI-Einführung zu skalieren.",
-    "titleDE": "Die NTT DATA Group verkürzt die Vorfallanalyse mit Codex auf 30 Minuten"
-  },
-  {
-    "title": "Introducing the ChatGPT for small business program",
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "pubDate": "2026-07-21T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI startet das ChatGPT-Programm für kleine Unternehmen und hilft Unternehmern dabei, KI-Fähigkeiten aufzubauen, Arbeit zu automatisieren und mit ChatGPT Work zu wachsen.",
-    "titleDE": "Einführung des ChatGPT-Programms für Kleinunternehmen"
-  },
-  {
-    "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-    "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-    "description": "\"Current economic conditions\" have shifted TreeSize's business model.",
-    "pubDate": "2026-07-21T15:18:23.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "„Die aktuellen wirtschaftlichen Bedingungen“ haben das Geschäftsmodell von TreeSize verändert.",
-    "titleDE": "TreeSize erneuert den Support für Dauerlizenzen nicht, es sei denn, Benutzer abonnieren"
   }
 ]
