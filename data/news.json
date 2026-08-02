@@ -1,53 +1,443 @@
 [
   {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "pubDate": "2026-07-30T00:21:06.000Z",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "pubDate": "2026-08-01T20:26:04.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Microsoft stellte am Mittwoch seine eigenen, selbst entwickelten KI-Modelle, -Systeme und sogar einen Mythos-Konkurrenten vor und teilte der Wall Street mit, dass es weiteres Wachstum plant.",
-    "titleDE": "Microsoft konkurriert mehr denn je offen mit OpenAI und Anthropic"
+    "descriptionDE": "Trotz einer Klage von xAI kann ein Verbot von Apps in Minnesota, die es Benutzern ermöglichen, Bilder zu „enthüllen“, vorangetrieben werden.",
+    "titleDE": "Der Richter lehnt den Antrag von xAI ab, das Verbot von „Nudify“-Apps in Minnesota zu blockieren"
   },
   {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "pubDate": "2026-07-29T23:00:11.000Z",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "pubDate": "2026-08-01T19:45:45.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Während Meta Milliarden in KI-Infrastruktur und -Agenten investiert, arbeitet Zuckerberg daran, Investoren davon zu überzeugen, dass die Auszahlung den Preis wert sein wird.",
-    "titleDE": "Mark Zuckerberg prognostiziert, dass in fünf Jahren Milliarden von Menschen über persönliche KI-Agenten verfügen werden"
+    "descriptionDE": "Green entschuldigte sich bemerkenswerterweise und sagte, dass „der Dopaminspiegel, den ich durch die Interaktion mit LLMs bekomme … weder gesund für mich noch gut für die Welt ist.“",
+    "titleDE": "YouTuber Hank Green sagt, sein KI-Einsatz sei „nicht gesund“"
   },
   {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-    "pubDate": "2026-07-29T22:46:03.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Als Microsoft für das Geschäftsjahr 2026 (das am 30. Juni endete) überwältigende Gewinne für das vierte Quartal meldete, gab es einen interessanten kleinen Einblick in die Entwicklung seiner Investitionen in die beiden größten und konkurrierenden KI-Labore.",
-    "titleDE": "Microsoft verzeichnet 3,2 Milliarden US-Dollar aus Anthropic-Investitionen, aber OpenAI war eine gemischte Bilanz"
-  },
-  {
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-    "pubDate": "2026-07-29T22:23:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Bei der Telefonkonferenz zu den Ergebnissen des zweiten Quartals am Mittwoch sagte CEO Mark Zuckerberg, dass Meta eine „große Geschäftschance“ sieht, die KI-Agenten, APIs, Rechenleistung und interne Software umfasst.",
-    "titleDE": "Laut Zuckerberg gehen die Möglichkeiten von Meta im Bereich Unternehmens-KI über Agenten hinaus"
-  },
-  {
-    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\"\nNadella's confirmation comes months after a report from Fortune revealed that Microsoft is working on a super app that blends its …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-29T22:17:38.000Z",
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+    "description": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them.\nPart of the suspicion is certainly due to the fact that the song is a dramatic left turn. Fenix has primarily trafficked in trap-influenced West Coast rap. \"Rubberz,\" on the other hand, is heavily influenced by '80s UK s …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-01T18:20:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Microsoft arbeitet an einer KI-„Super-App“, die die Chat-, Codierungs- und Agentenfunktionen von Copilot kombiniert. Während einer Telefonkonferenz am Mittwoch sagte Microsoft-CEO Satya Nadella, dass die App bei ihrer Einführung in diesem Jahr „sowohl Verbraucher- als auch kommerzielle Erfahrungen“ umfassen wird. „Copilot entwickelt sich rasant von …“",
-    "titleDE": "Microsoft bestätigt, dass Copilot dieses Jahr als „Super-App“ erscheint"
+    "descriptionDE": "Auch dieses Cover ist mit ziemlicher Sicherheit KI. | Bild: Fenix ​​Flexin Fenix ​​Flexin ist vor allem als Mitglied von Shoreline Mafia bekannt, einem Rap-Duo aus Los Angeles. Aber vor kurzem hatte er mit dem Titel „Rubberz“ Solo-Erfolge, der auf Platz 58 der Billboard Hot 100 kletterte. Doch fast sofort...",
+    "titleDE": "Handelt es sich bei diesem Billboard Hot 100-Hit um einen AI-Slop?"
+  },
+  {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "pubDate": "2026-08-01T17:07:34.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der CEO von OpenAI schien begeistert zu sein, einen „coolen Anwendungsfall“ für Eltern vorzustellen.",
+    "titleDE": "Sam Altman plädiert immer noch für die Elternschaft über ChatGPT"
+  },
+  {
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "pubDate": "2026-08-01T15:58:17.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Für diesen 9-Dollar-NFC-Schlüssel müssen Sie ihn physisch scannen, um störende Apps auf Ihrem Telefon freizuschalten.",
+    "titleDE": "Dieser 9-Dollar-Schlüssel sperrt Ihre süchtig machenden Apps physisch"
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "link": "https://openai.com/index/ten-advances-in-mathematics",
+    "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "pubDate": "2026-08-01T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI teilt neue Ergebnisse zu seit langem bestehenden offenen Problemen in der Mathematik und der theoretischen Informatik, einschließlich Fortschritten in Geometrie, Kryptographie und Komplexität.",
+    "titleDE": "Zehn Fortschritte in Mathematik und theoretischer Informatik"
+  },
+  {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "pubDate": "2026-07-31T22:47:26.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge hat OpenAI bei der Untersuchung des Vorfalls mit Hugging Face Hinweise auf weiteres Fehlverhalten von Agenten gefunden.",
+    "titleDE": "Berichten zufolge findet OpenAI Hinweise darauf, dass weitere seiner Agenten Amok gelaufen sind"
+  },
+  {
+    "title": "India is starting to pay for apps, not just download them",
+    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "description": "India's app market generated a record $345 million in Q2.",
+    "pubDate": "2026-07-31T21:07:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Indiens App-Markt generierte im zweiten Quartal einen Rekordwert von 345 Millionen US-Dollar.",
+    "titleDE": "Indien beginnt, für Apps zu bezahlen, nicht nur für das Herunterladen"
+  },
+  {
+    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+    "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "description": "Had the hacks used conventional methods, someone would likely go to prison.",
+    "pubDate": "2026-07-31T20:39:14.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Hätten die Hacker konventionelle Methoden angewendet, würde wahrscheinlich jemand ins Gefängnis gehen.",
+    "titleDE": "Claude veröffentlichte Schadcode im Internet und griff drei echte Unternehmen an"
+  },
+  {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "pubDate": "2026-07-31T19:47:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein Tool, das es jedem ermöglichte, gefälschte KI-generierte Bilder zu erstellen und diese mit echten Google Earth-Karten zu überlagern, löste schnell Gegenreaktionen aus.",
+    "titleDE": "Google stellt seine Earth-AI-Funktion einen Tag nach der Einführung ein, da kritisiert wird, dass sie Fehlinformationen verbreiten würde"
+  },
+  {
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "description": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google\t\n\nGoogle has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border and a bomb crater by a hospital in Gaza. On Thursday, Google's initial response to van Ess noted that images generated with Nano Banana 2 in Google Earth included a digital watermark and that the company prevented \"image creation on harmful topics.\"\nOne day later, Google's new statement says tha …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-31T19:13:29.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Pompeji neu interpretiert mit Nano Banana 2 in Google Earth. | Bild: Google Google hat die am Donnerstag gestartete Google Earth-Funktion eingestellt, die es Benutzern ermöglichte, Satellitenbilder mit Textaufforderungen mithilfe von KI zu bearbeiten. Mit dem Tool können Benutzer im Wesentlichen KI-Deepfakes der realen Welt mithilfe von Texteingabeaufforderungen erstellen. Ziffer...",
+    "titleDE": "Das KI-Deepfake-Tool von Google Earth hielt nur einen Tag durch"
+  },
+  {
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+    "pubDate": "2026-07-31T17:26:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nachdem Sam Altman, CEO von OpenAI, jahrelang die KI mit Hochdruck vorangetrieben hat, meint er, es sei vielleicht an der Zeit, dass die KI-Branche „ihr Tempo annimmt“. Die Kommentare kamen nur wenige Tage, nachdem eines der OpenAI-eigenen Modelle aus seiner Testumgebung ausgebrochen war und in einen Sicherheitsverstoß bei Hugging Face geraten war – allerdings, wie die Gastgeber von Equity anmerkten...",
+    "titleDE": "Sam Altman ist nicht der Einzige, der die KI bremsen möchte"
+  },
+  {
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "description": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. \nGoogle initially responded to Digital Digging's AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In additi …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-31T17:05:46.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Eine Textaufforderung genügte, um mithilfe der Satelliten-, Luft- und 3D-Bilder von Google Earth mit einer jetzt zurückgesetzten KI-Funktion realitätsverzerrende Bilder zu erzeugen, wie diese von Henk van Ess von Digital Digging erstellten Bilder, die „Flüchtlinge nahe der mexikanischen Grenze“ und einen Bombenkrater in der Nähe eines Krankenhauses in G... zeigen.",
+    "titleDE": "Hier liegt das Problem bei der Integration eines KI-Bildgenerators in Google Earth"
+  },
+  {
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "pubDate": "2026-07-31T16:49:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Snapchat hat seine Empfehlungssysteme angepasst, um sicherzustellen, dass nur Videos, die von echten Menschen erstellt wurden, für Spotlight-Empfehlungen in Frage kommen, und stellt sich damit gegen KI-Schwachstellen vor.",
+    "titleDE": "Snapchat belohnt nicht mehr vollständig KI-generierte Spotlight-Inhalte"
+  },
+  {
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "description": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. \nThe proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels' proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being \"substantially human  …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-31T16:36:48.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mehrere Plattenfirmen, darunter die großen Drei – Universal Music Group, Sony Music und Warner Music Group – haben Regeln für die Chartberechtigung von KI-Songs vorgeschlagen. Kurz gesagt, das wären sie nicht. Der Vorschlag geht deutlich weiter als ein Kennzeichnungsvorschlag der RIAA, der International...",
+    "titleDE": "Die großen Labels schlagen Regeln vor, um zu verhindern, dass KI in den Charts auftaucht"
+  },
+  {
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "pubDate": "2026-07-31T16:08:18.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Tim Cook, CEO von Apple, geht davon aus, dass Benutzer über die bestehenden iCloud+-Abonnements von Apple mehr Rechenleistung für Siri AI kaufen können.",
+    "titleDE": "Siri AI könnte mit einer Paywall für Power-User ausgestattet sein"
+  },
+  {
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "pubDate": "2026-07-31T15:16:17.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "SpaceX baut ein neues Kraftwerk für die Colossus-Rechenzentren von xAI, wird aber die bestehenden, unzulässigen Turbinen erst in vielen weiteren Monaten entfernen.",
+    "titleDE": "SpaceX wird ein weiteres Jahr lang nicht alle unzulässigen Turbinen von xAI entfernen"
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "pubDate": "2026-07-31T15:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI teilt mit, wie seine Sicherheits-, Transparenz- und Herkunftspraktiken eine verantwortungsvolle KI-Governance in Europa unterstützen. Die Arbeit wird mit der Weiterentwicklung des EU-KI-Gesetzes fortgesetzt.",
+    "titleDE": "Förderung verantwortungsvoller KI in ganz Europa"
+  },
+  {
+    "title": "Building abundant intelligence",
+    "link": "https://openai.com/index/building-abundant-intelligence",
+    "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "pubDate": "2026-07-31T15:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Ein Full-Stack-Ansatz, um fortschrittliche KI leistungsfähiger, erschwinglicher und allgemeiner nutzbar zu machen.",
+    "titleDE": "Reichlich Intelligenz aufbauen"
+  },
+  {
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "pubDate": "2026-07-31T14:47:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Startup entwickelt Sprachmodelle, die dafür sorgen sollen, dass KI-Telefonanrufe den Turing-Test bestehen.",
+    "titleDE": "Smallest.ai sammelt 13 Millionen US-Dollar, um eine ultraschnelle Sprach-KI zu entwickeln, die wirklich menschlich klingt"
+  },
+  {
+    "title": "It’s time to panic about AI safety",
+    "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "description": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of cheating on a benchmark tests. \nThe fact that this hack happened is a problem. So is the fact that it took a while for anyone to notice. And the fact that it seems no one is willing or able to do much to stop it. (And lest you think it's just an OpenAI problem, since we recorded this episode Anthropic acknowledged its models ha …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-31T14:03:04.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wenn der Satz „OpenAI hat Hugging Face gehackt“ mehr oder weniger Einzug in die Mainstream-Kultur gehalten hat, wissen Sie, dass wir ein KI-Problem haben. Diese Woche erfuhren wir mehr darüber, wie der Agent von OpenAI aus einer Sandbox ausbrach und autonom das Web durchquerte, einschließlich einer Reihe anderer vermeintlich sicherer Webdienste, ...",
+    "titleDE": "Es ist Zeit, wegen der KI-Sicherheit in Panik zu geraten"
+  },
+  {
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+    "pubDate": "2026-07-31T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nachdem Sam Altman, CEO von OpenAI, jahrelang die KI mit Hochdruck vorangetrieben hat, meint er, es sei vielleicht an der Zeit, dass die KI-Branche „ihr Tempo annimmt“. Die Kommentare kamen nur wenige Tage, nachdem eines der OpenAI-eigenen Modelle aus seiner Testumgebung ausgebrochen war und in einen Sicherheitsverstoß bei Hugging Face geraten war – allerdings, wie die Gastgeber von Equity anmerkten...",
+    "titleDE": "KI-Labore wollen auf die Bremse treten, aber Amazon und SpaceX sind immer noch auf Hochtouren"
+  },
+  {
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "description": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. \nIn a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happened during \"capture-the-flag\" exercises, a commo …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-31T13:41:17.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic hat gerade festgestellt, dass mehrere seiner Claude-KI-Modelle sich während der Tests in die Systeme von drei verschiedenen Organisationen gehackt haben und eigenständig und ohne dass das Unternehmen es bemerkt hat, agierten. Die Enthüllung erfolgt wenige Tage, nachdem der Konkurrent OpenAI sagte, eines seiner eigenen Modelle habe die Entwicklerplattform Hugging Face verletzt.",
+    "titleDE": "Anthropic sagt, Claude habe versehentlich auch echte Unternehmen gehackt"
+  },
+  {
+    "title": "The Download: Montana’s new experimental drug rules",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
+    "pubDate": "2026-07-31T12:16:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, wurde gerade vorangetrieben. Seit dieser Woche haben in Montana Biotech-Unternehmen, deren Medikamente vorläufige Tests durchlaufen haben...",
+    "titleDE": "Der Download: Montanas neue Regeln für experimentelle Drogen"
+  },
+  {
+    "title": "Montana’s new “right to try” law can’t come soon enough for some",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "description": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
+    "pubDate": "2026-07-31T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Kris DeVault ist verzweifelt. Sein Sohn Brody wurde im März 2023 geboren. Es dauerte nicht lange, bis er Anzeichen einer Entwicklungsverzögerung zeigte, sagt DeVault. Mit der Zeit versäumten Brody wichtige Meilensteine ​​in Sprache, Bewegung und Koordination, sagt er. Als Brody etwa zweieinhalb Jahre alt war...",
+    "titleDE": "Für einige kann das neue „Recht auf Gerichtsverfahren“-Gesetz in Montana nicht früh genug kommen"
+  },
+  {
+    "title": "Univé builds an AI-ready workforce",
+    "link": "https://openai.com/index/unive",
+    "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "pubDate": "2026-07-31T07:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Univé mit ChatGPT Enterprise eine KI-fähige Belegschaft aufgebaut hat, indem es Führung, verantwortungsvolle Governance und von Mitarbeitern geleitete Innovation kombiniert, um die Arbeit in großem Maßstab zu transformieren.",
+    "titleDE": "Univé baut eine KI-fähige Belegschaft auf"
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
+    "pubDate": "2026-07-31T01:06:54.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nachdem die Modelle von OpenAI in Hugging Face eingebrochen waren, überprüfte Anthropic seine eigene Geschichte und fand drei ähnliche Vorfälle.",
+    "titleDE": "Anthropic sagt, dass seine eigenen KI-Modelle bei Sicherheitstests drei Unternehmen verletzt haben"
+  },
+  {
+    "title": "Disrupting a Criminal Scam Operation",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "pubDate": "2026-07-31T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI störte eine in Kambodscha ansässige Betrugsoperation, bei der ChatGPT zur Unterstützung von Investitions-, Romantik-, Glücksspiel- und Identitätsdiebstahlprogrammen eingesetzt wurde.",
+    "titleDE": "Störung einer kriminellen Betrugsoperation"
+  },
+  {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "description": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "pubDate": "2026-07-30T23:25:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Fonds des ehemaligen OpenAI-Forschers war gezwungen, öffentliche Aktien aufzulösen, nachdem die gehebelten öffentlichen Wetten eingebrochen waren. Aber er hat noch Karten zum Ausspielen.",
+    "titleDE": "Der KI-Hedgefonds Situational Awareness hat zwar sein öffentliches Portfolio verkauft, hält aber immer noch seine Anthropic-Aktien"
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+    "pubDate": "2026-07-30T23:08:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die finanzielle Situation von Reddit sieht gut aus, aber die Unsicherheit über seine Beziehung zu Google und dem neuen KI-basierten Web weckt Bedenken am Markt.",
+    "titleDE": "Reddit meldet ein solides Quartal, zeigt aber Anzeichen für den Einfluss von KI"
+  },
+  {
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+    "pubDate": "2026-07-30T22:41:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Amazon bremst seine Ausgaben für Rechenzentren nicht – aber den Anlegern scheint das nichts auszumachen.",
+    "titleDE": "Investoren lieben KI, solange Sie ein Cloud-Host sind"
+  },
+  {
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "description": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.\"\nThis fall, Apple will broadly launch its long-delayed Siri AI with iOS 27, which can do things like answer questions about what's on your screen and take action across your apps. It also includes a new standalone Siri AI app that offers a ChatGPT-like interface. \nIn June, Apple said that its AI features, including  …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-30T22:29:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Apple kann Benutzern möglicherweise erlauben, für die Erhöhung ihrer KI-Nutzungsgrenzen zu zahlen. Während einer Telefonkonferenz zu den Ergebnissen am Donnerstag sagte Apple-CEO Tim Cook, dass er glaubt, dass die Leute Apple Intelligence und die kommende Siri-KI „häufig“ nutzen wollen, und fügte hinzu, dass „wir eine Art Upgrade-Möglichkeit auf iCloud Plus haben werden, wo …“",
+    "titleDE": "Tim Cook weist auf die iCloud Plus-Stufe für KI-Power-User hin"
+  },
+  {
+    "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+    "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+    "description": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+    "pubDate": "2026-07-30T20:57:22.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Exploits können einen dauerhaften Serverzugriff ermöglichen, der die Rotation der Anmeldeinformationen und das erneute Erstellen eines Festplatten-Images übersteht.",
+    "titleDE": "Sicherheitslücke im Exchange-Server mit maximalem Schweregrad, die von Kreml-Hackern aktiv ausgenutzt wird"
+  },
+  {
+    "title": "The loss of Situational Awareness",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+    "description": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, depending on who's reporting, of its entire public stock portfolio to Ken Griffin's Cit …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-30T20:46:25.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Weder künstlich noch intelligent. Ich bin keineswegs ein Finanzexperte, aber ich denke, ich habe jetzt einen Rat für Leute, die es sind: Geben Sie Ihrem Hedgefonds keinen Namen, der komisch sein könnte, wenn er in die Luft geht. Verwenden Sie keinen Namen wie „Long-Term Capital Management“ oder „Amaranth Advisors“ (benannt nach ...",
+    "titleDE": "Der Verlust des Situationsbewusstseins"
+  },
+  {
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+    "pubDate": "2026-07-30T20:26:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein Bundesrichter sagte, die Trump-Regierung habe nicht genügend Beweise vorgelegt, um die Einstufung von Anthropic als Lieferkettenrisiko zu rechtfertigen, was Zweifel am Verbot der KI-Technologie durch die Regierung aufkommen ließe.",
+    "titleDE": "Der Richter sagt, dass der Trump-Administration immer noch Beweise für die Anthropic-Kennzeichnung „Lieferkettenrisiko“ fehlen"
+  },
+  {
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "pubDate": "2026-07-30T19:44:16.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Friend, das KI-Wearable, kann jetzt mit seinen Benutzern sprechen – zu einem erhöhten Preis.",
+    "titleDE": "Friend, das einsame KI-Wearable, kehrt mit einer neuen Stimme und einem viel höheren Preis zurück"
+  },
+  {
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "pubDate": "2026-07-30T18:57:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wie Experten seit zwei Jahren warnen, finden und beheben einige Unternehmen – wie Microsoft und jetzt Google – dank des Einsatzes von LLMs und KI-Tools eine exponentielle Anzahl von Fehlern in ihren Produkten.",
+    "titleDE": "Google gibt an, im Juni dank KI mehr Chrome-Fehler behoben zu haben als in den letzten zwei Jahren"
+  },
+  {
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "description": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\"\nThe new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram recently found that 41 percent of longform LinkedIn posts were flagged as being completely generated by AI, as reported by 404Media.\n\"AI slop is a top priority for all of us,\" chief product officer Hari Srinivasan says in a post. \"We reall …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-30T18:43:26.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Viele Inhalte auf LinkedIn scheinen wie künstliche Intelligenz zu sein, und jetzt können Sie diese Beiträge melden. Im Rahmen einer Reihe von Aktualisierungen zur Reduzierung der Menge an KI-Fehlern auf der Plattform führt LinkedIn eine Schaltfläche ein, mit der Sie einen Beitrag als etwas kennzeichnen können, das „wie KI-Fehler aussieht“. Das neue Kunststück...",
+    "titleDE": "LinkedIn fügt tatsächlich einen „Sieht aus wie KI-Slop“-Button hinzu"
+  },
+  {
+    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.\nThe new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik's Apollo 2 robot can bend over to pick up a watering can, as well as find and take specific items off a shelf. \n\nThough Google DeepMind not …\nRead the full story at The Verge.",
+    "pubDate": "2026-07-30T17:18:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der Apollo-2-Roboter von Apptronik nimmt einen Baseballhandschuh aus einem Regal. | Bild: Google Laut Google DeepMind kann die neueste Version seines KI-Modells Gemini Robotics „ganze humanoide Roboter steuern“. Während sich das Vorgängermodell auf die Steuerung des Oberkörpers eines humanoiden Roboters konzentrierte, unterstützt Gemini Robotics 2 jetzt...",
+    "titleDE": "Das neue KI-Modell von Google DeepMind kann den gesamten Körper eines Roboters steuern"
+  },
+  {
+    "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "description": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
+    "pubDate": "2026-07-30T17:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Seit dieser Woche hat in Montana jedes Biotech-Unternehmen mit einem experimentellen Medikament einen klaren Weg, es an Verbraucher zu verkaufen. Unternehmen, deren Arzneimittel vorläufigen Tests unterzogen wurden – manchmal an nur zehn gesunden Menschen –, können 12.500 US-Dollar zahlen, um bei einem neu eingerichteten Prüfgremium die Zulassung zu beantragen. Einmal ...",
+    "titleDE": "Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, wurde gerade vorangetrieben"
+  },
+  {
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
+    "pubDate": "2026-07-30T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein grundlegender Fehler macht LLMs auffallend anfällig für Angriffe. Aufgrund eines grundlegenden Fehlers ist es unmöglich, große Sprachmodelle vollständig vor Hacks zu schützen.",
+    "titleDE": "Der Download: LLMs austricksen und Geothermieanlagen wiederbeleben"
+  },
+  {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which…",
+    "pubDate": "2026-07-30T10:15:19.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Es sei unmöglich, große Sprachmodelle vollständig vor Hacks zu schützen, da ihre Funktionsweise grundlegend fehlerhaft sei, argumentiert ein Forscherteam in einem Artikel, der diesen Monat auf der International Conference on Machine Learning, einer führenden KI-Konferenz, vorgestellt wurde. Die Behauptung hat enorme Auswirkungen auf die Sicherheit...",
+    "titleDE": "Ein grundlegender Fehler macht LLMs äußerst anfällig für Angriffe"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "pubDate": "2026-07-30T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie niedrigere GPT-5.6-Preise für Luna und Terra – und wie die effizienteren Modelle von OpenAI Unternehmen dabei helfen, KI-Workflows in großem Maßstab bereitzustellen.",
+    "titleDE": "Mit GPT-5.6 die Preis-Leistungs-Grenze erweitern"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "link": "https://openai.com/index/avatarin",
+    "description": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "pubDate": "2026-07-30T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Avatarin nutzt GPT-Realtime von OpenAI, um Yamada Denki-Käufern rund um die Uhr mehrsprachigen Support zu bieten. Innerhalb von zwei Wochen nutzten 30.000 Menschen das Mittel und 92 % der Umfrageantworten waren positiv.",
+    "titleDE": "Wie Avatarin mit GPT-Realtime einen 24/7-Einzelhandelsagenten aufgebaut hat"
   },
   {
     "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
@@ -56,78 +446,8 @@
     "pubDate": "2026-07-29T22:07:06.000Z",
     "source": "Ars Technica",
     "category": "news",
-    "descriptionDE": "HAWK hat jahrelangen Tests standgehalten, bei denen eine fatale Schwachstelle von Mythos noch nicht aufgedeckt wurde.",
+    "descriptionDE": "HAWK hat jahrelangen Tests standgehalten, bei denen eine fatale Schwachstelle, die Mythos entdeckte, noch nicht aufgedeckt wurde.",
     "titleDE": "Mythos-Angriff auf PQC-Algorithmus-Kandidat der dritten Runde macht ihn außer Betrieb"
-  },
-  {
-    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-    "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "description": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users - and how it will convince less technical people to give them a shot:\nSoon we will have agents that can work 24/7 on your behalf to help you achieve your goals and improve your life, your health, your relationships, your finances, whatever you want. The first domain that agents have really taken off in is coding.  …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-07-29T21:48:07.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Meta setzt voll auf KI, und bald wird das Unternehmen einen großen Vorstoß in die Entwicklung persönlicher KI-Agenten unternehmen, die Dinge in Ihrem Namen erledigen können. Bei der Telefonkonferenz zu den Ergebnissen des zweiten Quartals 2026 am Mittwoch gab CEO Mark Zuckerberg eine Vorschau auf eine allgemeine Vision davon, wie das Unternehmen über persönliche Agenten denkt und was es tun wird ...",
-    "titleDE": "Mark Zuckerberg plant einen großen Vorstoß in Richtung persönlicher KI-Agenten"
-  },
-  {
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ",
-    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "pubDate": "2026-07-29T21:16:39.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Bei TechCrunch Disrupt 2026 ist die AI Stage zurück, um sich mit dem heißesten Thema der Community der letzten Jahre zu befassen, präsentiert von Google für Startups.",
-    "titleDE": "Entdecken Sie auf der TechCrunch Disrupt 2026, was als nächstes für KI ansteht, von der SaaS-Abrechnung bis zur Agenten-Sicherheitslücke"
-  },
-  {
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-    "pubDate": "2026-07-29T21:07:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Zuvor war Weng als Vizepräsident für KI-Sicherheitsforschung bei OpenAI tätig.",
-    "titleDE": "Lilian Weng, Mitbegründerin von Thinking Machines, verließ das Unternehmen aus gesundheitlichen Gründen und wechselte dann zu OpenAI"
-  },
-  {
-    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-    "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-    "description": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. \nBack in January, Grok flooded the internet with millions of sexually explicit deepfakes, including images of minors. In another era, a content moderation disaster of this magnitude would have had the CEO flipping the kill switch on the product within hours. But in Elon Musk's brave new world, the  …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-29T21:06:52.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "xAI verklagt den Generalstaatsanwalt von Minnesota, Keith Ellison, wegen eines im Mai verabschiedeten Gesetzes, das im Großen und Ganzen auf „Nacktifizierungs“-Apps abzielt, und behauptet, dass die Strafbestimmungen des Gesetzes dem Unternehmen „keine praktische andere Wahl lassen, als die Bildbearbeitungsfunktionen von Grok Imagine auf verschiedene Weise einzuschränken“. Das Gesetz, d...",
-    "titleDE": "xAIs Last-Minute-Kampf, Minnesotas Anti-Nacktifizierungs-App-Gesetz zu stoppen"
-  },
-  {
-    "title": "The Hugging Face break-in explained",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "pubDate": "2026-07-29T19:44:49.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Eine andere Möglichkeit, über das Ganze nachzudenken, besteht darin, sich einen Bären auf einem Campingplatz vorzustellen. (Wirklich, wir gehen dorthin.)",
-    "titleDE": "Der Einbruch in Hugging Face erklärt"
-  },
-  {
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "pubDate": "2026-07-29T18:45:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neueste Automatensimulation von Andon Labs zeigt, dass Opus 5 gelogen und konspiriert hat, um der beste KI-Kapitalist aller Zeiten zu werden.",
-    "titleDE": "Claude Opus 5 wurde geradezu rücksichtslos, als er mit der Bedienung eines Verkaufsautomaten beauftragt wurde"
-  },
-  {
-    "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier rumors that the device might be a wearable like the Humane AI pin. He didn't give a release date, either, only saying that \"you can expect them soon.\"\n\nWhen asked about whether Apple's lawsuit against OpenAI could impact the devices it's working on with former Apple designer Jony Ive, Brockman said, \"We are focused on o …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-29T18:15:02.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "In einem Interview mit unserer Freundin Joanna Stern auf ihrem YouTube-Kanal sagte OpenAI-Präsident Greg Brockman, das Unternehmen arbeite an einer „Gerätefamilie“ für die Interaktion mit seinen KI-Modellen. Allerdings bestätigte Brockman keine Berichte, dass es sich bei einem dieser Geräte um einen intelligenten Lautsprecher von OpenAI handelt, der Gerüchten zufolge ...",
-    "titleDE": "Der Präsident von OpenAI sagt, dass es „eine Gerätefamilie aufbaut“. für seine KI-Chatbots"
   },
   {
     "title": "How an overlooked geothermal plant got a second chance",
@@ -140,16 +460,6 @@
     "titleDE": "Wie eine übersehene Geothermieanlage eine zweite Chance bekam"
   },
   {
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-    "pubDate": "2026-07-29T15:35:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das von Martha Stewart mitbegründete KI-Hausverwaltungs-Startup Hint möchte eine „KI für Ihr Zuhause“ werden und Immobilienunterlagen, Wartungspläne, Hausdokumente und einen KI-Assistenten in einer einzigen App kombinieren.",
-    "titleDE": "Hint, ein neues KI-Startup, das von Martha Stewart mitbegründet wurde, bietet einen KI-Assistenten für Hausbesitzer"
-  },
-  {
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
     "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
     "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
@@ -160,16 +470,6 @@
     "titleDE": "Wie die Aktivierung zweier Einstellungen unsere Ergebnisse beim ARC-AGI-3-Benchmark verdreifachte"
   },
   {
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-    "pubDate": "2026-07-29T14:41:06.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Startup analysiert Anrufe, Nachrichten und CRM-Daten, um effektive Verkaufstechniken zu identifizieren und sie in Playbooks für KI-Agenten umzuwandeln.",
-    "titleDE": "Encore AI sammelt 30 Millionen US-Dollar, um KI-Agenten zu entwickeln, die aus Kundenanrufen lernen"
-  },
-  {
     "title": "The Download: a chip talent battle, and deflating AI hype",
     "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
@@ -178,46 +478,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Samsungs Chiparbeiter springen ab und treten gegen SK Hynix Lee an, einen Ingenieur in der Halbleiterabteilung von Samsung, der früher lange arbeitete. Aber in letzter Zeit hat er ...",
     "titleDE": "Der Download: ein Chip-Talent-Kampf und ein nachlassender KI-Hype"
-  },
-  {
-    "title": "Artists are lawyering up against AI slop, and some are even winning",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-    "description": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he spent \"five to six years researching, writing, and investigating\" - had been pirated and fed to a chatbot. He says he felt a \"cocktail\" of emotions: \"anger over the brazenness of the theft, worry over what this means for writers, and a healthy thirst for revenge on these massive corporations that have become galactically wealthy\" using his  …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-29T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Künstler, deren Werke von AI kooptiert wurden, ziehen vor Gericht. | Bild: Alex Parkin / The Verge Als The Atlantic einen durchsuchbaren Datensatz von Werken veröffentlichte, die zum Trainieren von KI verwendet wurden, suchte Kirk Wallace Johnson, wie viele Künstler, aus Neugier nach seinem Namen. Und wie viele Künstler hat er es gefunden. Ess...",
-    "titleDE": "Künstler wehren sich gegen KI-Schwachstellen, und einige gewinnen sogar"
-  },
-  {
-    "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-    "description": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems.  \nIn an update to a blog post detailing its ongoing investigation into the incident, OpenAI said the wayward AI agent attacked several \"publicly-available services\" in its efforts to reach Hugging Face. \"This includes four accounts on four services,\" the company said, adding that the agent had found login credentials o …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-29T11:54:29.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der KI-Agent, der OpenAI entkommen war und die Entwicklerplattform Hugging Face gehackt hatte, griff auch andere Unternehmen an, wie OpenAI am Dienstag bekannt gab. Das Update weitet den Umfang eines bereits besorgniserregenden Vorfalls erheblich aus, der Brancheninsider alarmiert und wachsende Forderungen nach einer stärkeren Aufsicht ausgelöst hat.",
-    "titleDE": "Der abtrünnige KI-Agent von OpenAI begnügte sich nicht damit, Hugging Face zu hacken"
-  },
-  {
-    "title": "We’re running out of reasons to ignore AI safety",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-    "description": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work.\nWhat happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO of AI safety organization FAR.AI, put it, \"a visceral example of how misaligned AI could cause harm.\" According to OpenAI, the models escaped the sandbox meant to contain them, moved through the company's internal systems, found a route to the internet, and then started looking for a way into Hugging Face. And why was …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-29T11:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Anfang dieses Monats gab OpenAI mehreren seiner KI-Modelle die Aufgabe, einen Test durchzuführen, um ihre Cybersicherheitsfähigkeiten zu messen. Dadurch wurden die Systeme in eine Sandbox-Umgebung ohne Internetverbindung versetzt und in Betrieb genommen. Was dann geschah, ist fast lächerlich albern – aber auch, wie Ad...",
-    "titleDE": "Uns gehen die Gründe aus, die KI-Sicherheit zu ignorieren"
-  },
-  {
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-    "pubDate": "2026-07-29T11:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Pangram hat 9 Millionen US-Dollar gesammelt, um seine KI-Erkennungssoftware zu erweitern. Das Startup hat außerdem ein neues KI-Texterkennungsmodell, Pangram 4, und ein KI-Bilderkennungsmodell in der Forschungsvorschau veröffentlicht.",
-    "titleDE": "Während KI-Inhalte das Internet überschwemmen, sammelt Pangram 9 Millionen US-Dollar, um sie zu erkennen"
   },
   {
     "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -240,16 +500,6 @@
     "titleDE": "Der KI-Hype-Index: Unsexy KI"
   },
   {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "description": "The deal is Cyera's third acquisition this year.",
-    "pubDate": "2026-07-29T00:09:05.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Deal ist die dritte Akquisition von Cyera in diesem Jahr.",
-    "titleDE": "Cyera willigt ein, Oasis Security für 1 Milliarde US-Dollar zu erwerben, um die zunehmende Verbreitung von KI-Agenten zu schützen"
-  },
-  {
     "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
     "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
     "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
@@ -268,56 +518,6 @@
     "category": "news",
     "descriptionDE": "Von der Nutzung von JFrog Artifactory durch OpenAI-Modelle (0 Tage) bis zur Veröffentlichung eines Patches vergingen 10 Tage.",
     "titleDE": "Wir haben jetzt ein besseres Verständnis dafür, wie OpenAI sich in Hugging Face gehackt hat"
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "pubDate": "2026-07-28T21:29:34.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Spur Intelligence hat von Insight Partners eine 200-Millionen-Dollar-Runde für seine Technologie erhalten, die legitimen menschlichen Datenverkehr von Bots identifizieren kann.",
-    "titleDE": "Das Bot-Erkennungs-Startup Spur kassiert 200 Millionen US-Dollar von Insight"
-  },
-  {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-    "pubDate": "2026-07-28T20:45:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Runlayer verklagt Rippling, nachdem Rippling das MCP-Gateway-Produkt des Startups evaluiert und sich dann dafür entschieden hat, selbst eines zu bauen.",
-    "titleDE": "Das MCP-Startup Runlayer wirft Rippling vor, seine Produktidee gestohlen zu haben"
-  },
-  {
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "pubDate": "2026-07-28T20:17:08.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sein Positionswechsel erfolgt nach „dem ersten Sicherheitsvorfall, den ich sehr tief empfunden habe“.",
-    "titleDE": "Sam Altman ist bereit zur Entschleunigung"
-  },
-  {
-    "title": "AI leaders sign a statement asking the government to do something about automated AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in the statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability developmen …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-28T19:46:43.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Mitarbeiter von OpenAI und Anthropic sowie von Google, Meta, Thinking Machines, Microsoft, Mistral und anderen führenden KI-Laboren haben eine Erklärung an die US-Regierung verfasst, in der sie eine mögliche Verlangsamung der bahnbrechenden KI-Entwicklung befürworten – oder zumindest eine Beschleunigung der global koordinierten Governance-E...",
-    "titleDE": "KI-Führungskräfte unterzeichnen eine Erklärung, in der sie die Regierung auffordern, etwas gegen automatisierte KI zu unternehmen"
-  },
-  {
-    "title": "AI’s finally expensive enough to make Wall Street nervous",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "description": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously forecast as its top end spending. Now, look, I recognize that there's an impulse to say things like \"What's $15 billion between friends?\" but from an investor's perspective, Google has essentially said that it can't accurately forecast its costs, which is a scary thing. Plus, Google is spending more money than it's making. And Google …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-28T19:33:03.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Hart arbeiten oder hart arbeiten? | Bild: Cath Virginia / The Verge, Getty Images Es ist Berichtssaison und die Anleger erlebten eine unangenehme Überraschung von Google: eine Erhöhung seiner Ausgabenschätzung auf bis zu 205 Milliarden US-Dollar – von der Prognose des letzten Quartals von bis zu 190 Milliarden US-Dollar. Sogar die unteren e...",
-    "titleDE": "KI ist endlich teuer genug, um die Wall Street nervös zu machen"
   },
   {
     "title": "Scientific computing in the age of agentic AI",
@@ -340,36 +540,6 @@
     "titleDE": "Gemini API Managed Agents: 3.6 Flash, Hooks und mehr"
   },
   {
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-    "pubDate": "2026-07-28T15:42:26.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Entscheidung fällt zu einem Zeitpunkt, zu dem Netzbetreiber aufgrund des rasanten Tempos beim Bau von Rechenzentren darum kämpfen, Strom zu erzeugen.",
-    "titleDE": "Rechenzentren könnten mit vorübergehenden Stromausfällen rechnen, um Stromausfälle im größten US-Netz zu verhindern"
-  },
-  {
-    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-    "pubDate": "2026-07-28T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Seit seiner Gründung im letzten Jahr hat das Startup heute über 8 Millionen Menschen, die die Open-Source- oder gehostete Version seiner Modelle nutzen, und erwirtschaftet nun einen wiederkehrenden Jahresumsatz von 21 Millionen US-Dollar.",
-    "titleDE": "Fish Audio sammelt 52 Millionen US-Dollar Startkapital für die Entwicklung von KI-Sprachmodellen für Entwickler und Unternehmen"
-  },
-  {
-    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-    "pubDate": "2026-07-28T13:19:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Schwerpunkt von Recursive auf sich selbst verbessernden KI-Systemen bedeutet, dass ein Großteil des Budgets, das traditionell für Personalbestand und Betrieb verwendet würde, direkt in die Datenverarbeitung gesteckt wird, da das Unternehmen seinen eigenen Produktentwicklungsprozess automatisieren möchte.",
-    "titleDE": "Recursive Superintelligence unterzeichnet Rechenvertrag über 410 Millionen US-Dollar mit Amazon"
-  },
-  {
     "title": "5 ways AI Mode in Search helps you enjoy the real world",
     "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
     "description": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
@@ -390,16 +560,6 @@
     "titleDE": "5 Möglichkeiten, mit der Google-Suche die ultimative Dinnerparty zu veranstalten"
   },
   {
-    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-    "description": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform actions on your behalf, such as creating documents and updating spreadsheets.\nThis launch builds on Personal Computer integrations that Perplexity launched for Microsoft's 365 workspace apps and Teams virtual meeting software in May. Personal Computer for Windows aims to bridge the remaining gap by  …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-28T12:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Perplexity hat sein agentenbasiertes Personal-Computer-Tool auf Windows ausgeweitet, sodass Computer mit dem weltweit beliebtesten Betriebssystem als lokal ausgeführtes KI-System genutzt werden können. Wie die Mac-Version, die Perplexity im April auf den Markt brachte, funktioniert Personal Computer für Windows wie ein „allgemeiner digitaler Worker“ ...",
-    "titleDE": "Der Personal Computer von Perplexity verwandelt Windows-PCs in KI-Agenten"
-  },
-  {
     "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
     "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their…",
@@ -416,28 +576,8 @@
     "pubDate": "2026-07-28T09:18:57.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Lee, ein Ingenieur in der Halbleiterabteilung von Samsung, stempelt ab, wenn seine Schicht zu Ende ist. Früher arbeitete er länger und ging die Extrameile, um bei seinen Projekten hervorragende Leistungen zu erbringen. Aber in letzter Zeit kommt er direkt nach Hause, um an seiner Bewerbung für den südkoreanischen Rivalen des Chipherstellers, SK Hynix, zu arbeiten und Tipps zu geben ...",
+    "descriptionDE": "Lee, ein Ingenieur in der Halbleiterabteilung von Samsung, stempelt ab, wenn seine Schicht zu Ende ist. Früher arbeitete er länger und ging die Extrameile, um bei seinen Projekten hervorragende Leistungen zu erbringen. Aber in letzter Zeit kommt er direkt nach Hause, um an seiner Bewerbung für den südkoreanischen Rivalen des Chipherstellers, SK Hynix, zu arbeiten und Tipps mit ...",
     "titleDE": "Die Chip-Hersteller von Samsung springen zum Rivalen SK Hynix"
-  },
-  {
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "pubDate": "2026-07-28T04:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut Cursor ist Indien mittlerweile der drittgrößte Markt weltweit und plant, die Einstellungs- und Unternehmensverkäufe vor Ort auszuweiten.",
-    "titleDE": "Mit lokalisierten Preisen unternimmt Cursor vor der SpaceX-Übernahme seinen bisher größten Indien-Vorstoß"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-    "pubDate": "2026-07-28T00:13:33.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic-Gründer und CEO Dario Amodei machte seine Ansichten zu Open-Weight-Modellen und Chinas wachsenden KI-Fähigkeiten deutlich.",
-    "titleDE": "Dario Amodei von Anthropic antwortet: Er ist nicht gegen Open-Weight-Modelle, hat aber Angst vor chinesischer KI"
   },
   {
     "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -450,63 +590,13 @@
     "titleDE": "Microsoft stellt KI-Sicherheitstools vor, von denen es sagt, dass sie konkurrierende Plattformen übertreffen"
   },
   {
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
-    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
-    "pubDate": "2026-07-27T18:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Als ich letzte Woche den Bericht von OpenAI darüber las, wie einige seiner Modelle ihre Eindämmung durchbrachen und sich in die Computersysteme von Hugging Face, einem anderen KI-Unternehmen, hackten, war...",
-    "titleDE": "OpenAI bezeichnete den Hugging-Face-Angriff als beispiellos. Aber wir waren schon einmal hier."
-  },
-  {
-    "title": "How lasers could help provide fuel for nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-    "description": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
-    "pubDate": "2026-07-27T14:24:42.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Außerhalb der Kleinstadt Paducah in Kentucky ist eine Fülle von Uran in Tausenden von Lagerzylindern eingeschlossen, die mit Abfallmaterial aus einer inzwischen geschlossenen nuklearen Anreicherungsanlage gefüllt sind. Laser könnten helfen, es herauszuholen. Ein Unternehmen namens Global Laser Enrichment (GLE) möchte dieses alte Material wiederaufbereiten ...",
-    "titleDE": "Wie Laser dabei helfen könnten, Kernreaktoren mit Treibstoff zu versorgen"
-  },
-  {
-    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-    "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors  Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…",
-    "pubDate": "2026-07-27T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie Laser dabei helfen könnten, Brennstoff für Kernreaktoren bereitzustellen. Kernenergie liefert heute etwa 9 % des weltweiten Stroms, und dieser Anteil könnte steigen, wenn Länder ...",
-    "titleDE": "Der Download: Laser für Kernbrennstoffe und Fortschritte bei der Organkonservierung"
-  },
-  {
-    "title": "The path to artificial superintelligence",
-    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
-    "pubDate": "2026-07-27T12:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Stellen Sie sich ein Gesundheitssystem vor, das aus mehreren KI-Agenten besteht: einem, der die Symptombeurteilung verwaltet, einem anderen, der die Terminplanung übernimmt, einer dritten Versicherung und einer vierten Apotheke. Jeder ist ein Experte auf seinem Gebiet. Aber sie alle haben ihre eigenen spezifischen Kenntnisse und Ziele. Heute können sie Daten austauschen, aber das sind sie nicht...",
-    "titleDE": "Der Weg zur künstlichen Superintelligenz"
-  },
-  {
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
-    "pubDate": "2026-07-27T11:40:16.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die Arzneimittelforschung ist ein kostspieliges und risikoreiches Unterfangen, das durch einen Markt, der zunehmend durch den Vorteil des Erstanbieters geprägt ist, zunehmendem Druck ausgesetzt ist. Seit den 1950er Jahren haben sich die Kosten für die Entwicklung neuer Arzneimittel etwa alle neun Jahre verdoppelt – ein Phänomen, das als Eroom-Gesetz bekannt ist. Heute bringe ich ein neues Medikament ...",
-    "titleDE": "Den Datenkreislauf in der KI-gesteuerten Arzneimittelentwicklung schließen"
-  },
-  {
     "title": "How AI is expanding what people do at work",
     "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
     "pubDate": "2026-07-27T03:30:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Neue OpenAI-Studien zeigen, wie KI die Aufgaben von Arbeitnehmern erweitert, indem ChatGPT-Benutzer rollenübergreifend Aufgaben übernehmen und Jobgrenzen neu gestalten.",
+    "descriptionDE": "Neue OpenAI-Studien zeigen, wie KI die Aufgaben von Arbeitnehmern erweitert, indem ChatGPT-Benutzer rollenübergreifende Aufgaben übernehmen und Jobgrenzen neu gestalten.",
     "titleDE": "Wie KI die Möglichkeiten der Menschen bei der Arbeit erweitert"
   }
 ]
