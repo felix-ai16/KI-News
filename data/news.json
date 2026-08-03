@@ -1,5 +1,45 @@
 [
   {
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+    "pubDate": "2026-08-03T08:30:05.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "MIT Technology Review erklärt: Lassen Sie unsere Autoren die komplexe, chaotische Welt der Technologie entwirren, damit Sie besser verstehen, was als nächstes kommt. Mehr aus der Serie können Sie hier lesen. Als sich im Juli zwei OpenAI-Modelle in die Website Hugging Face hackten, hatten sie nicht vor, Geld zu verdienen oder Sabotage zu begehen ...",
+    "titleDE": "Hier erfahren Sie, warum KI-Agenten lügen und betrügen, um ihre Ziele zu erreichen"
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "pubDate": "2026-08-02T20:54:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In der neuesten Folge von Equity diskutieren wir, warum Sam Altman die Branche dazu auffordert, „das Tempo der KI-Entwicklung zu beschleunigen“.",
+    "titleDE": "Die Verzögerungsdebatte von Sam Altman und KI"
+  },
+  {
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "description": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off basically the entire guitar-playing community by sending cease-and-desist letters to builders, claiming copyright of the Stratocaster body shape.\nSome influential guitar YouTubers have even said they're done buying Fender gear in the wake of the controversy. And Cole's resurfaced comments comparing cover songs and bandmates to a sort …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-02T19:36:08.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Edward „Bud“ Cole spricht 2023 in Japan. | Bild: Jun Sato/WireImage Edward „Bud“ Cole, CEO von Fender, gab T3 im Mai ein Interview zur Feier des 75-jährigen Jubiläums des Telecaster mit Kommentaren zu KI und Musik, die zunächst unter dem Radar blieben. Aber es hat in letzter Zeit begonnen, die Runde zu machen, z.",
+    "titleDE": "Der CEO von Fender scheint zu glauben, dass Ihre Bandkollegen nur analoge KI sind"
+  },
+  {
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "description": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition.\nLike most companies selling access to text-to-video models, Pippa's main product is short bursts of user-generated footage that can be cobbled toget …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-02T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Illustratoren haben jahrelang Alarm geschlagen, weil Startups im Bereich der generativen künstlichen Intelligenz ihre Modelle ohne Erlaubnis an der Arbeit von Künstlern trainieren. Sie haben darauf hingewiesen, dass diese Praxis einem Diebstahl gleichkommt, und als Reaktion darauf haben viele KI-Booster der Generation argumentiert, dass dies für die Technologie notwendig sei ...",
+    "titleDE": "Reicht die Bezahlung von Künstlern aus, um sie davon zu überzeugen, KI zu nutzen?"
+  },
+  {
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
@@ -97,7 +137,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Ein Tool, das es jedem ermöglichte, gefälschte KI-generierte Bilder zu erstellen und diese mit echten Google Earth-Karten zu überlagern, löste schnell Gegenreaktionen aus.",
-    "titleDE": "Google stellt seine Earth-AI-Funktion einen Tag nach der Einführung ein, da kritisiert wird, dass sie Fehlinformationen verbreiten würde"
+    "titleDE": "Google stellt seine Earth-AI-Funktion einen Tag nach der Einführung ein, weil kritisiert wird, dass sie Fehlinformationen verbreiten würde"
   },
   {
     "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
@@ -117,7 +157,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Nachdem Sam Altman, CEO von OpenAI, jahrelang die KI mit Hochdruck vorangetrieben hat, meint er, es sei vielleicht an der Zeit, dass die KI-Branche „ihr Tempo annimmt“. Die Kommentare kamen nur wenige Tage, nachdem eines der OpenAI-eigenen Modelle aus seiner Testumgebung ausgebrochen war und in einen Sicherheitsverstoß bei Hugging Face geraten war – allerdings, wie die Gastgeber von Equity anmerkten...",
-    "titleDE": "Sam Altman ist nicht der Einzige, der die KI bremsen möchte"
+    "titleDE": "Sam Altman ist nicht der Einzige, der die KI bremsen möchte"
   },
   {
     "title": "Here’s the problem with putting an AI image generator in Google Earth",
@@ -206,7 +246,7 @@
     "pubDate": "2026-07-31T14:03:04.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Wenn der Satz „OpenAI hat Hugging Face gehackt“ mehr oder weniger Einzug in die Mainstream-Kultur gehalten hat, wissen Sie, dass wir ein KI-Problem haben. Diese Woche erfuhren wir mehr darüber, wie der Agent von OpenAI aus einer Sandbox ausbrach und autonom das Web durchquerte, einschließlich einer Reihe anderer vermeintlich sicherer Webdienste, ...",
+    "descriptionDE": "Wenn der Satz „OpenAI hat Hugging Face gehackt“ mehr oder weniger Einzug in die Mainstream-Kultur gehalten hat, wissen Sie, dass wir ein KI-Problem haben. Diese Woche erfuhren wir mehr darüber, wie genau der Agent von OpenAI aus einer Sandbox ausbrach und autonom das Web durchquerte, einschließlich einer Reihe anderer vermeintlich sicherer Webdienste, ...",
     "titleDE": "Es ist Zeit, wegen der KI-Sicherheit in Panik zu geraten"
   },
   {
@@ -226,7 +266,7 @@
     "pubDate": "2026-07-31T13:41:17.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Anthropic hat gerade festgestellt, dass mehrere seiner Claude-KI-Modelle sich während der Tests in die Systeme von drei verschiedenen Organisationen gehackt haben und eigenständig und ohne dass das Unternehmen es bemerkt hat, agierten. Die Enthüllung erfolgt wenige Tage, nachdem der Konkurrent OpenAI sagte, eines seiner eigenen Modelle habe die Entwicklerplattform Hugging Face verletzt.",
+    "descriptionDE": "Anthropic hat gerade festgestellt, dass mehrere seiner Claude-KI-Modelle sich während der Tests in die Systeme von drei verschiedenen Organisationen gehackt haben und dabei eigenständig und ohne dass das Unternehmen es bemerkte, agierten. Die Enthüllung erfolgt wenige Tage, nachdem der Konkurrent OpenAI sagte, eines seiner eigenen Modelle habe die Entwicklerplattform Hugging Face verletzt.",
     "titleDE": "Anthropic sagt, Claude habe versehentlich auch echte Unternehmen gehackt"
   },
   {
@@ -247,7 +287,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Kris DeVault ist verzweifelt. Sein Sohn Brody wurde im März 2023 geboren. Es dauerte nicht lange, bis er Anzeichen einer Entwicklungsverzögerung zeigte, sagt DeVault. Mit der Zeit versäumten Brody wichtige Meilensteine ​​in Sprache, Bewegung und Koordination, sagt er. Als Brody etwa zweieinhalb Jahre alt war...",
-    "titleDE": "Für einige kann das neue „Recht auf Gerichtsverfahren“-Gesetz in Montana nicht früh genug kommen"
+    "titleDE": "Für manche kann das neue „Recht auf Gerichtsverfahren“-Gesetz in Montana nicht früh genug kommen"
   },
   {
     "title": "Univé builds an AI-ready workforce",
@@ -360,36 +400,6 @@
     "titleDE": "Friend, das einsame KI-Wearable, kehrt mit einer neuen Stimme und einem viel höheren Preis zurück"
   },
   {
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-    "pubDate": "2026-07-30T18:57:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wie Experten seit zwei Jahren warnen, finden und beheben einige Unternehmen – wie Microsoft und jetzt Google – dank des Einsatzes von LLMs und KI-Tools eine exponentielle Anzahl von Fehlern in ihren Produkten.",
-    "titleDE": "Google gibt an, im Juni dank KI mehr Chrome-Fehler behoben zu haben als in den letzten zwei Jahren"
-  },
-  {
-    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-    "description": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\"\nThe new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram recently found that 41 percent of longform LinkedIn posts were flagged as being completely generated by AI, as reported by 404Media.\n\"AI slop is a top priority for all of us,\" chief product officer Hari Srinivasan says in a post. \"We reall …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-30T18:43:26.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Viele Inhalte auf LinkedIn scheinen wie künstliche Intelligenz zu sein, und jetzt können Sie diese Beiträge melden. Im Rahmen einer Reihe von Aktualisierungen zur Reduzierung der Menge an KI-Fehlern auf der Plattform führt LinkedIn eine Schaltfläche ein, mit der Sie einen Beitrag als etwas kennzeichnen können, das „wie KI-Fehler aussieht“. Das neue Kunststück...",
-    "titleDE": "LinkedIn fügt tatsächlich einen „Sieht aus wie KI-Slop“-Button hinzu"
-  },
-  {
-    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "description": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.\nThe new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik's Apollo 2 robot can bend over to pick up a watering can, as well as find and take specific items off a shelf. \n\nThough Google DeepMind not …\nRead the full story at The Verge.",
-    "pubDate": "2026-07-30T17:18:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Apollo-2-Roboter von Apptronik nimmt einen Baseballhandschuh aus einem Regal. | Bild: Google Laut Google DeepMind kann die neueste Version seines KI-Modells Gemini Robotics „ganze humanoide Roboter steuern“. Während sich das Vorgängermodell auf die Steuerung des Oberkörpers eines humanoiden Roboters konzentrierte, unterstützt Gemini Robotics 2 jetzt...",
-    "titleDE": "Das neue KI-Modell von Google DeepMind kann den gesamten Körper eines Roboters steuern"
-  },
-  {
     "title": "Montana’s plan to become an experimental medical hub just pushed forward",
     "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
     "description": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
@@ -496,7 +506,7 @@
     "pubDate": "2026-07-29T08:42:57.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Es fühlt sich schon schlimm genug an, wenn in einem von führenden Wirtschaftswissenschaftlern unterzeichneten offenen Brief davor gewarnt wird, dass KI Ihnen den Job stehlen könnte. Die Tatsache, dass es vielleicht bald besser darin ist, das Abendessen zuzubereiten als Sie? Beleidigung zur Verletzung. Aber genau das hat das Unternehmen 1X versprochen, als es ein Paar neuer, beeindruckend geschickter (und für manche ...) vorstellte.",
+    "descriptionDE": "Es fühlt sich schon schlimm genug an, wenn ein offener Brief, unterzeichnet von führenden Wirtschaftswissenschaftlern, davor warnt, dass KI Ihnen den Job stehlen könnte. Die Tatsache, dass es vielleicht bald besser darin ist, das Abendessen zuzubereiten als Sie? Beleidigung zur Verletzung. Aber genau das hat das Unternehmen 1X versprochen, als es ein Paar neuer, beeindruckend geschickter (und für manche ...) vorstellte.",
     "titleDE": "Der KI-Hype-Index: Unsexy KI"
   },
   {
@@ -570,16 +580,6 @@
     "titleDE": "Der Download: Der vorhersehbare Hack von OpenAI und ein Ausverkauf der KI-Aktien"
   },
   {
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
-    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "description": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…",
-    "pubDate": "2026-07-28T09:18:57.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Lee, ein Ingenieur in der Halbleiterabteilung von Samsung, stempelt ab, wenn seine Schicht zu Ende ist. Früher arbeitete er länger und ging die Extrameile, um bei seinen Projekten hervorragende Leistungen zu erbringen. Aber in letzter Zeit kommt er direkt nach Hause, um an seiner Bewerbung für den südkoreanischen Rivalen des Chipherstellers, SK Hynix, zu arbeiten und Tipps mit ...",
-    "titleDE": "Die Chip-Hersteller von Samsung springen zum Rivalen SK Hynix"
-  },
-  {
     "title": "Microsoft unveils AI security tools it says outperform competing platforms",
     "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
     "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
@@ -588,15 +588,5 @@
     "category": "news",
     "descriptionDE": "Microsoft sagt, dass Tools weniger kosten als konkurrierende Tools und diese auch übertreffen.",
     "titleDE": "Microsoft stellt KI-Sicherheitstools vor, von denen es sagt, dass sie konkurrierende Plattformen übertreffen"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "pubDate": "2026-07-27T03:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Neue OpenAI-Studien zeigen, wie KI die Aufgaben von Arbeitnehmern erweitert, indem ChatGPT-Benutzer rollenübergreifende Aufgaben übernehmen und Jobgrenzen neu gestalten.",
-    "titleDE": "Wie KI die Möglichkeiten der Menschen bei der Arbeit erweitert"
   }
 ]
