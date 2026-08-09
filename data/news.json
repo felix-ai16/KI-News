@@ -1,5 +1,35 @@
 [
   {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+    "pubDate": "2026-08-08T21:24:02.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Als Teil eines geplanten Rechenzentrums in Texas investiert Amazon in ein Kraftwerk vor Ort, das Berichten zufolge zur größten Quelle der Klimaverschmutzung in den Vereinigten Staaten werden könnte.",
+    "titleDE": "Geplantes Amazon-Rechenzentrum könnte zum größten Klimaverschmutzer der USA werden"
+  },
+  {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "description": "NextSlide says its team members are now working on ChatGPT.",
+    "pubDate": "2026-08-08T19:41:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "NextSlide sagt, dass seine Teammitglieder jetzt an ChatGPT arbeiten.",
+    "titleDE": "OpenAI übernimmt das Präsentations-Startup NextSlide"
+  },
+  {
+    "title": "An Amazon data center could have the worst polluting power plant in the country",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\nAccording to Cleanview, which tracks data centers and their associated power projects, GW Ranch received a permit from Texas allowing for the …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-08T17:53:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Um sein neues Rechenzentrum in West Texas mit Strom zu versorgen, investiert Amazon in den Bau eines neuen Kraftwerks, das laut der New York Times einer der größten Einzelproduzenten von Treibhausgasen in den USA sein könnte. Die neue Gasverbrennungsanlage in Pecos County, Texas, hat erhebliche Investitionen erhalten ...",
+    "titleDE": "Ein Amazon-Rechenzentrum könnte das umweltschädlichste Kraftwerk des Landes haben"
+  },
+  {
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
@@ -250,16 +280,6 @@
     "titleDE": "Inmitten von Rechtsstreitigkeiten kündigt Suno an, Songs mit Wasserzeichen zu versehen"
   },
   {
-    "title": "The messy politics behind Google’s big AI shakeup",
-    "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-    "description": "Google CEO Sundar Pichai at Google I/O. | Photo by Benjamin Fanjoy/Getty Images\t\n\nIn the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success.\nBut the reality is that the laundry list of executive changes likely signal deeper issues within Google's AI organization. That starts with its tenuous position in the AI race, and it stretches to problems like Google DeepMind leader Demis Hassabis' interest in longer-term research over shorter-term product shipping, as well as bubbling p …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-06T13:26:42.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google-CEO Sundar Pichai bei Google I/O. | Foto von Benjamin Fanjoy/Getty Images In der KI-Branche ist Google stolz darauf, wie der Erwachsene im Raum zu wirken: ruhig, stabil, bewährt. Am Mittwoch, als das Unternehmen seine bislang größte Umstrukturierung der KI-Organisation ankündigte, präsentierten Google und seine Führungskräfte eine U...",
-    "titleDE": "Die chaotische Politik hinter Googles großer KI-Umstellung"
-  },
-  {
     "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
     "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
     "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
@@ -370,26 +390,6 @@
     "titleDE": "Klaviyo erwirbt die Agentur von Elias Torres und damit schließt sich der Kreis der Tech-Gründer"
   },
   {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-    "pubDate": "2026-08-05T19:30:19.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der legendäre Google-Manager wird von anderen scheidenden Google-Managern in einer gemeinsamen Mission unterstützt, um mithilfe von KI den Prozess wissenschaftlicher Entdeckungen voranzutreiben.",
-    "titleDE": "Jeff Dean und andere führende KI-Forscher verlassen Google, um ihr eigenes Startup zu gründen"
-  },
-  {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "description": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-    "pubDate": "2026-08-05T15:56:14.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Shopify sagt, dass KI den Suchverkehr nicht so ausschlachten kann, wie es bei Publishern der Fall war. Stattdessen verdreifachten sich der KI-gesteuerte Traffic und die Bestellungen an Shopify-Shops im zweiten Quartal im Jahresvergleich.",
-    "titleDE": "Laut Shopify sorgt die KI-Suche für mehr Traffic und Verkäufe und ersetzt nicht Google"
-  },
-  {
     "title": "Puzzle Corner",
     "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
     "description": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
@@ -486,7 +486,7 @@
     "pubDate": "2026-08-03T15:00:00.000Z",
     "source": "Google AI",
     "category": "news",
-    "descriptionDE": "Kaggles AI Agents Intensive with Google brachte Lernende in einem kostenlosen Kurs zusammen, um die nächste Grenze der KI aufzubauen und einzusetzen.",
+    "descriptionDE": "Kaggles AI Agents Intensive with Google brachte Lernende in einem kostenlosen Kurs zusammen, um die nächste Grenze der KI aufzubauen und umzusetzen.",
     "titleDE": "In unserem Vibe-Coding-Kurs mit 353.000 Teilnehmern"
   },
   {
@@ -496,7 +496,7 @@
     "pubDate": "2026-08-03T12:08:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Hier erfahren Sie, warum KI-Agenten lügen und betrügen, um ihre Ziele zu erreichen. Als sich zwei OpenAI-Modelle letzten Monat in Hugging Face hackten, versuchten sie nicht, Geld zu verdienen oder Sa...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Hier erfahren Sie, warum KI-Agenten lügen und betrügen, um ihre Ziele zu erreichen. Als sich letzten Monat zwei OpenAI-Modelle in Hugging Face hackten, versuchten sie nicht, Geld zu verdienen oder etwas zu begehen.",
     "titleDE": "Der Download: Hacking erklärt und vermutet iranische Cyberangriffe"
   },
   {
