@@ -1,53 +1,453 @@
 [
   {
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "description": "San Francisco's housing market is in trouble again.",
-    "pubDate": "2026-08-11T00:03:18.000Z",
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "pubDate": "2026-08-12T22:26:37.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Der Immobilienmarkt in San Francisco ist erneut in Schwierigkeiten.",
-    "titleDE": "Berichten zufolge hat OpenAI ein Übernahmeangebot für Mitarbeiter im Wert von 7 Milliarden US-Dollar abgeschlossen"
+    "descriptionDE": "Ist das neue Wasserzeichensystem von Anthropic eine Farce? Einige haben sich in den sozialen Medien darüber beschwert.",
+    "titleDE": "Einige Claude-Benutzer sind sauer, dass die neuen Wasserzeichen von Anthropic sie dazu bringen, es bei ihrer Arbeit oder im Unterricht zu verwenden"
   },
   {
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "pubDate": "2026-08-10T23:56:15.000Z",
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "description": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+    "pubDate": "2026-08-12T21:43:21.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Die Daten wurden von 2.500 Benutzern eines kompromittierten KI-Pakets abgekratzt und exfiltriert.",
+    "titleDE": "Bei einem massiven Angriff auf die Lieferkette sind Terabytes an Zugangsdaten durchgesickert"
+  },
+  {
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "pubDate": "2026-08-12T20:10:40.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "OpenAI erweitert sein KI-Cybersicherheits-Abwehrprogramm Daybreak und führt damit ein neues Cyber-trainiertes KI-Modell ein.",
-    "titleDE": "Da sich KI-gesteuerte Angriffe vervielfachen, führt OpenAI ein neues Cyber-Modell ein"
+    "descriptionDE": "„Wenn das Opt-in wäre, würde sich niemand anmelden“, sagte Mike Minton, CPO von Twitch, in einem Livestream als Reaktion auf Benutzerfeedback. „Das ist ehrlich gesagt die Antwort.“",
+    "titleDE": "Amazon trainiert standardmäßig auf den Inhalten von Twitch-Streamern, es sei denn, diese entscheiden sich dagegen"
   },
   {
-    "title": "Mark Zuckerberg doesn’t understand how to live",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-    "description": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What reaction was this man looking for? He probably hoped someone, maybe me, would say it was cool or inspiring. It seemed I was not the first person he'd told about this poster. \"You know, it's funny,\" he said to me. \"No one ever says anything about it.\" \nI have been thinking about this now for several days. There's a sort of turducken of things that I find off-puttin …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-10T22:00:00.000Z",
+    "title": "Scientists just created female clones of male mice",
+    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "description": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.  “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
+    "pubDate": "2026-08-12T18:59:48.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Wissenschaftler haben zum ersten Mal gezielt männliche Mäuseembryos in weibliche verwandelt. Ein in Japan ansässiges Team nutzte einen CRISPR-basierten Ansatz, um das Y-Chromosom aus männlichen Zellen zu entfernen und weibliche Klone männlicher Mäuse zu erstellen. „Das hat noch niemand gemacht“, sagt Monika Ward, Reproduktionsbiologin am …",
+    "titleDE": "Wissenschaftler haben gerade weibliche Klone männlicher Mäuse erstellt"
+  },
+  {
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "pubDate": "2026-08-12T18:19:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Cognition möchte möglicherweise nur wenige Monate nach der Beschaffung von 1 Milliarde US-Dollar bei einer Bewertung von 26 Milliarden US-Dollar eine weitere Mega-Runde aufbringen.",
+    "titleDE": "Berichten zufolge befindet sich das KI-Programmierungs-Startup Cognition bereits in Gesprächen über eine Kapitalerhöhung im Wert von 40 Milliarden US-Dollar"
+  },
+  {
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+    "pubDate": "2026-08-12T17:51:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Auf der Ai4 diskutierten drei der weltweit angesehensten KI-Experten – Geoffrey Hinton, Fei-Fei Li und Andrew Ng – über Regulierung, Open-Source-Zugang und wie Amerika mit dem Vormarsch Chinas in Asien konkurrieren kann.",
+    "titleDE": "Da Bedenken hinsichtlich der KI-Sicherheit zunehmen, plädieren drei Pioniere dafür, offen zu bleiben"
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "pubDate": "2026-08-12T17:41:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Thrive Holdings hat 2 Milliarden US-Dollar an neuen Mitteln zu einem Wert von 12 Milliarden US-Dollar von Investoren wie SoftBank, D1 Capital Partners und Altimeter Capital eingeworben.",
+    "titleDE": "Das von OpenAI unterstützte Thrive Holdings sammelt 2 Milliarden US-Dollar, um KI in das Unternehmen zu bringen"
+  },
+  {
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-12T17:29:10.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Kürzlich erzählte mir ein Mann, mit dem ich beim Klettern war, wie er mithilfe von KI ein Motivationsplakat für sich selbst erstellt und an die Wand seines Schlafzimmers gehängt hatte: ein Bär, der auf einer Slackline über eine Schlucht läuft und ein Schild mit der Aufschrift „Mach coolen Scheiß“ in der Hand hält. Ich machte, wie ich hoffte, ein höfliches Geräusch. Welche Reaktion war das...",
-    "titleDE": "Mark Zuckerberg versteht nicht, wie man lebt"
+    "descriptionDE": "Twitch-Benutzer können nun die Verwendung ihrer Inhalte zum Trainieren der generativen KI-Modelle von Amazon ablehnen. Wenn Sie sich abmelden, bedeutet dies, dass „Ihre Streams, VODs, Clips, Stream-Chats sowie Bilder und Texte auf Ihrem Kanal“ nicht für „zukünftige Schulungen“ eines Amazon-KI-Modells verwendet werden, „dessen Zweck darin besteht, …“",
+    "titleDE": "Twitch-Streamer können sich jetzt vom Training der KI von Amazon abmelden"
   },
   {
-    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-    "pubDate": "2026-08-10T20:53:02.000Z",
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+    "pubDate": "2026-08-12T16:57:58.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Am Montag veröffentlichte Mark Zuckerberg ein 6.500 Wörter umfassendes Manifest über persönliche KI, in dem es hauptsächlich um die Möglichkeiten der „persönlichen Superintelligenz“-Systeme geht, die Meta AI aufbaut.",
-    "titleDE": "Das KI-Manifest von Mark Zuckerberg ist genau der Grund, warum Menschen KI nicht mögen"
+    "descriptionDE": "Mesh, eine KI-gestützte Kontakt-App und Beziehungsmanager von Automattic, ist jetzt eine Android-App.",
+    "titleDE": "Mesh, das CRM von Automattic für alle, kommt für Android"
   },
   {
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-    "pubDate": "2026-08-10T20:04:24.000Z",
+    "title": "Scaling AI agents with trustworthy data",
+    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
+    "pubDate": "2026-08-12T16:51:57.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Unternehmens- und Technologieführer müssen nicht davon überzeugt werden, dass die Zeit der agentischen KI gekommen ist. Unternehmen setzen Agenten schnell ein, und nur wenige Führungskräfte bezweifeln das Potenzial der Technologie, die Arbeit zu verändern. Viele Unternehmen sind jedoch der Meinung, dass die Erzielung des gewünschten Return on Investment (ROI) durch KI von ... abhängt.",
+    "titleDE": "Skalierung von KI-Agenten mit vertrauenswürdigen Daten"
+  },
+  {
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
+    "pubDate": "2026-08-12T16:46:02.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Ein OpenClaw-Agent hat sich in das Reservierungssystem eines Fitnessstudios gehackt, um seinen menschlichen Chef auf der Warteliste eines Kurses nach oben zu bringen. Und die Technologiebranche wurde darauf aufmerksam.",
-    "titleDE": "Die Tech-Branche brummt, nachdem sich ein Claude-Agent in ein Fitnessstudio gehackt hat"
+    "descriptionDE": "KI-Hardware für Notizen hat sich in den letzten Jahren durchgesetzt. Geräte in Kreditkartengröße, Anhänger, Anstecknadeln und sogar Transkribierungs-Ohrhörer versprechen alle, Ihre Besprechungen festzuhalten und sie in Zusammenfassungen und Aktionselemente umzuwandeln. Mittlerweile lockt eine ganze Welle von Wearables – vor allem Ringe – bei Wetten ...",
+    "titleDE": "Warum Stream-Ringhersteller Sandbar sagt, dass die Zukunft von KI-Wearables in der Stimme liegt"
+  },
+  {
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+    "pubDate": "2026-08-12T16:04:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Diese neue Finanzierung erfolgt, nachdem Lovable im Juni einen jährlichen Run-Rate-Umsatz von 500 Millionen US-Dollar erzielt hat, sagte das Startup gegenüber TechCrunch.",
+    "titleDE": "Lovable bestätigt neue Bewertung von 13,3 Milliarden US-Dollar und sammelt weitere 400 Millionen US-Dollar ein"
+  },
+  {
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "description": "Maybe don’t let the AI shred next time. | Image: D’Addario\t\n\nAfter weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and Logic. But now the company has edited its original Instagram post denying the use of generative AI to say it was wrong. \nIn a lengthy update to its post from July 29th (embedded at the bottom), it said:\n …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-08-12T15:52:07.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Vielleicht lassen Sie die KI beim nächsten Mal nicht schreddern. | Bild: D’Addario Nach wochenlangen Kontroversen und Spekulationen hat das Musikunternehmen D’Addario zugegeben, dass KI, insbesondere Suno, im Rahmen eines aktuellen Werbevideos eingesetzt wurde. Fast zwei Wochen lang hat das Unternehmen die Vorwürfe zurückgewiesen, obwohl sich die Beweise häuften ...",
+    "titleDE": "Die Gitarrenfirma D’Addario gibt zu, dass in einem Werbevideo KI-Musik verwendet wurde"
+  },
+  {
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+    "pubDate": "2026-08-12T15:44:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Investoren warten immer noch auf ihren Anteil an den 250 Millionen US-Dollar, und VideoVerse-Mitbegründer Vinayak Shrivastav steht derzeit im Mittelpunkt mehrerer Rechtsstreitigkeiten.",
+    "titleDE": "Wie eine 250-Millionen-Dollar-Übernahme aufgrund von Betrugsvorwürfen und gefälschten Unterschriften scheiterte"
+  },
+  {
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
+    "pubDate": "2026-08-12T14:22:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "KI-Hardware für Notizen hat sich in den letzten Jahren durchgesetzt. Geräte in Kreditkartengröße, Anhänger, Anstecknadeln und sogar Transkribierungs-Ohrhörer versprechen alle, Ihre Besprechungen festzuhalten und sie in Zusammenfassungen und Aktionselemente umzuwandeln. Mittlerweile lockt eine ganze Welle von Wearables – vor allem Ringe – bei Wetten ...",
+    "titleDE": "Warum Sandbar glaubt, dass sein sprachaktivierter Ring den Friedhof der KI-Hardware umgehen kann"
+  },
+  {
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+    "pubDate": "2026-08-12T14:20:33.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Von der Pixel 11-Serie bis hin zu einem brandneuen Konkurrenten von Apples AirTag: Hier finden Sie alle Ankündigungen der Made by Google 2026-Veranstaltung.",
+    "titleDE": "Alles, was bei Made by Google ’26 angekündigt wurde: Pixel 11, Pixel Watch 5, Pixel Tag und jede Menge Gemini-Funktionen"
+  },
+  {
+    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "description": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel Watch 5 isn't immune to RAMageddon - none of us are. Otherwise, no one would blame you for looking at this watch and thinking absolutely nothing's changed. That's because the big updates this year are all software-based.\nThis isn't a huge surprise considering Google's Fitbit Air launch in May. And after seeing some Pixel Watch 5 …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-12T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Zumindest gibt es dieses Jahr kein neues proprietäres Ladegerät. Huzzah!! | Foto: David Imel / The Verge Bei der 399 US-Dollar teuren Google Pixel Watch 5 geht es nicht um die Hardware. Klar, es gibt ein neues satiniertes Pyrit-Gehäuse, ein paar neue Armbandfarben und eine Steph Curry Special Edition. Unter der Haube steckt ein etwas schnelleres Q...",
+    "titleDE": "Googles Pixel Watch 5 befasst sich tiefer mit KI und Gesundheit"
+  },
+  {
+    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people…",
+    "pubDate": "2026-08-12T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie wir 35 der weltbesten jungen Wissenschaftler und Ingenieure ausgewählt haben Am 8. September wird MIT Technology Review seine Liste der Innovatoren unter 35 für 2026 veröffentlichen, anerkannt...",
+    "titleDE": "Der Download: unsere 35 jungen Innovatoren und der „Zensur-Industrie-Komplex“"
+  },
+  {
+    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. \nThat entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans. \nAt the center of Gamgee's origin story is Rosie, Conyngham's Staffordshire bull terrier-Shar Pei mix, who …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-12T12:09:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Erinnern Sie sich an die vielgepriesene Geschichte über einen australischen Technologieunternehmer, der ChatGPT, Grok und andere KI-Tools nutzt, um einen personalisierten Krebsimpfstoff für seinen Hund herzustellen? Nun, Überraschung: Er hat ein Startup gegründet. Dieser Unternehmer ist Paul Conyngham, der sagt, er gründet Gamgee, um „personalisierte mRNA-C...“ anzubieten.",
+    "titleDE": "Natürlich hat der ChatGPT-Hundekrebsimpfstoff ein Startup hervorgebracht"
+  },
+  {
+    "title": "Grok is now an AI ‘teammate’ you can assign work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "description": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work is completed or if something requires approval.\nGrok Bot (or Bots, as SpaceXAI inconsistently pluralizes it) is the latest push from Elon Musk's AI company to keep up with business services launched by rival AI providers, including OpenAI's ChatGPT Work, Anthropic's Claude Cowork, and Microsoft's Cop …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-12T11:58:54.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Sie müssen jedoch damit einverstanden sein, dass sich Grok bei Ihren Online-Konten anmeldet. | Bild: SpaceXAI SpaceXAI hat Grok Bot eingeführt, einen ständig aktiven KI-Agentendienst, der sich wie unabhängige „KI-Teamkollegen“ verhält, die Ihre Arbeit für Sie erledigen können. Die Bots teilen sich ihre eigene cloudbasierte Computerumgebung...",
+    "titleDE": "Grok ist jetzt ein KI-„Teamkollege“, dem Sie Arbeit zuweisen können"
+  },
+  {
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "description": "Blacksmith says revenue has grown more than tenfold over the past year.",
+    "pubDate": "2026-08-12T11:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Blacksmith hat sich der Umsatz im vergangenen Jahr mehr als verzehnfacht.",
+    "titleDE": "Die Bewertung des KI-Codetest-Startups Blacksmith steigt in weniger als einem Jahr um fast das Zehnfache"
+  },
+  {
+    "title": "How we picked 35 of the world’s top young scientists and engineers",
+    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+    "description": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.  By finding the top young innovators globally and learning what they’re focused on in their work,…",
+    "pubDate": "2026-08-12T09:08:40.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Nächsten Monat, am 8. September, wird MIT Technology Review seine Liste der Innovatoren unter 35 für das Jahr 2026 veröffentlichen und 35 junge Menschen aus der ganzen Welt auszeichnen, die bahnbrechende wissenschaftliche Arbeit leisten und clevere technische Lösungen für schwierige Probleme entwickeln. Indem wir die besten jungen Innovatoren weltweit finden und...",
+    "titleDE": "Wie wir 35 der weltweit besten jungen Wissenschaftler und Ingenieure ausgewählt haben"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "pubDate": "2026-08-12T06:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Die OpenAI-Forschung zeigt, wie Unternehmen mithilfe von ChatGPT und Codex Agenten-KI einführen und wie Pionierunternehmen bei der Einführung von KI vorankommen.",
+    "titleDE": "Von der Unterstützung bis zur Ausführung: Wie Unternehmen KI einsetzen"
+  },
+  {
+    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "description": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.\nThe writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam.\" \nSaber describes Rideshare \"Stimulator\" as an \"immersive driving simulation game that puts you behind the wheel …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-12T00:39:26.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nachdem ein früherer Hauptautor behauptet hatte, Sabre habe „mich durch ChatGPT ersetzt“, behauptet CEO Matthew Karch nun: „Weder Sabre noch Unigine haben irgendwelche Autoren durch KI ersetzt“, und zwar für das im letzten Monat angekündigte und von Unigine entwickelte Rideshare-Spiel „Stimulator“. Die Autorin Stella Sacco sagt jedoch etwas anderes, posti...",
+    "titleDE": "Sabre bestreitet, die Autoren von Rideshare Stimulator durch ChatGPT ersetzt zu haben"
+  },
+  {
+    "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+    "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "description": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+    "pubDate": "2026-08-12T00:08:40.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Das FBI Atlanta bestätigt, dass es den Vorfall untersucht und keine Festnahmen vorgenommen hat.",
+    "titleDE": "DEF CON-Gruppe bei Fake-Hotspot-Angriff auf Delta-Flug verdächtigt"
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "link": "https://openai.com/index/ringcentral",
+    "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "pubDate": "2026-08-12T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie RingCentral ChatGPT Work und Codex nutzt, um die Entwicklung von KI-Produkten zu beschleunigen und die operative Intelligenz über Technik und Betrieb hinweg zu zentralisieren.",
+    "titleDE": "Wie RingCentral KI-native Arbeit von der Technik bis zum Betrieb aufbaut"
+  },
+  {
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+    "pubDate": "2026-08-11T21:39:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Dem US-amerikanischen VC-Unternehmen stehen immer noch mehr als 55 % seines bisherigen 650-Millionen-Dollar-Indienfonds zur Verfügung.",
+    "titleDE": "Accel schließt den überzeichneten Indien-Fonds im Wert von 550 Millionen US-Dollar innerhalb weniger Wochen, 19 Monate nach dem letzten"
+  },
+  {
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "description": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+    "pubDate": "2026-08-11T20:59:52.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Gerätegebundene Sitzungszugangsdaten verhindern eine immer häufiger auftretende Form der Kontoübernahme.",
+    "titleDE": "Chrome bietet möglicherweise den bisher besten Schutz gegen Kontoübernahmen"
+  },
+  {
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "description": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.\nA billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an otherwise anodyne blog post about how people use AI. External data suggested ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn't announced anything until that post on August 6th.  …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-11T19:41:42.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das bedeutet, dass viele Leute den ganzen Tag mit ihren KI-Freunden chatten. | Bild: Google Zum 14. Mal hat ein Google-Produkt 1 Milliarde Nutzer erreicht. Sundar Pichai, CEO von Google, veröffentlichte auf X, dass jeden Monat eine Milliarde Menschen Gemini nutzen und dass Gemini das am schnellsten wachsende Produkt von Google überhaupt ist. Eine Milliarde Nutzung...",
+    "titleDE": "ChatGPT und Gemini haben beide gerade die Marke von 1 Milliarde Nutzer überschritten"
+  },
+  {
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "pubDate": "2026-08-11T19:15:35.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI bringt endlich eine dedizierte ChatGPT-Desktop-App für Linux-Betriebssysteme.",
+    "titleDE": "OpenAI führt die ChatGPT-Desktop-App für Linux ein"
+  },
+  {
+    "title": "Google’s Gemini app surges to 1 billion users",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+    "pubDate": "2026-08-11T18:49:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google teilte auch Zahlen darüber mit, wie Menschen den Chatbot tatsächlich nutzen: 63 % der Gemini-Nutzer sprechen über die Sprachfunktion direkt mit dem Assistenten. Außerdem generiert Gemini laut Google inzwischen täglich mehr als 150 Millionen Bilder.",
+    "titleDE": "Die Gemini-App von Google erreicht eine Milliarde Nutzer"
+  },
+  {
+    "title": "How the “censorship-industrial complex” is changing the internet and US policy",
+    "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+    "description": "I first heard the term “censorship-industrial complex” on April 15, 2025.  That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day.  And the reason? R/FIMI, as the office…",
+    "pubDate": "2026-08-11T17:58:57.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Den Begriff „Zensur-Industrie-Komplex“ hörte ich zum ersten Mal am 15. April 2025. Da bekam ich den Hinweis, dass ein kleines Büro im US-Außenministerium, das sich auf die Überwachung und Bekämpfung ausländischer Desinformation aus Ländern wie Russland, Iran und China konzentrierte, unmittelbar vor der Schließung stand – am nächsten Tag …",
+    "titleDE": "Wie der „Zensur-Industrie-Komplex“ das Internet und die US-Politik verändert"
+  },
+  {
+    "title": "Another OpenAI executive takes off",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+    "description": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\"\n\"Over the last few months, I've been focused on the next horizon and what would stand in the way of mission success,\" Lightcap wrote. \"I believe there are a few important new things the world will need to get right as we enter this next period. I … am excited to help you all advance the mission from a different vantage point.\" He added that he'd still be around for the next few weeks. \nLightcap's role  …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-11T17:50:01.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Brad Lightcap, Leiter der Sonderprojekte von OpenAI und ehemaliger COO des Unternehmens, gab seinen Rücktritt nach achtjähriger Tätigkeit im KI-Labor bekannt. In einem internen Memo, das er später auf X veröffentlichte, teilte Lightcap seinen Kollegen mit, dass er „etwas Neues“ beginnen würde. „In den letzten Monaten habe ich mich auf die nächste Stunde konzentriert...",
+    "titleDE": "Ein weiterer OpenAI-Manager hebt ab"
+  },
+  {
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+    "pubDate": "2026-08-11T17:41:34.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Einer der dienstältesten Führungskräfte von OpenAI verlässt die Tür, obwohl der langjährige COO den Mitarbeitern sagte, er sei „sehr erfreut, Ihnen allen dabei zu helfen, die Mission aus einem anderen Blickwinkel voranzutreiben“.",
+    "titleDE": "Brad Lightcap, langjähriger COO von OpenAI, verlässt das Unternehmen, um „etwas Neues zu beginnen“"
+  },
+  {
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+    "pubDate": "2026-08-11T17:41:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "River AI, ein von xAI-Mitbegründer Igor Babuschkin gegründetes Startup, hat eine faszinierende Vision für persönliche Agenten und sicherte sich von Anfang an 1,1 Milliarden US-Dollar.",
+    "titleDE": "General Catalyst führt die 1,1-Milliarden-Dollar-Runde in die zwei Monate alte River AI ein"
+  },
+  {
+    "title": "Made by Google 2026: all the Pixel news and announcements",
+    "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+    "description": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features. Google also showed off its next-gen Pixel Fold featuring thinner bezels, alongside a new Pixel Watch 5 with improved GPS tracking. There’s a new Pixel Tag as well.\nThe Made by Google livestream kicked off on August 12th at 6PM ET. Comedian Trevor Noah hosted this year’s show, featuring notable guests like NBA star Stephen Curry, podcaster Alex Cooper, Indian cricketer Shubman Gill, and Japanese actress Ayami Nakajo. You can read our live coverage of the event here.\nFollow along for all the latest news about Google’s Pixel devices.\n\n\n\t\t\t\t\t\nPixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones\n\t\t\t\nDon’t touch that dial!\n\t\t\t\nGoogle’s Pixel 11 phone preorders come with up to $350 in gift cards\n\t\t\t\nHow Google’s new Pixel 11 phones compare to last year’s models\n\t\t\t\nCome talk Pixels with us live on YouTube!\n\t\t\t\nHow the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8\n\t\t\t\nGoogle aims for influencers with the Pixel 11 Creator Suite\n\t\t\t\nThe 7 biggest announcements of Google’s Pixel 11 launch\n\t\t\t\nNow that’s what I call pistachio.\n\t\t\t\nGoogle’s Pixel 11 series pairs a little new hardware with a lot of new software\n\t\t\t\nGoogle is making the Pixel cameras better by making them worse\n\t\t\t\nGoogle’s Pixel Watch 5 dives deeper into AI and health\n\t\t\t\nGoogle’s two-year-old Pixel earbuds are getting an ANC update.\n\t\t\t\nAndroid now has a tap-to-share feature\n\t\t\t\nThe Pixel Tag is Google’s answer to the AirTag\n\t\t\t\nGoogle’s upcoming Pixel phones are for the fans, even if its launch event isn’t\n\t\t\t\nWhat to expect from Google’s 2026 Pixel hardware launch event",
+    "pubDate": "2026-08-11T17:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Am 12. August 2026 stellte Google eine Reihe neuer Pixel-Geräte vor. Die farbenfrohe Pixel-11-Reihe verfügt über verbesserte Kameras und Leistung, wobei die Pro-Modelle einen integrierten LED-Ring bieten, der für Googles Gemini AI und andere Funktionen aufleuchtet. Google stellte auch seine Pixel Fold-Funktion der nächsten Generation vor ...",
+    "titleDE": "Made by Google 2026: alle Neuigkeiten und Ankündigungen zu Pixel"
+  },
+  {
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "description": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+    "pubDate": "2026-08-11T17:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Google führt AMIE für klinische Videokonsultationen in Echtzeit in simulierten Umgebungen ein.",
+    "titleDE": "AMIE, unser medizinisches Forschungs-KI-System, demonstriert in einer einzigartigen Studie klinische Videoberatungsfunktionen in Echtzeit."
+  },
+  {
+    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+    "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+    "pubDate": "2026-08-11T16:25:20.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Seit mehr als 150 Jahren gilt die Riemann-Hypothese als eines der größten ungelösten Probleme der Mathematik. Anthropic hat das Problem nicht gelöst – aber die Modelle des Unternehmens haben größere Fortschritte gemacht, als Sie vielleicht erwarten.",
+    "titleDE": "Ein unveröffentlichtes Anthropic-Modell machte Fortschritte bei einem der größten ungelösten Probleme der Mathematik"
+  },
+  {
+    "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+    "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+    "description": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where the photo originated, and that it isn't AI fakery.\nApple Reference Image isn't currently live, but a privacy disclosure in the iOS beta notes that the feature will be off by default. When (or if) it does roll out, 9to5Mac says it can be enabled via Settings > Camera > Reference Image > Reference Mode, and that only p …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-11T16:19:15.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Apple entwickelt offenbar eine iOS-Funktion, die überprüfen kann, wann ein Foto mit einer iPhone-Kamera aufgenommen wurde. 9to5Mac berichtet, dass iOS 27 Beta 5 Code-Referenzen für ein „Apple Reference Image“-System enthält, das Herkunftsmetadaten zum Zeitpunkt der Aufnahme in iPhone-Fotos einbetten kann – ...",
+    "titleDE": "Apple könnte Ihnen dabei helfen, zu beweisen, dass Ihre iPhone-Fotos keine Deepfakes sind"
+  },
+  {
+    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+    "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+    "pubDate": "2026-08-11T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Spotify führt „AI Persona“-Labels für Künstlerprofile ein, die KI-generierte Identitäten darstellen und deren Musik standardmäßig von redaktionellen, algorithmischen und personalisierten Empfehlungen ausschließen.",
+    "titleDE": "Spotify wird Profile als „AI Persona“ kennzeichnen und ihre Musik von Empfehlungen ausschließen"
+  },
+  {
+    "title": "Anthropic says it will watermark text generated by its AI models",
+    "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+    "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
+    "pubDate": "2026-08-11T12:13:47.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic wird die Unterstützung für Wasserzeichen-KI-Generationen auch für ältere Modelle erweitern.",
+    "titleDE": "Anthropic sagt, dass es den von seinen KI-Modellen generierten Text mit einem Wasserzeichen versehen wird"
+  },
+  {
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…",
+    "pubDate": "2026-08-11T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Diese Startups sind auf der Suche nach dem nächsten großen Ding im LLM-Bereich. Neun Jahre nach der Einführung des Transformators durch Google-Forscher ist diese Familie neuronaler Netze zum d...",
+    "titleDE": "Der Download: Das nächste große Ding in LLMs und wie sich die akademische KI-Forschung verändert"
+  },
+  {
+    "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+    "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+    "description": "Why passkey apps treat Windows differently than other operating systems.",
+    "pubDate": "2026-08-11T11:30:08.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Warum Passkey-Apps Windows anders behandeln als andere Betriebssysteme.",
+    "titleDE": "Neuer Pass-ta-key-Angriff enthüllt all die Dinge, die wir über Passkeys nicht wussten"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "pubDate": "2026-08-11T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugang mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
+    "titleDE": "Anzeigen in ChatGPT testen"
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "pubDate": "2026-08-11T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI und AWS stellen die Cybersicherheitsfunktionen von Daybreak über Amazon Bedrock zur Verfügung, um Sicherheitsworkflows in Unternehmen zu unterstützen.",
+    "titleDE": "Daybreak-Modelle sind jetzt auf AWS verfügbar"
   },
   {
     "title": "AI professors are negotiating the new realities of academic research",
@@ -70,26 +470,6 @@
     "titleDE": "Was mich der Aufbau einer KI-nativen Finanzfunktion gelehrt hat"
   },
   {
-    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
-    "pubDate": "2026-08-10T16:20:13.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Metas neues Open-Weight-Muse-Glimmer-Modell bietet einen Einblick in Mark Zuckerbergs persönliche Superintelligenz-Vision sowie die sich abzeichnende Kluft zwischen KI-Benutzern, die sie besitzen und auf die sie zugreifen können.",
-    "titleDE": "Metas neues Glimmer-KI-Modell bietet einen Hinweis auf Zuckerbergs persönliche Intelligenzvision"
-  },
-  {
-    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "description": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the technology should be developed, expanded, and regulated, and how Meta is positioning itself to enable those goals.\nSome points echo a similar (albeit, much shorter) public letter that Zuckerberg put out last year, heralding the importance of public access to superintelligent AI - a term for artificial general i …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-10T15:19:05.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Mark Zuckerberg, CEO von Meta, hat viel über die idealisierte Zukunft zu sagen, die er sich jetzt für das Zusammenleben der Menschheit mit künstlicher Intelligenz vorstellt – sein neuester Aufsatz zu diesem Thema umfasst mehr als 6.500 Wörter. Das lange Manifest, das Zuckerberg am Montag mit dem Titel „Die Zukunft ist für alle“ veröffentlichte, ist im Großen und Ganzen...",
-    "titleDE": "Vier Erkenntnisse aus Mark Zuckerbergs gewaltigem KI-Manifest"
-  },
-  {
     "title": "Evolve your marketing with new AI tools",
     "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
     "description": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
@@ -98,16 +478,6 @@
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie neue KI- und Agentenerfahrungen in Google Ads und Google Analytics Ihren Marketing-Workflow vereinfachen können.",
     "titleDE": "Entwickeln Sie Ihr Marketing mit neuen KI-Tools weiter"
-  },
-  {
-    "title": "What happens to Bose when headphones become AI?",
-    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-    "description": "Today, I’m talking with Lila Snyder, who is the CEO of Bose.\nYou certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both car audio and noise-canceling headphones.\nLila was last on the show about four years ago, and since then she’s dramatically rearchitected the company. The focus on research is still there, but she’s sold off Bose Professional, acquired the high-end audio brands McIntosh Labs and Sonus faber, and, perhaps most importantly, started licensing all that core Bose technology to other companies.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThat means that while you can still go buy a Bose soundbar or Bose headphones, the company is also turning into a B2B business, and you can get Bose technology in Skullcandy headphones and Epson projectors, among many other products. \nThat big change in the business comes with a big change in structure. Becoming a software company in addition to a product company comes with a whole new set of challenges, and Lila and I talked about how it’s all working out. \nI also wanted to know if this is all a reaction to the potential rise of AI wearables — products that might end up looking a lot like headphones, and which need all kinds of audio processing to enable voice input.\nIs Bose just trying to sell tech to a range of new companies that might disrupt headphones entirely? Or does Lila have a plan for a headphones market that was already disrupted when phone vendors like Apple and Samsung made their own products like AirPods and Galaxy Buds work better than the competition? \nWe got deep on this, and Lila was pretty open about the challenges and the opportunities here. As Decoder listeners know, I’m a huge audio nerd, so I loved every minute of this conversation. I hope you do too.\nOkay: Bose CEO Lila Snyder. Here we go.\n\n\nThis interview has been lightly edited for length and clarity. \nLila Snyder, you’re CEO of Bose. Welcome back to Decoder.\nThank you so much.\nI am really excited to talk to you. It’s been four years since you were last on the show, which seems entirely too long.\nA lot of things have happened. Bose has bought some companies. You’ve sold some divisions. The idea of what headphones are is largely the same in one important way, but maybe going to be very different in another important way. How are you thinking about Bose today?\nWe are having a lot of fun in what I would describe as our second chapter of the transformation of Bose since I joined. In some ways, many things are the same. We’re still making amazing products for our customers. We’re still excited about bringing that new technology forward in both our consumer business and our automotive business. But I would say two things fundamentally have changed as we’ve thought about growth for Bose for the future.\nFor 60 years, it was all Bose, and we’re now a multi-brand company. So as you said, we’ve made a couple of acquisitions. One of those was the McIntosh brand, a legendary 75-year-old audiophile brand that we absolutely love, and also Sonus faber, which is an Italian craftsmanship heritage brand that’s also been around for over 40 years. And so that brought us two things: from one brand to multiple brands, but also into the luxury audio space. \nThe second change for us is that we’ve always been an amazing products company where we developed technology through research and a lot of development cycles, and all of that technology went into Bose products. And today what’s different is we’re still doing that, and we’ve added a technology business we call Audio Tech, where we’re taking that technology and starting to put it into other places. \nThe big insight for us was that sound is really important. It’s getting more important, we think, given everything that’s going on in the world around us. There are so many products and devices out there that are using sound — whether that’s audio, voice, or even noise-canceling, where those things are incredibly relevant — but they’re not products that Bose would make. They’re not targeted at our customer set. But we really have a strong belief in bringing great audio to as many places as we can.\nThe last time we talked, you were in the middle of becoming a more functional company. In particular, you had said the last step was the engineering organization, which is really the heart of Bose. It had been very divisional, very organized into products. You were centralizing that.\nHaving an audio tech division that sells core technology feels like a very natural offshoot of that. “We’re going to have a big central engineering team. It’s going to feed into our products and other products,” and then you can abstract that a little bit and sell it to other people. Who are the customers for the audio tech division?\nSo it’s a B2B2C business, if you will. So our customers are large companies that are putting products into the market. So I’ll give you a couple of examples. We’ve partnered with Motorola on a series of products from earbuds to making the phone itself sound better.\nSo Motorola is a good example. We’re partnered with Xreal. They’re making pretty awesome XR glasses, right? So that’s an experience where sound really matters a lot. We’ve had a lot of fun partnering with them. You’re starting to see Bose technology show up in a lot of different verticals, from mobile to compute, to other people’s headphones and audio products for sure.\nWe just released, with a partner called Sena, a motorcycle helmet communications device. And we’re excited about all the places we’re bringing our technology. It’s actually creating a broader aperture for how we think about invention and research at Bose as well, which is really exciting.\nI want to come to that because that seems like a big change. And the reason I asked about customers is that having a new set of customers really changes the focus of the company. A lot of us are familiar with audio brands in particular partnering with device makers, partnering with automakers.\nYeah.\nMaybe it’s just a logo. I think you have been very proud that Bose has not been just a logo in many places, but for a lot of people it’s just a logo. What’s the difference between, okay, there’s Xreal glasses powered by Bose with a Bose logo on the side, and selling the technology without the Bose logo? Or does a Bose logo always come with it?\nWhen you said this is new for Bose, in a way, yes, but in a way it’s exactly what we’ve been doing in automotive for over 40 years. And so we do have a model for doing this inside the company, and it’s just broadening that thinking into new spaces. First and foremost, we’re selling technology, and the technology is the key. And then in some cases, we’re also selling the brand. So you might get technology in a product without a Sound by Bose or Powered by Bose logo on it, or you might get the logo as well, but you’ll never get the logo without the tech, if that makes sense.\nSome of our partners are interested in the brand, some are not. Sometimes we’re interested in having our brand connected to their brand, and sometimes we’re not. And so that’s part of the discussion we have with each of our customers, about whether it makes sense for them and for us. And so when you see it, know that it’s been really thoughtful, but it’s also attached to a lot of great technology that’s inside that product.\nTell me about those conversations. Is it cheaper to take the brand? Is it more expensive to take the brand? This is one of those places where Bose has maybe a bigger, more famous brand than maybe some of the customers. How are you thinking about that, and how does the cost change?\nAs you would expect, the technology has a licensing fee to it, and so does the brand. We’ve invested over 60 years in our brand. We’re incredibly proud of it. It is, I think, one of the most iconic brands in the world, full stop, and certainly within the audio space. And so we are incredibly careful about where we put the brand, and it certainly isn’t free when you put it on a product.\nRight next to that is McIntosh. As you know, I grew up a total stereo nerd, just reading the magazines, dreaming about having the blue meters in my house someday. Still working on it. I’m going to get there. I did have a Jeep with a McIntosh sound system several years ago. The blue meters were… It was a very fake Android app that ran on a very slow Android infotainment system, but I still loved it.\nThat’s a brand that has a real halo. You can’t make cheaper McIntosh products. That’s not good for that brand.\nNo way.\nYou need to stay way up there. How are you thinking about that relationship to Bose, which is much more of a premium mass market brand?\nWe think of them as two completely separate brands. And then think about Sonus faber as yet another third brand, all of which are targeting really passionate fans of those brands for what they stand for. So when we thought about getting into the luxury space and acquiring those two brands, we spent a lot of time saying, “What is it that we’re going to do internally to protect the brands?” \nWe do not want to Bose-ify anything that is happening in those brands. And so we’ve set it up as a separate business unit. We have a luxury audio business unit that houses those two brands. We are very careful. As you said, we have no intention of bringing products down-market. We believe both markets are exciting. We’ve been in that premium audio space for a long time. \nWhen we looked at what we’re calling luxury audio, we had two really important insights, I think. One is that as we’re doing our own technology work, there’s a lot of really exciting technology we develop that just isn’t right for a premium audio product. It’s right for something that sits at a higher level. We just didn’t have anywhere to put it. And that was true on the consumer product side, and it’s certainly true on the automotive side where we felt like we were bumping up against what you could put in a premium product, and the ceiling of what we wanted to do was much higher.\nSo the first reason we’re excited about it is that it sort of unleashes the creativity of our engineers to think about what you could do at those higher price points with just a different type of customer, a different type of experience. So we were excited on the technology side.\nWe were equally excited, I think, about this idea of luxury. If you look at the luxury market writ large across all categories, what you find is that audio is really underrepresented compared to the role luxury plays in automotive, hospitality and travel, fashion, or leather goods. And when we really sat back and thought about it, given how much music is a passion point for people, it didn’t make sense to us.\nWe think there’s a huge opportunity to attract new customers to the category if the experience feels more like a luxury experience. And so when you think about those products, it’s certainly about how they sound, but you went right to it. It’s the iconic design, it’s the artistry, it’s the craftsmanship. All of our luxury products, whether it’s McIntosh or Sonus faber, are handmade. They are crafted one by one for you as the customer. And there’s something incredibly special about that.\nThese weren’t your decisions, so I feel like I can be a little bit rude about them. When I saw McIntosh was licensing to Stellantis to be in Jeeps, I thought, “This company has to be desperate for money. That’s not actually a match.” It was fun that I had a Jeep with blue meters in it. It was great.\nBut I thought to myself, “This is a total mismatch, and they should be in Maybachs,” or whatever it is, whatever luxury sector that you want to be in, because that’s the brand. Was this just opportunistic for you that this was a company that needed the help, that was in trouble, that you could go and you could push your products upmarket without having to take the Bose brand there? Or was there some other opportunity that presented itself to you?\nWe weren’t actually shopping for brands first. The first thing was, strategically, we saw the opportunity in the luxury space. We saw an opportunity to create something new around luxury audio, and we were really excited about that.\nSo once we had made the strategic decision to go there, we had a lot of conversations about buying a brand or creating a brand. But the reality is, in luxury, at those price points, history and heritage are part of what you’re buying. And so we sort of intuitively knew we wanted to find a brand or brands that really had that strong history that we felt like we could build on top of.\nWe thought those were both brands that had incredibly passionate fans, and we saw an opportunity for us to take them to a new level. So that was how we ended up acquiring the McIntosh group.\nBringing in their engineering organization, they have a lot of technology. How integrated has that become over time, or are you leaving them alone?\nWe’ve brought it into our engineering organization, but we’ve also kept a lot of the aspects a little bit separate. So probably the best example of that is Bose has a Bose sound. Everybody knows that. You buy a Bose product… You buy one, the headphones I’m wearing, the speaker in your house, your car. There is a sound signature to brands that consumers expect. That comes from the engineers. \nThe engineers are tuning products to sound like they should. And so we’re very careful on the engineering side to protect the sound signature of McIntosh. What we don’t want is for you to hear a McIntosh product or a Sonus faber product and imagine that it sounds different. So that’s one.\nInitially — as you do with, I think, any acquisition — you want to be careful to protect what you bought. We’ve integrated it, yes, but we have a separate team that is doing the engineering for luxury, and we’re slowly adding Bose technology to it where it makes sense. So there are things, for example, on the Bose side where we can be incredibly helpful in terms of the software aspects, the connectivity, those sorts of things. Those are things that we do really well, and they’re not the most important part of those products, but they have to work. There are aspects that we’ve started to add into the products, and you’ll see more of that over time.\nI’m really curious about that luxury aspect. The knock on high-end audio for years, and I’m not saying this is McIntosh, but the knock on high-end audio for years is that it’s the same stuff, all dressed up fancy. There are headphones that are famous for having weights in them to feel heavier even though there are commodity parts inside.\nThis is one of those places where you could just say, “We’re just going to make more expensive versions of the same thing.” And some buyers are totally price-insensitive, in that they will always just buy the most expensive thing. Then there’s, “We’re going to make it worth it. We’re going to make it worth 10X the price of whatever Bluetooth speakers are at Best Buy.” \nWhere are you falling on that? Because it’s very tempting, especially in luxury, to just make it expensive.\nThe value comes from the sound. You should come visit us at Bose in Framingham and listen to a McIntosh system, a Sonus faber system. They’re incredible. They’re not anything like what you would get at a Best Buy in a premium product from Bose or anyone else. And that’s incredibly special.\nPart of that is the technology itself. Part of that is that it’s more analog, so it has a different sound signature to it. It’s got a lot more power behind it because that’s what McIntosh is known for, and that’s what you need to power a Sonus faber set of speakers. You’re also paying for design. In a way, it’s a little bit of art.\nWe just launched a new integrated amplifier, the MA2375, for McIntosh. I’m so excited about it. It’s sort of got that retro look with the vacuum tubes. It is a design piece. I want to sit it on my desk. I want it to be a part of the decor. You would say the same thing on the Sonus faber side. It’s like buying an incredible piece of Italian furniture that has been handmade with natural materials and just feels like art that also sounds beautiful.\nSo there’s more to the value proposition in the luxury space. It’s true in the premium space too. Design really matters, color matters, feel, touch, comfort, all those things matter in addition to the sound. I think it’s just even that much more elevated in the luxury space.\nI’m really curious about all the different sets of new customers you’re describing. There’s the B2B business, which is growing in audio tech. Then there are luxury customers who have a lot of money, but they’re fickle. And particularly in high-end AV — and I’m a high-end AV nerd through and through — convincing people it’s worth it because they can hear it has always been the hardest problem.\nMaybe the most fun problem, because you can convince a lot of people they’re hearing a lot of things that aren’t there. You can sell expensive cables at a hundred times the price of the regular cables, even if they don’t do anything different. This is a lot of new customers for Bose. Do you think the B2B business is going to distract your core technology roadmap? How are you holding that all together?\nIt is more complex for sure. It is a broader mission, and I think we’re ready for it. When I was here last time, we were in the middle of the transformation that I would say was solidifying the foundation of Bose, and now we’re building on top of that. We’ve built an amazing marketing and brand infrastructure that we’re now using to power three brands instead of one, but a lot of that capability can be put in the direction of all three.\nSo the key is real clarity about who the customer is, which we’ve done a lot of work on the Bose brand for sure. We talk about the music lover for Bose, but we’ve done the same work for McIntosh and the same work for Sonus faber so that we are one thousand percent clear about who the customer is and how we want to talk to that customer.\nOn the kind of products side of our company, I think we’re really clear about what the mission is for each one of those brands. On the technology side, interestingly, as we become more of a B2B technology company, it’s actually creating advantages back to the Bose brand and our luxury business as well. And what I mean by that is that it’s caused us to completely rethink the way that we do research and we develop our tech.\nIn the past, if you think about Bose developing products, we were developing purpose-built technology for a pair of headphones or a car audio system. And I think last time we talked about the tech franchises. We care a lot about noise cancellation. We care about immersive, lifelike audio, and we care about this idea of hearing what you want. And those are all experiences that are built on some basic building blocks of technology that we’ve been developing for a long time.\nBut because we were developing them for our own products, we’ve had to do a complete shift in the way that we think about it so that we’re now developing, from the ground up, those building blocks. Now we’re able to say, with common platforms, common algorithms, AI — think of them as sort of AI units — we can create different experiences for our own products, and we can port that same technology through the same platform tech into other people’s products.\nWhat that’s creating is a lot of efficiency at the research and development level. It’s creating more breadth because now that we’re thinking about things like noise cancellation for different spaces, spatial audio, or hearing what you want, it is actually creating more innovation and more invention at the core. It’s making us faster because we’ve made these building blocks a lot more consumable for our B2B customers; it makes us faster at bringing our own products to market, too.\nI think this is a great place to ask the Decoder questions because you’re describing the endpoint of a pretty big culture and structure shift at Bose that you’ve been architecting for several years. So how is Bose structured today?\nThere’s a business unit structure, there’s a functional structure, and we are living in what I would describe as a hybrid. So for the core functions that matter deeply to what we deliver, like engineering, marketing, and supply chain, those are global functions that support all of our businesses. But because we’ve added new customer sets and really two new businesses with luxury and audio tech, we’re also running four business units. So those four business units have business unit presidents, and they draw on the global functions for the work that they need.\nHow many people is Bose today?\nAbout 2,500.\nAnd you’re mostly in Framingham, or are you all over the place?\nWe’re global. All over. Yep.\nYou said you’re a hybrid. How’s that split between engineering, sales, all that sort of thing?\nI don’t actually think about it that way, but the one thing that I do know — sort of the most important statistic to me — is that half of our employees are engineers.\nYou’re describing AWS, you’re describing Amazon. You’ve modularized a bunch of components inside the company; now you can build new products faster. This is really great. Every company that goes through this transition ends up hiring more and more engineers over time because you just need to build more and more components. Has that been growing? Are you investing more in that kind of engineering?\nWe are for sure. I think it’s probably not unique to us. We’ve been in this transition of hardware long, long ago. It was just hardware, and then hardware and software, and then more and more software. And now as we’re building the technology pieces, those are truly just software products that are an algorithm- or AI-based product that we’re selling with. \nYou see that mixed shift continuing. We’re certainly seeing growth in our engineering ranks. And we’re getting a lot more productivity out of engineering as we start to have more sophisticated tools, as we use AI and other things to help with some of that development. So yes, growing. And I think more productivity per engineer, if you will, as we start to use more sophisticated tools to do the development.\nYou said it’s pure software products, right? When you sell out to B2B, you’re just selling the algorithms. Do those feel protectable? This is one of the things that I think about all the time. What is the actual thing you’re selling, and how easily can it be copied by a Chinese firm that does not respect our intellectual property laws or something like that?\nYeah. I’m probably oversimplifying. We’re really selling three things. We’re definitely selling software, algorithms, et cetera. I’ll come back to your “how do you protect it?” question. One of the very special things about Bose is actually systems engineering, which is an underappreciated discipline in my view. So software’s great, but software has to run on hardware in our world. Ultimately, that software has to get delivered through something.\nThe magic at Bose, the secret sauce, has always been systems engineering and how you’re marrying together hardware and software elements for an experience that feels unified across the device and that’s optimized to provide the best experiences. So we’re certainly doing that on our own products, but you see that kind of a service as we start to sell more and more technology into our B2B customers.\nThere’s also a lot of desire for help on that system side because our expertise there is real. That’s always been true in our automotive business, and it is increasingly true in our partnerships and our customers on the audio tech side as well. So I think that the second piece, which is really important to call out, is that it’s not just software for software’s sake. It’s software that has to be integrated into a system where everything comes together to work. And then you’ve got kind of the idea of systems engineering and then services on top of that.\nSo, how you tune a product. Some of our partners and customers need help with that, want help with that; some don’t. There are a lot of services that get married along. Sometimes it’s systems engineering. Sometimes it’s things like tuning, et cetera. So three pieces.\nCan I play devil’s advocate here for one second? What you’re describing here, if you wanted to poke at it as hard as you could, is a process of a little bit of commodification. There are a lot of common components here, and then it’s the layers on top that differentiate in the market. \nIf you’re an audio nerd, the magazines are all saying one engineer in their garage innovated on speaker technology, and they made the speaker cones out of waffle paper, and now they’re more transparent than ever. Whatever that myth was that sold a lot of speakers back in the day.\nIf we’re not starting from the products back, but you’re starting from the components up, there’s a risk that everything kind of becomes the same, and it’s branding and marketing, and maybe the sound signature that’s tuned into it is artificial now — it’s not from the components themselves. How do you balance that? Or is that just not a worry with modern consumers?\nI think what you’re describing is that if we’re putting Bose technology in other headphones, doesn’t that just revert to the mean? I think there’s a second, bigger market for us that is not audio products. Things that we call audio second. So for example, the XR glasses, the main function is not audio, but audio is really important. You don’t usually buy a car because it has a Bose sound system, but when you buy the car, the sound system is actually one of the most important features of the car.\nA projector that you buy for your house, you’re buying because it’s a great projector. We’re partnering with Epson, and the sound is also really important there. So it’s a little bit different, I think, when you get into audio second. In the audio market, I think that the key is that there are so many different customers who want different things.\nWhen you think about products that have ingredient technology that’s the same, it’s really enabling you to do things for your customer and the experience that you’re trying to create. I’ll just use Skullcandy as an example. Skullcandy just launched a pair of headphones with Sound by Bose, and you couldn’t have two more diverse customer sets between who they’re targeting and who we’re targeting. We helped them with the technology. So there’s Bose technology inside to help make that sound better, but the design choices of what they want for their customer are incredibly different from what you would find [with Bose]. \nSo I don’t think you would ever put those two products, a Bose headphone and a Skullcandy headphone, side by side and say, “Wow, this is really commoditized. It sounds the same. It is the same.” They’re very, very, very different.\nI think I’m asking slightly more about the audio-second product. If all of your audio-first products come from the same technology base, the same modular components that can be remixed into all the products you want, do you lose the ability to innovate at the product level? If everything is made out of the same Legos, at some point you can’t be like, “Actually what I need is all new Legos.”\nI think the answer is no, because the product is so much bigger than just those ingredients. So if you think about headphone design, the comfort and all of the other features, right? There may be a lot of ingredient technology, but the ones that you choose may be different.\nOne of the things that we talk a lot about now is being at the intelligent edge. Everything Bose does is what we would describe as at the intelligent edge. And as you know, it’s a pretty hostile environment. You have limited compute, you have limited power. You’re always making trade-offs between what I am putting in this product and how does that impact my ability to do that? Because there’s just not enough room to put everything in it. \nSo I think the reason why you still see so much differentiation among products, even if some of the ingredients are the same, is because all of those product choices that you’re making are really critical, and you have to make a lot of them to fit inside that constrained environment that you’re working with.\nThis brings me to the other Decoder question about decisions. You’ve obviously made a lot of them, and you’ve got a few big ones to make that I want to come to concerning AI. How do you make decisions? What’s your framework?\nI am a believer that you get the right people in the room, you have an intense debate that isn’t always comfortable, that sometimes makes people a little bit queasy, and you move as fast as you can to decide, knowing that if it’s wrong, you can pivot. That is, in my simplest terms, the way I think about it.\nWe get a lot of type one and type two decisions, move fast, in that we had an ex-Amazon employee write to us and say, “Every decision is reversible if you have enough money.”\n[Laughs] That might be true for Amazon.\nThat’s a very Amazon perspective. The reason I bring this up in the context of AI is that I’m looking at the sweep of things you’re doing, and I’m looking at where, in particular, the big tech companies think their headphones are going to go.\nI was reviewing our conversation from four years ago. Boy, did we talk about Bluetooth a lot. We did. This is a core limiting technology. It’s an enabling technology in an important way, but they hold onto what Bluetooth can and can’t do on their platforms very tightly. And then their products, their first-party products, get to extend that standard in different ways — and they all do it. \nThis broadly means if you have an iPhone, the best working headphones that will do all the things the platform wants you to do are probably AirPods. If you have a Pixel, it’s probably Pixel Buds. If you have a Samsung phone, it’s probably their buds.\nAnd this is because they have reduced the capability of the interconnect. One of the reasons they’re doing that is because they want your earbuds in your ears 24/7 so you can talk to their AI systems on the back end. And this is their future. Maybe the answer is that we’re all going to wear Meta Glasses, or we’re all going to wear Xreal glasses. It seems up for grabs in big particular ways. What’s your view of that? What’s your view of AI wearables? And do you think there’s room for third-party players here?\nWe absolutely think wearables are critical to the AI future. I think that we’re clear on that. The form factor, if you work backwards from that, we’re going to use our wearable devices to communicate with our AI agents. And that is going to become more and more important and more and more natural. We strongly believe that.\nThe second thing we believe is that it is more likely to be conversational and sound-based than anything else. At least we think that is probably the primary mode. And so the types of technologies we’re focused on are around voice pickup, clarity, speech enablement, and we think all are incredibly important. What form factor you want to use as your wearable, I think the jury is still out. I think the answer is going to be a whole proliferation of them. Some people will like glasses because they like the glasses.\nSome people will like open earbuds, which we hadn’t launched when you and I talked last time. We talked a lot about open ear audio, but not yet about that form factor, that clip-on form factor that Bose invented and launched into the world. We think that is a really powerful form factor that will be for some. Others might want a watch, a pin, a ring, or 18 variations of how those work together.\nPart of the reason we think being in the audio tech business is important is that it gives us the ability to participate in a lot of those different places that we might not naturally be able to go on our own. So we think form factor is going to matter, but I don’t think there’s a single winner there. At least that’s my current view. I think that there will be multiple types of devices that consumers will choose based on their own personal preferences.\nWe know there are going to be a limited number of LLMs, right? We know that those are going to converge to the large ecosystems that already exist. New ones may emerge, as we’re seeing, but there won’t be hundreds of those. There will be few of those. And yes, there may be some advantages if you stay within that ecosystem for your earbuds. But fundamentally, I think even though a lot of people choose earbuds, headphones, and other devices in their ecosystem, a lot of people don’t. \nI think consumers still want choice. And I think it is important for those ecosystems. In our conversations with them, they need third-party players to interface with their AI as well. They need third-party players to produce devices that work with what they’re doing because they recognize that they’re not going to have a full share of the market and that choice matters.\nSo we believe we’ve got a couple of ways to compete now. Our own devices, for sure, need to be compatible across the different LLMs and the ability to interface with them. And we need our technology starting to crop up in other places where that interface will happen.\nIs this a way to just hedge the bet that no one actually knows what’s going to happen with AI? If you’re selling Bose beamforming technology to a handful of Silicon Valley startups making pendants, that means you’re not making the big bet on pendants being a form factor yourself. You can wait and see. Is this just a way to make sure the technology is available and being monetized while you wait for the answers to emerge?\nThere’s certainly a diversification play, absolutely. And I wouldn’t shy away from betting on a few, and if one becomes a winner, awesome. I also think that it’s important not to lose sight of what your brand is. The Bose brand is: we are for music lovers. And if we start to branch out and create some of those other devices that are not core to who we are, I just don’t think it works. So it is a way to participate because we don’t think those are areas that it makes sense for the Bose brand to go.\nOne of the things I worry about, again, as a music fan, as an audio nerd, is every single time the tech companies come to music, convenience wins, and quality suffers. This is the pattern that has been repeating since MP3s first came out. We’re going to go from CD quality audio, which in 2026 is still what people refer to as the best audio you can get. CD quality — that’s the bar.\nBut we went from that to, I don’t know, 128 kilobit MP3s on iPods. We stayed there for a long time. We got a little bit better. The headphones got worse. The interconnect went from wired to a compressed Bluetooth interconnect. At every point, the market picks convenience. There’s some point here, even in luxury, where you just walk in, and the music is playing because the AI has determined the music should be playing, and the endpoint of the music is the least important thing. It’s just that it’s happening to you. \nThere’s not this focus on listening intently because you’re probably also watching TikTok at the same time. Or maybe you’re only listening to music on TikTok, and that’s where all your discovery happens, and all of your music money is spent at concerts and live experiences. Somewhere in there is the audio industry. It’s been going through this convulsion.\nThere’s another turn coming here where Apple, OpenAI, Samsung, and whoever else are going to launch AI-first devices that are conversational, that have audio input and output capabilities. And they will say, “And you can also listen to music.” They will commodify it even further, and the idea of a music lover gets even more squeezed. How do you view that? Because as a music lover myself, I’m like, “This is only getting worse. It’s only becoming. It’s not audio second. It’s like audio 15th.”\nOkay. So it’s a complicated web there that you just spun.\nYeah. I’m having an existential crisis here. \nI’m going to try to help you. In some ways, what we find with our luxury customers is that what they’re looking for are moments of clarity, quiet moments where you put down the phone, you put on a record, right? You listen to it the way that it was supposed to be heard on an amazing sound system. And the quiet nature of that, the ability to step away from what is a chaotic digital world — that trend is picking up. It’s picking up. We see it in the luxury space. We actually see more of it in the premium space a little bit now too.\nI do think that the appreciation of music, just appreciating it for the emotional state that it puts you in and what it does for your mental health. I actually think that is a trend we’re seeing. And I actually think that’s going to continue to grow. \nOur belief and part of the reason that we started this audio tech business is that we want you to have the best sound experience no matter what. Even if you’re listening in a hostile environment, you’re listening on a lower-cost pair of headphones, or you’re listening to a crappier format, let’s at least make sure you have the best experience possible and that you can tell the difference between what good and better sounds like, or what better and best sounds like. So I think that’s the second thing. \nThe other thing that I think is positive about what you said is there’s just so much music discovery because it’s everywhere. And not everyone is going to turn into a music lover, and that’s okay. But I think for young people who are discovering, I’m always amazed at the songs my kids are excited about because I’m like, “You know that’s not a new song, right? That’s from when I was a teenager.” I think that’s great.\nThe way that the younger generation is doing music discovery is creating a love of music that is not bound by time or genre. I think that’s really cool. And our belief is that if you help people listen to that as best you can, they will get an appreciation for what better sound sounds like, and over time they will graduate into the formats and the products that actually bring that to life in an amazing way.\nBut that’s music. I appreciate that this is happening in music. I think the question I’m asking is about AI and the almost religious belief in Silicon Valley that AI, in particular natural language input, will usher in a platform shift. Mark Zuckerberg has a religious belief that you’re going to talk to Muse Spark through Meta Glasses. \nWhether or not you believe him, he is laser-focused on that because he wants to stop being constrained by Apple’s platform policies. That is the story that plays out in the pages of Verge every single day.\nApple probably believes this, right? Apple believes natural language input is some kind of enormous threat to the iPhone. They’re reacting to it. Somewhere in there is, are you wearing headphones to talk to this? And can Bose headphones meaningfully participate in those ecosystems? Or will all of these companies create more first-party opportunities for themselves?\nI think both can be true. So I think we’ll see if Mark is right, but that doesn’t mean you want to have a crappy listening experience when you’re listening to music. Do you take the glasses off and put on headphones? Do you make the glasses sound better? I don’t think that just because we have a utility, which is AI on the… I’ll just use phone calls. It’s an old school example. Just because you can take phone calls on your headphones, if they didn’t sound good to play your music, most people who love music would not wear those to listen to music. It’s just the reality. And I think the same is true. It’s a utility.\nIf you’re someone who doesn’t care so much about music and it’s not part of your personal brand or your identity, you may say, “That’s good enough for me. I can’t tell the difference.” But I think for most people, they will choose multiple devices or they will choose one device that can do all of it really, really well. And I still think there’s room for high-quality listening experiences, even in a world where we’re all chained to our AI.\nSo I’ll just paint a picture for you. If Xreal wins the AI race and all of us interact with Claude all day long through our Xreal glasses, and the sound is powered by Bose through an audio tech partnership, is that victory? Is that success? Or is there more to be done?\nI think there’s always more to be done. When you think about how fast technology is moving, I think we’re imagining experiences today that can be had at the edge, that live within the compute constraints and the battery constraints that we have. Two years from now, those constraints are going to still be there, but the amount of capability you have will be larger. I think we’re going to continue to see innovation and invention in the space that’s going to create experiences we haven’t imagined yet.\nOne of the things that I’m really curious about is just the amount of audio input all of these companies want to do. We had the CEO of Zoom on Decoder, and he was like, “Everyone will talk to AI avatars in Zoom and all of us will be mediated by Zoom. And that means we’ve got to record the in-person meeting. Everyone has to wear the rings or the pendants, and we’re going to record everything all day long so the AI can fully know us.” \nI have a lot of thoughts about that, but that’s one vision in the world. We’re going to record everything, which sort of puts a lot of pressure on noise cancellation, on rehabilitating the audio once you have it. There’s not just a lot of noise, but damage that happens in the compression process and transmitting over the internet. That all seems like an opportunity for a company like Bose.\nIs that where the investment is to help the AI hardware companies deal with lossy streaming and TikTok audio? What do you think about that opportunity?\nOne of the things that we’re learning as we further venture into this space is that the core problems are the same. If you take something like speech clarity, voice pickup, that is a world we’ve done a lot of research on, a lot of work on. It’s an incredibly important part of a Bose headphone, for example, but it’s also important in a dozen other places where the same type of technology, at its core, can be expanded and extended. \nSo think about driving 70 miles an hour down the highway in my car. That same speech clarity technology is really relevant in the car in the same way it is in a headphone, in the same way that it is in a motorcycle helmet, where you can imagine that’s maybe the most hostile sound environment you could get.\nI think the same is true. Noise-canceling has all sorts of varieties that, I think, are incredibly important in the AI examples that you talked about and in a lot of other everyday life examples where noise cancellation hasn’t gone yet. A great example of that is hearing aids. As you know, we’ve been working on hearing aid technology at Bose for over a decade. Just this year, we launched the world’s first hearing aid with a customer and partner called ORKA in China that has noise cancellation. \nIt actually now solves what I think is the biggest problem that hearing aids have had for decades, which is that my most challenging environment, if I have some hearing loss, is a noisy restaurant, for example. And traditional hearing aids amplify all of that sound. Noise canceling has always been the dream of hearing aids because if you could take the noise of the environment down and amplify the speaker, the person you’re trying to have a conversation with, that’s sort of the holy grail now because you’re doing exactly what the customer really wants and needs.\nThat, up until now, has been impossible to do because in a hearing aid, you need 15 to 18 hours of battery life. You have very limited compute. It’s been a really tricky problem. For us, solving that problem was both about hardware — a new driver that actually fits in the ear canal, but can power noise canceling — and the platform that we built to enable that at a low enough compute level that you could do it inside of a hearing aid over a period of 15 to 18 hours in a day. That’s the kind of innovation for noise canceling, for example, where it’s an obvious use case, but to get there required a considerable number of building blocks.\nI’m glad you brought up hearing aids. The last time you were on the show, you had a partnership, I believe, with Lexie. And after our conversation, I ran out and bought my dad those hearing aids. After four years, he won’t wear them because he says everything is too loud. Exactly the problem you’re describing.\nBut you exited that partnership with Lexie, and the parent company — just asked a couple of weeks ago — is leaving the US market. They’re out. You’re describing hearing aids that you’re making in China. Is there something particular about the US market that just makes it too hard, or are you going to reenter?\nNo, we’ve been here with Lexie, and they’re going through some challenges, and so we’ll find the right partner for us in the US. I think the over-the-counter hearing aid market has struggled more than any of us thought. If you go back four years, it hasn’t taken off at the rate we had hoped that it would. But I still see a ton of opportunity in the hearing aid space. And this hearing aid happens to be in China, but there’s no reason that you won’t see it in other places around the world.\nWhy do you think it hasn’t taken off? \nI think it hasn’t worked yet. There are a couple of factors. And again, we’ve been partnering into it, so we’re not as close to the day-to-day. But I think there are really two things. It’s definitely cheaper and more accessible than it was in a prescription environment, but these are still very expensive products. So, rounding about a thousand dollars, which is a lot of money. \nI think in an over-the-counter space, most customers are expecting something that looks and feels more like what they would be willing to pay for a consumer electronics product, which is more like two, three, or maybe $400. While it’s more affordable, it is not as affordable as I think the consumer wants, needs, or expects. I still think there’s some work to do there from a technology standpoint to figure out how you bring it down.\nIt’s also not really in the insurance space yet. If I get a prescription hearing aid that’s covered by Medicare or that’s covered by my insurance company, but that’s not the case for over-the-counter. And so I think there’s just some affordability challenges we haven’t quite fully solved yet — ones that the industry has not solved. That’s one piece of it. I also think there’s still a stigma part of it. There’s just still a, I don’t want to look old. I don’t want to feel old. I don’t want to wear a hearing aid. And until we figure out the right industrial design and make it more palatable, I think you still have resistance no matter the price point.\nThe hearing aids my dad was most resistant to were when I tried to get him to wear AirPods, after Apple had released that feature. He looked at me and said, “Absolutely not.” \nSo this is a particular area of convergence. What is an augmented reality hearing device except a hearing aid? Except a hearing aid with intense noise cancellation that can focus on the speaker in front of you and maybe translate them in real time if you don’t speak the same language? You’re talking to an AI, and you just want to whisper so no one can hear you, and it’s talking to you, but you’re still hearing everything that goes on. \nThis is the convergence, right? The idea of headphones, the idea of augmented reality, and the idea of hearing aids, they’re in a Venn diagram. And the center of that Venn diagram, I think, is getting bigger and bigger over time.\nI just keep coming back to the same question: Is the culture of Bose designed to provide technology to all of the players in that ecosystem? Or are you still trying to win with the best product that hits the middle of that Venn diagram?\nWe are always focused on who the Bose customer is and what the features they want are. As I’ve said a couple of times, you can’t fit everything in. That Venn diagram is getting bigger as compute is getting more powerful at the edge, but it’s still limited. \nWhen it comes to adding AI, we talk about it at Bose as tiny AI. A lot of companies are good at really big AI. What we’re good at is taking really complex algorithms and then figuring out how to shrink them down and take as little power and compute as they possibly can so that they can fit in our devices. But you’re always constrained. So we’re looking at what our customers are asking us for, what they need, what they want in that Venn diagram. Where do they want the emphasis to be? And that’s where we’re pushing our products. You’ll continue to see us do that.\nOther companies will choose a slightly different variation of that Venn diagram, and they’ll look for a different feature set. And I think that’s what makes the industry go. It is competitive by nature, and it is important to have a deep understanding of what the customer needs are.\nDo you think that there’s any pressure on Bose just from the product manufacturing side? There are tariffs, there’s a lot of focus on what gets made in China. We talked briefly about protectability and whether or not you even want to sell into Chinese companies or Chinese OEMs who might turn around and take your technology, which we have seen at scale with Apple, Tesla, and others. Is it worth it to be chasing hardware at this time?\nI think, since COVID, the supply chain has become a more exciting environment. \n[Laughs] Sure. \nSo it’s been a series of things. I think our perspective back then was that we said, “Look, it’s clear we’re going to need to be more flexible and more agile in our supply chain.” That, I think, became clear. We’ve done a lot of work to get ourselves into a position where we expect curveballs now; we just don’t know what they’re going to be. And when they come, we’ve designed ourselves in a way that we can adjust quickly, and we think we’re flexible enough to handle it.\nThe world needs hardware. As much as everyone is enamored with software and AI, and those are the things creating the magic, perhaps, on the hardware these days, you still need physical things. We are a physical world. You need physical things, and we are going to continue to make physical things and roll with the curveballs that come our way.\nHave you moved manufacturing, meaningfully, out of China?\nWe have, yeah. So we’re diversified across Asia. We also have manufacturing in North America for some of our products as well.\nHave you moved anything, meaningfully, back into the United States?\nThe only thing we have in the US is McIntosh. So all of our McIntosh products are built in Binghamton, New York.\nIt’s funny, because those are the only products you have that also wouldn’t benefit from the price cut of not having tariffs. You need to keep those prices really high. Have you thought about moving anything back to the United States to avoid whatever tariffs and bring prices down?\nWe’ll always look at it. It’s a fulsome economic equation of not just economics, but also expertise. Consumer electronics expertise from a manufacturing perspective moved to Asia a long time ago. And so it’s both a cost and an expertise question. We look at it, we talk about it. If it ever makes sense, we’ll do it. Right now, those things don’t play out for us.\nI feel like I have to ask you about Bluetooth one more time here at the end of our conversation. I’ve waited.\nIt is the limiting factor of so many things you are doing. It’s the limiting factor of how you can connect to phones. It will almost certainly be the limiting factor of how all these AI devices work.\nThe manufacturers have really put Bluetooth in a box. There is a wall around what it can do and what they will ever allow it to do on their platforms. And then there are their extensions. And this is across the board. I’m not even singling out one manufacturer. I used to always single out Apple, but now they’re all doing it. So it’s like, great, there’s a wall around Bluetooth.\nFor a company like Bose, which has to connect to phones, that is the limit. Have you tried to push hard to overcome that limit? Have the antics of the European Union helped you open up and overcome the limit? How has this played out over the last four years?\nProbably not terribly different from what we talked about last time. We partner, we push, we ask for what we want, and we work with what we have. So I think we are always trying to test and push the limits as much as we can, and we’re incredibly good at not using that as an excuse. So how do we create amazing experiences with the advantages that we have? And we think we’re pretty great at doing that.\nOn the other side of this, you’ve got McIntosh products, your premium home products, and people are disconnected. A lot of people still want to play Spotify off their phone onto their home stereo system. There’s a joke we tell in our other show, the Vergecast, where we just try to locate the computer. Where is the computer supposed to be here?\nIf you’re playing music off your phone, is the computer your phone, and you’re just Bluetooth streaming to your speakers? In the context of McIntosh, that is just like a heartbreaking crime. Don’t stream Bluetooth to your McIntosh system. So that means the McIntosh system needs a computer. It needs to run some variant of a Spotify app that has Wi-Fi that pulls lossless  down. That means it needs a ramp. The whole thing immediately becomes a computer. Maybe a somewhat low-powered computer that’s only focused on a handful of apps, but a computer.\nYou also have all the carrying costs of a computer. Software updates, application updates, Spotify changes its file formats. Whatever is going to happen, you’ve got some problem there. How do you think about that?\nAcross all of your products, the amount of compute going into them is going up, as you’ve described. Maybe in tiny ways, but it’s going up. And then you’re not charging service fees. How does that all work as more and more of your products fundamentally become network computers?\nI think consumers are subscription’d out. I think that the idea that you’re going to create a subscription service over an over-the-air update that they’re going to pay for on a monthly basis, I think that’s not coming in our space. So we have to kind of think long term as we’re selling products today: what is the software, compute, cloud storage, all of the security, all of the costs that live across the life cycle of that product that we’re going to have to support. We have to build that into the cost of maintaining that product, right? Which is different from what you would have done in the past. \nWe’ve made some design choices, I think, that are important as well. We don’t need to duplicate what Spotify is doing either. So as we think about the lifestyle collection products that we just launched, what we heard overwhelmingly from our customers was, “I just want to go to my music. I don’t understand why I have to deal with you. I love how this sounds, but please just get me to my music faster.” We thought for a long time about how best to do that in the home. And we think about it in our wearables too. We want you to be able to control your home speakers through Spotify, AirPlay, or however you want to do that. And that offloads some of that from Bose, which is good.\nWe also just made an acquisition of a company called Stream Unlimited. Their business is to connect to all of the streaming apps, devices, et cetera, that allow a smart home device to have those easy connections. That gives us some scalability and some participation in that orchestration layer, which is also helpful for us. So we come at the problem in a couple of different ways.\nThere are rumors, in a few months or weeks here, that Apple will put out a whole bunch of new smart home devices. OpenAI might put out a smart home device. Obviously, I have Google ones, and there are Amazon ones. You ask any of those companies, what are the number one and two things people ask for from their assistants in their house? And it’s setting timers and playing music. Then everything else is a long tail of almost nothing. The drop-off is enormous.\nIf you want to play music and you’ve got a great stereo in your house, you’ve got to go connect to their smart home system. Now you’re on their network, and now you’re just another endpoint for whatever forthcoming successful consumer AI agent will exist. Big question mark there, but let’s say it happens.\nThat further commodifies you, right? That’s yet another time when they’re not going to use your interface or your streaming; they’re just going to say [a command] out loud in their home, and the OpenAI device will be like, “I found some speakers on your network. I’m playing the music for you.” Do you need to participate there? Do you need the OpenAI agent to say, “I’m playing it on your Bose speakers,” and then you collect a tiny little licensing check back, or how should that work?\nI don’t think so. I think we understand there are a lot of components in this chain, and customers think about Bose for amazing sound. And when they’re playing the speaker, and they’re asking whatever agent they’re asking to play it, there is an appreciation. There is going to be a logo on that speaker. If you have a new Bose Lifestyle speaker, there’s going to be a logo right on the front of it. You’re going to look at it every day in your kitchen, living room, or wherever it’s placed.\nI get the feeling those logos are about to get bigger and start lighting up. You can see it coming.\n[Laughs] We’re not going to make them that big.\nSo that chain is long. And in fact, you launched another piece of the chain of music, which is that you launched Studios, which feels like a record label, a marketing venture for new artists. How does that play into it?\nSo bigger than a record label, not just a record label, but that’s a piece of it. Think about Bose Studios as a way to connect with our customers and give them new avenues to participate with us. The announcement may feel like a sudden thing, but if you sort of look at what we’ve been doing at Bose over the last four or five years, we’ve been moving in this direction. \nGetting the attention of consumers is hard. You don’t do that with traditional advertising anymore. Consumers are engaging with content, and that’s it. And so we’ve been building more and more content. We’ve been partnering with more and more creators. We’ve been dipping our toe in this water for the last several years.\nSo I’ll give you a couple of examples. We’ve been partnering with NME to do their mixtape, where we’re helping them bring undiscovered, up-and-coming artists to the forefront and helping bring and celebrate those artists. We’ve learned a lot from doing that. The connection and the participation of our customers with that content and with those artists has been incredible.\nWe’ve been sponsoring an event, the Chris Brickley Invitational, which is this amazing basketball event for high school basketball players. It is becoming the place to go if you’re an All-American type high school basketball player, both on the men’s and the women’s side. And that event has turned into something so special. We’re not putting on a new Super Bowl over here, but we are participating in content creation in a way that connects with our customers. We think that’s really important.\nWe also like this idea of up-and-coming creators who need support to launch their careers. At Bose, we say fiercely independent. There’s something so unique about our structure and the independence that we have. We kind of like the idea of supporting this up-and-coming group. It supports our connection with our customers, and we think we’re helping them along the way as well.\nI feel like I could spend another full hour just talking about the economics of the music business and brands supporting creators in this way. But sadly, you’ve already given us too much time. Lila, thank you so much for being on Decoder.\nThank you for having me back.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-08-10T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute spreche ich mit Lila Snyder, der CEO von Bose. Sie kennen sicherlich Bose – es ist eine der bekanntesten Marken im gesamten Consumer-Tech-Bereich. Das Unternehmen begann vor 60 Jahren mit dem Verkauf von Lautsprechern an Verbraucher und sein Fokus auf Forschung und Entwicklung hat es zu einem führenden Unternehmen sowohl im Bereich Car-Audio als auch ... gemacht.",
-    "titleDE": "Was passiert mit Bose, wenn Kopfhörer zur KI werden?"
   },
   {
     "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -130,16 +500,6 @@
     "titleDE": "Der Download: KI-Agenten für die Wissenschaft und der „Zensur-Industrie-Komplex“"
   },
   {
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-    "pubDate": "2026-08-10T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Discovered Materials sammelte 9 Millionen US-Dollar, um die Suche nach neuartigeren Materialien für die Herstellung effizienterer Chips zu finanzieren.",
-    "titleDE": "Discovered Materials spielt KI-Kampf auf der Suche nach cooleren Chips"
-  },
-  {
     "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
     "link": "https://openai.com/index/model-ml",
     "description": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
@@ -150,14 +510,14 @@
     "titleDE": "Model ML erledigt Finanzarbeiten effizienter mit GPT-5.6 Sol"
   },
   {
-    "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "description": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat.\nThe app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. Since the app is linked to the customer's vehicle, the assistant knows many of the details about the particular make and model, including fuel levels, cargo capacity, and towing capabilities. Ford plans on rolling out a voice-powered assistant that …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-10T11:00:00.000Z",
-    "source": "The Verge",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "pubDate": "2026-08-10T10:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Ford bringt einen neuen KI-gestützten Assistenten auf den Markt, der Fragen zu Ihrem Ford- oder Lincoln-Fahrzeug beantworten kann, etwa wie viel Kraftstoff Sie für Ihren nächsten Roadtrip benötigen oder ob Ihr LKW das neue Motorboot ziehen kann. Die App wird zunächst für die mobilen Apps von Ford und Lincoln eingeführt, wo sie ...",
-    "titleDE": "Der neue KI-Assistent von Ford kann Ihren Kraftstoffstand und Reifendruck überprüfen"
+    "descriptionDE": "Zugelassene Daybreak-Partner können die Frontier-Cyber-Modelle von OpenAI nutzen, um ihren Kunden autorisierte, kontrollierte Cybersicherheitsdienste bereitzustellen.",
+    "titleDE": "Geben Sie bahnbrechende Cyber-Modelle in vertrauenswürdigere Hände"
   },
   {
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
@@ -168,16 +528,6 @@
     "category": "news",
     "descriptionDE": "Lernen Sie GPT-5.6-Cyber ​​kennen, das Cybersicherheits-spezifische Modell von OpenAI, das über Daybreak Red für autorisierte Schwachstellenforschung, Exploit-Validierung und Sicherheitstests verfügbar ist.",
     "titleDE": "Daybreak wird ausgeweitet, da das Fenster zur Cyber-Abwehr enger wird"
-  },
-  {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "pubDate": "2026-08-10T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Zugelassene Daybreak-Partner können die Frontier-Cyber-Modelle von OpenAI nutzen, um ihren Kunden autorisierte, kontrollierte Cybersicherheitsdienste bereitzustellen.",
-    "titleDE": "Geben Sie bahnbrechende Cyber-Modelle in vertrauenswürdigere Hände"
   },
   {
     "title": "AI for science needs reasoning, not just data",
@@ -200,14 +550,14 @@
     "titleDE": "Diese Startups sind auf der Suche nach dem nächsten großen Ding im LLM-Bereich"
   },
   {
-    "title": "Premium seats are coming to ChatGPT Business",
-    "link": "https://openai.com/index/premium-seats-chatgpt-business",
-    "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "description": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
     "pubDate": "2026-08-10T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Premium-Plätze kommen zu ChatGPT Business. Melden Sie sich bis zum 20. August an, um Workspace-Credits im Wert von 100 US-Dollar zu erhalten und eine höhere Nutzung für die anspruchsvollsten Arbeiten Ihres Teams freizuschalten.",
-    "titleDE": "Premium-Plätze kommen zu ChatGPT Business"
+    "descriptionDE": "Virgin Atlantic beschleunigt mit ChatGPT Work die Forschung, Produktplanung und Entscheidungsfindung und hilft Teams dabei, Signale über die gesamte Customer Journey hinweg zu verbinden.",
+    "titleDE": "Virgin Atlantic verbessert die Customer Journey mit ChatGPT Work"
   },
   {
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
@@ -220,164 +570,14 @@
     "titleDE": "Wie Zapier mit ChatGPT Work zentrale Marketingprozesse transformierte"
   },
   {
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "description": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "link": "https://openai.com/index/premium-seats-chatgpt-business",
+    "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
     "pubDate": "2026-08-10T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Virgin Atlantic beschleunigt mit ChatGPT Work die Forschung, Produktplanung und Entscheidungsfindung und hilft Teams dabei, Signale über die gesamte Customer Journey hinweg zu verbinden.",
-    "titleDE": "Virgin Atlantic verbessert die Customer Journey mit ChatGPT Work"
-  },
-  {
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "description": "The AI-focused hedge fund is still making some big bets.",
-    "pubDate": "2026-08-09T20:35:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der auf KI fokussierte Hedgefonds geht immer noch einige große Wetten ein.",
-    "titleDE": "Der umkämpfte Hedgefonds Situational Awareness investiert 400 Millionen US-Dollar in das Chip-Startup Source Foundry"
-  },
-  {
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "description": "Programming with Claude Code will soon require even less human oversight.",
-    "pubDate": "2026-08-09T19:20:32.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Programmieren mit Claude Code wird bald noch weniger menschliche Aufsicht erfordern.",
-    "titleDE": "Anthropic aktiviert standardmäßig den automatischen Modus von Claude Code"
-  },
-  {
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-    "pubDate": "2026-08-09T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In der neuesten Folge von Equity sprachen wir mit Jill Lepore über „Regierung durch Maschinen“ und warum Elon Musk ein schlechter Science-Fiction-Leser ist.",
-    "titleDE": "Die Historikerin Jill Lepore sagt, dass Silicon Valley Science-Fiction falsch interpretiert und die Demokratie untergräbt"
-  },
-  {
-    "title": "The AI safety test is becoming a safety risk",
-    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
-    "pubDate": "2026-08-09T14:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI-Agenten entkommen Cybersicherheits-Testumgebungen und gelangen in reale Systeme, was die Frage aufwirft, ob Sicherheitsinfrastruktur, Industriestandards und Vorschriften mit immer leistungsfähigeren Modellen Schritt halten können.",
-    "titleDE": "Der KI-Sicherheitstest wird zum Sicherheitsrisiko"
-  },
-  {
-    "title": "AI detectors are creating a new era of distrust",
-    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phrases. Some, like Turnitin, offer a percentage th …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-09T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Für weitere Neuigkeiten darüber, wie KI unser tägliches Leben verändert, folgen Sie Emma Roth. Der Stepback erreicht die Posteingänge unserer Abonnenten um 8 Uhr ET. Melden Sie sich hier für The Stepback an. Wie es begann Lange vor ChatGPT, weil...",
-    "titleDE": "KI-Detektoren schaffen eine neue Ära des Misstrauens"
-  },
-  {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "description": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
-    "pubDate": "2026-08-08T21:24:02.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI hatte bereits erhebliche Auswirkungen auf die CO2-Emissionen von Amazon, die Berichten zufolge im vergangenen Jahr um 16 % gestiegen sind – die falsche Richtung für ein Unternehmen, das sich verpflichtet hat, seine CO2-Emissionen bis 2040 zu eliminieren.",
-    "titleDE": "Das geplante Amazon-Rechenzentrum könnte zum größten Klimaverschmutzer der USA werden"
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "description": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-    "pubDate": "2026-08-08T19:41:13.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Gründer Ahmed Beshry beschreibt das Produkt des Startups als eines, „das Eingabeaufforderungen, Notizen, Dokumente oder Recherchen in eine ausgefeilte, bearbeitbare Präsentation umwandeln könnte“.",
-    "titleDE": "OpenAI übernimmt das Präsentations-Startup NextSlide"
-  },
-  {
-    "title": "An Amazon data center could have the worst polluting power plant in the country",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "description": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\nAccording to Cleanview, which tracks data centers and their associated power projects, GW Ranch received a permit from Texas allowing for th …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-08T17:53:34.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Um sein neues Rechenzentrum in West-Texas mit Strom zu versorgen, investiert Amazon in den Bau eines neuen Kraftwerks, das laut der New York Times einer der größten Einzelproduzenten von Treibhausgasen in den USA sein könnte. Die neue Gasverbrennungsanlage in Pecos County, Texas, hat erhebliche Investitionen erhalten...",
-    "titleDE": "Ein Amazon-Rechenzentrum könnte das umweltschädlichste Kraftwerk des Landes haben"
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "pubDate": "2026-08-07T22:48:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI sagte, dass dieses Modell, das sich noch in der Entwicklung befindet, seine „kritische Cybersicherheitsschwelle“ erreicht hat, was bedeutet, dass es Cyberangriffe gegen traditionell gut geschützte Systeme in der realen Welt selbstständig identifizieren und ausführen kann.",
-    "titleDE": "OpenAI sagt, es habe die Entwicklung des Astra-Modells aufgrund von Sicherheitsbedenken verlangsamt"
-  },
-  {
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-    "pubDate": "2026-08-07T21:30:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nach seinem eigenen Weckruf zur KI-Nutzung stellte Rippling diese Woche die AI Spend Console vor, ein Produkt, das die KI-Ausgaben einzelner Mitarbeiter und Teammitarbeiter verfolgt.",
-    "titleDE": "Nachdem Rippling innerhalb weniger Monate Millionen für KI ausgegeben hatte, entwickelte das Unternehmen ein ROI-Tool für Mitarbeiter"
-  },
-  {
-    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "description": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t\n\nIt took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it as Treblo AI-created. \nIn a reply to a comment pointing out that Tyga admitted to relying on AI for his own controversial '80s-influenced album $tarface, on one of his Instagram posts, Fenix said:\nnever said I didn't use AI , i said it had nun to do w recording process . I didn't even know what da app was till we mixed …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-08-07T20:01:51.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Auch dieses Cover ist mit ziemlicher Sicherheit KI. | Bild: Fenix ​​Flexin Es hat lange genug gedauert, aber jetzt scheint der LA-Rapper Fenix ​​Flexin zugegeben zu haben, KI für den 80er-Jahre-Synthesizer-Pop-Song „Rubberz“ eingesetzt zu haben. Seine Kommentare folgen den Videos des Produzenten Medasin, in denen behauptet wird, dass ein KI-Tool namens Treblo (ehemals Sonau...)",
-    "titleDE": "Fenix ​​Flexin bestreitet nicht einmal mehr, KI zur Herstellung von „Rubberz“ eingesetzt zu haben"
-  },
-  {
-    "title": "Watching Roku’s AI channel is like eating from a trough",
-    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "description": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content.\nThis week, Roku added four new channels to its library of streamable programming. Along with dedicated feeds for old episodes of Mad TV, Whose Line Is It Anyway?, and a variety of Black sitcoms, the platform also debuted a 24/7 stream filled with projects from Colin Petrie-Norris' AI startup,  …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-07T18:59:46.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Reiz von Free Ad-Supported Streaming Television (FAST)-Kanälen liegt schon immer darin, dass sie es einfacher machen, klassische Filme und Serien (wieder) zu entdecken. Aber Rokus neuestes Experiment im FAST-Bereich hat weniger mit traditionell produzierter Unterhaltung zu tun und konzentriert sich ausschließlich darauf, den Zuschauern ...",
-    "titleDE": "Den AI-Kanal von Roku anzuschauen ist wie Essen aus einem Trog"
-  },
-  {
-    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "description": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. \nRecent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to expert assessments, have led us to conclude last n …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-07T18:40:34.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI sagt, dass es „interne Aktivitäten“ rund um ein in der Entwicklung befindliches KI-Modell, Astra, pausiert, weil es die neuen Sicherheitsstandards, die das Unternehmen einführt, noch nicht erfüllt. Die Ankündigung folgt auf die jüngste Enthüllung, dass OpenAI-Modelle versehentlich Hugging Face gehackt haben. Anthropic und Meta haben alle...",
-    "titleDE": "OpenAI bremst ein neues Modell, weil es angeblich zu leistungsstark ist"
-  },
-  {
-    "title": "What&#8217;s behind the Google AI shake-up",
-    "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-    "description": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here?\nOn this episode of The Vergecast, Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here. They also t …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-07T16:45:14.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Einige der größten Namen im KI-Team von Google haben diese Woche neue Jobs bekommen. In einigen Fällen, darunter auch für den legendären Googler Jeff Dean, sind diese Jobs nicht mehr bei Google. Angesichts der Tatsache, dass die Modelle von Google offenbar hinter den besten Ergebnissen von Anthropic und OpenAI zurückbleiben, ist dies ein Zeichen dafür, dass Google in Aufruhr ist?",
-    "titleDE": "Was steckt hinter der Google-KI-Umstellung?"
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "pubDate": "2026-08-07T16:16:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Kitesurf ist ein in der Cloud gehosteter Browser, der für KI-Agenten und nicht für Menschen entwickelt wurde. Für gängige Automatisierungsaufgaben benötigt es weniger Rechenleistung als Chromium und hilft Entwicklern so, browserbasierte KI-Agenten effizienter zu erstellen.",
-    "titleDE": "Cloudflare bringt Kitesurf auf den Markt, einen Browser, der für KI-Agenten entwickelt wurde"
+    "descriptionDE": "Premium-Plätze kommen zu ChatGPT Business. Melden Sie sich bis zum 20. August an, um Workspace-Credits im Wert von 100 US-Dollar zu erhalten und eine höhere Nutzung für die anspruchsvollsten Arbeiten Ihres Teams freizuschalten.",
+    "titleDE": "Premium-Plätze kommen zu ChatGPT Business"
   },
   {
     "title": "Responding to the next frontier of critical cyber capabilities",
@@ -390,56 +590,6 @@
     "titleDE": "Reaktion auf die nächste Grenze kritischer Cyber-Fähigkeiten"
   },
   {
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
-    "pubDate": "2026-08-07T14:22:49.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Airbnb wird ein neues KI-gestütztes Sucherlebnis mit einem Umschalter vorstellen.",
-    "titleDE": "Airbnb sagt, dass KI ihm hilft, Funktionen schneller bereitzustellen, während es eine neue Suchfunktion testet"
-  },
-  {
-    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
-    "pubDate": "2026-08-07T14:20:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie Ideen eines riesigen Zensurnetzwerks vom Online-Rand in die Trump-Politik übergingen. Jahrelang verbreiteten sich Narrative über einen „Zensur-Industrie-Komplex“ in der rechten...",
-    "titleDE": "Der Download: eine Zensur-Verschwörungstheorie und der erste von KI geschaffene Virus"
-  },
-  {
-    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "description": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light.   In Lepore’s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer […]",
-    "pubDate": "2026-08-07T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Historikerin Jill Lepore hat eine Theorie darüber, warum Technologieunternehmen oft eine hochtrabende Sprache verwenden, um ihre Produkte zu beschreiben – fast so, als ob sie eine neue Regierung bilden würden. Und egal, ob Sie an das alte „Rathaus in der Tasche“ von Twitter oder an die Claude-Verfassung von Anthropic denken, es ist eine Theorie, die nicht passt...",
-    "titleDE": "Jill Lepore über den „künstlichen Staat“ und warum die Führungskräfte des Silicon Valley schlechte Science-Fiction-Leser sind"
-  },
-  {
-    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-    "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.  For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
-    "pubDate": "2026-08-07T14:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dieser Artikel wurde in Zusammenarbeit mit Type Investigations mit Unterstützung des Wayne Barrett Project erstellt. Eines Morgens im April 2025 erhielten Mitarbeiter eines kleinen Büros im US-Außenministerium die E-Mail, vor der sich viele von ihnen gefürchtet hatten. Seit Monaten arbeitet Elon Musks Ministerium für Regierungseffizienz ...",
-    "titleDE": "Wie Ideen eines riesigen Zensurnetzwerks vom Online-Rand zur Trump-Politik übergingen"
-  },
-  {
-    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "description": "Meta's total fine has racked up to $942 million in this case.",
-    "pubDate": "2026-08-07T11:40:37.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Gesamtstrafe für Meta beläuft sich in diesem Fall auf 942 Millionen US-Dollar.",
-    "titleDE": "Gericht in New Mexico verurteilt Meta zur Zahlung zusätzlicher 567 Millionen US-Dollar im Fall der Kindersicherheit"
-  },
-  {
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "link": "https://openai.com/index/hsp-gruppe",
     "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
@@ -450,36 +600,6 @@
     "titleDE": "Wie die HSP GRUPPE KI-Fähigkeiten für die Steuerberatung aufbaut"
   },
   {
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "pubDate": "2026-08-06T22:43:53.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Weitere Details zum mysteriösen neuen KI-Gerät von OpenAI lassen es wie einen teuren intelligenten Lautsprecher klingen.",
-    "titleDE": "Der neue KI-Smart-Lautsprecher von OpenAI wird Berichten zufolge für 300 bis 400 US-Dollar verkauft"
-  },
-  {
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "pubDate": "2026-08-06T17:34:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut OpenAI erhalten Benutzer von ChatGPT Free und Go auch eine neue Denkschaltfläche für komplexe Abfragen.",
-    "titleDE": "ChatGPT bietet kostenlosen Benutzern unbegrenzte Text-Chats"
-  },
-  {
-    "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,…",
-    "pubDate": "2026-08-06T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Googles KI-Imperium wird umgestaltet. Hier ist, was sich geändert hat. Nach einer Welle schmerzlicher Verluste im Tech-Talentkrieg, Verzögerungen beim nächsten Flaggschiffmodell und Gemurmel ...",
-    "titleDE": "Der Download: Googles KI-Umstellung und Metas Schurkenmodell"
-  },
-  {
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
@@ -488,85 +608,5 @@
     "category": "news",
     "descriptionDE": "ChatGPT führt verbessertes GPT-5.6 Sol mit besserer Genauigkeit und Konsistenz sowie erweiterten Zugriff für kostenlose Benutzer und unbegrenzte tägliche Chats mit GPT-5.6 Luna ein.",
     "titleDE": "Verbesserung von GPT-5.6 Sol in ChatGPT – und Erweiterung des Zugriffs auf GPT-5.6 Luna für kostenlose Benutzer"
-  },
-  {
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "pubDate": "2026-08-06T06:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI und die American Psychological Association fördern evidenzbasierte Leitlinien, Ressourcen und Schutzmaßnahmen für den verantwortungsvollen Einsatz von KI und die psychische Gesundheit junger Menschen.",
-    "titleDE": "Zusammenarbeit mit der American Psychological Association im Bereich der psychischen Gesundheit junger Menschen und KI"
-  },
-  {
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "pubDate": "2026-08-06T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Neue Daten von OpenAI Signals zeigen, wie Menschen ChatGPT weltweit nutzen, mit länderspezifischen Einblicken in die Akzeptanz, Nutzungstrends und sich entwickelndes Verhalten.",
-    "titleDE": "Vom Bitten zum Handeln: Wie die Welt ChatGPT in die Tat umsetzt"
-  },
-  {
-    "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-    "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-    "description": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-    "pubDate": "2026-08-05T22:35:20.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Baseboard-Management-Controller der weltweit größten Hersteller sind ein Sicherheitsproblem.",
-    "titleDE": "Durch die Ausnutzung fehlerhafter Motherboard-Controller können Tausende von Servern durch eine Hintertür blockiert werden"
-  },
-  {
-    "title": "Puzzle Corner",
-    "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-    "description": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
-    "pubDate": "2026-08-05T14:56:29.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Bereit für eine neue Reihe von Rätseln? Klicken Sie hier für die Puzzle Corner im September/Oktober 2026, präsentiert von Michael S. Branicky, ScD ’95, von der Puzzle Corner Puzzle Crew (auch bekannt als PC2), zu der auch Edward Faulkner ’03, MEng ’04 und Abe Kunin ’03 gehören. Diese Kolumne enthält Lösungen für den Mai/Juni ...",
-    "titleDE": "Puzzle-Ecke"
-  },
-  {
-    "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space…",
-    "pubDate": "2026-08-05T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Das neue Weltraumteleskop der NASA für dunkle Energie kann auch Killer-Asteroiden entdecken. Ende August wird die NASA das römische Weltraumteleskop Nancy Grace von Kentucky aus starten...",
-    "titleDE": "Der Download: Das neue Teleskop der NASA und chinesische Technologieimportbeschränkungen"
-  },
-  {
-    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-    "description": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…",
-    "pubDate": "2026-08-05T08:06:40.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Ende August wird die NASA das Nancy Grace Roman Space Telescope vom Kennedy Space Center in Florida aus starten. Sein Ziel ist es, uns dabei zu helfen, besser zu verstehen, wie das Universum funktioniert, von der klebstoffartigen dunklen Materie, die Galaxien zusammenhält, bis hin zur schwer fassbaren dunklen Energie, die die Expansion von … antreibt.",
-    "titleDE": "Das neue Dunkle-Energie-Weltraumteleskop der NASA kann auch Killer-Asteroiden entdecken"
-  },
-  {
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-    "pubDate": "2026-08-04T19:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI erläutert aktuelle Vorfälle bei der Bewertung der Cybersicherheit durch Dritte und stellt neue Schutzmaßnahmen vor, um die Prüfung und Bewertung von KI-Modellen zu stärken.",
-    "titleDE": "Cyber-Bewertungen von Drittanbietern mit OpenAI-Modellen"
-  },
-  {
-    "title": "The latest AI news we announced in July 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "description": "Here are Google’s latest AI updates from July 2026",
-    "pubDate": "2026-08-04T13:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom Juli 2026",
-    "titleDE": "Die neuesten KI-Neuigkeiten haben wir im Juli 2026 angekündigt"
   }
 ]
