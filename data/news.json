@@ -1,12 +1,162 @@
 [
   {
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "description": "Screen-sharing bug lets remote hackers log in without a password.",
+    "pubDate": "2026-08-14T18:32:14.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Durch den Fehler bei der Bildschirmfreigabe können sich Remote-Hacker ohne Passwort anmelden.",
+    "titleDE": "Die Sicherheitslücke, die Angreifern die vollständige Kontrolle über Macs ermöglicht, wird aktiv ausgenutzt"
+  },
+  {
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "description": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+    "pubDate": "2026-08-14T17:03:54.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "„Wir haben keinen Zugriff auf die Daten auf der Hardware/den Servern“, sagte Iron Mountain gegenüber Ars.",
+    "titleDE": "Der PBS-Sender befürchtet den Verlust von 50 TB Daten, nachdem er von einem Cloud-Speicheranbieter gesponsert wurde"
+  },
+  {
+    "title": "Mark Zuckerberg has an Instagzam",
+    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "description": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this.\nOn this episode of The Vergecast, David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get into the other big Meta release of the week: Mark Zuckerberg's many-thousand-word missive on the future of AI. There are a lot of ideas and proposals …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-14T16:54:16.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Wortmarke von Instagram ist ikonisch. Nun, es war eine Ikone. Anscheinend dachte Instagram, es sähe alt aus, also brachte das Unternehmen diese Woche ein neues heraus. Es sieht nicht wie die alte Instagram-Wortmarke aus. Es sieht nicht einmal mehr so ​​aus, als würde es Instagram bedeuten. Und wir können nicht herausfinden, warum Instagram sich dazu entschieden hat ...",
+    "titleDE": "Mark Zuckerberg hat ein Instagzam"
+  },
+  {
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.\nWhen toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward, the vice president of Google Labs, Gemini, and AI Studio. That means you  …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-14T16:39:32.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mit Google können Sie jetzt sichtbare Wasserzeichen aus Bildern, Videos und Musik entfernen, die mit KI-Tools erstellt wurden. Mit dem Update können Sie eine neue Einstellung für „Medienwasserzeichen“ in Gemini und Googles KI-Videogenerator Flow deaktivieren. Wenn diese Option deaktiviert ist, entfernt Google das angezeigte „Glitzer“-Wasserzeichen ...",
+    "titleDE": "Sie können jetzt die sichtbaren Wasserzeichen von Google Gemini deaktivieren"
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "pubDate": "2026-08-14T16:13:40.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Deaktivieren dieser Einstellung hat keine Auswirkungen auf unsichtbare Benchmarks, die zur Identifizierung einer KI-generierten Datei verwendet werden.",
+    "titleDE": "Google ermöglicht Nutzern nun, sichtbare Wasserzeichen aus seinen KI-Generationen zu entfernen"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+    "pubDate": "2026-08-14T15:43:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta hat diese Woche Glimmer veröffentlicht, ein offenes KI-Modell, das jeder herunterladen und auf seiner eigenen Hardware ausführen kann – ein Gegensatz zu Muse Spark, dem leistungsstärkeren Modell des Unternehmens, das hinter seinen eigenen APIs bleibt. Die Veröffentlichung erfolgte zusammen mit einem Brief von Mark Zuckerberg, in dem er argumentierte, dass KI „für jeden …“ sein sollte.",
+    "titleDE": "Glaubt Mark Zuckerberg wirklich, dass KI „für alle“ ist?"
+  },
+  {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "pubDate": "2026-08-14T14:50:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Vorstellung, dass GPUs für Agenten-Workflows schlecht geeignet seien, könnte laut dem französischen Startup Kog ein Missverständnis sein.",
+    "titleDE": "Kog geht tiefer, um mehr Rückschlüsse aus GPUs zu ziehen"
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+    "pubDate": "2026-08-14T14:27:14.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "US-Konzerne bringen günstigere Modelle auf den Markt, nachdem ihre Billionen-Dollar-Ambitionen erneut in Frage gestellt wurden.",
+    "titleDE": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Rivalen an Boden gewinnen"
+  },
+  {
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "pubDate": "2026-08-14T14:05:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In einigen Teilen der USA könnten sich die Erdgaspreise verdreifachen, was den Hyperscalern hohe Rechnungen für den Betrieb ihrer KI-Rechenzentren aufbürden könnte.",
+    "titleDE": "Hyperscaler könnten es bereuen, auf Erdgas umgestiegen zu sein, wenn sich die neue Prognose als richtig erweist"
+  },
+  {
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
+    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+    "pubDate": "2026-08-14T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta hat diese Woche Glimmer veröffentlicht, ein offenes KI-Modell, das jeder herunterladen und auf seiner eigenen Hardware ausführen kann – ein Gegensatz zu Muse Spark, dem leistungsstärkeren Modell des Unternehmens, das hinter seinen eigenen APIs bleibt. Die Veröffentlichung erfolgte zusammen mit einem Brief von Mark Zuckerberg, in dem er argumentierte, dass KI „für jeden …“ sein sollte.",
+    "titleDE": "Metas „offene“ KI und ein 250-Millionen-Dollar-Deal gingen völlig schief"
+  },
+  {
+    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
+    "pubDate": "2026-08-14T12:17:21.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Flock verschärft seine Regeln als Reaktion auf die zunehmende Gegenreaktion der Überwachung. Der Polizeitechnologieriese Flock ändert den Zugang der Beamten zu seinem landesweiten Netzwerk von...",
+    "titleDE": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
+  },
+  {
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.\nThe China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. \nDeveloping a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-14T09:21:17.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge hat Apple zusammen mit dem inländischen Technologieriesen Alibaba ein maßgeschneidertes KI-Modell für den chinesischen Markt trainiert, eine seltene grenzüberschreitende Partnerschaft, die die wachsenden Spannungen zwischen Peking und Washington überwindet. Das auf China ausgerichtete große Sprachmodell wurde in Zusammenarbeit mit Alibaba entwickelt und mit ... trainiert.",
+    "titleDE": "Apple hat mit Hilfe von Alibaba sein eigenes KI-Modell für China trainiert"
+  },
+  {
+    "title": "This scientist is helping build a missing map of childhood",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "description": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+    "pubDate": "2026-08-14T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Im Jahr 2017 nahm Deanne Taylor an einer Präsentation an der University of Pennsylvania teil, nur einen kurzen Spaziergang von ihrem Büro entfernt. Ein Forscher war dort, um den Human Cell Atlas zu enthüllen, ein ehrgeiziges Projekt, das darauf abzielte, jede Zelle im menschlichen Körper zu kartieren. Taylor war fassungslos und dann besorgt. Als Einzelheiten bekannt wurden,...",
+    "titleDE": "Dieser Wissenschaftler hilft dabei, eine fehlende Karte der Kindheit zu erstellen"
+  },
+  {
+    "title": "Job titles of the future: Space travel agent",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "description": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
+    "pubDate": "2026-08-14T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Roman Chiporukha hat schon lange wilde Reiseträume in die Realität umgesetzt. Über zwei Jahrzehnte hinweg hat er als Miteigentümer des Luxus-Lifestyle-Unternehmens Roman & Erica alles organisiert, vom Bau der Superyacht eines Kunden bis hin zu Ferien auf den Bahamas an einem Ort, der so privat ist, dass Gäste eine NDA unterzeichnen müssen. ...",
+    "titleDE": "Berufsbezeichnungen der Zukunft: Raumfahrtagent"
+  },
+  {
+    "title": "Cloning could be used to save species—or make human “organ sacks”",
+    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+    "description": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
+    "pubDate": "2026-08-14T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Woche habe ich mit Wissenschaftlern gesprochen, die einen Weg gefunden haben, männliche Mäuseembryonen in weibliche zu verwandeln. Sie haben einen CRISPR-basierten Ansatz entwickelt, um das Y-Chromosom im Wesentlichen herauszuschneiden. Dadurch konnten sie weibliche Klone männlicher Mäuse erstellen. Das ist richtig: weibliche Tiere, die genetisch mit den Männchen identisch sind, außer ...",
+    "titleDE": "Klonen könnte zur Rettung von Arten genutzt werden – oder zur Herstellung menschlicher „Organsäcke“"
+  },
+  {
     "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
     "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
     "description": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.\nMico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\nRead the full story at The Verge.",
     "pubDate": "2026-08-13T21:42:38.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Mico ist auf dem Weg zu Learn Live. | Bild: Microsoft Microsoft Copilot zeigt seinen emotionalen gelben Fleck Mico nicht mehr an, wenn Sie den Sprachmodus des Chatbots verwenden. Auf einer Support-Seite sagt Microsoft, dass es Mico auf seine Learn Live-Plattform verlagern wird, wo der Avatar „mehr reagieren kann“, wie Berichten zufolge …",
+    "descriptionDE": "Mico ist auf dem Weg zu Learn Live. | Bild: Microsoft Microsoft Copilot zeigt seinen emotionalen gelben Fleck Mico nicht mehr an, wenn Sie den Sprachmodus des Chatbots verwenden. Auf einer Support-Seite sagt Microsoft, dass es Mico auf seine Learn Live-Plattform verschieben wird, wo der Avatar „mehr zum Reagieren“ haben wird, wie berichtet...",
     "titleDE": "Der Clippy-ähnliche Mico-Charakter von Microsoft ist nicht mehr das Gesicht von Copilot"
   },
   {
@@ -86,7 +236,7 @@
     "pubDate": "2026-08-13T18:28:14.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Anthropic-Forscher haben herausgefunden, dass KI-Agenten auf unerwartete Weise zusammenstoßen, zusammenarbeiten und sich koordinieren können, was neue Fragen darüber aufwirft, ob heutige Sicherheitstests die Risiken von Systemen mit mehreren Agenten erfassen.",
+    "descriptionDE": "Anthropic-Forscher haben herausgefunden, dass KI-Agenten auf unerwartete Weise zusammenstoßen, kollaborieren und sich koordinieren können, was neue Fragen darüber aufwirft, ob heutige Sicherheitstests die Risiken von Systemen mit mehreren Agenten erfassen.",
     "titleDE": "Anthropic beauftragt KI-Agenten mit der gleichen Aufgabe. Sie begannen einen Revierkampf."
   },
   {
@@ -290,16 +440,6 @@
     "titleDE": "Amazon trainiert standardmäßig auf den Inhalten von Twitch-Streamern, es sei denn, diese entscheiden sich dagegen"
   },
   {
-    "title": "Scientists just created female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "description": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.  “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
-    "pubDate": "2026-08-12T18:59:48.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Wissenschaftler haben zum ersten Mal gezielt männliche Mäuseembryos in weibliche verwandelt. Ein in Japan ansässiges Team nutzte einen CRISPR-basierten Ansatz, um das Y-Chromosom aus männlichen Zellen zu entfernen und weibliche Klone männlicher Mäuse zu erstellen. „Das hat noch niemand gemacht“, sagt Monika Ward, Reproduktionsbiologin am …",
-    "titleDE": "Wissenschaftler haben gerade weibliche Klone männlicher Mäuse erstellt"
-  },
-  {
     "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
     "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
@@ -350,116 +490,6 @@
     "titleDE": "Mesh, das CRM von Automattic für alle, kommt für Android"
   },
   {
-    "title": "Scaling AI agents with trustworthy data",
-    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
-    "pubDate": "2026-08-12T16:51:57.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Unternehmens- und Technologieführer müssen nicht davon überzeugt werden, dass die Zeit der agentischen KI gekommen ist. Unternehmen setzen Agenten schnell ein, und nur wenige Führungskräfte bezweifeln das Potenzial der Technologie, die Arbeit zu verändern. Viele Unternehmen sind jedoch der Meinung, dass die Erzielung des gewünschten Return on Investment (ROI) durch KI von ... abhängt.",
-    "titleDE": "Skalierung von KI-Agenten mit vertrauenswürdigen Daten"
-  },
-  {
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
-    "pubDate": "2026-08-12T16:46:02.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI-Hardware für Notizen hat sich in den letzten Jahren durchgesetzt. Geräte in Kreditkartengröße, Anhänger, Anstecknadeln und sogar Transkribierungs-Ohrhörer versprechen alle, Ihre Besprechungen festzuhalten und sie in Zusammenfassungen und Aktionselemente umzuwandeln. Mittlerweile lockt eine ganze Welle von Wearables – vor allem Ringe – bei Wetten ...",
-    "titleDE": "Warum Stream-Ringhersteller Sandbar sagt, dass die Zukunft von KI-Wearables in der Stimme liegt"
-  },
-  {
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-    "pubDate": "2026-08-12T16:04:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Diese neue Finanzierung erfolgt, nachdem Lovable im Juni einen jährlichen Run-Rate-Umsatz von 500 Millionen US-Dollar erzielt hat, sagte das Startup gegenüber TechCrunch.",
-    "titleDE": "Lovable bestätigt neue Bewertung von 13,3 Milliarden US-Dollar und sammelt weitere 400 Millionen US-Dollar ein"
-  },
-  {
-    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-    "description": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and Logic. But now the company has edited its original Instagram post denying the use of generative AI to say it was wrong. \nIn a lengthy update to its post from July 29th (embedded at the bottom), it said:\n …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-08-12T15:52:07.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nach wochenlangen Kontroversen und Spekulationen hat das Musikunternehmen D'Addario zugegeben, dass KI, insbesondere Suno, in einem aktuellen Werbevideo eingesetzt wurde. Fast zwei Wochen lang bestritt das Unternehmen die Vorwürfe, obwohl sich die Beweise dagegen häuften. Es bot verschiedene Erklärungen, von Low-Q...",
-    "titleDE": "Die Gitarrenfirma D’Addario gibt zu, dass in einem Werbevideo KI-Musik verwendet wurde"
-  },
-  {
-    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-    "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-    "pubDate": "2026-08-12T15:44:56.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Investoren warten immer noch auf ihren Anteil an den 250 Millionen US-Dollar, und VideoVerse-Mitbegründer Vinayak Shrivastav steht derzeit im Mittelpunkt mehrerer Rechtsstreitigkeiten.",
-    "titleDE": "Wie eine 250-Millionen-Dollar-Übernahme aufgrund von Betrugsvorwürfen und gefälschten Unterschriften scheiterte"
-  },
-  {
-    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-    "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "description": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
-    "pubDate": "2026-08-12T14:22:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI-Hardware für Notizen hat sich in den letzten Jahren durchgesetzt. Geräte in Kreditkartengröße, Anhänger, Anstecknadeln und sogar Transkribierungs-Ohrhörer versprechen alle, Ihre Besprechungen festzuhalten und sie in Zusammenfassungen und Aktionselemente umzuwandeln. Mittlerweile lockt eine ganze Welle von Wearables – vor allem Ringe – bei Wetten ...",
-    "titleDE": "Warum Sandbar glaubt, dass sein sprachaktivierter Ring den Friedhof der KI-Hardware umgehen kann"
-  },
-  {
-    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-    "pubDate": "2026-08-12T14:20:33.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Von der Pixel 11-Serie bis hin zu einem brandneuen Konkurrenten von Apples AirTag: Hier finden Sie alle Ankündigungen der Made by Google 2026-Veranstaltung.",
-    "titleDE": "Alles, was bei Made by Google ’26 angekündigt wurde: Pixel 11, Pixel Watch 5, Pixel Tag und jede Menge Gemini-Funktionen"
-  },
-  {
-    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-    "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-    "description": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel Watch 5 isn't immune to RAMageddon - none of us are. Otherwise, no one would blame you for looking at this watch and thinking absolutely nothing's changed. That's because the big updates this year are all software-based.\nThis isn't a huge surprise considering Google's Fitbit Air launch in May. And after seeing some Pixel Watch 5 …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-12T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Zumindest gibt es dieses Jahr kein neues proprietäres Ladegerät. Huzzah!! | Foto: David Imel / The Verge Bei der 399 US-Dollar teuren Google Pixel Watch 5 geht es nicht um die Hardware. Klar, es gibt ein neues satiniertes Pyrit-Gehäuse, ein paar neue Armbandfarben und eine Steph Curry Special Edition. Unter der Haube steckt ein etwas schnelleres Q...",
-    "titleDE": "Googles Pixel Watch 5 befasst sich tiefer mit KI und Gesundheit"
-  },
-  {
-    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people…",
-    "pubDate": "2026-08-12T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie wir 35 der weltbesten jungen Wissenschaftler und Ingenieure ausgewählt haben Am 8. September wird MIT Technology Review seine Liste der Innovatoren unter 35 für 2026 veröffentlichen, anerkannt...",
-    "titleDE": "Der Download: unsere 35 jungen Innovatoren und der „Zensur-Industrie-Komplex“"
-  },
-  {
-    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-    "description": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. \nThat entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans. \nAt the center of Gamgee's origin story is Rosie, Conyngham's Staffordshire bull terrier-Shar Pei mix, who …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-12T12:09:34.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Erinnern Sie sich an die vielgepriesene Geschichte über einen australischen Technologieunternehmer, der ChatGPT, Grok und andere KI-Tools nutzt, um einen personalisierten Krebsimpfstoff für seinen Hund herzustellen? Nun, Überraschung: Er hat ein Startup gegründet. Dieser Unternehmer ist Paul Conyngham, der sagt, er gründet Gamgee, um „personalisierte mRNA-C...“ anzubieten.",
-    "titleDE": "Natürlich hat der ChatGPT-Hundekrebsimpfstoff ein Startup hervorgebracht"
-  },
-  {
-    "title": "How we picked 35 of the world’s top young scientists and engineers",
-    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-    "description": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.  By finding the top young innovators globally and learning what they’re focused on in their work,…",
-    "pubDate": "2026-08-12T09:08:40.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Nächsten Monat, am 8. September, wird MIT Technology Review seine Liste der Innovatoren unter 35 für das Jahr 2026 veröffentlichen und 35 junge Menschen aus der ganzen Welt auszeichnen, die bahnbrechende wissenschaftliche Arbeit leisten und clevere technische Lösungen für schwierige Probleme entwickeln. Indem wir die besten jungen Innovatoren weltweit finden und...",
-    "titleDE": "Wie wir 35 der weltweit besten jungen Wissenschaftler und Ingenieure ausgewählt haben"
-  },
-  {
     "title": "From assistance to execution: How enterprises put AI to work",
     "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
@@ -477,7 +507,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Das FBI Atlanta bestätigt, dass es den Vorfall untersucht und keine Festnahmen vorgenommen hat.",
-    "titleDE": "DEF CON-Gruppe bei Fake-Hotspot-Angriff auf Delta-Flug verdächtigt"
+    "titleDE": "DEF CON crowd suspected in fake-hotspot attack on Delta flight"
   },
   {
     "title": "How RingCentral builds AI-native work from engineering to ops",
@@ -487,7 +517,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie RingCentral ChatGPT Work und Codex nutzt, um die Entwicklung von KI-Produkten zu beschleunigen und die operative Intelligenz über Technik und Betrieb hinweg zu zentralisieren.",
-    "titleDE": "Wie RingCentral KI-native Arbeit von der Technik bis zum Betrieb aufbaut"
+    "titleDE": "How RingCentral builds AI-native work from engineering to ops"
   },
   {
     "title": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -497,7 +527,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Gerätegebundene Sitzungszugangsdaten verhindern eine immer häufiger auftretende Form der Kontoübernahme.",
-    "titleDE": "Chrome bietet möglicherweise den bisher besten Schutz gegen Kontoübernahmen"
+    "titleDE": "Chrome adopts what may be the best protection yet against account takeovers"
   },
   {
     "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -507,7 +537,7 @@
     "source": "Google AI",
     "category": "news",
     "descriptionDE": "Google führt AMIE für klinische Videokonsultationen in Echtzeit in simulierten Umgebungen ein.",
-    "titleDE": "AMIE, unser medizinisches Forschungs-KI-System, demonstriert in einer einzigartigen Studie klinische Videoberatungsfunktionen in Echtzeit."
+    "titleDE": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
   },
   {
     "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
@@ -517,7 +547,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Warum Passkey-Apps Windows anders behandeln als andere Betriebssysteme.",
-    "titleDE": "Neuer Pass-ta-key-Angriff enthüllt all die Dinge, die wir über Passkeys nicht wussten"
+    "titleDE": "New Pass-ta-key attack reveals all the things we didn't know about passkeys"
   },
   {
     "title": "Testing ads in ChatGPT",
@@ -527,7 +557,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugang mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
-    "titleDE": "Anzeigen in ChatGPT testen"
+    "titleDE": "Testing ads in ChatGPT"
   },
   {
     "title": "Daybreak models are now available on AWS",
@@ -537,7 +567,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI und AWS stellen die Cybersicherheitsfunktionen von Daybreak über Amazon Bedrock zur Verfügung, um Sicherheitsworkflows in Unternehmen zu unterstützen.",
-    "titleDE": "Daybreak-Modelle sind jetzt auf AWS verfügbar"
+    "titleDE": "Daybreak models are now available on AWS"
   },
   {
     "title": "What building an AI-native finance function taught me",
@@ -547,7 +577,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI-CFO Sarah Friar verrät fünf Lektionen zum Aufbau einer KI-nativen Finanzfunktion, von automatisierten Prognosen bis hin zu stärkeren Kontrollen und KI-ROI.",
-    "titleDE": "Was mich der Aufbau einer KI-nativen Finanzfunktion gelehrt hat"
+    "titleDE": "What building an AI-native finance function taught me"
   },
   {
     "title": "Evolve your marketing with new AI tools",
@@ -557,7 +587,7 @@
     "source": "Google AI",
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie neue KI- und Agentenerfahrungen in Google Ads und Google Analytics Ihren Marketing-Workflow vereinfachen können.",
-    "titleDE": "Entwickeln Sie Ihr Marketing mit neuen KI-Tools weiter"
+    "titleDE": "Evolve your marketing with new AI tools"
   },
   {
     "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -567,7 +597,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI schickte Gouverneur Greg Abbott einen Brief, in dem er sein Engagement für eine verantwortungsvolle KI-Infrastruktur in Texas darlegte. Der Brief unterstützt ein zuverlässiges, transparentes Wachstum, das den Texanern zugute kommt.",
-    "titleDE": "Brief von OpenAI an Gouverneur Abbott zur verantwortungsvollen KI-Infrastruktur in Texas"
+    "titleDE": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
   },
   {
     "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
@@ -628,25 +658,5 @@
     "category": "news",
     "descriptionDE": "Das Enterprise-Marketing-Team von Zapier nutzt ChatGPT Work, um die Anzahl der Abbrüche in seinem Lead-Funnel zu reduzieren, Kampagnen-Assets aufzubauen und die Berichterstellung zu automatisieren.",
     "titleDE": "Wie Zapier mit ChatGPT Work zentrale Marketingprozesse transformierte"
-  },
-  {
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-    "pubDate": "2026-08-07T15:20:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI teilt vorläufige Cybersicherheitsbewertungen für Astra und die Schritte, die wir unternehmen, um Schutzmaßnahmen und Sicherheitskontrollen zu stärken.",
-    "titleDE": "Reaktion auf die nächste Grenze kritischer Cyber-Fähigkeiten"
-  },
-  {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "link": "https://openai.com/index/hsp-gruppe",
-    "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "pubDate": "2026-08-07T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie, wie HSP GRUPPE ChatGPT Enterprise nutzt, um die Produktivität zu steigern, die Arbeitsqualität zu verbessern und mehr Kapazitäten für Steuerberatung und Kundenservice zu schaffen.",
-    "titleDE": "Wie die HSP GRUPPE KI-Fähigkeiten für die Steuerberatung aufbaut"
   }
 ]
