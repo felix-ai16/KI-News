@@ -1,5 +1,45 @@
 [
   {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "pubDate": "2026-08-15T21:29:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Frau behauptete, dass KI-Tools „den Alltag in sexuellen Missbrauch von Kindern verwandeln“.",
+    "titleDE": "Frau behauptet, ihr Stiefvater habe Grok verwendet, um ein Kindheitsfoto in explizite Bilder umzuwandeln"
+  },
+  {
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "description": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-15T20:45:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wenn man die Augen zusammenkneift, kann man den Hut gerade noch erkennen. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me ist in seiner Einfachheit brillant. Es gibt zwei Registerkarten: Mensch und LARP als KI. Auf der einen Seite geben Sie eine Anfrage ein. Zum anderen geben Sie eine Antwort ab. Aber das Wichtigste ist, dass es...",
+    "titleDE": "Lachen Sie auf Kosten der KI, indem Sie als Chatbot Rollenspiele spielen"
+  },
+  {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "pubDate": "2026-08-15T18:58:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wie funktioniert das Wasserzeichen eigentlich? Kann es durch Bearbeiten ausgeblendet werden? Und wie wirkt sich das auf den Code aus?",
+    "titleDE": "Anthropic teilt weitere Details darüber mit, wie Claudes neue Wasserzeichen funktionieren werden"
+  },
+  {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "pubDate": "2026-08-15T16:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das KI-Codierungs-Startup Cursor ist jetzt offiziell Teil von SpaceX.",
+    "titleDE": "SpaceX schließt offiziell seine Cursor-Übernahme ab"
+  },
+  {
     "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
     "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
     "description": "Screen-sharing bug lets remote hackers log in without a password.",
@@ -450,46 +490,6 @@
     "titleDE": "Berichten zufolge befindet sich das KI-Programmierungs-Startup Cognition bereits in Gesprächen über eine Kapitalerhöhung im Wert von 40 Milliarden US-Dollar"
   },
   {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-    "pubDate": "2026-08-12T17:51:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Auf der Ai4 diskutierten drei der weltweit angesehensten KI-Experten – Geoffrey Hinton, Fei-Fei Li und Andrew Ng – über Regulierung, Open-Source-Zugang und wie Amerika mit dem Vormarsch Chinas in Asien konkurrieren kann.",
-    "titleDE": "Da Bedenken hinsichtlich der KI-Sicherheit zunehmen, plädieren drei Pioniere dafür, offen zu bleiben"
-  },
-  {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-    "pubDate": "2026-08-12T17:41:29.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Thrive Holdings hat 2 Milliarden US-Dollar an neuen Mitteln zu einem Wert von 12 Milliarden US-Dollar von Investoren wie SoftBank, D1 Capital Partners und Altimeter Capital eingeworben.",
-    "titleDE": "Das von OpenAI unterstützte Thrive Holdings sammelt 2 Milliarden US-Dollar, um KI in das Unternehmen zu bringen"
-  },
-  {
-    "title": "Twitch streamers can now opt out from training Amazon’s AI",
-    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-12T17:29:10.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Twitch-Benutzer können nun die Verwendung ihrer Inhalte zum Trainieren der generativen KI-Modelle von Amazon ablehnen. Wenn Sie sich abmelden, bedeutet dies, dass „Ihre Streams, VODs, Clips, Stream-Chats sowie Bilder und Texte auf Ihrem Kanal“ nicht für „zukünftige Schulungen“ eines Amazon-KI-Modells verwendet werden, „dessen Zweck darin besteht, …“",
-    "titleDE": "Twitch-Streamer können sich jetzt vom Training der KI von Amazon abmelden"
-  },
-  {
-    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-    "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-    "pubDate": "2026-08-12T16:57:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mesh, eine KI-gestützte Kontakt-App und Beziehungsmanager von Automattic, ist jetzt eine Android-App.",
-    "titleDE": "Mesh, das CRM von Automattic für alle, kommt für Android"
-  },
-  {
     "title": "From assistance to execution: How enterprises put AI to work",
     "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
@@ -507,7 +507,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Das FBI Atlanta bestätigt, dass es den Vorfall untersucht und keine Festnahmen vorgenommen hat.",
-    "titleDE": "DEF CON crowd suspected in fake-hotspot attack on Delta flight"
+    "titleDE": "DEF CON-Gruppe bei Fake-Hotspot-Angriff auf Delta-Flug verdächtigt"
   },
   {
     "title": "How RingCentral builds AI-native work from engineering to ops",
@@ -517,7 +517,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie RingCentral ChatGPT Work und Codex nutzt, um die Entwicklung von KI-Produkten zu beschleunigen und die operative Intelligenz über Technik und Betrieb hinweg zu zentralisieren.",
-    "titleDE": "How RingCentral builds AI-native work from engineering to ops"
+    "titleDE": "Wie RingCentral KI-native Arbeit von der Technik bis zum Betrieb aufbaut"
   },
   {
     "title": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -527,7 +527,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Gerätegebundene Sitzungszugangsdaten verhindern eine immer häufiger auftretende Form der Kontoübernahme.",
-    "titleDE": "Chrome adopts what may be the best protection yet against account takeovers"
+    "titleDE": "Chrome bietet möglicherweise den bisher besten Schutz gegen Kontoübernahmen"
   },
   {
     "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -537,7 +537,7 @@
     "source": "Google AI",
     "category": "news",
     "descriptionDE": "Google führt AMIE für klinische Videokonsultationen in Echtzeit in simulierten Umgebungen ein.",
-    "titleDE": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
+    "titleDE": "AMIE, unser medizinisches Forschungs-KI-System, demonstriert in einer einzigartigen Studie klinische Videoberatungsfunktionen in Echtzeit."
   },
   {
     "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
@@ -547,7 +547,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Warum Passkey-Apps Windows anders behandeln als andere Betriebssysteme.",
-    "titleDE": "New Pass-ta-key attack reveals all the things we didn't know about passkeys"
+    "titleDE": "Neuer Pass-ta-key-Angriff enthüllt all die Dinge, die wir über Passkeys nicht wussten"
   },
   {
     "title": "Testing ads in ChatGPT",
@@ -556,8 +556,8 @@
     "pubDate": "2026-08-11T10:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugang mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
-    "titleDE": "Testing ads in ChatGPT"
+    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugriff mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
+    "titleDE": "Anzeigen in ChatGPT testen"
   },
   {
     "title": "Daybreak models are now available on AWS",
@@ -567,7 +567,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI und AWS stellen die Cybersicherheitsfunktionen von Daybreak über Amazon Bedrock zur Verfügung, um Sicherheitsworkflows in Unternehmen zu unterstützen.",
-    "titleDE": "Daybreak models are now available on AWS"
+    "titleDE": "Daybreak-Modelle sind jetzt auf AWS verfügbar"
   },
   {
     "title": "What building an AI-native finance function taught me",
@@ -576,8 +576,8 @@
     "pubDate": "2026-08-10T17:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "OpenAI-CFO Sarah Friar verrät fünf Lektionen zum Aufbau einer KI-nativen Finanzfunktion, von automatisierten Prognosen bis hin zu stärkeren Kontrollen und KI-ROI.",
-    "titleDE": "What building an AI-native finance function taught me"
+    "descriptionDE": "OpenAI-CFO Sarah Friar verrät fünf Lektionen für den Aufbau einer KI-nativen Finanzfunktion, von automatisierten Prognosen bis hin zu stärkeren Kontrollen und KI-ROI.",
+    "titleDE": "Was mich der Aufbau einer KI-nativen Finanzfunktion gelehrt hat"
   },
   {
     "title": "Evolve your marketing with new AI tools",
@@ -587,7 +587,7 @@
     "source": "Google AI",
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie neue KI- und Agentenerfahrungen in Google Ads und Google Analytics Ihren Marketing-Workflow vereinfachen können.",
-    "titleDE": "Evolve your marketing with new AI tools"
+    "titleDE": "Entwickeln Sie Ihr Marketing mit neuen KI-Tools weiter"
   },
   {
     "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -597,7 +597,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI schickte Gouverneur Greg Abbott einen Brief, in dem er sein Engagement für eine verantwortungsvolle KI-Infrastruktur in Texas darlegte. Der Brief unterstützt ein zuverlässiges, transparentes Wachstum, das den Texanern zugute kommt.",
-    "titleDE": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
+    "titleDE": "Brief von OpenAI an Gouverneur Abbott zur verantwortungsvollen KI-Infrastruktur in Texas"
   },
   {
     "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
