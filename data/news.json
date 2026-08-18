@@ -1,8 +1,178 @@
 [
   {
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "description": "The model maker added $18 billion in annualized revenue in two months.",
+    "pubDate": "2026-08-17T23:56:26.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Modellbauer steigerte in zwei Monaten seinen Jahresumsatz um 18 Milliarden US-Dollar.",
+    "titleDE": "Der Jahresumsatz von Anthropic steigt auf 65 Milliarden US-Dollar"
+  },
+  {
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "pubDate": "2026-08-17T21:27:05.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Wir haben einige wirklich ehrgeizige Pläne, Ihnen bei der Arbeit mit KI in Chrome zu helfen, um Dinge zu erledigen, und ich werde bald mehr mit Ihnen teilen“, sagte Jacob Bank, Gründer und CEO von Relay.",
+    "titleDE": "Das KI-Automatisierungs-Startup Relay wird geschlossen, Mitarbeiter treten dem Chrome-Team von Google bei"
+  },
+  {
+    "title": "What Flock’s defenders are missing",
+    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
+    "pubDate": "2026-08-17T19:16:09.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Flock, der Polizeitechnikriese, der für sein Netzwerk von rund 120.000 automatischen Kennzeichenlesegeräten in den USA bekannt ist, kündigte letzten Donnerstag einige Änderungen an seiner Plattform an …",
+    "titleDE": "Was den Verteidigern von Flock fehlt"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "pubDate": "2026-08-17T16:38:44.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Seltene Bücher sind für die Ausbildung von LLMs unglaublich wertvoll, da diese Modelle bereits mit allem trainiert haben, was online verfügbar ist.",
+    "titleDE": "Amazon, das mit dem Verkauf von Büchern begann, zerstört seltene Texte, um KI zu trainieren"
+  },
+  {
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "pubDate": "2026-08-17T16:15:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Groq sammelte 350 Millionen US-Dollar bei einer Bewertung von 3,5 Milliarden US-Dollar, als der ehemalige Hersteller von KI-Chips zu einem Neocloud-Geschäft überging und seine Präsenz in Rechenzentren mit Nvidia-Antrieb ausbaute.",
+    "titleDE": "Groq sammelt 350 Millionen US-Dollar, um den Wechsel von KI-Chips zu Neocloud voranzutreiben"
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "pubDate": "2026-08-17T15:16:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Investition von Nvidia in den Rechenzentrumsentwickler von SoftBank garantiert, dass seine Chips ein OpenAI-Rechenzentrum betreiben.",
+    "titleDE": "Nvidia investiert 1,5 Milliarden US-Dollar in den Rechenzentrumsentwickler SoftBank, der hinter dem OpenAI-Projekt steht"
+  },
+  {
+    "title": "Nvidia discloses $21B stake in SpaceX",
+    "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "description": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+    "pubDate": "2026-08-17T14:22:54.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Die Einreichung erfolgt, nachdem Elon Musk eine exklusive Vereinbarung zur Ausstattung seiner Rechenzentren angekündigt hat.",
+    "titleDE": "Nvidia gibt 21-Milliarden-Dollar-Beteiligung an SpaceX bekannt"
+  },
+  {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "description": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+    "pubDate": "2026-08-17T13:10:05.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Mittel werden es Wispr ermöglichen, seine Präsenz zu vergrößern, indem es mit seinem neu veröffentlichten Notizentool in neue Bereiche vordringt, beispielsweise Meetings.",
+    "titleDE": "Wispr sammelt 280 Mio. US-Dollar bei einer Bewertung von 2 Mrd. US-Dollar ein, da es über das Diktat hinausgeht"
+  },
+  {
+    "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+    "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
+    "pubDate": "2026-08-17T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Was passiert, wenn der beste Freund eines Kinderroboters stirbt? Als Xander Moxie zum ersten Mal traf, brachte sie ihm bei, wie er sich beruhigen konnte, wenn er ängstlich oder wütend war. Sechs Jahre später…",
+    "titleDE": "Der Download: tote Roboterfreunde und der „Zensur-Industrie-Komplex“"
+  },
+  {
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "description": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that. \nAt least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning,  …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-17T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die größte Erfindung der Heimtiertechnik der letzten Jahre ist der Streuroboter. Eine Maschine, die den Kot Ihrer Kätzchen aufsaugt, sodass Sie es nicht tun müssen – was will ein Katzenbesitzer mehr? Wie wäre es mit Erkenntnissen über die Nutzung der Katzentoilette Ihrer Katze, die auf gesundheitliche Probleme hinweisen könnten? Melde mich an. Aber ich habe zwei Katzenfr...",
+    "titleDE": "Whiskers KI-betriebener Wurfroboter denkt, dass meine Katzen die Körper getauscht haben"
+  },
+  {
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "description": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities.\nThis watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic's obligations under the European Union's AI Act, which requires synthetic audio, image, video, and text to include machine-readable marks …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-17T10:57:13.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic hat klargestellt, wie es plant, unsichtbare Wasserzeichen auf Claude-generierten Text anzuwenden, um den europäischen KI-Transparenzregeln zu entsprechen. Am Freitag gab Anthropic bekannt, dass Claudes Textmarkierungssystem „eine Version des SynthID-Text-Ansatzes“ ist – eine Open-Source-Wasserzeichentechnologie …",
+    "titleDE": "Anthropic erklärt, wie Claudes unsichtbare Textwasserzeichen funktionieren"
+  },
+  {
+    "title": "How much hydrogen awaits us underground?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "description": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…",
+    "pubDate": "2026-08-17T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "In den 1990er Jahren stieg Barbara Sherwood Lollar in die Kidd-Creek-Mine im Norden Ontarios hinab, die mehr als drei Kilometer in die Urwurzel Nordamerikas eindringt. Dort fand ihr Team aus Geochemikern Wasser, das seit mehr als einer Milliarde Jahren unter der Erde eingeschlossen war. Dieses alte Solebad...",
+    "titleDE": "Wie viel Wasserstoff erwartet uns unter der Erde?"
+  },
+  {
+    "title": "What happens when a kid’s robot best friend dies?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "description": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
+    "pubDate": "2026-08-17T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Als Xander Moxie zum ersten Mal traf, brachte sie ihm bei, dass er sich beruhigen konnte, wenn er Angst hatte, indem er durch die Lippen ausatmete, sodass er wie eine Biene summte. Sie übten, wie Drachen zu atmen, um nicht wütend zu werden, und wie Hasen zu schnüffeln, um seine Energie zu steigern. Aber in den sechs Jahren, in denen sie sich kennen...",
+    "titleDE": "Was passiert, wenn der beste Freund eines Kinderroboters stirbt?"
+  },
+  {
+    "title": "Get closer to the game with Gemini and Pixel",
+    "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "description": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology.",
+    "pubDate": "2026-08-17T08:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Google Gemini und Pixel arbeiten mit fünf globalen Fußballvereinen zusammen, um das Spielerlebnis der Fans durch KI und Smartphone-Technologie zu verbessern.",
+    "titleDE": "Kommen Sie dem Spiel mit Gemini und Pixel näher"
+  },
+  {
+    "title": "The Defender’s Window",
+    "link": "https://openai.com/index/the-defenders-window",
+    "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "pubDate": "2026-08-17T05:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "KI verändert die Cybersicherheit für Angreifer und Verteidiger gleichermaßen. Erfahren Sie, wie OpenAI seine Abwehrmaßnahmen stärkt und was Sicherheitsteams jetzt tun können.",
+    "titleDE": "Das Fenster des Verteidigers"
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "pubDate": "2026-08-17T05:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI schließt sich dem PORTS-Pike-Projekt an, erweitert die Gemeinschaftsinvestitionen und unterstützt Tausende von Arbeitsplätzen in Süd-Ohio",
+    "titleDE": "OpenAI tritt dem PORTS-Pike-Projekt bei"
+  },
+  {
+    "title": "New policy ideas for the Intelligence Age",
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "pubDate": "2026-08-17T03:15:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI finanziert 14 unabhängige Projekte, die neue Ideen für die KI-Politik erforschen, um die wirtschaftlichen Möglichkeiten zu erweitern und die gesellschaftliche Widerstandsfähigkeit im Zeitalter der Intelligenz zu stärken.",
+    "titleDE": "Neue politische Ideen für das Intelligenzzeitalter"
+  },
+  {
     "title": "OpenAI reportedly disbanded its preparedness team",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\nRead the full story at The Verge.",
+    "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI …\nRead the full story at The Verge.",
     "pubDate": "2026-08-16T21:32:56.000Z",
     "source": "The Verge",
     "category": "news",
@@ -37,16 +207,16 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Dario Amodei wendet sich gegen die Vorstellung, dass er ein allzu pessimistisches Bild von KI zeichnet.",
-    "titleDE": "Anthropic-CEO sagt, die Gegenreaktion auf KI sei „grundsätzlich eine Vertrauenskrise“"
+    "titleDE": "Anthropic-CEO sagt, die Gegenreaktion auf KI sei „im Grunde eine Vertrauenskrise“"
   },
   {
     "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser ta …\nRead the full story at The Verge.",
+    "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt in, rather than opt out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser tab …\nRead the full story at The Verge.",
     "pubDate": "2026-08-16T14:56:40.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Die Desktop-App von ChatGPT auf macOS verfügt über eine neue Funktion namens Computerverlauf, die Ihre Aktionen in Trainingsdaten umwandelt, Ihre Arbeitsweise lernt, Automatisierungen vorschlägt und sogar Aufgaben wieder aufnimmt, die Sie halb erledigt haben. Es nutzt Ihre Aktivität, um eine Zeitleiste zu erstellen, auf die ChatGPT und Codex verweisen können, wenn Sie...",
+    "descriptionDE": "Die Desktop-App von ChatGPT auf macOS verfügt über eine neue Funktion namens „Computerverlauf“, die Ihre Aktionen in Trainingsdaten umwandelt, Ihre Arbeitsweise erlernt, Automatisierungen vorschlägt und sogar Aufgaben wieder aufnimmt, die Sie halb erledigt gelassen haben. Es nutzt Ihre Aktivität, um eine Zeitleiste zu erstellen, auf die ChatGPT und Codex verweisen können, wenn Sie...",
     "titleDE": "Der Computerverlauf von ChatGPT verfolgt Ihre Klicks und Tastenanschläge"
   },
   {
@@ -72,11 +242,11 @@
   {
     "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
     "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-    "description": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\nRead the full story at The Verge.",
+    "description": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits, you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to dr …\nRead the full story at The Verge.",
     "pubDate": "2026-08-15T20:45:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Wenn man die Augen zusammenkneift, kann man den Hut gerade noch erkennen. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me ist in seiner Einfachheit brillant. Es gibt zwei Registerkarten: Mensch und LARP als KI. Auf der einen Seite geben Sie eine Anfrage ein. Zum anderen geben Sie eine Antwort ab. Aber das Wichtigste ist, dass es...",
+    "descriptionDE": "Wenn Sie schielen, können Sie den Hut gerade noch erkennen. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me ist in seiner Einfachheit brillant. Es gibt zwei Registerkarten: Mensch und LARP als KI. Auf der einen Seite geben Sie eine Anfrage ein. Zum anderen geben Sie eine Antwort ab. Aber das Wichtigste ist, dass es...",
     "titleDE": "Lachen Sie auf Kosten der KI, indem Sie als Chatbot Rollenspiele spielen"
   },
   {
@@ -98,6 +268,16 @@
     "category": "news",
     "descriptionDE": "Das KI-Codierungs-Startup Cursor ist jetzt offiziell Teil von SpaceX.",
     "titleDE": "SpaceX schließt offiziell seine Cursor-Übernahme ab"
+  },
+  {
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+    "pubDate": "2026-08-15T16:10:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Eine Anleitung, wie Sie überprüfen können, ob Hacker auf den beliebtesten KI-Plattformen in Ihre Konten eingedrungen sind.",
+    "titleDE": "So erkennen Sie, ob die Konten Ihrer KI-Plattformen gehackt wurden"
   },
   {
     "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -187,7 +367,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "In einigen Teilen der USA könnten sich die Erdgaspreise verdreifachen, was den Hyperscalern hohe Rechnungen für den Betrieb ihrer KI-Rechenzentren aufbürden könnte.",
-    "titleDE": "Hyperscaler könnten es bereuen, auf Erdgas umgestiegen zu sein, wenn sich die neue Prognose als richtig erweist"
+    "titleDE": "Hyperscaler könnten die Entscheidung für Erdgas bereuen, wenn sich die neue Prognose als richtig erweist"
   },
   {
     "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
@@ -256,7 +436,7 @@
     "pubDate": "2026-08-13T21:42:38.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Mico ist auf dem Weg zu Learn Live. | Bild: Microsoft Microsoft Copilot zeigt seinen emotionalen gelben Fleck Mico nicht mehr an, wenn Sie den Sprachmodus des Chatbots verwenden. Auf einer Support-Seite sagt Microsoft, dass es Mico auf seine Learn Live-Plattform verschieben wird, wo der Avatar „mehr zum Reagieren“ haben wird, wie berichtet...",
+    "descriptionDE": "Mico ist auf dem Weg zu Learn Live. | Bild: Microsoft Microsoft Copilot zeigt seinen emotionalen gelben Fleck Mico nicht mehr an, wenn Sie den Sprachmodus des Chatbots verwenden. Auf einer Support-Seite sagt Microsoft, dass es Mico auf seine Learn Live-Plattform verlagern wird, wo der Avatar „mehr reagieren kann“, wie Berichten zufolge ...",
     "titleDE": "Der Clippy-ähnliche Mico-Charakter von Microsoft ist nicht mehr das Gesicht von Copilot"
   },
   {
@@ -300,46 +480,6 @@
     "titleDE": "Private Sicherheitsfirmen dürfen bald ausländische Cyberkriminelle hacken"
   },
   {
-    "title": "OpenAI is losing its second executive this week",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-    "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says.\nDresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former AGI chief Fidji Simo and former CMO …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-13T19:28:39.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein weiterer OpenAI-Manager verlässt das Unternehmen. Denise Dresser, die nach ihrer Tätigkeit als CEO von Slack im Dezember als Chief Revenue Officer zu OpenAI kam, wird das Unternehmen in den „kommenden Wochen“ verlassen, um „anderen Möglichkeiten nachzugehen“, sagte sie in einer auf LinkedIn veröffentlichten Teamnotiz. Dali Rajic, Präsident und COO von Wiz, mit...",
-    "titleDE": "OpenAI verliert diese Woche seinen zweiten Geschäftsführer"
-  },
-  {
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "pubDate": "2026-08-13T19:22:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI veröffentlicht eine Vorschau einer beschleunigten Version seines neuesten, leistungsstärksten Modells, um Unternehmensbenutzer zu umwerben.",
-    "titleDE": "OpenAI führt „Ultrafast“ ein, einen neuen Modus, der GPT-5.6 Sol mit 14-facher Geschwindigkeit arbeiten lässt"
-  },
-  {
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-    "pubDate": "2026-08-13T19:19:49.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "IBM plant, im Rahmen dieser Vereinbarung Zehntausende Berater für die Technologien von OpenAI zu schulen und zu zertifizieren.",
-    "titleDE": "IBM arbeitet mit OpenAI zusammen, um den KI-Vorstoß von Unternehmen zu stärken"
-  },
-  {
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-    "pubDate": "2026-08-13T18:28:14.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic-Forscher haben herausgefunden, dass KI-Agenten auf unerwartete Weise zusammenstoßen, kollaborieren und sich koordinieren können, was neue Fragen darüber aufwirft, ob heutige Sicherheitstests die Risiken von Systemen mit mehreren Agenten erfassen.",
-    "titleDE": "Anthropic beauftragt KI-Agenten mit der gleichen Aufgabe. Sie begannen einen Revierkampf."
-  },
-  {
     "title": "Building a practical path to post-quantum cryptography",
     "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
     "description": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
@@ -347,17 +487,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Quantencomputing schwankt in Technologiekreisen zwischen bahnbrechendem Liebling und überbewertetem Versprechen. Seine leistungsstarken neuen Fähigkeiten bergen die Gefahr, die aktuelle Kryptographie zu durchbrechen, aber für Unternehmensführer, die sich im Chaos zurechtfinden, sollte das Signal klar sein: Post-Quanten-Kryptographie (PQC) ist ein m...",
-    "titleDE": "Aufbau eines praktischen Weges zur Post-Quantenkryptographie"
-  },
-  {
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-    "pubDate": "2026-08-13T17:07:13.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI hat die Chief Revenue Officer Denise Dresser nach nur neun Monaten im Amt ersetzt und den Präsidenten und Chief Operating Officer von Wiz, Dali Rajic, für die Übernahme der Top-Vertriebsaufgabe von Frontier Lab gewonnen.",
-    "titleDE": "OpenAI stellt einen neuen CRO ein, während die Umstrukturierung in der Führungsebene weitergeht"
+    "titleDE": "Aufbau eines praktischen Weges zur Post-Quanten-Kryptographie"
   },
   {
     "title": "Bring your spreadsheet data to life with Sheets canvas",
@@ -370,66 +500,6 @@
     "titleDE": "Erwecken Sie Ihre Tabellendaten mit der Sheets-Leinwand zum Leben"
   },
   {
-    "title": "Suno is trying to look more like a real music production tool",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "description": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four LFOs.\nThe point is less about using your favorite Arturia vintage syn …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-13T16:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Suno veröffentlicht Studio 2.0 mit bedeutenden Upgrades, die es einer echten digitalen Audio-Workstation (DAW) näher bringen und nicht einem reinen Audio-Editor mit generativen KI-Funktionen. Die größte Neuerung ist zweifellos die MIDI-Unterstützung. Suno sagt, dass MIDI die am häufigsten nachgefragte Funktion war, und es ist ...",
-    "titleDE": "Suno versucht, eher wie ein echtes Musikproduktionstool auszusehen"
-  },
-  {
-    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-    "pubDate": "2026-08-13T15:30:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Microsoft vereinfacht Copilot, indem es seine Verbraucher- und Geschäftsanwendungen kombiniert und auf KI-generierte Podcasts, Gruppenchats, Deep Research und seinen Mico-Charakter verzichtet.",
-    "titleDE": "Microsoft eliminiert erfolglose KI-Funktionen und führt gleichzeitig seine separaten Copilot-Apps zusammen"
-  },
-  {
-    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-    "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-    "pubDate": "2026-08-13T15:08:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nvidia hat einen Plan, um sicherzustellen, dass seine GPUs nicht an Wert verlieren. Sie möchte eine neue Generation von Finanziers davon überzeugen, weiterhin Kredite für KI-Ausbauten zu vergeben.",
-    "titleDE": "Nvidias neuer 500-Milliarden-Dollar-Plan ist riskant, aber brillant, insbesondere für alternde GPUs"
-  },
-  {
-    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-    "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-    "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-    "pubDate": "2026-08-13T14:34:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nach Angaben des WSJ hat der Technologieriese für die Zahlungen ein Budget in Höhe eines neunstelligen Betrags in Betracht gezogen.",
-    "titleDE": "Apple verhandelt darüber, Verlage dafür zu bezahlen, Siri mit aktuellen Nachrichten zu versorgen: Bericht"
-  },
-  {
-    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "description": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
-    "pubDate": "2026-08-13T13:41:10.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Der Polizeitechnologieriese Flock kündigt heute an, dass er den Zugang der Beamten zu seinem landesweiten Netzwerk von Kennzeichenlesegeräten ändern wird, offensichtlich in dem Bemühen, die wachsende Gegenreaktion einzudämmen und Verträge zurückzugewinnen, die aufgrund der Besorgnis über Massenüberwachung und Polizeimissbrauch verloren gegangen sind. Mehrere Änderungen zielen direkt darauf ab ...",
-    "titleDE": "Flock verschärft seine Regeln als Reaktion auf die zunehmende Gegenreaktion der Überwachung"
-  },
-  {
-    "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out…",
-    "pubDate": "2026-08-13T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie Kinder über KI denken, in ihren eigenen Worten – Jen Swetzoff und Keeley McNamara, die Gründungsredakteure von Anyway, einem unabhängigen Printmagazin für Tweens und Teens W...",
-    "titleDE": "Der Download: Gedanken von Kindern über KI und weibliche Klone männlicher Mäuse"
-  },
-  {
     "title": "The builder’s guide to GPT‑5.6",
     "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
@@ -440,16 +510,6 @@
     "titleDE": "Der Builder-Leitfaden zu GPT-5.6"
   },
   {
-    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-    "description": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over yet, but some scientists are already looking ahead…",
-    "pubDate": "2026-08-13T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dieser Sommer war für weite Teile der nördlichen Hemisphäre ein heißer Sommer. Juni und Juli waren die heißesten zwei Monate in Europa seit Beginn der Aufzeichnungen. Die angrenzenden USA erlebten im Juli den heißesten Monat seit Beginn der Aufzeichnungen. Südkorea verzeichnete die höchste jemals gemessene Temperatur. Die Hitze ist noch nicht vorbei,...",
-    "titleDE": "Was steckt hinter der Hitze dieses Sommers und warum könnte es im Jahr 2027 noch schlimmer werden?"
-  },
-  {
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
     "link": "https://openai.com/index/previewing-ultrafast",
     "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
@@ -458,16 +518,6 @@
     "category": "news",
     "descriptionDE": "Sehen Sie sich Ultrafast an, eine neue OpenAI-API-Serviceebene, die GPT-5.6 Sol bis zu 14-mal schneller ausführt. Angetrieben von Cerebras liefert es bis zu 750 Ausgabe-Tokens pro Sekunde.",
     "titleDE": "Vorschau auf den Ultrafast-Modus: GPT-5.6 Sol mit bis zu 14-facher Geschwindigkeit"
-  },
-  {
-    "title": "How kids feel about AI, in their own words",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
-    "pubDate": "2026-08-13T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als wir uns daran machten, mit Kindern über künstliche Intelligenz zu sprechen, dachten wir, wir wüssten, was wir hören würden. Wir erwarteten, dass einige uns sagen würden, dass sie damit ein wenig schummeln würden, wie Millennials und Generation",
-    "titleDE": "Was Kinder über KI denken, in ihren eigenen Worten"
   },
   {
     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
@@ -507,7 +557,7 @@
     "source": "Ars Technica",
     "category": "news",
     "descriptionDE": "Das FBI Atlanta bestätigt, dass es den Vorfall untersucht und keine Festnahmen vorgenommen hat.",
-    "titleDE": "DEF CON-Gruppe bei Fake-Hotspot-Angriff auf Delta-Flug verdächtigt"
+    "titleDE": "DEF CON-Menge bei Fake-Hotspot-Angriff auf Delta-Flug verdächtigt"
   },
   {
     "title": "How RingCentral builds AI-native work from engineering to ops",
@@ -556,7 +606,7 @@
     "pubDate": "2026-08-11T10:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugriff mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
+    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugang mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
     "titleDE": "Anzeigen in ChatGPT testen"
   },
   {
@@ -568,65 +618,5 @@
     "category": "news",
     "descriptionDE": "OpenAI und AWS stellen die Cybersicherheitsfunktionen von Daybreak über Amazon Bedrock zur Verfügung, um Sicherheitsworkflows in Unternehmen zu unterstützen.",
     "titleDE": "Daybreak-Modelle sind jetzt auf AWS verfügbar"
-  },
-  {
-    "title": "What building an AI-native finance function taught me",
-    "link": "https://openai.com/index/building-an-ai-native-finance-function",
-    "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "pubDate": "2026-08-10T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI-CFO Sarah Friar verrät fünf Lektionen für den Aufbau einer KI-nativen Finanzfunktion, von automatisierten Prognosen bis hin zu stärkeren Kontrollen und KI-ROI.",
-    "titleDE": "Was mich der Aufbau einer KI-nativen Finanzfunktion gelehrt hat"
-  },
-  {
-    "title": "Evolve your marketing with new AI tools",
-    "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "description": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-    "pubDate": "2026-08-10T14:30:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie neue KI- und Agentenerfahrungen in Google Ads und Google Analytics Ihren Marketing-Workflow vereinfachen können.",
-    "titleDE": "Entwickeln Sie Ihr Marketing mit neuen KI-Tools weiter"
-  },
-  {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "description": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "pubDate": "2026-08-10T14:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI schickte Gouverneur Greg Abbott einen Brief, in dem er sein Engagement für eine verantwortungsvolle KI-Infrastruktur in Texas darlegte. Der Brief unterstützt ein zuverlässiges, transparentes Wachstum, das den Texanern zugute kommt.",
-    "titleDE": "Brief von OpenAI an Gouverneur Abbott zur verantwortungsvollen KI-Infrastruktur in Texas"
-  },
-  {
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "link": "https://openai.com/index/model-ml",
-    "description": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "pubDate": "2026-08-10T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Model ML verwendet GPT-5.6 Sol, um Finanzarbeiten von Forschung und Analyse über bearbeitbare, nachvollziehbare PowerPoint-Decks und Excel-Arbeitsmappen zu übertragen.",
-    "titleDE": "Model ML erledigt Finanzarbeiten effizienter mit GPT-5.6 Sol"
-  },
-  {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "pubDate": "2026-08-10T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Zugelassene Daybreak-Partner können die Frontier-Cyber-Modelle von OpenAI nutzen, um ihren Kunden autorisierte, kontrollierte Cybersicherheitsdienste bereitzustellen.",
-    "titleDE": "Geben Sie bahnbrechende Cyber-Modelle in vertrauenswürdigere Hände"
-  },
-  {
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "description": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "pubDate": "2026-08-10T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Lernen Sie GPT-5.6-Cyber ​​kennen, das Cybersicherheits-spezifische Modell von OpenAI, das über Daybreak Red für autorisierte Schwachstellenforschung, Exploit-Validierung und Sicherheitstests verfügbar ist.",
-    "titleDE": "Daybreak wird ausgeweitet, da das Fenster zur Cyber-Abwehr enger wird"
   }
 ]
