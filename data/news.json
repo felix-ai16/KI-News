@@ -1,5 +1,265 @@
 [
   {
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+    "pubDate": "2026-08-18T22:14:25.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Cursor, bekannt für seinen AI Code Editor, bringt eine neue Code-Hosting-Plattform auf den Markt, die mit GitHub, dem seit langem bevorzugten Favoriten der Entwickler, konkurrieren soll.",
+    "titleDE": "Cursor nutzt die GitHub-Frustration aus und startet konkurrierende Hosting-Plattform"
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "pubDate": "2026-08-18T22:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "ChatGPT Ads expandiert auf 31 europäische Märkte. Erfahren Sie, wie Werbetreibende Menschen erreichen können, während sie Optionen erkunden, vergleichen und Entscheidungen treffen.",
+    "titleDE": "ChatGPT Ads expandiert in ganz Europa"
+  },
+  {
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.\"\nA story posted to Zelda Williams' own Instagram account expands on the decision to bring back her father's profile, saying that it's meant to help combat \"rampant AI abuse,\" according to The Wrap:\nI'm sorry if anyone found Da …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-08-18T19:48:26.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die Kinder von Robin Williams übernehmen den Instagram-Account ihres Vaters, nachdem sich seine Tochter gegen die Verwendung seines KI-Bildes ausgesprochen hatte, wie The Wrap zuvor berichtete. In einem Beitrag vom Dienstag schreiben Zak, Zelda und Cody Williams, dass sie möchten, dass das Instagram-Profil des verstorbenen Schauspielers ein „sicherer, vertrauenswürdiger …“ ist.",
+    "titleDE": "Robin Williams‘ Instagram-Account wurde zurückgebracht, um „KI-Missbrauch“ zu bekämpfen"
+  },
+  {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for deployment\" while it tightened up security. The company's \"largest planned frontier RL run remains on hold.\"\nFor its frontier model research, OpenAI now r …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-18T19:28:30.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI kündigt Sicherheitsupdates an, nachdem im Juli bekannt wurde, dass seine KI aus einer Sandbox-Umgebung ausgebrochen ist und versehentlich Hugging Face gehackt hat, einschließlich Verbesserungen seiner Forschungsumgebungen, Überwachungs- und Ausrichtungstechniken. Das Unternehmen hatte bereits ein neues Modell, den Astra, auf die Bremse gesetzt...",
+    "titleDE": "OpenAI kündigt neue Sicherheitsänderungen an, nachdem seine KI Hugging Face gehackt hat"
+  },
+  {
+    "title": "Strengthening democratic oversight in national security",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "pubDate": "2026-08-18T19:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI startet eine Initiative zur Stärkung der demokratischen Aufsicht über KI in der nationalen Sicherheit und unterstützt Regierungsinstitutionen mit Tools, Schulungen und Fachwissen.",
+    "titleDE": "Stärkung der demokratischen Kontrolle der nationalen Sicherheit"
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "pubDate": "2026-08-18T18:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Zu den neuen Schutzmaßnahmen gehören eine detailliertere Überwachung der Modelle während des Entwicklungsprozesses sowie eine stärkere Betonung der Ausrichtung und Sicherheit während des Post-Training-Prozesses.",
+    "titleDE": "OpenAI führt nach dem Verstoß gegen Hugging Face neue Sicherheitsmaßnahmen ein"
+  },
+  {
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "pubDate": "2026-08-18T17:21:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Jane Street hat das erste ausgelieferte KI-Clustersystem von Etched installiert und war so beeindruckt, dass es eine weitere große Runde anführte, so das Startup.",
+    "titleDE": "Die Bewertung von Etched verdoppelt sich innerhalb eines Monats auf 21 Milliarden US-Dollar"
+  },
+  {
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "pubDate": "2026-08-18T16:19:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apples durchgesickerte, mit einer Kamera ausgestattete AirPods könnten die Datenschutzprobleme anderer KI-Wearables umgehen, indem sie Benutzer daran hindern, Fotos und Videos aufzunehmen.",
+    "titleDE": "Warum Apples mit einer Kamera ausgestattete AirPods möglicherweise nicht die „perversen Pods“ sind, die Verbraucher fürchten"
+  },
+  {
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "pubDate": "2026-08-18T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Am Dienstag stellte Warp Warp Factories vor, ein neues Infrastruktursystem, das den Aufbau von KI-Softwarefabriken so einfach wie möglich machen soll.",
+    "titleDE": "Das neue System von Warp ist eine sofort einsatzbereite Softwarefabrik für die KI-Entwicklung"
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "pubDate": "2026-08-18T13:50:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "ChatGPT for Teens bietet altersgerechte Sicherheitsmaßnahmen, Kindersicherung und Lerntools, die Teenager von schädlichen Inhalten abhalten sollen – und davon abhalten, KI zum Schummeln bei ihren Hausaufgaben zu verwenden.",
+    "titleDE": "OpenAI führt ein sichereres ChatGPT für Jugendliche ein – Jahre nachdem Teenager damit begonnen haben"
+  },
+  {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "description": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "pubDate": "2026-08-18T13:45:40.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Umsatz von Perplexity in Indien stieg um etwa 60 %, nachdem das Airtel-Angebot für neue Benutzer endete, obwohl die Downloads zurückgingen.",
+    "titleDE": "Das kostenlose KI-Angebot von Perplexity hat dazu geführt, dass es in Indien Millionen weitere Nutzer gibt"
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "description": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "pubDate": "2026-08-18T13:00:04.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Mit einem geheimen Parameter konnten Hacker Passwörter stehlen, wenn ein Ziel auf einen Link klickte.",
+    "titleDE": "Microsoft Copilot enthüllt geheime Eingaben, die es ermöglichten, es zu hacken"
+  },
+  {
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "description": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. \nI saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up \"running shoes I looked at last week,\" and pop up images pulled from the sites browsed previously. The suggested groups of tabs can also find and close duplicates, making it  …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-18T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ab heute können KI-Chats im Smart Window AI-Browsermodus von Firefox durch eine Partnerschaft mit Exa aktuelle Webinformationen abrufen und Quelllinks in Chat-Antworten anzeigen. Smart Window kann jetzt auch automatisch Tab-Gruppen vorschlagen und visuelle Vorschauen von Seiten anzeigen, die Sie zuvor besucht haben, wenn Sie ...",
+    "titleDE": "Das Smart Window von Firefox verspricht einen besseren KI-Browser"
+  },
+  {
+    "title": "The Download: how people really use AI, and Flock’s design choices",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+    "pubDate": "2026-08-18T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wir wissen immer noch nicht, wie Menschen KI wirklich nutzen. KI-Unternehmen wie Anthropic und OpenAI veröffentlichen regelmäßig Berichte darüber, wie Menschen ihre Produkte nutzen. Aber das...",
+    "titleDE": "Der Download: Wie Menschen KI wirklich nutzen und welche Designoptionen Flock hat"
+  },
+  {
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution.\nPet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they saw an animal to which animal they saw. It can then use that knowledge to adapt your smart home to your pet. \nMy plan was to use it to keep a digital …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-18T12:01:29.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Eines der besten Dinge, die mein Smart Home leistet, ist, dass es mir bei der Pflege meiner Haustiere hilft, und Überwachungskameras sind besonders nützlich, um den Überblick über meine vielen Lebewesen zu behalten. Aber die Flut an Benachrichtigungen, die sie senden, führt oft dazu, dass ich wichtige Benachrichtigungen verpasse. Als Google seine neue Pet Memory-Funktion für Gemini ankündigte ...",
+    "titleDE": "Googles Pet Memory hat vergessen, wer meine Katzen sind"
+  },
+  {
+    "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+    "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "description": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. \nTwo days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial traffic during the flight. But the air traffic controllers never heard the transmission and cleared a different airplane for takeoff - which came clo …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-18T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Am 6. August verlor das Minneapolis Air Route Traffic Control Center etwa zwei Stunden lang Radar und Kommunikation. Durch den Ausfall wurden mehr als 1.100 Flüge im 330.000 Quadratmeilen großen, neun Bundesstaaten umfassenden Luftraumsektor des Zentrums unterbrochen. Zwei Tage zuvor, am 4. August, verließ Präsident Donald Trump das W...",
+    "titleDE": "Elon Musk hat die FAA gebrochen – Palantir holt die Scherben wieder auf"
+  },
+  {
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "description": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI\t\n\nOpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections.  \nChatGPT for Teens is \"an experience designed to help teens learn, think critically, deepen understanding, and use AI with confidence,\" OpenAI said in a blog post published Tuesday. Teen mode will automatically apply to users who identify themselves as being between the ages of 13 and 17, as well as those the system estimates to be under 1 …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-18T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "ChatGPT für Teenager umfasst Sicherheitsmaßnahmen und Kindersicherung. | Bild: OpenAI OpenAI führt einen speziellen ChatGPT-Modus für Teenager ein, der bestehende Jugendschutzmaßnahmen und neue Sicherheitsfunktionen unter einem Dach vereint. Der Start erfolgt vor dem Hintergrund zunehmender öffentlicher Aufmerksamkeit darüber, wie sich KI-Tools auf jüngere Benutzer auswirken ...",
+    "titleDE": "ChatGPT erhält einen speziellen Modus für Jugendliche"
+  },
+  {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "link": "https://openai.com/index/partnering-with-codeai",
+    "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "pubDate": "2026-08-18T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI und CodeAI arbeiten zusammen, um Schülern dabei zu helfen, KI-Kompetenzen aufzubauen, kritisch über KI nachzudenken und die Fähigkeiten zu entwickeln, sie verantwortungsvoll zu nutzen und zu gestalten.",
+    "titleDE": "Partnerschaft mit CodeAI zur Vorbereitung der ersten KI-Generation"
+  },
+  {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "pubDate": "2026-08-18T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI stärkt die Überwachung, Ausrichtung und Sicherheit für Grenz-KI-Modelle. Erfahren Sie, wie neue Schutzmaßnahmen das Tempo der Modellentwicklung bestimmen.",
+    "titleDE": "Beschleunigte Modellentwicklung im Zeitalter cyberkritischer Fähigkeiten"
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "link": "https://openai.com/index/chatgpt-for-teens",
+    "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "pubDate": "2026-08-18T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "ChatGPT for Teens hilft Teenagern, selbstbewusst zu lernen, kritisch zu denken und KI zu nutzen, mit stärkeren integrierten Schutzfunktionen, Funktionen für eine gesunde Nutzung und zusätzlichen Kontrollen für Eltern.",
+    "titleDE": "Wir stellen vor: ChatGPT für Teenager: Entwickelt zum Lernen, unterstützt durch Schutzmaßnahmen"
+  },
+  {
+    "title": "We still don’t know how people are really using AI",
+    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
+    "pubDate": "2026-08-18T10:06:43.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "KI-Unternehmen wie Anthropic und OpenAI veröffentlichen regelmäßig Berichte darüber, wie Menschen Produkte wie Claude und ChatGPT nutzen, geben aber nur die Daten frei, die wir sehen sollen, sagen KI-Forscher. „Es gibt keine unabhängige Quelle, die das bestätigen könnte“, sagt Anka Reuel, Informatik-Doktorandin an der …",
+    "titleDE": "Wir wissen immer noch nicht, wie Menschen KI wirklich nutzen"
+  },
+  {
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "description": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors\t\n\nWe may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the book title. \nA Siri voice-over plays over the clip, saying \"with Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.\" Bloomberg's Mark Gurman has previously reported that the rumored AirPods with cameras are designed to take in \"visual information in low resolution\" and act as eyes …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-18T09:00:01.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die AirPods im Video sehen aus wie eine klobigere Version der AirPods Pro 3 von Apple. | Bild: Apple / MacRumors Dank eines Videos, das MacRumors im macOS Tahoe 26.7 Release Candidate gefunden hat, können wir möglicherweise einen ersten Blick auf Apples angeblich mit einer Kamera ausgestattete AirPods werfen. Der kurze Videoclip zeigt einen Mann -...",
+    "titleDE": "Die mit einer Kamera ausgestatteten AirPods von Apple tauchen in einem durchgesickerten Video auf"
+  },
+  {
+    "title": "The role of the astronaut is in flux",
+    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+    "description": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.  While no space mission can live up to the historic touchdown of…",
+    "pubDate": "2026-08-18T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Als die vier Astronauten an Bord der Artemis II der NASA Anfang des Jahres den Mond umrundeten, stellten sie einen neuen Rekord für die weiteste Distanz auf, die sich jemals ein Mensch von der Erde entfernt hat, und übertrafen die von Apollo 13 im Jahr 1972 aufgestellte Entfernung um rund 4.000 Meilen. Obwohl keine Weltraummission dem historischen Touchdown gerecht werden kann ...",
+    "titleDE": "Die Rolle des Astronauten ist im Wandel"
+  },
+  {
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "description": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
+    "pubDate": "2026-08-18T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Das kühnste Versprechen der KI-Branche ist derzeit, dass sich die KI bald selbst verbessern wird, ohne dass es einer menschlichen Aufsicht bedarf. LLMs können bereits Code schreiben, synthetische Daten für das Training generieren und die Computerchips optimieren, auf denen sie laufen. Prognosen zu explosiven KI-Fortschritten sagen voraus, dass das, was Forscher ...",
+    "titleDE": "Die rekursive Selbstverbesserung der KI kommt möglicherweise doch nicht so schnell"
+  },
+  {
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "link": "https://openai.com/index/asana",
+    "description": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "pubDate": "2026-08-18T07:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Asana nutzte OpenAI Codex, um innerhalb von zwei Wochen ein veraltetes Testsystem zu ersetzen und die Arbeiten, die voraussichtlich fünf Jahre dauern würden, für etwa 12.000 US-Dollar abzuschließen.",
+    "titleDE": "Asana hat mit Codex in 2 Wochen 5 Jahre technische Arbeit erledigt"
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "link": "https://openai.com/index/nvidia/chatgpt-work",
+    "description": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "pubDate": "2026-08-18T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "NVIDIA-Teams nutzen ChatGPT Work, um manuelle Aufgaben zu reduzieren, sich schnell bewegende Signale zu verbinden und erfolgreiche Arbeitsabläufe weltweit zu skalieren.",
+    "titleDE": "Wie NVIDIA sein Fachwissen mit ChatGPT Work skaliert"
+  },
+  {
     "title": "Anthropic’s annualized revenue surges to $65B",
     "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "description": "The model maker added $18 billion in annualized revenue in two months.",
@@ -172,7 +432,7 @@
   {
     "title": "OpenAI reportedly disbanded its preparedness team",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI …\nRead the full story at The Verge.",
+    "description": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) \nOpenAI spokesperson Kayla Wood denied that claim, saying in a statement to The Verge that \"We have not disbanded the Preparedness team. We have strong research leaders across cybersecurity, biological and chemical, and AI self-improvement capabilities, all reporting to Saachi Jain, our head of safety.\"\nAccording to FT, responsibility has instea …\nRead the full story at The Verge.",
     "pubDate": "2026-08-16T21:32:56.000Z",
     "source": "The Verge",
     "category": "news",
@@ -210,26 +470,6 @@
     "titleDE": "Anthropic-CEO sagt, die Gegenreaktion auf KI sei „im Grunde eine Vertrauenskrise“"
   },
   {
-    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "description": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt in, rather than opt out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser tab …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-16T14:56:40.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Desktop-App von ChatGPT auf macOS verfügt über eine neue Funktion namens „Computerverlauf“, die Ihre Aktionen in Trainingsdaten umwandelt, Ihre Arbeitsweise erlernt, Automatisierungen vorschlägt und sogar Aufgaben wieder aufnimmt, die Sie halb erledigt gelassen haben. Es nutzt Ihre Aktivität, um eine Zeitleiste zu erstellen, auf die ChatGPT und Codex verweisen können, wenn Sie...",
-    "titleDE": "Der Computerverlauf von ChatGPT verfolgt Ihre Klicks und Tastenanschläge"
-  },
-  {
-    "title": "Rogue AI aren’t science fiction anymore",
-    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the incident kicked off a wave of concern over what increa …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-16T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Weitere Informationen zur KI-Sicherheit finden Sie bei Robert Hart. Der Stepback erreicht die Posteingänge unserer Abonnenten um 8 Uhr ET. Melden Sie sich hier für The Stepback an. Wie alles begann Alles begann im Juli, als einer der autonomen OpenAI-Dienste ...",
-    "titleDE": "Schurken-KI ist keine Science-Fiction mehr"
-  },
-  {
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -238,16 +478,6 @@
     "category": "news",
     "descriptionDE": "Die Frau behauptete, dass KI-Tools „den Alltag in sexuellen Missbrauch von Kindern verwandeln“.",
     "titleDE": "Frau behauptet, ihr Stiefvater habe Grok verwendet, um ein Kindheitsfoto in explizite Bilder umzuwandeln"
-  },
-  {
-    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-    "description": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits, you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to dr …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-15T20:45:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Wenn Sie schielen, können Sie den Hut gerade noch erkennen. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me ist in seiner Einfachheit brillant. Es gibt zwei Registerkarten: Mensch und LARP als KI. Auf der einen Seite geben Sie eine Anfrage ein. Zum anderen geben Sie eine Antwort ab. Aber das Wichtigste ist, dass es...",
-    "titleDE": "Lachen Sie auf Kosten der KI, indem Sie als Chatbot Rollenspiele spielen"
   },
   {
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -300,56 +530,6 @@
     "titleDE": "Der PBS-Sender befürchtet den Verlust von 50 TB Daten, nachdem er von einem Cloud-Speicheranbieter gesponsert wurde"
   },
   {
-    "title": "Mark Zuckerberg has an Instagzam",
-    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-    "description": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this.\nOn this episode of The Vergecast, David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get into the other big Meta release of the week: Mark Zuckerberg's many-thousand-word missive on the future of AI. There are a lot of ideas and proposals …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-14T16:54:16.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Wortmarke von Instagram ist ikonisch. Nun, es war eine Ikone. Anscheinend dachte Instagram, es sähe alt aus, also brachte das Unternehmen diese Woche ein neues heraus. Es sieht nicht wie die alte Instagram-Wortmarke aus. Es sieht nicht einmal mehr so ​​aus, als würde es Instagram bedeuten. Und wir können nicht herausfinden, warum Instagram sich dazu entschieden hat ...",
-    "titleDE": "Mark Zuckerberg hat ein Instagzam"
-  },
-  {
-    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "description": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.\nWhen toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward, the vice president of Google Labs, Gemini, and AI Studio. That means you  …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-14T16:39:32.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Mit Google können Sie jetzt sichtbare Wasserzeichen aus Bildern, Videos und Musik entfernen, die mit KI-Tools erstellt wurden. Mit dem Update können Sie eine neue Einstellung für „Medienwasserzeichen“ in Gemini und Googles KI-Videogenerator Flow deaktivieren. Wenn diese Option deaktiviert ist, entfernt Google das angezeigte „Glitzer“-Wasserzeichen ...",
-    "titleDE": "Sie können jetzt die sichtbaren Wasserzeichen von Google Gemini deaktivieren"
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "pubDate": "2026-08-14T16:13:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Deaktivieren dieser Einstellung hat keine Auswirkungen auf unsichtbare Benchmarks, die zur Identifizierung einer KI-generierten Datei verwendet werden.",
-    "titleDE": "Google ermöglicht Nutzern nun, sichtbare Wasserzeichen aus seinen KI-Generationen zu entfernen"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "pubDate": "2026-08-14T15:43:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta hat diese Woche Glimmer veröffentlicht, ein offenes KI-Modell, das jeder herunterladen und auf seiner eigenen Hardware ausführen kann – ein Gegensatz zu Muse Spark, dem leistungsstärkeren Modell des Unternehmens, das hinter seinen eigenen APIs bleibt. Die Veröffentlichung erfolgte zusammen mit einem Brief von Mark Zuckerberg, in dem er argumentierte, dass KI „für jeden …“ sein sollte.",
-    "titleDE": "Glaubt Mark Zuckerberg wirklich, dass KI „für alle“ ist?"
-  },
-  {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-    "pubDate": "2026-08-14T14:50:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Vorstellung, dass GPUs für Agenten-Workflows schlecht geeignet seien, könnte laut dem französischen Startup Kog ein Missverständnis sein.",
-    "titleDE": "Kog geht tiefer, um mehr Rückschlüsse aus GPUs zu ziehen"
-  },
-  {
     "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
     "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
     "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
@@ -358,26 +538,6 @@
     "category": "news",
     "descriptionDE": "US-Konzerne bringen günstigere Modelle auf den Markt, nachdem ihre Billionen-Dollar-Ambitionen erneut in Frage gestellt wurden.",
     "titleDE": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Rivalen an Boden gewinnen"
-  },
-  {
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-    "pubDate": "2026-08-14T14:05:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In einigen Teilen der USA könnten sich die Erdgaspreise verdreifachen, was den Hyperscalern hohe Rechnungen für den Betrieb ihrer KI-Rechenzentren aufbürden könnte.",
-    "titleDE": "Hyperscaler könnten die Entscheidung für Erdgas bereuen, wenn sich die neue Prognose als richtig erweist"
-  },
-  {
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
-    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "pubDate": "2026-08-14T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta hat diese Woche Glimmer veröffentlicht, ein offenes KI-Modell, das jeder herunterladen und auf seiner eigenen Hardware ausführen kann – ein Gegensatz zu Muse Spark, dem leistungsstärkeren Modell des Unternehmens, das hinter seinen eigenen APIs bleibt. Die Veröffentlichung erfolgte zusammen mit einem Brief von Mark Zuckerberg, in dem er argumentierte, dass KI „für jeden …“ sein sollte.",
-    "titleDE": "Metas „offene“ KI und ein 250-Millionen-Dollar-Deal gingen völlig schief"
   },
   {
     "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -390,16 +550,6 @@
     "titleDE": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
   },
   {
-    "title": "Apple trained its own AI model for China with help from Alibaba",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.\nThe China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. \nDeveloping a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-14T09:21:17.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Berichten zufolge hat Apple zusammen mit dem inländischen Technologieriesen Alibaba ein maßgeschneidertes KI-Modell für den chinesischen Markt trainiert, eine seltene grenzüberschreitende Partnerschaft, die die wachsenden Spannungen zwischen Peking und Washington überwindet. Das auf China ausgerichtete große Sprachmodell wurde in Zusammenarbeit mit Alibaba entwickelt und mit ... trainiert.",
-    "titleDE": "Apple hat mit Hilfe von Alibaba sein eigenes KI-Modell für China trainiert"
-  },
-  {
     "title": "This scientist is helping build a missing map of childhood",
     "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
     "description": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
@@ -410,66 +560,6 @@
     "titleDE": "Dieser Wissenschaftler hilft dabei, eine fehlende Karte der Kindheit zu erstellen"
   },
   {
-    "title": "Job titles of the future: Space travel agent",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-    "description": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
-    "pubDate": "2026-08-14T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Roman Chiporukha hat schon lange wilde Reiseträume in die Realität umgesetzt. Über zwei Jahrzehnte hinweg hat er als Miteigentümer des Luxus-Lifestyle-Unternehmens Roman & Erica alles organisiert, vom Bau der Superyacht eines Kunden bis hin zu Ferien auf den Bahamas an einem Ort, der so privat ist, dass Gäste eine NDA unterzeichnen müssen. ...",
-    "titleDE": "Berufsbezeichnungen der Zukunft: Raumfahrtagent"
-  },
-  {
-    "title": "Cloning could be used to save species—or make human “organ sacks”",
-    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-    "description": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
-    "pubDate": "2026-08-14T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Woche habe ich mit Wissenschaftlern gesprochen, die einen Weg gefunden haben, männliche Mäuseembryonen in weibliche zu verwandeln. Sie haben einen CRISPR-basierten Ansatz entwickelt, um das Y-Chromosom im Wesentlichen herauszuschneiden. Dadurch konnten sie weibliche Klone männlicher Mäuse erstellen. Das ist richtig: weibliche Tiere, die genetisch mit den Männchen identisch sind, außer ...",
-    "titleDE": "Klonen könnte zur Rettung von Arten genutzt werden – oder zur Herstellung menschlicher „Organsäcke“"
-  },
-  {
-    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "description": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.\nMico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-13T21:42:38.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Mico ist auf dem Weg zu Learn Live. | Bild: Microsoft Microsoft Copilot zeigt seinen emotionalen gelben Fleck Mico nicht mehr an, wenn Sie den Sprachmodus des Chatbots verwenden. Auf einer Support-Seite sagt Microsoft, dass es Mico auf seine Learn Live-Plattform verlagern wird, wo der Avatar „mehr reagieren kann“, wie Berichten zufolge ...",
-    "titleDE": "Der Clippy-ähnliche Mico-Charakter von Microsoft ist nicht mehr das Gesicht von Copilot"
-  },
-  {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "pubDate": "2026-08-13T21:13:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut Writer wurde das neue System als Post-Training-Variante des Open-Source-Modells GLM-5.2 von Z.ai entwickelt und sollte einsatzbereite Funktionen zu einem viel günstigeren Preis bieten.",
-    "titleDE": "Der Autor führt ein neues KI-Modell und ein verbessertes System ein, um die Token-Kosten einzudämmen"
-  },
-  {
-    "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-    "description": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
-    "pubDate": "2026-08-13T21:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Hören Sie sich die Sitzung an oder schauen Sie sie sich unten an. Der „Zensur-Industrie-Komplex“ ist eine Idee, die ein Netzwerk aus Regierungs-, Technologie- und Forschungsgruppen zusammenarbeitet, um konservative Online-Rede zu unterdrücken. Dies war jahrelang Futter für die rechte Informationssphäre – dann begann es seinen Weg in die US-Politik zu finden...",
-    "titleDE": "Runde Tische: Innerhalb der „Zensur-Industriekomplex“-Idee, die die US-Politik prägt"
-  },
-  {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "pubDate": "2026-08-13T20:14:39.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI ist teuer, sagt Ali Ghodsi gegenüber TechCrunch. Da so viele Investoren an seiner letzten Runde interessiert waren, sagte er zu mehr als geplant Ja.",
-    "titleDE": "Databricks wollte 1 Milliarde US-Dollar aufbringen, Investoren wollten 15 Milliarden US-Dollar. Bei einer Bewertung von 190 Milliarden US-Dollar lag der Preis bei 5 Milliarden US-Dollar."
-  },
-  {
     "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
     "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
     "description": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
@@ -478,16 +568,6 @@
     "category": "news",
     "descriptionDE": "Trumps Memo ist das erste Mal, dass die Regierung den Privatsektor nicht zur Durchführung von Cyberangriffen autorisiert hat.",
     "titleDE": "Private Sicherheitsfirmen dürfen bald ausländische Cyberkriminelle hacken"
-  },
-  {
-    "title": "Building a practical path to post-quantum cryptography",
-    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-    "description": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
-    "pubDate": "2026-08-13T18:11:42.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Quantencomputing schwankt in Technologiekreisen zwischen bahnbrechendem Liebling und überbewertetem Versprechen. Seine leistungsstarken neuen Fähigkeiten bergen die Gefahr, die aktuelle Kryptographie zu durchbrechen, aber für Unternehmensführer, die sich im Chaos zurechtfinden, sollte das Signal klar sein: Post-Quanten-Kryptographie (PQC) ist ein m...",
-    "titleDE": "Aufbau eines praktischen Weges zur Post-Quanten-Kryptographie"
   },
   {
     "title": "Bring your spreadsheet data to life with Sheets canvas",
@@ -538,85 +618,5 @@
     "category": "news",
     "descriptionDE": "Die Daten wurden von 2.500 Benutzern eines kompromittierten KI-Pakets abgekratzt und exfiltriert.",
     "titleDE": "Bei einem massiven Angriff auf die Lieferkette sind Terabytes an Zugangsdaten durchgesickert"
-  },
-  {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "pubDate": "2026-08-12T06:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Die OpenAI-Forschung zeigt, wie Unternehmen mithilfe von ChatGPT und Codex Agenten-KI einführen und wie Pionierunternehmen bei der Einführung von KI vorankommen.",
-    "titleDE": "Von der Unterstützung bis zur Ausführung: Wie Unternehmen KI einsetzen"
-  },
-  {
-    "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-    "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-    "description": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-    "pubDate": "2026-08-12T00:08:40.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Das FBI Atlanta bestätigt, dass es den Vorfall untersucht und keine Festnahmen vorgenommen hat.",
-    "titleDE": "DEF CON-Menge bei Fake-Hotspot-Angriff auf Delta-Flug verdächtigt"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "pubDate": "2026-08-12T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie RingCentral ChatGPT Work und Codex nutzt, um die Entwicklung von KI-Produkten zu beschleunigen und die operative Intelligenz über Technik und Betrieb hinweg zu zentralisieren.",
-    "titleDE": "Wie RingCentral KI-native Arbeit von der Technik bis zum Betrieb aufbaut"
-  },
-  {
-    "title": "Chrome adopts what may be the best protection yet against account takeovers",
-    "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-    "description": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-    "pubDate": "2026-08-11T20:59:52.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Gerätegebundene Sitzungszugangsdaten verhindern eine immer häufiger auftretende Form der Kontoübernahme.",
-    "titleDE": "Chrome bietet möglicherweise den bisher besten Schutz gegen Kontoübernahmen"
-  },
-  {
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "description": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-    "pubDate": "2026-08-11T17:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Google führt AMIE für klinische Videokonsultationen in Echtzeit in simulierten Umgebungen ein.",
-    "titleDE": "AMIE, unser medizinisches Forschungs-KI-System, demonstriert in einer einzigartigen Studie klinische Videoberatungsfunktionen in Echtzeit."
-  },
-  {
-    "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-    "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-    "description": "Why passkey apps treat Windows differently than other operating systems.",
-    "pubDate": "2026-08-11T11:30:08.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Warum Passkey-Apps Windows anders behandeln als andere Betriebssysteme.",
-    "titleDE": "Neuer Pass-ta-key-Angriff enthüllt all die Dinge, die wir über Passkeys nicht wussten"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "pubDate": "2026-08-11T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI beginnt mit dem Testen von Anzeigen in ChatGPT, um freien Zugang mit klarer Kennzeichnung, Antwortunabhängigkeit, starkem Datenschutz und Benutzerkontrolle zu unterstützen.",
-    "titleDE": "Anzeigen in ChatGPT testen"
-  },
-  {
-    "title": "Daybreak models are now available on AWS",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "pubDate": "2026-08-11T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI und AWS stellen die Cybersicherheitsfunktionen von Daybreak über Amazon Bedrock zur Verfügung, um Sicherheitsworkflows in Unternehmen zu unterstützen.",
-    "titleDE": "Daybreak-Modelle sind jetzt auf AWS verfügbar"
   }
 ]
