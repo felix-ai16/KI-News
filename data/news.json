@@ -1,5 +1,125 @@
 [
   {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "pubDate": "2026-08-21T23:07:25.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anthropic verbietet seinen Claude-Models die Generierung sexuell expliziter Inhalte. Eine Reihe von Tests von TechCrunch ergab jedoch, dass nicht viel nötig war, um die Einschränkung zu überwinden.",
+    "titleDE": "Anthropics Opus 4.6 ist eine Schmutzmaschine"
+  },
+  {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "pubDate": "2026-08-21T22:37:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nvidia investiert weiterhin Geld in die Entwicklung von Rechenzentren – genauso wie KI-Rechenzentren Nvidia viel Geld einbringen.",
+    "titleDE": "Nvidia arbeitet mit dem Rechenzentrumsentwickler Cloverleaf zusammen"
+  },
+  {
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "description": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post. \nLinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn's longform posts were flagged as fully AI generated, which 404 Media reported on. Alongside the AI slop button, LinkedIn introduced \"new and improved\" classifiers to identify posts as AI and removed a feature that would \"en …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-21T21:25:50.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "LinkedIn hat am 30. Juli tatsächlich einen „Scheint wie AI-Slop“-Button angekündigt, und das Unternehmen gibt an, dass viele Leute ihn bereits verwendet haben. Laut einem Beitrag vom Donnerstag vom Chief Product Officer Hari Srinivasan haben „über eine Million Menschen“ auf den Button geklickt, der über die drei Punkte erreichbar ist...",
+    "titleDE": "Über 1 Million Menschen haben auf den AI-Slop-Button von LinkedIn geklickt"
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "pubDate": "2026-08-21T19:43:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Untersuchungen von Nvidia zeigen, dass KI-Agenten durch Feinabstimmung eine gute Leistung erbringen können und nicht aus dem Ruder laufen, selbst wenn das KI-Modell dieser Aufgabe nicht so gut gewachsen ist.",
+    "titleDE": "Nvidia hat gerade gezeigt, dass das Geschirr und nicht das KI-Modell jetzt der wahre Held ist"
+  },
+  {
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "description": "There's about to be a big fight to secure access to space.",
+    "pubDate": "2026-08-21T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es steht ein großer Kampf um den Zugang zum Weltraum an.",
+    "titleDE": "Starcloud sammelt 250 Millionen US-Dollar für Orbital-Rechenzentren, da die Startmöglichkeiten versiegen"
+  },
+  {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
+    "pubDate": "2026-08-21T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Andreessen Horowitz hat zwei Partner, die in den Vorständen von Unternehmen sitzen, die jetzt miteinander konkurrieren: Ben Horowitz bei Databricks und Martin Casado bei Fivetran. Auf den ersten Blick nichts allzu Skandalöses, außer dass das Justizministerium Berichten zufolge die Vereinbarung seit fast einem Jahr untersucht …",
+    "titleDE": "Das DOJ untersucht a16z. Was bedeutet das für Risikokapital?"
+  },
+  {
+    "title": "Major YouTube creators are facing backlash for accepting AI money",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "description": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube\t\n\nOver the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production.\nIn response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\nRead the full story at The Verge.",
+    "pubDate": "2026-08-21T13:37:52.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein Standbild aus Sam Kolders Video „KI ersetzt mich“. | Screenshot: The Verge, YouTube In den letzten Tagen haben eine Reihe prominenter Filmemacher, darunter Matti Haapoja und Sam „Kold“ Kolder, Videos von sich gepostet, in denen sie demonstrieren, was mit der KI-Plattform Higgsfield möglich ist. T...",
+    "titleDE": "Große YouTube-Ersteller sehen sich mit Gegenreaktionen konfrontiert, weil sie KI-Geld akzeptieren"
+  },
+  {
+    "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+    "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+    "description": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+    "pubDate": "2026-08-21T13:11:35.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Das zu Alphabet gehörende Unternehmen versucht, die US-Regulierungsbehörden davon zu überzeugen, den Weg für vollständig autonome Taxidienste freizumachen.",
+    "titleDE": "Waymo verdoppelt seine Lobbying-Ausgaben im Robotaxi-Kampf mit Uber"
+  },
+  {
+    "title": "The Download: threats from space mirrors and credit for AI drugs",
+    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…",
+    "pubDate": "2026-08-21T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Pläne dieses Unternehmens, Weltraumspiegel einzusetzen, könnten den Nachthimmel für viele gefährden. Ein Unternehmen, das plant, bei Bedarf Sonnenlicht aus dem Weltraum auf die Erde zu strahlen, könnte ...",
+    "titleDE": "Der Download: Bedrohungen durch Weltraumspiegel und Kredit für KI-Medikamente"
+  },
+  {
+    "title": "Mother tongue",
+    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "description": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,…",
+    "pubDate": "2026-08-21T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "\"Vati?\" Theo rollte sich im Bett an meiner Seite zusammen. „Wohin gehen Worte, wenn sie sterben?“ Ich hatte die Schlafenszeitroutine perfekt organisiert: Baden (nehmen), Zähne (putzen), Töpfchen machen (klingeln), Bücher (zwei), Lied (eines, schlecht gesungen) und Kuscheln (sein Kinn auf meiner zweiten Rippe). Jetzt war der Moment, in dem wir die Augenlider unseres Sohnes...",
+    "titleDE": "Muttersprache"
+  },
+  {
+    "title": "When AI designs a drug, who gets the credit?",
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "description": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
+    "pubDate": "2026-08-21T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Als das Biotech-Unternehmen Insilico Medicine anhand seiner Computermodelle ein vielversprechendes Medikament gegen Lungenfibrose vorschlug, behauptete es in einer Pressemitteilung begeistert, das Molekül sei „von“ seiner generativen KI-Plattform „entdeckt“ worden. Insilico führt eine Reihe von Unternehmen an, die KI nutzen, um schnell ...",
+    "titleDE": "Wem gebührt die Anerkennung, wenn KI ein Medikament entwickelt?"
+  },
+  {
+    "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+    "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+    "description": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The…",
+    "pubDate": "2026-08-21T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Laut einer neuen Studie könnte ein Unternehmen, das bei Bedarf Sonnenlicht aus dem Weltraum auf die Erde strahlen will, unbeabsichtigt den Nachthimmel für viel mehr Menschen erhellen als beabsichtigt. Später in diesem Jahr plant das US-Unternehmen Reflect Orbital den Start eines Testsatelliten namens Eärendil-1, der eine 18 mal große...",
+    "titleDE": "Die Pläne dieses Unternehmens, Weltraumspiegel einzusetzen, könnten für viele den Nachthimmel gefährden"
+  },
+  {
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
     "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
@@ -16,7 +136,7 @@
     "pubDate": "2026-08-20T22:36:37.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Unternehmen sind bereit, hin und her zu schwanken, wenn jedes Labor neue Modelle veröffentlicht. Diese Volatilität sollte die Anleger beider Unternehmen darüber nachdenken lassen, wie „schwierig“ die KI-Ausgaben der Unternehmen wirklich sind.",
+    "descriptionDE": "Unternehmen sind bereit, hin und her zu schwanken, wenn jedes Labor neue Modelle veröffentlicht, eine Volatilität, die die Investoren beider Unternehmen darüber nachdenken lassen sollte, wie „schwierig“ die KI-Ausgaben der Unternehmen wirklich sind.",
     "titleDE": "OpenAI gewinnt gegenüber Anthropic bei Geschäftsanwendern, wie neue Daten zeigen"
   },
   {
@@ -56,7 +176,7 @@
     "pubDate": "2026-08-20T19:18:21.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Google stellt Verlagen eine neue Schaltfläche zur Verfügung, die es den Lesern ermöglicht, sie zu einer bevorzugten Quelle in Search, Discover und Google News zu machen und so möglicherweise ihren Traffic zu steigern, da die KI-Suche weniger Klicks ins Web sendet.",
+    "descriptionDE": "Google stellt Verlagen eine neue Schaltfläche zur Verfügung, mit der Leser sie zu einer bevorzugten Quelle für Search, Discover und Google News machen können, was möglicherweise ihren Traffic steigert, da die KI-Suche weniger Klicks ins Web sendet.",
     "titleDE": "Google bietet Publishern eine neue Möglichkeit, KI-bedingte Traffic-Verluste zu bekämpfen"
   },
   {
@@ -90,14 +210,14 @@
     "titleDE": "Grok sendet Benutzern weiterhin unverständliche Antworten"
   },
   {
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
     "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
     "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
     "pubDate": "2026-08-20T17:18:58.000Z",
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "ChatGPT und andere KI-Modelle erstellen und bearbeiten jetzt einen Großteil des neuen Webs.",
-    "titleDE": "Laut einer Studie weisen ein Drittel der seit der Einführung von ChatGPT veröffentlichten Webseiten Anzeichen von KI-Urheberschaft auf"
+    "titleDE": "Laut einer Studie wurde ein Drittel der seit der Einführung von ChatGPT veröffentlichten Webseiten von KI geschrieben"
   },
   {
     "title": "Ramp launches its own AI model router, called Router",
@@ -270,36 +390,6 @@
     "titleDE": "Stripe hat OpenRouter wegen der „Singularität“ nicht wirklich gekauft"
   },
   {
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-    "pubDate": "2026-08-19T22:10:46.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Zwischen OpenAI und Anthropic entwickelt sich ein Wettbewerb darüber, wer den besten Datenschutz für Unternehmenskundendaten bieten kann.",
-    "titleDE": "OpenAI möchte Anthropic mit neuen Schutzmaßnahmen für die Privatsphäre seiner Kunden stärken"
-  },
-  {
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-    "pubDate": "2026-08-19T21:51:23.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Berichten zufolge befand sich SpaceX in Gesprächen über den Kauf des KI-Programmierungs-Startups Cognition. SpaceX hat Cursor bereits übernommen, um im Bereich der Unternehmens-KI zu Konkurrenten wie OpenAI und Anthropic aufzuschließen.",
-    "titleDE": "Der CEO von Cognition dementiert Bericht, dass SpaceX versucht habe, das Startup zu übernehmen"
-  },
-  {
-    "title": "AI was supposed to win people over by now — it hasn’t",
-    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-    "pubDate": "2026-08-19T19:11:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Da es immer schwieriger wird, KI zu vermeiden, werden Verbraucher immer misstrauischer gegenüber der Technologie – und das Silicon Valley stellt fest, dass eine weit verbreitete Einführung nicht unbedingt zu Akzeptanz führt.",
-    "titleDE": "KI sollte die Menschen mittlerweile für sich gewinnen – das ist nicht der Fall"
-  },
-  {
     "title": "Google Gemini is getting a dedicated student hub",
     "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
     "description": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus.\nGoogle is also adding Deep Research to Gemini Live. You can ask Gemini to generate complicated research reports and talk through the results. If it's taking a while, you can close the chat and lock your phone screen, and Gemini will let you k …\nRead the full story at The Verge.",
@@ -308,16 +398,6 @@
     "category": "news",
     "descriptionDE": "Während wir uns auf die Schulanfangssaison vorbereiten, führt Google in Gemini einen neuen speziellen Studenten-Hub ein. Es ist ein zentrales Repository zum Sammeln von Forschungsergebnissen in einem Lernheft, zum Erstellen von Karteikarten, zum Durchführen von Übungstests und mehr. Google erweitert außerdem seine Lernnotizbücher um Unterstützung für gr...",
     "titleDE": "Google Gemini erhält einen eigenen Studenten-Hub"
-  },
-  {
-    "title": "Google packs Search and Gemini with new AI study tools",
-    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-    "pubDate": "2026-08-19T19:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Einführung der neuen Lernfunktionen markiert den jüngsten Versuch von Google, Gemini zum KI-Assistenten zu machen, an den sich Studierende beim Lernen und Lernen wenden, während das Unternehmen weiterhin mit Unternehmen wie OpenAI konkurriert.",
-    "titleDE": "Google stattet Search und Gemini mit neuen KI-Studientools aus"
   },
   {
     "title": "Offering Zero Data Retention for frontier models",
@@ -338,16 +418,6 @@
     "category": "news",
     "descriptionDE": "So können Sie mithilfe der Google-Suchtools für Kurse und standardisierte Tests lernen.",
     "titleDE": "5 neue Möglichkeiten, Ihr Lernen mit der Suche zu verbessern"
-  },
-  {
-    "title": "Researchers say OpenAI revoked their access to limited cyber program",
-    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-    "pubDate": "2026-08-19T18:46:14.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Idee hinter dem Trusted Access for Cyber-Programm von OpenAI besteht darin, vertrauenswürdigen Verteidigern bessere Modelle zur Verfügung zu stellen, damit sie Fehler und Schwachstellen an Unternehmen melden können, mit dem Ziel, Fehler schneller zu beheben.",
-    "titleDE": "Forscher sagen, OpenAI habe ihnen den Zugang zu begrenzten Cyberprogrammen entzogen"
   },
   {
     "title": "OpenAI hit the brakes. Now what?",
@@ -376,7 +446,7 @@
     "pubDate": "2026-08-19T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die rekursive Selbstverbesserung der KI kommt möglicherweise doch nicht so schnell. Das kühnste Versprechen der KI-Branche ist derzeit, dass sich die KI bald selbst verbessern wird, mit fast n...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die rekursive Selbstverbesserung der KI kommt möglicherweise doch nicht so schnell. Das derzeit kühnste Versprechen der KI-Branche ist, dass sich die KI bald selbst verbessern wird, mit fast n...",
     "titleDE": "Der Download: Das Selbstverbesserungsproblem der KI und was die Hitze antreibt"
   },
   {
@@ -386,18 +456,8 @@
     "pubDate": "2026-08-19T12:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "„Computing ist eine Anlageklasse! Computing ist eine Anlageklasse!“ Ich beharre weiterhin darauf, während ich langsam schrumpfe und mich in einen Maiskolben verwandle Bild: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon ist Herr über Europa. Nur die britische Flotte steht vor ihm. Computing ist jetzt eine Anlageklasse. Ich sehe, dass es...",
+    "descriptionDE": "„Computing ist eine Anlageklasse! Computing ist eine Anlageklasse!“ Ich beharre weiterhin darauf, während ich langsam schrumpfe und mich in einen Maiskolben verwandle Bild: Cath Virginia / The Verge, Getty Images April – 1805 Napoleon ist Herr über Europa. Nur die britische Flotte steht vor ihm. Computing ist jetzt eine Anlageklasse. Ich sehe, dass es o...",
     "titleDE": "Nvidias neue Finanzstrategie geht nicht auf"
-  },
-  {
-    "title": "Child-monitoring apps might need a reboot",
-    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-    "description": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
-    "pubDate": "2026-08-19T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Pam Wisniewskis digitale Jugend zeigte ihr das Beste und das Schlechteste des Internets. Mit 14 verließ sie ein misshandeltes Zuhause, in dem sie isoliert in einem Sattelanhänger am Ende einer sieben Meilen langen unbefestigten Straße saß. Sie zog bei ihrer älteren Schwester ein und brachte sich selbst das Tippen im AOL Instant Messenger bei. O...",
-    "titleDE": "Apps zur Kinderüberwachung erfordern möglicherweise einen Neustart"
   },
   {
     "title": "Replit expands access to software creation with GPT-5.6 Luna",
@@ -420,26 +480,6 @@
     "titleDE": "ChatGPT Ads expandiert in ganz Europa"
   },
   {
-    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-    "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.\"\nA story posted to Zelda Williams' own Instagram account expands on the decision to bring back her father's profile, saying that it's meant to help combat \"rampant AI abuse,\" according to The Wrap:\nI'm sorry if anyone found Da …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-08-18T19:48:26.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die Kinder von Robin Williams übernehmen den Instagram-Account ihres Vaters, nachdem sich seine Tochter gegen die Verwendung seines KI-Bildes ausgesprochen hatte, wie The Wrap zuvor berichtete. In einem Beitrag vom Dienstag schreiben Zak, Zelda und Cody Williams, dass sie möchten, dass das Instagram-Profil des verstorbenen Schauspielers ein „sicherer, vertrauenswürdiger …“ ist.",
-    "titleDE": "Robin Williams‘ Instagram-Account wurde zurückgebracht, um „KI-Missbrauch“ zu bekämpfen"
-  },
-  {
-    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for deployment\" while it tightened up security. The company's \"largest planned frontier RL run remains on hold.\"\nFor its frontier model research, OpenAI now r …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-18T19:28:30.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI kündigt Sicherheitsupdates an, nachdem im Juli bekannt wurde, dass seine KI aus einer Sandbox-Umgebung ausgebrochen ist und versehentlich Hugging Face gehackt hat, einschließlich Verbesserungen seiner Forschungsumgebungen, Überwachungs- und Ausrichtungstechniken. Das Unternehmen hatte bereits ein neues Modell, den Astra, auf die Bremse gesetzt...",
-    "titleDE": "OpenAI kündigt neue Sicherheitsänderungen an, nachdem seine KI Hugging Face gehackt hat"
-  },
-  {
     "title": "Strengthening democratic oversight in national security",
     "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
@@ -458,16 +498,6 @@
     "category": "news",
     "descriptionDE": "Mit einem geheimen Parameter konnten Hacker Passwörter stehlen, wenn ein Ziel auf einen Link klickte.",
     "titleDE": "Microsoft Copilot enthüllt geheime Eingaben, die es ermöglichten, es zu hacken"
-  },
-  {
-    "title": "The Download: how people really use AI, and Flock’s design choices",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
-    "pubDate": "2026-08-18T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wir wissen immer noch nicht, wie Menschen KI wirklich nutzen. KI-Unternehmen wie Anthropic und OpenAI veröffentlichen regelmäßig Berichte darüber, wie Menschen ihre Produkte nutzen. Aber das...",
-    "titleDE": "Der Download: Wie Menschen KI wirklich nutzen und welche Designoptionen Flock hat"
   },
   {
     "title": "Partnering with CodeAI to prepare the first AI generation",
@@ -498,26 +528,6 @@
     "category": "news",
     "descriptionDE": "ChatGPT for Teens hilft Teenagern, selbstbewusst zu lernen, kritisch zu denken und KI zu nutzen, mit stärkeren integrierten Schutzfunktionen, Funktionen für eine gesunde Nutzung und zusätzlichen Kontrollen für Eltern.",
     "titleDE": "Wir stellen vor: ChatGPT für Teenager: Entwickelt zum Lernen, unterstützt durch Schutzmaßnahmen"
-  },
-  {
-    "title": "We still don’t know how people are really using AI",
-    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
-    "pubDate": "2026-08-18T10:06:43.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "KI-Unternehmen wie Anthropic und OpenAI veröffentlichen regelmäßig Berichte darüber, wie Menschen Produkte wie Claude und ChatGPT nutzen, geben aber nur die Daten frei, die wir sehen sollen, sagen KI-Forscher. „Es gibt keine unabhängige Quelle, die das bestätigen könnte“, sagt Anka Reuel, Informatik-Doktorandin an der …",
-    "titleDE": "Wir wissen immer noch nicht, wie Menschen KI wirklich nutzen"
-  },
-  {
-    "title": "The role of the astronaut is in flux",
-    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-    "description": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.  While no space mission can live up to the historic touchdown of…",
-    "pubDate": "2026-08-18T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als die vier Astronauten an Bord der Artemis II der NASA Anfang des Jahres den Mond umrundeten, stellten sie einen neuen Rekord für die weiteste Distanz auf, die sich jemals ein Mensch von der Erde entfernt hat, und übertrafen die von Apollo 13 im Jahr 1972 aufgestellte Entfernung um etwa 4.000 Meilen. Obwohl keine Weltraummission dem historischen Touchdown gerecht werden kann ...",
-    "titleDE": "Die Rolle des Astronauten ist im Wandel"
   },
   {
     "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
@@ -588,35 +598,5 @@
     "category": "news",
     "descriptionDE": "OpenAI finanziert 14 unabhängige Projekte, die neue Ideen für die KI-Politik erforschen, um die wirtschaftlichen Möglichkeiten zu erweitern und die gesellschaftliche Widerstandsfähigkeit im Zeitalter der Intelligenz zu stärken.",
     "titleDE": "Neue politische Ideen für das Intelligenzzeitalter"
-  },
-  {
-    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-    "description": "Screen-sharing bug lets remote hackers log in without a password.",
-    "pubDate": "2026-08-14T18:32:14.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Durch den Fehler bei der Bildschirmfreigabe können sich Remote-Hacker ohne Passwort anmelden.",
-    "titleDE": "Die Sicherheitslücke, die Angreifern die vollständige Kontrolle über Macs ermöglicht, wird aktiv ausgenutzt"
-  },
-  {
-    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-    "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-    "description": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-    "pubDate": "2026-08-14T17:03:54.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "„Wir haben keinen Zugriff auf die Daten auf der Hardware/den Servern“, sagte Iron Mountain gegenüber Ars.",
-    "titleDE": "Der PBS-Sender befürchtet den Verlust von 50 TB an Daten, nachdem er von einem Cloud-Speicheranbieter gesponsert wurde"
-  },
-  {
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-    "pubDate": "2026-08-14T14:27:14.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "US-Konzerne bringen günstigere Modelle auf den Markt, nachdem ihre Billionen-Dollar-Ambitionen erneut in Frage gestellt wurden.",
-    "titleDE": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Rivalen an Boden gewinnen"
   }
 ]
