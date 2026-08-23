@@ -1,5 +1,45 @@
 [
   {
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "pubDate": "2026-08-22T21:46:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Im HBS Foundry-Programm geben KI-Avatare während Übungs-Pitches und Vorstandssitzungen Feedback.",
+    "titleDE": "Harvards Startup-Bootcamp für 699 US-Dollar bietet KI-Avatare seiner Dozenten"
+  },
+  {
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "pubDate": "2026-08-22T19:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das von DeepMind-Alumni gegründete britische KI-Labor Inherent brachte Faraday auf den Markt, einen KI-Agenten, dessen Fähigkeit, wissenschaftliche Arbeiten zu reproduzieren, ein Sprungbrett für Innovationen sein könnte.",
+    "titleDE": "Inherent, gegründet von DeepMind-Alumni, sagt, sein KI-„Teamkollege“ habe Anthropic und OpenAI bei der Replikation von Forschungsergebnissen einfach übertroffen"
+  },
+  {
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "pubDate": "2026-08-22T16:30:34.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI fordert Kalifornien auf, SB 53 zu stärken, ein Gesetz zur KI-Sicherheit, gegen das sich das Unternehmen zuvor ausgesprochen hatte.",
+    "titleDE": "OpenAI sagt, Kalifornien sollte sein Gesetz zur KI-Sicherheit stärken"
+  },
+  {
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "pubDate": "2026-08-22T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Eine neue Studie kommt zu dem Ergebnis, dass führende KI-Labore nur wenige öffentlich dokumentierte Pläne zur Eindämmung betrügerischer Modelle haben, was Fragen zur Vorbereitung aufwirft, da KI-Systeme zunehmend unerwartetes und potenziell gefährliches Verhalten zeigen.",
+    "titleDE": "Die KI-Labore von Frontier sagen immer noch nicht, wie sie ein betrügerisches Modell eindämmen würden"
+  },
+  {
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
@@ -240,16 +280,6 @@
     "titleDE": "Meta bringt Pocket, eine App, mit der Sie Vibe-Code erstellen und Spiele teilen können, zu US-Nutzern"
   },
   {
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-    "pubDate": "2026-08-20T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Fusionsenergie-Startup Inertia Enterprises reduzierte den Kraftstoffbetankungsprozess von einer Woche auf nur wenige Stunden. Dies ist eine von zehn Hürden, die das Unternehmen überwinden muss, um ein profitables Kraftwerk zu bauen.",
-    "titleDE": "Inertia Enterprises findet einen Weg, seinen Fusionsbrennstoff schnell herzustellen"
-  },
-  {
     "title": "It’s Greg Brockman’s OpenAI now",
     "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
     "description": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names.\nThroughout it all, one person has quietly amassed power: Greg Brockman. \nBrockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, described as an \"engineering workhorse that pushed to build scaled-up systems that wou …\nRead the full story at The Verge.",
@@ -288,16 +318,6 @@
     "category": "news",
     "descriptionDE": "Kryptografische Kontextinjektion ist nur die neueste Möglichkeit, eine LLM-Sicherheitsleitplanke zu durchbrechen.",
     "titleDE": "Grok exfiltriert Benutzerdaten, wenn böswillige Anweisungen verschlüsselt werden"
-  },
-  {
-    "title": "Meta AI’s new Mac app wants you to talk to your apps",
-    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "description": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-    "pubDate": "2026-08-20T12:11:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen gab an, dass die Diktierfunktion in allen Apps funktioniert, genau wie andere Tools wie Wispr Flow, Superwhisper und Monologue.",
-    "titleDE": "Die neue Mac-App von Meta AI möchte, dass Sie mit Ihren Apps kommunizieren"
   },
   {
     "title": "The Download: polycrisis support networks and a hydrogen gold rush",
@@ -340,16 +360,6 @@
     "titleDE": "Mit Marktmodellen verborgene Einnahmequellen erschließen"
   },
   {
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-    "description": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-    "pubDate": "2026-08-20T09:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Agent-Betriebssystem von Binance funktioniert mit Tools wie ChatGPT, Claude Code und Cursor.",
-    "titleDE": "Binance ermöglicht jetzt KI-Agenten den Handel, aber es liegt weitgehend bei den Benutzern, sie unter Kontrolle zu halten"
-  },
-  {
     "title": "Support networks aim to help kids through the polycrisis",
     "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
     "description": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried…",
@@ -378,16 +388,6 @@
     "category": "news",
     "descriptionDE": "Mit einer festen Frist und anderweitig gebundenen Designressourcen nutzte Stampli Codex und ChatGPT Work, um Wochen der Einführungsproduktion auf Tage zu reduzieren.",
     "titleDE": "Stampli verkürzt die Startzeiten mit ChatGPT Work um 68 %"
-  },
-  {
-    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-    "pubDate": "2026-08-19T23:32:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Was will ein Zahlungsriese von einem Startup, das Eingabeaufforderungen zwischen verschiedenen KI-Modellen weiterleitet? Stripe sagt, es liege an der „Singularität“, aber in Wirklichkeit hat es einen weitaus realeren und wirkungsvolleren Grund.",
-    "titleDE": "Stripe hat OpenRouter wegen der „Singularität“ nicht wirklich gekauft"
   },
   {
     "title": "Google Gemini is getting a dedicated student hub",
