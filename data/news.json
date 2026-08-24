@@ -1,5 +1,45 @@
 [
   {
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "pubDate": "2026-08-23T20:01:36.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ein mysteriöses neues KI-Modell namens Ox Alpha hat bestimmte Ecken des Internets in einen Spekulationsrausch versetzt.",
+    "titleDE": "Wer steckt hinter dem neuen „Stealth-Modell“ Ox Alpha?"
+  },
+  {
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "pubDate": "2026-08-23T19:14:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der intelligente digitale Kalender von Linkdaze zeichnet sich dadurch aus, dass seine Funktionen nicht hinter einer Paywall stehen, einschließlich eines AI-Speiseplaner-Tools.",
+    "titleDE": "Der intelligente Kalender von Linkdaze ist darauf ausgelegt, einen Haushalt zu verwalten und nicht nur einen Zeitplan zu verfolgen"
+  },
+  {
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+    "pubDate": "2026-08-23T15:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Flock Safety sieht sich einem wachsenden öffentlichen Aufschrei wegen der Sorge ausgesetzt, dass seine Überwachungstechnologie missbraucht werden könnte.",
+    "titleDE": "Der CEO von Flock fordert „Kompromiss“, da das Überwachungsunternehmen mit zunehmender Gegenreaktion konfrontiert ist"
+  },
+  {
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "pubDate": "2026-08-23T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die meisten veröffentlichten Autoren haben ohne ihr Wissen oder ihre Zustimmung zur Entwicklung derselben KI-Tools beigetragen, die ihre Lebensgrundlage zu gefährden drohen. Das scheint illegal zu sein, oder?",
+    "titleDE": "Ist es legal, KI-Modelle anhand urheberrechtlich geschützter Bücher zu trainieren? Es ist kompliziert"
+  },
+  {
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
@@ -46,7 +86,7 @@
     "pubDate": "2026-08-21T23:07:25.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Anthropic verbietet seinen Claude-Models die Generierung sexuell expliziter Inhalte. Eine Reihe von Tests von TechCrunch ergab jedoch, dass nicht viel nötig war, um die Einschränkung zu überwinden.",
+    "descriptionDE": "Anthropic verbietet seinen Claude-Models die Generierung sexuell eindeutiger Inhalte. Eine Reihe von Tests von TechCrunch ergab jedoch, dass nicht viel nötig war, um die Einschränkung zu überwinden.",
     "titleDE": "Anthropics Opus 4.6 ist eine Schmutzmaschine"
   },
   {
@@ -230,16 +270,6 @@
     "titleDE": "Runlayer und Rippling lassen Klagen fallen – aber der Aufruhr ist immer noch eine warnende Geschichte für Gründer"
   },
   {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "pubDate": "2026-08-20T18:20:35.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der intelligente digitale Kalender von Linkdaze zeichnet sich dadurch aus, dass seine Funktionen nicht hinter einer Paywall stehen, einschließlich eines AI-Speiseplaner-Tools.",
-    "titleDE": "Der intelligente Kalender von Linkdaze ist darauf ausgelegt, einen Haushalt zu verwalten und nicht nur einen Zeitplan zu verfolgen"
-  },
-  {
     "title": "Grok keeps sending gibberish responses to users",
     "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
     "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
@@ -248,36 +278,6 @@
     "category": "news",
     "descriptionDE": "Betroffene Benutzer teilten TechCrunch mit, dass sie Grok Lite verwenden, und bemerkten die Probleme bereits am Mittwochmorgen.",
     "titleDE": "Grok sendet Benutzern weiterhin unverständliche Antworten"
-  },
-  {
-    "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-    "pubDate": "2026-08-20T17:18:58.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "ChatGPT und andere KI-Modelle erstellen und bearbeiten jetzt einen Großteil des neuen Webs.",
-    "titleDE": "Laut einer Studie wurde ein Drittel der seit der Einführung von ChatGPT veröffentlichten Webseiten von KI geschrieben"
-  },
-  {
-    "title": "Ramp launches its own AI model router, called Router",
-    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-    "pubDate": "2026-08-20T16:46:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ramp hat einen eigenen AI-Modell-Routing-Dienst namens Router gestartet, der es Benutzern und Unternehmen ermöglicht, über eine API verschiedene große Sprachmodelle zu verwenden und zwischen ihnen zu wechseln.",
-    "titleDE": "Ramp bringt seinen eigenen KI-Modell-Router namens Router auf den Markt"
-  },
-  {
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-    "pubDate": "2026-08-20T16:07:26.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta bringt Pocket, seine experimentelle KI-gestützte App zum Erstellen und Teilen interaktiver Spiele, Benutzern in den gesamten USA zur Verfügung, nachdem es sie in Brasilien stillschweigend getestet hat.",
-    "titleDE": "Meta bringt Pocket, eine App, mit der Sie Vibe-Code erstellen und Spiele teilen können, zu US-Nutzern"
   },
   {
     "title": "It’s Greg Brockman’s OpenAI now",
@@ -446,7 +446,7 @@
     "pubDate": "2026-08-19T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die rekursive Selbstverbesserung der KI kommt möglicherweise doch nicht so schnell. Das derzeit kühnste Versprechen der KI-Branche ist, dass sich die KI bald selbst verbessern wird, mit fast n...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die rekursive Selbstverbesserung der KI kommt möglicherweise doch nicht so schnell. Das kühnste Versprechen der KI-Branche ist derzeit, dass sich die KI bald selbst verbessern wird, mit fast n...",
     "titleDE": "Der Download: Das Selbstverbesserungsproblem der KI und was die Hitze antreibt"
   },
   {
@@ -456,7 +456,7 @@
     "pubDate": "2026-08-19T12:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "„Computing ist eine Anlageklasse! Computing ist eine Anlageklasse!“ Ich beharre weiterhin darauf, während ich langsam schrumpfe und mich in einen Maiskolben verwandle Bild: Cath Virginia / The Verge, Getty Images April – 1805 Napoleon ist Herr über Europa. Nur die britische Flotte steht vor ihm. Computing ist jetzt eine Anlageklasse. Ich sehe, dass es o...",
+    "descriptionDE": "„Computing ist eine Anlageklasse! Computing ist eine Anlageklasse!“ Ich beharre weiterhin darauf, während ich langsam schrumpfe und mich in einen Maiskolben verwandle Bild: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon ist Herr über Europa. Nur die britische Flotte steht vor ihm. Computing ist jetzt eine Anlageklasse. Ich sehe, dass es...",
     "titleDE": "Nvidias neue Finanzstrategie geht nicht auf"
   },
   {
@@ -568,35 +568,5 @@
     "category": "news",
     "descriptionDE": "Google Gemini und Pixel arbeiten mit fünf globalen Fußballvereinen zusammen, um das Spielerlebnis der Fans durch KI und Smartphone-Technologie zu verbessern.",
     "titleDE": "Kommen Sie dem Spiel mit Gemini und Pixel näher"
-  },
-  {
-    "title": "The Defender’s Window",
-    "link": "https://openai.com/index/the-defenders-window",
-    "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-    "pubDate": "2026-08-17T05:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "KI verändert die Cybersicherheit für Angreifer und Verteidiger gleichermaßen. Erfahren Sie, wie OpenAI seine Abwehrmaßnahmen stärkt und was Sicherheitsteams jetzt tun können.",
-    "titleDE": "Das Fenster des Verteidigers"
-  },
-  {
-    "title": "OpenAI joins PORTS-Pike project",
-    "link": "https://openai.com/index/openai-joins-ports-pike-project",
-    "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-    "pubDate": "2026-08-17T05:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI schließt sich dem PORTS-Pike-Projekt an, erweitert die Gemeinschaftsinvestitionen und unterstützt Tausende von Arbeitsplätzen in Süd-Ohio",
-    "titleDE": "OpenAI tritt dem PORTS-Pike-Projekt bei"
-  },
-  {
-    "title": "New policy ideas for the Intelligence Age",
-    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-    "pubDate": "2026-08-17T03:15:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI finanziert 14 unabhängige Projekte, die neue Ideen für die KI-Politik erforschen, um die wirtschaftlichen Möglichkeiten zu erweitern und die gesellschaftliche Widerstandsfähigkeit im Zeitalter der Intelligenz zu stärken.",
-    "titleDE": "Neue politische Ideen für das Intelligenzzeitalter"
   }
 ]

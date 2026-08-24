@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Sonntag, 23. August 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Sonntag, 23. August 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/" target="_blank" rel="noopener">Wer steckt hinter dem neuen „Stealth-Modell“ Ox Alpha?</a></h2><p class="news-description">Ein mysteriöses neues KI-Modell namens Ox Alpha hat bestimmte Ecken des Internets in einen Spekulationsrausch versetzt.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/" target="_blank" rel="noopener">Der intelligente Kalender von Linkdaze ist darauf ausgelegt, einen Haushalt zu verwalten und nicht nur einen Zeitplan zu verfolgen</a></h2><p class="news-description">Der intelligente digitale Kalender von Linkdaze zeichnet sich dadurch aus, dass seine Funktionen nicht hinter einer Paywall stehen, einschließlich eines AI-Speiseplaner-Tools.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/" target="_blank" rel="noopener">Der CEO von Flock fordert „Kompromiss“, da das Überwachungsunternehmen mit zunehmender Gegenreaktion konfrontiert ist</a></h2><p class="news-description">Flock Safety sieht sich einem wachsenden öffentlichen Aufschrei wegen der Sorge ausgesetzt, dass seine Überwachungstechnologie missbraucht werden könnte.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/" target="_blank" rel="noopener">Ist es legal, KI-Modelle anhand urheberrechtlich geschützter Bücher zu trainieren? Es ist kompliziert</a></h2><p class="news-description">Die meisten veröffentlichten Autoren haben ohne ihr Wissen oder ihre Zustimmung zur Entwicklung derselben KI-Tools beigetragen, die ihre Lebensgrundlage zu gefährden drohen. Das scheint illegal zu sein, oder?</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
