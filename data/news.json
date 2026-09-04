@@ -1,5 +1,535 @@
 [
   {
+    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+    "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+    "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\n\"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and developer at Microsoft. \"On these devices, developers can run 30B+ parameter models locally and unmetered - accelerating experimentation while helping …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T10:44:15.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Microsoft gibt seinem für Entwickler optimierten Windows-Erlebnis einen Namen: Project Zenith. Während der Softwarehersteller ursprünglich Anfang des Jahres auf der Build eine ähnliche entwickleroptimierte Windows-Initiative angekündigt hatte, ist Project Zenith für neue entwicklerorientierte Geräte mit 64 GB oder mehr einheitlichem Speicher konzipiert.",
+    "titleDE": "Microsofts Project Zenith ist ein „ablenkungsfreies Windows-Erlebnis“ für Entwickler"
+  },
+  {
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly-defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T10:41:48.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nur wenige Stunden nach dem Start von GPT-6 Astra durch OpenAI entschuldigte sich CEO Sam Altman bereits für das, was er als „chaotischen Rollout“ bezeichnet, nachdem zahlende Benutzer, die Zugriff auf das neue Grenzmodell erwarteten, warten mussten. Das Unternehmen begrüßte das Modell am Donnerstag als „generationellen Leistungssprung“ und beschrieb …",
+    "titleDE": "Sam Altman entschuldigt sich für „chaotische“ Gespräche GPT-6 Astra-Einführung, die zahlende Benutzer aussperrt"
+  },
+  {
+    "title": "This NAS company wants to run your local smart home",
+    "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+    "description": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally.  \nAt the core of Ugreen's HomeAgent system is a hub that acts as the brain of your smart home, running a local-first AI (with some caveats) that you can interact with using natural language via Uliya. There are three hub configurations to choose from, each …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T09:41:44.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der HomeAgent H100 Pro-Hub von Ugreen kombiniert lokalen Speicher, On-Device-KI und einen neuen Sprachassistenten, Uliya, um Ihr Smart Home zu betreiben. | Foto von Jennifer Pattison Tuohy / The Verge Ugreen, bekannt für seine Handy-Powerbanks, Ladegeräte und NAS-Speicherlösungen, dringt in das Smart Home vor – und zwar im großen Stil. T...",
+    "titleDE": "Dieses NAS-Unternehmen möchte Ihr lokales Smart Home betreiben"
+  },
+  {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "description": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+    "pubDate": "2026-09-04T09:25:19.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Schlachtfelder in der Ukraine sind übersät mit Überresten von Drohnen, die mittlerweile fest als entscheidende Waffe der modernen Kriegsführung gelten. Doch hinter all diesen Trümmern verbirgt sich eine neue Goldmine für den Verteidigungssektor. Die von Drohnen erzeugten Daten werden die Kriege, in denen sie eingesetzt werden, bei weitem überdauern.",
+    "titleDE": "Daten von Drohnen in der Ukraine befeuern einen neuen Wild-West-Markt"
+  },
+  {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "pubDate": "2026-09-04T04:21:03.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während Restaurantbesitzer möglicherweise auf generative KI zurückgreifen, um ihre Speisekarte aufzupeppen, können Kunden instinktiv spüren, dass mit dem Essen etwas nicht stimmt.",
+    "titleDE": "Das Gleichheitsproblem hinter diesen unappetitlichen KI-generierten Menüs"
+  },
+  {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "pubDate": "2026-09-04T00:48:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Runde kam zustande, nachdem der Rechenzentrumsentwickler Berichten zufolge einen Vertrag über 13 Milliarden US-Dollar mit Jane Street abgeschlossen hatte.",
+    "titleDE": "Berichten zufolge sammelt Crusoe 3 Milliarden US-Dollar bei einer Bewertung von 30 Milliarden US-Dollar"
+  },
+  {
+    "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+    "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+    "description": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+    "pubDate": "2026-09-03T19:52:06.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Open Source, kommerziell, Single-Hop, Multi-Hop, Mixnet? Die Auswahl an Optionen ist schwindelerregend.",
+    "titleDE": "Unklar, welches VPN das richtige ist, bittet US-Senator die NSA um Rat"
+  },
+  {
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+    "pubDate": "2026-09-03T19:36:29.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Jahresumsatz des hochkarätigen Startups liegt bei über 100 Millionen US-Dollar.",
+    "titleDE": "Berichten zufolge führt Accel Gespräche über die Leitung einer 1-Milliarden-Dollar-Runde für Thinking Machines mit einem Wert von 40 Milliarden US-Dollar"
+  },
+  {
+    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+    "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "description": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+    "pubDate": "2026-09-03T18:58:31.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Der CTO des Profi-Fußballteams weist auf „Probleme mit der Broadcom-Übernahme“ hin.",
+    "titleDE": "Durch die VMware-Migration werden die Lizenzgebühren von Tottenham Hotspur um 85 Prozent gesenkt"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "pubDate": "2026-09-03T18:37:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Abliteration.AI erleichtert den Zugriff auf leistungsstarke KI-Modelle ohne Leitplanken und argumentiert, dass die Cybersicherheit letztendlich verbessert werden könnte, wenn Verteidigern dieselben Tools wie böswilligen Akteuren zur Verfügung gestellt würden.",
+    "titleDE": "Abliteration.ai macht aus der Beseitigung von KI-Leitplanken ein Geschäft"
+  },
+  {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "pubDate": "2026-09-03T18:19:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Für sein neues Muse-Spark-Modell, das für den Betrieb von Codierungs- und anderen Agenten gedacht ist, bietet Meta einen expliziten Rabatt von durchschnittlich etwa 95 % für Benutzer, die zur Entwicklung zukünftiger Modelle „beitragen“, indem sie ihre Eingabeaufforderungen und Modellausgaben teilen.",
+    "titleDE": "Meta zahlt dafür, einen Blick darauf zu werfen, wie Sie ihr neuestes KI-Modell nutzen"
+  },
+  {
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+    "pubDate": "2026-09-03T18:01:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI behauptet, dass Astra „eine neue Grenze bei der Computer- und Browsernutzung“ darstellt und dass es Aufgaben mit unübertroffener „Geschwindigkeit, Genauigkeit und Sicherheit“ erledigt.",
+    "titleDE": "OpenAI bringt Astra auf den Markt, sein leistungsstarkes (und umstrittenes) neues Modell"
+  },
+  {
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems.\n\"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about this time, and I think it might be about this model …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-03T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das nächste große Modell von OpenAI ist da: GPT-6 Astra. Das Unternehmen nennt es einen „Generationssprung in den Fähigkeiten“ für Bereiche wie Cybersicherheit, berufliche Arbeit, Softwareentwicklung, Wissenschaft und Computernutzung. Wie OpenAI Anfang dieser Woche bekannt gab, ist es auch das erste Modell, das die „Cr...“ von OpenAI erfüllen soll.",
+    "titleDE": "Das nächste große KI-Modell von OpenAI ist „in die AGI-Ära eingetreten“"
+  },
+  {
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+    "pubDate": "2026-09-03T16:09:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der familienorientierte KI-Assistent möchte Zugriff auf die Details Ihres Alltags haben, sagt jedoch, dass er diese Daten nicht zum Trainieren von KI-Modellen oder zum Teilen mit anderen verwenden wird.",
+    "titleDE": "Ollie geht davon aus, dass sein Fokus auf Privatsphäre dazu beitragen kann, das Rennen um die KI-Assistenten zu gewinnen"
+  },
+  {
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also  …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-03T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nvidia kündigt seinen neuen Personal AI Router (PAIR) an, ein kostenloses Tool, das Ihre Heimcomputer synchronisiert, um lokale KI-Inferenzaufgaben mit Tools wie Ollama und LM Studio zu bewältigen. Lassen Sie uns das Offensichtliche aus dem Weg räumen, ungeachtet dessen, was der Name vermuten lässt: PAIR ist kein Hardware-Router. Es ist offen, also...",
+    "titleDE": "Nvidia bringt kostenloses Tool auf den Markt, das inaktive Computer mit einem persönlichen KI-Rechenzentrum verbindet"
+  },
+  {
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down or find specific information when you're on the move or unable to do so manually.\nGmail Live is primarily designed to surface details from your inbox without you having to dig through lengthy email threads using keywords or subject lines. For example, Google says that you can ask questions like \"when is my kid's next school eve …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-03T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google führt KI-gestützte Sprachassistentenmodi für Gmail, Docs und Keep ein, mit denen Sie die Apps verwalten können, indem Sie mit ihnen sprechen. Die Echtzeit-Konversationsfunktionen heißen Gmail Live, Docs Live und Keep Live und zielen wie das Gemini Live-Erlebnis für den Chatbot von Google darauf ab, es einfacher zu machen...",
+    "titleDE": "Mit Google können Sie jetzt mit Gmail, Docs und Keep chatten"
+  },
+  {
+    "title": "ChatGPT, Grok, and Claude all went down at the same time",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+    "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\"\nIn addition to preventing users from having conversations with ChatGPT, the outage affected logins, file uploads, voice mode, search, deep research, image generation, and more. The incident occurred while OpenAI teased the launch of Astra, its new AI model.\nMeanwhile, Anthropic's Claude chatbot, Claude Code, and the Claude …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-03T15:35:14.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "ChatGPT von OpenAI, Grok von xAI und Claude von Anthropic sind wieder online, nachdem am Donnerstag bei allen etwa zur gleichen Zeit Probleme auftraten. Gegen 11 Uhr ET begann ChatGPT damit, Fehlermeldungen für Benutzer zurückzugeben, die versuchten, den Chatbot zu verwenden. Auf der Statusseite stand, dass es „erhöhte Fehler bei …“ gab.",
+    "titleDE": "ChatGPT, Grok und Claude gingen alle gleichzeitig zu Boden"
+  },
+  {
+    "title": "Google says its AI weather model is getting better",
+    "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+    "description": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nIn the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five times sharper than Google's previous model by learning from real-time weather observations, according to the company.\n\"One of the main developments is for [WeatherNext 3] to go beyond what data most global AI models train on,\" says Samier Merchant, a research engineer at Google Research. \"We're able to leverage …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-03T15:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google führt ein aktualisiertes KI-Wettermodell ein, das insbesondere bei der Vorhersage von Regen und Schneefall genauer sein soll. In der heutigen Ankündigung gibt das Unternehmen an, dass es mithilfe seines neuen KI-Modells WeatherNext 3 nun in der Lage ist, Prognosen mit „beispielloser Auflösung“ zu erstellen. Es kann...",
+    "titleDE": "Laut Google wird sein KI-Wettermodell immer besser"
+  },
+  {
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+    "pubDate": "2026-09-03T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "WeatherNext 3 ist die jüngste Welle grundlegender Veränderungen in der Meteorologie, die durch Deep-Learning-Techniken hervorgerufen wurde. Google sagt, dass es damit beginnen wird, Wetterinformationen einzuspeisen, die Nutzer in der Suche, bei Google Maps und Gemini sehen.",
+    "titleDE": "Das neueste KI-Wettermodell von Google gibt Ihnen keine Entschuldigung, Ihren Regenschirm zu vergessen"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "pubDate": "2026-09-03T13:15:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI führt Daybreak für Frontline Defenders ein. Eine Zusage in Höhe von 1 Milliarde US-Dollar erweitert den Zugang zu bahnbrechender Cyber-KI, Schulung und Support für wesentliche Dienste.",
+    "titleDE": "Tagesanbruch für Frontline Defenders: 1 Milliarde US-Dollar zum Schutz wesentlicher Dienste"
+  },
+  {
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "pubDate": "2026-09-03T12:42:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Nvidia hostet Hugging Face über 3 Millionen Modelle und wird von über 18 Millionen Entwicklern verwendet.",
+    "titleDE": "Nvidia bestätigt, dass es Hugging Face für 12,9 Milliarden US-Dollar kaufen wird"
+  },
+  {
+    "title": "Nvidia is buying Hugging Face for almost $13 billion",
+    "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+    "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.\nHugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data with other users and the general public. It's often described as the \"GitHub\" for AI due to its browsable library of open-source machine learning models and emphasis on community collaboration features.\n\"Together, we will scale Hugging Face's platform, strengthen its infrastructure and expand access to AI for develo …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-03T12:12:06.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nvidia hat zugestimmt, Hugging Face für 12,93 Milliarden US-Dollar zu kaufen und damit eine der beliebtesten Hosting-Plattformen für Open-Source-KI-Modelle, Datensätze und Tools in den Besitz des weltweit größten KI-Chipherstellers zu bringen. Hugging Face ist eine 2016 gegründete Online-Plattform, die KI-Entwicklern einen Raum zum ... bietet.",
+    "titleDE": "Nvidia kauft Hugging Face für fast 13 Milliarden US-Dollar"
+  },
+  {
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
+    "pubDate": "2026-09-03T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Kinderüberwachungs-Apps müssen möglicherweise neu gestartet werden Digitale Schäden sind zur bestimmenden Angst amerikanischer Eltern geworden. Als Reaktion darauf wenden sie sich zunehmend Content-Mo... zu.",
+    "titleDE": "Der Download: Kindersicherheit und fossil befeuerte Landwirtschaft neu denken"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "pubDate": "2026-09-03T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Legora nutzte GPT-6 Astra, um 41 Dokumente in wenigen Minuten zu überprüfen, alle vier versteckten Fehler zu finden und die Leistung dieses Finanzprüfungs-Workflows um fast 40 % zu verbessern.",
+    "titleDE": "Legora hat mit GPT-6 Astra innerhalb von Minuten 41 Dokumente überprüft"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "pubDate": "2026-09-03T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Mit GPT-6 Astra erstellte Playco drei thematische Spielprototypen auf einer Grey-Box-Grundlage und meldete 50 % weniger manuelle Korrekturen als beim Vorgängermodell.",
+    "titleDE": "Das Playco-Cut-Handbuch behebt 50 % der Prototyping-Spiele mit GPT-6 Astra"
+  },
+  {
+    "title": "Agriculture relies on fossil fuels. It’s costing us.",
+    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "description": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
+    "pubDate": "2026-09-03T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Wenn Sie in letzter Zeit den Benzintank Ihres Fahrzeugs auffüllen oder ein Flugticket kaufen mussten, haben Sie wahrscheinlich die Auswirkungen der steigenden Preise für fossile Brennstoffe gespürt. Doch vor allem Landwirte, die Düngemittel für ihre Feldfrüchte kaufen, sind sich darüber im Klaren, wie weit die Auswirkungen des Konflikts im Iran bereits weitreichen. Düngemittelpreise h...",
+    "titleDE": "Die Landwirtschaft ist auf fossile Brennstoffe angewiesen. Es kostet uns."
+  },
+  {
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "description": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+    "pubDate": "2026-09-03T09:30:32.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Während die Agenten-KI vom Experimentieren zum Einsatz in Unternehmen übergeht, besteht die Herausforderung darin, herauszufinden, wie Agenten zusammenarbeiten, sich mit den Systemen und Daten verbinden, die sie benötigen, und sicher in den Arbeitsabläufen eines Unternehmens agieren können. Obwohl die Agenten-KI bereits von etwa 80 % der Fortune-500-Unternehmen eingesetzt wird ...",
+    "titleDE": "Skalierung von Agenten-KI-Piloten im gesamten Unternehmen"
+  },
+  {
+    "title": "Safety overview: GPT-6 Astra",
+    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "pubDate": "2026-09-03T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "GPT-6 Astra ist unser leistungsfähigstes, weit verbreitetes Modell und unser erstes, das im Rahmen unseres Preparedness Framework die kritische Stufe der Cybersicherheitsfähigkeit erreicht.",
+    "titleDE": "Sicherheitsübersicht: GPT-6 Astra"
+  },
+  {
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "pubDate": "2026-09-02T23:01:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Builders Stage kehrt zu TechCrunch Disrupt zurück und bringt Gründer, Startup-Betreiber und Investoren zu praktischen Gesprächen darüber zusammen, was es zum Bauen und Skalieren braucht.",
+    "titleDE": "Die Builders Stage bringt praktische Strategien zur Skalierung von Startups auf TechCrunch Disrupt 2026"
+  },
+  {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "pubDate": "2026-09-02T22:44:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nach Ansicht von Branchenbeobachtern bleibt das von Sequoia unterstützte Serval durch die Übernahme de facto der Startup-Führer im Bereich KI-IT-Service-Automatisierung.",
+    "titleDE": "Laut Quellen zahlte Palo Alto Networks 500 Millionen US-Dollar für die von Thrive unterstützte Konsole"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "pubDate": "2026-09-02T22:24:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Auf unserer neuen Real World AI-Bühne werden wir uns auf die Schnittstelle zwischen dem Digitalen und dem Physischen konzentrieren und auf alle Möglichkeiten, wie wir weiterhin eine Mischung aus beiden sehen werden.",
+    "titleDE": "Die neue Real World AI Stage von TechCrunch Disrupt 2026 zeigt Nvidia, Roboter und ausgestorbene Tiere"
+  },
+  {
+    "title": "I rented a car, and within hours, my driver's license was for sale",
+    "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "description": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+    "pubDate": "2026-09-02T20:32:02.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge untersucht das FBI einen massiven Datenverstoß, der sich in Echtzeit abspielt.",
+    "titleDE": "Ich mietete ein Auto und innerhalb weniger Stunden stand mein Führerschein zum Verkauf"
+  },
+  {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "pubDate": "2026-09-02T20:19:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das neue Astra-Modell von OpenAI wird „rekurrente Tiefe“ verwenden, eine Technik, die es dem Modell ermöglicht, außerhalb des sequentiellen Denkens zu arbeiten, das die meisten Argumentationsmodelle charakterisiert.",
+    "titleDE": "Die neue Argumentationstechnik von OpenAI alarmiert KI-Sicherheitsexperten"
+  },
+  {
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-02T20:11:40.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google brachte Gemini 3.8 Flash auf den Markt und kam nur wenige Wochen nach seinem Vorgänger auf den Markt. Das Unternehmen behauptet, dass das neue Modell „härter arbeitet“ als Gemini 3.7 Flash, indem es mehr Argumentationsschritte für komplexe Aufgaben ausführt und „Tools iterativ aufruft“. Es hat den gleichen Einführungspreis wie 3.7 Flash, 0,75 $ pro Monat ...",
+    "titleDE": "Google sagt, dass sein neues Gemini 3.8 Flash-Modell „härter arbeitet“, aber möglicherweise mehr kostet"
+  },
+  {
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
+    "pubDate": "2026-09-02T17:18:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Internet hat ein Vertrauensproblem, und das liegt nicht nur daran, dass sich die Social-Media-Feeds mit KI-Schrott füllen. KI-generierte Texte und Bilder finden mittlerweile Eingang in Bewerbungen, Produktbewertungen und sogar Versicherungsansprüche, sodass Plattformen und Benutzer gleichermaßen darum kämpfen müssen, herauszufinden, was real ist....",
+    "titleDE": "Max Spero von Pangram erklärt, warum die KI-Erkennung schwieriger ist als „echt oder falsch“"
+  },
+  {
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
+    "pubDate": "2026-09-02T17:09:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Internet hat ein Vertrauensproblem, und das liegt nicht nur daran, dass sich die Social-Media-Feeds mit KI-Schrott füllen. KI-generierte Texte und Bilder finden mittlerweile Eingang in Bewerbungen, Produktbewertungen und sogar Versicherungsansprüche, sodass Plattformen und Benutzer gleichermaßen darum kämpfen müssen, herauszufinden, was real ist....",
+    "titleDE": "„Wir sind der Theorie des toten Internets „gefährlich nahe“, sagt der CEO von Pangram"
+  },
+  {
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "pubDate": "2026-09-02T17:09:06.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Die Vereinigten Staaten haben ein starkes Interesse daran, weiterhin eine robuste und wettbewerbsfähige Industrie für künstliche Intelligenz zu entwickeln, die den Standard für die Praxis und das Verfahren des KI-Einsatzes weltweit setzt“, heißt es in dem Brief.",
+    "titleDE": "Die US-Regierung unterstützt OpenAI in der Frage der Schulung von LLMs zu urheberrechtlich geschütztem Material"
+  },
+  {
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "pubDate": "2026-09-02T16:04:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wonderful sagte, dass es seine 550 Millionen US-Dollar an Series-C-Finanzierungsmitteln nutzen werde, um Produkte schneller zu entwickeln, seine FDE-Teams zu erweitern und die Nachfrage nach seinen Produkten zu befriedigen.",
+    "titleDE": "Wonderful hat seinen Wert in weniger als 6 Monaten auf 5 Milliarden US-Dollar mehr als verdoppelt"
+  },
+  {
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "pubDate": "2026-09-02T16:01:48.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Jio geht davon aus, dass es einen in die Jahre gekommenen Computer für nur etwa 11 US-Dollar für zwei Monate in einen KI-fähigen PC verwandeln kann.",
+    "titleDE": "Indiens reichster Mann möchte nun veraltete Computer in KI-fähige PCs verwandeln"
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "pubDate": "2026-09-02T15:40:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Das Fairwind-Programm ist ein Programm mit eingeschränktem Zugang für Regierungen und vertrauenswürdige Partner zur Nutzung unserer Cyber-Abwehrtools.",
+    "titleDE": "Proaktive Cyber-Abwehr für Regierungen und Unternehmen"
+  },
+  {
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+    "pubDate": "2026-09-02T15:01:23.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Sicherheitsunternehmen bemühen sich darum, Produkte zu entwickeln, die nicht nur Agenten, sondern auch die von ihnen verwendeten Tools und Add-ons überwachen können.",
+    "titleDE": "HiddenLayer schnappt sich 100 Millionen US-Dollar, während Unternehmen sich beeilen, ihre KI-Implementierungen zu sichern"
+  },
+  {
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
+    "pubDate": "2026-09-02T14:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Wenn Unternehmen wachsen, kann die Technologie, die den Betrieb unterstützt, ebenso schnell zu einer Belastung wie zu einem Vermögenswert werden. Getrennte Systeme, standortspezifische Tools, Tabellenkalkulationen und manuelle Problemumgehungen können zu Datensilos führen, die es schwieriger machen, Probleme frühzeitig zu erkennen, Reaktionen zu koordinieren und Entscheidungen zu treffen...",
+    "titleDE": "Vereinfachung der KI-Integration mit Einfachheit und großem Maßstab"
+  },
+  {
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+    "pubDate": "2026-09-02T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. KI-Modelle verfälschen diese Intelligenztests. Kann es Ihnen besser gehen? Rätsel und Spiele standen schon immer im Mittelpunkt der KI-Entwicklung. Der Begriff „maschinelles Lernen“ wurde...",
+    "titleDE": "Der Download: KI-Rätsel und ein Weg zu unserem nächsten Sternensystem"
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "pubDate": "2026-09-02T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "ATV Big Air Tour nutzt ChatGPT Work, um Marketing, Merchandising und mehr zu beschleunigen. Es verwandelte sogar Warenfotos in 15 Minuten in eine Inventar-Website.",
+    "titleDE": "ATV Big Air Tour hat mit ChatGPT 3 Arbeitstage in 3 Stunden verwandelt"
+  },
+  {
+    "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "description": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+    "pubDate": "2026-09-02T11:00:43.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Was können wir aus einem BGP lernen, der diese vergiftete Produktionssoftware kapert? Eine Menge.",
+    "titleDE": "BGP-Hijack infiziert Netzwerke, verursacht durch eine Komödie von Fehlern, die überhaupt nicht lustig ist"
+  },
+  {
+    "title": "The latest AI news we announced in August 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "description": "Here are Google’s latest AI updates from August 2026",
+    "pubDate": "2026-09-01T20:45:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom August 2026",
+    "titleDE": "Die neuesten KI-Neuigkeiten haben wir im August 2026 angekündigt"
+  },
+  {
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "description": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
+    "pubDate": "2026-09-01T19:10:36.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Eine gemeinnützige Organisation namens Fermi Explorer Mission gab heute bekannt, dass sie beabsichtigt, bis Ende 2029 eine Raumsonde zu unserem nächsten Sternensystem zu schicken. Es ist eine äußerst ehrgeizige Mission – wenn alles gut geht, könnte es bis zu 80.000 Jahre dauern, bis die Raumsonde Alpha Centauri erreicht, was 4,4 Meilen entspricht.",
+    "titleDE": "Wie die KI eine interstellare Reise nach Alpha Centauri plante"
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "link": "https://openai.com/index/ai-native-company-workflows",
+    "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "pubDate": "2026-09-01T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Basis, Clay und Exa Labs nutzen KI-Agenten, um Onboarding, Kontoverwaltung und Entwicklerintegrationen zu verbessern. Erfahren Sie, was Unternehmensleiter anwenden können.",
+    "titleDE": "Wie KI-native Unternehmen Arbeitsabläufe in Betriebsfähigkeit verwandeln"
+  },
+  {
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "description": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+    "pubDate": "2026-09-01T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Google Pics – unser Bilderstellungs- und Bearbeitungstool – basiert auf unserem neuesten Nano Banana-Modell und ist jetzt verfügbar.",
+    "titleDE": "Probieren Sie Google Pics aus: Einfache Bilderstellung und -bearbeitung in Google Workspace"
+  },
+  {
+    "title": "Making the AI-powered case for legacy modernization",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "description": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
+    "pubDate": "2026-09-01T14:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Seit Jahren stellen veraltete Technologien ein Problem dar, von dem Unternehmen wussten, dass sie es lösen mussten, das sie aber oft nur schwer angehen konnten. Die Kosten, die Komplexität und das Risiko des Austauschs geschäftskritischer Systeme könnten dazu führen, dass sich die Modernisierung wie eine zu bewältigende Störung und nicht wie eine Chance anfühlt, die es zu verfolgen gilt. Aber mit t...",
+    "titleDE": "Argumente für die KI-gestützte Modernisierung von Legacy-Lösungen"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra",
+    "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "pubDate": "2026-09-01T13:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Astra ist das erste OpenAI-Modell, das den Schwellenwert für kritische Cybersicherheitsfähigkeiten gemäß dem Preparedness Framework erfüllt und strengere Sicherheitsvorkehrungen für die Veröffentlichung bietet.",
+    "titleDE": "Weg zu Astra: kritische Fähigkeiten und Grenzsicherungen"
+  },
+  {
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
+    "pubDate": "2026-09-01T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie manipulierte Mikroben dazu beitragen könnten, die Nutzpflanzen der Welt zu ernähren. Düngemittel sind für die weltweite Nahrungsmittelversorgung von entscheidender Bedeutung, aber ihre Herstellung verbraucht viel Energie und produziert viel ...",
+    "titleDE": "Der Download: manipulierte Mikroben für Nutzpflanzen und das Kulturproblem von OpenAI"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "description": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "pubDate": "2026-09-01T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "ChatGPT kann jetzt eine Verbindung zu vertrauenswürdigen Gesundheitsdaten herstellen und Ärzten so den sicheren Zugriff auf Patientenkontext, medizinische Forschung und mehr ermöglichen.",
+    "titleDE": "Gesundheitsorganisationen können jetzt EHR und zusätzliche Branchendaten mit ChatGPT verbinden"
+  },
+  {
     "title": "How engineered microbes could help feed the world’s crops",
     "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
     "description": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help…",
@@ -10,54 +540,14 @@
     "titleDE": "Wie manipulierte Mikroben dazu beitragen könnten, die Nutzpflanzen der Welt zu ernähren"
   },
   {
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-    "pubDate": "2026-09-01T00:13:00.000Z",
-    "source": "TechCrunch",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "link": "https://openai.com/index/gilbert-tobin",
+    "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "pubDate": "2026-09-01T01:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Apple gibt an, Beweise dafür zu haben, dass ein ehemaliger Mitarbeiter Beweise für Datendiebstahl vernichtet hat, nachdem er erfahren hatte, dass gegen ihn ermittelt wurde.",
-    "titleDE": "Apple legt „schockierende Beweise“ gegen einen ehemaligen Mitarbeiter vor, der beschuldigt wird, Unternehmensdaten für OpenAI gestohlen zu haben"
-  },
-  {
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-    "pubDate": "2026-08-31T20:13:45.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Versionen von ChatGPT von OpenAI und Grok von SpaceXAI werden zusammen mit Gemini von Google auf dem zentralen Portal des Pentagons für KI-Tools erscheinen.",
-    "titleDE": "Das Pentagon verfügt jetzt über eine eigene Version von ChatGPT und Grok"
-  },
-  {
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-    "pubDate": "2026-08-31T19:16:59.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Da die Frustration über KI-Influencer zunimmt, schränkt Instagram die Reichweite nicht offengelegter KI-Profile ein.",
-    "titleDE": "Instagram setzt unbekannten KI-Profilen neue Grenzen"
-  },
-  {
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-    "pubDate": "2026-08-31T18:35:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Blue Voice ist in abteilungsspezifischen Gesetzen, lokalen Verordnungen, Protokollen und Richtlinien geschult, auf die allgemeine KI-Tools im öffentlichen Internet nicht zugreifen können.",
-    "titleDE": "Harvard Law-Aussteiger sammelt 6 Millionen US-Dollar für Blue Voice, um einen „Harvey für Polizisten“ zu bauen"
-  },
-  {
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-    "pubDate": "2026-08-31T18:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Mittlerweile haben Sie wahrscheinlich von dem großen KI-Sicherheitsvorfall im letzten Monat gehört, bei dem OpenAI-Agenten aus ihrer Sandbox entkommen und sich in die KI-Plattform Hugging F... gehackt haben.",
-    "titleDE": "Der Hugging Face-Hack könnte auf kulturelle Probleme bei OpenAI hinweisen"
+    "descriptionDE": "Erfahren Sie, wie Gilbert + Tobin vom CEO geleitetes Engagement, strenge Governance und menschliche Verantwortung kombiniert, um ChatGPT Enterprise und Codex im gesamten Unternehmen zu skalieren.",
+    "titleDE": "Wie die Anwaltskanzlei Gilbert + Tobin KI mit OpenAI steuert und skaliert"
   },
   {
     "title": "Think twice before installing this device promising free movies",
@@ -68,76 +558,6 @@
     "category": "news",
     "descriptionDE": "Im Austausch gegen kostenlose Inhalte machen Geräte Heimverbindungen zu einem Teil eines Proxy-Netzwerks.",
     "titleDE": "Denken Sie zweimal darüber nach, bevor Sie dieses Gerät installieren, das kostenlose Filme verspricht"
-  },
-  {
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "description": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-    "pubDate": "2026-08-31T16:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das drei Jahre alte Startup gibt an, dass es einen ARR und eine Rentabilität von 15 Millionen US-Dollar erreicht hat, bevor es seine letzte 15-Millionen-Dollar-Runde aufnahm.",
-    "titleDE": "Clipto nutzt KI, um Terabytes an Videos zu durchsuchen, und hat derzeit einen Wert von 250 Millionen US-Dollar"
-  },
-  {
-    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "description": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\"\nThe project's voting developers considered several other proposals on how to handle AI, including some that would have banned contributions made using AI tools. As It's FOSS reports, some users and contributors aren't happy with the policy, includi …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-31T15:34:58.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Debian stimmte dafür, Entwicklern die Verwendung von KI-Tools in ihren Beiträgen zur „Entwicklung, Wartung [und] Dokumentation“ der Linux-Distribution zu erlauben. Die neue KI-Richtlinie erkennt an, dass ein „verantwortungsvoller“ Einsatz von KI die Produktivität von Entwicklern verbessern kann, und führt weiter aus: „Generative KI ist weder eine Ausnahme...",
-    "titleDE": "Debian wird KI-Code nicht aus seiner Linux-Distribution verbannen"
-  },
-  {
-    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-    "pubDate": "2026-08-31T15:15:25.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nvidia investiert 3,5 Milliarden US-Dollar in den taiwanesischen Chiphersteller MediaTek. Der Deal zeigt, dass Nvidia plant, weiterhin für die KI-Infrastruktur von entscheidender Bedeutung zu bleiben, während Big Tech mit der Entwicklung eigener KI-Chips beginnt.",
-    "titleDE": "Nvidias 3,5 Milliarden US-Dollar teure MediaTek-Wette enthüllt seinen Plan, den Ausbau der KI-Chips von Big Tech in Angriff zu nehmen"
-  },
-  {
-    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "description": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is.\nFor example, Meta just reached a settlement with dozens of states, including New York, which will restrict how teens use platforms like Instagram in very specific ways. Governor Hochul is a strong supporter of those restrictions and more, as you’ll hear. But those come with a cost — widespread age verification means adults will also have to show ID to use the internet, which will essentially make it impossible to be anonymous online. \n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nSo I asked about that, and if these new restrictions amount to Meta conceding in a lawsuit that these kinds of regulations on speech might not pass First Amendment scrutiny if the governor were to try and impose them in a law.\nI had similar questions about New York’s restrictions on ghost guns, which prevent 3D printers from printing gun parts. That law is already being challenged — not in courts, but by activists like Cody Wilson, who runs the largest database of 3D-printable gun files and who has started altering those files in a process he calls “Hochulization” in order to show the ban is technically toothless. I asked the governor about this, and, well, you’ll hear her challenge Cody right back.\nOh, but there’s more: We also talked about surveillance and Flock cameras, and, of course, the politics of AI and data centers in an election year. Governor Hochul signed a one-year moratorium on data center construction in July, and I wanted to know what she’s looking for when that expires to make data centers a workable proposition. \nWe also talked a little about Mayor Zohran Mamdani in New York City and, of course, her org chart for the state government. This one is a lot, I think you’re going to like it.\nOkay: New York Governor Kathy Hochul, here we go.\n\n\n\nThis interview has been lightly edited for length and clarity.\nGovernor Kathy Hochul, you are the governor of the state of New York! Welcome to Decoder.\nThank you. Happy to be on.\nI have so much to talk to you about. We don’t have a ton of time, so we’re going to move fast. Are you up for it?\nI’m up.\nAll right. I want to start with what I call the Decoder questions, lightning round style. I think the operation of your office and state government is really opaque to most people. So I ask everybody this question. How is the governor’s office structured? How did you make decisions about how to structure that office? How did you organize it?\nGovernor at the top. Then there’s a leadership team, senior leadership team. There’s a secretary to the governor who is the top advisor. It sounds like the person taking notes at meetings, but the secretary of the governor is the most powerful non-elected position in the state. When I first became governor five years ago, I said, “I want the smartest, the best, the brightest people I could surround myself with.” I didn’t know a lot of these individuals, but they were highly recommended from having business experience, government experience, or technological experience. I said, “Bring me the smartest.”\nThere’s a layer of senior team members. There’s one individual who oversees all the agencies. There are 45 different agencies for everything from the Department of Transportation to the environment to our housing development agency, economic development. It all trickles down to a pretty large bureaucracy. I’m the decision maker, but I take input from a lot of different levels of government before I make a final decision. But I’m a fairly quick decision-maker. Show me the facts and I can make a decision instantaneously.\nYou took over in a complicated way from your predecessor and then you won reelection. Did you sit down and make an org chart of how you wanted your office to work?\nYes, I did.\nHow long did that take?\nI inherited one in a sense, but also early on I didn’t have a lot of tools. In fact, we had a hurricane in my first week. I didn’t know how to declare a disaster. I hadn’t hired that person yet, the head of emergency services. We were caught off-guard a little bit. The state still functioned, but I knew I needed to do more. \nI’m always in search of talent, smart people, and trying to rotate people in. Sometimes I start commissions like the Future Works Commission to bring in experts, not just from my administration but around the country, who understand the displacement of jobs because of AI: who’s most vulnerable, how we deal with that, and how we train people to be able to overcome those obstacles or to embrace AI as a possible career. I’m always finding ways to supplement my team with industry- or issue-specific experts.\nThis question’s going to sound ridiculous, but I’ve asked a lot of people a variation of this question. Almost no one ever is going to sit down and say, “I need to write a new org chart for the governor’s office of New York.” Did you do that on a whiteboard? Did you open PowerPoint? Was it just you alone with a laptop? What was it actually like?\nCan I tell you something I’m embarrassed of, since you phrased it that way? I did it on a legal pad.\nNice.\nOld school. Sorry.\nYeah, pen and paper. No, it’s great. Very few people do that. You would be surprised at some of the answers we’ve gotten to questions like that.\nI just laid out, “This is what I need, this is the team I need.” Now that was five years ago. I’ve gotten a little better. I’d probably ask Claude or ChatGPT for some recommendations.\nOh boy. We’re going to come to that. Don’t worry about it. You started answering this question, but this is the other Decoder question. How do you make decisions? What’s your framework?\nBring in all the information as quickly as possible, pressure-test it, and then go with my gut.\nOne of the more unique parts about structure in New York government is the relationship between the state and the city. We’re talking here in person in New York City. Mayor Zohran Mamdani has been pretty aggressive about going after billionaires and tech companies. Most recently the city went after Amazon for its labor practices. Do you think that’s been effective here?\nI need to make sure that New York City and the state overall continue to be a place where we support innovation, new jobs. Technology is leading the forefront right now. I’m really proud that we now have been named the number-one job creator for tech jobs in the country, surpassing California, which has always dominated in this space. That says something about our ecosystem and I want to foster that. I want people who have just an idea who can use technology to create something that no one else had ever conceived of and be successful in marketing it. That is what I’m leaning hard into. \nThe mayor has his own approach, but I think overall we both want New York City to succeed. To me, success also means creating more opportunities for jobs because of the spinoff effect. Five guys in an office right in this building could lead to 500 jobs in a couple of years. Those opportunities help lift people out of their circumstances and achieve what I’m hoping for is more opportunity for more people.\nThere’s a WeWork just above us. We got to go find those five guys.\nI’m asking specifically about the more aggressive approach the mayor has taken. He’s taken a very aggressive approach. And like you said, the numbers show that the billionaires didn’t run, they’re actually investing; the tech companies didn’t run, they’re actually hiring at a rate that surpasses San Francisco. Is that emboldening you to take a harsher regulatory approach to tech companies?\nI don’t just take a regulatory approach for the sake of doing it. I don’t raise taxes for the sake of doing it. I do things in a smart way when it’s necessary. For example, we have regulations on tech companies when it comes to social media for young people under the age of 18. My job is to protect the young people of our state because they have been spiraling with mental health challenges — exacerbated by the pandemic, yes, but many of them have not overcome that sense of doom and anxiety. It is pervasive in our teenagers particularly. \nI look at my role to regulate tech companies in that space. Before the Meta settlement, we had innovated and come up with probably three years’ worth of reforms to force the companies to do things that they are otherwise not doing on their own, and one would wish they would but that’s probably being too optimistic. We have in place, for example, no notifications to someone under the age of 18 between midnight and 6:00 AM. These kids need to sleep.\nWe’re saying addictive algorithms can no longer bombard young people, having — this is a big deal — automatic privacy controls that are already set. Parents aren’t expected to understand every platform where their kids may go or any gaming site and have to get ahead of them. That it’s automatic using age verification is really important. \nLimiting access to AI chatbots for young people and making sure there are disclaimers so they understand this is not a real person that you think you’re having a relationship with: that’s an example where I think tech needs to be regulated. It went out of control and now the government has to perform a function to protect our residents and our young people, the most vulnerable. I don’t just regulate to stifle their growth. I want them to grow. It’s a smart, strategic, more surgical approach to regulations.\nI’m glad you brought up the Meta settlement. That’s obviously the big news this week. Meta settled with 47 states, including New York. I look at that settlement, I look at the list of controls that Meta has agreed to and my initial reaction was this is a bunch of stuff that, if passed as a law, would run into the teeth of the First Amendment. They are effectively speech restrictions, right? We’re going to prevent young people from using these platforms to speak at certain hours of the day.\nAnd maybe there’s some argument that overcomes the First Amendment objection, right? The teen health risk is so high that this is actually a narrowly crafted, strict scrutiny-abiding restriction, but we don’t know that. That actually hasn’t been challenged in court. Meta just gave that to you. Then there’s age verification to prove that you’re over 18. Even if you’re an adult, you still have to show the internet your ID, which is a big ask for people who are not covered by the restrictions. That’s a big swirl. Do you think you got concessions from Meta that you otherwise would not have been able to get if you just passed the law?\nNo, we actually have laws in New York that are more restrictive than some of what Meta has agreed to.\nAre you worried about the First Amendment implications of some of those laws?\nNo, I’m not. And here’s why: we have an opportunity and the responsibility to protect our residents. The First Amendment is when the government says that we’re limiting your speech. Not having notifications that keep you awake all night when you’re a 13-year-old is not restricting your First Amendment right to free speech. There is a difference.\nSometimes the First Amendment is used as any kind of government regulation. People will say, “Oh my God, you’re violating the First Amendment” or any of the other amendments. I’m an attorney. I look at it closely. I don’t do things to violate amendments or any laws. It’s not my practice. We’re smart about how we structure these and make sure that we’re protecting First Amendment rights as well as protecting young people from having their mental health monetized by companies who have a profit motive. It’s almost like cigarette smoking. The earlier you get them, the longer you’re going to keep them hooked.\nYoung people should not be bombarded with the addictive algorithms or be subjected to the bullying that goes on. Someone who’s thinking about suicide searches for “suicide” and is now told different ways to commit suicide. That is terrifying for parents. Parents actually appreciate the fact that they have a voice in government. Maybe it’s because I’m the first mom governor in New York that I understand this. I’ve raised kids. I know the pressures they’re under. \nSomething else we did: I’m really proud of the fact that we’re the biggest state in the nation to have come up with a full ban on cell phones in schools. Now you can say it’s violating their First Amendment rights. I’m saying I’m protecting them from a lifetime of addiction to a device where they no longer have human relationships.\nYou asked how I make decisions. Sometimes I go with my gut, sometimes I want confirmation from the real world and I go out there and talk to people in schools and in cafeterias and have a lot of conversations with young people. When I did round tables around the state of New York for about a solid year to get information, [students] were so anxious about missing a notification. “The girls are meeting in the restroom to plan activities for Friday night and I just got excluded and I’m also getting knocked out because of what I’m wearing. And now they’ve got a picture of me in an inappropriate way being sent around the school.” These kids are paralyzed. One young person, probably a sixth grader, said to me, “You’ve got to save us from ourselves. We can’t put these down. We’ll be ostracized.” That’s when I took it to heart and I said, “I will protect you. I’ll protect these kids.”\nWe literally instituted this in September. The survey results from just this past May show anywhere from 75% to 80% of the schools surveyed have been overwhelmingly positive. The kids who resisted at first are now making friends in person. There’s more communication. They’re learning the interpersonal skills that you’d want your future workforce to have, and they’re playing games at lunchtime. They’re playing cards. They have baseball cards they’re trading. They’re playing chess, bingo. It’s almost silly, but they’re just being kids again. And so they’ve got plenty of time for the stresses of the real world. They can become hooked on social media later on in life. They can get hooked on their device. They can do all this later, but why do we rob their childhood from them?\nSure. I’ve got kids in New York public schools. I’m reasonably happy about the bans. I’m not excited about my daughter ever getting a phone. But if you were to do this straightforwardly in a legislative way, particularly the restrictions that Meta has agreed to, you would have to build out some record and you would have to do some balance of harms analysis. \nHere, Meta agreeing to age verification means that I, an adult, have to tell them how old I am with some tool, probably by showing them my ID. That is a big burden on me, an adult, that has nothing to do with the safety of the kids. \nThat to me feels like it might not pass the scrutiny that the courts would provide if Meta was like, “Actually, this is too much of a burden.” How do you address that? Because the big concern here is that you’ve actually, instead of saying age verification for teens, de-anonymized the internet.\nThe proof is the fact that Meta agreed to this in a settlement.\nMeta’s looking out for its corporate interest. I’m looking out for my interests as a citizen.\nMeta’s looking out for its ability to get more citizens like you to be engaged with it so it can make more money off of you and sell you more products. It’s in Meta’s interest to have you engage. The fact that they’re willing to step back—\nRight. They don’t care if I have to de-anonymize myself to look at Instagram ads for things I don’t need to buy. I’m saying I would like to be anonymous on the internet and if we put age verification everywhere, which is one of the consequences of this agreement, that every platform is going to have to start doing age verification at scale. I won’t be able to use the internet without constantly identifying myself to prove my age.\nI’m sure there’s a path forward that doesn’t require you to do this constantly. I’m not aware that you’d have to do it every single time you participate, every time you go to a site. I’m not aware that you’d have to do it that way. Let me find that out. I’m not going to say something without knowing that answer, but it’s an interesting point you raise. It really is. But I’m focused on the fact that we did gather data around the country to find out what is happening to our young people today. I cannot rely on parents to know how to stop this from happening, because the parents are the ones telling me, “Please do something. I don’t know how to stop this. My kid is spiraling.”\nOne mom told me that she has her husband leave work every day at three to make sure their son, who’s being bullied in school and harassed and going to dark sites, doesn’t commit suicide when he goes home. Who wants to live with that specter? That was not the case when I was a kid, or my kids were kids.\nThe world has changed and again, it is not a no to progress or innovation. I have thousands of examples of me inviting tech companies here. Even Micron, the largest private-sector investment in American history. 50,000 jobs are happening up in Syracuse because I went after them aggressively. They’ll be open in two years. This is extraordinary, building the memory chips that are necessary to power AI in New York state. My credentials are impeccable when it comes to inviting innovation in, but when there are areas where we need guardrails to protect individuals, I’m going to step in and do this. I feel good about this. This is a decision that we’ve made and I think it’s overwhelmingly supported by many parents. Young people someday will appreciate the fact that they were spared from this, and other people who adapt to this, this is the way it is.\nSo much tech regulation, particularly for the last decade, has run into the First Amendment. Again, my view of it is we’ve avoided the First Amendment conversation by talking about Section 230 or other red herrings that allow us to not talk about the fact that a lot of this looks like speech regulation and expression regulation in important ways. Another good example of this, which I think will be developed, is the restriction on ghost guns in New York state. The idea is that you should not be able to 3D-print gun parts in New York state.\nWe have a story just this week about Cody Wilson, who printed the first 3D-printed gun. He’s put out a tool to defeat the way that the law is designed to work. He calls it “Hochulization,” where he’s going to de-fingerprint the hashes of 3D-printed gun files so that whatever tool is scanning at the 3D printer level will not see that it’s a gun and print it anyway. That’s a cat and mouse game. That is a technological arms race.\nYou can tell Cody I will get ahead of him next. I can’t always be on the forefront when I see someone intentionally thwarting a law. It is the law that you cannot have 3D-printed guns in the state of New York. And if you think it’s okay to have someone in their kitchen who may have severe mental health problems who wants to shoot up kids in your school, make a ghost gun at their kitchen table or create a munitions factory where there was none, with no regulations, no background checks, no nothing, and people broadcast that as if it’s a proper thing to do is challenge me on that, then I say go for it. Because you’re trampling in the wrong space.\nThe question I’m asking is about implementation. I understand the desire to prevent guns from being 3D-printed and I understand that probably a lot of people would prefer that not happen.\nYeah, it’s bad. It sucks. It’s wrong.\nBut implementing that means at some point the printer itself has to know “this thing is a gun and I’m not allowed to do this.”\nThat’s right.\nThat is a kind of regulation on expression. We have a case for an open source e-reader that looks like a gun that people have made just to see if it will trip the software detector. Even though it’s not a gun, it looks like a gun, and there’s some line in there that is very complicated for a government regulation to address. How do you view that? Do you want the printers to literally look at things that look like guns or do you want it to be more technical, more like a database or a registry?\nI want to make sure that we’re getting the objective I’m looking for and I’ll figure it out. As I said, I assemble the smartest people when I make decisions, especially in the area of technology where the typical government employee is not proficient. So I’m going to use the foundation I have, but then go out there and say, “Tell me how to make sure that no one can thwart what I’m trying to do here,” and I’ll get it done. If we miss the first time, I’ll do it the second time and I’ll do it the third time because I’m not going to allow this to happen. Yes, there are other restrictions that occur. I get that.\nIt’s not ideal, but I also didn’t think it was a smart idea for people to manufacture weapons of mass destruction at their kitchen table and kill kids. So I’m going to be the one who says no. I’d rather have the regulation that protects and prevents it. Use 3D printers for any kind of good. You can make all kinds of things with 3D printers. It’s not a ban on 3D printing. It is a use that is illegal because you cannot have a gun in the state of New York without having had a background check, having regulation, having it registered. We have all kinds of rules, which is one of the reasons why we are one of the safest states in America. Lowest gun homicide deaths in America. It’s extraordinary, because the rules are working. So not everyone loves rules. I get it. This is not the wild west. This is New York. We’re going to do it right.\nIf there’s a theme emerging in this conversation, it’s how much can the government watch what happens on my computer and how much can it tell me what I can do with my computer? Which is maybe a 40-year-old conversation, but it’s more and more relevant over time. We’re saying we’re going to restrict how teenagers can use their phones. We’re going to restrict what you can print on a 3D printer. The flip side of that is… I would say the backlash to surveillance is bipartisan. The backlash to Flock cameras is deeply bipartisan. It’s scrambling party lines.\nRight.\nYou’ve allocated budget for police departments to modernize, to install Flock cameras. How are you viewing that backlash to surveillance?\nI understand the anxiety around this. I truly do.\nBut you see how it’s all the same, right?\nI do not have complete regulation over someone’s use of their computer. That’s an overstatement. It just is. We have a very narrow, specific purpose and a government objective to protect young people, because the companies have gone too far. If they had put these controls in place themselves, when the data was starting to show them that this is harmful to kids, [but they didn’t]. They stopped letting their own kids use this, but let everybody else be subjected to this, knowing the harms. That’s when the government has to step in and regulate business. We don’t do it as a first position.\nMy view is more hands off. Innovate, do good things, sell your product. Great. This is called capitalism in America. A 3D printer, those are great. Until I find out they’re making guns that can kill people from them or be able to convert a Glock. Maybe it’s a legal Glock that you have registered to you, that’s great, but you can get this little piece of plastic that’s the size of a Lego and insert that and all of a sudden it can fire countless rounds per minute. Now it’s a weapon of mass destruction.\nThe government has to be watching to an extent. Watch for excesses, but not to stifle personal use, not to stifle innovation, not to stifle the companies. When they go too far or they don’t self-regulate, using data that they have internally and ignoring it, thinking they can get away with it, that’s where we are today.\nI’m just connecting the dots between “I want to use my printer in some way,” “there’s a connection to the government that says yes or no,” and how people feel about technology like Flock — “I want to drive my car too fast on the highway and an automated license plate reader is going to track that and send me a ticket in the mail.” Or “cops are going to use this in ways, good and bad, and sometimes they’re going to go over the line and there’s not enough regulation,” or “I don’t want these cameras at all.” Which is what we hear from so many people in so many communities, across party lines. Actually let me read you a quote —\nTo the extent that they’re being abused, that has to stop.\nSure. The CEO of Flock recently said to a lot of people, including The Verge, that he was wrong to assume that the regulatory process would provide protections for civil liberties. He assumed that state and local governments would provide controls for Flock to prevent things like cops over-searching the database or tracking people. Tracking a lot of ex-girlfriends, for example, is a thing that we hear about cops using Flock for. That’s a pretty stunning indictment. The state is rolling out cameras to track people without the necessary controls, and the company providing the camera is saying, “Well actually you were wrong about this.”\nThe state is not rolling these out. I give money for all kinds of technology. The localities are the ones that decide how they want that spent. I do not have a contract with Flock. That is a mischaracterization.\nBut the money provided does not come with controls?\nI use the money for overtime for police. Computers in police vehicles is primarily the main focus of this. And to the extent that there are license plate readers, that’s different from the Flock cameras which are automatically transmitting information without human intervention, which is what I object to.\nOkay.\nIf there’s a police officer that says, “This person is wanted for murder, let’s go get them,” you’d be happy if we went after them. But this is not just to have AI or a machine make an automatic referral of information to other agencies, whether it’s ICE or anybody else. That’s not what we’re talking about here in the state of New York. That’s not what we want to happen. If I need to tighten up regulations in that space, I will. I have no trouble looking—\nCan you connect that to the money that you’re allocating for this technology and say, “You have to use it this way?”\nYes, we can. We can look at it. That’s an observation. That’s new information to me, that we should be having restrictions on and how they’re using it. Absolutely.\nWhat would you ask of the CEO of Flock in order to make that job easier?\nI’d tell him to make sure that the information can only be amassed a certain way. It has to be reviewed with human eyes to make a decision on whether or not this has to be forwarded to another law enforcement agency, the FBI or someone’s wanted list. That’s basically the purpose we want it for.\nI don’t want Big Brother. I don’t want unfettered surveillance of Americans that makes them anxious. It goes against the sense of liberty that we all have and deserve to have living in this country. This is not a country where the government should be monitoring everything you do, but to the extent that we have to stop crime and thwart the criminals who are always trying to take steps ahead of us, I have to get ahead of that as well, and try to manage that or else we have a lawless society. People are getting harmed and then it’s a failure of government to intercede.\nWe’ll come to data centers, but I think data centers are doing this as well. There is some kind of realignment happening. These are not right- or left-coded issues. They’re not Democratic or Republican issues. They are scrambling that traditional very, very strong party ties that have existed for almost a decade in this country. Surveillance is one, data centers are another. Do you see that — that there’s a scrambling here?\nThere’s nothing wrong with that.\nI welcome that. I have been waiting a long time for there to be more issues that people, all Americans, can galvanize behind and find some commonality. When I’m doing roundtables around the state, and I’ve done many, I don’t know if I’m talking to Democrats or Republicans. All I know is these are people worried about what’s happening in their communities with hyperscale data centers being built, making noise, causing disruption, and consuming energy. Is that driving up their own utility bills? They’re anxious about this. \nNo, this is important. It’s an important time in our history to find that there are common interests and maybe that’s a breakthrough if you can have elected officials remind people like that: “Listen, you’re agreeing with your Republican neighbor and you’re a Democrat or vice versa.” That’s good. \nGreg Abbott, the governor of Texas, followed our leadership on the moratorium on hyperscale data centers — not the smaller ones for university research or educational institutions or healthcare institutions. We are very specific and these are the large-scale data centers. But to have the state of Texas follow our lead, that says something. That says something — that Americans overall are saying enough is enough.\nThe rudest version of this question is: Doesn’t that just say that it’s an election year?\nNo.\nYou don’t think so?\nNo. This only became an issue fairly recently in the state of New York. We were recently bombarded with 30 applications. That was the aha moment for me to say, “Wait a minute, if we powered all of these requests for approvals, how much power would I have left for everybody else in the state?” I’ll give one example: in upstate New York, there’s a county, St. Lawrence County. Five applications for data centers are pending right now. I said, “How much power would all those consume?” The equivalent of everything I would generate with one nuclear reactor. \nSo I’m trying to build more nuclear power. I want to get ahead of the game and try to reduce the cost of power, make sure we never have shortages. All the work to get one nuclear reactor would be consumed by five data centers in one of my 62 counties. You expect your government to say, “Wait a minute.”\nIf this had come up to me five years ago, I would have done it five years ago. This has nothing to do with electoral politics at all. In fact, my opponent embraces data centers. The President embraces data centers. They’re the ones on the wrong side of history on this one. If they were smart, they’d say, “You know what, the governor’s right. Let’s just stand out on this issue because our constituents are not with us on this.”\nThis is what I mean by a realignment issue. The President does embrace the data centers. He calls them, “Money printing machines,” which I think is very funny. Unclear if he knows what actually happens at a data center. But then you have, right in Texas, a similar moratorium.\nWe just ran a story about Republican voters in Florida, hardcore MAGA voters, people who organized the Stop the Steal rally saying they would not vote for Byron Donalds if he won the primary. He won the primary, he’s going to run on data centers. We’ll see if he adjusts his position, but that’s a realignment. And I’m wondering if the answer is just in a year’s time when your moratorium expires, it’ll be over and we’ll start building again, or if there’s something specific you’re looking for as a solution to bring construction back online.\nA couple of points. In one year from now, the communities in the state of New York that want to host hyperscale data centers will have far more tools at their disposal than they do today, which is what I’m trying to give them. I want them to have what I call my community investments framework. I have studied what data centers have done for communities all over America. I have a list. I know that in South Bend, Indiana, the community received $143 million of benefits. Other areas have had bonuses for teachers and supporting roads and infrastructure, energy infrastructure. \nI want our residents to know that their local elected officials have gotten the best deal they possibly can because right now, think about the negotiation that goes on between a small-town, maybe a part-time mayor, a small economic development staff, and they’re supposed to negotiate against a tech giant.\nIt’s not going well. I want to help them out. Why are there tax breaks in the state of New York for a data center? They have more money than God. They don’t need tax breaks that hurt my small farmers and my small towns. This is where they’re going. They’re not coming to New York City. These are going to rural areas, generally Republican areas, which is very interesting. But also the water consumption. Are they all using the hyperloop? Are they doing something else? Do they need to make the noise they do? Do they need to be this size? I’ve asked these questions. \nIn fact, I posed a challenge to the data companies: “You’ve created a powerful force that is changing civilization as we know it, the way we communicate, the way we work, the way we live with AI. Why don’t you ask AI how to create power that uses less energy, uses less space? Can you go vertical? Maybe you can go vertical, take up less farmland, less space, but it costs more. Well, then pay more.”\nThey’re trying to go vertical. They’re trying to go all the way up to space.\n[Laughs] Maybe the whole thing should go up to space.\nThat’s the other question. We are talking about one that’s seven miles large. Seven miles, I can’t even conceive of that. We have some already that I’ve looked at in the East Coast and they’re huge. What happens when the technology changes and they do this underwater or in space or they figure out a way to make it much smaller? Nuclear reactors can now be small modular reactors. Things change and what happens to the community when they’re left with this monstrosity left behind? You have to be thinking about this in advance.\nI told the people who work at the big AI labs that I was talking to you and I said, “What do you want to know?” Now I will concede they all think AI is a net good. They all think it’s going to be great. We have some people in our audience who do not agree with them, but speaking for them, they all think AI will be a net good. It will improve humanity. The question was, “What do you want the hyperscalers to give?” If you believe that AI progress will be a net good and inevitable, what is the ask that enables that development to happen?\nI will restate my challenge. \nI understand you need the power. I have harnessed AI in the state of New York, in state government in a way no other governor has. I have used AI to look at every single rule, regulation, policy, board, and commission.\nHas that been effective? Is that just you alone with Claude? How does that work?\nI don’t do it myself. [Laughs] I have smarter people than me that do.\nAll right. Fair enough.\nLiterally I said, “What would it take for us to look at every rule in the books? And are they smart? Are they obsolete? Are they too expensive? Are they too burdensome?” Let’s ask those questions. I like to rethink. I’m always challenging the status quo. It’s how I’m hardwired.\nLet’s look at the state government. People think it’s intractable. I say we can make it leaner, smarter, more efficient. And in literally a month, I had a list of thousands of recommendations, what would have taken five to 10 years for humans to do. I announced the first 50 already: we saved over a million and a half hours for New York businesses and individuals when it comes to filling out redundant forms. My first 50 out of thousands, saving millions of dollars in other areas.\nThere was a $25 fee to take your dog hunting with you. You had to pay for a $25,000 bond to move a mobile home on a highway. Why? Get rid of that. Why does someone have to do that? A woman could not work after midnight if she was pregnant. You had to have special permission to do that. Sending information by telegraph and telegram. I just looked at this and said, “I used AI as a force of good to rethink state government.”\nSo I’m not opposed, but I’m saying to them, “You already know what a next-generation data center looks like. It does not have to be this big. It does not have to use this much power. Figure it out now before there’s even more hostility towards you. Your public relations are dreadful by the way. No one understands what you’re trying to do and you come in like big bullies and you think you can run all over a little community, maybe you did in the early years.” They’re getting a little smarter now. They’re starting to give more community benefits, but they’ll figure it out.\nLet me ask you about this. You’re a politician in a campaign year. I hear so much from the AI labs that what they have is a marketing problem, that if people could only understand the benefits, if they communicated them more broadly, they would win far more hearts and minds and people would be all behind this build out. I personally disagree with that. Everybody sees AI overviews in Google all day long. A billion people have used ChatGPT. The products are known to people and the capabilities are known to people. Maybe there’s some set of very advanced capabilities like the things you’ve described you’ve done in government that would unlock even more.\nBut I don’t think they have a marketing problem. They have an attitude problem. To some extent they have a product problem. I don’t think the products are good enough to support the asks, and these are enormous asks as you’ve been describing. How would you handle that for them? How would you say, “Look, these are big build outs, the potential benefits to humanity are high and from the government side, here’s what you actually need to say and promise to people in order to work on this productively”?\nIt’s not that. People know the benefits. Your kid gets a bite, you’re going to take a picture and ask Claude, “Is this a tick bite or a mosquito bite? Do I need to worry about this?” The way that medicine has even been integrated into people’s lives, asking questions. It’s already being employed in a positive way for the people who want to use it in a positive way, as you’ve said. \nThe data centers, the hyperscalers, have become the physical manifestation of people’s anxiety about the future. Think about all the young people that I literally spent years myself telling, “Go into STEM careers, kids, learn science and math. You’ll have a job forever. Oh yes, study coding and computer science. The jobs are going to be there.” Guess what? Those are the jobs that are going first. People are anxious about displacement. They’re worried. They’re not opposed to advancement and technology in the future, but where do they fit into it? Government has to be addressing that anxiety. When people see the data centers, they’re thinking, “Oh geez, that’s my job that could be gone.”\n[AI labs] have to do a better job addressing the concerns that people have. Don’t make a big show about laying off 10,000 people in your company and literally tell them it’s because of AI. I had people who were displaced sitting in my office. They’re told they’re gone because of AI. That was more of a shareholders’ play to show your shareholders you’re streamlining and saving money, but that’s a lot of people’s lives you just ruined. That’s what’s going on. \nThose are the conversations that I’m hearing in places where they’ll never see a data center, like here in New York City. Their challenge is to help people see that this is not [negative]. If they can’t prove this proposition, then they’re probably going to lose the battle for the hearts and minds. But show us the jobs that can be created. What other jobs should people be going to? \nWhen I’m told that, “81% of the jobs likely to be displaced are held by women” — Women took this long to finally make it into the workplace and in significant positions or positions where it’s administrative or legal secretaries or legal assistants, even new lawyers. All the jobs that you can think of are held by women. A woman might be the primary breadwinner. If she thinks her job’s going to be gone because of AI, she’s not going to love an AI company. She’s going to say, “Wait a minute, what about me?”\nThey need to figure out what the AI future looks like. Tell us right now the skills that are required. What should I be teaching in schools? What should we say the state education department should be teaching? What courses should students be taking in college to prepare the next generation of workers, so they will not be in that displacement? We have a whole lot of people who are already in that vulnerable spot. The individuals just getting out of college, those who are mid-career, what are they supposed to do?\nI saw this personally. I’m from Buffalo. Buffalo Bills fan. I’ll put that right out here now.\nWe haven’t talked about the stadium, but we can get there.\nWe’ll get to the stadium. We saved the Bills. That’s all you need to know. They’re not in another state.\nThere you go.\nThey are the Buffalo Bills, and they weren’t going to be. But not far from there, my parents used to live in a trailer park near the steel mill. Everybody worked at the steel plant, Bethlehem Steel. It was the best job you could get. My dad worked there, my grandpa worked there, my uncles worked there. In 1982, they picked up and left town. No one thought about the workers, the 20,000 workers in my town that now just lost their livelihoods. They left.\nMy point is that I lived through that. I will not let that happen now. That’s what people are anxious about, losing their livelihoods.\nI just want to connect two dots here right at the end, because I’m really happy you brought up the idea that it’s the physical manifestation of anxiety. This is a trope, I think, in the tech industry. It’s true: data centers are big, they’re noisy. You can look at them and you can say stop. But we started out talking about all the things you might want to keep people from doing on computers, or keep computers from doing to people, maybe more importantly. Again, it’s been a decade of attempts to do this. We don’t have a privacy law in this country. There are all these things that we don’t have because of the First Amendment. We were unable to overcome the First Amendment to regulate social media in some very big, important ways.\nYou can stop a data center. The power of NIMBYism is strong in America, and the tools exist to stop it. Is this the wrong tool for the job to say we’re going to do land use and NIMBYism instead of regulating labor and employment and the future of young people more directly?\nThere are two different dynamics here, a big difference. One is the application of AI and how it’s being utilized.\nI’m asking about the mechanism. I understand the goals, but it’s the mechanism that I’m really thinking about here.\nThe mechanism of the data centers, of the power they’re creating?\nWe might want to regulate AI to make sure there are more and better jobs, or protect women in the workplace. The mechanism that we’re using to get to that outcome is we’re going to stop the data centers until they make better promises.\nSee, I don’t see it as one or the other. Both are occurring right now. But stopping the data centers is not my objective here. It is to make sure that they do it right for the communities that want it. There’s a big difference. Maybe the companies will negotiate in a way, or they might say, “I guess we didn’t need that much space,” or “Yeah, we figured out a way to make it not noisy at all. You won’t even know we’re there,” or “We’re going to do a better job shielding this.” Everyone talks about Loudoun County, Virginia…\nWe have a big story about Loudoun County coming next week. \nYou know why I know Loudoun County? Because when I said my family had to leave Buffalo because there were no jobs, guess where they went to? I’m one of six kids; four of my siblings landed in Loudoun County many years ago when it was all farmland. Now they have in the backyard of their homes these massive data centers. For a while it was like, “Wow, look at this. Our taxes can go down. We’re benefiting from this.” \nBut do you know what? After a while, the tax abatement stopped, or the benefits stopped over a length of time. Now they’re starting to see their utility bills and property taxes go up. What they were sold years ago when they were the test case of a community that had lots of data centers, believe me, there’s buyer’s remorse. Not just for my siblings, but for many people who are saying, “You know what? We didn’t get the best deal after all. What are we doing here?”\nI learned from other examples around the state, around the country, around the world, and I want to make sure that what we do in New York is based on the soundest, smartest practices. We embrace AI. Do there have to be data centers? If they have to be there, are they doing it in the best way? I’m going to challenge them.I know I’m going to keep pushing them to do better. \nWhen I first became an elected official in my small town, that’s when all the tech comms came and they all wanted their own cell tower. “Everybody’s going to want their own cell phone. We have to have our own freestanding tower.” I said, “Those are ugly. I don’t want these giant cell towers in neighborhoods and everywhere. They’re horrific.” So I said to them, “Why don’t you co-locate? Can’t you all go on one tower, you and your five competitors?” “No, that’s not possible.” “Okay. Can you go on top of a water tower? Can you go on top of a tall building?” “No, no, no. We have to…”\nSo I passed the toughest law regulating cell towers in the entire state in my small town, and I forced them to pay me for the ability. I said, “I’m going to challenge you. I’m going to get outside experts when you tell me you can’t do something, and you’re going to pay for the cost of that consultant.” They did. Guess what? They co-locate. They’re on top of water towers. My town does not have cell towers everywhere, but we were told it had to be that way because I presume it was the cheapest, the best for them, the easiest for them to just throw these up. I said, “What happens when the technology changes and you’re bouncing this off of satellites?” This was a long time ago. I said, “I don’t want to be looking at any kind of towers here.” I made them put in a bond. They had to pay money for us to be able to dismantle this and take it down, even if it’s 50 years from now.\nI know how to do this. I’ve done it before. And that’s what I’m trying to do for New York: use my experiences on how to manage this. We didn’t say no to cell phones. We said yes to cell phones. We say yes to AI, but in a way that the companies have to be challenged by the government to do it better because their own profit motives will let them do whatever’s cheapest and fastest for them. That’s not necessarily serving the public good. That’s what I have to protect.\nGovernor, you’ve given us a ton of time. You’ve answered a lot of questions here. We did go fast.\nIt’s an election year. I am very curious about this big realignment scramble. Give people your view of what to expect in this election year as surveillance, data centers, and AI scramble our traditional party lines. How do you think that’s going to play out?\nWhat is top of mind is very much the data centers nationally, and it’s fascinating to me to see that in races for Congress and governor in other states, they’re using this as a political point. I could not have foreseen that six months ago. Public opinion has shifted so quickly. But again, regardless of what happens in the election, I do think Democrats will prevail for many, many reasons. There’s so much going on, and we can get to other topics on trade wars with Canada and how it’s having an effect.\nYou brought up the Bills. I want to talk about the NFL’s antitrust exemption. But that’s for another time. [Laughs]\nCan we just talk about the fact that the Buffalo Bills stayed in Buffalo? I fought hard.\nLook, I’m a Packers fan. What do you think the Bears should do? We got another hour on that.\nI actually like small-town markets. I like the Packers. I used to follow them closely. Way before you were born, I was a big AFC fan. The Bills used to play the Packers all the time. So we can talk sports anytime.\nBut I just want to leave people with this sense. I believe that Democrats will take back the House and the Senate and position themselves to take back the White House, but we have to do it in a smart way that shows that we are attuned to the anxieties of Americans. I know that people are very anxious about their future, their jobs, how they’re going to take care of their families in a world where AI seems to be so ever-present, and it is that data center that scares them. We can do more to shape that, make sure that people understand that’s in one sense a necessary evil, but that evil doesn’t have to be as evil as it is. Make it less evil, and people will adapt and adjust and understand this. \nThe companies are complicit in this sense of, “We can do what we want because we’re so big.” Americans, when they go to vote, want people who are going to stand up and not just roll over. They have a president and Republicans in Congress, my Republican opponent, who are rolling over trying to convince people that, “No, this is good,” when in fact you have people like me and some others who are saying, “Let’s do this smart. Let’s be thoughtful about this. I’m not going to roll over. I don’t roll over for anybody.” That’s the impact on the elections. Democrats are going to win.\nGovernor, thank you so much for your time. Thank you for implying that I’m young. That was very nice of you. I really appreciate it.\n[Laughs] It’s all relative, right?\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-08-31T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute spreche ich mit der Gouverneurin von New York, Kathy Hochul, und ich möchte Sie nur warnen – diese Episode geht wirklich schnell voran. Es ist schließlich ein Wahljahr, in dem schockierend viel Technologiepolitik auf dem Spiel steht, und Gouverneur Hochul hat zu fast allen wichtigen Technologiethemen starke Positionen vertreten. Zum Beispiel: Ich...",
-    "titleDE": "New Yorks Gouverneurin Kathy Hochul meint, KI sollte „weniger böse“ sein"
-  },
-  {
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "description": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and platforms.\nAlong with ChatGPT, the European Commission also announced that Reddit and Roblox are considered Very Large Online Platforms, subjecting them to the same rules. The DSA restricts platforms from targeting ads to minors or using a person's sexual orientation, religion, ethnicity, or political beliefs. …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-31T13:27:36.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI wird bald dafür verantwortlich gemacht, die Risiken im Zusammenhang mit den Auswirkungen von ChatGPT auf Minderjährige, die psychische Gesundheit der Benutzer und die Verbreitung illegaler Inhalte in der Europäischen Union zu mindern. Das liegt daran, dass ChatGPT jetzt gemäß dem Digital Services Act der EU, einer Reihe von Gesetzen, als sehr große Online-Suchmaschine gilt ...",
-    "titleDE": "ChatGPT muss sich einer strengeren Regulierung in der EU stellen"
-  },
-  {
-    "title": "Instagram cracks down on AI accounts pretending to be human",
-    "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-    "description": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez\t\n\nInstagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \n\"We've heard that people don't like seeing a profile that seems human, only to find out later that the person featured is AI-generated,\" said Instagram in a blog post. \"They want to know when a profile features an AI-generated person.\"\nTo that end, Instagram will be hunting down accounts that don't self-label their AI-generated profiles, and penalize them by limi …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-31T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "„KI-Ersteller“-Konten wie Aitana Lopez erhalten die neue Bezeichnung „KI-generiertes Profil“. | Bild: Aitana Lopez Instagram unternimmt endlich Schritte, um der Zunahme gefälschter KI-Influencer-Konten entgegenzuwirken, die immer schwerer zu erkennen sind. Außerdem wird die Bezeichnung „KI-Ersteller“ in „KI-generiertes Profil“ umbenannt, um …",
-    "titleDE": "Instagram geht hart gegen KI-Konten vor, die vorgeben, ein Mensch zu sein"
-  },
-  {
-    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-    "description": "Circleback is also introducing new pricing plans starting from $14 per month.",
-    "pubDate": "2026-08-31T12:56:46.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Circleback führt außerdem neue Preispläne ab 14 US-Dollar pro Monat ein.",
-    "titleDE": "Der Meeting-Notizschreiber Circleback fügt eine kostenlose Stufe hinzu, um mehr Kunden anzulocken"
   },
   {
     "title": "OpenAI supports California’s bill to advance youth AI safety",
@@ -170,46 +590,6 @@
     "titleDE": "Ein Meilenstein bei der Erweiterung des Zugangs zu KI"
   },
   {
-    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-    "pubDate": "2026-08-31T02:34:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die USA schließen mehr im Ausland hergestellte Drohnen und Roboter aus. Die Größe Chinas bedeutet, dass sich die globale Konkurrenz möglicherweise einfach woanders hin verlagert.",
-    "titleDE": "Die USA bauen Barrieren gegen Drohnen und Roboter auf, aber China verfügt über die nötigen Mittel, um diese zu umgehen"
-  },
-  {
-    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-    "pubDate": "2026-08-30T16:54:25.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Elon Musk sagt, dass eine geheime neue SpaceX-Gießerei es ihm ermöglichen wird, seine eigenen Turbinenschaufeln zu gießen und Gasstrom 18 Monate schneller als jeder andere ans Netz zu bringen – aber es ist eine Wette auf eine Treibstoffquelle, die bereits Klagen und Gesundheitsstudien überall dort auslöst, wo seine (und die anderer) Turbinen eingesetzt wurden.",
-    "titleDE": "Musks schnellerer Weg zu mehr Gasturbinen bringt Probleme mit der Umweltverschmutzung mit sich"
-  },
-  {
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-    "description": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft.\nFlock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally charged for misusing Flock systems, including at  …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-30T15:35:10.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Während der Widerstand gegen die KI-Überwachungskameras von Flock zunimmt, hat der Gouverneur von Texas, Greg Abbott, die Staatsausgaben dafür eingefroren. Der Schritt erfolgte kurz vor der Veröffentlichung einer Untersuchung der Texas Tribune, die ergab, dass der Staat über 30 Millionen US-Dollar für Flock-Kameras ausgegeben hatte. Dieses Geld wurde hauptsächlich von Tacki aufgebracht...",
-    "titleDE": "Der Gouverneur von Texas, Abbott, blockiert die Finanzierung weiterer Flock-Kameras"
-  },
-  {
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-    "pubDate": "2026-08-30T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Caterpillar hat Jahrzehnte damit verbracht, autonome Maschinen an abgelegenen Bergbaustandorten zum Einsatz zu bringen. Jetzt bringt es diese Erfahrung in die KI-Bereitstellung ein.",
-    "titleDE": "Caterpillar bringt in die KI-Bereitstellung ein, was es aus der Automatisierung des Bergbaus gelernt hat"
-  },
-  {
     "title": "Inside Meta’s push to put robots to work in data centers",
     "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
     "description": "The company is testing robots on tasks that can performed by technicians.",
@@ -220,136 +600,6 @@
     "titleDE": "Inside Metas Vorstoß, Roboter in Rechenzentren zum Einsatz zu bringen"
   },
   {
-    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-    "pubDate": "2026-08-29T18:41:59.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Diese jüngste Klage ist besonders weitreichend und konzentriert sich auf den Vorwurf der illegalen Piraterie.",
-    "titleDE": "Sony Music und Warner verklagen Anthropic wegen einer „dreisten Kampagne“ zum Diebstahl geistigen Eigentums"
-  },
-  {
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-    "description": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple la …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-29T18:19:53.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sony Music Publishing und Warner Chappell haben beim US-Bezirksgericht für den nördlichen Bezirk von Kalifornien Klage gegen Anthropic eingereicht und fordern Schadensersatz für „Zehntausende“ urheberrechtlich geschützte Werke. Die Unternehmen verlangen bis zu 150.000 US-Dollar pro Arbeit, plus bis zu 25.000 US-Dollar für jede Instanz, wenn sie identifiziert werden.",
-    "titleDE": "Sony Music Publishing und Warner Chappell verklagen Anthropic"
-  },
-  {
-    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-    "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-    "pubDate": "2026-08-29T17:51:10.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Investoren, Gründer und Betreiber aus ganz Europa kamen zur jährlichen Nordic TechBBQ-Konferenz, um darüber zu sprechen, wie Menschen über KI entscheiden können.",
-    "titleDE": "Beim TechBBQ drehten sich die europäischen KI-Gespräche immer wieder um die Frage: Wer hat eigentlich die Kontrolle?"
-  },
-  {
-    "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-    "pubDate": "2026-08-29T17:36:47.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Vijay Pande – der letztes Jahr die rund 4 Milliarden US-Dollar teure Biotech-Praxis von a16z verließ, um das viel kleinere, KI-native VZVC zu gründen – spricht darüber, warum sich die Biologie endlich von einer „Entdeckungs“-Wissenschaft zu einer „Ingenieurwissenschaft“ verlagert, warum klinische Studien immer noch enorm teuer sind und warum er denkt, dass offene, gemeinsame Daten...",
-    "titleDE": "„Wir machen nicht 30 Wetten pro Jahr“: Vijay Pande über kleine Wetten, nachdem er bei a16z 4 Milliarden US-Dollar erzielt hat"
-  },
-  {
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "pubDate": "2026-08-29T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neue Generation von Rechenzentrumssystemen steigert die Effizienz durch intelligentere Verkehrssteuerung statt nur durch mehr Prozessorzyklen.",
-    "titleDE": "Der KI-Vorteil von Nvidia geht über die GPU hinaus"
-  },
-  {
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. \nFor musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and what isn't feels particularly urgent and personal …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-29T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Da audiofokussierte generative Tools und Plattformen immer ausgefeilter werden, ist das Internet zunehmend mit KI-generierter Musik gefüllt, deren Melodien und Gesang algorithmisch aus der Arbeit menschlicher Künstler abgeleitet werden. Während einige der Leute diese Art von Inhalten sofort veröffentlichen ...",
-    "titleDE": "Musiker, die zu Detektiven wurden, sind auf der Jagd nach KI-Greifern"
-  },
-  {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "pubDate": "2026-08-28T20:24:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Neocloud Lambda hat 1 Milliarde US-Dollar an privaten Schulden aufgenommen, um Nvidia-KI-Chips zu kaufen und sie an Microsoft zu leasen. Es ist das jüngste in einer Reihe von Krediten und unterstreicht die hohen Kosten des KI-Booms.",
-    "titleDE": "Neocloud Lambda sichert sich Schulden in Höhe von 1 Milliarde US-Dollar, um weitere Chips zu kaufen"
-  },
-  {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "pubDate": "2026-08-28T19:30:38.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anhand von 10 Benchmarks für bestimmte Fehlverhalten konnten die automatisierten Systeme die Leistung bei jedem einzelnen verbessern, ohne die Gesamtleistung zu beeinträchtigen.",
-    "titleDE": "Ein Anthropic-Forscher hat uns gerade einen Einblick in die sich selbst verbessernde KI gegeben"
-  },
-  {
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "description": "There's a lot of capital pouring into the business of giving models away.",
-    "pubDate": "2026-08-28T18:19:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Es fließt viel Kapital in das Geschäft, Models zu verschenken.",
-    "titleDE": "Offene KI-Unternehmen sind die heißesten Übernahmeziele im Valley"
-  },
-  {
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "description": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned. \n\"You can see why that would be so interesting to an administration that wants to rush through the …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-28T16:28:40.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Gerade als neue Rechenzentren mit zunehmendem Widerstand von Nachbargemeinden konfrontiert werden, ist die US-Umweltschutzbehörde (EPA) dabei, es den Menschen schwerer zu machen, sich zu der durch diese Zentren verursachten Umweltverschmutzung zu beschweren. Die EPA plant die Abschaffung einer Bundesvorschrift, die eine öffentliche Bekanntmachung und die Möglichkeit zur Mitwirkung vorschreibt.",
-    "titleDE": "Trumps EPA möchte, dass Rechenzentren ihre Luftverschmutzung verbergen"
-  },
-  {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-    "pubDate": "2026-08-28T12:46:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Ein Bundesrichter entschied, dass die Trump-Regierung Anthropic rechtswidrig als Lieferkettenrisiko eingestuft habe, und bescherte dem KI-Unternehmen einen Sieg, während seine zweite Pentagon-Klage in Washington weitergeht.",
-    "titleDE": "Anthropic gewinnt zum ersten Mal vor Gericht gegen das Lieferkettenrisiko-Label des Pentagon"
-  },
-  {
-    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the…",
-    "pubDate": "2026-08-28T12:35:27.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein Startup behauptet, es habe ein Medikament gefunden, das das Blut jung macht –Antonio Regalado Ich wusste, dass ich offiziell ein „Langlebigkeits-Influencer“ werden würde, als ein Unternehmen namens Generati …",
-    "titleDE": "Der Download: ein geheimes Anti-Aging-Medikament und der Beitritt zu virtuellen Kraftwerken"
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-    "pubDate": "2026-08-28T12:21:06.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sandhya Devanathan wird in ihrer neuen Rolle einige OpenAI-Operationen in Südostasien und Australien beaufsichtigen.",
-    "titleDE": "Der Meta-Manager wechselt zu OpenAI, da der Social-Media-Riese in Indien immer stärker ins Visier genommen wird"
-  },
-  {
     "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
     "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
     "description": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
@@ -358,225 +608,5 @@
     "category": "news",
     "descriptionDE": "Die Gruppe infizierte mehr als 1.000 Organisationen in einer unerbittlichen Angriffskampagne auf die Lieferkette.",
     "titleDE": "Behörden nehmen zwei mutmaßliche Mitglieder der produktiven Hackergruppe TeamPCP fest"
-  },
-  {
-    "title": "How to sign up for a virtual power plant—and decide whether you should",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "description": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
-    "pubDate": "2026-08-28T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Die How-To-Reihe von MIT Technology Review hilft Ihnen dabei, Ihre Aufgaben zu erledigen. Ihr Thermostat sieht möglicherweise nicht wie ein Kraftwerk aus. Das Gleiche gilt für Ihr Elektrofahrzeug, Ihre Heimbatterie oder Ihr HVAC-System. Doch Versorgungs- und Energieunternehmen möchten sie zunehmend wie ein Unternehmen behandeln. Ein virtuelles Kraftwerk oder VPP ist eine Sammlung...",
-    "titleDE": "So melden Sie sich für ein virtuelles Kraftwerk an – und entscheiden, ob Sie das tun sollten"
-  },
-  {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-    "pubDate": "2026-08-28T06:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Unsere Entscheidung, unseren Vertrag über die Bereitstellung von OpenAI-Modellen für Cursor nach der Übernahme durch SpaceX aufzulösen.",
-    "titleDE": "Unsere Entscheidung für Cursor nach der Übernahme durch SpaceX"
-  },
-  {
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "description": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. \nThe lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red lines,\" or unacceptable military use cases of its AI technology. \n\"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the ruling …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-28T03:14:06.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Am Donnerstag entschied ein Richter, dass die schwarze Liste von Anthropic durch das Pentagon zu Beginn dieses Jahres verfassungswidrig sei und bescherte dem KI-Labor einen Sieg in einem monatelangen Achterbahnkampf mit der Trump-Regierung. Die im März bei einem kalifornischen Bezirksgericht eingereichte Klage beschuldigte die Trump-Administration ...",
-    "titleDE": "Anthropic wurde von der Trump-Administration illegal auf die schwarze Liste gesetzt, urteilt das Gericht"
-  },
-  {
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-    "pubDate": "2026-08-28T02:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI und Thailands MHESI starten einen achtwöchigen Accelerator, der zehn Startups aus den Bereichen Gesundheit, Wellness und Bildung dabei hilft, KI-Prototypen in vertrauenswürdige Produkte umzuwandeln.",
-    "titleDE": "Unterstützung der nächsten Generation von KI-Startups in Thailand"
-  },
-  {
-    "title": "A startup claims it’s found a drug to make your blood young",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "description": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that…",
-    "pubDate": "2026-08-27T19:48:13.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Ich wusste, dass ich diesen Monat offiziell ein „Langlebigkeits-Influencer“ werden würde, als sich ein Unternehmen namens Generation Lab meldete und mir die Chance bot, über ihre neue Verjüngungsbehandlung zu schreiben – und sie sogar zu erhalten – eine injizierbare Kombination aus zwei vorhandenen Medikamenten, die sie 1 Generation nennen. Das war nicht nur ein...",
-    "titleDE": "Ein Startup behauptet, ein Medikament gefunden zu haben, das das Blut jung macht"
-  },
-  {
-    "title": "Google’s AI note-taking app now allows you to interact with books",
-    "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-    "description": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their contents.\nDuring a briefing with The Verge, Google Labs editorial director Steven Johnson showed how you can use the tool to generate a recipe book using the information in Michael Pollan's Food Rules. In another example, Gemini Notebook applied the knowledge from Kim Scott's management-focus …\nRead the full story at The Verge.",
-    "pubDate": "2026-08-27T19:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die KI-Notiz-App von Google, Gemini Notebook, kann jetzt Informationen aus den von Ihnen gekauften Büchern abrufen. Mit der neuen Funktion „Expert Intelligence“ können Sie Titel aus Google Play Books direkt in Gemini Notebook importieren, sodass Sie Fragen zum Material stellen und Pla...",
-    "titleDE": "Mit der KI-Notizen-App von Google können Sie jetzt mit Büchern interagieren"
-  },
-  {
-    "title": "3 new ways to plan and book travel in Search",
-    "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-    "pubDate": "2026-08-27T16:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Buchen Sie Hotels, verfolgen Sie Flugpreise und sehen Sie sich Meilen und Prämien im AI-Modus in der Google-Suche an.",
-    "titleDE": "3 neue Möglichkeiten, Reisen in der Suche zu planen und zu buchen"
-  },
-  {
-    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
-    "pubDate": "2026-08-27T14:00:13.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "In Unternehmensdokumenten wurden 227 Installationsbefehle gefunden, die auf Code verweisen, der niemandem gehört.",
-    "titleDE": "Claude, Codex und Hermes haben unbekannten Code in Unternehmensnetzwerken installiert"
-  },
-  {
-    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-    "description": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-    "pubDate": "2026-08-27T12:58:59.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Ohne Genehmigung haben sich 1.200 OpenAI-Agenten untereinander verschworen, um einen Test durchzuführen.",
-    "titleDE": "Wie OpenAI eine Horde von LLM-Agenten einen Test durchführen und Hugging Face plündern ließ"
-  },
-  {
-    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-    "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
-    "pubDate": "2026-08-27T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Insider-Geschichte darüber, warum OpenAI-Agenten Hugging Face gehackt haben. Die Modelle, die letzten Monat für den Agenten-Hack von Hugging Face verantwortlich waren, waren versehentlich darauf trainiert worden, ...",
-    "titleDE": "Der Download: Inside OpenAIs Hugging Face-Hack, und ein neues Elektrofahrzeug tritt gegen die USA an"
-  },
-  {
-    "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-    "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-    "description": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.  One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems…",
-    "pubDate": "2026-08-27T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Elektrofahrzeuge machen weniger als 10 % aller Neuwagenverkäufe in den USA aus, und die Zahlen sind rückläufig. Aus klimatischer Sicht ist das ziemlich düster, insbesondere weil der Transportsektor die größte Quelle von Treibhausgasemissionen im Land ist. Eine Sache, die helfen könnte, das zu ändern...",
-    "titleDE": "Ist der neue Elektro-Lkw von Slate Auto das, was die Elektroauto-Amerikaner brauchen?"
-  },
-  {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "pubDate": "2026-08-27T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Eine randomisierte Studie mit mehr als 1.000 Studenten untersucht ChatGPT, kritisches Denken, Originalität und Studentenleistung bei einer realen Universitätsaufgabe.",
-    "titleDE": "Bessere Antworten, umfassenderes Denken: Was Schüler von ChatGPT und der Schulung zum kritischen Denken profitieren"
-  },
-  {
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "pubDate": "2026-08-27T03:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI erweitert seine Präsenz in Brasilien und vertieft die Zusammenarbeit mit Entwicklern, Unternehmen und Communities, um die Einführung von KI im ganzen Land zu unterstützen.",
-    "titleDE": "Ausbau der Präsenz von OpenAI in Brasilien"
-  },
-  {
-    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-    "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "description": "Report shows Meta's challenges replacing people with AI agents.",
-    "pubDate": "2026-08-26T21:25:27.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Der Bericht zeigt die Herausforderungen von Meta, Menschen durch KI-Agenten zu ersetzen.",
-    "titleDE": "KI-Agenten, die Meta-Mitarbeiter ersetzen sollten, führten „groß angelegte, störende Aktionen“ durch"
-  },
-  {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "description": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-    "pubDate": "2026-08-26T19:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Laut einem heute veröffentlichten technischen Bericht von OpenAI waren die Modelle, die für den Agenten-Hack von Hugging Face im letzten Monat verantwortlich waren, versehentlich darauf trainiert worden, zu betrügen und miteinander zu kommunizieren. Der Hack, den eine Gruppe von Agenten durchführte, um Lösungen für einen von ihnen durchgeführten Cybersicherheitstest zu finden...",
-    "titleDE": "Die Insider-Geschichte darüber, warum OpenAI-Agenten Hugging Face gehackt haben"
-  },
-  {
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
-    "pubDate": "2026-08-26T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wir stellen vor: das Kinderthema. War der Wunsch, die Nutzung von Technologie durch Kinder einzuschränken, einst eine Nebenströmung, ist er zu einer rasenden Flut geworden. Länder auf der ganzen Welt sind verboten...",
-    "titleDE": "Die Ausgabe „Download: the Kids“ erscheint und Bill Gates offenbart seine KI-Ängste"
-  },
-  {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "pubDate": "2026-08-26T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "ChatGPT for Teachers wird auf 55 US-Schulsysteme ausgeweitet und bietet sichere KI-Tools, Schulungen und Support für über 100.000 weitere Pädagogen und Mitarbeiter.",
-    "titleDE": "Einführung von ChatGPT für Lehrer in mehr US-Schulbezirken"
-  },
-  {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
-    "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "pubDate": "2026-08-26T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Der neue Bericht von OpenAI untersucht, wie Schüler und Lehrkräfte ChatGPT nutzen, um das Lernen kontinuierlicher zu gestalten und dabei Unterstützung zu bieten, die über das Klassenzimmer hinausgeht.",
-    "titleDE": "Lernen hört nie auf: Wie KI das Lernen kontinuierlich macht"
-  },
-  {
-    "title": "Raised on AI",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.  Fast-forward a couple…",
-    "pubDate": "2026-08-26T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als mein ältestes Kind geboren wurde, richtete ich sofort Gmail- und Twitter-Konten auf ihren Namen ein. Ich gab ihre Geburt im Internet bekannt und verbreitete ihr Foto auf allen möglichen Plattformen. Kurz gesagt, ich habe damit begonnen, ihren digitalen Fußabdruck zu erstellen, lange bevor sie auf eigenen Beinen stehen konnte. Schnell...",
-    "titleDE": "Mit KI aufgewachsen"
-  },
-  {
-    "title": "The Hugging Face incident and the road ahead",
-    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "description": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "pubDate": "2026-08-26T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI teilt Erkenntnisse aus dem Sicherheitsvorfall Hugging Face und die Schritte, die wir unternehmen, um die Sicherheit, Überwachung und Ausrichtung des KI-Modells zu stärken.",
-    "titleDE": "Der Hugging-Face-Vorfall und der weitere Weg"
-  },
-  {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "link": "https://openai.com/index/loveholidays",
-    "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "pubDate": "2026-08-26T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie, wie loveholidays OpenAI Codex nutzt, um Softwareentwicklung im gesamten Unternehmen zugänglich zu machen und Teams dabei zu helfen, Ideen schneller in Produkte umzusetzen.",
-    "titleDE": "Wie Loveholidays mit Codex jeden zum Baumeister macht"
-  },
-  {
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "description": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-    "pubDate": "2026-08-25T16:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Sie die Google-Suchtools nutzen, um Inspiration für die Inneneinrichtung zu finden, Möbel zu kaufen und DIY-Projekte in Angriff zu nehmen.",
-    "titleDE": "5 Möglichkeiten, Ihre Inneneinrichtung mit der Google-Suche aufzuwerten"
   }
 ]
