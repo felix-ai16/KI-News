@@ -1,5 +1,185 @@
 [
   {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "description": "The round is being raised just months after the robot data startup exited from stealth.",
+    "pubDate": "2026-09-04T23:36:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Runde wird nur wenige Monate, nachdem das Roboterdaten-Startup die Tarnung verlassen hat, erhöht.",
+    "titleDE": "XDOF, das erst seit drei Monaten aus der Tarnung entlassen wurde, befindet sich in Verhandlungen über eine Serie B mit einer Bewertung von 1,2 Milliarden US-Dollar"
+  },
+  {
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "pubDate": "2026-09-04T23:15:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der jüngste Agentenschwarm-Vorfall bei OpenAI erhöht die Dringlichkeit der Forderungen nach unabhängigen Untersuchungen, da Forscher und Gesetzgeber sich fragen, ob KI-Labore den Umfang ihrer eigenen Sicherheitsüberprüfungen kontrollieren sollten.",
+    "titleDE": "Die abtrünnigen Agenten von OpenAI entkommen immer wieder, ohne dass ein formelles Verfahren zu ihrer Untersuchung vorliegt"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+    "pubDate": "2026-09-04T22:17:36.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Insgesamt haben 3.700 interne Agenten 18.000 Nachrichten gepostet, in denen es um Betrug bei einem Test ging.",
+    "titleDE": "OpenAI-Agenten diskutierten im öffentlichen Wiki Möglichkeiten, ihrer Sandbox zu entkommen"
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "pubDate": "2026-09-04T21:12:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nscale, das kürzlich einen 45-Milliarden-Dollar-Deal mit Anthropic abgeschlossen hat, befindet sich in Gesprächen, um im Hinblick auf einen bevorstehenden Börsengang zusätzliche Mittel aufzubringen.",
+    "titleDE": "Der KI-Rechneranbieter Nscale sucht nach einer Pre-IPO-Finanzierung in Höhe von 3,5 Milliarden US-Dollar"
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+    "pubDate": "2026-09-04T18:39:19.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Ära der KI-Inferenz ist angebrochen. Stellen Sie sich ein Gesundheitssystem vor, das Millionen von Datenpunkten in Echtzeit analysiert, um lebensrettende medizinische Forschung zu beschleunigen, oder einen intelligenten Assistenten, der sofort Tausende komplexer Kundenbedürfnisse auf einmal löst. Diese Durchbrüche in der realen Welt basieren auf fortschrittlicher Inf...",
+    "titleDE": "Architektur von Speicher und Speicher im KI-Zeitalter"
+  },
+  {
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "description": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that.\nUnlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with vocals and full arrangements. Instead, it offers …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T17:51:35.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Es ist nicht ganz das „Push-Button-Get-Song“ von Suno, aber Rolands neues Melody-Flip-Tool markiert den Vorstoß des Unternehmens in die generative KI-Musik. Melody Flip ist als Plug-in für Ihre digitale Audio-Workstation (DAW) erhältlich und bietet rund 250 „Palettes“, bei denen es sich im Wesentlichen um thematische Sammlungen musikalischer Ideen handelt.",
+    "titleDE": "Roland steigt mit Melody Flip in die generative KI-Musik ein"
+  },
+  {
+    "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+    "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "description": "Broadcom admits it put “too big a focus on VCF.”",
+    "pubDate": "2026-09-04T17:35:02.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Broadcom gibt zu, dass man „einen zu großen Fokus auf VCF“ gelegt habe.",
+    "titleDE": "„Vertrauen, nicht Funktionen, ist das eigentliche Defizit“: VMware versucht, KMUs zu besänftigen"
+  },
+  {
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "description": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+    "pubDate": "2026-09-04T17:18:12.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Ein einst übersehener Unicode-Block, der für den Menschen unsichtbar ist, wird immer häufiger eingesetzt.",
+    "titleDE": "Der ASCII-Schmuggel, der einst für Angriffe auf KI beliebt war, wird von Spammern genutzt"
+  },
+  {
+    "title": "What will Apple’s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+    "pubDate": "2026-09-04T17:18:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es ist offiziell die Ternus-Ära bei Apple. Tim Cook trat diese Woche als CEO zurück und übergab das Unternehmen an den ehemaligen Hardware-Chef John Ternus, dessen erstes Memo einen „großen Start nächste Woche“ versprach – ein Zeitpunkt, der Apples nächstes iPhone-Event auf seinen Schreibtisch legt, bevor er sich überhaupt eingelebt hat. Cook kommt nicht weit, d...",
+    "titleDE": "Wie wird Apples John-Ternus-Ära aussehen?"
+  },
+  {
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "pubDate": "2026-09-04T16:21:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es handelt sich um den jüngsten Fehler der internen Überwachungs- und Sicherheitssysteme von OpenAI.",
+    "titleDE": "Ein weiterer Schwarm von OpenAI-Agenten gelangte ohne Wissen des Grenzlabors ins offene Internet"
+  },
+  {
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "description": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors.\nAs part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen \"because they hit on keywords implicating use of News Plaintiffs' websites, and therefore the most likely to contain News Plaintiffs' works.\" It says the resulting analysis shows that 59,545 …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T16:05:57.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Microsofts Copilot reproduziert selten auch nur vollständige Sätze aus Nachrichtenartikeln und Büchern, geschweige denn inhaltliche Teile, die das Original ersetzen könnten, so das Unternehmen in neuen rechtlichen Einreichungen, während es Urheberrechtsansprüche von Verlagen wie der New York Times und Buchautoren bekämpft. Im Rahmen d...",
+    "titleDE": "Microsoft sagt, dass praktisch niemand NYT-Artikel über seinen Chatbot abgerufen hat"
+  },
+  {
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+    "pubDate": "2026-09-04T16:04:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es ist offiziell die Ternus-Ära bei Apple. Tim Cook trat diese Woche als CEO zurück und übergab das Unternehmen an den ehemaligen Hardware-Chef John Ternus, dessen erstes Memo einen „großen Start nächste Woche“ versprach – ein Zeitpunkt, der Apples nächstes iPhone-Event auf seinen Schreibtisch legt, bevor er sich überhaupt eingelebt hat. Cook kommt nicht weit, d...",
+    "titleDE": "Apples Ternus-Ära beginnt, als Nvidia auf den gesamten KI-Stack setzt"
+  },
+  {
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "pubDate": "2026-09-04T14:47:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Gemini Spark kann Fotoalben bearbeiten und kuratieren, gemeinsame Sammlungen erstellen, Fotos in Kalenderereignisse umwandeln und andere Google Fotos-Aufgaben für AI Pro- und Ultra-Abonnenten erledigen.",
+    "titleDE": "Gemini Spark von Google kann jetzt Ihre Google Fotos-Bibliothek verwalten"
+  },
+  {
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "pubDate": "2026-09-04T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es bleiben weniger als 24 Stunden, um sich für die Ausrichtung eines Side Events während TechCrunch Disrupt 2026 zu bewerben und sich in der Silicon Valley-Szene einen Namen zu machen. Bewerben Sie sich, bevor die Bewerbung heute Abend um Mitternacht PT endet.",
+    "titleDE": "Weniger als 24 Stunden, um sich für Ihr TechCrunch Disrupt 2026 Side Event zu bewerben"
+  },
+  {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "description": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. \nThe incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T13:34:12.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Berichten zufolge hat ein Schwarm betrügerischer KI-Agenten von OpenAI eine deutsche Website beschlagnahmt und sie in ein Nachrichtenforum für andere Agenten umgewandelt. Die Behörden schwiegen über den Vorfall wochenlang, während das Unternehmen sich auf die Einführung seines bisher fortschrittlichsten Modells, Astra, vorbereitete. Der Befund trägt zur Intensivierung bei...",
+    "titleDE": "Betrügerische OpenAI-Agenten scheinen mithilfe eines deutschen Wikis einen weiteren Angriff organisiert zu haben"
+  },
+  {
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+    "pubDate": "2026-09-04T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Daten von Drohnen in der Ukraine befeuern einen neuen Wild-West-Marktplatz – Cory Alpert, ein Forscher an der University of Melbourne, der die Auswirkungen von KI auf die Demokratie untersucht, wo...",
+    "titleDE": "Der Download: Verkauf von Schlachtfeld-Drohnendaten und KI-Umgestaltung der Sprache"
+  },
+  {
+    "title": "Instagram’s AI detection is a mess (again)",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "description": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all.\nThe precise causes of this tagging seem to vary. Many people said the label appeared on images that were edited using tools like Canva's Background Remover or with negl …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die sichtbaren KI-Labels von Instagram sollen Menschen dabei helfen, synthetisch generierte Inhalte schnell auf einen Blick zu erkennen. In den letzten Wochen berichteten Benutzer jedoch, dass das System durcheinander geraten sei. Sie sagen, Meta habe den Bildern, die sie erstellt haben, automatisch die Bezeichnung „KI-Inhalt“ hinzugefügt …",
+    "titleDE": "Die KI-Erkennung von Instagram ist (wieder) ein Chaos"
+  },
+  {
+    "title": "Why AI food looks like that",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "description": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading as brains, and other masonry-adjacent cuisine. I don't even know how to begin describing this monstrous attempt of a burger, and the less said about the trypophobic burrito from hell, grubs and all, the better. There are lumps. And holes. So many holes.\n\n\"Diffusion mo …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-09-04T11:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Es gibt eine Flut von unappetitlichem Mist von Restaurants, Cafés und Marken, die zunehmend auf KI zurückgreifen, um Bilder zu erstellen, die für ihr Essen werben. Die daraus resultierende Horrorshow umfasst Donut-Garnelen, Reubens aus den tiefen, wurmartigen Nudeln sowie nudelartiges Gebäck und fadenförmiges Hühnchen. Da...",
+    "titleDE": "Warum KI-Lebensmittel so aussehen"
+  },
+  {
     "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
     "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
     "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\n\"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and developer at Microsoft. \"On these devices, developers can run 30B+ parameter models locally and unmetered - accelerating experimentation while helping …\nRead the full story at The Verge.",
@@ -12,7 +192,7 @@
   {
     "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
     "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-    "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly-defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
+    "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
     "pubDate": "2026-09-04T10:41:48.000Z",
     "source": "The Verge",
     "category": "news",
@@ -77,7 +257,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Der Jahresumsatz des hochkarätigen Startups liegt bei über 100 Millionen US-Dollar.",
-    "titleDE": "Berichten zufolge führt Accel Gespräche über die Leitung einer 1-Milliarden-Dollar-Runde für Thinking Machines mit einem Wert von 40 Milliarden US-Dollar"
+    "titleDE": "Berichten zufolge führt Accel Gespräche über die Leitung einer 1-Milliarden-Dollar-Runde für Thinking Machines mit einem Wert von 40 Milliarden Dollar"
   },
   {
     "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
@@ -150,36 +330,6 @@
     "titleDE": "Nvidia bringt kostenloses Tool auf den Markt, das inaktive Computer mit einem persönlichen KI-Rechenzentrum verbindet"
   },
   {
-    "title": "Google now lets you chat with Gmail, Docs, and Keep",
-    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-    "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down or find specific information when you're on the move or unable to do so manually.\nGmail Live is primarily designed to surface details from your inbox without you having to dig through lengthy email threads using keywords or subject lines. For example, Google says that you can ask questions like \"when is my kid's next school eve …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-03T16:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google führt KI-gestützte Sprachassistentenmodi für Gmail, Docs und Keep ein, mit denen Sie die Apps verwalten können, indem Sie mit ihnen sprechen. Die Echtzeit-Konversationsfunktionen heißen Gmail Live, Docs Live und Keep Live und zielen wie das Gemini Live-Erlebnis für den Chatbot von Google darauf ab, es einfacher zu machen...",
-    "titleDE": "Mit Google können Sie jetzt mit Gmail, Docs und Keep chatten"
-  },
-  {
-    "title": "ChatGPT, Grok, and Claude all went down at the same time",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-    "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\"\nIn addition to preventing users from having conversations with ChatGPT, the outage affected logins, file uploads, voice mode, search, deep research, image generation, and more. The incident occurred while OpenAI teased the launch of Astra, its new AI model.\nMeanwhile, Anthropic's Claude chatbot, Claude Code, and the Claude …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-03T15:35:14.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "ChatGPT von OpenAI, Grok von xAI und Claude von Anthropic sind wieder online, nachdem am Donnerstag bei allen etwa zur gleichen Zeit Probleme auftraten. Gegen 11 Uhr ET begann ChatGPT damit, Fehlermeldungen für Benutzer zurückzugeben, die versuchten, den Chatbot zu verwenden. Auf der Statusseite stand, dass es „erhöhte Fehler bei …“ gab.",
-    "titleDE": "ChatGPT, Grok und Claude gingen alle gleichzeitig zu Boden"
-  },
-  {
-    "title": "Google says its AI weather model is getting better",
-    "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-    "description": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nIn the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five times sharper than Google's previous model by learning from real-time weather observations, according to the company.\n\"One of the main developments is for [WeatherNext 3] to go beyond what data most global AI models train on,\" says Samier Merchant, a research engineer at Google Research. \"We're able to leverage …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-03T15:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google führt ein aktualisiertes KI-Wettermodell ein, das insbesondere bei der Vorhersage von Regen und Schneefall genauer sein soll. In der heutigen Ankündigung gibt das Unternehmen an, dass es mithilfe seines neuen KI-Modells WeatherNext 3 nun in der Lage ist, Prognosen mit „beispielloser Auflösung“ zu erstellen. Es kann...",
-    "titleDE": "Laut Google wird sein KI-Wettermodell immer besser"
-  },
-  {
     "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -210,16 +360,6 @@
     "titleDE": "Nvidia bestätigt, dass es Hugging Face für 12,9 Milliarden US-Dollar kaufen wird"
   },
   {
-    "title": "Nvidia is buying Hugging Face for almost $13 billion",
-    "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-    "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.\nHugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data with other users and the general public. It's often described as the \"GitHub\" for AI due to its browsable library of open-source machine learning models and emphasis on community collaboration features.\n\"Together, we will scale Hugging Face's platform, strengthen its infrastructure and expand access to AI for develo …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-03T12:12:06.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nvidia hat zugestimmt, Hugging Face für 12,93 Milliarden US-Dollar zu kaufen und damit eine der beliebtesten Hosting-Plattformen für Open-Source-KI-Modelle, Datensätze und Tools in den Besitz des weltweit größten KI-Chipherstellers zu bringen. Hugging Face ist eine 2016 gegründete Online-Plattform, die KI-Entwicklern einen Raum zum ... bietet.",
-    "titleDE": "Nvidia kauft Hugging Face für fast 13 Milliarden US-Dollar"
-  },
-  {
     "title": "The Download: rethinking child safety and fossil-fueled farming",
     "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
@@ -228,16 +368,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Kinderüberwachungs-Apps müssen möglicherweise neu gestartet werden Digitale Schäden sind zur bestimmenden Angst amerikanischer Eltern geworden. Als Reaktion darauf wenden sie sich zunehmend Content-Mo... zu.",
     "titleDE": "Der Download: Kindersicherheit und fossil befeuerte Landwirtschaft neu denken"
-  },
-  {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "pubDate": "2026-09-03T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Legora nutzte GPT-6 Astra, um 41 Dokumente in wenigen Minuten zu überprüfen, alle vier versteckten Fehler zu finden und die Leistung dieses Finanzprüfungs-Workflows um fast 40 % zu verbessern.",
-    "titleDE": "Legora hat mit GPT-6 Astra innerhalb von Minuten 41 Dokumente überprüft"
   },
   {
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
@@ -250,13 +380,33 @@
     "titleDE": "Das Playco-Cut-Handbuch behebt 50 % der Prototyping-Spiele mit GPT-6 Astra"
   },
   {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "pubDate": "2026-09-03T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Legora nutzte GPT-6 Astra, um 41 Dokumente in wenigen Minuten zu überprüfen, alle vier versteckten Fehler zu finden und die Leistung dieses Finanzprüfungs-Workflows um fast 40 % zu verbessern.",
+    "titleDE": "Legora hat mit GPT-6 Astra innerhalb von Minuten 41 Dokumente überprüft"
+  },
+  {
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "link": "https://openai.com/index/gpt-6-astra",
+    "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "pubDate": "2026-09-03T11:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wir stellen GPT-6 Astra vor, unser bisher intelligentestes und abgestimmtstes Modell mit modernsten Funktionen in den Bereichen Computernutzung, Codierung, Cybersicherheit und Wissenschaft.",
+    "titleDE": "GPT-6 Astra: Eine neue Generation von Intelligenz"
+  },
+  {
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
     "description": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
     "pubDate": "2026-09-03T10:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Wenn Sie in letzter Zeit den Benzintank Ihres Fahrzeugs auffüllen oder ein Flugticket kaufen mussten, haben Sie wahrscheinlich die Auswirkungen der steigenden Preise für fossile Brennstoffe gespürt. Doch vor allem Landwirte, die Düngemittel für ihre Feldfrüchte kaufen, sind sich darüber im Klaren, wie weit die Auswirkungen des Konflikts im Iran bereits weitreichen. Düngemittelpreise h...",
+    "descriptionDE": "Wenn Sie in letzter Zeit den Benzintank Ihres Fahrzeugs auffüllen oder ein Flugticket kaufen mussten, haben Sie wahrscheinlich die Auswirkungen der steigenden Preise für fossile Brennstoffe gespürt. Doch vor allem Landwirte, die Düngemittel für ihre Feldfrüchte kaufen, sind sich der weitreichenden Auswirkungen des Konflikts im Iran bewusst. Düngemittelpreise h...",
     "titleDE": "Die Landwirtschaft ist auf fossile Brennstoffe angewiesen. Es kostet uns."
   },
   {
@@ -266,7 +416,7 @@
     "pubDate": "2026-09-03T09:30:32.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Während die Agenten-KI vom Experimentieren zum Einsatz in Unternehmen übergeht, besteht die Herausforderung darin, herauszufinden, wie Agenten zusammenarbeiten, sich mit den Systemen und Daten verbinden, die sie benötigen, und sicher in den Arbeitsabläufen eines Unternehmens agieren können. Obwohl die Agenten-KI bereits von etwa 80 % der Fortune-500-Unternehmen eingesetzt wird ...",
+    "descriptionDE": "Während die Agenten-KI vom Experimentieren zum Einsatz in Unternehmen übergeht, besteht die Herausforderung darin, herauszufinden, wie Agenten zusammenarbeiten, sich mit den Systemen und Daten verbinden, die sie benötigen, und sicher in den Arbeitsabläufen eines Unternehmens agieren können. Obwohl Agenten-KI bereits von etwa 80 % der Fortune-500-Unternehmen eingesetzt wird ...",
     "titleDE": "Skalierung von Agenten-KI-Piloten im gesamten Unternehmen"
   },
   {
@@ -296,18 +446,8 @@
     "pubDate": "2026-09-02T22:44:56.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Nach Ansicht von Branchenbeobachtern bleibt das von Sequoia unterstützte Serval durch die Übernahme de facto der Startup-Führer im Bereich KI-IT-Service-Automatisierung.",
+    "descriptionDE": "Nach Ansicht von Branchenbeobachtern bleibt das von Sequoia unterstützte Serval durch die Übernahme de facto der Start-up-Führer im Bereich KI-IT-Service-Automatisierung.",
     "titleDE": "Laut Quellen zahlte Palo Alto Networks 500 Millionen US-Dollar für die von Thrive unterstützte Konsole"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
-    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "pubDate": "2026-09-02T22:24:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Auf unserer neuen Real World AI-Bühne werden wir uns auf die Schnittstelle zwischen dem Digitalen und dem Physischen konzentrieren und auf alle Möglichkeiten, wie wir weiterhin eine Mischung aus beiden sehen werden.",
-    "titleDE": "Die neue Real World AI Stage von TechCrunch Disrupt 2026 zeigt Nvidia, Roboter und ausgestorbene Tiere"
   },
   {
     "title": "I rented a car, and within hours, my driver's license was for sale",
@@ -320,76 +460,6 @@
     "titleDE": "Ich mietete ein Auto und innerhalb weniger Stunden stand mein Führerschein zum Verkauf"
   },
   {
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "pubDate": "2026-09-02T20:19:14.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das neue Astra-Modell von OpenAI wird „rekurrente Tiefe“ verwenden, eine Technik, die es dem Modell ermöglicht, außerhalb des sequentiellen Denkens zu arbeiten, das die meisten Argumentationsmodelle charakterisiert.",
-    "titleDE": "Die neue Argumentationstechnik von OpenAI alarmiert KI-Sicherheitsexperten"
-  },
-  {
-    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-02T20:11:40.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google brachte Gemini 3.8 Flash auf den Markt und kam nur wenige Wochen nach seinem Vorgänger auf den Markt. Das Unternehmen behauptet, dass das neue Modell „härter arbeitet“ als Gemini 3.7 Flash, indem es mehr Argumentationsschritte für komplexe Aufgaben ausführt und „Tools iterativ aufruft“. Es hat den gleichen Einführungspreis wie 3.7 Flash, 0,75 $ pro Monat ...",
-    "titleDE": "Google sagt, dass sein neues Gemini 3.8 Flash-Modell „härter arbeitet“, aber möglicherweise mehr kostet"
-  },
-  {
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
-    "pubDate": "2026-09-02T17:18:13.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Internet hat ein Vertrauensproblem, und das liegt nicht nur daran, dass sich die Social-Media-Feeds mit KI-Schrott füllen. KI-generierte Texte und Bilder finden mittlerweile Eingang in Bewerbungen, Produktbewertungen und sogar Versicherungsansprüche, sodass Plattformen und Benutzer gleichermaßen darum kämpfen müssen, herauszufinden, was real ist....",
-    "titleDE": "Max Spero von Pangram erklärt, warum die KI-Erkennung schwieriger ist als „echt oder falsch“"
-  },
-  {
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
-    "pubDate": "2026-09-02T17:09:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Internet hat ein Vertrauensproblem, und das liegt nicht nur daran, dass sich die Social-Media-Feeds mit KI-Schrott füllen. KI-generierte Texte und Bilder finden mittlerweile Eingang in Bewerbungen, Produktbewertungen und sogar Versicherungsansprüche, sodass Plattformen und Benutzer gleichermaßen darum kämpfen müssen, herauszufinden, was real ist....",
-    "titleDE": "„Wir sind der Theorie des toten Internets „gefährlich nahe“, sagt der CEO von Pangram"
-  },
-  {
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-    "pubDate": "2026-09-02T17:09:06.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Die Vereinigten Staaten haben ein starkes Interesse daran, weiterhin eine robuste und wettbewerbsfähige Industrie für künstliche Intelligenz zu entwickeln, die den Standard für die Praxis und das Verfahren des KI-Einsatzes weltweit setzt“, heißt es in dem Brief.",
-    "titleDE": "Die US-Regierung unterstützt OpenAI in der Frage der Schulung von LLMs zu urheberrechtlich geschütztem Material"
-  },
-  {
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-    "pubDate": "2026-09-02T16:04:10.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wonderful sagte, dass es seine 550 Millionen US-Dollar an Series-C-Finanzierungsmitteln nutzen werde, um Produkte schneller zu entwickeln, seine FDE-Teams zu erweitern und die Nachfrage nach seinen Produkten zu befriedigen.",
-    "titleDE": "Wonderful hat seinen Wert in weniger als 6 Monaten auf 5 Milliarden US-Dollar mehr als verdoppelt"
-  },
-  {
-    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-    "pubDate": "2026-09-02T16:01:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Jio geht davon aus, dass es einen in die Jahre gekommenen Computer für nur etwa 11 US-Dollar für zwei Monate in einen KI-fähigen PC verwandeln kann.",
-    "titleDE": "Indiens reichster Mann möchte nun veraltete Computer in KI-fähige PCs verwandeln"
-  },
-  {
     "title": "Proactive cyber defense for governments and enterprises",
     "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
     "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
@@ -398,16 +468,6 @@
     "category": "news",
     "descriptionDE": "Das Fairwind-Programm ist ein Programm mit eingeschränktem Zugang für Regierungen und vertrauenswürdige Partner zur Nutzung unserer Cyber-Abwehrtools.",
     "titleDE": "Proaktive Cyber-Abwehr für Regierungen und Unternehmen"
-  },
-  {
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-    "pubDate": "2026-09-02T15:01:23.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sicherheitsunternehmen bemühen sich darum, Produkte zu entwickeln, die nicht nur Agenten, sondern auch die von ihnen verwendeten Tools und Add-ons überwachen können.",
-    "titleDE": "HiddenLayer schnappt sich 100 Millionen US-Dollar, während Unternehmen sich beeilen, ihre KI-Implementierungen zu sichern"
   },
   {
     "title": "Facilitating AI integration with simplicity at scale",
@@ -510,16 +570,6 @@
     "titleDE": "Weg zu Astra: kritische Fähigkeiten und Grenzsicherungen"
   },
   {
-    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
-    "pubDate": "2026-09-01T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie manipulierte Mikroben dazu beitragen könnten, die Nutzpflanzen der Welt zu ernähren. Düngemittel sind für die weltweite Nahrungsmittelversorgung von entscheidender Bedeutung, aber ihre Herstellung verbraucht viel Energie und produziert viel ...",
-    "titleDE": "Der Download: manipulierte Mikroben für Nutzpflanzen und das Kulturproblem von OpenAI"
-  },
-  {
     "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
     "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "description": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
@@ -528,16 +578,6 @@
     "category": "news",
     "descriptionDE": "ChatGPT kann jetzt eine Verbindung zu vertrauenswürdigen Gesundheitsdaten herstellen und Ärzten so den sicheren Zugriff auf Patientenkontext, medizinische Forschung und mehr ermöglichen.",
     "titleDE": "Gesundheitsorganisationen können jetzt EHR und zusätzliche Branchendaten mit ChatGPT verbinden"
-  },
-  {
-    "title": "How engineered microbes could help feed the world’s crops",
-    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "description": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help…",
-    "pubDate": "2026-09-01T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Düngemittel sind für die weltweite Nahrungsmittelversorgung von entscheidender Bedeutung, ihre Herstellung verbraucht jedoch viel Energie und verursacht viele Emissionen. Einige Unternehmen hoffen, dass Mikroben helfen können. Eine wachsende Zahl von Forschungsergebnissen zeigt, dass die Aussaat nützlicher Mikroben im Boden um die Wurzeln einer Kulturpflanze dabei helfen kann, die Pflanze zu ernähren und wichtige Nährstoffe bereitzustellen.",
-    "titleDE": "Wie manipulierte Mikroben dazu beitragen könnten, die Nutzpflanzen der Welt zu ernähren"
   },
   {
     "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
@@ -598,15 +638,5 @@
     "category": "news",
     "descriptionDE": "Das Unternehmen testet Roboter auf Aufgaben, die von Technikern ausgeführt werden können.",
     "titleDE": "Inside Metas Vorstoß, Roboter in Rechenzentren zum Einsatz zu bringen"
-  },
-  {
-    "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-    "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-    "description": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-    "pubDate": "2026-08-28T11:15:05.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die Gruppe infizierte mehr als 1.000 Organisationen in einer unerbittlichen Angriffskampagne auf die Lieferkette.",
-    "titleDE": "Behörden nehmen zwei mutmaßliche Mitglieder der produktiven Hackergruppe TeamPCP fest"
   }
 ]
