@@ -1,5 +1,25 @@
 [
   {
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "pubDate": "2026-09-07T19:24:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Aufstieg der KI hat eine Lawine neuer Begriffe und Umgangssprache mit sich gebracht. Hier finden Sie ein Glossar mit Definitionen einiger der wichtigsten Wörter und Ausdrücke, denen Sie begegnen könnten.",
+    "titleDE": "Undurchsichtige Wiederholung und andere KI-Begriffe, die Sie wahrscheinlich kennen sollten"
+  },
+  {
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
+    "pubDate": "2026-09-07T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie viel Wasserstoff erwartet uns unter der Erde? Eine Flut von Explorationsbemühungen sucht nach unterirdischen Vorräten für Wasserstoffgas, die eine wertvolle Quelle darstellen könnten...",
+    "titleDE": "Der Download: Die Jagd nach unterirdischem Wasserstoff und weiteren abtrünnigen OpenAI-Agenten"
+  },
+  {
     "title": "Supporting independent journalism in Ukraine",
     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
@@ -100,14 +120,14 @@
     "titleDE": "OpenAI gibt „Vorfall“ im deutschen Wiki zu"
   },
   {
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "description": "The round is being raised just months after the robot data startup exited from stealth.",
     "pubDate": "2026-09-04T23:36:14.000Z",
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Die Runde wird nur wenige Monate, nachdem das Roboterdaten-Startup die Tarnung verlassen hat, erhöht.",
-    "titleDE": "XDOF, das erst seit drei Monaten aus der Tarnung entlassen wurde, befindet sich in Verhandlungen über eine Serie B mit einer Bewertung von 1,2 Milliarden US-Dollar"
+    "titleDE": "XDOF, das erst seit drei Monaten aus dem Verborgenen ist, befindet sich in Verhandlungen über eine Serie B mit einer Bewertung von 1,2 Milliarden US-Dollar"
   },
   {
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
@@ -580,16 +600,6 @@
     "titleDE": "Probieren Sie Google Pics aus: Einfache Bilderstellung und -bearbeitung in Google Workspace"
   },
   {
-    "title": "Making the AI-powered case for legacy modernization",
-    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-    "description": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
-    "pubDate": "2026-09-01T14:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Seit Jahren stellen veraltete Technologien ein Problem dar, von dem Unternehmen wussten, dass sie es lösen mussten, das sie aber oft nur schwer angehen konnten. Die Kosten, die Komplexität und das Risiko des Austauschs geschäftskritischer Systeme könnten dazu führen, dass sich die Modernisierung wie eine zu bewältigende Störung und nicht wie eine Chance anfühlt, die es zu verfolgen gilt. Aber mit t...",
-    "titleDE": "Argumente für die KI-gestützte Modernisierung von Legacy-Lösungen"
-  },
-  {
     "title": "Path to Astra: critical capabilities and frontier safeguards",
     "link": "https://openai.com/index/path-to-astra",
     "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
@@ -608,25 +618,5 @@
     "category": "news",
     "descriptionDE": "ChatGPT kann jetzt eine Verbindung zu vertrauenswürdigen Gesundheitsdaten herstellen und Ärzten so den sicheren Zugriff auf Patientenkontext, medizinische Forschung und mehr ermöglichen.",
     "titleDE": "Gesundheitsorganisationen können jetzt EHR und zusätzliche Branchendaten mit ChatGPT verbinden"
-  },
-  {
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "link": "https://openai.com/index/gilbert-tobin",
-    "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-    "pubDate": "2026-09-01T01:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Gilbert + Tobin vom CEO geleitetes Engagement, strenge Governance und menschliche Verantwortung kombiniert, um ChatGPT Enterprise und Codex im gesamten Unternehmen zu skalieren.",
-    "titleDE": "Wie die Anwaltskanzlei Gilbert + Tobin KI mit OpenAI steuert und skaliert"
-  },
-  {
-    "title": "Think twice before installing this device promising free movies",
-    "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-    "description": "In exchange for free stuff, devices make home connections part of a proxy network.",
-    "pubDate": "2026-08-31T16:33:38.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Im Austausch gegen kostenlose Inhalte machen Geräte Heimverbindungen zu einem Teil eines Proxy-Netzwerks.",
-    "titleDE": "Denken Sie zweimal darüber nach, bevor Sie dieses Gerät installieren, das kostenlose Filme verspricht"
   }
 ]
