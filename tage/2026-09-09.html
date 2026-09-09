@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Mittwoch, 9. September 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Mittwoch, 9. September 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans" target="_blank" rel="noopener">Besorgte Anthropic-Forscher warnen, dass KI „alle Menschen töten könnte“</a></h2><p class="news-description">Ein hochrangiger Sicherheitsforscher von Anthropic sagte, dass die Wahrscheinlichkeit, dass künstliche Intelligenz bis zum Ende des Jahrzehnts „alle Menschen töten könnte“, bei mehr als 10 Prozent liegt, nur wenige Stunden nachdem ein Kollege aus Angst zurückgetreten war, das KI-Labor und seine Rivalen würden sich leichtsinnig darum bemühen, „übermenschliche Systeme“ zu bauen, mit denen sie nicht fertig werden können …</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/" target="_blank" rel="noopener">Batterien haben in den USA gerade einen weiteren Rekord gebrochen</a></h2><p class="news-description">Die Batterieinstallationen erreichten im zweiten Quartal 2026 in den USA einen neuen Rekord. Laut einem neuen Bericht gingen insgesamt 20,2 Gigawattstunden neue Kapazität ans Netz. Das reicht aus, um den täglichen Strombedarf von etwa 700.000 Haushalten zu decken. Der Anstieg bringt das Land auf einen Kurs von 71...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/" target="_blank" rel="noopener">Verständnis der thermischen Decke bei tragbarer Stromversorgung</a></h2><p class="news-description">Schließen Sie ein Telefon an ein modernes Ladegerät an und die ersten 10 Minuten sind beeindruckend. Die nächsten 20 sind es nicht. Dies ist kein Mangel. Es ist das angeschlossene Gerät, das sich selbst schützt. Wenn die Temperatur während des Ladevorgangs steigt, reduziert das Batteriemanagementsystem eines Smartphones den Strom, den es aufnehmen kann, da die Wärmebeschleunigung...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/" target="_blank" rel="noopener">Was uns die jüngste Kontroverse um OpenAI über die Zukunft der Mathematik verrät</a></h2><p class="news-description">Der neueste mathematische Meilenstein von OpenAI wurde schnell kontrovers diskutiert. Heute gab das Unternehmen bekannt, dass seine Agenten eines der Millennium-Preis-Probleme gelöst haben, einige der wichtigsten offenen Probleme in der Mathematik. Unter normalen Umständen wäre diese Lösung eine große Erleichterung ...</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
