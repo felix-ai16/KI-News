@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Donnerstag, 10. September 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Donnerstag, 10. September 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/" target="_blank" rel="noopener">Kann sich der US-Batteriemarkt von China entwirren?</a></h2><p class="news-description">Die USA erreichen Rekorde beim rasanten Wachstum ihres Energiespeichermarktes. Das wird einen großen Beitrag dazu leisten, das Netz zu stärken, die Zuverlässigkeit zu erhöhen und auch die Emissionen zu senken, da Batterien dazu beitragen können, Energie aus intermittierenden erneuerbaren Energien wie Wind und Sonne zu speichern. Entscheidend ist, dass dies alles geschieht mit ...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/" target="_blank" rel="noopener">Gott sagte ihnen, sie sollten Krypto verkaufen. Ihre Investoren haben alles verloren.</a></h2><p class="news-description">Dieser Artikel wurde in Zusammenarbeit mit Type Investigations und mit Unterstützung des Fund for Investigative Journalism erstellt. Als Eli Regalado zum ersten Mal hörte, wie Gott zu ihm sprach, fragte er sich, ob er halluzinierte. Jetzt vergleicht er die Erfahrung damit, „einen Gedanken zu haben, der nicht mein Gedanke ist“. Göttliches W...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/" target="_blank" rel="noopener">Der nächste Test für KI im Gesundheitswesen ist die Integration</a></h2><p class="news-description">Der Eintritt großer KI-Unternehmen in das Gesundheitswesen ist eine bedeutungsvolle und willkommene Entwicklung, die die der Branche zur Verfügung stehenden technischen Grundlagen beschleunigt. Ihre Modelle sind zunehmend in der Lage, lange klinische Aufzeichnungen zu verarbeiten, komplexe Terminologie zu interpretieren und die Dokumentation mit allen anderen zu vergleichen.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/" target="_blank" rel="noopener">Das KI-Forschungs-Startup Listen Labs hat eine Finanzierungsrunde in Höhe von 1,5 Milliarden US-Dollar für Salesforce-Gespräche abgeschlossen</a></h2><p class="news-description">Laut Quellen verzichtete Listen Labs auf ein unterzeichnetes Serie-C-Termsheet von Menlo Ventures.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
