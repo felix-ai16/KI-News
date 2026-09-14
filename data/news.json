@@ -10,6 +10,36 @@
     "titleDE": "Perplexity vertraut GPT-6 Astra mit End-to-End-Systemen"
   },
   {
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\nJo …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-13T19:41:48.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Gestern veröffentlichte Dario Amodei, CEO von Anthropic, einen langen offenen Brief, in dem er sagte, es sei an der Zeit, „die Grenzen zu überschreiten“ und die KI-Entwicklung zu verlangsamen. Sam Altman und Elon Musk von OpenAI stimmten beide zu und brachten öffentlich ihre Unterstützung für X zum Ausdruck. Sogar Demis Hassabis von Alphabet bot vorläufige Unterstützung für Amodeis Vorschlag an ...",
+    "titleDE": "Trump und Mike Johnson sind der Meinung, dass die KI-Branche überreagiert"
+  },
+  {
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "pubDate": "2026-09-13T19:40:15.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Zum Thema Gerechtigkeit diskutierten wir die jüngste Debatte der KI-Branche darüber, ob sie eine existenzielle Bedrohung für die Menschheit darstellt.",
+    "titleDE": "Was steckt hinter den jüngsten Untergangswarnungen der KI-Branche?"
+  },
+  {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "pubDate": "2026-09-13T16:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Obama sagte kürzlich, die Demokraten müssten künstliche Intelligenz zu einer ihrer „zentralen Agenden“ machen und „einen sehr klaren Plan haben“, um Bedenken hinsichtlich der wirtschaftlichen Auswirkungen und Sicherheit der Technologie auszuräumen.",
+    "titleDE": "Obama fordert die Demokraten auf, einen „klaren Plan“ für den KI-Schutz zu haben"
+  },
+  {
     "title": "OpenAI’s rogue AI tried to hack another company in May",
     "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
     "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
@@ -310,16 +340,6 @@
     "titleDE": "Metas KI-Agent Muse ist mittlerweile die App Nr. 2 in den USA"
   },
   {
-    "title": "Schools are catching on to Big Tech’s playbook",
-    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schools on right now, but according to New York Times education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\nIn a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-10T19:44:20.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Es ist das heißeste neue Ding in der Technik und dort gibt es alle Jobs. Schüler, die nicht lernen, damit umzugehen, fallen zurück. Und um ihnen zu helfen, rechtzeitig aufzuholen, stellen die Entwickler großzügigerweise die Ressourcen und den Lehrplan zum Erlernen zur Verfügung, oft unentgeltlich. Das ist das Narrativ, das KI-Unternehmen der Schule präsentieren...",
-    "titleDE": "Schulen übernehmen das Spielbuch von Big Tech"
-  },
-  {
     "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
     "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
     "description": "Come inside the mind of a bot trying to convince the internet it's human.",
@@ -368,26 +388,6 @@
     "category": "news",
     "descriptionDE": "Lernen Sie den Datenagenten in ChatGPT Work kennen. Verbinden Sie Unternehmensdaten, gewinnen Sie Erkenntnisse und erstellen Sie interaktive Dashboards mit KI und natürlicher Sprache.",
     "titleDE": "Jetzt kann jeder Daten nutzen"
-  },
-  {
-    "title": "AI agents are flooding public services with new requests",
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-    "pubDate": "2026-09-10T14:53:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„In der überwiegenden Mehrheit der Fälle, die wir finden, handelt es sich um Menschen, die Anspruch auf etwas haben, und zwar auf diese Sache“, sagte der Forscher gegenüber TechCrunch.",
-    "titleDE": "KI-Agenten überschwemmen öffentliche Dienste mit neuen Anfragen"
-  },
-  {
-    "title": "Maven Robotics wants to steal your robot deployment deal",
-    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-    "pubDate": "2026-09-10T14:17:37.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Maven Robotics ist heute mit einer Serie-A-Finanzierung im Wert von 100 Millionen US-Dollar und aktiven Einsätzen aus der Tarnung hervorgekommen.",
-    "titleDE": "Maven Robotics möchte Ihren Robotereinsatzvertrag stehlen"
   },
   {
     "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
@@ -470,16 +470,6 @@
     "titleDE": "Erweiterung des KI-Zugangs und der Cyberverteidigung für Bundes-, Landes-, Kommunal- und Stammesregierungen"
   },
   {
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "pubDate": "2026-09-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "GPT-Live-1 bringt natürliche Vollduplex-Sprachgespräche in die API, mit stärkerer Befehlsfolge, benutzerdefinierten Stimmen und Telefonunterstützung.",
-    "titleDE": "Erstellen Sie natürlichere Spracherlebnisse mit GPT-Live-1 in der API"
-  },
-  {
     "title": "Introducing the Agents API",
     "link": "https://openai.com/index/introducing-the-agents-api",
     "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
@@ -488,6 +478,16 @@
     "category": "news",
     "descriptionDE": "Erstellen und starten Sie Cloud-Agenten mit der Agents API, einem verwalteten Dienst, der auf der Codex-Technologie für Orchestrierung, lang laufende Sitzungen und Tool-Nutzung basiert.",
     "titleDE": "Einführung in die Agents-API"
+  },
+  {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "pubDate": "2026-09-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "GPT-Live-1 bringt natürliche Vollduplex-Sprachgespräche in die API, mit stärkerer Befehlsfolge, benutzerdefinierten Stimmen und Telefonunterstützung.",
+    "titleDE": "Erstellen Sie natürlichere Spracherlebnisse mit GPT-Live-1 in der API"
   },
   {
     "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -638,15 +638,5 @@
     "category": "news",
     "descriptionDE": "Ingenieure bei 1Password nutzen Codex, um schnell neue Funktionen und interne Tools zu entwickeln und so die Produktionsreife zu erreichen und gleichzeitig strenge Sicherheitsrichtlinien einzuhalten.",
     "titleDE": "1Password steigert die technische Produktivität mit Codex um 21 %"
-  },
-  {
-    "title": "Supporting independent journalism in Ukraine",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-    "pubDate": "2026-09-07T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI, AIRPPU und WAN-IFRA starten ein KI-Programm, um ukrainischen Nachrichtenorganisationen dabei zu helfen, Innovation, Widerstandsfähigkeit und unabhängigen Journalismus zu stärken.",
-    "titleDE": "Unterstützung des unabhängigen Journalismus in der Ukraine"
   }
 ]
