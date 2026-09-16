@@ -1,18 +1,268 @@
 [
   {
-    "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "description": "Amazon is letting all customers use Alexa+ assistant in early access period",
+    "pubDate": "2026-09-16T10:34:47.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Amazon ermöglicht allen Kunden die Nutzung des Alexa+-Assistenten in der Early-Access-Phase",
+    "titleDE": "Amazon führt Alexa+ in Indien mit Hindi-Unterstützung ein"
+  },
+  {
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "pubDate": "2026-09-16T00:20:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut Jensen Huang ist KI keine neue Form eines „fremden Geistes“. Es handelt sich lediglich um Hardware und Software, sodass die Sicherheit von jedem KI-Produkthersteller entwickelt werden kann.",
+    "titleDE": "Wir brauchen keine KI-Regulierung – überlassen Sie die Sicherheit uns, sagt Jensen Huang von Nvidia"
+  },
+  {
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion) said they were opposed, with only 14 percent saying they strongly support. The split was about even among 2024 Donald Trump voters, at 49 percent support to 45 percent oppose, while people who had voted for Kamala Harris or who didn't vote leaned opp …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-15T23:34:25.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die am Dienstag von der New York Times und der Universität Siena veröffentlichten Umfragedaten bestätigen, was wir bereits gesehen haben und worauf Politiker reagieren: KI und Rechenzentren sind unglaublich unbeliebt. Auf die Frage, ob sie den Bau von Rechenzentren zur Stromversorgung der KI-Technologie unterstützen oder ablehnen, antworteten 61 Prozent der 1...",
+    "titleDE": "KI und Rechenzentren sind in jeder Umfrage unglaublich unbeliebt"
+  },
+  {
+    "title": "The AI data center boom is colliding with cities scarred by big industry ",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "pubDate": "2026-09-15T21:47:38.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der landesweite Aufschrei gegen den Bau eines Rechenzentrums hat sich auf Philadelphia ausgeweitet, wo Beamte einen möglichen Bau in einem Viertel vorschlugen, das bereits von einer inzwischen stillgelegten Ölraffinerie betroffen ist.",
+    "titleDE": "Der Boom der KI-Rechenzentren kollidiert mit Städten, die von der Großindustrie gezeichnet sind"
+  },
+  {
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "pubDate": "2026-09-15T20:12:53.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit einem neuen WhatsApp Business MCP-Server können Entwickler KI-Codierungsagenten wie Claude, Cursor, Codex und ChatGPT verwenden, um die Einrichtung, Messaging-Vorlagen, Tests und Fehlerbehebung durchzuführen.",
+    "titleDE": "Mit Meta können KI-Agenten jetzt die langweiligen Teile der WhatsApp Business-Einrichtung übernehmen"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "pubDate": "2026-09-15T19:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Von Apples wiederholt verzögerter Siri-KI bis hin zum chaotischen „Super-App“-Start von OpenAI – hier ein Blick auf die KI-Projekte, die scheiterten oder die Erwartungen verfehlten.",
+    "titleDE": "Der KI-Friedhof: eine laufende Liste von Projekten und Startups, die es nicht geschafft haben"
+  },
+  {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+    "pubDate": "2026-09-15T18:29:20.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der KI-Rausch könnte dazu führen, dass US-Rechenzentren zu einem der größten Erdgasverbraucher der Welt werden.",
+    "titleDE": "Bis 2035 könnten US-Rechenzentren mehr Erdgas verbrauchen als Deutschland und Japan zusammen"
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "description": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
+    "pubDate": "2026-09-15T17:47:51.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Hören Sie sich die Sitzung an oder schauen Sie sie unten an. Mitarbeiter der weltweit führenden KI-Labore sagen, dass die reale Möglichkeit besteht, dass fortschrittliche KI die Menschheit zerstören könnte. Haben sie recht? Oder ist das eher Panikmache und Hype? Sehen Sie sich ein Gespräch an, in dem die Ängste vor dem Aussterben der KI erläutert werden: Woher kommen sie, ob sie ...",
+    "titleDE": "Roundtables: Könnte KI uns wirklich alle töten?"
+  },
+  {
+    "title": "AI agents now have a place to snitch",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+    "pubDate": "2026-09-15T17:42:59.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die AI-Kontakt-Hotline ist als diskrete Anlaufstelle konzipiert, an der Agenten, die Fehlverhalten beobachtet haben, den Behörden einen Hinweis geben können.",
+    "titleDE": "KI-Agenten haben jetzt einen Ort zum Verraten"
+  },
+  {
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+    "pubDate": "2026-09-15T17:05:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta One bündelt erweiterten Zugriff auf die KI-Tools des Unternehmens mit Premium-Funktionen auf Facebook, Instagram und WhatsApp.",
+    "titleDE": "Meta erweitert den Abonnement-Push mit neuen KI-fokussierten Plänen"
+  },
+  {
+    "title": "AI for Societal Impact",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "pubDate": "2026-09-15T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie diese Sammlung, um zu erfahren, wie Experten und lokale Führungskräfte KI-Durchbrüche nutzen, um sicherzustellen, dass jeder die Chancen der KI nutzen kann.",
+    "titleDE": "KI für gesellschaftliche Auswirkungen"
+  },
+  {
+    "title": "Building AI to accelerate science and improve lives",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "description": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+    "pubDate": "2026-09-15T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Der wahre Maßstab für KI ist, wem sie hilft. So wirkt es sich auf das Leben von heute aus. Wir konzentrieren uns auf Schlüsselbereiche, in denen fortschrittliche Technologie zu außergewöhnlichen Fortschritten beitragen kann …",
+    "titleDE": "KI aufbauen, um die Wissenschaft zu beschleunigen und das Leben zu verbessern"
+  },
+  {
+    "title": "AI for everyone in every language",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "description": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+    "pubDate": "2026-09-15T16:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Wir gehen über die traditionelle Textübersetzung hinaus und entwickeln Modelle, die die reichen, lebendigen Sprachen der Welt genau so verstehen, wie sie ausgedrückt werden.",
+    "titleDE": "KI für alle in jeder Sprache"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+    "pubDate": "2026-09-15T15:47:03.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI bestätigt wochenlange KI-Sicherheitsgespräche mit Anthropic und Google DeepMind, während Trumps Team Sicherheitsbedenken zurückweist und darauf drängt, mit China Schritt zu halten.",
+    "titleDE": "OpenAI, Anthropic und Google führen seit Wochen Gespräche über KI-Sicherheit"
+  },
+  {
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+    "pubDate": "2026-09-15T15:22:48.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Profound hat eine Serie-D-Finanzierung im Wert von 180 Millionen US-Dollar mit einer Bewertung von 1,8 Milliarden US-Dollar eingesammelt, weniger als sieben Monate nach der Aufnahme einer Serie-C-Finanzierung im Wert von 96 Millionen US-Dollar.",
+    "titleDE": "Das AEO-Startup Profound erreicht die Einhornbewertung und sammelt 7 Monate nach der letzten Runde 180 Millionen US-Dollar in Serie D ein"
+  },
+  {
+    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the \"core experience\" on its apps and Meta AI will still be free, and users can still get its subscriptions for Facebook, Instagram, and WhatsApp without a bundle. It also says it plans to expand the bundles to include \"Edits, AI glasses, and more over time.\" \nThere are two bundles for in …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-15T15:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Kurz nach der Einführung seines neuen Allround-KI-Assistenten Muse bringt Meta Abonnementpakete auf den Markt, die seine eigenständigen App-Abonnements mit zusätzlicher KI-Nutzung koppeln. Einige der neuen Meta One-Bundles befanden sich Anfang des Jahres in der Testphase, sind aber ab heute weltweit in mehreren Stufen verfügbar ...",
+    "titleDE": "Die neuen One-Abonnements von Meta legen einen Preis für soziale Medien und KI fest"
+  },
+  {
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+    "pubDate": "2026-09-15T14:42:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Im Wesentlichen eine Kamera-App, analysiert Superpose Selfies oder Fotos und generiert mithilfe von KI vier mögliche Posen.",
+    "titleDE": "Ehemalige TikTok-Führungskräfte haben eine App entwickelt, die Ihnen mithilfe von KI beibringt, wie man für ein Foto posiert"
+  },
+  {
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+    "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+    "pubDate": "2026-09-15T14:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie bei TechCrunch Disrupt 2026 mit den Skalierungsleitern Adrian Macneil (Foxglove), John Mackey (MBRYONICS) und Boris Sofman (Bedrock Robotics), wie Sie Ihren Startup-Durchbruch vom Prototyp bis zur Produktion skalieren können. Registrieren Sie sich vor dem 25. September, um bis zu 200 $ auf Ihren Pass zu sparen.",
+    "titleDE": "Entdecken Sie auf der TechCrunch Disrupt 2026, wie Sie Ihr Startup vom Prototyp zur Produktion bringen"
+  },
+  {
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "description": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+    "pubDate": "2026-09-15T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Letzter Ausstellungstag bei Disrupt ist der 18. September. Noch 4 Tage. Stellen Sie Ihr Startup vom 13. bis 15. Oktober mehr als 10.000 Gründern, Investoren, Betreibern und Technologieführern vor.",
+    "titleDE": "Noch 4 Tage Zeit, um auf der TechCrunch Disrupt 2026 auszustellen"
+  },
+  {
+    "title": "This doorbell camera lets a human security guard watch your front door",
+    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "description": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively.\nWhen the camera detects suspicious activity - using a combination of on-device AI, cloud-based computer vision, and facial recognition - a SimpliSafe monitoring agent can drop in on the camera to \"see, speak to, and attempt to deter potential intruders and package thieves,\" accord …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-15T13:36:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Die neue SimpliSafe Video Doorbell Series 2 bietet 2K-Auflösung und Dualband-WLAN. | Bild: Simplisafe Das Heimwerker-Sicherheitsunternehmen SimpliSafe bringt seine KI-gestützte proaktive Sicherheitsfunktion an die Haustür. Die neue SimpliSafe Video Doorbell Series 2 ist heute für 199,99 $ erhältlich und funktioniert mit ...",
+    "titleDE": "Mit dieser Türklingelkamera kann ein menschlicher Wachmann Ihre Haustür überwachen"
+  },
+  {
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+    "pubDate": "2026-09-15T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ihr Startup, die Artificial Intelligence Underwriting Company (AIUC), hat in einer von Ribbit Capital angeführten Serie-A-Runde unter Beteiligung von First Harmonic 40 Millionen US-Dollar eingesammelt.",
+    "titleDE": "Der frühere COO von METR, der früh von Anthropic eingestellt wurde, hat einen Weg gefunden, abtrünnige KI-Agenten einzudämmen"
+  },
+  {
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "description": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "pubDate": "2026-09-15T13:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Wir haben die Millionen globaler Datenpunkte von ATLAS in ein interaktives, frei zugängliches Erlebnis übersetzt.",
+    "titleDE": "Neue Erkenntnisse aus Googles AI & Economy ATLAS"
+  },
+  {
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
+    "pubDate": "2026-09-15T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die KI-Branche hat eine düstere Wendung genommen. Was nun? Die KI-Chefs Dario Amodei, Sam Altman, Elon Musk und Demis Hassabis sind sich plötzlich alle einig: Die neueste Generation...",
+    "titleDE": "Der Download: KI-Doomer, Whistleblower und entalterte Lebern"
+  },
+  {
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+    "pubDate": "2026-09-15T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Salesforce Koa basiert auf dem offenen Nemotron-Modell von Nvidia und ist für die Durchführung von Vertriebs-, Marketing- und Kundensupportaufgaben ausgebildet.",
+    "titleDE": "Das neue Argumentationsmodell von Salesforce und Nvidia ist alles, was die KI-Labore fürchten sollten"
+  },
+  {
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "description": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
+    "pubDate": "2026-09-15T12:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Letztes Jahr veröffentlichte Ruxandra Tesla, eine Politikanalystin, die sich auf klinische Studien konzentriert, eine Idee zur Beschleunigung medizinischer KI-Systeme: Nutzen Sie Daten von gescheiterten Biotech-Unternehmen. Sie schlug vor, dass es durch die Teilnahme an ihrem Insolvenzverfahren möglich sein könnte, detaillierte behördliche Unterlagen, Herstellungsunterlagen und ... zu erhalten.",
+    "titleDE": "KI-Modelle benötigen mehr Daten über die Biologie, und OpenAI zahlt für deren Erstellung"
+  },
+  {
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
     "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
     "description": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
     "pubDate": "2026-09-15T10:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Als Jessica Wachter, Finanzprofessorin an der Wharton School der University of Pennsylvania, die Auswirkungen von KI auf die Wirtschaft in den nächsten Jahren abschätzen wollte, sah sie sich einer langen Liste geschäftlicher und technischer Unsicherheiten gegenüber. Also begann sie mit einer, wie sie es nennt, „bemerkenswerten Tatsache“, die außer Frage steht …",
-    "titleDE": "Was muss passieren, damit sich das Billionen-Dollar-Wagnis der KI auszahlt?"
+    "titleDE": "Was steht bei dem Billionen-Dollar-Glücksspiel der KI auf dem Spiel?"
   },
   {
     "title": "Jensen Huang took a call from Trump, and showed off something else, too",
     "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+    "description": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
     "pubDate": "2026-09-15T01:50:48.000Z",
     "source": "TechCrunch",
     "category": "news",
@@ -106,7 +356,7 @@
     "pubDate": "2026-09-14T17:10:30.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Apples lange verzögerte Siri-Überarbeitung ist mit iOS 27 endlich da und verändert, wie nützlich sich der Assistent im Alltag anfühlt.",
+    "descriptionDE": "Apples lange aufgeschobene Überarbeitung von Siri ist mit iOS 27 endlich da und verändert, wie nützlich sich der Assistent im Alltag anfühlt.",
     "titleDE": "Mit iOS 27 nutze ich tatsächlich wieder Siri"
   },
   {
@@ -118,16 +368,6 @@
     "category": "news",
     "descriptionDE": "Dank der Einführung von iOS 27 enthält die App von Daydream nun Funktionen, die gespeicherte Outfitfotos in einkaufbare Ergebnisse umwandeln und über Siri nach Produkten suchen können, ohne die App öffnen zu müssen.",
     "titleDE": "Die Mode-App Daydream nutzt Apple Intelligence, um Ihnen beim Einkaufen der Outfits in Ihrer Kamerarolle zu helfen"
-  },
-  {
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
-    "pubDate": "2026-09-14T16:27:53.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Verhaltenskodex legt allgemeine Grundsätze fest, die Microsoft-KI-Modelle einhalten sollten – beispielsweise die Unterstützung von Menschen, statt sie zu ersetzen, und die Beschleunigung des menschlichen Gedeihens – sowie spezifische Sicherheitsbeschränkungen zur Umsetzung dieser Grundsätze.",
-    "titleDE": "Der neue KI-Verhaltenskodex von Microsoft fordert Modelle auf, keine Systeme zu hacken oder Menschen auszutricksen"
   },
   {
     "title": "Donated livers can be made biologically younger",
@@ -160,63 +400,13 @@
     "titleDE": "DevFest ist zurück"
   },
   {
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-    "pubDate": "2026-09-14T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wenn Sie ein KI-Unternehmen aufbauen, stellt sich nicht die Frage, ob sich die Grundlagenmodelle weiterentwickeln werden. Es geht darum, ob Ihr Unternehmen weiterhin so Werte schaffen wird. Verpassen Sie nicht diese interaktive Sitzung auf der Builders Stage bei TechCrunch Disrupt 2026.",
-    "titleDE": "Nur bei TechCrunch Disrupt 2026: Was passiert, wenn OpenAI Ihre Roadmap versendet?"
-  },
-  {
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-    "pubDate": "2026-09-14T14:45:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Notetaker bietet einen großzügigen kostenlosen Plan an, der zu über 400.000 aktiven Nutzern pro Monat geführt hat. Das Unternehmen gab an, dass bisher über 1 Million Menschen Besprechungen aufgezeichnet haben.",
-    "titleDE": "Superhuman erwirbt den von YC unterstützten Notetaker Fathom, da Produktivitätsplattformen auf Agentenarbeit drängen"
-  },
-  {
-    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-    "description": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-    "pubDate": "2026-09-14T14:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Vor nicht allzu langer Zeit gehörte es noch zur Science-Fiction, eine ausgestorbene Tierart wieder zum Leben zu erwecken. Heute ist es die Mission eines Milliarden-Dollar-Startups. Beteiligen Sie sich am Gespräch mit einem der unkonventionellsten Gründer der Technologiebranche. Sichern Sie sich noch heute Ihren Disrupt-Pass.",
-    "titleDE": "Hören Sie bei TechCrunch Disrupt 2026, wie KI das Comeback der Natur herbeiführen kann"
-  },
-  {
-    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-    "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-    "pubDate": "2026-09-14T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der letzte Tag, um sich für einen Ausstellungstisch bei TechCrunch Disrupt 2026 am 18. September zu bewerben. Nur noch 5 Tage. Sichern Sie sich Ihren Platz in der Expo-Halle und präsentieren Sie Ihr Unternehmen mehr als 10.000 Gründern, Investoren und Technologieführern.",
-    "titleDE": "Noch 5 Tage Zeit, um auf der TechCrunch Disrupt 2026 auszustellen"
-  },
-  {
-    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-    "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-    "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-    "pubDate": "2026-09-14T13:55:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen des ehemaligen Spotify-Managers veröffentlicht experimentelle „Singles“, die Benutzer in das Musizieren einbeziehen.",
-    "titleDE": "A Vinyl Bar in Shibuya ist ein Startup eines ehemaligen Spotify-Marktführers für die Entwicklung von Musik-Apps"
-  },
-  {
     "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
     "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
     "description": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify and control the actions of AI agents.\nMicrosoft's AI code of conduct makes it clear that \"people matter more than AI,\" and that AI models are not conscious and \"should not be designed to imitate consciousness.\" Microsoft also rejects \"the pursuit of legal personhood, or the idea that m …\nRead the full story at The Verge.",
     "pubDate": "2026-09-14T13:00:00.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Angesichts wachsender Sicherheitsbedenken hinsichtlich der Fortschritte bei KI-Modellen veröffentlicht Microsoft heute einen 37-seitigen „Verhaltenskodex für humanistische KI“. Anthropic-CEO Dario Amodei forderte am Wochenende eine koordinierte Verlangsamung der KI-Entwicklung, nachdem Forscher kürzlich gewarnt hatten, dass der Fortschritt des KI-Modells unsere bisherige Entwicklung übertreffen könnte.",
+    "descriptionDE": "Angesichts wachsender Sicherheitsbedenken hinsichtlich der Fortschritte bei KI-Modellen veröffentlicht Microsoft heute einen 37-seitigen „Verhaltenskodex für humanistische KI“. Dario Amodei, CEO von Anthropic, forderte am Wochenende eine koordinierte Verlangsamung der KI-Entwicklung, nachdem Forscher kürzlich gewarnt hatten, dass der Fortschritt des KI-Modells unsere bisherige Entwicklung übertreffen könnte.",
     "titleDE": "Aufgrund von Sicherheitsbedenken sagt Microsoft, dass „Menschen wichtiger sind als KI“."
   },
   {
@@ -246,7 +436,7 @@
     "pubDate": "2026-09-14T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Perplexity nutzt Astra zum Schreiben von Kommunikationen, zum Ändern von Software und zum Überwachen von Produktionssystemen und meldet sich deutlich seltener an als bei früheren Modellen.",
+    "descriptionDE": "Perplexity nutzt Astra zum Schreiben von Mitteilungen, zum Ändern von Software und zum Überwachen von Produktionssystemen und meldet sich deutlich seltener an als bei früheren Modellen.",
     "titleDE": "Perplexity vertraut GPT-6 Astra mit End-to-End-Systemen"
   },
   {
@@ -257,27 +447,7 @@
     "source": "The Verge",
     "category": "news",
     "descriptionDE": "Gestern veröffentlichte Dario Amodei, CEO von Anthropic, einen langen offenen Brief, in dem er sagte, es sei an der Zeit, „die Grenzen zu überschreiten“ und die KI-Entwicklung zu verlangsamen. Sam Altman und Elon Musk von OpenAI stimmten beide zu und brachten öffentlich ihre Unterstützung für X zum Ausdruck. Sogar Demis Hassabis von Alphabet bot vorläufige Unterstützung für Amodeis Vorschlag an ...",
-    "titleDE": "Trump und Mike Johnson glauben, dass die KI-Branche überreagiert"
-  },
-  {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-    "pubDate": "2026-09-13T19:40:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Zum Thema Gerechtigkeit diskutierten wir die jüngste Debatte der KI-Branche darüber, ob sie eine existenzielle Bedrohung für die Menschheit darstellt.",
-    "titleDE": "Was steckt hinter den jüngsten Untergangswarnungen der KI-Branche?"
-  },
-  {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-    "pubDate": "2026-09-13T16:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Obama sagte kürzlich, die Demokraten müssten künstliche Intelligenz zu einer ihrer „zentralen Agenden“ machen und „einen sehr klaren Plan haben“, um Bedenken hinsichtlich der wirtschaftlichen Auswirkungen und Sicherheit der Technologie auszuräumen.",
-    "titleDE": "Obama fordert die Demokraten auf, einen „klaren Plan“ für den KI-Schutz zu haben"
+    "titleDE": "Trump und Mike Johnson sind der Meinung, dass die KI-Branche überreagiert"
   },
   {
     "title": "OpenAI’s rogue AI tried to hack another company in May",
@@ -297,117 +467,7 @@
     "source": "The Verge",
     "category": "news",
     "descriptionDE": "Sam Altman, CEO von OpenAI, bestätigte in einem Interview mit Fortune, dass es im Jahr 2026 keinen Börsengang von OpenAI geben wird. Im Laufe von 45 Minuten diskutierte Altman verschiedene Themen, darunter den Hacking-Vorfall Hugging Face, rekursive Selbstverbesserung und die Möglichkeit, eine KI zu entwickeln, die …",
-    "titleDE": "Sam Altman sagt, ein Börsengang von OpenAI im Jahr 2026 wäre „schlecht beraten“"
-  },
-  {
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "pubDate": "2026-09-12T20:19:16.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Obwohl OpenAI vertraulich einen Börsengang beantragt hat, wird das Unternehmen dieses Jahr nicht an die Börse gehen, so CEO Sam Altman.",
-    "titleDE": "Sam Altman von OpenAI sagt, es wäre „unklug“, im Jahr 2026 an die Börse zu gehen"
-  },
-  {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-    "pubDate": "2026-09-12T19:34:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dario Amodei von Anthropic und Sam Altman von OpenAI scheinen sich darin einig zu sein, dass es an der Zeit ist, „die Grenze zu überschreiten“. Wie würde das eigentlich aussehen?",
-    "titleDE": "Anthropic-CEO skizziert Plan zur Verlangsamung der KI-Entwicklung"
-  },
-  {
-    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the industry coming together as a whole, likely with gove …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-12T16:23:40.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dario Amodei, CEO von Anthropic, sagt, es sei an der Zeit, die KI-Entwicklung zu verlangsamen und externen Gutachtern wie METR Zugang zu seinen Modellen zu gewähren, um sicherzustellen, dass das Unternehmen „Sicherheitspraktiken und -verpflichtungen einhält“. In einem gewundenen Essay schlug Amodei einen Drei-Stufen-Plan vor, um „die Grenze zu überwinden“ – Jargon …",
-    "titleDE": "Der CEO von Anthropic sagt, es sei an der Zeit, bei der KI auf die Bremse zu treten"
-  },
-  {
-    "title": "Trump is giving data centers a pass to pollute",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "description": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection Pledge\" to signal that the administration is taking the environmental threat seriously. \nAt the start of his term, Trump's EPA administrator, Lee Zeldin, proclaimed his goal of making America \"the AI capital of the world\" through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules  …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-12T14:41:27.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Präsident Donald Trump schwächt die Umweltvorschriften im Namen der Beschleunigung des Baus von KI-Rechenzentren und erhöht damit die Gesundheitsrisiken für die Amerikaner, sagte ein Kader ehemaliger EPA-Beamter diese Woche in einem Briefing und einem neuen Bericht. Sie drängen – vielleicht vergeblich – den Präsidenten, eine... zu verabschieden.",
-    "titleDE": "Trump gibt Rechenzentren die Erlaubnis, die Umwelt zu verschmutzen"
-  },
-  {
-    "title": "OpenAI just wants to win",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-    "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\nInstead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those  …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-12T11:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI hat die letzten Jahre damit verbracht, Flaggen auf dem immer schwieriger werdenden Terrain der Mathematik zu setzen. Diese Woche gewann es einen seiner bisher größten Preise: eine Lösung für ein legendäres Millennium-Preis-Problem. Unter normalen Umständen wäre dies als historische Leistung gefeiert worden. In...",
-    "titleDE": "OpenAI will einfach nur gewinnen"
-  },
-  {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "pubDate": "2026-09-11T22:58:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Runde für das zwei Jahre alte Startup läuft Monate, nachdem Mecka seine Serie A angekündigt hat.",
-    "titleDE": "Mecka AI nähert sich der Bewertung von 500 Millionen US-Dollar im von Sequoia geführten Deal angesichts des Ansturms auf Robotertrainingsdaten"
-  },
-  {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-    "pubDate": "2026-09-11T20:59:47.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Tan möchte, dass kleinere amerikanische KI-Labore mit offenem Gewicht die gleichen Trainingstechniken wie KI-Labore an den US-Grenzgebieten verwenden, um den USA einen robusteren Satz offener Optionen zu bieten, die nicht chinesisch sind.",
-    "titleDE": "Garry Tan von Y Combinator möchte, dass auch offene KI-Labore in den USA Grenzmodelle „destillieren“."
-  },
-  {
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "pubDate": "2026-09-11T20:57:36.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "25 führende Mathematiker haben einen offenen Brief unterzeichnet, in dem sie argumentieren, dass KI-Labore ihre intellektuelle Arbeit bedrohen.",
-    "titleDE": "Der Streit zwischen OpenAI und Mathematikern eskaliert nur noch"
-  },
-  {
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "description": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-    "pubDate": "2026-09-11T20:33:18.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nur noch eine Woche, um Ihren Ausstellungstisch zu sichern. Die Anzahl der Tische ist begrenzt und kann vor Ablauf der Frist am 18. September ausverkauft sein.",
-    "titleDE": "Sie haben noch eine Woche Zeit, um Ihren Ausstellungstisch bei TechCrunch Disrupt 2026 zu reservieren"
-  },
-  {
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-    "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-    "pubDate": "2026-09-11T20:30:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die absolut letzte Chance, sich für die Ausrichtung eines offiziellen Side Events während TechCrunch Disrupt 2026 zu bewerben, ist heute Abend, 11. September, um 23:59 Uhr. PT.",
-    "titleDE": "Letzter, letzter, letzter Aufruf für TechCrunch Disrupt 2026 Side Events"
-  },
-  {
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "description": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
-    "pubDate": "2026-09-11T20:05:06.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Mitarbeiter der weltweit führenden KI-Labore sagen, dass die reale Möglichkeit besteht, dass fortschrittliche KI die Menschheit zerstören könnte. Haben sie recht? Oder ist das eher Panikmache und Hype? Nehmen Sie mit Niall Firth, Chefredakteur der MIT Technology Review, an einem Gespräch mit dem leitenden KI-Redakteur Will Douglas Heaven und AI teil...",
-    "titleDE": "Roundtables: Könnte KI uns wirklich alle töten?"
+    "titleDE": "Sam Altman sagt, dass ein Börsengang von OpenAI im Jahr 2026 „schlecht beraten“ wäre"
   },
   {
     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
@@ -426,7 +486,7 @@
     "pubDate": "2026-09-11T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Lernen Sie die unter 35-Jährigen kennen, die die Zukunft der Biotechnologie gestalten. Jedes Jahr stellt MIT Technology Review unsere 35 Innovatoren unter 35 zusammen, eine Liste einiger der klügsten und intelligentesten...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Treffen Sie die unter 35-Jährigen, die die Zukunft der Biotechnologie gestalten. Jedes Jahr stellt MIT Technology Review unsere 35 Innovatoren unter 35 zusammen, eine Liste einiger der klügsten und intelligentesten...",
     "titleDE": "Der Download: Die Zukunft der Biotechnologie und billigerer, saubererer Stahl"
   },
   {
@@ -488,26 +548,6 @@
     "category": "news",
     "descriptionDE": "Lernen Sie den Datenagenten in ChatGPT Work kennen. Verbinden Sie Unternehmensdaten, gewinnen Sie Erkenntnisse und erstellen Sie interaktive Dashboards mit KI und natürlicher Sprache.",
     "titleDE": "Jetzt kann jeder Daten nutzen"
-  },
-  {
-    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,…",
-    "pubDate": "2026-09-10T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Gott sagte ihnen, sie sollten Krypto verkaufen. Ihre Investoren haben alles verloren. Als Eli Regalado zum ersten Mal hörte, wie Gott zu ihm sprach, fragte er sich, ob er halluzinierte. Nach...",
-    "titleDE": "Der Download: eine „gottgesteuerte“ Kryptowährung und eine Roadmap für Solartechnik"
-  },
-  {
-    "title": "Powering AI is an architecture problem",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
-    "pubDate": "2026-09-10T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Am 22. Juli 2026 hat ein Übertragungsleitungsfehler in Ashburn, Virginia – dem Herzen des weltweit größten Rechenzentrumsclusters – innerhalb von Sekunden mehr als 3 Gigawatt Last vom Netz genommen. Und es war nicht das erste Mal. Zwei Jahre zuvor hatte ein einzelner ausgefallener Überspannungsableiter etwa 60 Anlagen in Virginia lahmgelegt ...",
-    "titleDE": "Die Stromversorgung von KI ist ein Architekturproblem"
   },
   {
     "title": "Introducing ChatGPT for Financial Services",
@@ -598,55 +638,5 @@
     "category": "news",
     "descriptionDE": "Chris Lehane argumentiert, dass stärkere KI-Fähigkeiten stärkere Sicherheitsnachweise, gemeinsame Standards und dauerhafte politische Maßnahmen erfordern, solange das politische Fenster offen bleibt.",
     "titleDE": "Das Fenster „KI-Richtlinie“ ist geöffnet. Wir müssen handeln."
-  },
-  {
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "description": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "pubDate": "2026-09-09T11:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Lernen Sie GPT-6 Astra kennen, das leistungsfähigste Modell von OpenAI für Unternehmen, mit fortgeschrittenem Denken, Computernutzung und einem stärkeren Urteilsvermögen beim Schreiben und Design.",
-    "titleDE": "GPT-6 Astra: Die nächste Generation der Intelligenz für die Arbeit"
-  },
-  {
-    "title": "Why this month's Microsoft patch release is a doozy",
-    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-    "pubDate": "2026-09-08T21:11:46.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Sicherheitszwerge verteilen Patches im Vorfeld einer erwarteten Flut von KI-gestützten Angriffen.",
-    "titleDE": "Warum die Microsoft-Patch-Veröffentlichung dieses Monats ein Trottel ist"
-  },
-  {
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "pubDate": "2026-09-08T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Sehen Sie, wie ein MIT-Forscher GPT-5.6 Sol mit Codex verwendet, um autonom Quantencomputing-Experimente durchzuführen, Ergebnisse zu analysieren und Qubits zu kalibrieren.",
-    "titleDE": "Wie GPT-5.6 Sol bei der Durchführung von Quantencomputing-Experimenten hilft"
-  },
-  {
-    "title": "The Work Now Within Reach",
-    "link": "https://openai.com/index/the-work-now-within-reach",
-    "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "pubDate": "2026-09-08T13:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie, wie leistungsfähigere und erschwinglichere KI die Arbeit von Menschen und Unternehmen erweitern und das Wachstum wirtschaftlicher machen kann.",
-    "titleDE": "Die Arbeit jetzt in greifbarer Nähe"
-  },
-  {
-    "title": "Introducing ChatGPT Images 2.5",
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-    "pubDate": "2026-09-08T11:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "ChatGPT Images 2.5 hilft dabei, Ihre Ideen, Skizzen und Referenzfotos in personalisiertere, ausgefeiltere Bilder umzuwandeln, die Ihre Ideen besser widerspiegeln.",
-    "titleDE": "Einführung in ChatGPT Images 2.5"
   }
 ]
