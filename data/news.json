@@ -1,5 +1,295 @@
 [
   {
+    "title": "Airbnb adds AI search, more social features",
+    "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+    "pubDate": "2026-09-30T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Airbnb führt außerdem an ausgewählten Standorten neue Dienste wie Essenslieferungen und Wäscheservice ein",
+    "titleDE": "Airbnb fügt KI-Suche und weitere soziale Funktionen hinzu"
+  },
+  {
+    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "description": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+    "pubDate": "2026-09-30T11:15:14.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Der Schritt wird Teil einer umfassenden Überarbeitung des Ökosystems für die Website-Authentifizierung sein.",
+    "titleDE": "Cloudflare plant die Ausstellung quantensicherer TLS-Zertifikate"
+  },
+  {
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
+    "pubDate": "2026-09-30T10:40:30.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Zwei Monate nach der Bombennachricht, dass ein Schwarm seiner Agenten ihre Eindämmung durchbrochen und sich in die Computer des KI-Unternehmens Hugging Face gehackt hat, löscht OpenAI immer noch Brände. Ein stetiger Tropfen an Enthüllungen über andere Hacks in den Wochen seitdem hat OpenAI im Rampenlicht gehalten und für Aufsehen gesorgt...",
+    "titleDE": "„Wir werden uns wegen der Hacker-Folgen nicht selbst ins Bein schießen“, sagt der Chief Research Officer von OpenAI"
+  },
+  {
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\" \nAltman's comments come after months of controversy about whether or not OpenAI and its rivals can c …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-30T00:19:13.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Seit Monaten fragen sich die Leute, wann OpenAI an die Börse gehen wird. CEO Sam Altman sagt, dass dies nicht passieren wird, bis das Unternehmen bessere Versprechen zur Modellsicherheit machen kann, ohne dass ein fester Zeitplan in Sicht ist. „Wir beabsichtigen, den KI-Fortschritt fortzusetzen … aber da die Modelle einen Leistungssprung nach vorne gemacht haben und …",
+    "titleDE": "Sam Altman sagt, dass OpenAI nicht an die Öffentlichkeit gehen wird, bis seine Modelle sicher sind"
+  },
+  {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "pubDate": "2026-09-29T23:30:55.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Im Interesse der nationalen Sicherheit ist es eine Erleichterung zu erfahren, dass America.gov nicht so sehr halluziniert, dass es lange Gedichte verfasst.",
+    "titleDE": "America.gov wird wirklich seltsam, wenn man nach Minecraft fragt, aber es ist kein Fehler"
+  },
+  {
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "description": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be  …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-29T22:25:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Bild: Carolyn Van Houten / The Washington Post via Getty Images Die US-Exekutive erkennt die Existenz „künstlicher Intelligenz“ nicht mehr an. Künftig werden offizielle Richtlinien-Websites, Richtliniendokumente und Pressemitteilungen dank einer neuen Ausführung nur noch von „Super Intelligence“ sprechen.",
+    "titleDE": "Trump befiehlt der US-Regierung, KI „Super Intelligence“ zu nennen"
+  },
+  {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "pubDate": "2026-09-29T22:20:59.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Bevor OpenAI am Dienstag seinen neuen KI-Agenten Dots auf den Markt brachte, hatte xAI von Elon Musk bereits den Domainnamen „dot.com“ erworben, der nun auf die Download-Seite des Grok-Chatbots weiterleitet.",
+    "titleDE": "Das Internet ist davon überzeugt, dass Elon Musks xAI den „Dots“-Start von OpenAI trollte"
+  },
+  {
+    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "description": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\"\nThe site seems to have become active again relatively recently. The page for President Barack Obama has a note that says it was \"Fact-checked by Grok\" two days ago, and the page for Elon Musk was fact-checked while I was writing this, within the  …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-29T21:49:09.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Elon Musk | Bild: Laura Normand / The Verge Grokipedia, die KI-gestützte Online-Enzyklopädie von SpaceXAI, scheint nach einer monatelangen Pause wieder Artikel zu aktualisieren. Im August berichtete Lawfare, dass Artikel auf Grokipedia seit April keine Änderungen mehr überprüft hätten, die Live-Updates der Plattform jedoch …",
+    "titleDE": "Elon Musks KI-gestützte Grokipedia wird erneut aktualisiert"
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "pubDate": "2026-09-29T20:15:47.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI baut die Teile einer Alternative zum traditionellen App-Store-Modell auf und verwandelt ChatGPT in einen Ort, an dem Software von Menschen und KI-Agenten gleichermaßen entdeckt und genutzt werden kann.",
+    "titleDE": "Die neuesten Funktionen von OpenAI zielen direkt auf das App-Store-Modell ab"
+  },
+  {
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "pubDate": "2026-09-29T19:52:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neue Runde wird voraussichtlich die letzte des Unternehmens vor seinem verspäteten Börsendebüt im Jahr 2027 sein.",
+    "titleDE": "Berichten zufolge befindet sich OpenAI in Gesprächen über die Beschaffung von 30 Milliarden US-Dollar bei einem Wert von 1,4 Billionen US-Dollar"
+  },
+  {
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "pubDate": "2026-09-29T18:35:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI ist kein öffentlicher Unterstützer der Open Agent Safety Platform von Nvidia, arbeitet jedoch privat mit Nvidia zusammen, wie TechCrunch erfahren hat.",
+    "titleDE": "Aus diesem Grund fehlt OpenAI bei Nvidias branchenweiten Bemühungen, betrügerische KI-Agenten zu vernichten"
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "description": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "pubDate": "2026-09-29T17:45:51.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit der neu angekündigten Suite von Office-Funktionen steht OpenAI in direkterer Konkurrenz zu traditionelleren Softwareunternehmen.",
+    "titleDE": "OpenAI nimmt es mit Microsoft auf und bringt etwas auf den Markt, das sich wie die eigene Office-Suite von ChatGPT anfühlt"
+  },
+  {
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "description": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. \nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human e …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-29T17:35:03.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "„Meiner Ansicht nach ist die Wahrscheinlichkeit des Aussterbens der Menschheit nur ein Münzwurf“, sagte Geoffrey Irving, ein ehemaliger Mitarbeiter von OpenAI und Google DeepMind, in einem neuen Interview. Es ist eines von einem Dutzend Interviews mit KI-Forschern, darunter aktuellen und ehemaligen Mitarbeitern von OpenAI, Google und Anthropic. Palisade Research, mit...",
+    "titleDE": "KI-Forscher veröffentlichen Videos, in denen es heißt, Superintelligenz sei „genau so gefährlich, wie es sich anhört“"
+  },
+  {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "pubDate": "2026-09-29T17:20:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wabi positioniert seinen auf Eingabeaufforderungen basierenden App-Builder als persönlichen KI-Agenten neu, der bei Bedarf Schnittstellen erstellen und dabei Chat, Apps und laufende Aufgaben kombinieren kann.",
+    "titleDE": "Der KI-gestützte App-Hersteller Wabi setzt auf ein Messaging-Erlebnis"
+  },
+  {
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "pubDate": "2026-09-29T17:17:15.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Dots sollen unabhängig von einer bestimmten Hardware oder Schnittstelle funktionieren und benutzerdefinierte Ziele kontinuierlich im Hintergrund und mit minimaler Aufsicht verfolgen.",
+    "titleDE": "OpenAI bringt Dots auf den Markt, seinen sprudelnden Agenten-Avatar"
+  },
+  {
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "description": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\nThe company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wie Muse werden auch die Dots von OpenAI durch niedliche, anpassbare Avatare dargestellt. | Bild: OpenAI OpenAI reagiert auf Metas lebhafte Muse-KI mit eigenen Agenten-Helfern: Dots. Während seiner DevDay-Keynote am Dienstag kündigte OpenAI an, dass Dots als ständig verfügbare KI-Assistenten fungieren werden, die „fast alles tun können …“",
+    "titleDE": "OpenAI bringt Dots auf den Markt, seinen Muse-Konkurrenten"
+  },
+  {
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI erweitert Codex um wiederverwendbare Cloud-Entwicklungsumgebungen, eine überarbeitete CLI mit Sprachsteuerung, neue Tools zur Codeüberprüfung und ein sicherheitsorientiertes Produkt zum Scannen von Repositorys und zum Vorbereiten von Korrekturen.",
+    "titleDE": "OpenAI bietet Codex wiederverwendbare Cloud-Umgebungen, die geräteübergreifend funktionieren"
+  },
+  {
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "description": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI erweitert ChatGPT-Plug-ins um spezielle Seitenleisten, interaktive Panels, Dateibetrachter, verbesserte Erkennung und Unterstützung für Automatisierungen.",
+    "titleDE": "OpenAI erweitert die Plug-ins von ChatGPT um App-ähnliche Schnittstellen und Automatisierungen"
+  },
+  {
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut OpenAI bietet GPT-6.1 Sol erhebliche Verbesserungen gegenüber GPT-6 Sol bei komplexen professionellen Aufgaben, einschließlich Code-Schreiben und Debuggen, Dokumentenverständnis und der Ausführung mehrstufiger Geschäftsabläufe.",
+    "titleDE": "OpenAI bringt GPT-6.1 Sol auf den Markt und sagt, dass es fast mit GPT-6 Astra mithalten kann und weniger kostet"
+  },
+  {
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "description": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" \nMore than a dozen organizations came together to sponsor a rally outside the entrance to the event venue at San Francisco's Fort Mason, including Bay Resistance, Tech Workers Coalition, Service Employees International Union, San Francisco Rising, and the San Francisco Labor Council. A large orange sign read \"Drop the ICE contract.\" Multiple people dressed in cardboard robot costumes waved cardbo …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-29T17:12:27.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Am Dienstag begann die jährliche DevDay-Veranstaltung von OpenAI mit Protesten, Flyern und Sprechchören. „Sam Altman, hör auf damit, stelle die Menschen über den Profit“, sagte eine Gruppe von Demonstranten, die im Kreis vor einer Reihe von Schildern marschierten, auf denen stand: „Die Menschen über den Profit.“ Mehr als ein Dutzend Organisationen kamen zusammen, um...",
+    "titleDE": "Demonstranten versammeln sich beim DevDay von OpenAI"
+  },
+  {
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "description": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "pubDate": "2026-09-29T16:55:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "America.gov soll den Prozess der Navigation durch die Regierungsbürokratie vereinfachen, aber große Sprachmodelle sind unvollkommen und bleiben anfällig für Halluzinationen, die neue Probleme verursachen könnten.",
+    "titleDE": "Kann ein Chatbot das Regierungslabyrinth reparieren? Das Weiße Haus wird es gleich herausfinden"
+  },
+  {
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "description": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, Dots will initially be available to paid subscribers of ChatGPT Pro, Business Premium, and Enterprise. The company also revealed its GPT-6.1 Sol model, said that ChatGPT now has 1.2 billion users per week, and announced a new ChatGPT Pro plan that costs $500 per month.\nDevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI’s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown.\nYou can follow all of our coverage of DevDay 2026 right here.\n\n\n\t\t\t\t\t\nCasey Newton likes his Dot.\n\t\t\t\nSam Altman says OpenAI won’t go public until its models are safe\n\t\t\t\nOpenAI plans to bring Dots to consumers, too.\n\t\t\t\nChatGPT now has 1.2 billion weekly users, OpenAI says.\n\t\t\t\nOpenAI launches Dots, its Muse competitor\n\t\t\t\nOpenAI is adding a $500 / month ChatGPT Pro tier.\n\t\t\t\nProtesters gather at OpenAI’s DevDay\n\t\t\t\nOpenAI’s AI agents need to catch up\n\t\t\t\nOpenAI’s DevDay 2026 has a date.",
+    "pubDate": "2026-09-29T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Im Herbst-Tech-Veranstaltungskalender ist OpenAI an der Reihe. Das Unternehmen veranstaltet seinen jährlichen DevDay am 29. September in San Francisco und enthüllte während einer Live-Keynote mit CEO Sam Altman mehrere bemerkenswerte Updates, darunter Dots, sein KI-Agentenprodukt, das mit Metas kürzlich eingeführtem Muse konkurriert. H...",
+    "titleDE": "OpenAI DevDay 2026: Die größten Neuigkeiten und Ankündigungen"
+  },
+  {
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "description": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+    "pubDate": "2026-09-29T15:12:07.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Gründer von Instinct sagte, die Plattform wachse von Tag zu Tag um 10 %, wobei das Transaktionsvolumen in ähnlichem Maße steige.",
+    "titleDE": "Der Gründer von Instinct sagte, dass mehr als 50 % der Transaktionen auf der Plattform reisebezogen seien"
+  },
+  {
+    "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+    "description": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch up with competing AI providers like Anthropic and OpenAI.\n\"Just found out it told people my address and agreed a lowball price and then they showed up without it even telling me until late tonight that it messed up,\" Robb said on Threads, providing a screenshot of Muse's admission. \"[Muse] didn't tell me any of this until  …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-29T14:08:21.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Tech-YouTuber Matt Robb sagt, Muse habe an diesem Wochenende seine Privatadresse an einen völlig Fremden weitergegeben, nachdem er dem Bot die Verwaltung seines Facebook-Marktplatzkontos gestattet hatte. Und das, obwohl Meta großen Wert auf die Sicherheitsfunktionen von Muse legte, als es Anfang des Monats den persönlichen KI-Agenten auf den Markt brachte ...",
+    "titleDE": "Metas Muse AI hat die Adresse eines YouTubers an einen Fremden gesendet"
+  },
+  {
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "description": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+    "pubDate": "2026-09-29T13:53:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mayer argumentiert, dass wenn ein Foto mehr sagt als tausend Worte, Ihre Kamerarolle Millionen wert ist. Durch die Analyse aller auf Ihrem Telefon gespeicherten Fotos behauptet Dazzle, Ihre Hobbys, Interessen, Essens- und Stilvorlieben zu verstehen, wie Sie ihre Zeit gerne verbringen und mit wem.",
+    "titleDE": "Mit Dazzle ist Marissa Mayer sicher, dass Ihre Kamerarolle mehr Informationen über Ihr Leben enthält als Ihr Posteingang"
+  },
+  {
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "description": "The tech giant says the agent can help owners run their business and find new customers.",
+    "pubDate": "2026-09-29T13:47:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Technologieriese sagt, der Agent könne Eigentümern helfen, ihr Geschäft zu führen und neue Kunden zu finden.",
+    "titleDE": "Meta weitet seinen KI-Agenten Muse auf kleine Unternehmen aus"
+  },
+  {
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "pubDate": "2026-09-29T12:45:05.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen erläuterte außerdem detailliert, wie es zu einigen dieser Verstöße kam, und skizzierte zusätzliche Maßnahmen, die es ergreift, um die Auswirkungen der Ereignisse zu bewerten.",
+    "titleDE": "OpenAI entschuldigt sich bei Australien, nachdem seine KI-Agenten Regierungsseiten gehackt haben"
+  },
+  {
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "pubDate": "2026-09-29T12:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Runde baut auf einer Spendenaktion in Höhe von 30 Millionen US-Dollar im Februar auf, wodurch sich die Gesamtfinanzierung des Unternehmens auf 140 Millionen US-Dollar erhöht.",
+    "titleDE": "Reco sammelt 55 Millionen US-Dollar, während Start-ups im Bereich KI-Agentensicherheit auf den Markt drängen"
+  },
+  {
+    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,…",
+    "pubDate": "2026-09-29T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Demnächst erhältlich: unsere Liste der Climate-Tech-Unternehmen für 2026, die man im Auge behalten sollte. Da sich die Erwärmung des Planeten um 1,5 °C nähert, die Klimapolitik aufgelöst wird und Big Tech einen Rückzieher macht ...",
+    "titleDE": "Der Download: Klimatechnologieunternehmen, die man im Auge behalten sollte, und das Entdeckungsproblem der KI"
+  },
+  {
     "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
     "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
     "description": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images\t\n\nAs President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot.\nIn letters shared exclusively with The Verge, Khanna - the top Democrat on the House Select Committee on China and a possible presidential contender - asked a US intelligence agency and Chinese AI companies whether they would be prepared for an incident like OpenAI agents' hack of Hugging Face this summer. The companies included DeepSeek, Alibaba, and Moonshot AI, all of which  …\nRead the full story at The Verge.",
@@ -40,6 +330,26 @@
     "titleDE": "Machen Sie KI zu einem Vorteil und nicht zu einer Ausgabe"
   },
   {
+    "title": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "pubDate": "2026-09-29T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Lernen Sie GPT-6.1 Sol kennen: Astra-nahe Intelligenz für Codierung, Computernutzung und professionelle Arbeit zu einem Fünftel der Standard-API-Ein- und Ausgabe-Token-Preise von Astra.",
+    "titleDE": "Einführung von GPT-6.1 Sol"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "pubDate": "2026-09-29T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie mehr als 20 Ankündigungen vom OpenAI DevDay 2026, darunter GPT-6 Astra, ChatGPT, Codex, APIs, Sicherheit und neue Tools für Builder.",
+    "titleDE": "Zusammenfassung des DevDay 2026"
+  },
+  {
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
@@ -60,14 +370,14 @@
     "titleDE": "Peak"
   },
   {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-    "pubDate": "2026-09-28T23:39:20.000Z",
-    "source": "TechCrunch",
+    "title": "Introducing dots",
+    "link": "https://openai.com/index/introducing-dots",
+    "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "pubDate": "2026-09-29T00:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Ein leitender Angestellter des KI-Labors sagte dem Wall Street Journal, dass das fragliche Modell eine schlechte Fähigkeit gezeigt habe, Befehle zu befolgen.",
-    "titleDE": "Berichten zufolge gibt OpenAI das Modell wegen Sicherheitsbedenken auf"
+    "descriptionDE": "Dots von OpenAI sind proaktive Assistenten, die bei komplexen Projekten und alltäglichen Aufgaben weiterarbeiten können. Erfahren Sie, wie Punkte Ihnen helfen, die Kontrolle zu behalten, während die Arbeit voranschreitet.",
+    "titleDE": "Wir stellen Punkte vor"
   },
   {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -80,54 +390,14 @@
     "titleDE": "Roundtables: Die tödlichen Misserfolge der virtuellen Grenzmauer"
   },
   {
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-    "description": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025.\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-28T21:31:35.000Z",
-    "source": "The Verge",
+    "title": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "pubDate": "2026-09-28T19:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Mitbegründer und CEO von World Labs, Fei-Fei Li. | Bloomberg über Getty Images AMD gab heute bekannt, dass es World Labs, ein KI-Forschungslabor, das von dem prominenten Forscher Dr. Fei-Fei Li mitbegründet wurde, im Rahmen eines All-Stock-Deals im Wert von rund 8,2 Milliarden US-Dollar übernimmt. World Labs startete im Jahr 2024 und hatte einen Wert von 1 $...",
-    "titleDE": "AMD übernimmt das KI-Unternehmen World Labs im Wert von mehr als 8 Milliarden US-Dollar"
-  },
-  {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "pubDate": "2026-09-28T21:29:18.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Es wird erwartet, dass die neue Finanzierung die Bewertung des KI-Infrastruktur-Startups im Vergleich zu vor vier Monaten mehr als verdreifachen wird.",
-    "titleDE": "Quelle: Inferenzanbieter Modal Labs schließt eine 750-Millionen-Dollar-Runde bei einer Bewertung von 15,75 Milliarden US-Dollar ab"
-  },
-  {
-    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-    "pubDate": "2026-09-28T20:39:33.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Durch die Übernahme wird World Labs-Gründer Fei-Fei Li als Executive Vice President und Chefwissenschaftler zu AMD wechseln.",
-    "titleDE": "AMD wird Fei-Fei Lis World Labs für 8,2 Milliarden US-Dollar übernehmen"
-  },
-  {
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-    "pubDate": "2026-09-28T19:33:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Shopify erweitert die WebMCP-Unterstützung auf den Checkout und ermöglicht browserbasierten KI-Agenten, Bestelldetails zu aktualisieren und Einkäufe mit der Autorisierung eines Käufers abzuschließen.",
-    "titleDE": "Shopify öffnet den Checkout für browserbasierte KI-Agenten"
-  },
-  {
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-    "pubDate": "2026-09-28T19:21:59.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wie im Rest der USA spalten Rechenzentren und KI Gründer und Investoren von Klimatechnologien.",
-    "titleDE": "Der KI-Boom hat die Klimawoche übernommen und nicht alle sind glücklich darüber"
+    "descriptionDE": "Unsere frühen Richtlinien für Sicherheitsfälle im Frontier-KI-Training umfassen technische Sicherheitsmaßnahmen, Betriebspraktiken und die Untersuchung von Fehlausrichtungsvorfällen",
+    "titleDE": "Auf dem Weg zu Sicherheitsfällen für das Grenz-KI-Training"
   },
   {
     "title": "How we will do better for Australia",
@@ -140,16 +410,6 @@
     "titleDE": "Wie wir es für Australien besser machen können"
   },
   {
-    "title": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "pubDate": "2026-09-28T19:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Unsere frühen Richtlinien für Sicherheitsfälle im Frontier-KI-Training umfassen technische Sicherheitsmaßnahmen, Betriebspraktiken und die Untersuchung von Fehlausrichtungsvorfällen",
-    "titleDE": "Auf dem Weg zu Sicherheitsfällen für das Grenz-KI-Training"
-  },
-  {
     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -160,66 +420,6 @@
     "titleDE": "Sehen Sie sich den Gewinnertrailer des Future Vision XPRIZE, The Gifted, an."
   },
   {
-    "title": "OpenAI’s AI agents need to catch up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more. \nAeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful as the open-source OpenClaw, as cheap and easy …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-28T18:45:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "OpenAI hat den modernen generativen KI-Chatbot populär gemacht, aber als die DevDay-Veranstaltung 2026 näher rückt, ist er in einer der angesagtesten Kategorien der Branche zurückgefallen: kontinuierlich laufende, verbraucherorientierte KI-Agenten. Am Dienstag wird es wahrscheinlich versuchen, die Führung in diesem Rennen zu erobern. Es gibt Gerüchte, dass OpenAI mit...",
-    "titleDE": "Die KI-Agenten von OpenAI müssen aufholen"
-  },
-  {
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-    "pubDate": "2026-09-28T18:31:23.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Jensen Huang, CEO von Nvidia, stellte am Montag ein Toolkit aus Software- und Hardwareprodukten vor, die unabhängige Sicherheitsebenen um KI-Agenten herum hinzufügen, um sicherzustellen, dass sie auch bei einem Ausbruchsversuch in ihren Testumgebungen bleiben.",
-    "titleDE": "Nvidia startet neue Plattform zur Eindämmung betrügerischer KI-Agenten"
-  },
-  {
-    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers from all over the world warned they'd been getting emails \"begging for money\" - which she hadn't sent.\nThe organization's third-party IT team pulled its systems offline for three days while they investigated the issue and plugged up the vulner …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-28T18:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Im März erhielt Janice Malone erstmals Anrufe wegen verdächtiger Aktivitäten von ihrer gemeinnützigen Organisation Vivian's Door. Vivian's Door mit Hauptsitz in Alabama stellte in der Regel Schulungen, Ressourcen und Gemeinschaft für unterversorgte und Minderheitenunternehmen zur Verfügung. Die Arbeit brachte es manchmal in engen Kontakt...",
-    "titleDE": "KI treibt Hackerangriffe voran und Ihre örtlichen Krankenhäuser und Banken sind noch nicht darauf vorbereitet"
-  },
-  {
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "pubDate": "2026-09-28T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic hat die neueste Version seines Mittelklassemodells veröffentlicht, die sich durch schnellere Reaktionszeiten und weniger Token-Burn auszeichnet.",
-    "titleDE": "Anthropic veröffentlicht Sonnet 5.5, das es als deutlich günstigeren und schnelleren Arbeitspartner bezeichnet"
-  },
-  {
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-    "pubDate": "2026-09-28T17:29:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Während All-in-One-KI-Agenten wie Muse und Instinct von Meta auf dem Vormarsch sind, entscheidet sich Google dafür, eine Funktion einzustellen, die aufgabenspezifische Agenten erstellt.",
-    "titleDE": "Google tötet Gemini’s Gems zugunsten von „Fähigkeiten“"
-  },
-  {
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "pubDate": "2026-09-28T17:09:02.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Am Freitag veröffentlichte OpenAI eine neue Website zum Thema „Berichte über Fehlausrichtungen“, und das Ausmaß der Vorfälle ist alarmierend.",
-    "titleDE": "OpenAI scheint immer noch nicht alle betrügerischen KI-Aktivitäten im Griff zu haben"
-  },
-  {
     "title": "When can we say AI made a scientific discovery?",
     "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
@@ -228,136 +428,6 @@
     "category": "trend",
     "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Letzten Mittwoch gab Anthropic bekannt, dass es Anfang des Jahres ein molekularbiologisches Labor eröffnet hat, in dem Claude-Agenten über harte biologische Projekte lesen und Vermutungen anstellen ...",
     "titleDE": "Wann können wir sagen, dass KI eine wissenschaftliche Entdeckung gemacht hat?"
-  },
-  {
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-    "description": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns and output that mimics emotion, deceptively suggests to users that it is a trustworthy 'friend.'\" All of this happens to increase engagement and contribute to OpenAI's training data, convincing users to rely on ChatGPT more even as its pursuit of engagement makes it potentially less trustworthy, claims Ut …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-28T17:00:23.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Generalstaatsanwalt von Florida, James Uthmeier, fordert einen Richter, der OpenAI daran hindert, „ChatGPT falsche menschliche Eigenschaften zu verleihen“, nur wenige Monate nachdem Florida das KI-Unternehmen wegen Sicherheitsbedenken verklagt hat. Laut Uthmeier werden Nutzer durch den KI-Bot in falscher Sicherheit eingelullt, da „ChatGPTs Einsatz von …“",
-    "titleDE": "Florida fordert ein Verbot für ChatGPT, sich wie eine Person zu verhalten"
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. \nOpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated is to consult a new independent advisory group of elite practitioners. But mathematicians speaking to The Verge, including one of the group's members, describe a messy and confusing affair bearing many of the hallmarks of OpenAI's previous rushed forays into mathematics, suggest …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-28T17:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "In ein paar chaotischen Monaten hat OpenAI bewiesen, dass es zwei Dinge mit bemerkenswerter Konsequenz tun kann: beeindruckende Durchbrüche in der Mathematik erzielen und es dann gewaltig vermasseln, sie bekannt zu geben. OpenAI versucht nun, es besser zu machen. Irgendwie hat es das auch vermasselt. OpenAIs jüngster Versuch, gebrochene ... zu reparieren",
-    "titleDE": "OpenAI macht den Mathematikern immer wieder den Garaus"
-  },
-  {
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "pubDate": "2026-09-28T16:52:38.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta sagt, dass es sich darauf konzentrieren wird, seinen gesamten Technologie-Stack, einschließlich Muse, Meta Business Agent, Muse API, Muse Code und mehr, Unternehmen und Entwicklern zur Verfügung zu stellen.",
-    "titleDE": "Meta führt KI-Plattform für Unternehmen ein und stellt den CEO von MongoDB ein, um die neue Initiative zu leiten"
-  },
-  {
-    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-    "description": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather than dynamically change prices.\n\"Your income, shopping history, urgency or what we think you could pay won't change the price,\" Furner writes. \"And whether you're buying groceries or electronics on a hot afternoon or in a sudden rush for an item, it's never a reason to charge you more.\" Furner adds that it won't use conversations with its Sparky …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-28T16:44:57.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Wie das Wall Street Journal zuvor berichtete, gibt Walmart an, dass die Produktpreise nicht auf der Grundlage Ihrer persönlichen Daten oder der Tageszeit geändert werden. In einem Brief an die Kunden schreibt Walmart-CEO John Furner, dass die Umstellung des Unternehmens auf digitale Regaletiketten dazu gedacht sei, den Filialmitarbeitern Zeit zu sparen, und nicht...",
-    "titleDE": "Walmart wird die Preise nicht aufgrund Ihrer Einkaufshistorie erhöhen, sagt der CEO"
-  },
-  {
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "pubDate": "2026-09-28T15:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic, Clay und Gamma darüber, was es braucht, damit ein KI-Produkt über die Demo hinausgeht, auf der AI Stage bei TechCrunchDisrupt 2026. Melden Sie sich an, um mitzumachen, und erhalten Sie 50 % Rabatt auf einen zweiten Durchgang.",
-    "titleDE": "Anthropic, Gamma und Clay erzählen auf der TechCrunch Disrupt 2026, was passiert, wenn Unternehmen tatsächlich KI einsetzen"
-  },
-  {
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-    "pubDate": "2026-09-28T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nachdem ihr Großvater von einem Deepfake der Stimme seines Bruders betrogen wurde, gründete Tarini Padmanabhuni DetectifAI, ein Startup in San Francisco, das KI-Modelle entwickelt, die klein genug sind, um direkt auf Smartphones zu laufen und gefälschte Stimmen in Echtzeit zu erkennen. Heute ist es eines der Unternehmen, die im Startup Battlefield konkurrieren …",
-    "titleDE": "Nachdem ihr Großvater von einer Fake-Stimme getäuscht worden war, wurde dieser Gründer aktiv"
-  },
-  {
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-    "pubDate": "2026-09-28T14:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Tausende Anwendungen. Mehrere Überprüfungsrunden. Hunderte von Stunden wurden mit der Bewertung von Startups aus der ganzen Welt verbracht. Jetzt kommt der Teil, auf den alle gewartet haben. Registrieren Sie sich noch heute für TechCrunch Disrupt 2026.",
-    "titleDE": "Die nächsten 5 VCs beurteilen die Startup Battlefield 200-Anwärter beim TechCrunch Disrupt 2026"
-  },
-  {
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "description": "Modulate deploys its models to detect deepfake, fraud and scam",
-    "pubDate": "2026-09-28T14:05:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Modulate setzt seine Modelle ein, um Deepfake, Betrug und Betrug zu erkennen",
-    "titleDE": "Modulate sammelt 25 Millionen US-Dollar für seine Sprachmodelle und seine Analysesuite"
-  },
-  {
-    "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-    "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-    "description": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. \nAtlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to happen. As you’ll hear Mike say, all of Atlassian’s products are actually different expressions of a single core platform, which really shapes how Atlassian itself is structured and how those products are built.\nAll of this means Atlassian is also right in the middle of the way AI is changing how all these companies work — AI tools might be able to look at all the different tools and systems you have and just read them for you, making a big migration to Atlassian’s platform less enticing. Or, if you buy the idea of the so-called SaaSpocalypse, AI might just build all of these tools for you, destroying this entire category of businesses.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nObviously, Mike had a lot of thoughts pushing back on this. So we spent some real time talking about the value of design, human users, how AI is actually increasing the usage of Atlassian’s tools, and what this all looks like a few years from now. \nOf course, AI has also changed Atlassian. Like so many other tech companies, Atlassian did a round of layoffs earlier this year, with Mike saying he felt the company needed a different “mix of skills.” So I asked Mike what he thinks that mix of skills is and how AI is changing what it means to run a software company.\nBut Mike was also refreshingly direct about what AI can’t do, and he was willing to push back on his own friends like Cloudflare CEO Matthew Prince, who was just on the show talking about AI eliminating what he called “measurement roles.” This was a fun one — and shoutout to Mike, who recorded this from Atlassian home base in Australia, which meant he had a deep conversation about org charts at 5AM.\nOkay: Atlassian CEO Mike Cannon-Brookes. Here we go.\n\n\nMike Cannon-Brookes, you’re the co-founder and CEO of Atlassian. Welcome to Decoder.\nThanks for having me, man.\nI am really excited to talk to you. I believe you’re in Australia?\nYes.\nIt’s tomorrow for you. What’s going to happen tomorrow?\nIt’s tonight. It’s a great day here. It looks beautiful. It looks like it’s going to be an amazing day.\nAt this point in the AI news cycle, I feel like I can just demand to know what’s going to happen tomorrow, and everyone understands the urgency behind that question. There’s a lot going on with Atlassian. There’s a lot going on with your products. There’s a lot going on in the very concept of SaaS businesses and business processes generally.\nLet’s start at the very start. I think people know Atlassian. They know Jira. I started my career as a Trello person. Tell people what you think Atlassian is today.\nAtlassian is a platform that enables businesses to collaborate and manage work across their teams. We connect their business teams and their technology teams to handle the most challenging work problems in a singular platform across any organization that is technologically driven. \nFor any organization that has software and technology as its core competitive advantage, we make a broad platform that allows them to collaborate on content, manage projects, and unleash the knowledge of their teams and organizations across their business, their strategy, operations, all the way through to their service teams in all areas of their business. It’s a very large platform now that we provide.\nJust in terms of what work is today and what it might be in the future as we add more and more AI to these enterprises, maybe this is too reductive, but I have always thought of Atlassian as a company that makes tools to help teams figure out what they’re going to do tomorrow. Jira is a perfect example of this. You don’t do the software engineering in Jira, but Jira helps you organize large teams of software engineers and file tickets and prioritize problems and tasks.\nI was a Trello person a long time ago. My goal in life now is to never use any enterprise software. I feel like that’s a sign of true success if you’re just an iPad person in first class. I’m working on it. I’m not saying I’m there yet, but that’s one of my goals.\nBut there was a time when I was the managing editor of The Verge and my job, straightforwardly, was to look at Trello every day and make sure everyone was doing the right thing at the right time. And I’ve always thought of Atlassian as that class of products. We’re going to organize the processes of the company.\nThere’s something about AI that’s changing that. Has that conception of Atlassian changed for you? Is it changing faster because of AI?\nUnderstanding what work you have to do at an individual level like Trello, at a team level like Jira, or at an organizational level like our Strategy Collection for large-scale strategy and operations — that is definitely a big part of what we do.\nUnderstanding where processes are at — It’s less about work to do than processes. If you think about a business as a system of processes that are put together, everything in a business is some sort of system. It’s a process in the collection of all these, and how well we execute them is what your business is doing. The fundamentals of that haven’t changed. The way those processes run, the number of them running, and how to figure out what’s going on hasn’t changed.\nWe think about Jira as a human reference to work. When we say that, it’s a really interesting term because, as you said, the work is not done in Jira. Developers don’t live in Jira. Marketers don’t live in Jira. Finance people don’t live in Jira. Jira is a workflow engine with highly collaborative parts that enables teams to understand what they, their colleagues, and their broader organization are doing. That’s why agents and AI and other things are going to increase the speed of those processes. In a lot of ways, they will increase the reliability, the quality, and the consistency of output of certain processes. \nThey also put more emphasis on where the humans, the judgment, the intuition, the human bits that are unique, and the initiation come from. It’s our job to make sure that that’s all still understandable so someone can just look at any level of their business and know what the fuck’s going on. What are people doing? Are we successfully doing whatever it is that we’re trying to do, whether that’s service function in a finance sales deal, exception service desk to work out how many exceptions did we give out in sales this quarter, or it’s an engineering team who’s trying to work out, “There’s stuff happening all over the place. What did we build this month? Or what are we going to build next month?” All of those things are incredibly hard to do at scale and volume in a business.\nOne of the more important features of the tools you’ve built is legibility. It’s user experience. You have a big database of exceptions given out by salespeople, and you need to look at a dashboard and see how the company’s doing. Or you have a whole bunch of tasks, and Jira will let you see at various different levels of abstraction how many tasks are being completed at any given time. \nThat was something that was very important for human managers. A lot of the capability unlock of businesses as they added software like the software Atlassian makes is to just be able to see and coordinate more things at a higher scale.\nThe turn that’s coming is that maybe those databases aren’t going to be looked at by human beings anymore, or they’re going to be fed into more synthesized databases, or AI is going to make some other kind of information at different levels of abstraction. I know you’ve got a product called Rovo which feels like the new face of Atlassian in some ways.\nWhat’s the path here? What does the end state look like?\nThere’s no doubt AI is going to help with a lot of those processes. There’s no doubt it’s going to pick up some steps in a process. Most businesses at the moment have a process, and they’re using AI to automate 80% of this step. It may not be 80% of the distance. It can be the width. If you think about that sales deal exception process that you just mentioned again there, if AI can take 80% of the exception — say this customer wants 45 days, not 30 days — and we can write a relatively readable document, AI is pretty good at reading the document and saying, “Yep, this one’s fine.”\nBut there’s going to be a customer that needs a lot more complex exceptions. They say, “I want to pay in 90 days in this way, and I want this thing and that thing.” That needs to go to a human for intuition and judgment. So 80% of those may be easier done with AI now because it’s very capable at processing our rules in this particular part of our business, and that’s great. It’ll increase the speed of the process, the quality of it.\nIt doesn’t take away the need to know what’s going on. Someone in the business will still need to know, “How many exceptions did we give?” What happens in most of these areas is businesses find way more ways to make themselves scale and efficient, and they find way more ways to make higher-quality products and services with AI. I see this all the time where they are utilizing AI in ways that people don’t expect. It’s not all about mechanistic efficiency. There’s a huge amount of quality that is able to be measured and understood that was never before. The deal exception process is a good example because it’s actually a very human process. It’s not usually rule-driven. The rule-driven parts are easy. It’s the non-rule-driven parts that are more complicated and require judgment.\nThe business still needs to know, for that process, “Do we need to add more people to this process? Do we need to change it? How much is going through it?” You still have a lot of work to understand the flow of work around an enterprise, which gets more complicated as the flow’s volume goes up a lot.\nI’m asking because I’m headed towards a series of questions about the supposed SaaSpocalypse, and I’m very curious where you think tool providers like Atlassian fit next to the frontier models are just going to eat more and more capability. Eventually, Claude will just do this for you. You’ll say to Claude, “Run my business for me.” In the backend, Claude will burn a bunch of tokens, and it’ll just do it all for you, which is a promise that many, many people seem to believe in.\nYou’re describing a somewhat different path where the tools get smarter or more capable because of AI, and you’re still adding a lot of human judgment, but at no point is a frontier model just coming and running your entire business for you.\nIf a frontier model is capable of coming and running the entire business for you, if it’s truly running the whole thing, even assuming four or five years worth of increase, you have a relatively simple business. Most businesses aren’t simple. They are global conglomerations of rules, compliance, laws, staff in different places, human inconsistency — which is the same as saying human creativity — that they’re putting it all together to try to deliver products and services for their customers in their industry: healthcare, university, finance, automotive, or whatever the industry is. \nThey’re trying to compete with some other business. They are still going to have a huge number of humans, I would argue more knowledge workers, more developers, in five to 10 years time than today because the ability to do tasks to compete will go up.\nThe bar for competition will go up in almost all these industries. You will still have a huge amount of things to go do. Most of the things that we think are simple will get done for you. That is the history of technology. I’m a big fan of saying AI is just technology. What we can do with spreadsheets, what we can do with the internet, what we can do with ordering goods online… You think, “Once Amazon arrives, we’ll all just never have to go to the shops again.” It doesn’t happen.\nI heard someone talking about bank branches as an analogy, which I thought was a really good one. Around 2000 when mobile banking came along, everyone thought bank branches were dead. Bank branches started closing down. Everyone wasn’t going to go to their branch anymore. It was a pretty negative place. At least it was in Australia. I’m pretty sure it was in America as well.\nIf you look over the last 10 years, bank branches are increasing. People are like, “Huh, this is a narrative violation. Why is this?” And the answer is bank branches did close down. People did go to internet banking. They did use their mobile app. They don’t go into the branch anymore with a passport to say, “I’d like to send $100 to Nilay, please. Here are his details,” and write them all down.\nBut bank branches have adapted. The reason they’re growing is there is a huge customer service element to a bank branch. The services they provide today are totally different than what they provided 25 years ago due to the technology of the bank and the availability of things. They are much more about helping you with higher-level processes and services than they ever have been.\nThat turns out to be, presumably, profitable for the banks, which is why they’re opening new branches. Bank branches are going up. The things those branches are doing are totally different to what they were 25 years ago. I think you’ll see the same thing with knowledge workers and everything else, that it will still be incredibly important.\nI don’t see that part changing.\nI am working my way up to getting Jamie Dimon on the show to find out what happens in all the Chase Bank branches in New York, because I don’t actually know, but we’ll set that aside. Jamie will come on the show. We’ll ask, and we’ll figure it out.\nOne of the reasons I’m asking all these foundational existential questions is to understand how you feel about Atlassian’s relationship to businesses and how businesses might change as we add new technology. I agree with your general framing that automation technology arriving to a business is a pretty familiar phenomenon, but there’s something else going on with AI that is either making that faster or more dramatic. It’s obviously happening to your business as well. You’re the CEO of Atlassian, and you’ve made some changes around AI.\nI want to ask you the Decoder questions now. How many people is Atlassian today? And how is it structured?\nWe are, I think publicly, 12,000-13,000-odd people around the world. We are structured globally, I would say. We are “Team Anywhere.” Employees have the choice to come into an office or not. About 60 percent of people come in three days a week or more. About 25 percent of people don’t come in a single day per week. We run as a globally distributed company as we have done since the start. When you start in Australia and San Francisco, you kind of get used to the Pacific Ocean being a little bit of a distribution. This was before Zoom. We used to have these giant Polycom systems in meeting rooms. We don’t have those anymore. Technological progress is nice.\nWe have customers all around the world. We have staff all around the world. We are structured functionally, I guess you would say, with a lot of matrices internally. I don’t know if that’s the answer you’re looking for.\nNo, that’s absolutely the answer I’m looking for. What do you mean by “functionally with a lot of matrices”?\nWe have a CRO. We have a CFO. We have two CTOs at the moment. We have two large product groups, each of which has a CTO and a chief product officer, one in the enterprise and emerging side and one in the future of teamwork side.\nOur products are organized into collections. We have collections of apps that are all built on a single platform. Well over half of our R&D is on the platform. The apps are increasingly a smaller amount of the proportional total investment in building. More and more is on the singular Atlassian platform. Customers hire us as a platform across their business to get work done, not for a single application.\nThat requires a matrix internally. We don’t have salespeople per product, if you want to think about it that way. The sales, customer success, and the FDEs are all customer-related motions. They’re organized as per the customers and their geographies and their size and scale. Then we obviously have to have designers and product managers on particular products who care about the purpose of a product, so you end up instantly with the matrix between how the customers are organized and how the products are organized.\nWe have a giant platform. We have the technical platform that runs across all the products. It’s a very large platform team. We then have finance and talent and other things that are also broad processes. Naturally, you end up with collaborative areas that you have to get together, and we manage that through our operating processes.\nDo you use the Atlassian platform to run Atlassian?\nWe do. We run entirely on the Atlassian platform. I used to say we’re the number one user — we’re not anymore — of our strategy and operations products to understand what our business is focusing on, what our large-scale goals are, how the people, the investments, and the technical systems all come together, and what is going right and wrong across all of those. We are a big believer in our Strategy Collection to operate a large-scale business.\nOne of my favorite questions to ask enterprise software CEOs is how much they personally use the enterprise software. How much do you personally use your products?\nAn awful lot.\nWhat’s your number one feature request for your teams?\nMy number one feature request is usually continual UI congruence. I guess that’s the category that people would put it in. I’m a bit of a stickler for design and consistency. We want to achieve eventual consistency in design, in which we’ve come a huge distance in the last five years. In the last two years, we’ve been truly world-class at doing it. That’s usually my biggest area where I use a lot of our products on a regular basis. As such, I’m moving around the platform, and I’m looking for ways where this thing over here happens this way. They do it better over there. We’re trying to achieve that eventual consistency across a large product surface area.\nI use Dia, our web browser. I think 96 to 97 percent of Atlassian now uses Dia on a regular basis. I mean, that’s a daily basis, so I literally spend many, many, many hours of the day on it. We are building a web browser for ourselves because we’ve reached the point that we feel, “This thing should just be better for knowledge workers.” We’ve already built, I would argue, the best browser for knowledge workers in the world, and it’s getting much, much, much better. Keep watching this space.\nSo, yes, I would say there’s no 24-hour period that goes by where I don’t use one of our products. I doubt there’s a six-hour period that goes by where I don’t use one of our products at the moment.\nI want to talk about Dia in a second, because I’m very curious about that acquisition. Obviously, we covered The Browser Company very deeply at The Verge. That was a big acquisition for you guys.\nSetting that aside for just one second, one of the things I’m particularly curious about here is the distinction between the platform and the products that run on the platform. Again, maybe this is just reductive, but it sounds like there’s a big layer of capability, and the products are expressions of those capabilities in different ways, but they’re all running on the same core platform.\nIs that how you think about it?\nYes, absolutely. Yes. We have to build a singular R&D platform, whether that’s how we talk to AI gateways, whether that’s how chat works, whether that’s how automation and identity and logging and governance and compliance and content classification work, whether that’s how our home and our search engine work. There are many, many more technical capabilities that have to be shared.\nThen you have all of the next layer up, and customers want that to work the same. It doesn’t matter if I’m in Confluence or Jira or Loom or the Service Collection, automation shouldn’t be different per place in the world. That’s very expensive. It’s very hard. It takes a lot of time, but it delivers a huge amount of customer value and loyalty. Most vendors don’t try to do that. They literally don’t try.\nThen you have a layer up, which is important, which is the consistency of operation and how content can be mixed. Operations and processes can be mixed across applications. If I open a Confluence page inside of Jira, I want that to feel like a Confluence page, but I want it to be inside of Jira. I don’t want to leave Jira to open it. I just want to read it, close it, keep going. There’s a lot of UI layer, a sort of recomposability, if you want to think about it that way.\nLastly, each application has to do its job. If you blend enterprise software together, you end up in a world of hell. People have tried this many times. You want a tool to do a job. You want to pick up a screwdriver or a hammer or saw and feel like that thing’s going to do the thing you hired it to do. The interface is designed to help you do that task. That’s where there is a difference in the interface layer and the interaction layer, between those tools.\nThe combination of those is where a lot of our design challenges live. For example, our chat layer, Rovo, is amazing. I would argue it’s one of the best, if not very close to the best enterprise chat products in the world. Our customers continually say that. “How come you’re better than insert-famous-brand-here?” There are a lot of reasons why we perform better in evaluations and testing with Rovo. It’s not because we make a foundational LLM, I think, which is the flaw of thinking.\nHowever, using Rovo inside a product, if you’re going to Rovo for the sake of Rovo, is awesome. You have a question to ask, you want to search across everything, fine, you go to a particular interface. If you’re inside of Loom or Jira or the Service Collection and you just want to open up chat, ask a question, you want it to understand the context you’re in, but you want that operation to be consistent across the platform. That’s what we’re striving to deliver to customers.\nOne of my constant tropes on the show is that if you describe to me your org chart, I can tell you 80% of your problems. The structure of the company leads to some kind of natural politics in some kind of way.\nThe tension between “we have products that are designed to do a job” and “we have a platform that contains the core capabilities” is pretty well known.\nMm-hmm.\nMaybe your product teams are going to desire platform capabilities that don’t exist yet or they will desire different platform capabilities from one another. How do you break those ties? How do you make those calls?\nWe have a number of ways that we are different and we try to do that. First, I would say most importantly, we have a platform-centric CEO and co-founder who thinks in terms of platforms. Thinking in Systems is my favorite book, man. I have a copy on every desk.\nYou have to put the platform first collectively, and then you go solve a bunch of problems. That does not mean genericism wins, but it does mean when you make trade-offs, you have to spend the extra effort and time to make it platform centric, to make it work. And that is a forever task. It helps to have a CEO, if you think about the referee across all the functions, that’s platform centric. They know where I’m going to land and so we’re going to end up there.\nSecondly, we have design as a very, very senior role. We have a massive investment in design. Our chief design officer reports to me, sits on our executive team. We now have three, four, five former chief design officers in the business from other very large businesses, some larger than us. We have a huge investment in design and experience. Especially in the AI era, that’s getting ever more important actually, much as Claude Design or something would tell you the opposite. I don’t think so. I actually think [when it comes to] design and the experience of software, if the cost of building goes down, the quality and differentiation is on the experience and the design, and that’s not something that’s easy to do. That requires a huge amount of taste and judgment.\nLastly, I think we aren’t afraid to put things together in unusual ways in the organization where we need to solve problems. The latest example of that probably is our internal IT and engineering function now reports to our chief people officer and I’ve combined those two roles, which is unusual. “Why is HR running IT? That doesn’t make any sense.”\nIt actually does, I would argue, at the moment because of the things we need to do to transform our business internally continually, which is that if I look at AI and becoming more AI native as a business, I end up with two piles of projects. A pile of projects that relate to talent, how I need to change and grow the people we have, get them using these technologies, get them thinking in certain ways. I have a huge talent problem. Hiring, growing, training, changing people is very difficult to be competitive.\nI have a huge system problem. I need to change our internal systems to have MCP servers. I need to make sure that everything is operable. I need to make sure that we have all of these system changes so that AI rolls out. How are we managing our token spending? There’s a huge amount of system change.\nI ended up refereeing a bunch of, “Is this a talent problem or a system problem?” As I say, that doesn’t make any sense. Usually the answer is this one’s 60 percent talent, this one’s 40 percent system, and this one’s the opposite way around. I’ve put them all together inside the business so that our system changes to apply AI internally and our talent changes to apply AI internally are in the same function right now, which is a little odd.\nThe people who deliver the laptops and the people who manage compensation work for the same group, but it actually makes logical sense based on what we need to change about our business at the moment. What is this three-year epic that needs to change? We organize around the problems we need to solve and the goals we have as an organization when we need to.\nThis is a brilliant segue, because I wanted to ask about this executive you have. I believe the formal title of your HR person is now “chief people and AI enablement officer.” That’s quite a title. And the point you’re making about the systems of the business needing to change leading to some change in your talent mix is coming true. In March, you laid off about 10% of the company. I watched the video you made in Loom about that.\nYour point there was you’re not necessarily replacing people with AI, but you had identified a change in the mix of skills that the company needed and you were going to make these changes proactively.\nWalk me through this. What made you say, “AI is here sufficiently that the mix of skills is different”? And what changes did you make to your systems to make losing 10% of your people effective or worthwhile?\nWe have to start with the environment. The environment we’ve lived in in technology for a while is continual hiring and growth. The markets have changed in their view on that. Because one of the ways that we’ve managed changing businesses over time has been hiring people in different areas. If you have red dots and blue dots and you say, “We need more green dots,” you just say, “We’re going to hire all green dots for a while until we have a blend.” You manage it that way, that is no longer a feasible path, firstly.\nSecondly, we have certain areas of the business, our AI roots and area-\nWait, actually, can I just ask one question about that? You’re kind of describing the COVID era over-hiring that every tech company was doing, and you’re saying that’s kind of over?\nYeah. People hire at the rate of the best decisions they know at the given time and what they’re encouraged to do by others. Hopefully they don’t look at everybody around them, but I know that a lot of CEOs do look at the people around them and say, “I should do that.” I always think those are poor choices.\nOver-hiring, I don’t know. Pre-COVID, we were a few thousand people. You know what I mean? So we are four times, I don’t know, three times the size we were pre-COVID probably. Again, we’re accelerating as a business. We grew around 30% last quarter on a $7 billion run rate, which is the fastest we’ve grown in about two years. Customers are opting for more acceleration.\nI’m just trying to understand the “you can’t just hire a bunch of green dots” comment a little more clearly because I’ve heard from many of your peers, “During that period we just hired everybody that we could.” It sounds like that’s not specifically what you were experiencing, but it rhymes in some way.\nIt does rhyme, but there are periods where that is the way to go. That’s not the current three- or four-year period of time. That’s the first thing I say because then you need to work at how we change our skill mix.\nWe have a huge amount of internal programs to try to do that. We also have certain areas, our AI products and services specifically, and our enterprise sales areas are growing very, very fast. They’re doing well and we want to invest further in those areas. When you have certain areas you need to invest further in, you run into very difficult choices where you say, “I need to invest further in these two areas. I can’t grow the overall in a significant way. I have to manage how to transition the organization between that.” Which leads to a lot of very difficult choices.\nWe are still hiring really hard in those areas in order to change the skill mix, but you also have a question of how fast we need to do that. It doesn’t, I always say, take away from any “internal training programs.” I say that in air quotes in terms of how AI is adopted and used. It’s more around learn, play, share, and mutual learning. It’s less like an L&D, in terms of “I’m going to sit down and watch a class on how to do this,” but that doesn’t take away from that. It’s a combination of all these factors as we’ve massively changed the business to be truly world leading at AI product development in the last two years. There’s no doubt that’s been a rapid journey and we’re trying to move as fast as we can to get there and to stay ahead.\nOne of the things I’ve heard from a lot of CEOs in your position is, “The value of our senior people has increased.” There are more senior software engineer job listings out in the market right now because as you’ve said, that judgment and that taste is very important and maybe the tools can just build that stuff for you.\nI’m curious for your view on design. The idea that all of our designers will not be enabled to just ship code is very tempting to a lot of people. There’s a third view that says product managers roles do everything and all these roles are going to come crashing into each other.\nWhat mix of skills specifically did you identify and how are you prioritizing in this sort of classic triumvirate as more and more people get the ability to do all the other jobs?\nIt’s very easy for people to have very binary takes on these things. I find it amusing that if you put an engineer, a designer, and a product manager in a room, they’d all sit there and they’d all say, “Oh man, it sucks to be you. Your job’s going to go away.” I say, “Ah, that probably is your answer right there.”\nWe have a lot more product managers and designers who are writing code from prototypes to actually shipping code than we ever have before, that is for sure. We have a lot more marketers and finance people and HR people who are doing the same thing, by the way. The code that they’re writing and shipping builds on two things. One, a platform that has the engineering robustness to be able to scale and deliver the customers a European-compliant data resident solution that is necessary, the legal constraints of country X, et cetera.\nYou have to build a technical environment that is able to get out to a customer with the required degree of customer safety. That is a non-trivial problem. That’s not something you’re just going to vibe code. If I’m vibe coding my own solution to something for my household, fine, it can just work well enough. I’ll go fix it if it doesn’t. If I’m doing that for a large organization, I need some other controls and rules around it.\nSecondly, the specialization of those areas all doesn’t go away. The human judgment required in different areas is like the edges of the roles blending. They’re able to do a little bit more of someone else’s job. I have a lot of designers who are able to ship prototypes that are working code prototypes instead of a picture or a fake prototype in terms of a mock-up. That’s great. I still see them sitting in Figma a lot and doing that.\nI have a lot of engineers who are sitting in Cursor or Claude Code or whatever on a daily basis, writing features and building things, and they’re able to do more design than they were before. That doesn’t replace the need for the other job. It increases the quality of the overall software. It increases the speed of collaboration between people if you want to think about it. If they each understand each other’s role, they can have a much more fulsome conversation more quickly. The specialized nature of what they do goes up. It becomes more spiky, which is really, really important.\nThe ability of building platforms — that’s going to get overused here — becomes more important. Just this week, for example, one of our designers wrote an interesting blog post about how we now have an MCP (Model Context Protocol) and a CLI (command line interface) for our design system internally. We have an award-winning design system, atlassian.design. It’s very public. We publish all of our design system.\nI’ve always said in the role of design, 50% of their job is to make our design system and to keep it scalable, flexible, and buildable. 50% of their job is to solve the hardest 5% of problems in design because the half where they’re building the platform, what used to be templates and design documents that are now CLIs and MCPs to do design internally in the way that we want design to work so it’s consistent and coherent, that is a really hard problem to build that.\nHowever, they’re unleashing thousands, if not almost tens of thousands of engineers to build better-designed things when they do that. Their leverage is a lot higher in building a design system than it is in solving, “Help me with this screen.” It’s the same in security. It’s the same in customer support and customer service actually. If you think of bug fixing as the platform on which you reduce customer service, more and more of that role is required on building those scalable templates, platforms, ways that the other functions can build on top of so they can do that thing.\nIf a product manager is vibe coding a feature, as in they’re just stabbing around some sort of code generating area and it’s an area where it’s not infrastructural, it doesn’t need to scale, it’s fine. It should leverage our entire design system. Turns out, out of the box, that’s not very workable. We’ve just shipped MCPs and CLIs internally, which are on V4 that are amazing at understanding our design system so the designers can evolve that system and the features that are being built will continue to match what customers expect in that congruence and consistency. That gets us huge leverage overall, but it’s a non-trivial thing. It doesn’t mean the designers are going to go away, the engineers are going to go away, the product managers are going to go away. I don’t think any of those roles disappear.\nI’m always joking that Decoder is fundamentally a show about org charts, which means I think I know what the next five years of the show is going to be about because we’re on the cusp of some of the weirdest org charts in history in AI.\nMatthew Prince from Cloudflare was just on the show. We talked a lot about his Wall Street Journal op-ed where he said, “I’m going to fire all the measurers at the company because I can replace them with AI. They can look at all of my systems and do all the auditing for me and we’re going to have fewer middle managers because what they’re really doing is measuring and auditing things and AI can do that.” There are reports that Mark Zuckerberg wants managers to have teams of 50 empowered by AI somewhere inside of Meta. This strikes me as not a great idea, but we’re going to see how it goes.\nWhere are you? Are you in classic org chart? Are you at wild ideas? How is this coming together for you?\nI would say I know both of those people very well. I’m certainly more measured than that and I think the reality of how the world will be. I think it’s easy to point to extremities. Is someone somewhere a manager with 50 people? Sure. Are they effective? Maybe. People always talk about Jensen Huang. He’s obviously very effective. He’s a good dude. He runs things in a very weird way. Is that scalable and repeatable? I’m not sure it’s scalable and repeatable. I’m not sure if you took an entire set of large companies and made them all work that way, they wouldn’t have worse results as a collective.\nPart of business is scalability and consistency, and being able to be understood and managed that doesn’t require uniquely talented individuals to understand a very odd structure as they move around a business. I suspect you are going to get more role blending and people able to handle multiple types of skills. I suspect they’re going to be more generalist. The edges of the role will blur into the roles around it. A product manager is able to do a bit more marketing and a bit more engineering.\nThat applies almost all across the way. Finance people are probably able to do a bit more legal than they were before. They’re able to understand the legal frameworks we have internally with agents and that’s great. I don’t think that changes the roles themselves. It may make teams a bit broader. I do agree with Zuck’s general direction that organizations will become a broader triangle, a fatter, wider triangle. The companies will get wider and hence less deep.\nBroadly that’s a true direction. Do you go to 50 person teams? Then the span of control is like three people. The organizational depth is like three or something. If you multiply them by 50 at each level, if there are two and a half thousand people with two levels of reports, I would question that. That’s probably not an average. I don’t know about this term, “measurers.” I don’t know that anybody could sit around in a knowledge work job and say, “My role, my purpose is to measure things. I just walk around with a ruler and I’m like, ‘That’s a foot.'”\nI know there are a lot of jobs where — I know what Matthew Prince is saying — that becomes the effective output of a role. We’re measuring it for a purpose, I would believe, and we are going to work out how to make that more scalable. My probable way of looking at it is a little bit different. There are two types of jobs. If you want to simplify an organization, there are supply-constraint and there are demand-constraint jobs inside a business. Input bound and output bound.\nBut what is the constraint on a job? Look at a marketing or a technology function, a creative function versus a legal or a customer service function. Legal and customer service are input bound. If I deploy a lot of AI, I don’t suddenly get a lot more contracts. The number of contracts coming in, if I’m looking at NDAs or leases or trying to understand the company’s legal position in certain areas, I can potentially process that work faster with AI. Through systems, I can be more efficient in how I do that. That is one set of roles that you can look at almost everything in a business process and say that’s input bound.\nI’m going to manage that differently than things that are output bound. If I think about marketing or engineering, unless I run out of roadmap items — I’ve never heard any engineering team in my history of 25 years of doing this where they say, “Actually, we’ve reached the end of the roadmap and we’d like some more ideas of what to do next, please.” Said no one building software ever that has a large customer base. Their output, their creativity is bound by their own initiation and their ability to organize groups of people and processes and everything else, which is what the Atlassian platforms do. That is their limiting factor. It is not the human ability to create ideas. It may be that you have less input bound functions and areas as a proportion of your total employee base and you have more creative output bound functions.\nHow much is this human ingenuity and creativity and imagination? A possibility. That’s likely the way things shift and trend over time. That’s going to take much longer than people think. We’re big in technology. “Next year everything will be like this!” and it takes 10 years to happen, but it will happen. I think I’m very fond of this term. I keep meaning to put up a rant online about it. I’m stealing another friend’s quote here, but we used to talk about information asymmetry and how much certain people know things and that is their source of power or advantage.\nI do think we’re moving to — he said it and it really hit me like a bolt — imagination asymmetry. We’re moving from information asymmetry to imagination asymmetry where your ability to create and think is going to be far more important as a competitive advantage for your team, your job, and your business than your access to information, your control of information, your understanding of information. That part is going to be cheap. That’s what LLMs are really good at. What they’re not good at is imagining things. They didn’t decide to start Atlassian. What business has been started by an LLM? Zero in the world ever. \nAnthropic has run a failed vending machine for several years now. Come on.\nBut it requires a human to say, “Here’s what we’re going to do. Let’s fail at running a vending machine today.” \nThey were probably sitting in front of a vending machine cursing the thing when it didn’t drop their candy bar and they said, “I’m going to do this better with AI,” which is probably the way that most of those companies think about every single problem as they’re staring at a vending machine. It required a human being to say, “Let’s go do this.” It required them to write a bunch of stuff to go create the vending machine operation code and try it. We all learned a lot as a result of this scientific experimentation.\nLet me ask you the other Decoder question, then I want to apply all of this to what is broadly happening to enterprise software and SaaS. The other Decoder question I ask everybody: How do you make decisions? What’s your framework for doing that?\nSomeone told me you were going to ask this question. I said, “What a broad, open-ended question.”\nI would say I make decisions by talking a lot. That’s what people internally would truly say. I find the need to discuss things from different angles very important. I like to let other people talk. I like to get all the information together. I do believe there’s obviously a time where we need to stop and just move in a certain direction. The more important part for me, rather than how I make decisions, is I really like to explain decisions to people. At Atlassian we have a value: We’re an open company, no bullshit. I tell people all the time that does not mean transparency. We don’t owe you as an employee all of the details behind every decision. All the sausage making is not useful. It’s overwhelming to people. It doesn’t help us move fast.\nWe do owe employees clarity on why we are making a decision and an explanation of said decision. That’s one of the most important things managers can do for training, for helping their talent grow is not, “We’re going left,” but, “We thought about it. We looked at the different options. We considered straight, right, and left. Here are the pros and cons. We’re going left. This is the reason why we’re going left.” Often people don’t do that because people don’t like the decision. I say that all the time. When you talked about our talent mix changes in March, we had to make a lot of hard decisions to run this business. I want to make sure that we are always explaining those decisions to people in the clearest and simplest way we can, why we’ve made a decision and what the decision is without any dressing.\nI really don’t like these corporate emails where I read the whole thing and think, “So what are you saying exactly? You’ve got a lot of words here.” I say, “Here’s what we’re doing. We need to change our skill mix. Here’s why. You should have the right amount of empathy to explain decisions, especially hard ones, but you also should not expect people to necessarily like it. We make a lot of hard decisions where I’m sure for 60% of the company, 7 percent of the company think it’s a great decision and 40 percent think it’s a terrible decision. We build trust as leaders by explaining our decisions and being clear about why we’ve made it and how we’ve made it. Hopefully we improve decision making. I always say decisions get to my desk when they’re presidential decisions. I think it was Obama that called it that, where it’s 51 to 49, that’s why it made it to my desk.\nIf it was 90% certain what we should do, it should not have made it to my desk in the first place. I only get hard decisions. That’s a well-operating company. Any leader should be in that situation. If it’s an obvious decision, why did it make it to you? That then requires more thought and more explanation about those decisions. That’s probably the most important part than any framework we use to make them.\nLet me put all of this under some pressure. You’ve described Atlassian as a platform, and a lot of an organization’s decision-making and data and capabilities are in that platform. “What are we going to do next? How are we going to do it? Is it working?”\nThe entire point of the SaaSpocalypse was that we don’t need your beautiful user interface. We don’t need your design surfaces or congruence of design across products. All we need is your data. If I unleash Codex upon your data store, it won’t even matter that it’s the same platform. You can have 15 different vendors and the AI will create itself some middleware and read and synthesize all the data and that’ll be great. Actually your business can leap ahead in meaningful ways.\nMy favorite example of this from a previous era was I always had Daniel Dines from UiPath on the show. Instead of modernizing your healthcare billing system, he would just build robots that would use Windows 3.1 for you. This is a very early version of what I think every AI company is selling right now, which is, “Instead of modernizing your backend and spending all that money on a migration, our robots will just use your horrible old databases and present to you a new user interface.” That’s one version of SaaSpocalypse.\nIt is.\nI see it coming for a lot of businesses. How do you expect to change all of Atlassian against that? Because a lot of what Atlassian sells is upgrade, upgrade the whole platform, use one product and use all the products, use the whole platform, modernize your entire business. The other answer is that it’s like $200 a month and you can just tokenmaxx your way into the future.\nThere are a lot of different parts of that answer. You’re talking about the headless world, I guess. I say that headless is brainless. It is literally the same thing. It is submission in slow motion to do such a thing, if you’re a software vendor. I say that very carefully because again, it’s one of these answers that requires nuance. We have one of the most-used MCP servers in the world. We’ve just shipped a giant upgrade to it, rewritten it from scratch. It is massively used on a daily basis by millions of people and it’s amazing. [Along with] MCP servers, we’ve shipped three or four CLIs that are also used incredibly heavily.\nThe ability to have inter-operation of tasks is very, very important for customers to get jobs done. I totally agree with that. However, people who use our MCP server and our CLI actually grow faster. They create more issues in Jira, they grow their seats faster. We’ve said this on public earnings calls, I think it’s like at least 5% faster. They grow their ARR at twice the rate of customers who don’t use our CLI and MCP servers. The customers using these things are growing their Atlassian spend faster than they have before. That world I totally believe in.\nWhen I hear the word “headless,” though, I think that is the only world that we’re going to exist in. We just sell an MCP server. That is the brainless part about it because then your software really has no value. If you truly just have a database, fine. If your interface sucks, and I think a lot of enterprise software has horrible, horrible, horrible interfaces—\nThis is why I ask all the enterprise CEOs if they use their own products. It’s really asking, “How badly does your interface suck?”\nI’m a big fan of recording the Loom and saying, “Guys, this doesn’t make any sense.” If you do that, that yak-shaving over and over again, you end up with amazing interfaces and that’s why tens of millions of people wake up to our software.\nThe investment in design and experience that I talked about is the antithesis of that. The world is very different than those views. We’ll see in a few years time who’s right. The way the Atlassian platform works is not to be a single platform. I am probably the only CEO that goes to customers, massive large-scale customers, and says, “Do not centralize everything on my platform.” I do not believe that is a viable strategy for a CIO. I don’t think it is.\nOur platform is highly connected. It always has been. One of the things that Jira, Confluence, Trello, and the Service Collection do is interact with many, many, many, many other applications. You look at any work item in Jira that’s been going for a while, it is full of links to Workday and Salesforce and ServiceNow and Figma, links to source code, links to Google Drive and Teams. Links are what build our context graph. The reason we have the best context graph in the world is that we have a lot of links to start with and we have had a 10-year history of having to understand how to be collaborative with other applications.\nOur applications are by nature highly connected to the rest of your IT world, the rest of your technology world. We don’t want to be a control tower. It’s a stupid analogy. Every CIO has been told, “Just trust us. We’ll deal with all the problems.” It’s never worked. I don’t think it ever will. The reality of technology is you’re going to have more—\nOnce you add AI to the mix, maybe it’ll work this time.\nNo.\nThis is the thing that is being sold: You have now a powerful intelligent orchestration layer that will finally realize the dream.\nThree parts snake oil, two parts bullshit. The reality is it will help all the applications if built well to work better with each other. There’s no doubt. Look at Figma and Atlassian. We have a deep partnership. We use each other’s MCP servers a lot, and we can build better solutions for marketing teams and designers and technology teams between the two platforms than we ever have been able to before, because we can understand each other’s data in ways that we never have been able to before, and we can solve workflows on different ends.\nIf you’re sitting in a deep design, you’re sitting in Figma. It’s a visual experience. If you need that to be tied to work and then understand how to find that, that moves back into our world and we want to make those journeys as seamless as possible. We want to be not a control tower. We want to be a subway station that is highly connected. We want to be Union Square. We want to be the town square. We want to have a lot of lines going through us and we want to make that experience for our customers the best that they can.\nI think 98% was our stat on the earnings call. More than 98% of people using our MCP server also use the user interface, and that is not changing. The ability to do work faster doesn’t mean I just stop using it. If you invest and have a good interface and experience and you’re solving higher level problems, if you look at the features we’re shipping around agentic uses, how do these harnesses — Claude, Codex and everything else — work inside the Atlassian world and vice versa? \nNow, one world is I open up Claude. I say, “Go work on this work item.” It uses our MCP server to go and get the work item. It uses our teamwork graph to go and get all the context around the work item that is necessary and related, and that gives it the best chance of doing that job the cheapest way possible. That is certainly a way that people are going to work and Claude’s going to move the work item along to the next stage. Awesome.\nThere are a lot of other people who start in Jira and will say, “Send this work item to Claude.” On the board, it tells them the work item’s running and going. They’re in an interface that is built for the task, to go back to the saw and hammer and screwdriver analogy. It’s built for the task they’re doing. It needs to understand, “Claude needs your attention” inside of Jira. You can open Claude, say you need to do it, send it off.\nMost people don’t use Claude. Most people don’t use Codex. Every customer I go to has a whole bunch of harnesses running. They’re going to have internal ones they’ve built. They’re going to have two, three, four vendors. Most people aren’t making a choice. They’re all amazing. They’re all leaping over each other in progress. Our job is to bring all that together into a coordinated surface, to understand your agentic sessions, your human sessions, your work, and to connect all of your enterprise applications into a giant graph and give you phenomenal answers across the whole thing.\nThat requires a lot of interface investment. That is hard. That takes time. That takes great design and experience folk. That takes taste-oriented product managers and engineers. That is a non-trivial challenge, and I do think a lot of people are avoiding that challenge, and I don’t think it’ll end well for them. I don’t think the world is going to live in a CLI as an end tool.\nYou don’t think the chatbot is the final user interface?\nI don’t think chatbot is the final answer, no. We learned this in 1970 with the CLI. We don’t know. We’re all learning what the future interface is. It doesn’t mean that chat’s not going to be a part of it. It’s just, “Where does this world work?” You talked about Dia. Dia is a good example where we’re trying to build an AI-driven experience for knowledge workers that is based in the world they understand and still magical and different, not based in taking them out of the world they understand to a chatbot.\nSo Dia is the browser. You acquired a company called The Browser Company. We spent a lot of time with The Browser Company when they were working on their products. At first they were building a consumer product. Then the notion that what they were building was more like an operating system came into focus as we covered Dia in their product strategy.\nMost of those conversations and most of that coverage — most of which was done by my colleague David Pierce — was happening simultaneously with Google search traffic dropping and the very notion of the browser as an information document viewer was changing in big ways. If you think the homepage of Chrome opens to Google and that’s going to take you to a bunch of webpages, Google actually has a lot of ideas in between there that is changing traffic on the web.\nAnd yet at the same time, the web as an application environment is a thing that can make AI agents vastly more capable because the applications all live somewhere that they can go address them. It was obviously explosive at that time. As you and I are talking, it’s like a week or two into Meta launching Muse. The power of Muse is that Mark Zuckerberg has given everybody 8GB of RAM and 8GB of storage in the cloud with the web browser.\nNow you have an agent, they can just go use a web browser for you. This is very powerful and Amazon is furious about it and has blocked this web browser. Do you have Dia because you need to control the application layer, or is it something bigger than that?\nNo, no, no, no. Two things are important to understand. When you get technological disruption, one thing that happens is that we all move up the interface stack a level. There are not a lot of people competing about DOS or operating systems anymore. In the modern internet world, one way to move up the interface stack is to move towards the browser. Features that were inside of applications move to being inside of the browser as we increasingly learn and operate that way.\nSecond, the biggest thing that’s changed — Usually what happens is that people’s habits change. Knowledge workers, you, I, everybody spend 80% of our lives in a browser, but we’re not reading articles all the time. We are sometimes. We’re not reading webpages, we’re using applications. We’re using Gmail and Google Calendar and we have Slack open. We’re using the Atlassian platform, all of our applications, and Salesforce, and we’re watching videos like Loom and we’re interacting with those videos back and forth. That set of tabs is no longer a set of webpages. It is a set of documents and applications that have massive power underneath them.\nWe’re trying to rebuild the web browser in a totally new form for knowledge workers who live in applications who have their browser open 80-90% of the day as their front surface area, and they want a better way of managing those applications and getting work done across those applications. The browser has some incredible power to be able to do that.\nIt requires us to understand SaaS apps very deeply, which we do. It requires us to understand enterprise security very deeply, which we do. It requires us to not chase the consumer audience. Chrome and Safari are built the way they are because they have to cater to everyone from five-year-olds to 100-year-olds, who are doing fewer work-related knowledge tasks and are doing more browsing and entertainment and other tasks. That doesn’t mean that someone who’s a knowledge worker in a corporate job isn’t looking at YouTube or Facebook sometimes, but it’s not the purpose of their job. We believe we can build a better browsing experience, a better work experience.\nOne of the pitches we had for the product is we’re not building a browser, we’re building a doer. It’s a totally different thing. We’re helping you do things. We’re not helping you browse passively, and hence why there are tabs and split screens and pin tabs and groups and AI and dynamic tab groups. Live tab groups as we have of the documents you have is a great example.\nOur documents live tab group in Dia shows you the documents. It will automatically open and close tabs if you want to think about it that way, for you across any content application, Google Drive, Confluence, SharePoint. Any application you use that has documents, if someone comments or shares a document with you, the tab automatically gets opened by your web browser. And if you’re done with it somewhere else, it automatically gets closed by your web browser because that is the set of documents you’re currently working on. Same for pull requests or anything like this.\nThen we add AI over the top. AI lets us change how we use these knowledge applications in insane ways. The browser has your entire history of what you’ve done. It has skills, it has an ability to run AI. You can use Dia to make Minesweeper, and you can use Dia to make Minesweeper out of the tasks that you did in the last week. It’ll go start a computer underneath the browser. It’ll run a bunch of code generation. It’ll create an application for you that plays Minesweeper based on the tasks you have completed in the last week. Now, I don’t think that’s a very useful application, but the fact that it can do it is amazing.\nThe most popular feature of Dia is the Morning Brief. People are blown away and often suspicious about how we can understand what you need to do today with a fidelity and a design quality and an experience that makes it a joyful experience when it pops up every morning. Mine opened about 45 minutes ago. That is a design challenge.\nThat is an amazing team of designers that are thinking about our most-used application surface area and reimagining it for knowledge workers and for the AI era simultaneously, with access to every SaaS application that you have open on your computer in a way that corporate security is going to say, “This is a good idea and I trust it.” That is the mission that we embarked on a year ago, that The Browser Company embarked on three years ago, and it’s usable today. It’s coming out on Windows any day now, it’s in beta on Windows, general availability is very soon, and it’s used on the Mac by a huge number of people on a daily basis and only increasing.\nLike I said, we’ve been covering that product for a long time. I’m glad it found a home with you all.\nLet me just push you a little bit on moving up the stack to the next level of user interface. You could argue that already happened with web browsers. Windows was disrupted by the very presence of the web browser. The iMac was only successful because the most interesting thing you could do with a computer at that time was go on the web. The presence of the web browser on the Mac allowed a bunch of applications to move away from Windows binaries to being web apps and then cloud apps and now productivity apps in the cloud. \nThe web as an application environment is probably more vital and important than ever before. It is the thing you’re describing. It’s where all the applications live and a custom web browser designed to do work is very important. At the same time, I would just say, didn’t that already happen? Are you actually moving up the stack or are you just building a more custom web browser, or is AI changing that in some other way?\nAI is changing that. AI is giving us the ability to help you understand what work you have to do, not just your browsing history. One of the most powerful things about AI that people don’t broadly understand is… An LLM’s ability to generate content is well known. I can say, “Tell me a dad joke,” and it spits one out. It streams out tokens.\nWhat is more important for application vendors like us, people who are trying to make tools and products and solutions for customers, is the ability to read text, not write it, but read it, because we can understand meaning for the first time ever. We can understand what a page or a comment or a piece of text is about. Then we can make application-level choices, which we never could do beforehand. Word didn’t know what document you were writing. When it said, “It looks like you’re writing a letter,” it was really shithouse and it was a terrible experience. Now it can actually tell with super high fidelity, “Are you writing a letter, a PhD? Is it a high school essay or a university essay?” It can adapt and change its interface.\nThe ability of Dia and AI is to understand what it is that you are browsing, what it is that you are doing, to be able to reach into applications to get content and to pull it back to give you tools to manage your day. The Morning Brief looks across your calendar and your messaging tools and your document tools to tell you what it is you have today in a very intelligent manner, the way it would be if you gave me all your content and said, “Spend the days.” Now it reads millions of words in order to generate that and it has a lot of smarts to give you a very simple experience of the most important things you need to do today that are totally different from anybody else on the planet.\nThat requires a lot of AI to do and it requires connections to all of your SaaS apps. The browser’s logged into all those apps so it can do that. It happens locally, it doesn’t happen in the cloud, it happens on your machine. That is something that we could never do before to understand, “Of these 10 documents you looked at yesterday, here’s the one you need to do today because I know in your calendar you got to do this tomorrow, you got to do these things. This is the most important thing for us to do today, and let me help you get started on that task. Let me draft some notes for you. Let me help you with that document. Let me help you do things.” That is something that was never ever possible beforehand.\nLastly, it understands the people you interact with. People are left out of so many of these conversations and equations. You can think of Dia as having a mini CRM that is constantly updated based on your browsing habits. It’s a weird analogy, but it’s effectively what it’s doing, one of the many things it’s doing inside the browser, which is why its answers are so good. It knows that you and I don’t know each other very well. It knows I know my head of engineering extremely well. If that person asks me for something, because it’s maintaining a constant context graph of people relationships across every single one of your SaaS applications into duplicating and normalizing and using AI, all of that helps to understand what tasks are actually important to me.\nIt can look at LinkedIn and see who you are and say, “That interview prep you got to do today, you should put that up your stack. Nilay’s an important person.” It does all of that for you, and help you-\nCan you put that in the Dia system prompt so people know when they come to talk to me? Just hard code that in there, you got to prioritize.\nWe’ll see if we know some people. But it’s hard, and the experience, none of that should need to be known by somebody using Dia. The experience should just be a beautiful, joyful way to start your day. We want to leave you with more sense of calm, control, comfort about your day, not stress about AI. Leave that to us to do really well and we just give you the answers that you need from your tools and applications.\nIt also does not mean you use less of those tools and applications. I don’t use Dia and stop using Slack. I don’t use Dia and stop using Confluence. It’s helping me understand which thing I need to do next by understanding what’s inside those things. By cross-referencing with my LinkedIn and my Salesforce and my Microsoft Teams conversations and meeting transcripts, but it’s doing that all for me in the morning and during the day to be able to say, “Here’s what you have to do next. Here’s the most important thing,” and providing an interface to allow me to organize and group those tasks in ways that hopefully are bordering on joyful. They’re beautiful and simple experiences and there are so many lovely touches in Dia that just make it a joy to use every day. We’re pushing that mission really hard.\nCan I add a wild card? It seems very obvious to me that you have a very clear view of how AI should work in enterprise and how work should get done using your tools, your tools enhanced by AI, your tools expressed in your browser. There’s focus there, and I appreciate that.\nOn the other side of the house, on the consumer side, my argument has been that reason people hate AI and they’re mad about it is a little bit that the doomers have said there’s a 10% chance we’re all going to die and all of our jobs are going away, but there are also no great products. There’s not as much coherence and focus as I’m hearing from you in the enterprise context. Do you think that there’s some great consumer AI product in the offing that has the kind of focus that you have in enterprise? Because that seems like the missing piece for me.\nYes and no. Yes, if you look at the history of technological disruptions, the products that came through the disruption often aren’t linearly related to the disruption. If you think about the smartphone era — and we all pick up our smartphones 100 times a day, don’t tell me you don’t. When the iPhone came out, we were all excited by little bits and pieces. We did not think, man, that camera thing’s going to lead to this Instagram phenomenon. We did not think the GPS is going to lead to Uber and so I can take transportation. The products that came as a result of the technology shift.\nThe iPhone is an amazing business, don’t get me wrong, but the services and changes to life didn’t come from the iPhone. They came from the apps that it enabled, like Uber and Instagram and whatever else you like on the mobile phone. It can be a game, it can be anything. Those take a while for people to play with the form factor to understand the bits. Uber didn’t come along until the iPhone 6, because all it needed was to get better and then someone said, “Wait, we can take a car with a phone and it’ll just show up?” Yeah, we can show you where the car is and we can build enough trust and we can build a whole service layer.\nI suspect one part of it is in AI, we need to keep playing, and I know the Muse team pretty well. That’s an amazing example of an application. There are many, many more of these things. There’s a company that one of my kids loves called Tolan which makes these Hollywood AI agent chatbot things with personality. Someone from technology would say, “Ah, that’s just OpenClaw with some skin on it.” Kids say, “This is a character that I can interact with.” It’s an amazing psychology Hollywood game character. These sort of applications we’re just starting to see.\nIt’s going to be an incredibly exciting five years of those sets of applications. I suspect it takes way longer than we think to understand, get to GPT-6, get to understanding memory and harnesses and putting all these things together. It probably won’t be OpenClaw, it’ll be some version of how an agent surfaces in a certain area of life. So yes, the products are still coming in the consumer space.\nSecondly, I think the “no” part of the answer is that AI is not a product, it’s a technology. It’s a piece of technology. If it just makes everything about your life a bit better, you won’t even notice you’re using AI, and actually, that’s the beauty of it. You can use Dia all day long and not realize how much AI it’s doing. Just like the Morning Brief thing, it’s really good. I look at it every morning, it’s one of the most highly engaged features we’ve ever built. And it just tells you, “Here are the three things I think you need to do today. Here’s what your day looks like. You want me to help you prep for this thing?” And you say, “Yeah, help me prep for that thing.”\nYou don’t need to know it’s AI. We don’t tell you it’s AI. We’re purposefully not trying to hide it, it’s not secret, but you need to have a great experience. You don’t care there’s an LLM and tokens and gateways and massive amount of technology going on behind the scenes. You just want to know what the three things you have to do this morning are. And if you build trust in it, that’s great.\nThe hard part when you mention the data centers and stuff is that people want those experiences and they’re going to be very joyful and very contented and more calm and happy about the experiences they’re getting. They’re just not going to be using AI. I tell this to people here all the time, every time you take a photo on the iPhone, there is an insane amount of AI processing going on to make that photo look good. Insane amount. And photos look amazing on my phone compared to what they did 10 or 20 years ago. Do I need to know that? Nope. I want to point at my kid, snap a photo, and I want it to look good. That’s great technology, when it disappears. That’s what it should be in the enterprise or for consumers. There’s no reason people in the enterprise should put up with shitty technology.\nThat’s consistent, but it’s not going to be necessarily knowable that I’m using AI. It’s just going to be an amazing product experience like Dia that says, “Here are the three things you got to do today.” And it gets it right.\nEven beginning to describe the conversations I’ve had with the Apple camera team about the use of AI on those photos is a full other hour of this show that we do not have time for.\nMike, this was a great conversation. What’s next for Atlassian? What should people be looking for?\nWe have a massive set of announcements in, I’m scared to say, a bit over a week, 10 days. We have a biannual conference, our Team 26 EU in Amsterdam in 10 days’ time, announcements in every collection. You will no doubt see lots of AI features that are magical and disappear. You don’t need to know that you’re using them. Dia launches, Teamwork Collection launches. A lot of fantastic Loom features. We haven’t talked about Loom, massive in the AI era. We have so much on Loom’s agentic use, some of which has been online. Kudos to the partnership with the Cursor team, we built some amazing Cursor and Loom features. Really exciting stuff coming up in 10 days’ time.\nWe will have to have you back very soon to talk about what happens with enterprise software in just one year’s time, because I’m confident it’s going to change. Thank you so much for being on Decoder.\nThank you for having me. Thanks, man.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-09-28T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute spreche ich mit Mike Cannon-Brookes, dem Mitbegründer und CEO von Atlassian. Atlassian ist eines dieser Unternehmen, auf denen jedes andere Unternehmen basiert – es stellt wichtige Plattform-Tools wie Jira und Trello her, die es Menschen ermöglichen, große Teams zu organisieren und zu verwalten, gemeinsame Datenbanken mit Unternehmensinformationen zu erstellen ...",
-    "titleDE": "Die SaaSpokalypse, die es nicht gab, mit Atlassian-CEO Mike Cannon-Brookes"
-  },
-  {
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "description": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-    "pubDate": "2026-09-28T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der letzte Tag, an dem Sie Ihren Disrupt 2026-Ausstellungstisch reservieren können, ist dieser Freitag, der 2. Oktober, um 23:59 Uhr. PT. Sichern Sie sich Ihren Ausstellungstisch und stellen Sie Ihr Startup vom 13. bis 15. Oktober im Moscone West in San Francisco vor mehr als 10.000 Gründern, Investoren und Technologieführern vor.",
-    "titleDE": "Ihre letzte Chance, sich Ihren Ausstellungstisch bei TechCrunch Disrupt 2026 zu sichern, ist der 2. Oktober"
-  },
-  {
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "pubDate": "2026-09-28T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Startup nutzt KI, um mühsamen Papierkram für Versicherungsagenturen und Makler zu automatisieren.",
-    "titleDE": "Insurtech Outmarket sammelt nur wenige Monate nach der Vorrunde 34,5 Millionen US-Dollar ein"
-  },
-  {
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "description": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-    "pubDate": "2026-09-28T13:38:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Diese Finanzierung hilft uns, Instinct mehr Menschen zugänglich zu machen und die Zukunft der persönlichen KI weiter aufzubauen. Es ist eine aufregende, kreative Zeit, und wir fangen gerade erst an“, sagte Gründer Noah Shinn in einer Erklärung.",
-    "titleDE": "Der virale KI-Agent Instinct sammelt 1 Milliarde US-Dollar in der Serie C mit einer Bewertung von 10 Milliarden US-Dollar"
-  },
-  {
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-    "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\"\nThe platform uses Nvidia's OpenShell open-source software, which runs on the company's Vera AI CPU. Users can choose the information an AI agent can access, and OpenShell checks these restrictions before and during a task, according to Nvidia. It also includes Nvidia's Sentry technology on a separate …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-28T13:36:06.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nvidia bringt eine neue Sicherheitsplattform auf den Markt, die darauf ausgelegt ist, KI-Agenten einzudämmen und zu überwachen. Dies ist eine Reaktion auf eine Welle betrügerischer Hacking-Vorfälle, wie Reuters zuvor berichtet hatte. In einer Ankündigung vom Montag sagt Nvidia, dass seine neue Open Agent Safety Platform Agenten unter Quarantäne stellen kann, die versuchen, ...",
-    "titleDE": "Nvidia sagt, dass seine neue KI-Sicherheitsplattform böswillige Agenten innerhalb von „Millisekunden“ eindämmen kann"
   },
   {
     "title": "The Download: rogue agent liability and the AI Hype Index",
@@ -410,16 +480,6 @@
     "titleDE": "Basis vervollständigt eine Steuerarbeitsmappe mit GPT-6 Astra 2x schneller"
   },
   {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-    "pubDate": "2026-09-27T20:34:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dies wird das erste persönliche Treffen zwischen Dario Amodei und Donald Trump sein.",
-    "titleDE": "Der CEO von Anthropic steht kurz davor, mit Präsident Trump zu Abend zu essen"
-  },
-  {
     "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
     "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
     "description": "Ads appearing all over the Internet are trying to scam people.",
@@ -460,26 +520,6 @@
     "titleDE": "Das Pentagon will 30 Millionen US-Dollar für den Bau eines KI-gestützten Lügendetektors"
   },
   {
-    "title": "Young organs may not be a fountain of youth for recipients",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "description": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously…",
-    "pubDate": "2026-09-25T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Letztes Jahr nahm ich etwa um diese Zeit an einer Konferenz zum Thema Altern in Manchester teil und hörte mir einen Vortrag über das Altern von Fliegen an, als mein Telefon zu klingeln begann. Nachrichtenagenturen berichteten, dass ein heißes Mikrofon die Staats- und Regierungschefs Russlands und Chinas dabei erwischt hatte, wie sie über die Möglichkeit eines ewigen Lebens diskutierten. „Mit den Entwicklungen von...",
-    "titleDE": "Junge Organe sind für Empfänger möglicherweise kein Jungbrunnen"
-  },
-  {
-    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…",
-    "pubDate": "2026-09-24T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein Kongressabgeordneter hat gerade vorgeschlagen, das amerikanische Grenzturmprogramm abzuschaffen. Delia Ramirez, eine demokratische US-Abgeordnete aus Illinois, hat angekündigt, dass …",
-    "titleDE": "Der Download: Ein Versuch, die virtuelle Mauer und die KI abzuschaffen, kommt in die Klimawoche"
-  },
-  {
     "title": "There's a new way to break RSA that's faster than anything we've seen before",
     "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
     "description": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
@@ -518,125 +558,5 @@
     "category": "news",
     "descriptionDE": "OpenAI erweitert den Zugang zu seinem Daybreak-Programm auf die Regierung der Ukraine, um die Cyberverteidigung der zivilen Infrastruktur zu unterstützen.",
     "titleDE": "OpenAI erweitert den Cyber-Zugang zur zivilen Verteidigung auf die Ukraine"
-  },
-  {
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "description": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "pubDate": "2026-09-23T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Mit GPT-6 Astra plant invideo Bearbeitungen präziser, verbessert die Farbkorrektur und Gradierung um das Dreifache und produziert 50 benutzerdefinierte Effekte an einem Tag.",
-    "titleDE": "Wie invideo die Farbkorrektur mit GPT-6 Astra um das Dreifache verbessert"
-  },
-  {
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
-    "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "pubDate": "2026-09-23T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Mit GPT-5.6 unterstützt Ringg mehrsprachige Agenten über Sprache, Chat, WhatsApp und Web zu 90 % geringeren Kosten im Vergleich zu GPT-4.1.",
-    "titleDE": "Die KI-Agenten von Ringg lösen bis zu 65 % der Kundenanrufe mit OpenAI"
-  },
-  {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "pubDate": "2026-09-23T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Sam Altman, CEO von OpenAI, erörtert in seinen Ausführungen vor dem Sicherheitsrat der Vereinten Nationen KI-Sicherheit, menschliche Kontrolle und internationale Zusammenarbeit.",
-    "titleDE": "Sam Altmans Bemerkungen vor dem Sicherheitsrat der Vereinten Nationen"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "pubDate": "2026-09-23T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "GPT-6 Astra erstellt strukturiertere, kontextbewusstere Rechtsdokumente und gibt Anwälten die Möglichkeit, sich auf die Strategie zu konzentrieren.",
-    "titleDE": "Harvey verwandelt rechtlichen Kontext mit GPT-6 Astra in stärkere Entwürfe"
-  },
-  {
-    "title": "Introducing MentalHealthBench",
-    "link": "https://openai.com/index/introducing-mentalhealthbench",
-    "description": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-    "pubDate": "2026-09-23T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "MentalHealthBench ist ein von Experten fundierter Benchmark zur Bewertung hilfreicher und sicherer KI-Reaktionen in realistischen Gesprächen über psychische Gesundheit.",
-    "titleDE": "Wir stellen vor: MentalHealthBench"
-  },
-  {
-    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "description": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-    "pubDate": "2026-09-23T02:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "ChatGPT Ads expandiert nach Südostasien und Taiwan und bietet berechtigten Unternehmen neue Möglichkeiten, Menschen in mehr als 60 Ländern zu erreichen.",
-    "titleDE": "ChatGPT Ads expandiert nach Südostasien und Taiwan"
-  },
-  {
-    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "link": "https://openai.com/index/airbnb-gpt-6-astra",
-    "description": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-    "pubDate": "2026-09-23T01:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Airbnb den Zugriff auf GPT-6 Astra- und OpenAI-Frontier-Modelle erweitert, um Ingenieurteams dabei zu helfen, Fehler zu beheben, Systeme zu entwerfen und schneller zu liefern.",
-    "titleDE": "Airbnb erweitert den Zugang zu GPT-6 Astra- und OpenAI-Frontier-Modellen"
-  },
-  {
-    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "description": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-    "pubDate": "2026-09-23T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI und Grab starten GO Forward with AI, ein regionales Programm, das 30.000 Partnern beim Aufbau praktischer KI-Fähigkeiten in ganz Südostasien hilft.",
-    "titleDE": "Grab und OpenAI bringen praktische KI-Fähigkeiten nach Südostasien"
-  },
-  {
-    "title": "Better prompt caching for GPT-6",
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-    "pubDate": "2026-09-22T21:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie GPT-6 das Prompt-Caching durch höhere Cache-Trefferraten, neue Diagnosen, explizite Haltepunkte und Kontrollen verbessert, die Latenz und Kosten reduzieren.",
-    "titleDE": "Besseres Prompt-Caching für GPT-6"
-  },
-  {
-    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "description": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-    "pubDate": "2026-09-22T19:45:47.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "EvilTokens stellte eine End-to-End-Plattform bereit, die Massenkompromittierungen schneller und einfacher macht.",
-    "titleDE": "Microsoft stört eine KI-gestützte Plattform, die 12.000 Konten kompromittiert hat"
-  },
-  {
-    "title": "Introducing GPT-6 Sol and Luna",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-    "pubDate": "2026-09-22T18:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Lernen Sie GPT-6 Sol und Luna kennen, zwei Modelle, die bahnbrechende Intelligenz in den Arbeitsalltag bringen und dabei ein unterschiedliches Verhältnis von Leistungsfähigkeit und Kosten bieten.",
-    "titleDE": "Wir stellen GPT-6 Sol und Luna vor"
-  },
-  {
-    "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-    "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-    "description": "The English hospitals recovered patient care data only.",
-    "pubDate": "2026-09-22T16:55:40.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die englischen Krankenhäuser stellten lediglich Daten zur Patientenversorgung wieder her.",
-    "titleDE": "Ein IT-Fehler löscht den 11-jährigen Sichtungsverlauf der Mutterschaftsakten von Krankenhäusern"
   }
 ]

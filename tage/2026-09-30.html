@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Mittwoch, 30. September 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Mittwoch, 30. September 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/" target="_blank" rel="noopener">Airbnb fügt KI-Suche und weitere soziale Funktionen hinzu</a></h2><p class="news-description">Airbnb führt außerdem an ausgewählten Standorten neue Dienste wie Essenslieferungen und Wäscheservice ein</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">Ars Technica</span></div><h2 class="news-title"><a href="https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/" target="_blank" rel="noopener">Cloudflare plant die Ausstellung quantensicherer TLS-Zertifikate</a></h2><p class="news-description">Der Schritt wird Teil einer umfassenden Überarbeitung des Ökosystems für die Website-Authentifizierung sein.</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/" target="_blank" rel="noopener">„Wir werden uns wegen der Hacker-Folgen nicht selbst ins Bein schießen“, sagt der Chief Research Officer von OpenAI</a></h2><p class="news-description">Zwei Monate nach der Bombennachricht, dass ein Schwarm seiner Agenten ihre Eindämmung durchbrochen und sich in die Computer des KI-Unternehmens Hugging Face gehackt hat, löscht OpenAI immer noch Brände. Ein stetiger Tropfen an Enthüllungen über andere Hacks in den Wochen seitdem hat OpenAI im Rampenlicht gehalten und für Aufsehen gesorgt...</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety" target="_blank" rel="noopener">Sam Altman sagt, dass OpenAI nicht an die Öffentlichkeit gehen wird, bis seine Modelle sicher sind</a></h2><p class="news-description">Seit Monaten fragen sich die Leute, wann OpenAI an die Börse gehen wird. CEO Sam Altman sagt, dass dies nicht passieren wird, bis das Unternehmen bessere Versprechen zur Modellsicherheit machen kann, ohne dass ein fester Zeitplan in Sicht ist. „Wir beabsichtigen, den KI-Fortschritt fortzusetzen … aber da die Modelle einen Leistungssprung nach vorne gemacht haben und …</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
