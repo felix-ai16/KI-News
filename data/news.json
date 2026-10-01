@@ -1,12 +1,282 @@
 [
   {
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…",
+    "pubDate": "2026-10-01T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein KI-Tool zum „Gedankenlesen“ kann anhand eines Gehirnscans rekonstruieren, was Sie gerade sehen. Ein neues KI-Tool kann allein durch die Analyse Ihres Gehirns erraten, was Sie gerade sehen …",
+    "titleDE": "Der Download: KI-„Gedankenlesen“ und kreative Anwendungen für kleine Batterien"
+  },
+  {
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "pubDate": "2026-10-01T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Satlyt möchte das Android des Orbital Computing sein und offene Software anbieten, die auf den Satelliten vieler Unternehmen funktioniert, im Gegensatz zum geschlossenen All-in-One-Ansatz von SpaceX im iPhone-Stil.",
+    "titleDE": "Satlyt, gegründet von einem ehemaligen Produktmanager von Google und SpaceX, sammelt 8 Millionen US-Dollar, um KI auf Satelliten einzusetzen"
+  },
+  {
+    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "description": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what…",
+    "pubDate": "2026-10-01T10:32:24.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Ein neues KI-Tool kann allein durch die Analyse Ihrer Gehirnscans erraten, was Sie gerade sehen – und dieses Bild mit bemerkenswerter Präzision nachbilden. Es kann auch in die andere Richtung gehen und die Gehirnaktivität einer Person basierend auf dem, was sie betrachtet, vorhersagen. Im Bild oben ist zum Beispiel das linke Bild jedes Paares ...",
+    "titleDE": "Ein KI-Tool zum „Gedankenlesen“ kann anhand eines Gehirnscans rekonstruieren, was Sie gerade sehen"
+  },
+  {
+    "title": "How smaller, distributed batteries could help the grid",
+    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+    "description": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,…",
+    "pubDate": "2026-10-01T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Wenn Sie in New York City eine große Batterie installieren möchten, müssen Sie sich durch ein notorisch strenges Gewirr von Vorschriften durcharbeiten. Das hat es schwierig gemacht, große Energiespeicherprojekte ans Netz zu bringen. Angesichts dieser Hindernisse werden einige Start-ups kreativ und finden Wege, relativ kleine Ba... zu nutzen.",
+    "titleDE": "Wie kleinere, verteilte Batterien das Netz unterstützen könnten"
+  },
+  {
+    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\"\nGrokipedia's old homepage was pretty much just a logo and a search bar, but the updated homepage includes a list of featured articles, a list of the most-read articles, and a tracker showing the \"latest edits.\" The new featured list showcases digital representations of books that you can spin around, and the most read section also …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-01T00:23:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Grokipedia, SpaceXAIs KI-gestützter Konkurrent von Wikipedia, hat vor kurzem wieder damit begonnen, Bearbeitungen zu integrieren, und heute wurden im Rahmen eines v0.3-Updates einige Designänderungen vorgenommen, darunter ein neues Logo und Aktualisierungen seiner Homepage und der Live-Bearbeitungsseite. SpaceXAI-Designchef Benji Taylor nennt es eine „erneute Auffrischung …“",
+    "titleDE": "Elon Musks Grokipedia hat ein „neu aufgefrischtes“ Design"
+  },
+  {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "pubDate": "2026-09-30T23:43:07.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google hat sein neuestes Gemini-Modell herausgebracht und es als Arbeitstier für Codierungs- und Cybersicherheitsarbeiten vermarktet.",
+    "titleDE": "Google veröffentlicht Gemini 4 Argon, das als sein bisher leistungsstärkstes Modell bezeichnet wird"
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "pubDate": "2026-09-30T21:07:40.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Flow Engineering, das KI-Agenten in das Hardware-Design einbringt, hat Roelof Botha ebenfalls als Angel-Investor und Vorstandsmitglied gewonnen.",
+    "titleDE": "Valor, Atreides und Sequoia unterstützen das KI-Startup Flow Engineering mit einem Wert von 750 Millionen US-Dollar"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "description": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "pubDate": "2026-09-30T20:44:48.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Eine einfache E-Mail gibt den Angreifern die Möglichkeit, Betriebssystembefehle aus der Ferne einzuschleusen.",
+    "titleDE": "Angreifer haben eine kritische Zimbra-Schwachstelle ausgenutzt, um E-Mails zu stehlen"
+  },
+  {
+    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "description": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a \"set of trusted cyber defenders,\" and Kavukcuoglu says that Google is \"actively engaged in the U.S. government's voluntary process for pre-release model access while we gradually expand access.\"\nKavukcuoglu says Gemini 4 Argon is already powering Google's …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-30T20:41:41.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google hat heute sein nächstes KI-Frontier-Modell vorgestellt, das es Gemini 4 Argon nennt. Laut Chef-KI-Architekt bietet das neue Modell „Grenzleistung in komplexen Arbeitsabläufen in der realen Softwareentwicklung, unternehmensweiten Wissensarbeit wie Recht und Finanzen sowie Cybersicherheitsverteidigung“ ...",
+    "titleDE": "Google kündigt Gemini 4 an und sagt, es sei so leistungsfähig, dass nur „vertrauenswürdige Cyber-Verteidiger“ davon profitieren könnten. kann es sofort haben"
+  },
+  {
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "pubDate": "2026-09-30T19:00:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die „Decisions API“ von OpenAI ist ein Jev-Klon, der die Bedeutung schneller und kostengünstiger Intelligenz bestätigt.",
+    "titleDE": "Der Jev-Klon von OpenAI könnte dem Grenzlabor helfen, seine ausschwärmenden Agenten zu stoppen"
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "pubDate": "2026-09-30T18:23:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Mitarbeiterausschreibung im Wert von 300 Millionen US-Dollar wurde gemeinsam von Wellington und T. Rowe Price geleitet.",
+    "titleDE": "Das AI-Voice-Startup ElevenLabs verdoppelt seinen Wert auf 22 Milliarden US-Dollar"
+  },
+  {
+    "title": "The AI Tamagotchis are coming",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "description": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \n\"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and Humane AI Pin have inspired mainly frustration and backlash, which may only worsen as public anger toward AI grows. Meta and OpenAI, however, are both pushing ahead. OpenAI is working with famed ex-Apple designer Jony Ive and pla …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-30T18:07:38.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Sam Altman auf der Bühne beim DevDay 2026 von OpenAI. | Foto: Hayden Field / The Verge Während KI in vielen Telefonen und Computern Einzug gehalten hat, ist sie bei dedizierten Geräten weitgehend gescheitert. Doch im Laufe des nächsten Jahres werden zwei große KI-Unternehmen, Meta und OpenAI, versuchen, dies zu ändern. Und sie sind app...",
+    "titleDE": "Die KI-Tamagotchis kommen"
+  },
+  {
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "pubDate": "2026-09-30T17:45:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Reddit stellt die Unterstützung für RSS-Feeds ein, da das Unternehmen den Zugriff auf seine Fülle an benutzergenerierten Inhalten weiter verschärft.",
+    "titleDE": "Reddit beendet RSS-Feeds und beendet den öffentlichen API-Zugriff wegen KI-Bots"
+  },
+  {
+    "title": "The ugly economics of consumer AI",
+    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "pubDate": "2026-09-30T17:24:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Es gibt einen Grund, warum Frontier Labs gegenüber Verbraucher-KI zurückhaltend geworden sind – und das liegt nicht daran, dass die Technologie nicht gut genug ist.",
+    "titleDE": "Die hässlichen wirtschaftlichen Aspekte der Verbraucher-KI"
+  },
+  {
+    "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "description": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images\t\n\nAfter hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" \nAnd instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\"\nThe people in question here are Goog …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-30T17:15:49.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wenn Sie diese Aufnahme amüsant finden, schauen Sie sich den panischen Ausdruck auf Zuckerbergs Gesicht an, als Trump ihn zum Reden auffordert. | Foto: Kevin Dietsch/Getty Images Nachdem Präsident Donald Trump am Dienstag ein Essen mit Führungskräften der Big Tech veranstaltet hatte, beantwortete er Journalistenfragen zu seiner künstlichen Intelligenz ...",
+    "titleDE": "Hier ist, was KI-Führungskräfte zu Trumps neuem Sicherheitsplan sagen"
+  },
+  {
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "pubDate": "2026-09-30T16:24:23.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta gibt an, dass sein Muse-KI-Agent ohne ausdrückliche Erlaubnis nicht auf die Nachrichten eines Benutzers zugreifen kann, und bestreitet das Konto eines Journalisten, dass der Agent seine privaten Nachrichten gelesen habe, während die erforderliche Mac-Einstellung deaktiviert war.",
+    "titleDE": "Meta-Streitigkeiten behaupten, dass Muse die privaten Nachrichten eines Benutzers ohne Erlaubnis gelesen habe"
+  },
+  {
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "pubDate": "2026-09-30T16:00:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Durch die Einführung eines KI-Agenten für die Essensbestellung möchte sich DoorDash einen Vorteil gegenüber den Konkurrenten Uber Eats und Grubhub verschaffen.",
+    "titleDE": "DoorDash führt einen KI-Agenten ein, mit dem Sie per SMS Essen bestellen können"
+  },
+  {
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "pubDate": "2026-09-30T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Einer der Hauptgründe, warum wir gegen Robotikunternehmen gewinnen, ist, dass wir kein Robotikunternehmen sind.“",
+    "titleDE": "Das Geheimnis von Destro AI besteht darin, Roboter und Menschen auf den gleichen Stand zu bringen"
+  },
+  {
+    "title": "Instinct’s new product recommendations are giving some users the ick",
+    "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+    "description": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+    "pubDate": "2026-09-30T15:56:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Instinct führt von Menschen kuratierte Produkt- und Reiseempfehlungen ein, aber einige Benutzer sind nicht glücklich darüber, Vorschläge zu erhalten, nach denen sie nie gefragt haben.",
+    "titleDE": "Die neuen Produktempfehlungen von Instinct verunsichern einige Benutzer"
+  },
+  {
+    "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+    "description": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans for a Tamagotchi-like Muse Charm device for its cuddly AI mascot. \nFollow along here for the latest news and updates.\nMeta’s Muse AI sent a YouTuber’s address to a stranger\n\t\t\t\nMeta expands Muse tools for small businesses.\n\t\t\t\nMeta Enterprise Platform will bring its Muse AI to businesses.\n\t\t\t\nMaybe don’t let Muse run your Facebook Marketplace account.\n\t\t\t\nThe Muse Charm won’t have Instagram built in.\n\t\t\t\nMeta makes the Muse filesystem even more accessible\n\t\t\t\nMuse will apparently let you download its entire filesystem\n\t\t\t\nMuse sure looks a lot like OpenClaw\n\t\t\t\nIt’s sinister that Meta’s Muse AI mascot is so cute\n\t\t\t\nMeta’s Muse AI Charms can interact with each other\n\t\t\t\nMeta is making a standalone Muse AI gadget\n\t\t\t\nMuse is coming to Meta smart glasses\n\t\t\t\nMeta is making Muse more powerful and will let you video chat with it, too\n\t\t\t\nMeta’s AI agent is a cute little guy who’s great at spending my money\n\t\t\t\nMeta patches Muse exploit that let attackers control the AI agent\n\t\t\t\nCan you forget how you feel about Meta?\n\t\t\t\nAmazon blocks Meta’s Muse AI agent\n\t\t\t\nMeta’s Muse is creepy, but maybe not for the reasons you think\n\t\t\t\nMeta’s Muse AI agent now has a Mac app.\n\t\t\t\nMeta’s Muse AI works and creeps me out\n\t\t\t\nMark Zuckerberg tells you to trust Muse.\n\t\t\t\nMeta bets on AI agent Muse to catch up in AI race",
+    "pubDate": "2026-09-30T15:18:49.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Meta hat einen neuen Muse-KI-Agenten auf den Markt gebracht, von dem es behauptet, dass er Ihnen bei allem helfen kann, vom Versenden von E-Mails bis zum Online-Kauf von Dingen. Muse kann diese Versprechen überraschend effektiv einhalten – wenn Sie bereit sind, Meta Ihre Daten anzuvertrauen und Muse Ihre Kreditkarte auszuhändigen. Seit der Einführung ist Meta auch ein...",
+    "titleDE": "Alle Neuigkeiten zu Metas niedlichem, gruseligem KI-Agenten Muse"
+  },
+  {
+    "title": "Google reportedly tests paying publishers for AI search results",
+    "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+    "description": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic.\nDigiday first reported on the pilot program, which began less than a year ago. As part of the test, Google is reportedly paying participating publishers for how much their content contributed to AI Overviews and AI Mode in Search, as well as its Gemini chatbot. One publisher that joined the program when it first started earned over $1 milli …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-30T14:51:49.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Laut einem Bericht von The Information hat Google ein Pilotprogramm gestartet, das Verlage für ihre Beiträge zu seinen KI-gestützten Suchfunktionen bezahlt. Das Pilotprogramm umfasst Berichten zufolge rund 100 Verlage und kommt zu einem Zeitpunkt, an dem Google die Auswirkungen seiner KI-Funktionen auf den Web-Verkehr unter die Lupe nimmt.",
+    "titleDE": "Berichten zufolge testet Google zahlende Verlage für KI-Suchergebnisse"
+  },
+  {
+    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+    "description": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change.\nUsing the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience. The tool pulls in data and metrics such as likes, views, retention on videos, and shares. Instagram says it can spot pat …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-30T14:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Instagram ist die neueste Social-Media-Plattform mit integrierten KI-gestützten Funktionen, die den Nutzern Feedback zu ihren Beiträgen geben. Das Unternehmen gab am Mittwoch bekannt, dass seine eigenständige Edits-App nun einen KI-„Kreativassistenten“ enthalten wird, der Daten aus dem Instagram-Konto eines Benutzers abruft und Vorschläge unterbreitet...",
+    "titleDE": "Instagram fügt einen KI-„Assistenten“ hinzu, der Ihnen sagt, wie Sie posten"
+  },
+  {
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "pubDate": "2026-09-30T14:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Auf der TechCrunch Disrupt 2026 wird Andrew Feldman, CEO und Mitbegründer von Cerebras Systems, die wachsende Nachfrage nach Rechenleistung, Energie und Infrastruktur untersuchen, wie Cerebras diese Einschränkungen anders angeht und was als nächstes kommt, wenn die heutige KI-Hardware an ihre Grenzen stößt.",
+    "titleDE": "Andrew Feldman von Cerebras Systems erläutert auf der TechCrunch Disrupt 2026, ob KI weiter skalieren kann"
+  },
+  {
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "description": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+    "pubDate": "2026-09-30T14:27:11.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Anstatt seine dauerhafte Ausführungs-Engine auf einer externen Datenbank aufzubauen, entwickelte das Unternehmen eigene Speicher-, Replikations- und Redundanzschichten. Diese Architektur ermöglicht es Restate, außergewöhnlich schnell und leicht zu sein.",
+    "titleDE": "Restate erhält 20 Millionen US-Dollar, da der Bedarf an langlebiger Infrastruktur durch KI-Agenten steigt"
+  },
+  {
+    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+    "description": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+    "pubDate": "2026-09-30T14:15:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Noch drei Tage Zeit, um auf der TechCrunch Disrupt 2026 auszustellen. Buchen Sie bis zum 2. Oktober um 23:59 Uhr. PT, um Ihr Startup mehr als 10.000 Gründern, Investoren, Betreibern und Technologieführern vorzustellen.",
+    "titleDE": "Noch 3 Tage bis zur Ausstellung: Machen Sie Sichtbarkeit zu Ihrer nächsten Chance auf der TechCrunch Disrupt 2026"
+  },
+  {
+    "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+    "description": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images\t\n\nWe now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, OpenAI's Greg Brockman, XAI's Elon Musk, and Nvidia's Jensen Huang.\nTrump introduced the deal yesterday at the same time as ordering the US government to refer to AI as 'Super Intelligence' going for …\nRead the full story at The Verge.",
+    "pubDate": "2026-09-30T12:24:32.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Bekommt sonst noch jemand „Das letzte Abendmahl“-Feeling von diesem Foto, das beim Tech-Treffen im Weißen Haus aufgenommen wurde? | Fotograf: Tierney L. Cross/The Washington Post/Bloomberg über Getty Images Wir haben jetzt alle Einzelheiten des gestern von Präsident Trump angekündigten „moralisch verbindlichen“ KI-Sicherheitsabkommens, in dem ...",
+    "titleDE": "So werden Technologieführer im Rahmen von Trumps Deal die KI-Sicherheit selbst überwachen"
+  },
+  {
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,…",
+    "pubDate": "2026-09-30T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. „Wir werden uns wegen der Hacker-Folgen nicht selbst ins Bein schießen“, sagt der Forschungsleiter von OpenAI. Zwei Monate, nachdem die Agenten von OpenAI den Computer gehackt haben ...",
+    "titleDE": "Der Download: Der Chief Research Officer von OpenAI erklärt seine Hacker-Reaktion"
+  },
+  {
     "title": "Airbnb adds AI search, more social features",
     "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+    "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
     "pubDate": "2026-09-30T12:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Airbnb führt außerdem an ausgewählten Standorten neue Dienste wie Essenslieferungen und Wäscheservice ein",
+    "descriptionDE": "Airbnb führt außerdem an ausgewählten Standorten neue Dienste wie Essenslieferungen und Wäscheservice ein.",
     "titleDE": "Airbnb fügt KI-Suche und weitere soziale Funktionen hinzu"
   },
   {
@@ -27,7 +297,27 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Zwei Monate nach der Bombennachricht, dass ein Schwarm seiner Agenten ihre Eindämmung durchbrochen und sich in die Computer des KI-Unternehmens Hugging Face gehackt hat, löscht OpenAI immer noch Brände. Ein stetiger Tropfen an Enthüllungen über andere Hacks in den Wochen seitdem hat OpenAI im Rampenlicht gehalten und für Aufsehen gesorgt...",
-    "titleDE": "„Wir werden uns wegen der Hacker-Folgen nicht selbst ins Bein schießen“, sagt der Chief Research Officer von OpenAI"
+    "titleDE": "„Wir werden uns wegen der Hacker-Folgen nicht selbst ins Bein schießen“, sagt der Forschungsleiter von OpenAI"
+  },
+  {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "pubDate": "2026-09-30T10:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie OpenAI eine Kampagne zur Extraktion geschützter Modellbegründungen störte und die Abwehrkräfte gegen kontradiktorische Destillation stärkt.",
+    "titleDE": "Störung einer koordinierten Modelldestillationskampagne"
+  },
+  {
+    "title": "Helping small businesses put AI to work",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "pubDate": "2026-09-30T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI arbeitet mit dem amerikanischen SBDC zusammen, um praktische KI-Schulungen und lokale Unterstützung für kleine Unternehmen zu erweitern, zusammen mit einem neuen Bericht darüber, wie kleine Teams KI nutzen.",
+    "titleDE": "Wir helfen kleinen Unternehmen, KI in die Praxis umzusetzen"
   },
   {
     "title": "Sam Altman says OpenAI won’t go public until its models are safe",
@@ -67,17 +357,7 @@
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Bevor OpenAI am Dienstag seinen neuen KI-Agenten Dots auf den Markt brachte, hatte xAI von Elon Musk bereits den Domainnamen „dot.com“ erworben, der nun auf die Download-Seite des Grok-Chatbots weiterleitet.",
-    "titleDE": "Das Internet ist davon überzeugt, dass Elon Musks xAI den „Dots“-Start von OpenAI trollte"
-  },
-  {
-    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-    "description": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\"\nThe site seems to have become active again relatively recently. The page for President Barack Obama has a note that says it was \"Fact-checked by Grok\" two days ago, and the page for Elon Musk was fact-checked while I was writing this, within the  …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-29T21:49:09.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Elon Musk | Bild: Laura Normand / The Verge Grokipedia, die KI-gestützte Online-Enzyklopädie von SpaceXAI, scheint nach einer monatelangen Pause wieder Artikel zu aktualisieren. Im August berichtete Lawfare, dass Artikel auf Grokipedia seit April keine Änderungen mehr überprüft hätten, die Live-Updates der Plattform jedoch …",
-    "titleDE": "Elon Musks KI-gestützte Grokipedia wird erneut aktualisiert"
+    "titleDE": "Das Internet ist überzeugt, dass Elon Musks xAI den „Dots“-Start von OpenAI trollte"
   },
   {
     "title": "OpenAI’s latest features take direct aim at the app store model",
@@ -100,186 +380,6 @@
     "titleDE": "Berichten zufolge befindet sich OpenAI in Gesprächen über die Beschaffung von 30 Milliarden US-Dollar bei einem Wert von 1,4 Billionen US-Dollar"
   },
   {
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-    "pubDate": "2026-09-29T18:35:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI ist kein öffentlicher Unterstützer der Open Agent Safety Platform von Nvidia, arbeitet jedoch privat mit Nvidia zusammen, wie TechCrunch erfahren hat.",
-    "titleDE": "Aus diesem Grund fehlt OpenAI bei Nvidias branchenweiten Bemühungen, betrügerische KI-Agenten zu vernichten"
-  },
-  {
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "description": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-    "pubDate": "2026-09-29T17:45:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit der neu angekündigten Suite von Office-Funktionen steht OpenAI in direkterer Konkurrenz zu traditionelleren Softwareunternehmen.",
-    "titleDE": "OpenAI nimmt es mit Microsoft auf und bringt etwas auf den Markt, das sich wie die eigene Office-Suite von ChatGPT anfühlt"
-  },
-  {
-    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-    "description": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. \nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human e …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-29T17:35:03.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "„Meiner Ansicht nach ist die Wahrscheinlichkeit des Aussterbens der Menschheit nur ein Münzwurf“, sagte Geoffrey Irving, ein ehemaliger Mitarbeiter von OpenAI und Google DeepMind, in einem neuen Interview. Es ist eines von einem Dutzend Interviews mit KI-Forschern, darunter aktuellen und ehemaligen Mitarbeitern von OpenAI, Google und Anthropic. Palisade Research, mit...",
-    "titleDE": "KI-Forscher veröffentlichen Videos, in denen es heißt, Superintelligenz sei „genau so gefährlich, wie es sich anhört“"
-  },
-  {
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-    "pubDate": "2026-09-29T17:20:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wabi positioniert seinen auf Eingabeaufforderungen basierenden App-Builder als persönlichen KI-Agenten neu, der bei Bedarf Schnittstellen erstellen und dabei Chat, Apps und laufende Aufgaben kombinieren kann.",
-    "titleDE": "Der KI-gestützte App-Hersteller Wabi setzt auf ein Messaging-Erlebnis"
-  },
-  {
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "pubDate": "2026-09-29T17:17:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dots sollen unabhängig von einer bestimmten Hardware oder Schnittstelle funktionieren und benutzerdefinierte Ziele kontinuierlich im Hintergrund und mit minimaler Aufsicht verfolgen.",
-    "titleDE": "OpenAI bringt Dots auf den Markt, seinen sprudelnden Agenten-Avatar"
-  },
-  {
-    "title": "OpenAI launches Dots, its Muse competitor",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-    "description": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\nThe company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-29T17:15:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Wie Muse werden auch die Dots von OpenAI durch niedliche, anpassbare Avatare dargestellt. | Bild: OpenAI OpenAI reagiert auf Metas lebhafte Muse-KI mit eigenen Agenten-Helfern: Dots. Während seiner DevDay-Keynote am Dienstag kündigte OpenAI an, dass Dots als ständig verfügbare KI-Assistenten fungieren werden, die „fast alles tun können …“",
-    "titleDE": "OpenAI bringt Dots auf den Markt, seinen Muse-Konkurrenten"
-  },
-  {
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "pubDate": "2026-09-29T17:15:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI erweitert Codex um wiederverwendbare Cloud-Entwicklungsumgebungen, eine überarbeitete CLI mit Sprachsteuerung, neue Tools zur Codeüberprüfung und ein sicherheitsorientiertes Produkt zum Scannen von Repositorys und zum Vorbereiten von Korrekturen.",
-    "titleDE": "OpenAI bietet Codex wiederverwendbare Cloud-Umgebungen, die geräteübergreifend funktionieren"
-  },
-  {
-    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-    "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-    "description": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "pubDate": "2026-09-29T17:15:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI erweitert ChatGPT-Plug-ins um spezielle Seitenleisten, interaktive Panels, Dateibetrachter, verbesserte Erkennung und Unterstützung für Automatisierungen.",
-    "titleDE": "OpenAI erweitert die Plug-ins von ChatGPT um App-ähnliche Schnittstellen und Automatisierungen"
-  },
-  {
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-    "pubDate": "2026-09-29T17:15:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut OpenAI bietet GPT-6.1 Sol erhebliche Verbesserungen gegenüber GPT-6 Sol bei komplexen professionellen Aufgaben, einschließlich Code-Schreiben und Debuggen, Dokumentenverständnis und der Ausführung mehrstufiger Geschäftsabläufe.",
-    "titleDE": "OpenAI bringt GPT-6.1 Sol auf den Markt und sagt, dass es fast mit GPT-6 Astra mithalten kann und weniger kostet"
-  },
-  {
-    "title": "Protesters gather at OpenAI’s DevDay",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-    "description": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" \nMore than a dozen organizations came together to sponsor a rally outside the entrance to the event venue at San Francisco's Fort Mason, including Bay Resistance, Tech Workers Coalition, Service Employees International Union, San Francisco Rising, and the San Francisco Labor Council. A large orange sign read \"Drop the ICE contract.\" Multiple people dressed in cardboard robot costumes waved cardbo …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-29T17:12:27.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Am Dienstag begann die jährliche DevDay-Veranstaltung von OpenAI mit Protesten, Flyern und Sprechchören. „Sam Altman, hör auf damit, stelle die Menschen über den Profit“, sagte eine Gruppe von Demonstranten, die im Kreis vor einer Reihe von Schildern marschierten, auf denen stand: „Die Menschen über den Profit.“ Mehr als ein Dutzend Organisationen kamen zusammen, um...",
-    "titleDE": "Demonstranten versammeln sich beim DevDay von OpenAI"
-  },
-  {
-    "title": "Can a chatbot fix the government maze? The White House is about to find out",
-    "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-    "description": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-    "pubDate": "2026-09-29T16:55:56.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "America.gov soll den Prozess der Navigation durch die Regierungsbürokratie vereinfachen, aber große Sprachmodelle sind unvollkommen und bleiben anfällig für Halluzinationen, die neue Probleme verursachen könnten.",
-    "titleDE": "Kann ein Chatbot das Regierungslabyrinth reparieren? Das Weiße Haus wird es gleich herausfinden"
-  },
-  {
-    "title": "OpenAI DevDay 2026: The biggest news and announcements",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-    "description": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, Dots will initially be available to paid subscribers of ChatGPT Pro, Business Premium, and Enterprise. The company also revealed its GPT-6.1 Sol model, said that ChatGPT now has 1.2 billion users per week, and announced a new ChatGPT Pro plan that costs $500 per month.\nDevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI’s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown.\nYou can follow all of our coverage of DevDay 2026 right here.\n\n\n\t\t\t\t\t\nCasey Newton likes his Dot.\n\t\t\t\nSam Altman says OpenAI won’t go public until its models are safe\n\t\t\t\nOpenAI plans to bring Dots to consumers, too.\n\t\t\t\nChatGPT now has 1.2 billion weekly users, OpenAI says.\n\t\t\t\nOpenAI launches Dots, its Muse competitor\n\t\t\t\nOpenAI is adding a $500 / month ChatGPT Pro tier.\n\t\t\t\nProtesters gather at OpenAI’s DevDay\n\t\t\t\nOpenAI’s AI agents need to catch up\n\t\t\t\nOpenAI’s DevDay 2026 has a date.",
-    "pubDate": "2026-09-29T16:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Im Herbst-Tech-Veranstaltungskalender ist OpenAI an der Reihe. Das Unternehmen veranstaltet seinen jährlichen DevDay am 29. September in San Francisco und enthüllte während einer Live-Keynote mit CEO Sam Altman mehrere bemerkenswerte Updates, darunter Dots, sein KI-Agentenprodukt, das mit Metas kürzlich eingeführtem Muse konkurriert. H...",
-    "titleDE": "OpenAI DevDay 2026: Die größten Neuigkeiten und Ankündigungen"
-  },
-  {
-    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-    "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-    "description": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-    "pubDate": "2026-09-29T15:12:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Gründer von Instinct sagte, die Plattform wachse von Tag zu Tag um 10 %, wobei das Transaktionsvolumen in ähnlichem Maße steige.",
-    "titleDE": "Der Gründer von Instinct sagte, dass mehr als 50 % der Transaktionen auf der Plattform reisebezogen seien"
-  },
-  {
-    "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-    "description": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch up with competing AI providers like Anthropic and OpenAI.\n\"Just found out it told people my address and agreed a lowball price and then they showed up without it even telling me until late tonight that it messed up,\" Robb said on Threads, providing a screenshot of Muse's admission. \"[Muse] didn't tell me any of this until  …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-29T14:08:21.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Tech-YouTuber Matt Robb sagt, Muse habe an diesem Wochenende seine Privatadresse an einen völlig Fremden weitergegeben, nachdem er dem Bot die Verwaltung seines Facebook-Marktplatzkontos gestattet hatte. Und das, obwohl Meta großen Wert auf die Sicherheitsfunktionen von Muse legte, als es Anfang des Monats den persönlichen KI-Agenten auf den Markt brachte ...",
-    "titleDE": "Metas Muse AI hat die Adresse eines YouTubers an einen Fremden gesendet"
-  },
-  {
-    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-    "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-    "description": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-    "pubDate": "2026-09-29T13:53:01.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mayer argumentiert, dass wenn ein Foto mehr sagt als tausend Worte, Ihre Kamerarolle Millionen wert ist. Durch die Analyse aller auf Ihrem Telefon gespeicherten Fotos behauptet Dazzle, Ihre Hobbys, Interessen, Essens- und Stilvorlieben zu verstehen, wie Sie ihre Zeit gerne verbringen und mit wem.",
-    "titleDE": "Mit Dazzle ist Marissa Mayer sicher, dass Ihre Kamerarolle mehr Informationen über Ihr Leben enthält als Ihr Posteingang"
-  },
-  {
-    "title": "Meta is expanding its AI agent Muse to small businesses",
-    "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-    "description": "The tech giant says the agent can help owners run their business and find new customers.",
-    "pubDate": "2026-09-29T13:47:30.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Technologieriese sagt, der Agent könne Eigentümern helfen, ihr Geschäft zu führen und neue Kunden zu finden.",
-    "titleDE": "Meta weitet seinen KI-Agenten Muse auf kleine Unternehmen aus"
-  },
-  {
-    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-    "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-    "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-    "pubDate": "2026-09-29T12:45:05.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Unternehmen erläuterte außerdem detailliert, wie es zu einigen dieser Verstöße kam, und skizzierte zusätzliche Maßnahmen, die es ergreift, um die Auswirkungen der Ereignisse zu bewerten.",
-    "titleDE": "OpenAI entschuldigt sich bei Australien, nachdem seine KI-Agenten Regierungsseiten gehackt haben"
-  },
-  {
-    "title": "Reco raises $55M as AI agent security startups crowd the market",
-    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-    "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-    "pubDate": "2026-09-29T12:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Runde baut auf einer Spendenaktion in Höhe von 30 Millionen US-Dollar im Februar auf, wodurch sich die Gesamtfinanzierung des Unternehmens auf 140 Millionen US-Dollar erhöht.",
-    "titleDE": "Reco sammelt 55 Millionen US-Dollar, während Start-ups im Bereich KI-Agentensicherheit auf den Markt drängen"
-  },
-  {
     "title": "The Download: climate tech companies to watch and AI’s discovery problem",
     "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,…",
@@ -288,26 +388,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Demnächst erhältlich: unsere Liste der Climate-Tech-Unternehmen für 2026, die man im Auge behalten sollte. Da sich die Erwärmung des Planeten um 1,5 °C nähert, die Klimapolitik aufgelöst wird und Big Tech einen Rückzieher macht ...",
     "titleDE": "Der Download: Klimatechnologieunternehmen, die man im Auge behalten sollte, und das Entdeckungsproblem der KI"
-  },
-  {
-    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-    "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-    "description": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images\t\n\nAs President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot.\nIn letters shared exclusively with The Verge, Khanna - the top Democrat on the House Select Committee on China and a possible presidential contender - asked a US intelligence agency and Chinese AI companies whether they would be prepared for an incident like OpenAI agents' hack of Hugging Face this summer. The companies included DeepSeek, Alibaba, and Moonshot AI, all of which  …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-29T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Bild: Tom Williams/CQ-Roll Call, Inc über Getty Images Während Präsident Donald Trump sich auf ein Treffen mit Technologie- und KI-CEOs in Washington vorbereitet, fordert der Abgeordnete Ro Khanna (D-CA) einen Vertrag zwischen den USA und China, um zu verhindern, dass KI in der Welt Chaos anrichtet. Aber die Staats- und Regierungschefs beider Länder streiten darum, Maßnahmen zu ergreifen ...",
-    "titleDE": "Werden chinesische KI-Unternehmen langsamer? Ein Spitzendemokrat im Repräsentantenhaus will Antworten"
-  },
-  {
-    "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-    "description": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than double the $965 billion it was valued at four months ago, making it a contender to overtake SpaceX as the largest IPO in history.\nAccording to Reuters, which reportedly reviewed Anthropic's prospectus, the AI startup plans to spend $518 billion on cloud, computing, and infrastructure obligations  …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-29T11:48:27.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Während sich Anthropic auf sein mit Spannung erwartetes öffentliches Debüt vorbereitet, werden in einer Vorschau auf den Börsengang des Unternehmens Berichten zufolge die steigenden Verluste, Führungsvorschläge zum Machterhalt und die Art und Weise, wie seine KI-Entwicklungspläne „das Risiko, dass unsere Modelle Schaden anrichten, weiter erhöhen könnten“, detailliert beschrieben. Diese Enthüllungen kommen als...",
-    "titleDE": "Anthropic warnt in seinem eigenen Börsengangsantrag vor „katastrophalen“ KI-Risiken"
   },
   {
     "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
@@ -350,26 +430,6 @@
     "titleDE": "Zusammenfassung des DevDay 2026"
   },
   {
-    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-    "pubDate": "2026-09-29T05:13:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In seinem Prospekt teilte Anthropic den Anlegern gerade mit, dass das Unternehmen zig Milliarden Dollar pro Jahr verliert, aber auch wie verrückt wächst, und – ach ja – seine eigene KI könnte ein existenzielles Risiko für die Menschheit darstellen.",
-    "titleDE": "Der Prospekt von Anthropic beschreibt Verluste, Wachstum und, ja, eine Warnung, dass seine KI die Menschheit vernichten könnte"
-  },
-  {
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-    "pubDate": "2026-09-29T00:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dreizehn der 18 Startups in der neuesten Surge-Kohorte von Peak XV zielen auf globale Märkte ab, während mehr als die Hälfte ihren Sitz in Indien hat.",
-    "titleDE": "Peak"
-  },
-  {
     "title": "Introducing dots",
     "link": "https://openai.com/index/introducing-dots",
     "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
@@ -390,16 +450,6 @@
     "titleDE": "Roundtables: Die tödlichen Misserfolge der virtuellen Grenzmauer"
   },
   {
-    "title": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "pubDate": "2026-09-28T19:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Unsere frühen Richtlinien für Sicherheitsfälle im Frontier-KI-Training umfassen technische Sicherheitsmaßnahmen, Betriebspraktiken und die Untersuchung von Fehlausrichtungsvorfällen",
-    "titleDE": "Auf dem Weg zu Sicherheitsfällen für das Grenz-KI-Training"
-  },
-  {
     "title": "How we will do better for Australia",
     "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
@@ -408,6 +458,16 @@
     "category": "news",
     "descriptionDE": "OpenAI entschuldigt sich für Vorfälle im Zusammenhang mit Websites der australischen Regierung und bietet strengere Schutzmaßnahmen und Unterstützung zur Stärkung der australischen Cyberabwehr.",
     "titleDE": "Wie wir es für Australien besser machen können"
+  },
+  {
+    "title": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "pubDate": "2026-09-28T19:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Unsere frühen Richtlinien für Sicherheitsfälle im Frontier-KI-Training umfassen technische Sicherheitsmaßnahmen, Betriebspraktiken und die Untersuchung von Fehlausrichtungsvorfällen",
+    "titleDE": "Auf dem Weg zu Sicherheitsfällen für das Grenz-KI-Training"
   },
   {
     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -428,26 +488,6 @@
     "category": "trend",
     "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Letzten Mittwoch gab Anthropic bekannt, dass es Anfang des Jahres ein molekularbiologisches Labor eröffnet hat, in dem Claude-Agenten über harte biologische Projekte lesen und Vermutungen anstellen ...",
     "titleDE": "Wann können wir sagen, dass KI eine wissenschaftliche Entdeckung gemacht hat?"
-  },
-  {
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-    "pubDate": "2026-09-28T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wer haftet, wenn KI-Agenten abtrünnig werden? In den letzten Monaten hat eine Kaskade von Cyberangriffen durch KI-Agenten die Welt in Erstaunen versetzt. Im Juli gab OpenAI bekannt, dass ein Swa...",
-    "titleDE": "Der Download: Haftung für betrügerische Agenten und der AI Hype Index"
-  },
-  {
-    "title": "Who’s liable when AI agents go rogue?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-    "pubDate": "2026-09-28T08:06:22.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "MIT Technology Review erklärt: Lassen Sie unsere Autoren die komplexe, chaotische Welt der Technologie entwirren, damit Sie besser verstehen, was als nächstes kommt. Mehr aus der Serie können Sie hier lesen. In den letzten Monaten hat eine Kaskade von Cyberangriffen durch KI-Agenten die Welt in Erstaunen versetzt. Im Juli gab OpenAI bekannt, dass ein ...",
-    "titleDE": "Wer haftet, wenn KI-Agenten abtrünnig werden?"
   },
   {
     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -498,65 +538,5 @@
     "category": "news",
     "descriptionDE": "Mit Codex, GPT-Live-1 und GPT-6 Astra baut, betreibt und verkauft Proaction modernes Flottenmanagement schneller.",
     "titleDE": "Proaction steigert den Umsatz um 60 % und spart mit Codex mehr als 75 Stunden"
-  },
-  {
-    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to…",
-    "pubDate": "2026-09-25T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Das Pentagon will 30 Millionen US-Dollar für den Bau eines KI-gestützten Lügendetektors Die US-Regierung will in den nächsten fünf Jahren 30,3 Millionen US-Dollar für einen verbesserten Lügendetektor ausgeben...",
-    "titleDE": "Der Download: Der KI-gestützte Lügendetektor des Pentagon und die Grenzen junger Organe"
-  },
-  {
-    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
-    "pubDate": "2026-09-25T09:16:25.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Laut einem Budgetantrag des Verteidigungsministeriums will die US-Regierung in den nächsten fünf Jahren 30,3 Millionen US-Dollar für eine verbesserte Form eines Lügendetektors ausgeben. Das Programm mit dem Namen Polygraph+ oder Polygraph Next wird sich auf Bewertungsalgorithmen konzentrieren, die künstliche Intelligenz und maschinelles Lernen nutzen ...",
-    "titleDE": "Das Pentagon will 30 Millionen US-Dollar für den Bau eines KI-gestützten Lügendetektors"
-  },
-  {
-    "title": "There's a new way to break RSA that's faster than anything we've seen before",
-    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-    "description": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
-    "pubDate": "2026-09-24T11:15:44.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Bisher glaubten Kryptographen, dass Factoring die einzige Möglichkeit sei, RSA zu knacken. Nicht mehr.",
-    "titleDE": "Es gibt eine neue Möglichkeit, RSA zu knacken, die schneller ist als alles, was wir bisher gesehen haben"
-  },
-  {
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "description": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-    "pubDate": "2026-09-23T18:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Wir weiten Google Beam auf fünf neue Länder aus und arbeiten mit Industrious für ein erweitertes Netzwerk zusammen.",
-    "titleDE": "Google Beam expandiert mit neuen Regionen, Partnern und Kunden"
-  },
-  {
-    "title": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "pubDate": "2026-09-23T16:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wir feiern zwei Jahre OpenAI Academy und bringen KI-Fähigkeiten noch mehr Communities näher.",
-    "titleDE": "Zwei Jahre OpenAI Academy"
-  },
-  {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-    "pubDate": "2026-09-23T13:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI erweitert den Zugang zu seinem Daybreak-Programm auf die Regierung der Ukraine, um die Cyberverteidigung der zivilen Infrastruktur zu unterstützen.",
-    "titleDE": "OpenAI erweitert den Cyber-Zugang zur zivilen Verteidigung auf die Ukraine"
   }
 ]
