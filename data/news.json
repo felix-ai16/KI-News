@@ -1,5 +1,205 @@
 [
   {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "pubDate": "2026-10-03T00:45:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta möchte Muse in Ihrem Fernseher und Toaster haben und gibt den Code daher kostenlos weiter.",
+    "titleDE": "Meta möchte, dass Ihr nächstes Gadget von Muse inspiriert ist"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+    "pubDate": "2026-10-02T23:03:16.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Meta sagt, dass die FDA nicht ausreicht, um Nachrichten zu lesen. Apple ist da anderer Meinung.",
+    "titleDE": "Apple ändert die Zugriffsberechtigungen für die gesamte Festplatte, um Missbrauch durch KI-Agenten einzudämmen"
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "pubDate": "2026-10-02T21:09:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Sean Parker, der der Musikindustrie einst beigebracht hat, wie es aussieht, um Vergebung zu bitten, ist jetzt mit dem Segen und dem Geld des Labels zurück.",
+    "titleDE": "Sean Parker baut die Stabilitäts-KI rund um die Musik neu auf"
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-02T21:08:37.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mit Meta können Sie jetzt Ihre eigenen Muse-Gadgets erstellen, die den neuen KI-Agenten des Unternehmens mit Code enthalten, den das Unternehmen als Open Source bereitgestellt hat. Das Unternehmen schlägt Projekte wie das Laden von Muse auf ein farbiges E-Ink-Display vor, um Erinnerungen anzuzeigen, das Hinzufügen zu einem HDMI-Stick, damit Sie Muse auf einem großen Bildschirm anzeigen können, oder das Platzieren von Muse...",
+    "titleDE": "Meta-Open-Source-Code, mit dem Sie Muse-KI-Gadgets erstellen können"
+  },
+  {
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "description": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\nThe change comes just weeks after Inc's Jason Aten found that Meta's Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is \"entirely opt-in. …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-02T20:08:40.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Apple wird als Reaktion auf die von KI-Agenten ausgehenden Risiken neue Beschränkungen für den „vollständigen Festplattenzugriff“ auf dem Mac hinzufügen, wie TechCrunch zuvor berichtete. In einem Update vom Freitag sagt Apple, dass es neue Kontrollen einführt, um „sicherzustellen, dass Benutzer, die einer App wirklich diese außergewöhnliche Zugriffsebene gewähren möchten, nur …“",
+    "titleDE": "Apple wird den Zugriff auf Mac-Festplatten einschränken, da KI-Agenten das Risiko „erheblich“ erhöhen"
+  },
+  {
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "pubDate": "2026-10-02T19:15:51.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ihre nächste Gelegenheit könnte nur ein Gespräch entfernt sein. Holen Sie sich Ihren Expo+ Pass für nur 75 $. Begrenzt auf die ersten 100 qualifizierten Personen.",
+    "titleDE": "Von Entlassungen betroffen? Lassen Sie sich dieses 75-Dollar-Angebot für Ihren TechCrunch Disrupt 2026 Expo+ Pass nicht entgehen"
+  },
+  {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+    "pubDate": "2026-10-02T18:11:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apple sagt, dass es neue Kontrollen rund um die Berechtigung „Vollständiger Festplattenzugriff“ von macOS hinzufügen wird, und warnt davor, dass immer leistungsfähigere KI-Agenten den umfassenden Zugriff auf Dateien, Nachrichten, E-Mails und den Browserverlauf der Benutzer riskanter machen.",
+    "titleDE": "Apple sagt, dass es die Kontrollen für den „vollständigen Festplattenzugriff“ von macOS aufgrund neuer Risiken durch KI-Agenten verschärft"
+  },
+  {
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "description": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. \nOpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you'll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface.\nThe interface looks similar to Muse's; you chat with the agent in one window and follow its work in another as it  …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-02T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Ein neuer hilfsbereiter kleiner Kerl ist gerade eingetroffen. | Foto: Allison Johnson / The Verge Es ist eine Geschichte, die so alt ist wie letzte Woche: Die neue Agentenplattform von OpenAI namens Dots ist voller süßer kleiner Kerle, die Ihren Wünschen nachkommen können. Aber im Gegensatz zur überaus zugänglichen Meta Muse hat Dots viel Lust auf Arbeitsplatzsoftware, die...",
+    "titleDE": "Der Dot Agent von OpenAI ist eine Unternehmenssoftware, die auch Ihr Abendessen bestellen kann"
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+    "pubDate": "2026-10-02T17:56:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Diese Woche versammelte das Weiße Haus fast alle großen Technologie-CEOs in einem Raum – darunter Zuckerberg, Bezos, Musk und Dario Amodei von Anthropic –, um ein KI-Sicherheitsversprechen zu unterzeichnen, das Präsident Donald Trump als „moralisch verbindlich“ bezeichnete. Trump unterzeichnete außerdem eine Durchführungsverordnung, mit der KI offiziell in „Superintelligenz“ umbenannt wurde.",
+    "titleDE": "Nennen Sie es KI, nennen Sie es Super Intelligence, nur 2 % der Verbraucher kaufen es"
+  },
+  {
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+    "pubDate": "2026-10-02T17:48:16.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Diese Woche versammelte das Weiße Haus fast alle großen Technologie-CEOs in einem Raum – darunter Zuckerberg, Bezos, Musk und Dario Amodei von Anthropic –, um ein KI-Sicherheitsversprechen zu unterzeichnen, das Präsident Donald Trump als „moralisch verbindlich“ bezeichnete. Trump unterzeichnete außerdem eine Durchführungsverordnung, mit der KI offiziell in „Superintelligenz“ umbenannt wurde.",
+    "titleDE": "Es ist keine KI mehr, sondern „Superintelligenz“ (laut dem Weißen Haus)"
+  },
+  {
+    "title": "Breaking up (with Elon Musk) is hard to do",
+    "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+    "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X.\nTo do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted Musk was no longer following her on X. It was also sponsored by Kalshi, because everything in this relationship is totally fucking cursed, dude.\nIn her statement, Zilis wrote, \"It's hard to go from in love to let go in a week with no warning, but that's just how it is sometimes.\" \n\n\"Uh, you know.\"\n\nZilis, in addition to h …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-02T17:37:36.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "In einer Reminiszenz an ein Internetdrama im MySpace-Stil gab Shivon Zilis bekannt, dass sie und der Vater ihrer vier Kinder, Elon Musk, sich auf",
+    "titleDE": "Eine Trennung (von Elon Musk) ist schwer"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "pubDate": "2026-10-02T17:32:05.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Jas Khaira von Blackstone wird auf der Builders Stage bei TechCrunch Disrupt 2026 über den Aufbau von KI der nächsten Generation sprechen. Registrieren Sie sich für Ihren Pass und erhalten Sie 50 % Rabatt pro Sekunde.",
+    "titleDE": "TechCrunch Disrupt 2026: Jas Khaira von Blackstone über den Aufbau der nächsten Generation von KI-Giganten"
+  },
+  {
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+    "pubDate": "2026-10-02T17:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Bei all dem Gerede darüber, wie KI uns eines Tages alle töten könnte, vergisst man leicht, dass KI einigen Menschen bereits psychisch geschadet hat. Um dieses Problem zu lösen, hat Circuit Breaker Labs „Crashtest-Dummies“ entwickelt.",
+    "titleDE": "Circuit Breaker Labs hofft, KI für Ihre Kinder (und Sie) sicherer zu machen."
+  },
+  {
+    "title": "A model guide for the GPT-6 family",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "pubDate": "2026-10-02T16:15:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie Startups GPT-6-Modelle auswählen, den Argumentationsaufwand optimieren, Eingabeaufforderungen und Fähigkeiten verbessern, Tools koordinieren und Arbeitsabläufe für die Produktion vorbereiten können.",
+    "titleDE": "Ein Modellführer für die GPT-6-Familie"
+  },
+  {
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has…",
+    "pubDate": "2026-10-02T15:49:04.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Unternehmens-KI ist kein Zukunftsziel mehr. Es ist im voll einsatzbereiten Flug. Die Modellfähigkeiten entwickeln sich schneller, als die meisten Unternehmen bewältigen können, während die Leistungskosten weiter sinken. Weltweit sollen die KI-Investitionen im Jahr 2026 2,5 Billionen US-Dollar erreichen, was einem Anstieg von 44 % gegenüber dem Vorjahr entspricht. F...",
+    "titleDE": "Enterprise Intelligence mit autonomer KI neu definieren"
+  },
+  {
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "pubDate": "2026-10-02T15:39:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "„Es gibt einen ontologischen Unterschied, noch vor einem ästhetischen, zwischen Kunst und dem, was eine Maschine durch statistische Berechnungen auf der Grundlage von Millionen von Bildern anderer erzeugen kann“, schrieb der Papst. „Algorithmen fehlt der Funke Menschlichkeit.“",
+    "titleDE": "Papst Leo XIV. ist kein Fan von KI-generierter Kunst"
+  },
+  {
+    "title": "The latest AI news we announced in September 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "description": "Here are Google’s latest AI updates from September 2026",
+    "pubDate": "2026-10-02T15:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom September 2026",
+    "titleDE": "Die neuesten KI-Neuigkeiten haben wir im September 2026 angekündigt"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "pubDate": "2026-10-02T14:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Kareem Amin, Mitbegründer und CEO von Clay, besucht die AI Stage, um den Aufstieg des GTM-Ingenieurs bei TechCrunch Disrupt 2026 zu besprechen. Registrieren Sie sich für Ihr Ticket und erhalten Sie einen zweiten Pass mit 50 % Rabatt.",
+    "titleDE": "TechCrunch Disrupt 2026: Kareem Amin von Clay über den Aufstieg des GTM-Ingenieurs"
+  },
+  {
+    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "description": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
+    "pubDate": "2026-10-02T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Heute ist der letzte Tag, an dem Sie Ihren Ausstellungstisch bei TechCrunch Disrupt 2026 reservieren können. Vom 13. bis 15. Oktober werden mehr als 10.000 Gründer, Investoren, Betreiber und Technologieführer im Moscone West in San Francisco eintreffen, um nach Unternehmen, Produkten, Ideen und wissenswerten Menschen zu suchen. Die Frage ist: Werden sie Ihr... finden?",
+    "titleDE": "Letzte 24 Stunden: Stellen Sie auf der TechCrunch Disrupt 2026 aus und erreichen Sie über 10.000 Technologieführer"
+  },
+  {
+    "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for…",
+    "pubDate": "2026-10-02T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Bei einem neuen Wettbewerb treten Teilnehmer im Wettlauf um die biologische Jugend gegeneinander an – Jessica Hamzelou Diese Woche habe ich mich offiziell für einen ungewöhnlichen Wettbewerb angemeldet. An...",
+    "titleDE": "Der Download: ein biologischer Anti-Aging-Wettbewerb und warum LLMs nicht vernünftig denken"
+  },
+  {
     "title": "AI hallucinations are making entitled customers even worse",
     "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
     "description": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\" \nWhen she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to shellfish, and ChatGPT says there's no shellfish  …\nRead the full story at The Verge.",
@@ -56,8 +256,18 @@
     "pubDate": "2026-10-02T08:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "An einem Nachmittag in Seoul im März 2016 sah ich mir eine Sendung an, bei deren Bau ich mitgeholfen hatte, einen Stein auf die fünfte Linie eines Go-Bretts zu legen, was wie ein Geschenk an seinen menschlichen Gegner aussah. Zug 37 in der zweiten Partie des Fünf-Partien-Spiels sah so absurd aus, dass einige Kommentatoren dachten, es sei ein…",
+    "descriptionDE": "An einem Nachmittag in Seoul im März 2016 sah ich mir eine Sendung an, bei deren Aufbau ich einen Stein auf die fünfte Linie eines Go-Bretts legte, was wie ein Geschenk an seinen menschlichen Gegner aussah. Zug 37 in der zweiten Partie des Fünf-Partien-Spiels sah so absurd aus, dass einige Kommentatoren dachten, es sei ein…",
     "titleDE": "Lassen Sie sich nicht täuschen – LLMs denken nicht"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "pubDate": "2026-10-02T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Chatham Financial nutzt Codex und GPT-5.6, um Technologie zu entwickeln und Arbeitsabläufe neu zu gestalten, wodurch die Handelsvalidierung von 30 Minuten auf unter 4 Minuten verkürzt wird.",
+    "titleDE": "Chatham skaliert seine Kapitalmarktkompetenz mit OpenAI"
   },
   {
     "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
@@ -200,26 +410,6 @@
     "titleDE": "Interview mit Brian Chesky: KI-Agenten brauchen ihr eigenes Betriebssystem"
   },
   {
-    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-    "description": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images\t\n\nAt OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we all watched in movies growing up.\" Similar to Muse, Dots aims for disarming cuteness, taking the form of colorful, personalizable blobs with eyes. OpenAI fired shots at Meta by demonstrating Dots' ability to not just act as helpful assistants but build metaverse-esque virtual worlds. But in one key area, Dots strikingly fa …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-01T14:36:50.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein Pop-up-Shop für „Dots“, einen persönlichen Assistenten beim OpenAI DevDay 2026. (Foto von Heather Diehl/Getty Images) | Getty Images Auf der jährlichen DevDay-Konferenz von OpenAI hat das Unternehmen alle Register gezogen, um mit seinen Konkurrenten zu konkurrieren – vor allem mit Meta, dessen Muse AI-Agentenplattform schon früh einen Durchbruch erlebte …",
-    "titleDE": "Der neue Agent von OpenAI ist eine Chance auf Meta – aber kann er mit Free mithalten?"
-  },
-  {
-    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-    "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. \nThe idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank.\nJosh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks. \nNow, the details of what happened with Wonder Valley are obviously fascinating. But the story is also a larger look at the AI industry’s infrastructure boom, the bipartisan backlash to that buildout, and how the tech industry is running into the one obstacle it can’t seem to spend its way out of: local democracy. \nOkay: The Verge’s Josh Dzieza on the Utah data center disaster. Here we go.\n\n\nThis interview has been lightly edited for length and clarity. \nJosh Dzieza, you are a features writer here at The Verge. Welcome to Decoder.\nThanks for having me.\nI’m very excited to talk to you. For people who don’t know, Josh has one of the hardest jobs at The Verge. You just disappear for long periods of time, and then you come back with 15,000-word home runs, which is an enormous amount of pressure, but you keep hitting them.\nIt’s a great job. [Verge features editor] Kevin Nguyen might say that editing those 15,000 words down to something manageable is the hardest job, but it’s all fun.\nThe home run we sent you out to get this time was the story of what happened with Kevin O’Leary in Utah, where he promised to build what was going to be the biggest data center in the world. \nHe was all over the news talking about building the biggest data center in the world, it was called Stratos. He was calling the entire development Wonder Valley. This thing fell apart in a bunch of anger from the local community. There’s a defamation lawsuit because O’Leary referred to all of his critics as Chinese spies on Fox News. Fox News had to apologize on the air.\nJosh, when you started reporting on this story, it struck me that there would be some similarities to the huge feature you wrote about the Foxconn project in Mount Pleasant, Wisconsin, my hometown, where President Trump announced that Foxconn was going to build a massive LCD factory in the middle of Wisconsin. There were supposed to be 13,000 jobs, and none of that happened.\nActually, what’s funny about that is now that land is being used for a Microsoft data center, which is just maybe the natural end state of all things. Walk me through the parallels and differences at a high level. What did this feel like to report?\nI did not expect this to feel so similar to Foxconn initially, because unlike the Foxconn project, the data center buildout is real and at least theoretically can make sense in many cases. These things are actually getting built — unlike an LCD fab in the middle of Wisconsin. It turned out that there are more parallels than I thought. \nI mean, one, just the actors that you have that takes place mostly with local officials and planning meetings and angry residents and things like that. But also there’s a lot more data centers on paper and speculation, things that are maybe real and maybe not that are more difficult to suss out than I was fully aware of going into data center reporting.\nLet’s start at the very start of this project. There’s an enormous cast of characters involved. There’s a whole bunch of government agencies, but this starts with people in Utah looking at 40,000 acres of empty space and realizing that something is about to happen.\nWe can start with the beginning of the project, which is several months before anyone had any idea anything was happening, including most people in Utah — except for a handful of people who own property in this remote valley, some people in the state government at this one agency that became involved and a few real estate developers. \nSo everyone except maybe a dozen or so people found out about this project when Kevin O’Leary starts talking about it as an enormous data center that he’s building in Utah called Wonder Valley, or sometimes Stratos, depending on what program word they’re using at the moment. \nO’Leary comes out in late April and says, “We’re building this giant thing,” and that’s the first time most people in the county, and in the state, had heard about it.\nHow did Kevin O’Leary get the approvals to even begin saying he was going to start building this data center so publicly if no one knew about it?\nIt is partly because it ran through an agency called MIDA (Military Installation Development Authority), which is like a state development agency that deals with projects that have some military purpose. \nI think the military purpose can be fairly tangential. MIDA has a luxury ski resort that gives veterans discounts, but it began as a way to create projects on military property that was unused or could be put to more economic use. And then the taxes go back to the state, some of which can fund military developments. It also has a lot of power to override local land use. It basically becomes the municipal government in whatever project area it establishes.\nSo if it establishes a project area, in theory, it would really speed up all the permitting and zoning and other regulations that can be a huge problem for data center projects. In order to establish a project area, the board has to ratify it and all the landowners in the area have to give their consent and then the local government — in this case, the county — has to give its consent.\nThe issue with this is by the time Kevin O’Leary is talking about it on Fox in late April, MIDA has approved it. The county has not. The county didn’t even know about it until about a month before this happened.\nSo did Kevin O’Leary just go to this obscure military agency and say, “I need a bunch of land in Utah,” and get it?\nAccording to the documents we have, he starts asking around at the state level with the governor in early January. Then, the project gets passed from the governor’s office to MIDA. So in January to February, he’s basically going around, which is not uncommon with these developers, state to state saying, “I want to build a data center, what have you got?” Whoever gives the best pitch, the best, “You can have this property, we’re going to make permitting easy. We have these tax breaks,” wins.\nThis is also quite similar to what we saw with Foxconn, and a lot of big development projects. People do this sort of beauty pageant thing: “We’re auditioning this state, we’re auditioning this state. It’s a race, it’s a competition. Who’s going to win?” So there’s some of that going on there.\nO’Leary has been very publicly out in front. His big defense of the project is, “Well, states compete with these tax breaks, and Utah gave me these tax breaks.” Somewhere in there is a big disconnect from the actual people living in the area and the process.\nI mean, that’s the conflict here, that’s the real heart of the story is eventually the people in the area find out this is happening, and they don’t want it to happen and they mount furious pushback. What happened there?\nIt’s a really interesting case with Stratos, where all of the conversations until very late are happening at the developer and state level. In this case, they literally forgot or failed or for some reason did not tell the county government, whose consent they needed, that this was happening until very late. So that happens in late March, and the county commissioners start hearing rumors that apparently there’s a data center coming. They have no idea. They ask around and the state says, “We’re sorry, we forgot to tell you essentially, but we really need your approval fast.”\nThe county commissioners then have a meeting in late April, and that’s when word starts to trickle out, and then MIDA votes to approve it two days later. Over that weekend in late April, you’ve now had two public meetings, there’s local coverage, people start talking about it saying, “Oh, did you hear about the data center?” Several people found out about it at the coffee shop, at the grocery store. They just hear about it on Facebook. They’re like, “Oh, there’s a big data center coming. For some reason, the Shark Tank guy is involved.” That starts to trickle out in late April, when you start to see that conversation happen. \nNo one was happy about it. One of the interesting things about data centers right now is social media is so full of data center backlash stories. People hear “data center” and they know broadly what’s coming, some of which is exaggerated, some which isn’t, but you don’t need to get people up to speed. They realize, “Oh my God, there’s this huge project. They’re saying it’s nine gigawatts and it’s coming to your metaphorical backyard.”\nThis is the big difference in my mind between the Foxconn reporting and the Stratos reporting you did. So many people in Wisconsin were excited about the promise of a giant illusory LCD manufacturing plant that they ignored the very obvious fakery. And in the course of your reporting, you would literally go to empty buildings and point out that they were empty and Foxconn would issue statements saying they were not empty. \nIt was all just built on people’s hope. It was an inkblot test about whether manufacturing could come back to the midwest, and so many people wanted to believe that, that they ignored the obvious realities. \nIn this case, if they had let Kevin O’Leary build a data center, it seems very likely that he would’ve built a data center, but the people there did not want that. It was the very opposite. All of the hopes and dreams were replaced by people’s anger and fear about AI, and maybe what they’d heard on social media. How did that play out in this story? Because that feels like a massive point of departure.\nYeah, and Stratos is a really interesting case because it is kind of what you’ve seen play out across the country, but times 100 because Kevin O’Leary and his knack for attention is involved. But the response was immediate. I mean, people found out about it through local coverage. They start organizing to attend the next meeting. It’s already contentious, people are calling out questions. They’re not happy about it, and Kevin O’Leary starts talking up how huge it’s going to be, and it really just escalates.\nThese weird political alignments start to form because everyone is against it. An activist told me something interesting that data centers are the most unifying issue in politics right now, not because people agree on data centers, but because there’s something for everybody to hate. So you have people who are upset for environmental reasons, you have people who are upset about the tax breaks, you have people who are upset about just surveillance fears with AI.\nYou have just everything in there, and people start protesting right away and saying, “We don’t want this.” That’s something you hear all the time at these protests. It’s just really different from any kind of other big development projects, because not only are people acutely aware of the costs, but there’s no pros.\nIt’s not like people are excited for jobs. And Utah is not, unlike Wisconsin, a de-industrialized area. It’s an agricultural community, for the most part. People are not nostalgic for the golden age of manufacturing. They don’t believe any of the job numbers anyone tosses out with data centers, I think rightly for the most part, and there’s just not a lot of upside. Your county taxes might go down in 10 years. It’s just not that exciting compared to where you’re going to have a giant industrial project on the horizon.\nYou talked to a lot of the protesters and a lot of the people who succeeded in having this project scaled down pretty dramatically. Who are these characters? What are they like?\nThere’s a wide range of people. One of the records that I thought was really fascinating that I got came from a kind of state intelligence center, talking to a local sheriff, saying, “Just heads up, it’s in theory a very combustible group of people who’s going to be attending one of these rallies.” You have conservative groups with names like Utah Patriots Alliance and the Great Salt Lake water preservation activists. The report was saying, “Normally these groups just counterprotest each other, but here they’ve all come together for the same purpose, that they hate this data center.”\nSo you have just a very wide spread of people even within one of the key activist groups. It’s a lot of people who weren’t activists before, just local people — some conservative, some progressive, people with environmental concerns, people who are just upset about it. \nA lot of people are upset about the process, feeling cut out, like this is something that is really offensive to them, that this happened in their county with their county government and that they weren’t told and they weren’t brought into it. They had no say. I think that galvanized a lot of people. \nBut the people I spoke to, they’re mostly residents of the county or sometimes nearby counties, but everyone who was most involved was a resident of the immediate area in Box Elder, not necessarily Hansel Valley, the remote region where the center would be based.\n\n\nWhen we first started talking about the story and you went off to report it, my assumption was that all of those folks would get steamrolled, because we’ve seen that play out in so many of these other projects around the country. People mount some opposition. The local city council says, “It’s already done. We have an NDA, we can’t even talk about it.” They scoot the meetings to the next one. There’s protests. We’ve seen people get arrested for trying to talk about data centers at their local city council meetings.\nThere was just something about this one in particular. Maybe because it was Kevin O’Leary, this outsized personality, and because it was so big, because the state officials could trumpet the size of the development. It felt to me like it was a foregone conclusion that this project was going to happen over the objections of a handful of people in a very remote part of Utah, and yet they succeeded.\nTell us about how they pushed the project back where it is now and how they succeeded, because that seems like the important part.\nI think the project has definitely been wounded. I don’t know whether it will happen or not, but it doesn’t have the momentum that it had initially. I think there’s a couple reasons for that. One is just the scale of the backlash was so extreme that it took local officials aback. I don’t think anyone anticipated that it was going to be so severe.\nThe way it was announced was: “Kevin O’Leary’s 40,000 acres, nine gigawatts, biggest thing in the world.” Its proximity to Great Salt Lake, which is shrinking and Utah’s in a drought, so that’s extremely sensitive. The developers say it won’t diminish the water going to the lake, but no one believes that. The residents don’t believe that.\nIt was just such a perfect combination of ingredients and it exploded right at the beginning of the Republican primary in the state, so officials are getting asked about it constantly. People are calling their office, they’re showing up at debates. It became the biggest issue in the state, and people ended up losing their seats over it.\nThere were a lot of casualties from the project. You had two local commissioners who lost their seats. There was J. Stuart Adams, who was the Senate president. Multiple sources referred to him as the king of Utah politics. It really sent shock waves through the state that he lost his seat over this. I mean, there were other issues, but he was the MIDA chair, and so he was very much at the center of this project. It really was, I think, a wake-up call for politicians.\nThe project is not dead. Basically what’s happened is local activists filed a referendum trying to repeal the county’s consent, it was rejected by the county, and now it’s being litigated. Everyone has kind of hit pause on it for now until that case gets resolved. But the data center race is all about speed, and now this is looking like it doesn’t have that momentum it had earlier. You’re going to have lawmakers, and even assuming the referendum gets struck down, you have an extremely activated activist organization network that has formed around opposing this data center. \nIt’s not going to have a very easy road ahead of it. You’re going to have lawmakers scrutinizing it, you’re going to have regulators scrutinizing it. There will be other lawsuits. It’s just so unpopular and it’s so infamous. Why would you want to be associated with that project when you have so many other projects out there that you could choose from?\nThere’s a Kevin O’Leary component to all of this where he came out, he was very loud, he was the face of it. He almost didn’t believe that there would be a grassroots backlash to him to build the data center. He did call all of these folks Chinese spies. He had to apologize for that. Fox News, where he said those remarks, had to apologize on air for it. He posted an Instagram apology. Now he’s walked away from it. \nYou sent him a list of questions. This is real inside baseball, but to make a story like this, we do an email called the “no surprises” email where we just say all the things we’re going to say and people are allowed to respond to them. His response to us was to have his lawyers lightly threaten us, like, “Make sure everything’s accurate. We’re not responding to you. Make sure everything’s accurate or something bad will happen.”\nHe went from being the face to being so not wanting to be a part of the story that his lawyers spoke for him. Why do you think that happened?\nI mean, for one, now he’s in a defamation lawsuit. But I found his arc to be really fascinating as a window into the politics of data centers, because he came out kind of in a maximum conflict, partisan posture. There’s these protests. He immediately starts attacking the protesters. He reads names on Fox News, says that they are being paid by China. \nO’Leary goes on the offensive against them, and it just doesn’t work. I mean, more than it doesn’t work, it backfires. Many people I spoke to in Utah came out because they were additionally insulted by the idea that they were being accused of being Chinese agents when they’ve lived there for generations.\nI think on another political issue, maybe he could have gained some support. He’s trying to play this race with China and the nationalist card, but it just didn’t work here and it only mobilized more people against him. He went on Tucker Carlson. Tucker, for the most part, was skeptical of the China argument and kept pressing him on, “Why would anyone want a data center? Why should anyone support this project?” It’s just really interesting to see the degree to which he failed to get any kind of partisan traction on this with that strategy.\nThere’s an interesting parallel here to the CEO of Flock, whose initial defense of Flock was to try to use MAGA talking points, and it also didn’t work. There’s something about the political realignment here that is utterly fascinating to me, and it’s coming right up against the speed that you mentioned, right?\nThere’s an entire industry that is built around trying to acquire money from hyperscalers as fast as possible by getting these deals done, by getting the permits, by going through the process as quickly as possible, and it feels like our politics and that process are in absolute conflict.\nTalk about that process a little bit, because you would think that they would understand that they’re up against the actual people in these communities not wanting this to happen.\nI think they understand that now. My sense is they didn’t understand that until surprisingly recently. So the Stratos project is emblematic of a certain type of data center at this moment in kind of I don’t want to say a late-stage, but very well-developed speculative boom, let’s say, where you have random people from tangentially-related industries who are being sucked into the boom and trying to find an angle, trying to find a way into it.\nSo basically, the data center race, if you want to zoom out, is all about speed. You have a handful of hyperscalers who are locked in what they believe to be an existential race to AGI with each other and will spend whatever it takes to win. That means they will spend, right now, whatever it takes not just to build a data center, but to build a data center faster than their rivals. That means you have billions — hundreds of billions, trillions of dollars — flowing into anyone who will get them what they need as fast as possible.\nSo you can watch, over the last two years or so, these different aspects of data center development get totally jammed up. Initially it was, “All these giant data centers need to get connected to the grid.” That’s a slow process. It can take a year, it can take two years, it can take more, even in normal times. So speculative developers start making requests with various utilities and saying, “I’ve got a giant data center. I want to connect it, start the study process.”\nIt jams up the queues. Utilities stop taking new applications. They charge money for them. Wait times get even longer. So, data center developers then go off grid, “behind the meter” is what they call it: “we’re going to build our own power plants.” And it’s always natural gas because that is a faster way to get 24-hour power than all the permitting and logistics involved with a nuclear plant or solar and batteries or something like that.\nNow, turbines are back ordered for years. So, you have all of these other players who are trying to find ways to get the hyperscalers what they need. It has now coalesced into something called powered land assembly. What these developers do is they look for a bunch of property, try to secure access to power, and then turn around and sell it to a developer to build a data center. It can be very lucrative.\nThese packages can go for 20 times or more what the raw land would cost. Basically what the developer is paying for is speed. Your pitch is basically like, “I’ve got land, it’s already permitted. All you need to do is build the data center, put chips in it and you’re ready to go.” \nOne consequence of that is that you have a lot of announcements. A lot of announcements for developers say, “I’ve got a 10-gigawatt facility here. We’re building this gigantic facility, it’s going to be the biggest data center in the world.” This happens not just with Kevin O’Leary, but also basically what they’re saying is, “Hey Meta, if you wanted to get involved with this, you could have the biggest data center in the world. You could have a 10-gigawatt facility here.” It has that power capacity, maybe it has permitting for that and has the physical footprint for it. It doesn’t mean we have funding to build a 10-gigawatt facility or anything like that. So, you have these so-called paper data centers out there, but it is a symptom of the broader race dynamic.\nThey’re moving as fast as they can. The hyperscalers want to move as fast as they can. So, you have developers who are trying to move as fast as they can. They’re pressuring states to move as fast as they can to put an enticing package together for the developers that they can then turn around and give to the hyperscalers.\nAt no part in this chain are local residents a player. They’re just not there. They’re not part of this system. So, you have something like Stratos, where just no one bothered to tell anyone in Box Elder County that anything was coming. They’re all racing. Their concern is, “Can we get this deal together as fast as possible?” Local residents just don’t come up.\nSo, I think only now that you have projects hitting real roadblocks with people screaming at their commissioners until they don’t rezone areas, now the people are an obstacle to speed. Now developers and hyperscalers are thinking about, “Well, how do we make people more okay with these projects?”\nIt strikes me that one other thing that should be an obstacle to speed here is the basic economics of AI, right? You have these essentially wildcatters trying to find plots of land with a favorable political process that will enable permitting, and they’re going to sell it at 20 times its value to a hyperscaler that will then buy a bunch of Nvidia chips and then do something with AI to generate enough revenue to make all that worth it. \nI don’t think anybody knows what that is yet. Anthropic’s S-1 just came out. It is unclear from that document what that will be, but no one seems to care. Do these wildcatters just not care?\nNo, no one cares.\n[Laughs] Fair enough.\nThat was one of the really illuminating things to me. The investor Paul Kedrosky explained what’s happening here and why nobody in the system cares. It’s because these companies that are in this race are some of the most profitable, huge, credit-worthy, triple-A-rated companies of all time. And so-\nBut some of them are not, just to be clear.\nSome of them are not, yeah, some of them are not.\nGoogle and Meta and Amazon are, but OpenAI and Anthropic and the rest are not.\nRight, and you see, and that is why you have with some recent OpenAI mega-data centers these fairly complicated backstop arrangements with Nvidia and other companies that need to come in and say, “We’re going to be good for the money no matter what happens essentially.” \nSo, what Paul explained was that because no one can pay for these projects, not even the hyperscalers directly — the projects are too huge, too expensive — you have private credit, you have pension funds, and these sorts of entities who are coming in [to finance it]. They see these projects as a reliable return for many years because in their contracts, Meta is good for the money no matter what happens with AI.\nThat’s part of the reason you have this system kind of racing out of control no matter whether people think AI is going to pay for itself or they’re not clear exactly how, but it has self-sustaining velocity at least until the hyperscalers’ credit comes into question.\nIt seems clear that the political backlash might be able to pump the brakes here and that’s where I want to end. But I just want to ask about the financial component of it for one more turn here. \nJust in your description of that, I can lay out a lot of risks that make Meta not good for the money if this doesn’t pay off, right? If the AI bubble pops, maybe none of these companies have any cash left to pay off these enormous bills. Is anybody taking that into account?\nI mean no…\n[Laughs] Sure, okay.\n[Laughs] No one I spoke to. I mean no one who’s developing Stratos, that is not of their concern. Hopefully the pension funds or investors or credit agencies or somebody, like the government, are thinking about that. But I would say the financial actors, they’re keeping the process moving forward right now, I think. In the defense of whatever is happening here, new capabilities continue to be unlocked with more data centers. So, you can hope that that will continue to be the case and that there will be a path to profitability at some point.\nSomething that I can’t answer is whether there’s a bubble or whether it’s going to pop. I don’t know. I don’t think anyone really knows. So, only time will tell. But I think one thing I was left thinking about with this story is we’re laying down a lot of infrastructure with a really long lifespan out of immediate expediency. We’re building gigantic gas plants in the middle of nowhere because that gets you a data center a year or two faster than some other method.\nSo, you have a question of even if AI is a bubble, you’re going to have a bunch of giant gas plants in the middle of nowhere — somebody called them very expensive refrigerators basically in the middle of the desert. Even if AI works out, is that the best way to build your data center infrastructure totally disconnected from the grid on fossil fuels in the middle of nowhere? This is not necessarily the most thoughtful way to build what’s supposed to be a civilization scale technology.\n[Laughs] Yeah, that’s not how we do things in America, Josh. I think you know that better than most. \nLet’s bring this back to Utah just to wrap it up. So, the people on the ground in Box Elder County mounted their opposition, and they succeeded in getting this project scaled back. Kevin O’Leary has receded into the background behind his shield of attorneys. \nWhat happens next here? And what can people around the country who are facing this kind of development and either in support of it or in opposition to it take away from this story? What can they learn from it?\nI mean I think one thing that was striking with Stratos was just the sheer volume of outrage, the response it got from the state and local government. I think politicians still have to get elected. I think people have realized that this issue is so uniquely toxic that you’ve seen even politicians who are quite pro-data center running away from these projects lately in Texas and other places. So, I think that sort of people coming out, people writing their lawmakers, people protesting at commission meetings, I think that more than anything is why Stratos hit the roadblocks it did.\nI think certainly the referendum and the litigation is kind of the most technical reason it might not move forward, but I also think just the sheer volume of criticism and objection has really branded the project in Utah politics as something undesirable, something you don’t want to be caught blindly supporting.\nIt’s funny because there’s one politician who’s not walked away from data centers: President Trump. The day before we’re talking, President Trump held his White House summit with all the AI leaders and he just confidently said to cameras, “People are going to love data centers.” It is unclear what mechanism will create this love, but he seems to think that that will happen in the end. Has that been a prevailing view in any of your reporting or is that just Trump wanting it to happen?\nI think it’s Trump wanting it to happen, I don’t know anyone who wants a data center in their backyard. I think that was one of the surprising things to me, that there’s not really a pro-data center constituency other than I guess state officials who see them as an attractive source of tax revenue and the people building them. Even the people who were selling land into the project were saying, “I’ll get paid, but I’m not happy this is coming.” \n“No one wants these things,” is something that somebody who was supporting the project because their land was part of the package told me. No one wants a data center in their backyard, even people who might directly profit from them. So, I would be very curious how any pro-data center, local constituency would form. I don’t, from my reporting, see a path to that, but it could happen, I suppose.\nWhen I talk to various folks in the tech industry, they are very eager to ascribe all this to NIMBYism, which is maybe the most coherent force that cuts across American politics. Just the power of people to say literally no to development anywhere for any reason, whether it is housing in cities or whether it’s data centers in rural areas, the American belief in NIMBYism is strong. Is that a component here? Is it just that’s the tool we have to pull to stop AI? Is it just that’s the lever we get to pull to stop AI and so we’re pulling it as hard as we can?\nI think there’s certainly an element of NIMBYism behind this. I mean, it’s people who are upset about the idea that this data center is going to ruin the local character. More than that, I think, I don’t know if you could call concerns about environmental impacts NIMBYism, but they’re concerned about air pollution and heat exhaust and things like that. Water use, of course, comes up. \nSo, you have under the umbrella of NIMBYism concerns about how it will impact the place where they live. I think that is probably the overriding thing, more than concerns about AI, that was animating the protests among the people I spoke with. AI came up, and I think this varies depending on the data center and the project and the people who are opposing it. AI didn’t come up that much with Stratos unless I asked about it.\nI asked people who are like, “Would you feel differently if this data center was for emails or Netflix streaming or something, or an Amazon fulfillment center that used nine gigawatts for some reason?” They would say, “Well, but at least a fulfillment center would create some jobs.” I think that is part of your answer about where AI factors. There’s no pro case, they don’t see a use for a data center, they don’t see a need for AI. \n“We don’t need this,” is something they say a lot. So it’s just kind of all costs to them. More than anti-AI, I think it’s anti-data center and not pro-AI. This was granted before the agents started hacking everything, and we had a louder conversation about existential risk, but people just didn’t see the point of it.\nIt was just not a project that seemed like it was being done by people with their interests in mind, and it affected them in negative ways for no discernible benefit. I think that’s a lot of the opposition. I think AI can be sort of a vague cloud of things that don’t help them that are wanted by people somewhere else for reasons that are unclear, versus the concrete harms. I heard a lot more about the concrete harms of the data center than I did about AI job loss or anything like that.\nIt seems unlikely that Meta’s Muse agent is going to save enough money for people by searching their email for coupons to overcome that. The consumer products in AI just have not taken off to overcome all of these concerns. This is a question I’ve been asking. If the data centers just said Netflix on them, would you be happier? And it seems like no, even the benefit of having entertainment isn’t enough to overcome the local harms.\nYeah, I think they rightly had concerns about a gigantic gas facility in the vicinity, near Great Salt Lake, and the fact that it was AI was more a point against it. The people I spoke with, they used AI, but they would say, “Well, it’s slightly better Google Search,” or, “I use it to make a birthday card,” or something. \nBut why does that mean we need to drop everything to build a gigantic data center right here right now? Why is this a matter of national security that-\nAnd why is Kevin O’Leary the face of it?\n[Laughs] And why is this Canadian tycoon the one to do it was another question.\nWhat happens next here? Obviously this project, Stratos, is tied up in litigation, and we’re going to see what happens there. We’ve been covering other big data center projects around the country as part of a larger package we’ve been doing. What do you think the state of the data center buildout is and the temperature of the opposition?\nI think the temperature is still pretty high. I don’t think people feel better about data centers now than they did in May. The conversation has shifted a little bit more towards the possible dangers of AI itself, and I don’t see how that helps the argument that we need to build as many data centers as possible everywhere. \nI think the developers and the hyperscalers have become more attuned to the need to try to offer some sort of perks to the local population to not be completely hated. But I don’t see a pro data center constituency forming. I think people will continue to oppose them, I think they will continue to be unpopular. Politicians will be less likely to offer tax breaks to pave the way for them. But I do think they have plenty of options. I mean, Stratos isn’t even the biggest data center project in Utah. \nThere are other paper data centers out there that are ready to be developed if the permitting comes through or they get the turbines or whatever. I don’t know that it will slow the AI buildout at a macro level, but I think it’s certainly created some friction.\nWell, it’s a great story and I really encourage people to go read it. Josh did an incredible amount of reporting on it. We gave it the full Verge treatment. There’s a thing we do called scrollytelling on the web here at theverge.com, and you can go experience it now. Josh, thank you so much for being on Decoder.\nThank you.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-10-01T14:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute spreche ich mit Josh Dzieza, einem langjährigen Feature-Autor hier bei The Verge, über Kevin O’Learys Pläne, ein riesiges Rechenzentrum in Utah zu bauen. Die Idee bestand darin, das größte Rechenzentrum der Welt zu bauen – einen 40.000 Hektar großen KI-Campus mit neun Gigawatt Leistung, also mehr als dem Doppelten der durchschnittlichen Leistung, die wir haben …",
-    "titleDE": "Im Rahmen unserer monatelangen Untersuchung des Rechenzentrumsdebakels von Kevin O’Leary in Utah"
-  },
-  {
     "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
     "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
     "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
@@ -230,16 +420,6 @@
     "titleDE": "Photon veranstaltete eine Beerdigung für mobile Apps. Jetzt stehen 4,5 Millionen US-Dollar zur Verfügung, um sie durch Agenten zu ersetzen."
   },
   {
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "description": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "pubDate": "2026-10-01T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Brille basiert auf dem Ziel des Startups, die Hörversorgung zugänglicher zu machen, indem es die mit herkömmlichen Hörgeräten verbundenen Kosten, den Komfort und die Stigmatisierung angeht.",
-    "titleDE": "Das Hörtechnologie-Startup Legato bringt seine KI-Hörbrille auf den Markt"
-  },
-  {
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
     "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…",
@@ -248,16 +428,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein KI-Tool zum „Gedankenlesen“ kann anhand eines Gehirnscans rekonstruieren, was Sie gerade sehen. Ein neues KI-Tool kann allein durch die Analyse Ihres Gehirns erraten, was Sie gerade sehen …",
     "titleDE": "Der Download: KI-„Gedankenlesen“ und kreative Anwendungen für kleine Batterien"
-  },
-  {
-    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "pubDate": "2026-10-01T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Satlyt möchte das Android des Orbital Computing sein und offene Software anbieten, die auf den Satelliten vieler Unternehmen funktioniert, im Gegensatz zum geschlossenen All-in-One-Ansatz von SpaceX im iPhone-Stil.",
-    "titleDE": "Satlyt, gegründet von einem ehemaligen Produktmanager von Google und SpaceX, sammelt 8 Millionen US-Dollar, um KI auf Satelliten einzusetzen"
   },
   {
     "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
@@ -280,16 +450,6 @@
     "titleDE": "Wie kleinere, verteilte Batterien das Netz unterstützen könnten"
   },
   {
-    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-    "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\"\nGrokipedia's old homepage was pretty much just a logo and a search bar, but the updated homepage includes a list of featured articles, a list of the most-read articles, and a tracker showing the \"latest edits.\" The new featured list showcases digital representations of books that you can spin around, and the most read section also …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-01T00:23:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Grokipedia, SpaceXAIs KI-gestützter Konkurrent von Wikipedia, hat vor kurzem wieder damit begonnen, Bearbeitungen zu integrieren, und heute wurden im Rahmen eines v0.3-Updates einige Designänderungen vorgenommen, darunter ein neues Logo und Aktualisierungen seiner Homepage und der Live-Bearbeitungsseite. SpaceXAI-Designchef Benji Taylor nennt es eine „erneute Auffrischung …“",
-    "titleDE": "Elon Musks Grokipedia hat ein „neu aufgefrischtes“ Design"
-  },
-  {
     "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
     "link": "https://openai.com/index/the-den-family-social",
     "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
@@ -300,26 +460,6 @@
     "titleDE": "The Den hat 10–15 Stunden pro Woche Zeit, um mit ChatGPT Work zu wachsen"
   },
   {
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "pubDate": "2026-09-30T23:43:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Google hat sein neuestes Gemini-Modell herausgebracht und es als Arbeitstier für Codierungs- und Cybersicherheitsarbeiten vermarktet.",
-    "titleDE": "Google veröffentlicht Gemini 4 Argon, das als sein bisher leistungsstärkstes Modell bezeichnet wird"
-  },
-  {
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-    "pubDate": "2026-09-30T21:07:40.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Flow Engineering, das KI-Agenten in das Hardware-Design einbringt, hat Roelof Botha ebenfalls als Angel-Investor und Vorstandsmitglied gewonnen.",
-    "titleDE": "Valor, Atreides und Sequoia unterstützen das KI-Startup Flow Engineering mit einem Wert von 750 Millionen US-Dollar"
-  },
-  {
     "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
     "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
     "description": "A simple email gives the attackers the ability to remotely inject OS commands.",
@@ -328,76 +468,6 @@
     "category": "news",
     "descriptionDE": "Eine einfache E-Mail gibt den Angreifern die Möglichkeit, Betriebssystembefehle aus der Ferne einzuschleusen.",
     "titleDE": "Angreifer haben eine kritische Zimbra-Schwachstelle ausgenutzt, um E-Mails zu stehlen"
-  },
-  {
-    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-    "description": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a \"set of trusted cyber defenders,\" and Kavukcuoglu says that Google is \"actively engaged in the U.S. government's voluntary process for pre-release model access while we gradually expand access.\"\nKavukcuoglu says Gemini 4 Argon is already powering Google's …\nRead the full story at The Verge.",
-    "pubDate": "2026-09-30T20:41:41.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google hat heute sein nächstes KI-Frontier-Modell vorgestellt, das es Gemini 4 Argon nennt. Laut Chef-KI-Architekt bietet das neue Modell „Grenzleistung in komplexen Arbeitsabläufen in der realen Softwareentwicklung, unternehmensweiten Wissensarbeit wie Recht und Finanzen sowie Cybersicherheitsverteidigung“ ...",
-    "titleDE": "Google kündigt Gemini 4 an und sagt, es sei so leistungsfähig, dass nur „vertrauenswürdige Cyber-Verteidiger“ davon profitieren könnten. kann es sofort haben"
-  },
-  {
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-    "pubDate": "2026-09-30T19:00:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die „Decisions API“ von OpenAI ist ein Jev-Klon, der die Bedeutung schneller und kostengünstiger Intelligenz bestätigt.",
-    "titleDE": "Der Jev-Klon von OpenAI könnte dem Grenzlabor dabei helfen, seine ausschwärmenden Agenten zu stoppen"
-  },
-  {
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-    "pubDate": "2026-09-30T18:23:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Mitarbeiterausschreibung im Wert von 300 Millionen US-Dollar wurde gemeinsam von Wellington und T. Rowe Price geleitet.",
-    "titleDE": "Das AI-Voice-Startup ElevenLabs verdoppelt seinen Wert auf 22 Milliarden US-Dollar"
-  },
-  {
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-    "pubDate": "2026-09-30T17:45:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Reddit stellt die Unterstützung für RSS-Feeds ein, da das Unternehmen den Zugriff auf seine Fülle an benutzergenerierten Inhalten weiter verschärft.",
-    "titleDE": "Reddit beendet RSS-Feeds und beendet den öffentlichen API-Zugriff wegen KI-Bots"
-  },
-  {
-    "title": "The ugly economics of consumer AI",
-    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-    "pubDate": "2026-09-30T17:24:45.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Es gibt einen Grund, warum Frontier Labs gegenüber Verbraucher-KI zurückhaltend geworden sind – und das liegt nicht daran, dass die Technologie nicht gut genug ist.",
-    "titleDE": "Die hässlichen wirtschaftlichen Aspekte der Verbraucher-KI"
-  },
-  {
-    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-    "pubDate": "2026-09-30T16:24:23.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Meta gibt an, dass sein KI-Agent Muse ohne ausdrückliche Erlaubnis nicht auf die Nachrichten eines Benutzers zugreifen kann, und bestreitet das Konto eines Journalisten, dass der Agent seine privaten Nachrichten gelesen habe, während die erforderliche Mac-Einstellung deaktiviert war.",
-    "titleDE": "Meta-Streitigkeiten behaupten, dass Muse die privaten Nachrichten eines Benutzers ohne Erlaubnis gelesen habe"
-  },
-  {
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-    "pubDate": "2026-09-30T16:00:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Durch die Einführung eines KI-Agenten für die Essensbestellung möchte sich DoorDash einen Vorteil gegenüber den Konkurrenten Uber Eats und Grubhub verschaffen.",
-    "titleDE": "DoorDash führt einen KI-Agenten ein, mit dem Sie per SMS Essen bestellen können"
   },
   {
     "title": "The Download: OpenAI’s chief research officer explains its hacking response",
@@ -447,7 +517,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI arbeitet mit dem amerikanischen SBDC zusammen, um praktische KI-Schulungen und lokale Unterstützung für kleine Unternehmen zu erweitern, zusammen mit einem neuen Bericht darüber, wie kleine Teams KI nutzen.",
-    "titleDE": "Wir helfen kleinen Unternehmen, KI in die Tat umzusetzen"
+    "titleDE": "Wir helfen kleinen Unternehmen, KI in die Praxis umzusetzen"
   },
   {
     "title": "The Download: climate tech companies to watch and AI’s discovery problem",
@@ -456,38 +526,8 @@
     "pubDate": "2026-09-29T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Demnächst erhältlich: unsere Liste der Climate-Tech-Unternehmen für 2026, die man im Auge behalten sollte. Da sich die Erwärmung des Planeten um 1,5 °C nähert, die Klimapolitik aufgelöst wird und Big Tech einen Rückzieher macht...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Demnächst erhältlich: unsere Liste der Climate-Tech-Unternehmen für 2026, die man im Auge behalten sollte. Da sich die Erwärmung des Planeten um 1,5 °C nähert, die Klimapolitik aufgelöst wird und Big Tech einen Rückzieher macht ...",
     "titleDE": "Der Download: Klimatechnologieunternehmen, die man im Auge behalten sollte, und das Entdeckungsproblem der KI"
-  },
-  {
-    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "description": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate…",
-    "pubDate": "2026-09-29T11:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Anfang dieses Monats gaben die Vereinten Nationen bekannt, dass die Erwärmung unseres Planeten „wahrscheinlich in den nächsten Jahren“ auf über 1,5 °C sinken wird. Damit wurde jede noch bestehende Hoffnung zunichte gemacht, dass die Nationen ihre Emissionen schnell genug reduzieren würden, um das höchste Ziel des Pariser Klimaabkommens zu erreichen. In den USA ist der zweitgrößte CO2-Emittent der Welt...",
-    "titleDE": "In Kürze erhältlich: Unsere Liste der Climate-Tech-Unternehmen für 2026, die Sie im Auge behalten sollten"
-  },
-  {
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "description": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
-    "pubDate": "2026-09-29T10:43:45.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Wenn Kunden über KI-Kosten sprechen, beginnt das Gespräch normalerweise mit Token-Preisen und endet mit dem Zugriff auf das neueste und leistungsfähigste Modell in der Cloud. Brauchen sie immer dieses Maß an Fähigkeiten? Nicht unbedingt. Aber das ist oft der Punkt, an dem sich das Gespräch dreht. Während die KI vom Experimentieren zum... übergeht",
-    "titleDE": "Machen Sie KI zu einem Vorteil und nicht zu einer Ausgabe"
-  },
-  {
-    "title": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "pubDate": "2026-09-29T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Lernen Sie GPT-6.1 Sol kennen: Astra-nahe Intelligenz für Codierung, Computernutzung und professionelle Arbeit zu einem Fünftel der Standard-API-Ein- und Ausgabe-Token-Preise von Astra.",
-    "titleDE": "Einführung von GPT-6.1 Sol"
   },
   {
     "title": "DevDay 2026 Recap",
@@ -498,6 +538,16 @@
     "category": "news",
     "descriptionDE": "Entdecken Sie mehr als 20 Ankündigungen vom OpenAI DevDay 2026, darunter GPT-6 Astra, ChatGPT, Codex, APIs, Sicherheit und neue Tools für Builder.",
     "titleDE": "Zusammenfassung des DevDay 2026"
+  },
+  {
+    "title": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "pubDate": "2026-09-29T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Lernen Sie GPT-6.1 Sol kennen: Astra-nahe Intelligenz für Codierung, Computernutzung und professionelle Arbeit zu einem Fünftel der Standard-API-Ein- und Ausgabe-Token-Preise von Astra.",
+    "titleDE": "Einführung von GPT-6.1 Sol"
   },
   {
     "title": "Introducing dots",
@@ -550,16 +600,6 @@
     "titleDE": "Das Lenfest Institute erweitert sein wegweisendes Programm mit erweiterter OpenAI-Unterstützung"
   },
   {
-    "title": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
-    "description": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-    "pubDate": "2026-09-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wir sammeln echte Geschichten von Bauherren, Tüftlern, Forschern und Schöpfern, die Codex nutzen, um unglaubliche Dinge zu tun. Wenn Sie Teil des nächsten Kapitels des Codex Originals-Programms sein möchten, erzählen Sie uns unten mehr über Ihre Geschichte und Ihr Projekt.",
-    "titleDE": "Sind Sie ein Codex-Original?"
-  },
-  {
     "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
     "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
@@ -570,23 +610,13 @@
     "titleDE": "Basis vervollständigt eine Steuerarbeitsmappe mit GPT-6 Astra 2x schneller"
   },
   {
-    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-    "description": "Ads appearing all over the Internet are trying to scam people.",
-    "pubDate": "2026-09-25T19:38:59.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Überall im Internet erscheinende Anzeigen versuchen, Menschen zu betrügen.",
-    "titleDE": "Der eingefrorene Mac Ihres Onkels meldet nach dem Ansehen einer Google-Anzeige, dass er infiziert ist. Was nun?"
-  },
-  {
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "link": "https://openai.com/index/proaction",
-    "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "pubDate": "2026-09-25T19:00:00.000Z",
+    "title": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
+    "description": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "pubDate": "2026-09-28T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Mit Codex, GPT-Live-1 und GPT-6 Astra baut, betreibt und verkauft Proaction modernes Flottenmanagement schneller.",
-    "titleDE": "Proaction steigert den Umsatz um 60 % und spart mit Codex mehr als 75 Stunden"
+    "descriptionDE": "Wir sammeln echte Geschichten von Bauherren, Tüftlern, Forschern und Schöpfern, die Codex nutzen, um unglaubliche Dinge zu tun. Wenn Sie Teil des nächsten Kapitels des Codex Originals-Programms sein möchten, erzählen Sie uns unten mehr über Ihre Geschichte und Ihr Projekt.",
+    "titleDE": "Sind Sie ein Codex-Original?"
   }
 ]
