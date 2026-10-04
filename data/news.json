@@ -1,5 +1,65 @@
 [
   {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "pubDate": "2026-10-03T18:43:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der CEO von Amazon Web Services versuchte, dem weitverbreiteten Misstrauen gegenüber Rechenzentren entgegenzuwirken.",
+    "titleDE": "Amazon reagiert auf die Gegenreaktion im Rechenzentrum und sagt, dass es keine Geheimhaltungsvereinbarungen mehr verwendet"
+  },
+  {
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is \"successfully integrating AI technology into development workflows.\"\nCapcom has said previously that it will not use AI …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-03T16:49:10.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "In Capcoms Pragmata dreht sich vielleicht alles um die Schrecken der KI, aber in der Praxis scheint das Studio nicht so sehr auf die Technik fixiert zu sein. Während der Capcom Open Conference RE: 2026 hielt Programmierer Satoshi Ishida einen Vortrag mit dem Titel „The Outlook and Future of the REX Project, Further Evolving the...“",
+    "titleDE": "Capcom bereitet sich auf eine „Zukunft vor, in der wir gemeinsam mit KI Spiele entwickeln“"
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "pubDate": "2026-10-03T16:30:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Nach eigenen Angaben ist David Robinson „so etwas wie ein Klischee“: ein Mitarbeiter eines führenden KI-Unternehmens, der eine eindringliche Warnung ausspricht, während er seinen Job kündigt.",
+    "titleDE": "OpenAI-Sicherheitsmitarbeiter tritt zurück und behauptet, die Unternehmenskultur sei kaputt"
+  },
+  {
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.)\nBefore that, Kakul held executive roles at Flickr, Yahoo, GitHub, and Adobe. Throughout her career, Kakul has found herself at the intersection of Silicon Valley and creatives. That's been especially true at Splice, where she's not just expanded the platform's footprint by acquiring Spitfire Audio, but also overseen its forays into the wor …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-03T15:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Kakul Srivastava ist der CEO von Splice, der Sample-Plattform, auf die sich unzählige Produzenten für One-Shots und melodische Loops verlassen. Aus dem Service entnommene Samples haben Eingang in große Hits wie „Money“ von Lisa und „Espresso“ von Sabrina Carpenter gefunden. (Die Originalproben sind hier und hier, für den Moment...",
+    "titleDE": "Kakul Srivastava, CEO von Splice, glaubt, dass KI-E-Mails Gespräche zerstören"
+  },
+  {
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.\nIt's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn't mean we should discount their warnings. \nRobinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulations on how we handle training models. Silicon …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-03T14:31:56.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "David Robinson schrieb früher die Sicherheitsberichte, die jeder größeren Modellveröffentlichung bei OpenAI beilagen. Diese Woche ist er von seinem Amt zurückgetreten und äußert sich nun in einem Leitartikel in The Atlantic. Es ist verständlich, wenn Sie ein wenig zynisch sind, weil plötzlich alle aus dem Wald kommen …",
+    "titleDE": "Ein OpenAI-Sicherheitsmitarbeiter hat gekündigt und schlägt Alarm"
+  },
+  {
+    "title": "All the AI agents that can live in your text messages ",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "pubDate": "2026-10-03T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Wir haben eine Liste der bemerkenswertesten KI-Agenten erstellt, die in Ihren Textnachrichten leben können, von allgemeinen Assistenten bis hin zu Agenten für Familien, Reisen und Arbeit.",
+    "titleDE": "Alle KI-Agenten, die in Ihren Textnachrichten leben können"
+  },
+  {
     "title": "Meta wants your next gadget to be Muse-infused",
     "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
     "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
@@ -230,16 +290,6 @@
     "titleDE": "Amazon schreibt gruselige Blog-Warnungen für Communities, Rechenzentren nicht zu blockieren"
   },
   {
-    "title": "AI music maker Suno now generates spoken words",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-    "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them.\n\"Music will always be at the heart of Suno and what we build. At the same time, our vision has always extended to other forms of human expression,\" Suno chief product officer, Jack Brody, said in the announcement. \"Today, we're expanding what's possible in Suno with Speech: the first audio model that generates voice and music to …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-02T09:42:19.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Suno verlässt die Welt der KI-Musik und bringt eine neue Funktion auf den Markt, die gesprochene Stimmen auf der Grundlage von Skripten oder Eingabeaufforderungen generiert. Speech ist jetzt in der öffentlichen Betaversion auf den Web- und Mobilplattformen von Suno verfügbar und ermöglicht Ihnen die gleichzeitige Generierung von Voiceovers und Hintergrundmusik für ...",
-    "titleDE": "Der KI-Musikersteller Suno generiert jetzt gesprochene Wörter"
-  },
-  {
     "title": "A new contest pits competitors against each other in a race to biological youth",
     "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
     "description": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure…",
@@ -256,7 +306,7 @@
     "pubDate": "2026-10-02T08:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "An einem Nachmittag in Seoul im März 2016 sah ich mir eine Sendung an, bei deren Aufbau ich einen Stein auf die fünfte Linie eines Go-Bretts legte, was wie ein Geschenk an seinen menschlichen Gegner aussah. Zug 37 in der zweiten Partie des Fünf-Partien-Spiels sah so absurd aus, dass einige Kommentatoren dachten, es sei ein…",
+    "descriptionDE": "An einem Nachmittag in Seoul im März 2016 sah ich mir eine Sendung an, bei deren Bau ich mitgeholfen hatte, einen Stein auf die fünfte Linie eines Go-Bretts zu legen, was wie ein Geschenk an seinen menschlichen Gegner aussah. Zug 37 in der zweiten Partie des Fünf-Partien-Spiels sah so absurd aus, dass einige Kommentatoren dachten, es sei ein…",
     "titleDE": "Lassen Sie sich nicht täuschen – LLMs denken nicht"
   },
   {
@@ -288,16 +338,6 @@
     "category": "news",
     "descriptionDE": "Es war ein schlechter Monat für die Cybersicherheit der Bundesregierung.",
     "titleDE": "Hackerangriffe auf zwei Bundesbehörden innerhalb eines Monats haben eine Fülle sensibler Daten preisgegeben"
-  },
-  {
-    "title": "Google’s new Guided Vision feature can help you read the fine print",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "description": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. \nLike the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-01T19:47:51.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Guided Vision wird heute in Gemini Live auf kompatiblen Android-Geräten eingeführt, um mithilfe von KI Echtzeit-Audiobeschreibungen von allem zu liefern, auf das Sie mit der Kamera Ihres Telefons richten. Wenn Sie Ihre Kamera in Gemini Live teilen, können Sie die KI von Google bei Dingen wie dem Lesen kleiner Texte und der Beschreibung Ihrer Umgebung unterstützen.",
-    "titleDE": "Die neue Guided Vision-Funktion von Google kann Ihnen beim Lesen des Kleingedruckten helfen"
   },
   {
     "title": "ChatGPT can now virtually try on clothes for you",
@@ -350,16 +390,6 @@
     "titleDE": "Speichermanager gehen davon aus, dass der RAM-Mangel bis 2028 anhalten wird"
   },
   {
-    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "description": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law.\nIn lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-01T17:12:21.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein Bundesrichter hat zwei Kartellklagen abgewiesen, die von Chegg und der Rolling-Stone-Muttergesellschaft Penske Media Corporation eingereicht wurden. Diese hatten Google beschuldigt, mit seinen KI-gestützten Suchfunktionen den Webverkehr zu vermindern, wie Reuters zuvor berichtet hatte. US-Bezirksrichter Amit Mehta stellt sich auf die Seite von Google ...",
-    "titleDE": "Richter weist Kartellklagen wegen Googles KI-Übersichten ab"
-  },
-  {
     "title": "The eternal complement",
     "link": "https://openai.com/index/the-eternal-complement",
     "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
@@ -380,16 +410,6 @@
     "titleDE": "Amazon veröffentlicht seinen eigenen Jev-Klon, während Entscheidungsmodelle das Internet überschwemmen"
   },
   {
-    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-    "pubDate": "2026-10-01T16:44:35.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit dem neuen Canvas-Site-Builder von Shopify können Händler ihre Online-Shops erstellen und anpassen, indem sie mit dem KI-Agenten Sidekick chatten und dabei die Änderungen in Echtzeit beobachten.",
-    "titleDE": "Shopify stellt Canvas vor, eine Möglichkeit, Online-Shops durch Chatten mit KI aufzubauen"
-  },
-  {
     "title": "How Albertsons Companies is reimagining retail from the inside out",
     "link": "https://openai.com/index/albertsons-reimagining-retail",
     "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
@@ -398,26 +418,6 @@
     "category": "news",
     "descriptionDE": "Albertsons Cos. nutzt ChatGPT Enterprise und die OpenAI-API, um Teams dabei zu helfen, schneller zu arbeiten und den Lebensmitteleinkauf für Millionen von Kunden zu erleichtern.",
     "titleDE": "Wie Albertsons Companies den Einzelhandel von innen heraus neu erfindet"
-  },
-  {
-    "title": "Brian Chesky interview: AI agents need their own operating system",
-    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-    "pubDate": "2026-10-01T15:12:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Brian Chesky spricht darüber, wie man Airbnb-Agenten freundlich gestaltet, wie es um Verbraucher-KI steht und warum die Welt ein KI-natives Betriebssystem braucht.",
-    "titleDE": "Interview mit Brian Chesky: KI-Agenten brauchen ihr eigenes Betriebssystem"
-  },
-  {
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-    "pubDate": "2026-10-01T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Startup hilft Entwicklern beim Aufbau von KI-Agenten, die über iMessage, SMS/RCS, E-Mail und andere Messaging-Plattformen funktionieren. Man kann darauf wetten, dass Verbraucher zunehmend Agenten nutzen, anstatt Apps herunterzuladen.",
-    "titleDE": "Photon veranstaltete eine Beerdigung für mobile Apps. Jetzt stehen 4,5 Millionen US-Dollar zur Verfügung, um sie durch Agenten zu ersetzen."
   },
   {
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
@@ -517,7 +517,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI arbeitet mit dem amerikanischen SBDC zusammen, um praktische KI-Schulungen und lokale Unterstützung für kleine Unternehmen zu erweitern, zusammen mit einem neuen Bericht darüber, wie kleine Teams KI nutzen.",
-    "titleDE": "Wir helfen kleinen Unternehmen, KI in die Praxis umzusetzen"
+    "titleDE": "Wir helfen kleinen Unternehmen, KI in die Tat umzusetzen"
   },
   {
     "title": "The Download: climate tech companies to watch and AI’s discovery problem",
@@ -526,7 +526,7 @@
     "pubDate": "2026-09-29T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Demnächst erhältlich: unsere Liste der Climate-Tech-Unternehmen für 2026, die man im Auge behalten sollte. Da sich die Erwärmung des Planeten um 1,5 °C nähert, die Klimapolitik aufgelöst wird und Big Tech einen Rückzieher macht ...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Demnächst erhältlich: unsere Liste der Climate-Tech-Unternehmen für 2026, die man im Auge behalten sollte. Da sich die Erwärmung des Planeten um 1,5 °C nähert, die Klimapolitik aufgelöst wird und Big Tech einen Rückzieher macht...",
     "titleDE": "Der Download: Klimatechnologieunternehmen, die man im Auge behalten sollte, und das Entdeckungsproblem der KI"
   },
   {
