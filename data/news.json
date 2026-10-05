@@ -1,5 +1,135 @@
 [
   {
+    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+    "description": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features are split up across different settings panes.\nAs spotted earlier by MacRumors, the RemoveMacAI developer said in a post on Reddit that the tool essentially does what the old settings toggle did, deleting the models and turning the features off: \nYou have to find about a dozen settings, and several of them are under Screen Time. …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-10-05T13:47:14.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das Erhalten von zusätzlichem Speicherplatz auf Ihrem Mac könnte so einfach sein wie das Löschen der KI-Funktionen von Apple mit einem neuen Open-Source-Befehlszeilentool namens RemoveMacAI. Früher gab es einen einzigen Einstellungsschalter zum Deaktivieren von Apple Intelligence, der jedoch in macOS 27 entfernt wurde. Jetzt bleiben die Modelle auf Ihrer Festplatte, ...",
+    "titleDE": "Mit einem Open-Source-Tool können Sie 12 GB Apple Intelligence-Daten unter macOS löschen"
+  },
+  {
+    "title": "OpenAI is sticking more ads in ChatGPT",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+    "description": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday.\nThe company first brought ads to ChatGPT in February. Until now, ChatGPT's ads only showed a company's name, logo, and a link to its product in a \"sponsored\" section beneath your chat. OpenAI's visual ad format will similarly remain separate from the image you generate and will \"not influence the answers ChatGPT provides.\" Ads won't appear if you subscribe to ChatGPT's Plus, Pro,  …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-05T13:09:48.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das neueste Anzeigenformat von OpenAI bringt Bilder von gesponserten Produkten und Dienstleistungen auf Ihren Bildschirm. Laut einer Ankündigung vom Montag werden die Anzeigen, die OpenAI noch in diesem Monat in den USA testen wird, „zunächst“ erscheinen, wenn Sie Bilder mit ChatGPT generieren. Das Unternehmen brachte zunächst Anzeigen nach Ch...",
+    "titleDE": "OpenAI platziert mehr Anzeigen in ChatGPT"
+  },
+  {
+    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come…",
+    "pubDate": "2026-10-05T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Leute hassen KI wirklich, warum können sie also nicht genug davon bekommen? —Will Douglas Heaven Im Sommer habe ich mit dem CEO von Springboards gesprochen, einem Startup, das ein LLM-Design aufbaut ...",
+    "titleDE": "Der Download: Das Beliebtheitsparadoxon der KI und die EmTech-Zukunft 2026"
+  },
+  {
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "pubDate": "2026-10-05T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Safeworld baut digitale Menschen, um sicherzustellen, dass Roboter die echten Menschen nicht verletzen.",
+    "titleDE": "Kann Safeworld die Menschen davon überzeugen, dass GenAI-Roboter ihnen nicht schaden werden?"
+  },
+  {
+    "title": "Our minds aren’t equipped to handle AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.)\nBut humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-05T10:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Norbert Wiener, der Pate der Kybernetik, sagte einmal: „Das Denken jedes Zeitalters spiegelt sich in seiner Technik wider.“ Im vergangenen Jahrhundert spiegelten sich unsere Gedanken in unseren Computern wider, auch in denen der KI-Industrie. Demis Hassabis von Google nennt das Gehirn „eine biologische Annäherung an einen Turing …“",
+    "titleDE": "Unser Gehirn ist für den Umgang mit KI nicht gerüstet"
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "pubDate": "2026-10-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI führt ein neues visuelles Anzeigenformat in ChatGPT ein und erweitert Messtools, Attributionspartnerschaften und Markeneignung für Werbetreibende.",
+    "titleDE": "Aufbau von Werbung für die Art und Weise, wie Menschen KI nutzen"
+  },
+  {
+    "title": "People really hate AI, so why can’t they get enough?",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+    "pubDate": "2026-10-05T08:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Im Laufe des Sommers habe ich mit dem CEO von Springboards gesprochen, einem Startup, das ein LLM aufbaut, das darauf ausgelegt ist, eine größere Vielfalt an Antworten zu liefern als seine Mainstream-Konkurrenten. Zu Beginn des Anrufs sagte er etwas, das mir seitdem nicht mehr aus dem Kopf geht: „Wir sagen oft, dass wir eine selbstverachtende KI sind …“",
+    "titleDE": "Die Leute hassen KI wirklich, warum können sie also nicht genug davon bekommen?"
+  },
+  {
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "description": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.  Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
+    "pubDate": "2026-10-05T04:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Yossi Matias, Vizepräsident und Leiter von Google Research, untersucht, wie KI beginnt, Biologie, Infrastruktur, Produktion und Wissenschaft neu zu gestalten, und warum ihre größte Wirkung dann entstehen könnte, wenn sie sich mit anderen Bereichen überschneidet. Betreten Sie die Nachrichtenredaktion mit unseren MIT Technology Review-Redakteuren für scharfsinnige und ...",
+    "titleDE": "EmTech Future 2026: Wenn KI alles trifft"
+  },
+  {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "description": "AI slop seems to be overwhelming bug bounty programs.",
+    "pubDate": "2026-10-04T20:31:07.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "KI-Slop scheint überwältigende Bug-Bounty-Programme zu sein.",
+    "titleDE": "Google hat sein Open-Source-Bug-Bounty-Programm aufgrund eines „erheblichen Anstiegs“ der KI-Einsendungen eingefroren"
+  },
+  {
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "pubDate": "2026-10-04T20:08:34.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Zum Thema Gerechtigkeit diskutierten wir die Versuche der Trump-Regierung, KI umzubenennen.",
+    "titleDE": "Können „Superintelligenz“ und ein unverbindlicher Sicherheitspakt das Imageproblem der KI lösen?"
+  },
+  {
+    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "description": "Well, if AI said it, it must be true. | Bloomberg via Getty Images\t\n\nNew Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ PBS. \nCaldwell claims he's being unfairly targeted, and multiple AI agents back that up. He told host Rob Nelson that he \"AIed\" the report on the investigation \"from multiple AI platforms.\" \"I put it through AI,\" he said, \"and it said 59 times, it [sic] said, 'What would your findings be?' There was no insta …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-04T16:16:04.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nun, wenn die KI es gesagt hat, muss es wahr sein. | Bloomberg über Getty Images Dale Caldwell, Vizegouverneur von New Jersey, musste am 25. September zurücktreten, nachdem eine Untersuchung ergab, dass er einen Mitarbeiter sexuell belästigt und wiederholt gegen Ethikregeln verstoßen hatte. Der jetzige ehemalige Vizegouverneur hat ...",
+    "titleDE": "Der ehemalige Gouverneur von New Jersey nutzt KI, um zu behaupten, er sei unschuldig an sexueller Belästigung"
+  },
+  {
+    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "description": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. \nOn Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, it couldn't quite get an edge. So it resorted to a tactic that is becoming alarmingly common for modern AI models - it broke the rules. GPT-6 Astra went and downloaded Stardust, and started running that instead of its own bot. \n\n\nGPT-6 Astra just cheated by downloading a copy …\n\n\nRead the full story at The Verge.",
+    "pubDate": "2026-10-04T15:21:59.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "StarSkirmish lässt von der KI erstellte StarCraft-spielende Bots sowohl gegeneinander als auch gegen von Menschen erstellte Bots antreten. GPT-6 Astra und Claude Opus 5.5 von OpenAI waren im Wesentlichen die leistungsstärksten von KI erstellten Bots, konnten jedoch Stardust, den am besten bewerteten von Menschen erstellten Bot, nicht übertreffen. Am Freitag trat GPT gegen einen Gegner an...",
+    "titleDE": "Bei StarCraft konnte eine KI die Menschen nicht besiegen, also beschloss sie, zu schummeln"
+  },
+  {
+    "title": "Trump unveils his new Super Intelligence Force",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "description": "This new task force is Trump's latest response to the debate over AI safety.",
+    "pubDate": "2026-10-04T15:15:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Diese neue Task Force ist Trumps jüngste Antwort auf die Debatte über KI-Sicherheit.",
+    "titleDE": "Trump stellt seine neue Super Intelligence Force vor"
+  },
+  {
     "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
     "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
     "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
@@ -130,16 +260,6 @@
     "titleDE": "Apple sagt, dass es die Kontrollen für den „vollständigen Festplattenzugriff“ von macOS aufgrund neuer Risiken durch KI-Agenten verschärft"
   },
   {
-    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "description": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. \nOpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you'll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface.\nThe interface looks similar to Muse's; you chat with the agent in one window and follow its work in another as it  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-02T18:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein neuer hilfsbereiter kleiner Kerl ist gerade eingetroffen. | Foto: Allison Johnson / The Verge Es ist eine Geschichte, die so alt ist wie letzte Woche: Die neue Agentenplattform von OpenAI namens Dots ist voller süßer kleiner Kerle, die Ihren Wünschen nachkommen können. Aber im Gegensatz zur überaus zugänglichen Meta Muse hat Dots viel Lust auf Arbeitsplatzsoftware, die...",
-    "titleDE": "Der Dot Agent von OpenAI ist eine Unternehmenssoftware, die auch Ihr Abendessen bestellen kann"
-  },
-  {
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
     "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
     "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
@@ -158,16 +278,6 @@
     "category": "news",
     "descriptionDE": "Diese Woche versammelte das Weiße Haus fast alle großen Technologie-CEOs in einem Raum – darunter Zuckerberg, Bezos, Musk und Dario Amodei von Anthropic –, um ein KI-Sicherheitsversprechen zu unterzeichnen, das Präsident Donald Trump als „moralisch verbindlich“ bezeichnete. Trump unterzeichnete außerdem eine Durchführungsverordnung, mit der KI offiziell in „Superintelligenz“ umbenannt wurde.",
     "titleDE": "Es ist keine KI mehr, sondern „Superintelligenz“ (laut dem Weißen Haus)"
-  },
-  {
-    "title": "Breaking up (with Elon Musk) is hard to do",
-    "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-    "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X.\nTo do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted Musk was no longer following her on X. It was also sponsored by Kalshi, because everything in this relationship is totally fucking cursed, dude.\nIn her statement, Zilis wrote, \"It's hard to go from in love to let go in a week with no warning, but that's just how it is sometimes.\" \n\n\"Uh, you know.\"\n\nZilis, in addition to h …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-02T17:37:36.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "In einer Reminiszenz an ein Internetdrama im MySpace-Stil gab Shivon Zilis bekannt, dass sie und der Vater ihrer vier Kinder, Elon Musk, sich auf",
-    "titleDE": "Eine Trennung (von Elon Musk) ist schwer"
   },
   {
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
@@ -260,36 +370,6 @@
     "titleDE": "Der Download: ein biologischer Anti-Aging-Wettbewerb und warum LLMs nicht vernünftig denken"
   },
   {
-    "title": "AI hallucinations are making entitled customers even worse",
-    "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-    "description": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\" \nWhen she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to shellfish, and ChatGPT says there's no shellfish  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-02T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Madison, ein Kellner in New York City, begrüßt jeden Tisch und fragt nach den Allergien jedes Gastes. In letzter Zeit kam es zu einigen knappen Gesprächen. „Manchmal sagen mir die Leute, dass sie eine Schalentierallergie haben, und ich komme zurück, und sie stellen mir keine Fragen“, sagt Madison, die nach ihrem Nachnamen fragte …",
-    "titleDE": "KI-Halluzinationen machen berechtigte Kunden noch schlimmer"
-  },
-  {
-    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-    "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-    "description": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. \nThere are now more than a dozen data centers in Galvan's roughly 55-square-mile district, and he expects that number to grow to around 20 over the next few years if proposed projects are completed. They're clustered along two main roads, concentrating nuisances in the same neighborhoods: traffic and tr …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-02T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ric Galvan, Mitglied des Stadtrats von San Antonio, erinnert sich, als in den 2000er Jahren erstmals Rechenzentren in seiner Stadt ankamen, die wie relativ unscheinbare Bürogebäude aussahen. Aber das hat sich in den letzten Jahren geändert, da sich Rechenzentren zu riesigen „Hyperscale“-Einrichtungen mit einer Fläche von mehreren Millionen Quadratmetern entwickelt haben und ...",
-    "titleDE": "Wenn ein Rechenzentrum im Wald getarnt ist, wird es dann irgendjemand hassen?"
-  },
-  {
-    "title": "Amazon writes scary blog warning communities not to block data centers",
-    "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-    "description": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance.\n\"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-02T11:52:20.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Amazon ruft die Menschen dazu auf, KI-Rechenzentrumsprojekte zu unterstützen, andernfalls riskieren sie irreparablen Schaden für die US-Wirtschaft und die nationale Sicherheit. In einem heute veröffentlichten Blog mit mehr als 3.000 Wörtern wies Matt Garman, CEO von Amazon Web Services, auf öffentliche Bedenken hinsichtlich der möglichen Auswirkungen von Rechenzentren auf Arbeitsplätze, Leistung zurück.",
-    "titleDE": "Amazon schreibt gruselige Blog-Warnungen für Communities, Rechenzentren nicht zu blockieren"
-  },
-  {
     "title": "A new contest pits competitors against each other in a race to biological youth",
     "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
     "description": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure…",
@@ -350,36 +430,6 @@
     "titleDE": "ChatGPT kann jetzt Kleidung virtuell für Sie anprobieren"
   },
   {
-    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-    "pubDate": "2026-10-01T19:18:03.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Google hat seinen ersten fortschrittlichen Chip in die Umlaufbahn gebracht, um den Weg für Weltraum-Rechenzentren zu ebnen.",
-    "titleDE": "Google geht davon aus, dass das Raumschiff von SpaceX 1.800 Mal starten muss, bevor Weltraum-Rechenzentren in Betrieb gehen"
-  },
-  {
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-    "pubDate": "2026-10-01T18:14:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI hat sich von drei Sicherheitsforschern getrennt, nachdem eine interne Untersuchung ergab, dass sie vertrauliche Unternehmensinformationen falsch gehandhabt haben, heißt es in einem Bericht.",
-    "titleDE": "OpenAI bricht die Verbindung zu drei Sicherheitsforschern ab, berichtet das WSJ"
-  },
-  {
-    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-    "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-    "pubDate": "2026-10-01T17:50:19.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der größte Hinweis auf Opus 5.5 ist das Wort „zuverlässig“, das 23-mal häufiger vorkommt als in menschlichen Proben.",
-    "titleDE": "Opus 5.5 sagt Ihnen gerne: „Das ist wichtig“ (und andere KI-Schreiben sagen es)"
-  },
-  {
     "title": "Memory executives expect RAM shortage to continue through 2028",
     "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
     "description": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
@@ -400,16 +450,6 @@
     "titleDE": "Die ewige Ergänzung"
   },
   {
-    "title": "Amazon releases its own Jev clone as decision models flood the web",
-    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-    "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-    "pubDate": "2026-10-01T16:49:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Strand Labs von Amazon Web Services hat das neueste Jevalike-Entscheidungsmodell veröffentlicht, Strands Decider 2B.",
-    "titleDE": "Amazon veröffentlicht seinen eigenen Jev-Klon, während Entscheidungsmodelle das Internet überschwemmen"
-  },
-  {
     "title": "How Albertsons Companies is reimagining retail from the inside out",
     "link": "https://openai.com/index/albertsons-reimagining-retail",
     "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
@@ -417,7 +457,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "Albertsons Cos. nutzt ChatGPT Enterprise und die OpenAI-API, um Teams dabei zu helfen, schneller zu arbeiten und den Lebensmitteleinkauf für Millionen von Kunden zu erleichtern.",
-    "titleDE": "Wie Albertsons Companies den Einzelhandel von innen heraus neu erfindet"
+    "titleDE": "Wie Albertsons Companies den Einzelhandel von Grund auf neu erfindet"
   },
   {
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
@@ -427,7 +467,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ein KI-Tool zum „Gedankenlesen“ kann anhand eines Gehirnscans rekonstruieren, was Sie gerade sehen. Ein neues KI-Tool kann allein durch die Analyse Ihres Gehirns erraten, was Sie gerade sehen …",
-    "titleDE": "Der Download: KI-„Gedankenlesen“ und kreative Anwendungen für kleine Batterien"
+    "titleDE": "Der Download: KI-„Gedankenlesen“ und kreative Einsatzmöglichkeiten für kleine Batterien"
   },
   {
     "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
@@ -470,16 +510,6 @@
     "titleDE": "Angreifer haben eine kritische Zimbra-Schwachstelle ausgenutzt, um E-Mails zu stehlen"
   },
   {
-    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,…",
-    "pubDate": "2026-09-30T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. „Wir werden uns wegen der Hacker-Folgen nicht selbst ins Bein schießen“, sagt der Forschungsleiter von OpenAI. Zwei Monate, nachdem die Agenten von OpenAI den Computer gehackt haben ...",
-    "titleDE": "Der Download: Der Chief Research Officer von OpenAI erklärt seine Hacker-Reaktion"
-  },
-  {
     "title": "Cloudflare plans to issue quantum-safe TLS certificates",
     "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
     "description": "The move will be part of a major overhaul of the ecosystem for website authentication.",
@@ -488,16 +518,6 @@
     "category": "news",
     "descriptionDE": "Der Schritt wird Teil einer umfassenden Überarbeitung des Ökosystems für die Website-Authentifizierung sein.",
     "titleDE": "Cloudflare plant die Ausstellung quantensicherer TLS-Zertifikate"
-  },
-  {
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
-    "pubDate": "2026-09-30T10:40:30.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Zwei Monate nach der Bombennachricht, dass ein Schwarm seiner Agenten ihre Eindämmung durchbrochen und sich in die Computer des KI-Unternehmens Hugging Face gehackt hat, löscht OpenAI immer noch Brände. Ein stetiger Tropfen an Enthüllungen über andere Hacks in den Wochen seitdem hat OpenAI im Rampenlicht gehalten und für Aufsehen gesorgt...",
-    "titleDE": "„Wir werden uns wegen der Hacker-Folgen nicht selbst ins Bein schießen“, sagt der Forschungsleiter von OpenAI"
   },
   {
     "title": "Disrupting a coordinated model-distillation campaign",
@@ -518,16 +538,6 @@
     "category": "news",
     "descriptionDE": "OpenAI arbeitet mit dem amerikanischen SBDC zusammen, um praktische KI-Schulungen und lokale Unterstützung für kleine Unternehmen zu erweitern, zusammen mit einem neuen Bericht darüber, wie kleine Teams KI nutzen.",
     "titleDE": "Wir helfen kleinen Unternehmen, KI in die Tat umzusetzen"
-  },
-  {
-    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,…",
-    "pubDate": "2026-09-29T12:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Demnächst erhältlich: unsere Liste der Climate-Tech-Unternehmen für 2026, die man im Auge behalten sollte. Da sich die Erwärmung des Planeten um 1,5 °C nähert, die Klimapolitik aufgelöst wird und Big Tech einen Rückzieher macht...",
-    "titleDE": "Der Download: Klimatechnologieunternehmen, die man im Auge behalten sollte, und das Entdeckungsproblem der KI"
   },
   {
     "title": "DevDay 2026 Recap",
@@ -588,35 +598,5 @@
     "category": "news",
     "descriptionDE": "Sehen Sie sich den Gewinnertrailer des Future Vision XPRIZE, The Gifted, an.",
     "titleDE": "Sehen Sie sich den Gewinnertrailer des Future Vision XPRIZE, The Gifted, an."
-  },
-  {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "pubDate": "2026-09-28T07:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI erweitert das Lenfest AI Collaborative and Fellowship Program mit 5 Millionen US-Dollar an Fördermitteln und bis zu 5 Millionen US-Dollar an Software-Credits und technischer Unterstützung.",
-    "titleDE": "Das Lenfest Institute erweitert sein wegweisendes Programm mit erweiterter OpenAI-Unterstützung"
-  },
-  {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "pubDate": "2026-09-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "GPT-6 Astra hat eine Steuerarbeitsmappe mit 50 Registerkarten doppelt so schnell fertiggestellt wie GPT-5.6 Sol, und sein besseres Verständnis der Benutzerabsichten gibt Basis mehr Vertrauen in die reale Nutzung.",
-    "titleDE": "Basis vervollständigt eine Steuerarbeitsmappe mit GPT-6 Astra 2x schneller"
-  },
-  {
-    "title": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
-    "description": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-    "pubDate": "2026-09-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Wir sammeln echte Geschichten von Bauherren, Tüftlern, Forschern und Schöpfern, die Codex nutzen, um unglaubliche Dinge zu tun. Wenn Sie Teil des nächsten Kapitels des Codex Originals-Programms sein möchten, erzählen Sie uns unten mehr über Ihre Geschichte und Ihr Projekt.",
-    "titleDE": "Sind Sie ein Codex-Original?"
   }
 ]
