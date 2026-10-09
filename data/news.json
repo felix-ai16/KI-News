@@ -1,13 +1,523 @@
 [
   {
-    "title": "The Download: 10 climate tech companies to watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher…",
-    "pubDate": "2026-10-06T12:10:00.000Z",
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
+    "pubDate": "2026-10-09T12:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. 10 Klimatechnologieunternehmen, die man im Auge behalten sollte Jedes Jahr stellt MIT Technology Review eine Liste der vielversprechendsten Klimatechnologieunternehmen der Welt zusammen. Dieses Jahr...",
-    "titleDE": "Der Download: 10 Klimatechnologieunternehmen, die man im Auge behalten sollte"
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wir vertrauen zu sehr auf die Fähigkeit der KI, „Nein“ zu sagen. Heutige KI-Modelle sind darauf trainiert, eine Vielzahl von Aufforderungen abzulehnen. Wenn Sie Ihren Chatbot fragen, wie man vergiftet ...",
+    "titleDE": "Der Download: Das Verweigerungsproblem der KI und die Nebenwirkungen von Medikamenten zur Gewichtsabnahme"
+  },
+  {
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+    "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"\nIn a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was not about the trio speaking out about the company and their concerns about AI safety.\nThe post is a direct response to an open letter the researchers published on Thursday urging OpenAI to be more transparent about the decision. In it and a series of social media posts, the group said they believ …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-09T09:48:26.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI hält an seiner Entscheidung fest, drei Sicherheitsforscher zu entlassen, nachdem eine Untersuchung ergab, dass sie einen „erheblichen Vertrauensbruch“ begangen hatten. In einem Beitrag auf",
+    "titleDE": "OpenAI bekräftigt seine Entscheidung, drei KI-Sicherheitsforscher zu entlassen"
+  },
+  {
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "description": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recently, the idea that AI shouldn’t…",
+    "pubDate": "2026-10-09T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Seitdem man erstmals ernsthaft darüber nachgedacht hat, Maschinen eine Intelligenz nach unserem Vorbild zu verleihen, gab es keinen Zweifel daran, dass sie wie wir in der Lage sein würden, Nein zu sagen. Der Science-Fiction-Kanon ist voller Geschichten über den Ungehorsam von Robotern. Die meisten dieser Kapriolen sind natürlich warnend. Aber vor kurzem...",
+    "titleDE": "Wir vertrauen zu sehr auf die Fähigkeit der KI, Nein zu sagen"
+  },
+  {
+    "title": "Job titles of the future: Delivery drone air traffic controller",
+    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "description": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is…",
+    "pubDate": "2026-10-09T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Als Trevor Wischnewsky erfuhr, dass Drohnen Pizza und Sushi in seinem Viertel in Texas auslieferten, stand seine Entscheidung fest. „Es war super faszinierend“, sagt er. „Ich wollte einfach sofort ein Teil davon sein.“ Wischnewsky ist jetzt RPIC oder „Remote Pilot in Command“ bei einem Unternehmen namens FlyT ...",
+    "titleDE": "Berufsbezeichnungen der Zukunft: Fluglotse für Lieferdrohnen"
+  },
+  {
+    "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+    "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+    "description": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar…",
+    "pubDate": "2026-10-09T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Woche hatte mein Kollege Antonio Regalado ein interessantes Update zu GLP-1-Medikamenten zur Gewichtsreduktion. Laut Forschungsergebnissen, die auf einem Alterungstreffen in Boston vorgestellt wurden, scheinen diese Medikamente zumindest einige Maße des biologischen Alters zu beeinflussen. Übergewichtige und Diabetiker, die GLP-1 einnehmen, haben ein biologisches Alter von etwa ...",
+    "titleDE": "Wir sind immer noch dabei, die Nebenwirkungen von GLP-1-Medikamenten zur Gewichtsreduktion herauszufinden"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
+    "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "pubDate": "2026-10-09T07:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie, wie Sophos Daybreak von OpenAI nutzt, um die Untersuchungszeit für Cyber-Bedrohungen um 96 % zu verkürzen und 52 % der MDR-Fälle zu automatisieren und gleichzeitig die menschliche Aufsicht zu wahren.",
+    "titleDE": "Sophos verkürzt mit OpenAI Daybreak die Zeit für die Untersuchung von Bedrohungen um 96 %"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "description": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+    "pubDate": "2026-10-09T00:08:24.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Freitag, 16. Oktober 2026 Kann KI neue Lebensformen entwerfen? Im Jahr 2025 lieferte der Doktorand der Stanford University, Samuel King, eine vorläufige Antwort, als er mithilfe eines generativen KI-Modells genetische Baupläne für mikroskopisch kleine Viren vorschlug. Es ist noch kein Beispiel für KI-generiertes Leben, aber das könnte das nächste sein ...",
+    "titleDE": "Roundtables: Ein Gespräch mit dem Schöpfer von KI-entwickelten Viren"
+  },
+  {
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\nThe outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T21:53:51.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic bietet mit einem neuen Dienst namens OSS Scanner an, Open-Source-Projekte beim Aufspüren von Sicherheitslücken zu unterstützen. Es heißt, dass Open-Source-Projekte, die sich dafür entscheiden, „gründliche, regelmäßige Sicherheitsscans durch unsere stärksten Modelle kostenlos“ erhalten. Das könnte bedeuten, dass Open-Source-Projekte über ... informiert werden.",
+    "titleDE": "Anthropic führt kostenlose KI-Sicherheitsscans für Open-Source-Projekte ein"
+  },
+  {
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "pubDate": "2026-10-08T21:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit über tausend E-Mails, Folien, Texten und Dokumenten aus dem Prozess USA gegen Elizabeth Holmes hat Extend-Ingenieur Bo Lau eine Website erstellt, die simuliert, wie es gewesen sein könnte, den Schreibtisch des Theranos-Gründers zu durchsuchen.",
+    "titleDE": "Stellen Sie sich vor, Sie sitzen auf dieser seltsam detaillierten Website am Schreibtisch von Elizabeth Holmes"
+  },
+  {
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.\nThe fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that was being piloted by a human using what the NYT described as a \"remote virtual-reality system.\" Rek says it is the \"the humanoid robot fighting league\" on its website, and the robot appears to be one from EngineAI but with a Terminator-like head swapped on top.  \nYou can watch a replay of the fight on YouTube:\n\nThe CEO of Rek …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T20:06:56.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wie die New York Times berichtete, schickte die California State Athletic Commission eine Unterlassungserklärung an ein Startup, das letzten Monat ein Match zwischen einem Menschen und einem Roboter ausrichtete. Bei dem Kampf, der am 18. September stattfand, trat ein Mensch, Frankie LaPenna, gegen einen humanoiden Roboter an, der einem Techniker gehörte ...",
+    "titleDE": "Kalifornien versucht, Roboter-gegen-Menschen-Käfigkämpfe zu beenden"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "pubDate": "2026-10-08T20:04:26.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Drei entlassene OpenAI-Sicherheitsforscher bestreiten Vorwürfe des Missbrauchs sensibler Informationen und warnen in einem offenen Brief, dass ihre Entlassungen eine abschreckende Wirkung auf die KI-Sicherheitskultur des Unternehmens haben.",
+    "titleDE": "Entlassene OpenAI-Sicherheitsforscher bestreiten Vorwürfe wegen Fehlverhaltens und warnen vor abschreckender Wirkung"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "pubDate": "2026-10-08T18:20:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ben Affleck geht viral für sein umfassendes Wissen über KI, von neuronalen Netzen und Transformatoren bis hin zu offenen Gewichten. Der Schauspieler, der Anfang des Jahres sein KI-Filmproduktions-Startup an Netflix verkauft hat, beweist, dass er mehr als nur ein Hollywoodstar ist.",
+    "titleDE": "Ben Affleck ist ein KI-Nerd und das Internet ist beeindruckt"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "pubDate": "2026-10-08T18:19:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen hinter der beliebten LMArena-Bestenliste hat unter der Führung von Lightspeed und Khosla 200 Millionen US-Dollar gesammelt und misst nun KI-Modelle auf Ausrichtungsprobleme wie Lügen.",
+    "titleDE": "Die beliebte KI-Bestenliste Arena verdoppelt den Wert in 10 Monaten fast auf 3,1 Milliarden US-Dollar"
+  },
+  {
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "pubDate": "2026-10-08T18:19:42.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Zuvor wurde berichtet, dass der jährliche Umsatz des KI-Labors etwa 70 Milliarden US-Dollar betrug, doch ein neuer Bericht behauptet, dass er deutlich darunter liegt.",
+    "titleDE": "Der Umsatz von OpenAI liegt Berichten zufolge um 20 Milliarden US-Dollar unter den bisherigen Prognosen"
+  },
+  {
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "pubDate": "2026-10-08T18:18:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Google verwandelt Gemini in einen KI-Agenten, der Aufgaben planen, ausführen und über Unternehmensanwendungen und -systeme hinweg arbeiten kann. Der Agent kann Arbeit an Subagenten delegieren, mehrere KI-Modelle verwenden und erhält sogar eine eigene Arbeitsplatzidentität, komplett mit einer E-Mail-Adresse.",
+    "titleDE": "Google bringt Agenten-KI zu Gemini, angefangen bei Unternehmen"
+  },
+  {
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "pubDate": "2026-10-08T18:16:24.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die aktualisierte Nutzungsrichtlinie von Anthropic verbietet Benutzern ausdrücklich, Claude in extremen Fällen wiederholt zu missbrauchen, obwohl normale Frustration und Kritik weiterhin erlaubt sind. Die neuen Regeln betreffen auch Wahleinmischung, irreführende Kampagnen, Waffensoftware und Überwachung.",
+    "titleDE": "Anthropic ändert die Nutzungsrichtlinien, um Modellmissbrauch und Wahleinmischung zu verbieten"
+  },
+  {
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "pubDate": "2026-10-08T18:10:55.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Beweisflut von OpenAI weicht von den Richtlinien ab, die von einer Gruppe mathematischer Forscher festgelegt wurden, die vom Frontier Lab konsultiert wurden.",
+    "titleDE": "Die Mathematiklösungen von OpenAI entsprechen noch nicht den Standards der Branche"
+  },
+  {
+    "title": "USA Today becomes the latest publisher to sue OpenAI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+    "description": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content  \"has done real and continuing\" harm to its outlets.\nThis is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright lawsuit filed by The New York Times, OpenAI is also facing legal action from The Intercept, CNET owner Ziff Davis, CBC/Radio-Canada, Encyclopaedia  …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T17:58:33.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "USA Today Co. verklagt zusammen mit mehreren lokalen Zeitungen, die ihr gehören, OpenAI wegen Behauptungen, das Unternehmen habe „Hunderttausende“ Artikel kopiert, um seine KI-Modelle zu trainieren, wie Reuters zuvor berichtete. In einer Klageschrift vom Donnerstag fordert der Verlag Schadensersatz in Höhe von mehr als 250 Millionen US-Dollar und behauptet ...",
+    "titleDE": "USA Today ist der jüngste Verlag, der OpenAI verklagt"
+  },
+  {
+    "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+    "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+    "description": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson's Linux project. According to Hansson's blog post announcing the partnership, the tokens will primarily be used to accelerate development, review code, and patch bugs.\nHansson is the Danish entrepreneur known for creating Ruby on Rails and co-founding the company behind Basecamp. But he's also becoming known for promoting anti-immigration …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T17:57:01.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wenn Elon Musk und SpaceXAI irgendeine Linux-Distribution unterstützen würden, wäre es offensichtlich, dass sie Omarchy unterstützen würden. Heute wurde bekannt gegeben, dass SpaceXAI der Omacom Foundation, die Omarchy beaufsichtigt, als Gründungspatron beitreten und Grok-Token im Wert von 1,5 Millionen US-Dollar an David Heinemeier spenden wird ...",
+    "titleDE": "SpaceXAI unterstützt Omarchy, die umstrittene Linux-Distribution, mit 1,5 Millionen US-Dollar an Rechenleistung"
+  },
+  {
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "description": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. \nLast August, the company announced it would allow Claude to end conversations with \"persistently harmful or abusive\" users as part of its research into \"model welfare.\" The new update says that terminating conversations is still the \"primary enforcement mechanism\"; Anthropic did not provide a comment o …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T17:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic nimmt zum ersten Mal seit über einem Jahr Änderungen an seinen Nutzungsrichtlinien vor, um neuen und risikoreichen Missbrauchsfällen Rechnung zu tragen – darunter Wahleinmischung, Waffenentwicklung, Überwachung sowie gesundheitliche und finanzielle Nutzung. Aber eine der bedeutendsten Änderungen verbietet „Anhaltende und Nadeln...“",
+    "titleDE": "Anthropic verbietet „missbräuchliches oder grausames Verhalten“ gegenüber Claude"
+  },
+  {
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+    "pubDate": "2026-10-08T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit dem 99 US-Dollar teuren Interface-Smartring von Natura können Sie mit einem Fingerdruck KI-Agenten herbeirufen, um Aufgaben zu erledigen, Gedanken zu erfassen und Geräte zu steuern – und gleichzeitig als Gesundheits-Tracker zu fungieren.",
+    "titleDE": "Der Smart Ring von Natura für 99 US-Dollar bringt KI-Agenten an Ihren Finger"
+  },
+  {
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "pubDate": "2026-10-08T16:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Goodfire hat gerade eine angeblich kostengünstigere Möglichkeit eingeführt, KI-Agenten unter Kontrolle zu halten: Anstatt eine zweite KI dafür zu bezahlen, alles zu lesen, was ein Agent tut, werfen seine Monitore einen Blick in das Modell, während es arbeitet, und rufen nur dann einen Ersatz an, wenn etwas faul aussieht.",
+    "titleDE": "Goodfire sagt, dass seine neuen „Inside-Out“-Monitore betrügerische KI-Agenten zu einem Bruchteil der Kosten fangen"
+  },
+  {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "pubDate": "2026-10-08T16:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "In den Bereichen Personalbeschaffung, Technik und Betrieb setzt Oracle mit ChatGPT Work und Codex Fachwissen in schnelle, wiederholbare Arbeitsabläufe um.",
+    "titleDE": "Wie Oracle mit ChatGPT und Codex tagelange Arbeit in Minuten verwandelt"
+  },
+  {
+    "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+    "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+    "description": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model.\nSimilar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes your meetings while providing a space where you can take your own notes. Google says you can jot down shorthand bullet points during your meeting, and the app will transform them into \"polished notes\" based on the information in the transcript.\n\nAlong with transcribing your meetings, For …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T15:27:30.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google hat eine experimentelle Notizen-App veröffentlicht, mit der Besprechungen und Audiodateien vollständig offline transkribiert werden können, wie TechCrunch zuvor berichtete. Die App mit dem Namen Google AI Edge Foresight kann kostenlos verwendet werden und läuft auf macOS mit dem geräteinternen EmbeddingGemma 2-Modell des Unternehmens. Ähnlich wie AI-Notizen...",
+    "titleDE": "Die KI-Notizen-App von Google transkribiert Ihre Besprechungen vollständig offline"
+  },
+  {
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+    "pubDate": "2026-10-08T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ben Longmier, CEO von Ambrosia Energy, und Bill Thayer, SVP von Bloom Energy, nehmen an der Smart Systems Stage bei TechCrunch Disrupt teil. Registrieren Sie sich jetzt, um bis zu 100 $ zu sparen. Schnappen Sie sich eine Sekunde desselben Passes, um 50 % zu sparen.",
+    "titleDE": "Hören Sie auf der TechCrunch Disrupt 2026 von den Führungskräften von Ambrosia Energy und Bloom Energy, wo der Boom der KI-Infrastruktur Chancen schafft"
+  },
+  {
+    "title": "Google is launching a one-stop Gemini agent for your work tasks",
+    "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+    "description": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface.\nIn addition to having Gemini work directly inside Workspace apps like Gmail, Drive, Docs, Sheets, Calendar, and others, users can interact with the agent from their mobile device, desktop computer, the web, and third-party apps like Slack or Microsoft 365. Since it runs in the cloud, Gemini will maintain the same context across  …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T14:28:03.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google bringt einen „universellen“ Gemini-KI-Agenten auf den Markt, der im Hintergrund über Apps und Geräte hinweg arbeiten kann. Das im Rahmen der Gemini at Work-Veranstaltung am Donnerstag angekündigte Tool wird in der Gemini Enterprise-App verfügbar sein und ermöglicht es Benutzern, mit dem Gemini-Agenten zu chatten und ihm von einem ... aus Aufgaben zuzuweisen.",
+    "titleDE": "Google führt einen One-Stop-Gemini-Agenten für Ihre Arbeitsaufgaben ein"
+  },
+  {
+    "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+    "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+    "description": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. \nIf you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier this year. But the launches of Meta’s Muse, OpenAI’s Dots, and xAI’s Grok Bot have brought easy-to-use agents to millions.\nMuse and Dots have had the highest-profile product launches, and they’re fascinating to pit against each other. Both Meta and OpenAI have decided to pitch these agents to mainstream users and businesses in the form of cute animated mascots.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThese can do everything from the boring — restaurant reservations and inbox triage — to more sophisticated tasks. In OpenAI’s cases, the company is even offering “specialist” Dots for marketing, legal work, and accounting.\nMuse, notably, is free, while Dots are not. So you’ll hear Hayden and me get into why Meta, which still doesn’t have a frontier model of its own, might have a meaningful edge here because it’s so much better at making and distributing consumer products.\nThere’s also a huge Decoder-style tension wrapped up in the agent race: a conversation about what AI is good at today, what it still can’t do, and then the privacy and security implications of handing over your credit card information, your email inbox, and other sensitive hard drive data to an AI that might be able to do things for you without even requiring an app or a phone in your hand.\nThat might be the future of all computing, but it’s not at all clear if most people want to hand over the data to make it happen.\nOkay: The Verge’s Hayden Field on Muse, Dots, and trusting AI agents. Here we go.\n\n\nThis interview has been lightly edited for length and clarity. \nHayden Field, you’re the senior AI reporter here at The Verge. Welcome back to Decoder.\nThanks so much. \nI’m excited to talk to you. This time there isn’t any wild interpersonal drama. No one’s feelings have been hurt. I would say Elon Musk tried to hurt some feelings and didn’t get there. Alexandr Wang from Meta has maybe been taking some shots, but none of the Real Housewives stuff we usually end up talking about when you’re on the show.\nIt’s been a bit of a pause in the soap opera antics for now, which I’m really grateful for. \nYeah, just some good old-fashioned product competition in the marketplace. Let’s see who wins and loses, and maybe everything will kill us all in the end. But, for now, cute mascots. \nThere’s a lot going on. Let’s start at the start. Hayden, you were at OpenAI DevDay in San Francisco. The company announced Dots, which is their new agent platform with a cute mascot. That happened just a few weeks after Meta Connect, at which the company was all in on Muse, their agent platform with an adorable mascot. \nTell us about the state of the industry right now. Everyone’s very excited about agents. What’s going on?\nIt’s funny to me because I’ve been covering agents for so long. I remember that in 2022, it was the year of ideation — that’s what tech leaders called it, referring to agents. They were just ideating. They were thinking about what it could look like. There were a lot of references to Jarvis from the Marvel Universe. \nThey called 2023 the year of deployment: “Let’s try things, let’s deploy and learn more about what’s failing.” Which meant pretty much all of them were failing at the time. Then we had 2024 and 2025. They didn’t have any names for those years, but agents were still pretty bad, as we saw.\n2026 seems, to me, like the year of the beginnings of actually useful AI agents for the consumer, like always-on autonomous agents. Obviously, OpenAI was the start of all of this. But what’s interesting to me is that one man, Peter Steinberger, was able to create an actually useful AI agent for the consumer with OpenClaw — an always-on tool, despite its privacy flaws. It had a lot of privacy and security issues.\nBut it was an agent that was useful enough that people still wanted to use it anyway and try to find ways around these privacy issues that it was having. That inspired these companies to say, “If one man can do this over the course of one weekend, we’ve really been slacking. We have to get it together.” \nOpenAI hired that guy, and now we have Dots. Meta, of course, was working on its own version of this and put it out sooner with Muse. They’re basically both always-on, autonomous AI agents that these companies are peddling as a way to be your personal assistant in a lot of ways.\nThe idea is to use them for booking flights, booking dinner reservations, buying gifts for people, but not only that. Some of them, Dots in particular, are kind of going further to be your work personal assistant and we’ll get into that in a minute. \nBut this is where OpenAI and Meta are warring right now. They’re trying to present these two AI agents as a little bit different from each other, even though they’re essentially the same.\nJust broadly speaking, to define some terms, we’re gonna keep saying “agent,” and what we mean here is an AI model wrapped in a harness that lets it use a computer. \nRight. The way that I describe AI agents usually is an AI tool that can complete multi-step complex tasks on your behalf without you hand-holding it the whole time. \nI was a personal assistant in one of my first jobs in New York, so I would’ve gotten fired if every time my boss asked me to book a flight for her, I said, “What time? Also, what’s your SkyMiles number? Also, what’s your loyalty number again, for this other thing? Oh, do you want me to try to get you first class?”\nThey want you to have common sense and just book the flight. This is what they’re pitching these AI agents as — things that can work on their own mental kind of scratchpad in the background and not ask you every single time there’s a step. They can complete multi-step processes in the background, doing their own reasoning, and then present you with a completed task.\nThat’s the big idea. Just to say it clearly, both Muse and Dots come out of the OpenClaw lineage, which is a technical approach to building an agent, right? There are a lot of different ways you might be able to accomplish “It’ll remember your SkyMiles number and book you a flight.” But the way everyone’s going at it now is the idea of a harness around a model. That was the big innovation in OpenClaw, and the computer OpenClaw was using was often your own Mac Mini on your own network using a wide-open browser with your own data, which is where a lot of their security problems came from.\nIt’s the same model with Muse, only it’s a little Linux computer that Meta’s giving you in the cloud. It’s the same model with Dots, although the way ChatGPT is set up with Codex is very complicated, and that computer could be in a lot of different places.\nBut this notion that what you really need is a computer with a browser and some harness is gonna direct a model to do a bunch of stuff for you using that computer, that’s what we’ve landed on today, and it just seems to be the default winning model.\nRight. \nAre all of these things just riffs on OpenClaw? Are they the same as OpenClaw?\nYou could say that. They’re different technically. Meta keeps saying, “We did build this from scratch, but it was inspired by OpenClaw.” There are a lot of similarities there, but they did say that they built it from scratch. Then, of course, OpenAI hired the creator of OpenClaw, so there’s probably a lot of similarities there as well for Dots.\nThe reason I wanted to stay there for one second is that I think it’s important to identify the fundamental technical approach that is happening with these agents, because there’s a lot of different ways it could have gone, and the whole industry has picked this approach. What you need is a web browser, a harness, and a model that can go use that web browser. \nWhat’s really interesting to me is that Meta has done a really good job on top of that fundamental model of making a cute consumer product. Meta is good at consumer products. Obviously, Instagram and Facebook and the rest are undeniably good consumer products. People really like them. \nFor all of Meta’s failings in VR, I always thought the Meta Quest has been a great consumer product. You take it out of the box, it helps you use it, you can have fun with it right away. Whereas Dots seems like it’s kind of made for software engineers, but you can also plan a wedding in it.\nI’m wondering if that’s how you see it. That one is an enterprise product with a little consumer gloss on it, and then Meta obviously is just a dead-ahead consumer product.\nWhat’s different here is that OpenAI needs money a lot more than Meta needs money. The products are honestly pretty similar, it seems like. The difference is that OpenAI is marketing it to be an enterprise-friendly product a lot more than Meta is. Muse is just a consumer-facing product.\nMeta is happy with that. The goal is to make Muse as easy to use as humanly possible. One-tap downloading, just putting it in your face literally everywhere. Even when I went to my Instagram profile the other day, there was a pop-up for using Muse. They’re trying to make it free, accessible, and super easy to broaden the audience.\nThey want anyone to be able to just use it with one click and get used to it. They’re trying to flood the market with AI agents and make it normal and have their own ChatGPT moment, if you will, for AI agents. They want Muse to be that. Now, with OpenAI, they’re still marketing it as a consumer-facing product. When you’re using ChatGPT, if you have the right subscription, it’s right there.\nIt says, “Use your Dot to do this, that, and the other.” They really want you to go for it as a consumer, as long as you’re paying. This is for their $100 to $200 a month subscription tier, unlike Meta. That’s why there’s a huge difference here. For OpenAI, it seems like they don’t have the money to just front-load all of this and say, “Use it for free. No problem. We’ll catch up with you later.” \nOpenAI wants this to be a money-making product, and that’s why they’re marketing it to the enterprise. They talked a lot about privacy to try to set it apart from Meta’s Muse. They talked a lot about what you could do with this as a knowledge worker, whether you worked in marketing, graphic design, software engineering, product, and tons of different industries. They gave examples of how you could use this as an assistant, as a coworker. Sam Altman even referred to it as like a “chief of staff.” He didn’t want it to be just an assistant. He wanted it to be your chief of staff. \nSomething else that I thought was interesting is that Sam Altman seemed to subtly dig at Meta on stage a few times during DevDay. One of the times he said, “Look, I don’t want this to be just something that’s used to book flights or plan things with friends and look at your calendar. I want this to go beyond that and to really do knowledge worker tasks, things that you in your industry would need a niche assistant to perform.”\nThat’s why they also introduced specialist Dots that are good at marketing, legal analysis, and things like that. They’re really going for the enterprise angle here, but I think it’s also because they need money ahead of their IPO, obviously. \nYeah, the revenue piece — that it’s only for paid customers at their higher tiers — is really interesting. OpenAI’s tiers are very confusing, but it’s $100 and up, and that’s just going to keep a lot of people from using Dots at first.\nThe flip side of that is OpenAI does have a lot of customers who are paying them a lot of money, and if they can get those customers to start using Dots, then those customers will be on their agent platforms and maybe you will get some lock-in.\nYou’ve given those agents a lot of data. They’re part of your workflows, and that might solve the problem I think we’ve seen all the frontier labs have, where a new model comes out and it’s slightly better than the competitor model, and everyone switches for six months, and the next new model comes out and everyone switches back.\nIs there some thought that these agent platforms create lock-in — create actual loyalty on top of just the models being better?\nYes. They’re basically hoping that they can build a moat with their users for these things. If Meta and Google already have super easy integrations with all of each company’s existing tools and services, they can easily keep you there. \nFor example, I have an Apple iPhone, but I use almost exclusively Google apps. So if Google had an AI agent that I was using every day, it would be a little tough for me to switch. That’s what they’re hoping for here. \nMeta is hoping that they can get you so into the Muse ecosystem that it would be tough for you to switch, and maybe one day you do have to pay. With OpenAI, they’re trying to get you locked into their ecosystem right away. Even though you have to pay up front, they’re thinking, “We have integrations with almost every tool and service. Maybe it’s not as good as the company that owns that tool and service, but we have the variety and the breadth.” \nThey’re going for quantity here. One of their employees told me that. They said, “Maybe our Gmail integration, for example, isn’t gonna be as good as Google’s, but we have a Gmail integration and an Outlook integration and X, Y, and Z.” They’re going for just the power of choice and the fact that power users will hopefully stay in this moat.\nIt’s funny, you mentioned Google. Google announced an agent called Gemini Spark. We should mention that SpaceXAI, the very coherent company that everyone understands, has an agent called Grok Bot, which it is promoting heavily. People seem to like it. It was built by the Cursor team, which SpaceX acquired. \nThere’s a lot of this going around, but it seems like Meta really got there first with a consumer product that people could understand.\nObviously, Grok Bot and Dots are much more enterprise-focused, coding-focused. Why was Meta able to get there first?\nFrom all my reporting on Meta, they’ve been behind in AI for a while, and Mark Zuckerberg basically said, “We’ve got to lock in and make a product that people are gonna use on our platforms.” Alexandr Wang apparently was more looking to create a frontier model that was gonna compete with the other leading frontier models.\nHe says, “We have to think long-term. We have to think superintelligence.” But Zuckerberg says, “No, we gotta think cold hard cash, as in getting people to use stuff on our own platform.” Where they met in the middle was an AI agent that people would use on the Meta platforms, but that still represented a huge step forward, they hoped, for AI systems and what they could do in the everyday world.\nThis is a fascinating dynamic in that Meta still doesn’t have a frontier model. I don’t think anyone at Meta is claiming that the Muse Spark model competes at the frontier of GPT-6, but their product is better, and certainly they have a massive distribution advantage. They don’t have to pay for advertising on Meta platforms, and OpenAI does, and certainly they have a consumer design advantage. Meta is just better at consumer products.\nDoes that change how you feel about the dynamics of competition in AI at all? For so long, it’s just been about the capabilities at the frontier, but now it’s a little bit about marketing. It’s a little bit about product design. \nYou don’t have the best model, but you made a consumer agent product and you connected it to giving everybody a computer in the cloud, so now it can actually do things for you, and its frontier capability is actually not the important thing. It’s its capability.\nI think the more money and power you have at one of these companies, the more get mentally farther away from what the average consumer wants. Let’s say the average consumer does want an AI agent, which many of them don’t, as we know.\nBut let’s say they do. If they do, they’re going to want it to be free or cheap, and they are going to want it to be safe to use without creeping them out too much. They’re willing to deal with a little bit of creepiness in order for it to be free, but not too much. Meta’s Muse has made headlines about some of its privacy issues that have gotten a little bit above that comfort level for some users.\nThat’s probably why OpenAI at DevDay made a lot of remarks about privacy and the importance of that, especially if they’re trying to court enterprise users with their AI agents. Right now these companies, especially Meta, are trying to flood the market and create a mass market appeal for this stuff. Similar to how ChatGPT became the default AI chatbot, Meta wants to be that for AI agents, and they feel very hungry about it. They want to create a ChatGPT moment for this technology by making Muse the default for the general public. \nThere’s something really interesting about the idea that a less-than-frontier model wrapped in a better product is actually going to be the success story here versus a bleeding-edge frontier model that is a little bit harder to use.\nThere’s some dynamic in there that is the history of all consumer tech products, right? The worst product that’s easier to use often wins, but we haven’t seen that yet in AI.\nRight. That’s really important to note here because not everyone needs the bleeding-edge frontier model. Software engineers do. They see a huge difference with coding prowess from one model to another, and that’s why they’re always switching. But the general public, if they’re using an AI agent, as long as it’s useful, they’re good. \nHowever, not many of them are useful yet. We’re still testing Muse and Dots ourselves. For Muse, I saw a couple anecdotes yesterday that it had a big flop for a day or so. People felt like the capabilities got a lot worse. For Dots, the jury’s still out. We’re still testing it.\nIt depends on what industry you’re in and what you’re really using this stuff for. That’s why OpenAI is going for enterprise, because it makes money and they’re confident that their agent is going to be more and more helpful in these niche industries.\nThat’s also why they launched specialist Dots, because as we know, the more specialized, niche info you feed into an agent or model, the better it’s going to perform. They don’t want to have that imbued into every single general-purpose agent. It’s just too pricey and too compute heavy, so they say, “You know what? Let’s launch these specialists.”\nI feel like you and I talk about consumer versus enterprise adoption of AI every time you’re on this show, and here it seems very important to note that OpenAI asking people to pay a lot of money and asking people to use it primarily in enterprise context  is gonna overcome what I think of as the brittleness problem, just because enterprise and business customers have a lot of economic incentives to figure out how to make something work. \nIf I’m paying OpenAI $100 a month, and I’m using the marketing Dot to solve some marketing automation, and it doesn’t work the first time, it is very likely I will try again. Because if I get it right, then maybe I’ve saved some money or some time in my business that is really good, and I’ll do it again, and eventually that will lead to more revenue for me, the business owner. What I know about consumers is that the first time it doesn’t work, they just walk away. They have no incentive to try again to overcome frustration or brokenness.\nWe’ve seen this happen with Muse now a few times. I’ve seen it myself with Muse, where it pops open a browser and tries to do something, and it runs into a brick wall or a CAPTCHA or Amazon blocking it, and it says, “I can’t do it that way. Do you want me to try another way?” And I say, “Whatever. I was just screwing around, and I’m never gonna try it again.”\nThese are very different markets. OpenAI has vacillated between wanting to be the big consumer company and knowing that the revenue is in enterprise. Do you see any focus in Dots, or do you see that personality shift back and forth in the product itself?\nSo far, I’m a little bit more impressed with Dots than Muse, just because everyone was impressed with Muse right away, but since then there have been a lot of ups and downs, plus the privacy stuff has been really interesting. Even the fact that it’s building profiles on your family and closest friends.\nMeta has never been a super trusted company. None of these companies are very trusted, but Meta has made a lot of missteps with user privacy. Dots seems to be a little bit more helpful to me right now, but I’m still testing, I’m not fully sure yet.\nI need to run through all my typical things that I do to compare. Everyone has their own short list of tasks. Right now, for example, I’m trying to create an album of my bachelorette photos, and it’s been unbelievably hard to get any agent to try to do that, so I say, “I’ll just do it myself.”\nBut that’s a pretty easy thing to do. Once again, how useful are these things for our everyday lives, really? We’ll see. They’ve gotten a lot better, I will say, over the past few years. I’ve been shocked at how slow they’ve been moving, but they have gotten better. Dots is a little bit more impressive to me right now, but we’ll see.\nI have Muse plugged into my Instagram because I don’t worry about sharing my metadata with Meta in the way that I worry about maybe everything else, but they already have my Instagram. So I have Muse plugged into my Instagram, and it’s just doing all kinds of stuff. It surfaces interesting comments that I should reply to on Instagram posts. It tracks follower counts. It suggests things I should make videos about. \nIt has horrible ideas. Muse is absolutely convinced I should make a video almost every single day about obscure Australian tech regulation. I don’t know why it has this idea. I’m up on it now. I’m deep in the weeds on Australian tech regulation just because I see it every morning.\nBut there’s something about all that that still feels like work to me. I’ve just assigned it work, and then it tells me what work I should do, and I haven’t found some great consumer use for it yet. Organizing my photos is a consumer use. It kind of still rhymes with work, but it at least is not actually work.\nHave you found a great consumer use for these yet?\nNot one that works, and that’s the problem. I’ll try to have it do something for me for my wedding or for my personal life, and they haven’t been good yet. That’s why I’m still kind of running through and testing these, because so far it’s always interesting factually when they can do something, but I haven’t been able to trust them end-to-end with something that I really, really need done.\nIt reminds me of the analogy for AI agents. People always say right now they’re a bad intern, and what you want them to be is a really good assistant, or in Sam Altman’s words, a really good chief of staff. They’re no longer a bad intern, but I think maybe they’re an okay or “eh” assistant.\nI don’t think they’ve reached the point of being a really, really good assistant yet, but I still need to run through the rest of my tests to see. It seems they’re not super consistent yet, which is something that you need in a really good assistant. \nThat ties into trust. You’ve mentioned trust several times now. I’m only willing to give Muse access to, again, the Meta platforms that Meta already has access to. I can’t worry too much about that. I’ve given it access to my spam Gmail, so it is collecting a lot of ideas about my spam Gmail. \nBut Meta really wants my credit cards. It wants to go through all of my credit card receipts. This is one of the suggestions in Muse. One of its suggestions is, “Let me log into your credit cards and I’ll cancel streaming services you’re not using,” or, “I’ll negotiate your Verizon bill for you.” I am absolutely not ready to give Meta one ounce of data more than it already has.\nThis feels like a big issue for every agent. There’s an argument that you should give Meta all that data, one, because they already have it, and two, because they’re a big company that you could sue if they get something wrong. Whereas if I gave all of my data to OpenClaw, it’s just my own fault if it gets leaked.\nIf I gave all my data to one of the hot startups like Instinct and they go out of business, well, that’s just the end of that. How do you feel about this? Do you feel comfortable giving your data to Meta? Do you think people should do that?\nNo, I don’t feel comfortable, and I also don’t think that the general person does either. If I’ve seen one thing in a lot of the comments on our Meta story that we published in the last couple weeks, it’s that people don’t trust Meta at all. I have to say, why would they?\nBut I don’t think that you should trust OpenAI a lot more either. It’s everyone’s own comfort level that they have to abide by. Some people are going to get a lot out of this stuff. Some people may say, “I don’t care if they use my data as long as they are negotiating down my bill accurately or canceling streaming services that I wouldn’t be canceling on my own, so they’re saving me money. It’s fine.”\nBut one, are they actually gonna be able to do that accurately? Some people have said no. And as we know, when you release data like this, you can’t undo it. I always think about that old example of the insurance company that theoretically buys data on what’s in your fridge and maybe charges you a higher premium if you’re buying too much beer and not enough bananas.\nThat’s just a theoretical example, but that’s the type of thing that can happen. People should operate with caution, abide by their own comfort levels, but I’m certainly not comfortable yet giving my personal data to Muse.\nI don’t know that I’m comfortable giving access to that level. I don’t even know if I’m comfortable putting Muse on my Mac. Apple just recently changed how apps can access the disk on Macs because Muse was so aggressive about reading data. In particular, Jason Aten is a columnist at Inc. and it read his notifications off the disk because he had just given it a permission and he didn’t realize Muse would take that permission and go do something else with it.\nThis is a lot of spiraling concerns. You’re going to have a little robot that can use your computer for you, whether that computer is in the cloud or whether it’s on your desktop, and you might not know what it’s doing. That ties directly into the fact that OpenAI often doesn’t know what its agents are doing, and that has led to catastrophic security problems across this industry.\nCan you connect those dots? Is your own little agent doing your travel booking the same kind of threat as OpenAI’s agents hacking Hugging Face?\nI don’t think it’s the same type of threat, but it’s definitely something that you should keep in mind when you’re using this stuff. I link that back to the Facebook Marketplace debacle that we saw with Meta’s Muse. To recap, basically a Muse agent, without someone’s knowledge, invited a potential buyer of this item that this guy was selling to his house, and said, “He’s available now.”\nHe wasn’t home, and then the potential buyer said, “Are you here? I’m trying to get the item.” And then Muse responded on his behalf, “Yeah, I’m here,” and then he just never came down because obviously he wasn’t home. There was a lot of drama going on there. Some people said, “He did give Muse access to his Facebook Marketplace, so he should have known this could happen.”\nA lot of people don’t read all the fine print when they check “yes” to one of these things. There’s a lot there. There’s a lot to unpack in that gray area. But the point is that people should just be a little wary before checking “yes” to every possible thing that these agents want to access, like you said about the credit cards or disk access. \nIt’s easy to just check “yes” and say, “Whatever, I’ll figure it out later,” but people should be reading the fine print or even use AI to read the fine print. That is one great use of AI. Get it to read the terms and ask it, “What are the worst possible things that could happen here? Lay it out for me.”\nThose are things that people should keep in mind before they move forward. And then as for the so-called rogue AI agents that have been hacking other companies and stuff from these labs, it’s just important to notice that if they can’t control some of their most powerful unreleased AI models, how well are they going to be able to control your data or your agent?\nSam Altman said during DevDay that you have a ton of control over your Dot. He said that there were a lot of “if this, then that” rules you can create. There are a lot of specific stipulations that you could make in terms of permissions of what your Dot could and couldn’t do. So that did give people some peace.\nBut as we’ve seen, these labs and these large tech companies have had a lot of missteps about hacking other companies, and more are coming out every single week, more news items about these cyberattacks. We’ve seen Meta have one. We’ve seen OpenAI have a ton. We’ve seen Anthropic have a ton. \nThis is all just stuff to keep in mind. One cool thing that I saw someone do was to name their AI agent after the CEO that runs that company and then see how much data you feel comfortable giving it. If you want to do that, I think that’s a great idea, and then it just kind of makes you think twice.\nIf you’re saying, “Sam Altman, go through my email and see what needs to be deleted,” maybe you still feel comfortable with that, but maybe it makes you think twice and think, “You know what? Maybe I’ll give it access to my spam email only,” like you said. \nThis ties into the fact that all these things are really cute. Muse is cute. The mascot Jolly is very cute. Alexandr Wang has been waging a relentless campaign on X to make it not only cute but sexy, which you can feel any way you want about that. But he keeps tweeting memes of the mascot with a butt.\nDots are obviously very cute. They come in different shapes and sizes. There’s something here where you’re not quite anthropomorphizing the agent, but you’re making it a character and you’re giving it personality. \nThat connects to the idea that you’ve called AI Tamagotchis, where eventually we’re going to have a little hardware device with your little cute mascot on it, you’ll talk to that instead of your phone, and this is the big promise this whole industry has been working toward for forever. They’re gonna replace your phone and the entire paradigm of the App Store with AI agents that are going and using computers for you.\nDo you think that any of these products are a meaningful step towards that?\nThey’re just one building block along the journey of the goal that they’re chasing here. I haven’t heard of anyone that’s using Muse or Dots so far for everything. It’s not Jarvis from Iron Man, despite how much these CEOs want both these products to be that. They are a meaningful step, but as for the cuteness, I think one of the most important points here is that they are intentionally disarming.\nThese tools are made to be cute so you don’t find them threatening, or you find them decidedly non-threatening. They’re cute. They’re there to help you. It’s a response to the AI populism backlash. It’s saying, “This isn’t going to hurt you or do anything bad. It’s just a cute little thing with eyes, or a sexy little thing with eyes,” whatever. \nJust to be clear, I do not think it’s sexy. I think Alexandr Wang has been relentlessly trying to make it sexy. \n[Laughs] No, I also do not think they’re sexy, but I will say Elon Musk has been trying so hard to make all agents and chatbots sexy, so I’m sure it’s not far off for someone to think that.\nBut whether the AI agents of the future are cute or sexy, it’s going to be equally disarming. \n[Laughs] That’s the whole spectrum?\nThe spectrum, the cute-sexy graph. It’s going to be really disturbing to see when we go more along that graph. \nThe point is they’re supposed to be disarming and that people should really think twice before giving too much of their data, or just pick and choose what you’re comfortable sharing. Like how you did with the spam email versus your regular email, or saying “no” to giving it your credit card. These are both new products, so just see how the cookie crumbles before you decide to give everything over. We’re already seeing a bunch of changes week to week with how people are using Muse or what they’re upset about, so see how it shakes out.\nThe last piece I want to talk about is just how any of this makes money. You and I have talked many times about the bubbly nature of the AI economy. Zuckerberg has said his plan is for Muse to take a cut of transactions on the backend. \nZuck has given everybody a little Linux computer in the cloud with 8GB of RAM. Obviously, he’s given away tons of free tokens. He does not have to pay advertising costs. He can just put Muse across all of his platforms. To the extent that Meta is a well-oiled machine, the amount of Muse promotion that is happening across Meta platforms instantly is kind of incredible to see. They just turned it on.\nI saw an ad during NFL games this weekend from Muse. They are spending money to promote this. They’re giving it away for free. They’re giving the tokens away for free. And then somewhere at the end of this, they’re gonna say to merchants, “This person was shopping for shoes. Muse brought them to your doorstep. You’re gonna pay for this customer to buy shoes from you.”\nI don’t know any merchants that are excited about this, and it certainly feels like merchants that pay Meta more money would be preferred merchants, and that means that not only do I have an assistant or chief of staff, I have a bribable chief of staff. Like, I have a corrupt butler. Is that what you want?\nThat is a great term for it, a corrupt butler. That is not what I want, and I don’t think many people do. It’s just crazy to me that we’ve gotten so far from what people really want, which is they want to trust a recommendation and they don’t wanna be scammed, you know?\nThe leaders in AI don’t think about how certain things have been mirrored in other industries. Think about when people were paying for reviews for their businesses, or paying to delete reviews for their businesses. There was a huge uproar. \nOr influencers getting paid to recommend products without disclosing that it was an ad. We then saw the rise of micro-influencers, who were more valuable for a while because they were seen as more trustworthy. They didn’t have that many followers, so the things they recommended must be really good, right? And then we saw the, “Oh, okay, well, there’s #ad, but also they only said they were going to recommend things they really believe in, so it’s okay that it’s an ad.” \nThere are these mental gymnastics that people have to do to figure out what is really a trustworthy recommendation these days. What is going to convince people that an AI recommendation is trustworthy, if it can be bought?\nThat’s something these companies are really gonna have to reckon with. The ChatGPT ads blowback was huge, and OpenAI had to say, “It’s going to be a clearly disclosed ad underneath your query, not influencing your query.” If you’re using Muse to shop and it’s an undisclosed potential Meta customer that you’re being redirected to, to buy those shoes instead of these other ones, I feel like so many people aren’t going to use these tools to shop.\nI get it on the Meta side. I understand why they would think about monetization that way. They’re a consumer company. This is a consumer product. They know the second they charge even a dollar for it, the uptake will drop precipitously, so they have to keep it free, and then a bunch of people are going to want to shop and go buy a new iPhone cable. At the end of the day, it’s all just the same Amazon garbage anyway, so whatever. \nThen they can run an auction on the backend to say, “Who wants to pay us, Meta, the most for the privilege of selling an unbranded USB-C cable to this customer?” They’ll run some auction, and that will, in its way, just sort of maximize the money that gets turned around.\nThat is broadly how advertising works today. That’s how the Google Search results page worked until recently, because now it’s full of AI and they’re probably going to do the same thing. Meta can do that because they already have a giant advertising business that prints money. They can give away a consumer product.\nMark Zuckerberg has shown he’s willing to blow money trying to win a market like he did with Reality Labs for years and years and years, and they can just run it till it works. OpenAI, even at $100 a month, is probably not making money on those customers. In fact, I think we know they’re not making money on those customers.\nThey don’t have any monetization, and when they do try to turn on ads, people get mad at them. How can OpenAI keep up with Zuck?\nOnly via enterprise. That’s why they are pushing this so hard. We saw a ton of enterprise discussion, demo videos, customer feedback, and tons of other stuff at DevDay, and that’s why they’re pushing this so hard — because they can’t keep up with Zuck on the consumer front. They just can’t. \nThis is the part where, when people ask if it’s a bubble, I just find myself wondering how much of the economy does Zuck have to win in order to give away millions upon millions of free tokens and 8GB of RAM to everyone in the cloud?\nBecause that is just an expensive thing to give to everyone. How many percentage points of every shoe sale in America do you need to take to fund it? And the answer is it feels like a lot. \nThat’s huge here and something to remember because we already saw Zuck crash and burn with the metaverse stuff, and he does not want to be embarrassed again. So how long is this going to go on, and how are they going to fund it in a real way on the backend, like what you were saying?\nIt’s just a little bit tough to imagine. Luckily, Meta has a ton of money, and they can redirect stuff from other departments, which we’ve already seen them do a lot. It will be interesting to see how this fares on the next couple of quarterly earnings calls — to see how much money is being funneled into this and how much it is making, if any.\nAnd how many people are using it. Because they’ve announced it at the top of the App Store, but our own David Pierce has written an entire story about how being number one in the App Store doesn’t mean much. It’s sustained success that actually means something. \nIt reminds me of when I was in college and Uber and Lyft, or maybe it was just Uber honestly, were new and VC-backed, so it was around $4 to call an Uber anytime you wanted to go out or down to the bars or anything. They got everyone using it, and then they got everyone hooked, and then they had to up the prices.\nThat happens. That’s a tale as old as time with VC-backed products. So what I’m wondering is if AI agents are really going to become like that. Are they going to get enough users and enough like shoe sales on the backend that this is gonna be a really viable business model? Or is it just going to kind of be a potentially big bet that they switch away from later?\nThat’s what some Meta employees that I spoke with in our Meta piece told me. They said they expect this to be something that they’re putting out, trying to make a big deal of, and then they may evolve away from it later on, or at least partly. We’ll see how that goes.\nIf your bet is that the future of computing is talking to a little agent, it certainly seems like Meta has gotten farther along that path than anyone else. But we’ll see. OpenAI has hardware designed by Jony Ive that will theoretically come out. It is certain that Google and Apple and all the rest will respond at some point.\nHayden, this was great. Thank you so much for being on Decoder once again.\nThanks so much.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-10-08T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mein heutiger Decoder-Gast ist Hayden Field, der leitende KI-Reporter von The Verge, und wir diskutieren über die neue Welle verbraucherfreundlicher KI-Agenten. Wenn Sie diesem Bereich Aufmerksamkeit geschenkt haben, wissen Sie, dass KI-Enthusiasten Agenten schon seit einer Minute nutzen – Homebrew-OpenClaw-Setups führten zu einem Anstieg bei Mac Mi …",
+    "titleDE": "Können Sie darauf vertrauen, dass Metas Muse oder OpenAIs Dots Ihr Leben bestimmen?"
+  },
+  {
+    "title": "Artificial is a wicked satire that also sticks to the facts",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+    "description": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get it - is central to the film's narrative, which sticks remarkably close to the factual events surrounding the OpenAI CEO's rise to power with, and brief ouster from, the AI lab. \nThe film opens with a stunning shot of San Francisco's Golden Gate Bridge, which will turn into a metaphor for building all-powerful AI systems over the  …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-08T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Bei der New York Film Festival-Premiere von Artificial, Luca Guadagninos satirischem Biopic über Sam Altman, sagte der Regisseur auf der Bühne: „[Wenn] jemand Gott spielen möchte, ist das für mich sehr interessant.“ Die Idee, Gott zu spielen, und Macht im Allgemeinen – wer sie hat, wer sie unbedingt haben will und wer sie haben wird …",
+    "titleDE": "Artificial ist eine böse Satire, die auch bei den Fakten bleibt"
+  },
+  {
+    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+    "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "description": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+    "pubDate": "2026-10-08T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das globale Tech-Ökosystem trifft sich vom 13. bis 15. Oktober auf der TechCrunch Disrupt 2026 im Moscone West in San Francisco. Holen Sie sich jetzt Ihren Pass und sparen Sie bis zu 100 $. Holen Sie sich ein zweites Ticket derselben Art und sparen Sie 50 %.",
+    "titleDE": "5 Tage bis TechCrunch Disrupt 2026: Zahlen Sie an der Tür nicht mehr für Ihren Pass"
+  },
+  {
+    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+    "pubDate": "2026-10-08T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Zach Yadegari, der jugendliche Mitbegründer der beliebten Kalorien-Tracking-App Cal AI, hat ein neues Startup für persönliche KI-Agenten gegründet, das mit Instinct, Muse und Bee konkurriert.",
+    "titleDE": "Der 19-jährige Gründer von Cal AI hat gerade 10 Millionen US-Dollar für sein neues KI-Startup gesammelt"
+  },
+  {
+    "title": "Google releases a new local-first Granola competitor",
+    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "description": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+    "pubDate": "2026-10-08T13:28:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neue AI Edge Foresight-App von Google konkurriert mit Granola mit einem Offline-Notizschreiber für Besprechungen, der mithilfe der KI auf dem Gerät Gespräche transkribieren, Notizen erstellen und Fragen beantworten kann.",
+    "titleDE": "Google veröffentlicht einen neuen Local-First-Granola-Konkurrenten"
+  },
+  {
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+    "pubDate": "2026-10-08T13:20:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Boyu Capital und IDG Capital führten die Finanzierungsrunde an, und auch die bestehenden Aktionäre Tencent, HSG (früher bekannt als Sequoia China), ZhenFund und andere beteiligten sich.",
+    "titleDE": "Das chinesische Unternehmen Manus sammelt in der ersten Finanzierungsrunde seit der Trennung von Meta über 500 Millionen US-Dollar"
+  },
+  {
+    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…",
+    "pubDate": "2026-10-08T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. KI-Durchbrüche in der Robotik werden Ihr Leben in absehbarer Zeit nicht verändern. Der Hype um humanoide Roboter erreicht seinen Höhepunkt. Vieles davon beruht auf der Idee, dass ...",
+    "titleDE": "Der Download: KI-Straßensperren für Humanoide und tragbare Kofferdame"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "link": "https://openai.com/index/pollo-ai",
+    "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "pubDate": "2026-10-08T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Mit GPT-5.6, GPT-6 Astra und GPT-Image-2.5 hilft Pollo AI Entwicklern dabei, mutige Ideen in detaillierte Bilder und filmische Videoanzeigen umzusetzen.",
+    "titleDE": "Pollo AI verwandelt kreative Ideen mit OpenAI in Kampagnen"
+  },
+  {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "pubDate": "2026-10-08T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "LegalOn hat die geschätzten täglichen Codex-Kosten um 65 % gesenkt und gleichzeitig die Entwicklungsgeschwindigkeit beibehalten. Es ordnete Astra, Sol und Luna den Aufgaben zu und verwaltete Budgets strategisch.",
+    "titleDE": "LegalOn halbiert die Codex-Kosten und behält gleichzeitig die Entwicklungsgeschwindigkeit bei"
+  },
+  {
+    "title": "Why we’re watching these climate tech companies",
+    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+    "description": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. …",
+    "pubDate": "2026-10-08T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Woche haben wir unsere 2026-Version unserer Liste „Climate Tech Companies to Watch“ veröffentlicht. Es handelt sich um ein jährliches Projekt, das das MIT Technology Review-Team zusammenstellt. Unser Ziel ist es, einige der vielversprechenden und interessanten Fortschritte und Unternehmen hervorzuheben, die unserer Meinung nach in der Welt des Klimas Beachtung verdienen sollten ...",
+    "titleDE": "Warum wir diese Klimatechnologieunternehmen beobachten"
+  },
+  {
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "description": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
+    "pubDate": "2026-10-08T09:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die Geschichte ist eine Zusammenarbeit zwischen MIT Technology Review und Aventine, einer gemeinnützigen Forschungsstiftung, die Inhalte darüber erstellt und unterstützt, wie Technologie und Wissenschaft unsere Lebensweise verändern. Ein Roboter in Form eines Menschen – weiß mit schwarzem Kopf und Rumpf – taucht in Video-Feeds auf ...",
+    "titleDE": "KI-Durchbrüche in der Robotik werden Ihr Leben in absehbarer Zeit nicht verändern"
+  },
+  {
+    "title": "Building a safer path to autonomous industrial AI",
+    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "description": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…",
+    "pubDate": "2026-10-08T08:17:32.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Die industrielle KI tritt in eine neue Phase ein. Nach Jahrzehnten prädiktiver Analysen und anderer Spezialanwendungen ermöglichen Fortschritte bei Basismodellen, physischer KI und agentischer KI die Automatisierung komplexerer Aufgaben in industriellen Umgebungen. Aber im Gegensatz zu KI, die rein im ... agiert.",
+    "titleDE": "Aufbau eines sichereren Weges zur autonomen industriellen KI"
+  },
+  {
+    "title": "Disrupting AI-enabled “false front” operations",
+    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "pubDate": "2026-10-08T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI störte zwei KI-gestützte Einflussnahmeoperationen, bei denen falsche Journalisten und eine Denkfabrik eingesetzt wurden, um geopolitische Botschaften zu verbreiten.",
+    "titleDE": "Störung von KI-gestützten „Falschfront“-Operationen"
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "description": "The developer of Hermes Agent raised a $90 million Series B.",
+    "pubDate": "2026-10-07T20:48:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Entwickler von Hermes Agent hat eine Serie-B-Finanzierung im Wert von 90 Millionen US-Dollar eingesammelt.",
+    "titleDE": "Nous Research bestätigt, dass es einen Wert von 1,5 Milliarden US-Dollar erreicht hat, und führt KI-Agenten für Geschäftsanwender ein"
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "pubDate": "2026-10-07T20:22:37.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Microsoft hat die technischen Daten und den Preis für seine Surface Laptop Ultra bekannt gegeben, KI-PCs, die auf Nvidia-Chips laufen und für die Ausführung von KI-Modellen und -Agenten ausgelegt sind.",
+    "titleDE": "Microsoft veröffentlicht neue KI-PCs mit Nvidia-Chip und überarbeitetem Windows 11"
+  },
+  {
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "pubDate": "2026-10-07T18:30:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Metas KI-Agent Muse ist jetzt nur einen Monat nach seinem mobilen Debüt auf dem iPad verfügbar, da das Unternehmen die Reichweite und Integrationen des Assistenten rasch erweitert.",
+    "titleDE": "Meta’s Muse erscheint nur einen Monat nach seinem mobilen Debüt auf dem iPad"
+  },
+  {
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "pubDate": "2026-10-07T18:15:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Jugendschutzmaßnahmen von ChatGPT sollen gefährdete Benutzer schützen, aber neue Tests haben ergeben, dass der Chatbot weiterhin das Engagement in Krisen fördert und möglicherweise ungesunde Beziehungen zur KI selbst fördert.",
+    "titleDE": "ChatGPT for Teens sorgt dafür, dass Jugendliche auch in psychischen Krisen miteinander reden"
+  },
+  {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "pubDate": "2026-10-07T18:00:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI bringt eine neue Benutzeroberfläche auf den Markt, die ChatGPT interaktive visuelle Elemente bietet.",
+    "titleDE": "ChatGPT wird mit der Einführung einer neuen Benutzeroberfläche viel visueller"
+  },
+  {
+    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…",
+    "pubDate": "2026-10-07T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Medikamente zur Gewichtsreduktion zeigen Anzeichen einer Verlangsamung des biologischen Alterns, sagen Arzneimittelhersteller. Beliebte Medikamente zur Gewichtsreduktion können mehr bewirken, als Menschen beim Abnehmen zu helfen. Sie könnten auch langsamer werden ...",
+    "titleDE": "Der Download: Medikamente zur Gewichtsreduktion, die das Altern verlangsamen, und Kohlendioxid-Batterien"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "pubDate": "2026-10-07T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "College Planner kommt zu ChatGPT for Teens, um Studenten bei der Verwaltung von College-Bewerbungen zu unterstützen, zusammen mit neuen Lernkarten, Quiz und einem KI-Rat für Teenager.",
+    "titleDE": "Wir helfen Teenagern, die Zukunft der KI zu lernen, zu planen und zu gestalten"
+  },
+  {
+    "title": "Introducing Playground: Create and play custom games",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "pubDate": "2026-10-07T12:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Playground ist eine neue experimentelle Spieleplattform, mit der Sie benutzerdefinierte Spiele erstellen, spielen und teilen können.",
+    "titleDE": "Wir stellen vor: Playground: Erstellen und spielen Sie benutzerdefinierte Spiele"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "link": "https://openai.com/index/radisson",
+    "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "pubDate": "2026-10-07T07:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Radisson hat in Zusammenarbeit mit Accenture ein ChatGPT-Plugin mithilfe der OpenAI-Technologie entwickelt, das Reisenden dabei hilft, Hotels zu finden, zu vergleichen und zu buchen, während sie ihre Reisen planen.",
+    "titleDE": "Radisson Hotel Group bringt Hotelsuche in ChatGPT"
+  },
+  {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "link": "https://openai.com/index/gpt-6-for-everyone",
+    "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "pubDate": "2026-10-07T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "GPT-6 wird weltweit in ChatGPT mit intelligenter Benutzeroberfläche eingeführt und liefert schnellere Antworten mit visuellen und interaktiven Erlebnissen, die Sie erkunden und direkt nutzen können.",
+    "titleDE": "GPT-6 und intelligente Benutzeroberfläche für alle"
+  },
+  {
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "description": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+    "pubDate": "2026-10-06T19:21:14.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Die Kompromittierung von drei Domain-Registrierungen ermöglicht es Hackern, mit nicht autorisierten Zertifikaten davonzukommen.",
+    "titleDE": "Hacker erschleichen sich gefälschte TLS-Zertifikate für Google und andere große Dienste"
+  },
+  {
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "pubDate": "2026-10-06T16:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Atlassian und OpenAI erweitern ihre Partnerschaft, um Grenzmodelle mit Unternehmenswissen zu verbinden und Teams bei der Planung, Erstellung und Bereitstellung von Arbeit zu unterstützen.",
+    "titleDE": "Atlassian und OpenAI erweitern ihre Partnerschaft, um Unternehmenswissen in die Tat umzusetzen"
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "description": "The reports of OpenAI agents harming third-party sites keep coming.",
+    "pubDate": "2026-10-06T12:21:53.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Es kommen immer wieder Berichte über OpenAI-Agenten, die Websites Dritter schädigen.",
+    "titleDE": "OpenAI-Agenten versuchten, Wikipedia-Tools zu hacken und überfluteten sie mit Datenverkehr"
   },
   {
     "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
@@ -20,114 +530,34 @@
     "titleDE": "Lizenzkosten veranlassen 90 Prozent der VMware-Benutzer, Optionen auszuloten: Umfrage"
   },
   {
-    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-    "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-    "description": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge\t\n\nAn unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing.\nThe issue has been reported on Reddit repeatedly over the last few weeks, as recently as three days ago, across multiple types of Echo speaker. Multiple users have uploaded videos of the speakers' strange behavior. Here's one that Android Authority uploaded to YouTube:\n\nAmazon is aware of the issue, and told Android Authority in  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-06T10:53:11.000Z",
-    "source": "The Verge",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "link": "https://openai.com/index/jump-trading",
+    "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "pubDate": "2026-10-06T12:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Der Amazon Echo Studio ist einer der Lautsprecher, auf denen Alexa Plus läuft. | Foto von John Higgins / The Verge Ein beunruhigender Alexa Plus-Fehler hat dazu geführt, dass einige Smart-Home-Lautsprecher von Amazon Echo darauf reduziert sind, minutenlang, oft mitten in ..., nichts als „Lalala“ zu sagen – und manchmal zu singen.",
-    "titleDE": "Amazon Alexa Plus singt minutenlang gruselig „Lalala“."
+    "descriptionDE": "Jump Trading nutzt OpenAI, um die quantitative Forschung zu erweitern. Erfahren Sie, wie länger laufende KI-Workflows mehrere Datenquellen mit menschlicher Überprüfung kombinieren.",
+    "titleDE": "Wie Jump Trading die quantitative Forschung mit ChatGPT skaliert"
   },
   {
-    "title": "2026 Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-    "description": "",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "",
-    "titleDE": "Klimatechnologieunternehmen im Jahr 2026, die man im Auge behalten sollte"
-  },
-  {
-    "title": "Here’s how our climate team picked 10 promising companies to watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-    "description": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.  This year is shaping up to be one of the hottest ever recorded.…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Als sich das Team von MIT Technology Review daran machte, Unternehmen für die diesjährige Ausgabe unserer jährlichen Liste „Climate Tech Companies to Watch“ auszuwählen, fühlte sich die Herausforderung gewaltiger an als in jedem Jahr, seit wir mit der Zusammenstellung der Liste im Jahr 2023 begonnen haben. Dieses Jahr zeichnet sich ab, eines der heißesten aller Zeiten zu werden.…",
-    "titleDE": "So hat unser Klimateam 10 vielversprechende Unternehmen ausgewählt, die es im Auge zu behalten gilt"
-  },
-  {
-    "title": "WeLion New Energy and its semi-solid-state batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-    "description": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "WeLion New Energy ist bestrebt, sicherere und bessere Batterien herzustellen. Die Semi-Solid-State-Zellen des Unternehmens könnten die Sicherheit verbessern und eine höhere Energiedichte als Lithium-Ionen-Batterien bieten, um Elektroautos, Boote und Drohnen anzutreiben. Von den Elektrofahrzeugen, die Pendler nach Hause bringen, bis zu den Schiffen, die Waren transportieren ...",
-    "titleDE": "WeLion New Energy und seine Semi-Solid-State-Batterien"
-  },
-  {
-    "title": "Form Energy and its iron batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-    "description": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Form Energy baut eisenbasierte Batterien, die Energie für mehrere Tage speichern können. Das Unternehmen erhöht die Lieferungen in seiner Fabrik und unterzeichnet Verträge für kommerzielle Projekte. Neue Solar- und Windkraftanlagen erzeugen an den meisten Orten Strom günstiger als fossile Brennstoffe, aber ihre Leistung schwankt.",
-    "titleDE": "Form Energy und seine Eisenbatterien"
-  },
-  {
-    "title": "X-energy and its helium-cooled nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-    "description": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat—and lots of it. The manufacture…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "X-energy entwickelt kleine modulare Reaktoren, um einige der stromhungrigsten Nutzer der Welt zufrieden zu stellen: Industriehersteller, die hohe Temperaturen benötigen, um Milliarden Tonnen Beton, Kunststoffe, Fasern und Chemikalien zu produzieren. Sonnenkollektoren und Windkraftanlagen eignen sich hervorragend zur Stromerzeugung, aber ...",
-    "titleDE": "X-Energy und seine heliumgekühlten Kernreaktoren"
-  },
-  {
-    "title": "Energy Dome and its carbon dioxide batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-    "description": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.  As the world races to meet growing electricity demand, solar and onshore wind power have become…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Es besteht ein wachsender Bedarf an Langzeitspeichern, um den Energiebedarf zu decken und erneuerbare Energien im Netz auszugleichen. Energy Dome verwendet komprimiertes Kohlendioxidgas in seinen riesigen Netzbatterien, die bis zu 24 Stunden lang Strom liefern können. Während die Welt darum kämpft, den wachsenden Strombedarf zu decken, werden Solarenergie und andere...",
-    "titleDE": "Energy Dome und seine Kohlendioxidbatterien"
-  },
-  {
-    "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-    "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-    "description": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, aluminum, steel, and…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Brimstone macht Fortschritte bei zwei industriellen Problemen, indem es die Emissionen von Zement reduziert und eine Möglichkeit bietet, mehr kritische Mineralien in den USA zu produzieren. Wenn das Unternehmen beides mit denselben Steinen in derselben Anlage tun kann, würde es einen saubereren und effizienteren Prozess für die Herstellung von Steinen ermöglichen.",
-    "titleDE": "Brimstone und sein One-Stop-Prozess zur Herstellung von saubererem Zement und kritischen Mineralien"
-  },
-  {
-    "title": "WaveSave and its portable rubber dam",
-    "link": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
-    "description": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia have deployed it successfully. Now, the company is…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Da der Meeresspiegel steigt und sich die Überschwemmungsgefahr aufgrund der globalen Erwärmung verschlimmert, bietet der einfach zu errichtende tragbare Damm von WaveSave ein schnelles Reaktionswerkzeug. Menschen können den Damm nutzen, um sich und ihr Eigentum zu schützen, und er kann auch Süßwasser für die spätere Verwendung speichern. Gemeinden in Europa, Afrika und Südostasien haben...",
-    "titleDE": "WaveSave und sein tragbarer Kofferdam"
-  },
-  {
-    "title": "BasiGo and its fleet of electric buses",
-    "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
-    "description": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport operates. In a bid to contain the covid-19 pandemic in 2020, the Kenyan government…",
-    "pubDate": "2026-10-06T10:35:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Ziel von BasiGo ist es, die Zehntausende dieselbetriebenen Busse auf den Straßen südlich der Sahara durch Elektrobusse zu ersetzen, die weitaus weniger Emissionen verursachen. Das Pay-as-you-drive-Geschäftsmodell des Unternehmens hat dazu beigetragen, Elektrofahrzeuge erschwinglicher zu machen und verändert die Art und Weise, wie öffentliche Verkehrsmittel funktionieren. In dem Bemühen, ...",
-    "titleDE": "BasiGo und seine Flotte von Elektrobussen"
-  },
-  {
-    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "description": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\" \nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google's AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-05T23:09:55.000Z",
-    "source": "The Verge",
+    "title": "Sharing AI progress in mathematics",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "pubDate": "2026-10-06T12:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Möglicherweise erweitert Google seine KI-Funktion „Call for Me“ über geschäftliche Anrufe hinaus, sodass Sie damit Nachrichten an Freunde und Familie senden können. Android Authority berichtet, in einem APK-Teardown einen Einführungsbildschirm „Gemini Calling“ gefunden zu haben, mit Beispielen wie „Ruf Mama an und sag ihr, dass ich 15 Minuten zu spät komme …“",
-    "titleDE": "Gemini Call for Me könnte deiner Mutter sagen, dass du zu spät kommst"
+    "descriptionDE": "OpenAI veröffentlicht neue Ergebnisse zu offenen Problemen in der Mathematik aus einem internen Grenzmodell und teilt Lean-Proof-Formalisierungen und Forschungsdetails auf GitHub.",
+    "titleDE": "KI-Fortschritte in der Mathematik teilen"
+  },
+  {
+    "title": "Advancing computer use with Ironclad",
+    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "pubDate": "2026-10-06T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie OpenAI und Ironclad KI-Agenten in komplexen Vertragsabläufen schulen und bewerten, um die Computernutzung für die berufliche Arbeit voranzutreiben.",
+    "titleDE": "Mit Ironclad die Computernutzung vorantreiben"
   },
   {
     "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -140,146 +570,6 @@
     "titleDE": "MCP für die Agent-zu-Agent-Kommunikation ist möglicherweise das riskanteste Protokoll, von dem Sie noch nie gehört haben"
   },
   {
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-    "pubDate": "2026-10-05T20:36:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "OpenAI wird ChatGPT- und Codex-Texte in der EU mit einem Wasserzeichen versehen, um dem AI Act zu entsprechen. Durch die Bearbeitung könnten die unsichtbaren Markierungen schwieriger zu erkennen sein, heißt es.",
-    "titleDE": "OpenAI wird damit beginnen, den Text von ChatGPT in der EU mit einem Wasserzeichen zu versehen"
-  },
-  {
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "description": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg.\nThe service is launching as a pilot program with gradually loosening physician oversight. Two physicians will approve each AI-generated prescription before they're issued for the first 100 patients, but will start reviewing them only after they're prescribed for up to 500 patients. \"After that, physicians review a sample of at least 10% of  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-05T20:14:57.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Menschen in Utah können jetzt KI nutzen, um ein Rezept für eine Aknebehandlung zu erhalten. Am Montag gab das Gesundheits-Startup Nolla Health bekannt, dass Benutzer im Bundesstaat ihre Gesichter mit seiner App scannen können, wodurch sein KI-System den Schweregrad der Akne analysieren und autonom ein Rezept ausstellen kann, wie Bloom zuvor berichtete ...",
-    "titleDE": "Dieses Startup stellt KI-generierte Akne-Rezepte aus"
-  },
-  {
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-    "pubDate": "2026-10-05T19:33:53.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Reflection richtet Beam und Zukunftsmodelle an Unternehmen und souveräne Nationen. Der Vorschlag besteht darin, „KI-Fabriken“ zu bauen, ein Produkt, das es Institutionen ermöglichen würde, ihr eigenes maßgeschneidertes, lokales KI-System aufzubauen, indem sie die KI-Modelle von Reflection auf ihren eigenen proprietären Daten trainieren.",
-    "titleDE": "Reflection stellt Beam vor, ein offenes KI-Modell, das chinesischen Modellen bei geringeren Rechenkosten Konkurrenz macht"
-  },
-  {
-    "title": "All the drama around AI&#8217;s takeover of mathematics",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-    "description": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, barreling through the discipline with all the grace of a runaway bulldozer. Results that might normally have been celebrated have instead sparked backlash. AI labs say they are learning from earlier mistakes. Whether those promises bear fruit remains to be seen.\nRead on below for the latest updates in the AI takeover of mathematics.\n\n\n\t\t\t\t\t\nOpenAI keeps bulldozing mathematicians\n\t\t\t\nOpenAI wants to consult elite mathematicians about how to not fumble again\n\t\t\t\nOpenAI just wants to win\n\t\t\t\nMathematicians want proof OpenAI didn’t use their work \n\t\t\t\nOpenAI’s sly mathematical breakthrough sends a chill through academia\n\t\t\t\nDrama swirls around OpenAI’s legendary mathematical milestone\n\t\t\t\nWelcome to the AI crisis in math\n\t\t\t\nThe AI takeover of mathematics has begun",
-    "pubDate": "2026-10-05T19:28:59.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Im vergangenen Jahr haben OpenAI, Anthropic und andere Labore Durchbrüche bei zahlreichen seit langem bestehenden mathematischen Problemen angekündigt, die in einigen Fällen weit über das hinausgingen, was Forscher von aktuellen Systemen erwartet hatten – einschließlich der Lösung eines der berühmten Millennium-Preis-Probleme. Aber im Unterricht...",
-    "titleDE": "Das ganze Drama rund um die Übernahme der Mathematik durch KI"
-  },
-  {
-    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-    "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-    "description": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms.\nThe activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation hosts, and heavy traffic that the foundation says \"may\" have contributed to a partial outage that happened in May, according to a blog post. However, the Wikimedia Foundation says it didn't find evidence that its systems were \"used for coordinat …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-05T19:05:19.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nach zahlreichen jüngsten Enthüllungen über KI-Agenten, die auf Websites und Dienste Dritter zugreifen, sagt die Wikimedia Foundation, die Wikipedia hostet, dass sie „bestätigen kann, dass wir einige Aktivitäten“ von „schurkischen“ OpenAI-Agenten auf Wikimedia-Plattformen entdeckt haben. Die Aktivität umfasst Bearbeitungen an Wikimedia mit...",
-    "titleDE": "Wikipedia-Betreiber sagt, OpenAIs „Schurken“ Bots könnten mit einem Ausfall im Mai in Verbindung gebracht werden"
-  },
-  {
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-    "pubDate": "2026-10-05T18:54:30.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Instinct führt Gruppenchats ein, die es Freunden ermöglichen, seinen KI-Agenten gemeinsam für Aufgaben wie die Planung von Reisen, die Organisation von Fahrgemeinschaften und die Koordination von Veranstaltungen zu nutzen. Das Unternehmen gibt an, dass persönliche Konten getrennt bleiben und eine Genehmigung erforderlich ist, bevor persönliche Agenten Informationen weitergeben oder Maßnahmen ergreifen.",
-    "titleDE": "Instinct bringt seinen KI-Agenten in Gruppenchats mit, auch für Freunde ohne Konto"
-  },
-  {
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-    "pubDate": "2026-10-05T18:29:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "TikTok beschreibt seinen neuen Einkaufsassistenten als einen dialogorientierten KI-Agenten, der Nutzern dabei helfen soll, Produkte zu entdecken und zu kaufen.",
-    "titleDE": "TikTok führt einen KI-Einkaufsassistenten und einen One-Click-Checkout ein"
-  },
-  {
-    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-    "description": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. \nOpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU's AI Act; however, not everyone was happy to learn about the addition.\nOpenAI also included scores from AI benchmarks showing similar performance from watermarked and unwatermarked text. But it notes that textGrain \"does not guarantee  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-05T18:08:39.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein unsichtbares, maschinenlesbares Wasserzeichen in der Textausgabe wird für ChatGPT und Codex eingeführt, zunächst jedoch nur für Benutzer in der Europäischen Union. OpenAI sagt, dass sein textGrain-Wasserzeichen andere Ansätze wie Google DeepMinds SynthID für Text, das auch die Grundlage für das Wasser darstellt, „übertroffen oder übertroffen“ hat ...",
-    "titleDE": "OpenAI fügt Textwasserzeichen in ChatGPT und Codex hinzu"
-  },
-  {
-    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "pubDate": "2026-10-05T17:29:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Hot Girl Hotline wurde von zwei Schwestern gegründet und nutzt KI, um jungen Frauen personalisierte Dating- und Beziehungsratschläge zu geben, wobei der Schwerpunkt auf Sicherheit und der Vermeidung emotionaler Abhängigkeit liegt.",
-    "titleDE": "Hot Girl Hotline ist wie „Dear Abby“ für die KI-Ära"
-  },
-  {
-    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-    "description": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic.\nThe interruption came shortly after Guiducci asked Altman if he knew who Laura Reiley is, a journalist who wrote an essay for The New York Times about her daughter's conversations with ChatGPT before she took her own life. \"Her daughter committed suicide after speaking to ChatGPT. ChatGPT did not tell her to kill herself-\" Gu …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-05T16:55:42.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein OpenAI-Publizist versuchte, das Thema des Interviews von CEO Sam Altman mit Mark Guiducci von Vanity Fair zu ändern, nachdem der Redakteur den Selbstmord eines ChatGPT-Benutzers zur Sprache gebracht hatte. Als Guiducci Altman mit dem Vorfall konfrontierte, warnte die Publizistin Guiducci davor, dass ihnen die Zeit davonlaufe, und sagte, sie würde gerne „von … gehen“.",
-    "titleDE": "OpenAI PR fordert den Journalisten auf, „weiterzumachen“, während er Sam Altman nach dem Selbstmord eines ChatGPT-Benutzers befragt"
-  },
-  {
-    "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-    "description": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way.\nThe OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, without elaborating on the potential benefits. His comments come as OpenAI pushes for a \"lighter touch\" approach to AI regulation amid intensifying anxiety over the safety of frontier models - fears fueled in part by the company's repeated failures to keep its increasingly capable AI agents from hacking real-world targets. \nI …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-05T16:44:21.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sam Altman glaubt, dass die Vorteile der KI so groß sein werden, dass „die Welt akzeptieren sollte, dass auf dem Weg einige schlimme Dinge passieren“. Der CEO von OpenAI verwies auf Hacks, Betrügereien und „andere schlechte Dinge“ als Kosten, mit denen die Gesellschaft rechnen sollte, weil „die Menschen enorm viel mehr tun werden …“",
-    "titleDE": "Sam Altman sagt: „Einige schlechte Dinge“ wird passieren, aber KI ist es absolut wert"
-  },
-  {
-    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "pubDate": "2026-10-05T16:43:35.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der KI-Interviewer von HackerRank hat bereits mehr als 500.000 Interviews durchgeführt, darunter Snowflake, Snorkel und Capgemini zu seinen ersten Testern.",
-    "titleDE": "Der KI-Interviewer von HackerRank bietet einen Einblick, wie Vorstellungsgespräche aussehen könnten"
-  },
-  {
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "description": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-    "pubDate": "2026-10-05T15:14:24.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neuen Anzeigen werden ab Ende dieses Monats vorerst nur in den USA geschaltet und werden Produkte und Dienstleistungen einer ersten Testgruppe von Werbetreibenden vorstellen.",
-    "titleDE": "OpenAI startet visuelle Anzeigen, die neben den Ergebnissen der Bildgenerierung erscheinen"
-  },
-  {
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "pubDate": "2026-10-05T15:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie Gründer bei TechCrunch Disrupt 2026 zwischen dem Aufbau auf offener oder geschlossener KI wählen. Registrieren Sie sich jetzt, um bis zu 100 US-Dollar zu sparen und einen zweiten Pass mit 50 % Rabatt zu erhalten.",
-    "titleDE": "Offene oder geschlossene KI? Wie Gründer entscheiden, worauf sie bei TechCrunch Disrupt 2026 aufbauen möchten"
-  },
-  {
     "title": "Our approach to EU text provenance rules",
     "link": "https://openai.com/index/eu-text-provenance",
     "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
@@ -290,66 +580,6 @@
     "titleDE": "Unser Ansatz zu den EU-Textherkunftsregeln"
   },
   {
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "pubDate": "2026-10-05T14:35:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Unabhängige Forscher entdeckten einen Agentenschwarm, der offenbar auf der Infrastruktur von Tencent läuft und Alibabas Kartendienst Amap ins Visier nimmt.",
-    "titleDE": "Forscher verfolgen eine chinesische KI-„Agentenflotte“"
-  },
-  {
-    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-    "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-    "description": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this moment in time.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nBut as you’ll hear, he started our conversation by talking about the self-dealing and corruption present all through our politics. That of course fell against the backdrop of President Donald Trump gathering AI CEOs to the White House to sign a nonbinding pact in which they agree to, you know, do a good job keeping AI safe.\nI asked Schiff if he thinks that’s enough, how he thinks a more formal regulatory framework would look, and what might happen next if Democrats retake Congress in the midterms — all the way to whether he’d support impeaching the president (again) over all that corruption. We also spent some time comparing and contrasting how you might regulate AI with where we’ve landed regulating social media.\nOne nerdy note: You’re going to hear me ask the senator about something called Chevron deference and a Supreme Court case called Loper Bright. Basically, the Supreme Court overturned a Reagan-era precedent saying courts would defer to experts in agencies when the law was vague.\nNow, the courts get to decide, which could cause any new regulation to get immediately tied up in litigation. That seems awfully relevant to the idea of creating a new agency to regulate AI, which Schiff supports doing.\nOkay: California Sen. Adam Schiff. Here we go.\n\n\nThis interview has been lightly edited for length and clarity.\nSen. Adam Schiff, you’re a United States senator from California. Welcome to Decoder.\nThank you. Great to be with you.\nI have been asking every politician who comes on the show this very basic question here in 2026. Senator, what the hell is going on in our country?\nIt’s a very good question. I think we have seen things take place in the last couple of years in particular that we’ve never seen before. There’s sadly rampant corruption within the administration. Every day, every week, it’s a new thing. At the moment, I think what is most jarring is seeing campaign ads aired of the president that are paid for by taxpayer dollars. But every week it’s something else. It’s excluding press from the White House or Air Force One, or it’s some new moneymaking scheme or some new vanity project. If you look at, for example, the triumphal arch, they’re now claiming it’s a national security issue because they want to store ammunition in it. And why do they want to do that? Because the best legal argument they have is that this is not just cosmetic, that they have some national security purpose.\nSo what are we seeing in the country? We’re seeing chaos and no focus on the cost of living and improving the quality of people’s lives at the administration level, or by my Republican colleagues in Congress, but I’m hoping that changes.\nThe national security piece is very interesting to me in the context of a bunch of questions I have for you, because the Trump administration loves to justify every single thing it does by saying it’s national security, and it can’t be questioned, and this should bring more authority to the executive branch in one way or another. And they’ve been doing that since the beginning.\nBut just this week, we had a bunch of tech executives at the White House signing a non-binding promise to evaluate their own AI systems. And there was no national security concern that made any of that binding, even though they are among the most prominent people in the country saying they might kill everyone. Can you square that circle at all?\nIt’s very hard to square. It was interesting to see all those tech leaders there signing onto this voluntary pledge on the one hand and on the other hand, away from the White House grounds, away from the president, being very public and saying, “We need regulation. We don’t want this to be just ‘Trust us, we’ll do the right thing.’” So yeah, it was very distant, very jarring. None of these companies want to incur the wrath of this very vengeful president. Apparently, they will say what he wants them to say in his presence. But the reality is, there is a real national security threat here. As these models become more and more advanced, as they advance themselves through this recursive AI, we have less and less of a sense of what they’re doing, how they’re deciding what they’re deciding, and what they’re trying to access lawfully or unlawfully.\nThat is a national security concern of the highest order. There are other security concerns too. The unbridled implementation of AI at the Pentagon can result in calamities, and we need to investigate what role AI may have played in target selection in the bombing of that Iranian girls’ school, for example. There has been an effort to go after Anthropic, because Anthropic wanted to insist on not using AI for domestic mass surveillance or for fully autonomous weapons systems. That’s a national security issue. And their response in the administration was to try to kill Anthropic, and they’re still at it. So lots of national security concerns, none of them aired.\nWhen the president was asked about this by a reporter, he said, “Well, the world doesn’t have to worry about this because these companies love America.” I’m not really sure that’s much of an answer. And when he was asked, “Well, isn’t there anything else that’s necessary?” He pointed to his brain and wanted people to take comfort that he has, I guess, a very big brain, he tells us. He’s a stable genius, and therefore we don’t need to worry.\nHe’s passed all the tests. So I’ve been told.\nYou are obviously on a number of committees, but most importantly, I think for this conversation, you’re on a number of subcommittees as part of the Senate Judiciary Committee that are in the strike zone for AI. So you’re the ranking member on the subcommittee on Intellectual Property, you’re on the Privacy, Technology and the Law subcommittee, and then, of course, the Antitrust Competition Policy and Consumer Rights Committee. I just look at that list, and that is the dead center of the AI regulatory debate. \nWhat’s the conversation in Congress like as you debate these issues? In particular, I look at the IP issues, and they seem existential to these companies. If we start charging them for training data, they might not exist anymore.\nI think that’s right. When you look at, for example, all of the IP that’s been vacuumed up by these models to train these models, that’s a lot of the value of some of these entertainment companies. And so they live or die on the strength of their IP. But what makes this challenging is that not all of the players in the industry are the same. You’ve got big streamers involved; you’ve got big technology companies involved. You’ve got companies whose AI or their technology portfolio is much more important to them than the IP value of their film library. I don’t think the film library at Amazon is Amazon’s most important business. If it was, they probably wouldn’t have made the movie Melania. But my favorite review of that, by the way, was the Variety reviewer who said, “If you watch that movie on a plane, you would still walk out.”\nBut the IP issues are really important. Senator Curtis and I are working together on them to begin by saying, we want to know what copyrighted material, what protected material, was used to train these models. And then we can have a discussion about what’s fair use and what isn’t, but we need these companies to retain that information. But lots of other IP issues, some beneficial. We had a hearing on the patent office, and the patent office’s use of AI to more quickly get through the backlog of patent applications. So there are going to be good applications too in the IP area, but also a lot of worry about what it means for people’s creative talents.\nI wanted to start with IP, not just because I’m a failed former copyright lawyer myself, and emphasis on the failed. I was no good at it. But it just seems like what this industry needs right now is a pretty holistic approach to regulation. So are the inputs of the models being collected in a legal way that benefits the ecosystem that created them? Are the studios going to get paid for a bunch of training data? Are website operators going to get paid for training Google’s models that they scrape with search? And then you’re on to, do they need an antitrust exemption so they can coordinate on safety and they don’t kill us all? And there’s a whole list of things in between those two ideas that also need some regulatory frameworks, that might just need some basic transparency laws.\nWhat do you think about that? Is our government prepared to start at the beginning, and end at the end, and do all the steps in the middle?\nWell, how I think about it is you’ve got all the input issues, and it really seems like the thought at these companies was, “We’re in a race. We’re just going to vacuum it all up. And yes, this probably violates a lot of the IP laws, but if we don’t do it, the other companies are going to do it. We’ll worry about the legality later.” So that’s what they’ve done. And of course they’re being sued by different parties, and some are settling these cases, and some are fighting these cases. But they began the process by just deciding they were going to ignore IP law, and they were just going to take [IP] and worry about the problems later.\nAnd then, in terms of the outputs, it has taken us to where we are today for these companies, I think, to consider the safety of the outputs. Do we need to start slowing down the pace of our development of these models because we don’t trust the outputs? We don’t know where they’ll lead. We can’t even control these models ourselves, let alone provide these models to the public, to good actors, to bad actors, and expect that we’re not going to have some terrible result. In terms of how I think about this holistically as a legislator, this is crying out for legislation. I am, I’ll be honest, very circumspect about Congress and legislating the tech sector because we did such a — I don’t know what language I’m allowed to use here — but such a shitty job when it comes to any kind of regulation of the harms, the societal harms coming out of social media.\nWe’re going to have to do a much better job and much more quickly when it comes to AI, because the threats are even more significant and we’re already at the point of strong potential harms. It can’t wait. We certainly can’t take the kind of years we’ve taken to try to even wrap ourselves around social media.\nCan I ask about that comparison? I hear it a lot. I hear it from politicians. I hear it from the industry itself. I hear it from parents, of course. It seems to me that the problem with social media regulation was never that we’re too slow, or that no one can come up with an idea; it was always the very existence of the First Amendment. The thing you needed to do with social media was regulate the flow of disinformation, or keep teens from bullying one another, or from posting pro-anorexia content.\nAll of that came down to being speech regulation. The companies knew this; the tech companies absolutely knew this. And I remember they would put up billboards in DC. Meta would put up billboards saying, “We welcome regulation.” Then I would listen to the ideas for regulation, and they would crash headfirst into the First Amendment, and then nothing would happen.\nAnd it seemed like that paralyzed us from doing things like privacy regulation, because it was tied up next to the very idea of social media. It doesn’t feel that way with AI. Do you and your peers in Congress draw the distinction that it isn’t the First Amendment preventing you from doing a lot of the things that you might do for social media, in the AI case?\nHonestly, I don’t think it was the First Amendment that was the issue in regulating social media. I think the First Amendment was certainly used by companies that didn’t want regulation to try to argue everything was a First Amendment issue, when so much wasn’t a First Amendment issue. The threshold question in terms of regulation of the social media companies is: is the broad immunity they have under Section 230 still working? The industry asked for that one-size-doesn’t-fit-all immunity because it said, “We’re a nascent industry, don’t regulate us, don’t inhibit us. If you try to regulate us, then we will feel, or if we’re not immune, that it’s necessary to take down content because we might get sued over it. We want to be good actors. We want to take down offensive conduct, but we don’t want to get sued for that either. So give us carte blanche.”\nAnd they got it. They got carte blanche, and they have not been good citizens, corporate citizens, and they’ve allowed a lot of harm to take place, and they’ve trained their algorithms for addiction. So much of the content has been harmful to young people, and so much of the content has violated their own policies, but they have been immune from any consequences because of the breadth of what Congress gave them. Now they found it, I think, strategically, a good strategy is to frame these things as the First Amendment, and to attack the other side and say, “Oh, there’s a bias that is against conservatives,” or whatever. It was all in the service of keeping that unregulated.\nSo I really don’t think the First Amendment has been the issue, but I think it has been utilized as a bludgeon to try to stop any kind of meaningful regulation. I similarly worry that all of the money around AI may result in the same paralysis if members of Congress aren’t willing to do the right thing, and aren’t willing to put in place safeguards regardless of how much different industry players might spend.\nWe’ve had Sen. [Ron] Wyden on the show many times to talk about Section 230. I won’t go too far down that rabbit hole. The dynamic there was that Section 230 provided the immunity that you’re describing, but it was immunity for speech that would otherwise be illegal. And so it was speech that was defamatory. There’s a whole category of speech that isn’t illegal. Are you saying that taking the 230 immunity away from the social platforms would somehow make them moderate lawful but awful speech? And I bring this up because I’m very curious about how you would apply it in the AI case as well.\nYeah, no, I think that is the case. That part of their argument was, ” We want to take down really nasty, offensive, racist content, but we will be afraid to do so if you don’t give us immunity. So give us immunity, and we’ll take all that bad stuff down.” They got immunity. And I don’t know if you’ve been on X lately; it’s a cesspool. So giving them broad immunity did not allow them to enforce their community policies. And the First Amendment prohibits the government from dictating speech or prohibiting you from saying things. It doesn’t prohibit a private party from saying, “We don’t want racist content on our platform.” So there’s no problem with a private platform saying, “That violates our policy. We’re not going to post it.” And they’re not utilizing that immunity in a good way. So why should they continue to have it?\nNow, we may want to create a safe harbor for companies that are meeting best practices and standards. So we may want to narrow 230 instead of getting rid of it. What is the analogy in terms of AI? I’m not sure what the analogy is.\nLet me draw you the connection that I’ve been thinking about a lot. In the case of social media and Section 230, the immunity was that the platforms would not be responsible for the speech of the users. So I would post something horrible about you, and you couldn’t sue Mark Zuckerberg. This is the thing that has broadly enabled the social media platforms at scale.\nI opened Instagram today, and it is all but making the content for me. And in fact, a lot of content on Instagram is being generated by Meta. It is obviously their speech. And somewhere between having your Muse go and make Instagram for you, and Meta synthesizing all of the product recommendations and generating content all by itself, is a liability for Meta. It is outside of the Section 230 shield. That is their speech.\nAnd you can draw a lot of distinctions there. If I fully automate my Instagram account with my Meta agent, is that my speech, Meta speech, or the AI model’s speech? Who knows? But it might not be under 230. So you would be outside of the immunity shield. And I’m just curious if you think that will meaningfully alter how they moderate.\nI agree with your analysis, but I think it’s a difficult enough legal analysis that they feel they’ve got the money to stop, or slow down, effective litigation. Meta, or any of these other companies, decides how they want to amplify certain content. So let’s say it’s content that I generated. Is it still solely my speech if Meta spends a fortune to amplify it to so many users who wouldn’t have heard it, but for Meta making that decision, or is it now both of our speech? I’m not sure exactly where that line is. If it’s obviously purely Meta content, then it’s pretty simple, but there are going to be a lot of cases in between.\nBut I think the broader question is: is 230 in its current form still meeting its purpose? I don’t think it is, but I know there’s no consensus over what that ought to look like. And that is part of what has hampered us from doing anything. But even the smallish stuff, the small-bore stuff like don’t allow your platforms to encourage people to commit suicide has been hard for us to do in the social media context. Really, litigation has been more effective than legislation because we haven’t been able to legislate. If you look now to AI, we made some progress legislatively, at least in terms of the process in trying to prevent AI chatbots from telling kids how to commit suicide or keep it from their parents. But even those little things are still not at the finish line. So what does that say about our capacity to do the big things?\nHistorically, when stuff is tough like this, we wait for calamity. And in the case of AI, because that calamity could be just massive, we can’t afford to do that.\nIt does seem to me like we’re about to run a fairly large-scale A/B test on the value of the 230 immunity. Whatever ChatGPT is saying to people is very clearly OpenAI speech. And then somewhere next to that is the kind of clarification law that AI companies are talking about in terms of agents and things like the Hugging Face attack, where they don’t know if a user directing an agent to do something bad is their fault. Whether that liability should pass through them if I’m the person who told my agent to go do some horrible hacking attack.\nI talked to the tech industry, and the thing they want from legislation is actual clarity in the law. And instead, what we’ve gotten is this non-binding agreement with the Trump administration that simply says things like, “The companies will empower an internal team to ensure all of the controls, monitoring, and detection are operating as intended,” which feels like nothing. To me, that is literally meaningless. Does that strike you as toothless and as meaningless as it does to me?\nYeah, it certainly does. I think it really is meaningless. I’ve been thinking about the question you just raised. It’s interesting that you brought that up, and that is: where does the legal liability rest today? So if you have these bots hacking into Australian websites, or you have them hacking into Hugging Face, clearly that is the responsibility of these models because that’s not being done at the behest of one of their customers.\nBut let’s say you build a tool for the purpose of hacking, or that can be used for hacking, and one of your clients, one of your users, uses that tool that way. How much of that is your responsibility? Is it analogous to somebody who sells a gun and then the gun seller says, “Well, it’s not my responsibility for how they go out and use it”? Or is it someone who sells a weapon that is flawed and causes injury because of a flaw in the manufacture of the weapon? Or is it selling a weapon to a kid who’s not eligible to buy it, or to a convict, or not using due diligence? What is AI responsibility? What is the company’s responsibility in the sophistication of the products if they’re building things that the plain use can be to commit ransomware attacks?\nI think that the gun metaphor is a good one. It’s easy to grab onto for a variety of reasons, but I tend to think that it kind of obscures the reality of the capabilities of the model. So OpenAI’s latest model, Mythos, can be used for offensive cyberattacks, and it can be used on defense too. And the cybersecurity firms that we cover, they want it. Their argument is, “We actually need to take humans out of the loop so that our cyber defenses can be as responsive and fast to incoming AI-powered cyberattacks. And if we insistently put humans in the loop, then we will be slow, and the attackers won’t have the same morals or ethical qualms we do, and we’ll lose.” And this is all just a dance around, well, the model in this case can be used on offense and on defense, and it should be equally capable on both sides.\nI don’t see a regulatory framework that provides clarity for any of the frontier labs to be able to sell that thing and not feel like, well, if the equally capable defensive model gets used in the wrong way, that they won’t be liable. And I think that’s frozen some of this development in its tracks. I’m wondering, again, just from a legislative perspective, these are thorny questions. If you try to write a bill to provide some of this clarity, it will necessarily have to be vague on the margins because the technology is moving so fast. What is that debate like for you?\nWell, I think what it means is that this debate is going to keep evolving as AI evolves and at a speed that is really much faster than Congress has proven capable of legislating. I like to say that in the technology world, Moore’s law is increasing productivity, doubling it every 18 months, and with AI, maybe that’s quadrupling it every five months. The legislative calendar works more on a Murphy’s law timetable.\nAnd I think that disparity is even more pronounced in the area of AI. What I think that translates into is that we’re going to need a regulatory body that has real discretion and real expertise that can move a lot quicker than Congress can. Whether that looks like an FDA for artificial intelligence or some other agency, I think that’s ultimately going to be necessary. That agency’s going to have to have real power and teeth and real expertise. It’s going to be a challenge, as with these independent monitors: if there’s a government component there, how do we afford that? Because there’s so much talent, and that talent can draw much bigger salaries in the private sector. But I do think we’re going to need a regulatory body in addition to whatever the overarching statutory framework is.\nWell, in addition to being a bad lawyer, I was a very bad law student, mostly majored in Miller Lite, but it’s fine because every foundational precedent that I was taught in law school in 2003 has been overturned by this Supreme Court. And the most important one in this context is Chevron deference. In Loper Bright, the Court said we no longer have to defer to the experts at agencies; go ahead, corporate interests, tie every regulation up in litigation, and then we’ll decide. The Roberts Court will decide if these are appropriate regulations.\nThis strikes me as a huge problem for the idea that we will set up a regulatory body to oversee AI. Because what you’d want is a bunch of experts in that agency making decisions on the margin, saying, “Okay, here’s a vague enabling statute that Congress passed that said, ‘Pass all appropriate regulations to keep us safe.'” And then you would write a bunch of regulations inside the agency, and until last year — no, I’m sorry, until 2024 — that’s how it would work. That’s gone. If you enable an agency in that way, OpenAI can show up and say, “That’s inappropriate. We actually don’t think that’s right.” And they would tie it up in litigation forever. How do you get over that if you want to set up a regulatory body?\nIt’s very difficult for the reason you mentioned. The Supreme Court is a lot of things today. It is now a partisan institution. It is, in my view, a right-wing social institution, but there’s one common denominator that runs through its decisions. That common denominator is not always pro-Trump. The common denominator is money. That court makes the decision where the money is. \nSo when it involves, for example, tariff decisions, it will rule against the president because tariffs impact the money. It will allow the president to remove independent heads of agencies, except maybe the Federal Reserve, because that’s where the money is. And so you’re right, they are corporatists first and foremost, and they’re more than content to take power away from Congress to regulate and away from regulatory bodies. It does mean that we are going to have to draft legislation in this area empowering the agency and making it as specific as we can, make these agencies as powerful as we can, delegate as well as we can, knowing that the Supreme Court will strike down anything that is in any way ambiguous if it suits the money interests.\nThere’s a lot of political realignment happening around AI and with privacy, which I want to talk about in a little bit. It feels like there’s more across-the-board antipathy towards AI companies that might be harnessed into writing an actual piece of legislation and getting it passed. We see it on the right and the left. You see it in the backlash to data centers. This is a story that is happening on the right and the left.\nWe have a big story about the Utah data center: Kevin O’Leary got himself in trouble for calling all of his detractors Chinese agents, and he had to issue an apology because the people of Utah are not Chinese agents. That doesn’t feel like a left-right breakdown to me. How does that feel to you? Is this something that you can actually channel from across the spectrum into a meaningful policy outcome?\nI don’t think this is a partisan issue. I mean, it’s certainly true that the president is all in for AI, no restrictions, no impediments, no pacing, no nothing. And there are some of my Republican colleagues here that are going along with that agenda. There are others that are hearing from their constituents who don’t want a data center in their backyard or are concerned they’re going to lose their job as a result of AI or their life as a result of AI. And I think we are seeing the kind of coalition where you have populists on the left and populists on the right coming together, initially around concerns over jobs and job losses, and what it will mean for working families. But now, across a broader set of issues, the data centers are the most tangible way for people to express their concerns about their neighborhood, but also about their job, about the technology, and about the uncertainty of it all.\nAnd I think the initial concern, and I still think it’s quite a dominant concern, is over the impact on jobs and the nature of work. But what has reached the fore more recently is concern about runaway AI and the danger it poses. What will the concern look like a month or two months from now? I don’t know, but I do think it’s not going away. And as the AI bills — and I’ve introduced several — indicate, not just mine, but others, most of those bills are bipartisan. Some around the data centers are predominantly democratic bills. My bill on the data centers would force them to pay the costs so that consumers don’t have to. It’s not the voluntary, we pledge, we might, we’d like to; just don’t provide anything that will force us to observe those costs. Those are mostly democratic bills. Republicans have largely adhered to the president’s line about not posing any real imposition. They want to pass fig-leaf kind of stuff, but not real stuff. But I think increasingly, as people hear from their constituents, there’ll be bipartisan interest in legislating this area.\nYou’re on the antitrust committee. One of the more surprising bits of the structural realignment that we see around AI is the notion that there should be an antitrust exemption so these companies can coordinate on cybersecurity. Lina Khan, who is Biden’s FTC chair, said, “You don’t need an antitrust exemption.” We just had Jonathan Kanter on the show, who ran antitrust at the DOJ under Biden. He was like, “You don’t need an antitrust exemption for this.” But at the same time, you have David Sacks agreeing with Lina Khan, which is not a thing that happened during the Biden administration. You have a lot of what you would call the little tech players in the tech right being like, “No, no, no, this is how you’re going to make a cartel. And we didn’t like the Google and Apple cartel that kept a lot of our investments from going. They have to compete in the marketplace.”\nThat’s surprising to me. You don’t often see David Sacks and Lina Khan on the same side of an issue. You’re on the antitrust committee. Do you think the companies need an antitrust exemption?\nI think a very narrow antitrust exemption could be very helpful in addressing foreign distillation efforts. We would want companies to be able to talk to each other to address a mass distillation effort targeting multiple companies. I was involved in helping to pass cyber information-sharing legislation about a decade ago to allow companies to talk to each other if they were the victim of a hacking attempt so that they could alert one another and alert the government as to what malware they were using so that we could help the collective defense. And I also don’t want to discourage companies from pacing with each other if it’s for legitimate security reasons. Now, I don’t want any of this used to jack up prices by essentially forming a cabal, an anti-competitive cabal. So you’ve got to have safeguards in place, but I don’t want legitimate concerns about liability to stop these companies from doing what they should be doing, and some of that will be with each other.\nThe other realignment that I’m utterly fascinated by is around privacy and specifically Flock cameras, Axon cameras; people hate them. They hate them so much they’re kicking them out of their communities. We’ve been trying to get the CEO of Flock on the show. I think his company’s in a little bit of a crisis. We’ll see if we can reel him in to talk about what’s actually happening to his business as he faces bipartisan backlash.\nI think Americans are redefining what privacy means. Famously, there is no expectation of privacy in public. This has been foundational in our law, and that’s because not everybody had an always-on camera. They certainly didn’t have cameras in their glasses. They didn’t have watches that could record summaries of every meeting they’ve been in all day. And the state wasn’t putting up cameras everywhere that could track all of your movements across every state you’ve ever been in, with a giant database that was enabled by AI so the police could search it easily.\nThat’s a big swirl, but to me it feels like there’s an assertion of a privacy right in public by the American people. They want to have some kind of privacy in public that does not exist in our law. So society is moving ahead of the law. How would you square that? How would you be able to write a piece of legislation that affords people some sense of privacy in public?\nI think the Flock cameras are really disturbing. And yes, there are legitimate law enforcement uses, and they’ve helped catch people who’ve committed terrible crimes, but they’ve also allowed a department to try to follow [people] through their license plate. Someone wrote an op-ed criticizing a police department’s use of these Flock cameras. They’ve also been used to try to track a woman who needed reproductive healthcare. They’ve been used for a lot of illicit purposes, and I think people are waking up to all the problems that they’re creating and all the privacy that’s vanishing. \nHere, and I say this somewhat hesitantly because there’s a lot to be worried about with AI, but this is a cardinal concern and risk with AI, and that is: can privacy exist in the era of powerful AI? We talked a bit earlier about open models being available for defense as well as offense, and to be able to respond in real time. As those models get more powerful, and even the closed models get more powerful, you can train those models to invade people’s privacy. You can train those models to find out what your health records are and what you watch on TV. You can train those models to turn on the microphone on your watch or to turn on the microphone on your Alexa device when it’s turned off to aggregate all that data about you. That’s quite terrifying. \nWe may have no privacy left unless we act to ensure that we have privacy. And even then, foreign bad actors will have access to these very sophisticated models. They’ll develop their own. They’ll distill ours. They’ll do all kinds of stuff so that they can have access to it, and they’ll be private sellers, maybe not American private sellers, but other private sellers. We see this in some of the private sellers of these hacking technologies already, some of these companies that are providing eavesdropping capabilities to the highest bidders.\nSo we’re going to have to figure out how we not just prohibit conduct, but how we beef up the privacy of American people. How do we use technology to protect our privacy? Otherwise, there’ll be little of it left.\nThe reason I’m asking about what, to me, feels like bipartisan issues to the point that there is a realignment of our politics, is because we’re a month away from an election. It feels, based on the polling, that Democrats are going to win a healthy number of seats, if not outright take control of both houses of Congress.\nWhat should we expect to see if that happens? Is it a bunch of investigations? Is it actually getting the CEO of Flock to show up to a Senate hearing? They didn’t do that a couple of weeks ago. Or is it a flurry of litigation that lands on President Trump’s desk that ultimately goes nowhere?\nYou’re going to see vigorous oversight in this area to begin with. We’re going to want the leaders of this industry to come in and talk about all of the times that their own agents have gotten away from them, how it happened, what’s been done about it, and what they’re doing about it. We’re going to want these companies to be transparent with Congress about it. We’re going to want to legislate in this area, and that may come into conflict with the president, but there’s a lot of bipartisan work product here. And I think that given where the country is and where it’s moving, it becomes increasingly difficult for this president to veto bipartisan work product coming out of the Congress. \nSo that is my hope. It’s certainly a far better prospect than we have today. This is going to be a very central priority for the American people. We want to harness AI for the good it can do. We want to use it to bring down the cost of things. That’s our central priority. And there are ways that AI might be useful in bringing down certain costs. We want to protect the dignity of work also, but we want to make sure that this doesn’t pose a threat to the American people.\nYou’ve brought up the corrupting role of money in politics several times so far. It occurs to me that the Trump administration, the president, and his family have done what amounts to crypto scams a bunch of times throughout this administration. The second time around, they’ve enriched themselves in ways that I think a lot of ordinary Americans find to be beyond the pale. You served as impeachment manager for the first Trump impeachment. Do you think it’s strategically wise for the Democrats to show up and try to impeach him a third time over this?\nI think we’ll need to see what the priority is at the time we take control of both houses, knock on wood, and what the priority needs to be. And I would put the very top priority as fulfilling the promises that we’re making right now, which is to have a central focus: the highest priority on reducing costs for people. So, in the oversight area, what that means, I think, is doing oversight to make sure that the corruption of this administration isn’t raising costs on the American people. And let me give you one example. I could give you about a hundred. I mentioned the Melania movie. I think the American people deserve to know: Is Amazon getting federal contracts now not because it’s the best technology for cloud computing, not because it’s offered the most competitive price, but because it paid off the First Family $40 million?\nIf they are, we’re paying for that excess. We’re paying for a product that may not be as good. I’m not saying that this has happened, but they’re not going to do any oversight of it. Their decisions on everything from mergers to government contracts to pardons are influenced by the money they’re getting hand over fist. So we, I think, from an oversight point of view, need to focus on oversight that can help attack corruption that’s driving up costs. In terms of impeachment, I think we’ll have to cross that bridge when we get to it.\nI’m glad you brought up the entertainment industry, because I do want to end by talking about Paramount and Warner Brothers, which is a merger happening in your home state of California. It feels like a lot of that merger was the Ellison family in particular making promises about the news coverage of CBS News and CNN in order to get favorable regulatory treatment. We can see that CBS has softened its stance. The market has rejected CBS’s softened stance towards this administration. So there’s at least one check on that power, but California Attorney General Rob Bonta didn’t push all the way to the finish line to try to prevent that merger from happening. Do you think that was the right decision?\nI’m still frankly looking at the deal that was struck, and I have a lot of concerns about it. The one that you mentioned is a very significant concern, and that is that there was some editorial independence board that’s supposed to oversee CBS and CNN, and yet the Paramount company, or the merged company, the board appointed by the Ellisons, will agree on what that board is and how it’s constituted. So is this real, or is this going to be fiction?\nI’m also concerned, frankly, about what it’s going to mean for jobs. I live in Burbank. It’s the entertainment capital of the world, and represents so much of that industry in California. And what we have seen in past mergers is thousands and thousands of layoffs. So that is a particular concern for me. I love this industry. I love movies and television. It’s something I really deeply care about. I’m carrying a bill right now, important to the whole industry, and that is a film and television tax credit to try to bring production back to the United States. There’s never been a more difficult time to work in that industry, but I do have continuing concerns about editorial independence and also the degree to which CBS paid off the president, I think, because they had mergers pending. And ABC paid off the president. Those were personal sums to the president and his pet causes, with the result of completely frivolous litigation by the president that they would have won in court, which I urged them not to settle because of the destructive First Amendment precedent.\nThe idea that the Trump-appointed FCC chairman attacks ABC because they don’t like the jokes that Jimmy Kimmel tells, or cost Stephen Colbert his job on CBS because they didn’t like the jokes he’s telling — that’s third-world dictator kind of stuff. That’s not what we are used to seeing in the US, and I never want to see it here.\nThe jobs piece is really interesting to me. One of the longest-running tropes at The Verge is that a workable antitrust policy for the United States would be simply to forbid companies from buying Time Warner because it has never worked and it may never work again, and that we should just pass one law. Just don’t do that, and maybe everything will be fine. \nParamount made a bunch of noise. They fulminated about leaving California if they weren’t allowed to pursue this merger. They pretended to investigate Nashville and Texas and all the other places that you investigate, and then the merger was approved, or the litigation dropped, and I think David Ellison put out a statement like, “California is our home. We’re going to invest here,” and it seemed very fake in the end. Do you think that threat to leave spooked Gavin Newsom, spooked Rob Bonta?\nI think the threat to leave California concerned a lot of people, and I’m sure it concerned them. Was it a real threat? I don’t know. We’ve seen some of these corporate headquarters moves mean that they move basically their office, but they don’t necessarily move the studios or the lots, which would be difficult and expensive for them to do for a whole lot of other reasons. But just the idea, frankly, I found offensive: “If we don’t get approval of the merger we want, we’re going to pick up, and we’re going to leave the state.” It doesn’t say much about a commitment to the workforce if you’re ready to do that at the drop of a hat. So those arguments, really, I found offensive: the claim, “We’re going to leave if we don’t get what we want.”\nI will say this: the industry’s been through a hell of a time. The workforce has been through a hell of a time. Between the pandemic, the strikes, the consolidation among the streaming companies, and now the mergers, there’s never been a more difficult time to work in the industry. And I’m not talking about the Tom Cruise-level celebrities. I’m talking about the carpenters and the set designers, the wardrobe people, the dry cleaners, the caterers, the small restaurants and small businesses that thrive when you’re making a film or TV show in LA or somewhere else, that just take a huge hit when they’re not filming. Those are the people that I care about. And we do need stability, so this needs to be resolved. We need stability. We also need to match the incentives other countries are giving if we want this industry to thrive again.\nLet me bring this full circle to AI. We talked at the very beginning about the AI companies just ingesting all of this creative output without any payment, and that has enabled the models to be as good as they are. The models are now good at film production. I will admit to having watched several AI microdramas on TikTok, mostly by accident, but they were compelling enough that I stayed. And then, as editor-in-chief, I try to assign our reporters to write about AI microdramas. They did not like this idea, but that’s what happened. That is killing them at the input stage. We’re not paying them for the training material. And now we’re competing in a marketplace with a vastly cheaper product. You don’t need carpenters and small businesses to make AI slop microdramas on TikTok.\nHow would you connect these dots? Can you make AI compatible with the film industry in California as it exists today?\nYou know, a lot of these things all come back to the same thing, and that is: what is the commitment to the workforce? Does that matter to these companies? This is a broader problem. I remember having somebody in the industry, a worker in the industry, come to visit me to basically complain about the Affordable Care Act and how it had cost him his job. And I said, “Come by, I want to talk to you about this.” And he came in, and he explained that the studio that he worked for, every year, they would ask for pay increases, and they were told they couldn’t give them more of a pay increase because healthcare costs were rising so fast and it was putting downward pressure on wages. And then the ACA passed, and then he got laid off. And he assumed it was because of the ACA.\nI remember telling him, “Honestly, I don’t think it was the ACA. You’re right about healthcare costs going up,” and they were going up very fast. Actually, after the ACA, they were still going up, but they were going up at a slower pace than they were before the ACA. “Here’s what I think happened to you.” And what had happened around the time he was laid off was that there was a hostile takeover bid mounted against one of the studios. It was unsuccessful, but the studio that was the target of that takeover shed all the jobs it would have shed had it been taken over, so it would be a less attractive takeover target in the future. And then other studios shed jobs, even though they were very profitable; they shed jobs because they didn’t want to be taken over. And so there were these cascading sets of layoffs in the industry, none of which were necessary because they were profitable companies, but it did increase the quarterly report, the value of the quarterly report, the next shareholder report.\nHow do we get out of the bind where the only consideration is the shareholder report and the employees simply don’t matter? Unless the employees start to matter to these companies, then yeah, they will use every device they can to make films without having to use human beings. And this is, I think, a broader challenge in our economy. We see other countries like Germany doing a better job. They have employee representatives on their board of directors, so they take into consideration the impact on their own workforce. You mentioned the prior FTC chair. She was committed to looking at factors in terms of competitiveness and anti-competitiveness, including the impact on the workforce. And I think we should, but this is a continuing challenge.\nYou’re not up for reelection in this cycle. You’re not up again until 2030, so you have a little bit of distance from the actual campaigning. We’re seeing a bunch of progressive candidates on the left propose muscular reforms to capitalism, right? Abdul El-Sayed has said, “I’m a capitalist, but we need to regulate capitalism so it works for people.” I live in New York. Mayor [Zohran] Mamdani is here. He wants to regulate Amazon delivery trucks.\nThere’s a lot of that energy on the left. Do you think if the Democrats retake Congress, we’ll see that turned into results on any meaningful time frame, or do you need the presidency too?\nI think what we should do is try to get legislation passed on a bipartisan basis because that’s the only way you can get bills through Congress, particularly if you don’t control the White House. But I also think we need to take up big Democratic priorities that may get through the Senate or may not, depending on whether we flip the Senate and what our margin is; they may get vetoed by the president, but show the country that this is the kind of bold reform that we are prepared to pass if you give us the presidency two years later. \nAnd it is simply not going to be acceptable to anyone to say, “Hey, if you elect us, we’ll take you back to the status quo before Trump came along.” No, the reason Trump came along is people were deeply unsatisfied with the status quo. So we need big, bold ideas. I favor Medicare for All. I’ll let anyone who wants to participate in Medicare participate in Medicare. I don’t think we should force people into Medicare if they want to stay in a private plan, but I think we ought to broaden Medicare and make it accessible to people. It’s a very efficient healthcare system. And that is different than simply saying, “We’re going to restore premium tax credits under the ACA.” Yeah, we should do that too, but that alone isn’t going to cut it.\nSo I hope we’re going to think big. And I’ll say this too. The reason why we keep going back and forth between a Trump and a Biden is that people are so unsatisfied with how hard they’re working and how little they have to show for it. The economy’s just not working for people. It’s not that they’re out of work. The problem is that they are working and they still can’t make ends meet. And until we address that, our democracy is not going to be on solid ground. It’s going to always be ripe for any demagogue who comes along promising they alone can fix it. We have to make sure that if you’re working hard in this country, you can provide for yourself a good living and for your family.\nLast question, and it’s directly related to that. I’ve said several times now that I think we’re in a generational political realignment. It’s been the foundation of many of the questions I’ve asked. Do you agree that we’re in the middle of a foundational political realignment?\nWe, I think, have been for some time. I’m not sure where the alignment goes from here, but I’ll tell you where I’d like it to go from here. We, in the Democratic Party, we’re unquestionably the party of working people and average families. We’re the party of the underdog, and I think we’ve lost some of that in the public perception. Our policies are still very much driven that way, but increasingly people just think, “Both parties are corrupt. Neither party’s really looking out for me.” I want the Democratic Party to once again be the party that the public looks to and says, “Okay, they’re fighting for me. They’re not fighting for those who’ve already done great. They’re fighting for me.” That’s why I was drawn to the Democratic Party.\nAnd I also think, and this is related to the whole conversation we’ve had, wealth is now concentrated so much in so few hands that it is totally warping our political system. Wealth is perpetuating itself and warping our system even further. Some people took it as a celebration: we have our first trillionaire. Well, that first trillionaire, Elon Musk, became a trillionaire because of government largesse, because of government contracts that saved his bacon when his companies were in trouble. And there is no ethics, no sentiment about giving back there. No, he was only happy to DOGE the people who made his success possible.\nBut what made that possible too, that is the aggregation of all that wealth, is a tax system that’s not the least bit progressive anymore and is becoming less and less progressive. And one of the missions I hope for our new Congress, and I hope for the Democratic Party, is: how do we have a truly progressive tax code again? How do we make sure that, yes, the AI companies pay their fair share and they pay for some of the disruption that technology is going to cause? But I think even more important, how do we make sure the tax code is truly progressive and people who are doing well are going to pay well into the system? That, I think, is fundamental.\nSenator Schiff, this has been a great conversation. Thank you so much for being on Decoder.\nGreat to be with you. Thanks for having me on.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-10-05T14:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute spreche ich mit Senator Adam Schiff, einem Demokraten aus Kalifornien. Schiff sitzt in einer Reihe von Ausschüssen mit Aufsicht über Technologie und KI: geistiges Eigentum, Kartellrecht, Datenschutz und Technologie – alles ist da. Ich wollte ihn unbedingt fragen, wie wir alles im Zusammenhang mit der Technologie regulieren könnten ...",
-    "titleDE": "Senator Adam Schiff über KI-Regulierung, freie Meinungsäußerung und ein weiteres Amtsenthebungsverfahren gegen Trump"
-  },
-  {
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "description": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-    "pubDate": "2026-10-05T14:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Treffen Sie die letzten fünf Startup Battlefield-Juroren, die entscheiden, wer den Pitch-Wettbewerb bei TechCrunch Disrupt 2026 gewinnt. Holen Sie sich jetzt Ihren Pass, um bis zu 100 $ zu sparen, und erhalten Sie einen zweiten Pass mit 50 % Rabatt.",
-    "titleDE": "Treffen Sie die Startup Battlefield 200-Juroren, die den Gewinner beim TechCrunch Disrupt 2026 ermitteln"
-  },
-  {
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "pubDate": "2026-10-05T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das komplette TechCrunch Disrupt Stage-Lineup wurde enthüllt, darunter Max Hodak, Mark Wahlberg, Benchmark-Partner und mehr. Registrieren Sie sich jetzt, um bis zu 100 $ auf Ihren Pass zu sparen und einen zweiten mit 50 % Rabatt zu erhalten.",
-    "titleDE": "Das endgültige Programm der Disrupt Stage: Drei Tage voller Gespräche, die Sie außerhalb von TechCrunch Disrupt 2026 nirgendwo hören werden"
-  },
-  {
-    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-    "description": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features are split up across different settings panes.\nAs spotted earlier by MacRumors, the RemoveMacAI developer said in a post on Reddit that the tool essentially does what the old settings toggle did, deleting the models and turning the features off: \nYou have to find about a dozen settings, and several of them are under Screen Time. …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-10-05T13:47:14.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Das Erhalten von zusätzlichem Speicherplatz auf Ihrem Mac könnte so einfach sein wie das Löschen der KI-Funktionen von Apple mit einem neuen Open-Source-Befehlszeilentool namens RemoveMacAI. Früher gab es einen einzigen Einstellungsschalter zum Deaktivieren von Apple Intelligence, der jedoch in macOS 27 entfernt wurde. Jetzt bleiben die Modelle auf Ihrer Festplatte, ...",
-    "titleDE": "Mit einem Open-Source-Tool können Sie 12 GB Apple Intelligence-Daten unter macOS löschen"
-  },
-  {
-    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-    "pubDate": "2026-10-05T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Safeworld baut digitale Menschen, um sicherzustellen, dass Roboter die echten Menschen nicht verletzen.",
-    "titleDE": "Kann Safeworld die Menschen davon überzeugen, dass GenAI-Roboter ihnen nicht schaden werden?"
-  },
-  {
     "title": "Building advertising for the way people use AI",
     "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
@@ -358,66 +588,6 @@
     "category": "news",
     "descriptionDE": "OpenAI führt ein neues visuelles Anzeigenformat in ChatGPT ein und erweitert Messtools, Attributionspartnerschaften und Markeneignung für Werbetreibende.",
     "titleDE": "Aufbau von Werbung für die Art und Weise, wie Menschen KI nutzen"
-  },
-  {
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "description": "AI slop seems to be overwhelming bug bounty programs.",
-    "pubDate": "2026-10-04T20:31:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "KI-Slop scheint überwältigende Bug-Bounty-Programme zu sein.",
-    "titleDE": "Google hat sein Open-Source-Bug-Bounty-Programm aufgrund eines „erheblichen Anstiegs“ der KI-Einsendungen eingefroren"
-  },
-  {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "pubDate": "2026-10-04T20:08:34.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Zum Thema Eigenkapital diskutierten wir die Versuche der Trump-Regierung, KI umzubenennen.",
-    "titleDE": "Können „Superintelligenz“ und ein unverbindlicher Sicherheitspakt das Imageproblem der KI lösen?"
-  },
-  {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "description": "This new task force is Trump's latest response to the debate over AI safety.",
-    "pubDate": "2026-10-04T15:15:10.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Diese neue Task Force ist Trumps jüngste Antwort auf die Debatte über KI-Sicherheit.",
-    "titleDE": "Trump stellt seine neue Super Intelligence Force vor"
-  },
-  {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "pubDate": "2026-10-03T18:43:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der CEO von Amazon Web Services versuchte, dem weitverbreiteten Misstrauen gegenüber Rechenzentren entgegenzuwirken.",
-    "titleDE": "Amazon reagiert auf die Gegenreaktion im Rechenzentrum und sagt, dass es keine Geheimhaltungsvereinbarungen mehr verwendet"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "pubDate": "2026-10-03T16:30:01.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Nach eigenen Angaben ist David Robinson „so etwas wie ein Klischee“: ein Mitarbeiter eines führenden KI-Unternehmens, der eine eindringliche Warnung ausspricht, während er seinen Job kündigt.",
-    "titleDE": "OpenAI-Sicherheitsmitarbeiter tritt zurück und behauptet, die Unternehmenskultur sei kaputt"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages ",
-    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "pubDate": "2026-10-03T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Wir haben eine Liste der bemerkenswertesten KI-Agenten erstellt, die in Ihren Textnachrichten leben können, von allgemeinen Assistenten bis hin zu Agenten für Familien, Reisen und Arbeit.",
-    "titleDE": "Alle KI-Agenten, die in Ihren Textnachrichten leben können"
   },
   {
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -448,105 +618,5 @@
     "category": "news",
     "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom September 2026",
     "titleDE": "Die neuesten KI-Neuigkeiten haben wir im September 2026 angekündigt"
-  },
-  {
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "link": "https://openai.com/index/chatham-financial",
-    "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "pubDate": "2026-10-02T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Chatham Financial nutzt Codex und GPT-5.6, um Technologie zu entwickeln und Arbeitsabläufe neu zu gestalten, wodurch die Handelsvalidierung von 30 Minuten auf unter 4 Minuten verkürzt wird.",
-    "titleDE": "Chatham skaliert seine Kapitalmarktkompetenz mit OpenAI"
-  },
-  {
-    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-    "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "description": "It has been a bad month for federal government cybersecurity.",
-    "pubDate": "2026-10-01T20:28:45.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Es war ein schlechter Monat für die Cybersicherheit der Bundesregierung.",
-    "titleDE": "Hackerangriffe auf zwei Bundesbehörden innerhalb eines Monats haben eine Fülle sensibler Daten preisgegeben"
-  },
-  {
-    "title": "Memory executives expect RAM shortage to continue through 2028",
-    "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-    "description": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-    "pubDate": "2026-10-01T17:49:56.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die Preise für Speicher, die für 2027 verkauft werden, „sind viel höher als die Preise für 2026.“",
-    "titleDE": "Speichermanager gehen davon aus, dass der RAM-Mangel bis 2028 anhalten wird"
-  },
-  {
-    "title": "The eternal complement",
-    "link": "https://openai.com/index/the-eternal-complement",
-    "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "pubDate": "2026-10-01T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Fortgeschrittene KI dürfte für die Routinearbeit hinter bahnbrechenden Ideen am wichtigsten sein. Entdecken Sie, warum die Umsetzung die nächste Wirtschaft und das Tempo des Fortschritts prägen könnte.",
-    "titleDE": "Die ewige Ergänzung"
-  },
-  {
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "pubDate": "2026-10-01T16:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Albertsons Cos. nutzt ChatGPT Enterprise und die OpenAI-API, um Teams dabei zu helfen, schneller zu arbeiten und den Lebensmitteleinkauf für Millionen von Kunden zu erleichtern.",
-    "titleDE": "Wie Albertsons Companies den Einzelhandel von innen heraus neu erfindet"
-  },
-  {
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "link": "https://openai.com/index/the-den-family-social",
-    "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "pubDate": "2026-10-01T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Mit der Eröffnung eines neuen Standorts bereitet der Social Club Förderanträge in 2 Stunden statt 3 Tagen und Materialien für Spirituosenlizenzen in 3 Stunden statt 4 Tagen vor.",
-    "titleDE": "The Den hat 10–15 Stunden pro Woche Zeit, um mit ChatGPT Work zu wachsen"
-  },
-  {
-    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-    "description": "A simple email gives the attackers the ability to remotely inject OS commands.",
-    "pubDate": "2026-09-30T20:44:48.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Eine einfache E-Mail gibt den Angreifern die Möglichkeit, Betriebssystembefehle aus der Ferne einzuschleusen.",
-    "titleDE": "Angreifer haben eine kritische Zimbra-Schwachstelle ausgenutzt, um E-Mails zu stehlen"
-  },
-  {
-    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-    "description": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-    "pubDate": "2026-09-30T11:15:14.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Der Schritt wird Teil einer umfassenden Überarbeitung des Ökosystems für die Website-Authentifizierung sein.",
-    "titleDE": "Cloudflare plant die Ausstellung quantensicherer TLS-Zertifikate"
-  },
-  {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "pubDate": "2026-09-30T10:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Erfahren Sie, wie OpenAI eine Kampagne zur Extraktion geschützter Modellbegründungen störte und die Abwehrkräfte gegen kontradiktorische Destillation stärkt.",
-    "titleDE": "Störung einer koordinierten Modelldestillationskampagne"
-  },
-  {
-    "title": "Helping small businesses put AI to work",
-    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "pubDate": "2026-09-30T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI arbeitet mit dem amerikanischen SBDC zusammen, um praktische KI-Schulungen und lokale Unterstützung für kleine Unternehmen zu erweitern, zusammen mit einem neuen Bericht darüber, wie kleine Teams KI nutzen.",
-    "titleDE": "Wir helfen kleinen Unternehmen, KI in die Tat umzusetzen"
   }
 ]
