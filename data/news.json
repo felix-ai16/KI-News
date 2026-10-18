@@ -1,13 +1,53 @@
 [
   {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "pubDate": "2026-10-16T21:22:28.000Z",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "pubDate": "2026-10-17T21:31:32.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Masad sagte, die Entscheidung sei aus verschiedenen Gründen getroffen worden, darunter auch aus Kostengründen. Replit gab im August eine Partnerschaft mit OpenAI bekannt, es gab jedoch nie Anzeichen dafür, dass es sich nicht mehr um eine Partnerschaft mit Anthropic handelte.",
-    "titleDE": "Replit arbeitet nicht mehr mit Anthropic zusammen, sagt der CEO"
+    "descriptionDE": "Ein Meta-Sprecher betonte, dass die aktualisierten Bedingungen keine Änderung in der Art und Weise widerspiegelten, wie Meta das Web crawlt.",
+    "titleDE": "Meta entfernt Formulierungen, die Bedenken hinsichtlich Scraping und KI-Training aufgeworfen haben"
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "pubDate": "2026-10-17T20:21:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Zusammensetzung der Belegschaft von Anthropic und die Art der geleisteten Arbeit haben sich im vergangenen Jahr erheblich verändert.",
+    "titleDE": "Anthropic gibt an, dass seine Belegschaft weniger jung ist und mehr Zeit in Besprechungen verbringt"
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "pubDate": "2026-10-17T18:48:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Am Wochenende stellte Masad klar, dass OpenAI Anthropic als Standardmodellanbieter ersetzen würde. Claude wird den Kunden weiterhin auf der Plattform zur Verfügung stehen.",
+    "titleDE": "Laut CEO macht Replit OpenAI zu seinem Standard gegenüber Anthropic"
+  },
+  {
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "description": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page:\n… Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Company Products, services, and features provided under these Commercial Terms and any other applicable supplemental terms.\nMany, including Neiman Lab and James Grimmelmann, a professor of digital and information law at Cornell, interpreted it as an  …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-17T15:04:36.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nach der Gegenreaktion aktualisiert Meta seine Bedingungen erneut, um Formulierungen zu entfernen, die darauf hindeuten, dass Meta Inhalte von Websites, einschließlich Nachrichtenseiten, entfernen könnte, um seine KI zu trainieren. Konkret erscheint die folgende Sprache nicht mehr auf der Seite mit den kommerziellen Bedingungen: … Meta darf alle Inhalte von solchen Domains, Webseiten usw. verwenden.",
+    "titleDE": "Meta entfernt Sprache, die möglicherweise das Scrapen von Nachrichtenseiten ermöglicht hat"
+  },
+  {
+    "title": "Websites are closing their doors to AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "description": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?\nIn recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp told TechCrunch that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-17T13:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Autonome Agenten sind das heißeste Thema in der KI. OpenAI, Meta, Google, Instinct und andere versprechen, dass ihre Agenten das Internet in Ihrem Namen durchsuchen und alles tun können, von der Reservierung eines Abendessens über das Aufräumen Ihres Posteingangs bis hin zum Kauf neuer Schuhe. Aber was passiert, wenn der Rest des Internets nicht...",
+    "titleDE": "Websites verschließen ihre Türen für KI-Agenten"
   },
   {
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -152,11 +192,11 @@
   {
     "title": "This implant can restore sight for patients with macular degeneration",
     "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "description": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…",
+    "description": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,…",
     "pubDate": "2026-10-16T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Weltweit leiden mehr als 5 Millionen Menschen mit altersbedingter Makuladegeneration (AMD) an einer Netzhautatrophie. Und bis jetzt konnte keine Behandlung ihre Sehkraft wiederherstellen. Das PRIMA-System, das im Juli in Europa zugelassen wurde und in den USA auf die FDA-Zulassung wartet, ändert dies. Es kombiniert...",
+    "descriptionDE": "Mehr als 5 Millionen Menschen auf der ganzen Welt leiden an einer fortgeschrittenen Form der altersbedingten Makuladegeneration (AMD), der sogenannten geografischen Atrophie, bei der Zellen in der Netzhaut absterben. Und bis jetzt konnte keine Behandlung ihre Sehkraft wiederherstellen. Das PRIMA-System, das im Juli in Europa zugelassen wurde und auf seine Zulassung wartet...",
     "titleDE": "Dieses Implantat kann bei Patienten mit Makuladegeneration das Sehvermögen wiederherstellen"
   },
   {
@@ -190,16 +230,6 @@
     "titleDE": "Kinder überlisten Social-Media-Verbote. Das ist kein Problem, das wir lösen müssen."
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "pubDate": "2026-10-16T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Zwei Ingenieure haben Stack Overflow for Agents innerhalb weniger Wochen mit Codex ausgeliefert, und das ChatGPT-Plugin hat dazu beigetragen, das Wachstum der Agentenerstellung um das Zehnfache zu steigern.",
-    "titleDE": "Stack Overflow für Agenten verdreifacht die Anmeldungen mit dem ChatGPT-Plugin"
-  },
-  {
     "title": "Benefit Street Partners answers questions faster with Codex",
     "link": "https://openai.com/index/benefit-street-partners",
     "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
@@ -208,6 +238,16 @@
     "category": "news",
     "descriptionDE": "Anant Kumar entwickelt Tools zum Vergleich von Kreditbewertungen und zur Analyse von Kreditverträgen und verwendet Codex für die Codeüberprüfung und schnellere Nachverfolgungen.",
     "titleDE": "Benefit Street Partners beantwortet Fragen schneller mit Codex"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "pubDate": "2026-10-16T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Zwei Ingenieure haben Stack Overflow for Agents innerhalb weniger Wochen mit Codex ausgeliefert, und das ChatGPT-Plugin hat dazu beigetragen, das Wachstum der Agentenerstellung um das Zehnfache zu steigern.",
+    "titleDE": "Stack Overflow für Agenten verdreifacht die Anmeldungen mit dem ChatGPT-Plugin"
   },
   {
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -346,18 +386,8 @@
     "pubDate": "2026-10-15T18:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Einsparungen von bis zu 200 US-Dollar bis zum 16. Oktober beim TechCrunch Founder Summit. Diese Ersparnisse für Gründer- und Investorenpässe verschwinden nach Freitag. Schließen Sie sich 1.000 Gründern und Investoren am 4. November im SoWa Power Station in Boston an. Bringen Sie Ihre schwierigsten Fragen mit und sorgen Sie dafür, dass der Tag für Ihr Unternehmen zählt.",
+    "descriptionDE": "Bis zu 200 US-Dollar Ersparnis bis zum 16. Oktober beim TechCrunch Founder Summit. Diese Ersparnisse für Gründer- und Investorenpässe verschwinden nach Freitag. Schließen Sie sich 1.000 Gründern und Investoren am 4. November im SoWa Power Station in Boston an. Bringen Sie Ihre schwierigsten Fragen mit und sorgen Sie dafür, dass der Tag für Ihr Unternehmen zählt.",
     "titleDE": "Letzte Chance, bis zu 200 US-Dollar bei Ihrem TechCrunch Founder Summit-Pass zu sparen: Die Frühbucherfrist endet am 16. Oktober"
-  },
-  {
-    "title": "Friends don&#8217;t let friends feed their data to AI agents",
-    "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-    "description": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends, family, the person you went on a Hinge date with five years ago - and virtually anyone else you've ever come in contact with.\nSince Muse was released last month, the agent has already been downloaded millions of times and hit No. 1 on Apple's App Store. With the help of its creepy virtual av …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-15T16:21:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "In der Consumer-Tech-Welt gibt es einen wachsenden Trend: Gadgets, die darauf ausgelegt sind, alles und jeden um Sie herum auszuspionieren, unabhängig davon, ob jemand anderes tatsächlich dem zugestimmt hat oder nicht. Jetzt, mit dem Aufkommen von „persönlichen KI-Assistenten“ wie Meta's Muse, werden Sie fröhlich gebeten, nicht einfach aufzugeben …",
-    "titleDE": "Freunde lassen nicht zu, dass Freunde ihre Daten an KI-Agenten weitergeben"
   },
   {
     "title": "AI agents are coming to Rivian’s cars",
@@ -368,16 +398,6 @@
     "category": "news",
     "descriptionDE": "Wie das funktionieren wird, werden wir wahrscheinlich bei der kommenden Veranstaltung „AI & Autonomy Day“ des Unternehmens im Dezember erfahren.",
     "titleDE": "KI-Agenten kommen zu Rivians Autos"
-  },
-  {
-    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-    "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-    "description": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform. While Nvidia's new laptops might look like regular Windows machines, the chips inside are Arm-based, instead of the traditional x64 architecture used by AMD and Intel. Combined with a powerful GPU, RTX Spark is designed for the future of AI, and it means a lot of work has gone into getting these laptops ready for  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-15T14:30:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Microsoft und Nvidia veranstalteten letzte Woche in San Francisco eine Launch-Party für die erste Welle von RTX-Spark-Laptops, bei der eine neue Welle von KI-PCs inmitten einer vollen Menschenmenge und einem lebhaften Aktionsbereich im Mittelpunkt stand. Einen Tag nach der Medienveranstaltung wurde ich zu einer ruhigeren Nvidia-Veranstaltung eingeladen, um viel mehr über die ... zu erfahren.",
-    "titleDE": "Wie Windows für Nvidias RTX Spark-Laptops optimiert wird"
   },
   {
     "title": "Google’s Universal Cart shopping tool launches in the US",
@@ -420,16 +440,6 @@
     "titleDE": "Der Download: Wiederbelebung gefrorener Schweinenieren und Ausbau der Atomkraft"
   },
   {
-    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-    "pubDate": "2026-10-15T12:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das zu Amazon gehörende Unternehmen Bee hat seine ersten neuen KI-Geräte seit seiner Übernahme auf den Markt gebracht, darunter ein aktualisiertes Wearable und einen Rekorder im Kreditkartenformat, der an Smartphones angeschlossen werden kann. Die Geräte können Gespräche zusammenfassen, To-Do-Listen erstellen und sich mit Alexa und Amazon Shopping integrieren, wobei die Preise ab einem...",
-    "titleDE": "Amazons Bee bringt zwei neue persönliche KI-Geräte auf den Markt, beginnend bei 75 US-Dollar"
-  },
-  {
     "title": "How much more can nuclear power plants give?",
     "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
     "description": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a…",
@@ -446,7 +456,7 @@
     "pubDate": "2026-10-15T09:00:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Haben Sie jemals darüber nachgedacht, was Sie ausmacht? Die Wissenschaft versichert uns, dass es alles mit dem drei Pfund schweren Organ zwischen unseren Ohren zu tun hat, mit seinen Milliarden von Neuronen und Billionen empfindlicher Verbindungen. Aber es ist viel schwieriger zu erklären, warum wir ein Gefühl der Selbstwahrnehmung haben, oder genau zu bestimmen...",
+    "descriptionDE": "Haben Sie schon einmal darüber nachgedacht, was Sie ausmacht? Die Wissenschaft versichert uns, dass es alles mit dem drei Pfund schweren Organ zwischen unseren Ohren zu tun hat, mit seinen Milliarden von Neuronen und Billionen empfindlicher Verbindungen. Aber es ist viel schwieriger zu erklären, warum wir ein Gefühl der Selbstwahrnehmung haben, oder genau zu bestimmen...",
     "titleDE": "Sechs wilde Ideen, um Ihren Geist zu verewigen"
   },
   {
@@ -458,16 +468,6 @@
     "category": "trend",
     "descriptionDE": "Schweinenieren, die auf -150 °C abgekühlt und monatelang im Gefrierschrank gelagert wurden, konnten erfolgreich wieder aufgewärmt werden und zeigten erstmals wieder nachweislich ihre Wirkung, sagen Wissenschaftler. Sie hoffen, die Erkenntnisse mit menschlichen Organen reproduzieren zu können. Die Nieren – die in ihrer Größe denen des Menschen ähneln – wurden in einer glasähnlichen Form belassen …",
     "titleDE": "Schweinenieren, die ein Jahr lang „eingefroren“ waren, wurden wieder zum Leben erweckt"
-  },
-  {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "description": "Figma is also releasing its code layers feature in open beta.",
-    "pubDate": "2026-10-15T04:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Figma veröffentlicht auch seine Code-Layer-Funktion in der offenen Beta.",
-    "titleDE": "Figma kündigt neue Funktionen an, um zu definieren, wie Agenten auf seiner Plattform arbeiten"
   },
   {
     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -506,7 +506,7 @@
     "pubDate": "2026-10-14T12:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Sehen Sie, wie Amp mit GPT-6 Astra, Ultrafast, GPT-Live-1 und der Anmeldung mit ChatGPT die Grenzen dessen erweitert, was Agenten tun können.",
+    "descriptionDE": "Erfahren Sie, wie Amp mit GPT-6 Astra, Ultrafast, GPT-Live-1 und der Anmeldung mit ChatGPT die Grenzen dessen erweitert, was Agenten tun können.",
     "titleDE": "Amp lässt KI-Agenten mit OpenAI-Modellen über den Code hinaus arbeiten"
   },
   {
