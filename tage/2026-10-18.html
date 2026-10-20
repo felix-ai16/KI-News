@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Sonntag, 18. Oktober 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Sonntag, 18. Oktober 2026</h1>
+  <p class="subtitle">3 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/" target="_blank" rel="noopener">Anthropic gibt an, 5 % seiner Anteile an einen „gemeinnützigen Fonds“ zu spenden</a></h2><p class="news-description">Das Unternehmen bot einige grobe Ideen an, wie dieses Geld tatsächlich verwendet werden könnte, etwa „große Spenden an traditionelle gemeinnützige Organisationen oder direkte Verteilungen an bestimmte Bevölkerungsgruppen“.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot" target="_blank" rel="noopener">In Philly wurde eine Frau verhaftet, weil sie einen Lieferroboter blockiert hatte</a></h2><p class="news-description">Carolyn Marvin wurde verhaftet und wegen ordnungswidrigen Verhaltens angeklagt, nachdem sie einem Uber-Lieferroboter den Weg versperrt und sich geweigert hatte, aus dem Weg zu gehen. Marvin sagte gegenüber ABC13 aus Philadelphia: „Ich weiß, dass sie den menschlichen Lieferarbeitern die Arbeit wegnehmen, und deshalb habe ich gegen sie protestiert, wann immer ich sie gesehen habe, indem …</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/" target="_blank" rel="noopener">Disney erklärt sich bereit, den Großteil der Belegschaft von Character AI einzustellen</a></h2><p class="news-description">In der Akte heißt es auch, dass die „überwiegende Mehrheit“ der Character.AI-Mitarbeiter, denen Jobs bei Disney angeboten wurden, diese angenommen habe. Da es sich jedoch um ein Stalking-Horse-Gebot handelt, könnte ein anderes Unternehmen ein höheres Angebot unterbreiten.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
