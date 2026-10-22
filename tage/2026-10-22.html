@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Donnerstag, 22. Oktober 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Donnerstag, 22. Oktober 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach" target="_blank" rel="noopener">Eiliko-Hersteller sagt, dass er eine „unabhängige Sicherheitsfirma“ einstellt, nachdem Verge über seine unsicheren Roboter berichtet hat</a></h2><p class="news-description">Das Eiliko-Roboterspielzeug. | Foto von Sean Hollister / The Verge Eiliko, ein süßer Roboteranhänger, den Sie mit integrierten KI-Gesprächen an Ihre Tasche hängen können, erwies sich als Sicherheitsalbtraum. Den Besitzern wurde gesagt, dass „Ihre Geheimnisse bei mir sicher sind“, Hacker jedoch problemlos vollständige Abschriften von allem lesen könnten …</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/" target="_blank" rel="noopener">Argumente für kontextbewusste KI</a></h2><p class="news-description">Unternehmens-KI kann Empfehlungen generieren, Aufgaben automatisieren und Unternehmen dabei helfen, Entscheidungen schneller zu treffen. Aber ohne ein Verständnis dafür, wie ein Unternehmen tatsächlich funktioniert, können selbst leistungsstarke Modelle die Einschränkungen und Zusammenhänge übersehen, die darüber entscheiden, ob eine Entscheidung die richtige ist. Als Unternehmen...</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/" target="_blank" rel="noopener">Drei Dinge, die Sie über Permafrost wissen sollten</a></h2><p class="news-description">Wie viel wissen Sie über Permafrost? Vielleicht ist Ihnen, genau wie mir, bewusst, dass diese Schicht gefrorenen Bodens auftaut, dass sie im globalen Rätsel des Klimawandels wichtig ist … und das ist auch schon das Ausmaß davon. Die gute Nachricht für uns beide ist, dass mein Kollege James Temple gerade zwei veröffentlicht hat…</p></article>
+<article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/" target="_blank" rel="noopener">Die versteckte Speicherrechnung von AI: Welche Schlussfolgerungen hinterlassen</a></h2><p class="news-description">Bitten Sie die meisten Führungskräfte, sich die Kosten von KI vorzustellen, und sie werden wahrscheinlich GPUs sehen – Racks voller Beschleuniger mit Gigawatt Leistung – und eine Warteliste für Silizium. Aber dieses Bild lässt etwas außer Acht: die Kosten für die Datenspeicherung. Was passiert mit den Daten, nachdem ein Modell reagiert hat? Ein Großteil der generierten Back-End-Daten – von ...</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
