@@ -1,5 +1,125 @@
 [
   {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "pubDate": "2026-10-23T23:05:49.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI wird Grenzmodelle vom Internet abschneiden, Wochen nachdem einer seiner Ingenieure gesagt hat, dass die Lösung nicht funktionieren würde.",
+    "titleDE": "OpenAI sagt, dass es seine KI-Modelle nicht mehr im Live-Internet trainieren wird und nennt „erhebliche Risiken“"
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+    "pubDate": "2026-10-23T21:59:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Roboter stampften mit ihren kleinen Füßen und machten winzige R2-D2-Geräusche, setzten sich hin, machten ein „Nickerchen“ und überschlugen sich auf Sprachbefehl.",
+    "titleDE": "Das heißeste Spielzeug zu Weihnachten? Nvidia-CEO spielt mit bezaubernden Microduck-Robotern, 20.000 Mal verkauft"
+  },
+  {
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\"\nOpenAI paused training its frontier AI models in September, after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies, or swarm obscure websites. On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-23T21:11:07.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI trainiert nun seine fortschrittlichsten KI-Modelle ohne Internetzugang, nachdem es zu einer Reihe betrügerischer Hacking-Vorfälle kam. In einem Blogbeitrag vom Freitag sagt OpenAI, dass es eine Offline-Testumgebung aufgebaut hat, in der KI-Modelle mit indizierten und zwischengespeicherten Webinhalten interagieren können, „ohne das Risiko einer Beeinträchtigung externer...",
+    "titleDE": "OpenAI trainiert seine Grenz-KI-Modelle jetzt ohne Internetzugang"
+  },
+  {
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "description": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.\nTake this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between the model and the speaker does have a mostly natural back and forth (though for some reason, the model initially mistakes the speaker for somebody named \"Ronaldo\").\n\n\nWe made the first AI model you can have a realistic conversation with that was trained entirely on speech!\nDessa is a full-duplex speech-to-sp …\n\n\nRead the full story at The Verge.",
+    "pubDate": "2026-10-23T19:32:39.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Jack Dorseys Block kündigte ein KI-Modell namens Dessa an, das „von Grund auf auf nichts als menschliche Konversation“ trainiert wurde. Um das Modell vorzuführen, teilte Block Chats mit Menschen, die gelegentlich etwas umständlich und unheimlich sein können. Nehmen wir zum Beispiel dieses Bild, das Dessa-Hauptdarsteller Ragavan geteilt hat …",
+    "titleDE": "Jack Dorsey’s Block hat ein KI-Modell erstellt, das mit Ihnen spricht wie ein unbeholfener neuer Freund"
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+    "pubDate": "2026-10-23T19:06:23.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die von TechCrunch in Zusammenarbeit mit Fidelity Private Shares veranstaltete ganztägige Veranstaltung geht über Fundraising und KI hinaus und untersucht die Realitäten der Kundengewinnung, des Aufbaus von Teams, des Schärfens eines Pitches, der Entwicklung von Gründerführungskompetenzen und der Skalierung von Unternehmen sowohl innerhalb als auch außerhalb traditioneller Startup-Zentren ...",
+    "titleDE": "Von Toast bis Bessemer: Von wem Gründer beim TechCrunch Founder Summit 2026 hören werden"
+  },
+  {
+    "title": "The iPhone Duo should have been an iPad",
+    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "description": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. \nOn this episode of The Vergecast, David and Nilay debate whether the Duo deserved the score it got, and try to work through how this device might change over time. Is the outer screen, as Daring Fireball's John Gruber suggested, the worst iPhone ever? Would it be a better product if it started as an iPad rather than an iPhone? Would we feel differently about this thing if it were simply called the iPad Du …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-23T17:00:18.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wir haben dem iPhone Duo eine 7/10 gegeben. Aber das war nicht immer das Ergebnis, das wir geplant hatten, und es könnte sein, dass es nicht für immer das richtige Ergebnis bleibt. Das sind die Herausforderungen, eine große, neue Idee über das beliebteste Smartphone der Geschichte zu prüfen und zu bewerten. In dieser Folge von The Vergecast diskutieren David und Nilay darüber, was...",
+    "titleDE": "Das iPhone Duo hätte ein iPad sein sollen"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "pubDate": "2026-10-23T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Erfahren Sie, wie OpenAI Habitat mit zuverlässiger Mandantenfähigkeit, globalem Caching und Azure Cosmos DB skaliert hat, um 12-mal schnellere Lesevorgänge für ChatGPT bereitzustellen.",
+    "titleDE": "Schnelle Skalierung des Online-Speichers, um über 1 Milliarde ChatGPT-Benutzer zu bedienen (Teil II)"
+  },
+  {
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "description": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous version simply said it wouldn't do that, as of October 16th, Google has added the line, \"unless you choose to make data from these services available to other Google services that support personalized ads.\"\nThat means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools  …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-23T16:52:55.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google hat seine Datenschutzrichtlinie dahingehend aktualisiert, dass Ihnen möglicherweise gezielte Werbung auf der Grundlage Ihrer persönlichen Daten angezeigt wird, wenn Sie personalisierte KI-Funktionen verwenden. Das von der Android Authority entdeckte Update fügt eine Ausnahme zu seinem Versprechen hinzu, Ihr Drive, Gmail oder Google Fotos nicht für einen bestimmten Zeitraum zu verwenden.",
+    "titleDE": "Jetzt sagt Google, dass es möglicherweise Ihre Gmail- und Google Fotos-Daten für die Ausrichtung von Anzeigen verwenden wird"
+  },
+  {
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "description": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow more time for us to explain to our partners and stakeholders what's changing and what's not.\"\nThe business terms, which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta u …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-23T14:47:41.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Meta verzögert die Durchsetzung seiner neuen Geschäftsbedingungen, nachdem Verlage Bedenken geäußert hatten, dass sie dem Unternehmen gestatten könnten, Nachrichtenseiten für KI-Schulungen zu streichen, wie Fast Company zuvor berichtet hatte. In einer Erklärung gegenüber The Verge sagt Meta-Sprecher Daniel Roberts, dass die Bedingungen am ... in Kraft treten werden.",
+    "titleDE": "Meta verzögert neue Geschäftsbedingungen nach Widerstand des Herausgebers gegen KI-Scraping"
+  },
+  {
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
+    "pubDate": "2026-10-23T12:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Sind wir schon da? Ein Realitätscheck für sechs große Tech-Versprechen Einige scheinbar unmögliche Leistungen sind zu schön, um sie aufzugeben. Das Jaulen und Jaulen eines Haustiers entschlüsseln? Absolut...",
+    "titleDE": "Der Download: Testen von sechs Technologieversprechen und den blinden Flecken der Biotechnologie"
+  },
+  {
+    "title": "Retro gaming is being overrun with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "description": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.  Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games.\nDecomps and recomps - shorthand for decompile and recompile - are a form of reverse engineering that involves breaking a game down to …\nRead the full story at The Verge.",
+    "pubDate": "2026-10-23T12:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Retro-Videospiele gibt es in letzter Zeit überall – vor allem dort, wo sie eigentlich nicht sein sollten. Halo im Webbrowser, Wind Waker auf dem iPhone, Super Smash Bros. in Mixed Reality. Im letzten Monat oder so sind solche unerwarteten Projekte dank neuer ... mit unglaublicher Häufigkeit viral gegangen.",
+    "titleDE": "Retro-Gaming wird von KI überschwemmt"
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "pubDate": "2026-10-23T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI erklärt, wie wir die Eindämmung für das Training und die Evaluierung von Grenzmodellen verbessert haben, einschließlich Offline-Umgebungen und Red-Teaming mit hohem Rechenaufwand.",
+    "titleDE": "Sicherung unserer Schulungsumgebung für Grenzmodelle"
+  },
+  {
     "title": "In the biotech world, you can’t see everything",
     "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
     "description": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given…",
@@ -10,14 +130,14 @@
     "titleDE": "In der Biotech-Welt kann man nicht alles sehen"
   },
   {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "description": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "pubDate": "2026-10-23T04:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "inDrive plant, im ersten Halbjahr 2027 mit dem Testen der Robotaxis von Pony.ai in der kasachischen Hauptstadt zu beginnen.",
-    "titleDE": "Der Uber-Konkurrent inDrive plant mit Pony.ai und Nvidia 2027 Robotaxi-Tests in Zentralasien"
+    "descriptionDE": "Das Unternehmen plant, im ersten Halbjahr 2027 mit dem Testen der Robotaxis von Pony.ai in der kasachischen Hauptstadt zu beginnen.",
+    "titleDE": "Der Uber-Konkurrent inDrive plant mit Pony AI und Nvidia 2027 Robotaxi-Tests in Zentralasien"
   },
   {
     "title": "Left alone with nothing to do, AI agents started playing",
@@ -150,16 +270,6 @@
     "titleDE": "Erstellen Sie reaktionsfähigere Apps mit der Decisions API"
   },
   {
-    "title": "Discord now formats Markdown previews right",
-    "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-    "description": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects on the platform.\n\"When you upload a Markdown (.md) file, you'll now see the file rendered all nice and neat and pretty instead of with a bunch of symbols,\" Discord says. \"This includes tables, formatting, all that good stuff. Totally great for when you're doing a casual Sunday-night sharing READ …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-22T18:58:19.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Das neueste Update von Discord, das heute veröffentlicht wurde, bringt eine große Verbesserung für Markdown-Vorschauen: Sie sollten jetzt korrekt dargestellt werden, statt mit „einer Reihe von Symbolen“, so das Unternehmen. LLMs und KI-Agenten verlassen sich häufig auf Markdown-Dateien für Anweisungen und Kontext, daher könnten diese verbesserten Vorschauen hilfreich sein ...",
-    "titleDE": "Discord formatiert Markdown-Vorschauen jetzt richtig"
-  },
-  {
     "title": "The Foundations of Scalable AI",
     "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "description": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
@@ -180,36 +290,6 @@
     "titleDE": "Mustafa Suleyman von Microsoft sagt, dass seine KI Ärzten in schwierigen Fällen überlegen sei, während er der „medizinischen Superintelligenz“ nachjagt."
   },
   {
-    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-    "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-    "description": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? Actually, don't answer that. The more urgent question coming off Meta's quarterly earnings call Wednesday night is more likely to be: \"Is he?\"\nZuckerberg is staking Meta's future on Muse, the personal AI agent it released to the general public last month. It's early days, but Zuckerberg told investors during Wednesday's call that  …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-22T18:15:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Mark Zuckerberg steuert auf eine Zukunft zu, in der ein autonomes Netzwerk von KI-Agenten unser Leben bestimmen wird – sie kaufen für uns ein, arbeiten für uns und sprechen für uns mit den KI-Agenten anderer Leute. Sind die Menschen bereit für diese sehr spezifische und unerbittliche Vision eines Lebens, in dem wir hauptsächlich über ... kommunizieren?",
-    "titleDE": "In Metas Version der Zukunft werde ich meine Muse deine Muse nennen lassen"
-  },
-  {
-    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-    "description": "Microsoft AI chief Mustafa Suleyman. | Getty Images\t\n\nFor years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human doctors.\nThe findings, published Thursday in one of the world's most prestigious journals, Science, are based on tests pitting Microsoft's AI system against human physicians on a series of scenarios drawn from medical case reports and emergency department data. Microsoft compiled the cases into its own benchmark, S …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-22T18:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Microsoft-KI-Chef Mustafa Suleyman. | Getty Images Seit Jahren führen KI-Führungskräfte das Gesundheitswesen als eines der klarsten Beispiele dafür an, wie ihre Technologie das Leben verbessern wird. Jetzt „ist es endlich da“, sagt Mustafa Suleyman, CEO von Microsoft AI, gegenüber The Verge. Das Unternehmen behauptet, eine KI-Power entwickelt zu haben...",
-    "titleDE": "Laut Microsoft ist sein KI-Tool bei der Diagnose von Erkrankungen besser als Ärzte"
-  },
-  {
-    "title": "Someone hacked the Switch 2 by using an old game and AI",
-    "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-    "description": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.\n\n\ni jailbroke the nintendo switch 2\nso i modded cinnamoroll, peter griffin, hatsune miku, and more into Mario Kart World, a switch 2 exclusive\nnow watch my friends and i get cooked by bots\nlearn more and get the exploit https://t.co/ykjgyfrFRp pic.twitter.com/BOcFhejRz1\n- pepsipu (@pepsipu) October 22, 2026\n\nOpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pe …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-22T17:21:31.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der Nintendo Switch 2 wurde offenbar gejailbreakt, und ein Modder hat bereits gezeigt, dass auf der Konsole eine benutzerdefinierte Version von Mario Kart World mit neuen spielbaren Charakteren wie Cinnamoroll, dem roten Angry Bird, Peter Griffin und Steve aus Minecraft läuft. Ich habe den Nintendo Switch 2 jailbroken lassen, also habe ich ihn gemoddet ...",
-    "titleDE": "Jemand hat die Switch 2 gehackt, indem er ein altes Spiel und KI verwendet hat"
-  },
-  {
     "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
     "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
     "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
@@ -220,16 +300,6 @@
     "titleDE": "Chinesische Hacker haben Tausende von Unternehmen ausspioniert, nachdem sie den IT-Riesen ConnectWise gehackt hatten"
   },
   {
-    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-    "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-    "description": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a team of 49 animators. All told, more than 1,000 artists worked on the film in some form. The painstaking process that goes into making a Laika film offers a distinct counterpoint to the instant progress promised by generative AI tools.\nRecently Wildwood director and Laika CEO Travis Knight joined a chorus of influencer filmmakers …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-22T16:16:15.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "„Wildwood“ ist der bisher ehrgeizigste Film von Laika, dem Stop-Motion-Studio, das vor allem für Schauspieler wie Coraline und ParaNorman bekannt ist. Es ist ein weitläufiges Fantasy-Abenteuer, dessen Fertigstellung fünf Jahre dauerte. An dem Prozess waren mehr als 230 Puppen – darunter allein 36 der Hauptfigur Prue – beteiligt, die gebro...",
-    "titleDE": "Der Regisseur von Wildwood sagt, KI sei „im Gegensatz zu allem, was wir in diesem Studio sind“"
-  },
-  {
     "title": "Uber puts all 30,000 employees on ChatGPT Work",
     "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
     "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
@@ -238,16 +308,6 @@
     "category": "news",
     "descriptionDE": "Der Mitfahrriese hat zuvor ein viel kleineres Pilotprojekt für ChatGPT Work eingeführt, führt den Unternehmensagenten nun unternehmensweit ein.",
     "titleDE": "Uber setzt alle 30.000 Mitarbeiter auf ChatGPT Work"
-  },
-  {
-    "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-    "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-    "description": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three AI firms recognize how important shaping policy …\nRead the full story at The Verge.",
-    "pubDate": "2026-10-22T15:50:30.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Es war ein arbeitsreicher Sommer für KI-Lobbyisten. Anthropic, OpenAI und Nvidia hatten jeweils zwischen Juli und September ihr Lobbying-Quartal mit den höchsten Ausgaben, wie Bundesangaben zeigen. Nvidia gab mit 2,2 Millionen US-Dollar den größten Teil der Gruppe aus, gefolgt von Anthropic mit 2,1 Millionen US-Dollar und OpenAI mit 1,5 Millionen US-Dollar. Im Vergleich zu ...",
-    "titleDE": "OpenAI, Anthropic und Nvidia verzeichneten Rekord-Lobbyquartale"
   },
   {
     "title": "Spotify’s current AI bet is about being the music service that agents choose",
@@ -420,36 +480,6 @@
     "titleDE": "Breiter Zugang durch einheitliche Standards"
   },
   {
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-    "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-    "pubDate": "2026-10-21T20:27:41.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Startup Recursive hat Flint veröffentlicht, ein kostenloses Codierungsmodell in Laptop-Größe, das größtenteils auf seinem eigenen KI-Forschungssystem basiert, als einen frühen Test von KI, der sich selbst verbessert.",
-    "titleDE": "Recursive bringt Flint auf den Markt, ein Laptop-Codierungsmodell, das angeblich größtenteils von KI entwickelt wurde"
-  },
-  {
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-    "pubDate": "2026-10-21T19:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Während Amazon KI-Agenten daran hindert, auf seiner Website einzukaufen, verfolgt Walmart den gegenteiligen Ansatz und führt eine neue Technologie ein, die es KI-Agenten ermöglicht, im Namen der Kunden einzukaufen, mit Kontrolle über Ausgaben und Transaktionsgenehmigungen.",
-    "titleDE": "Während Amazon KI-Agenten blockiert, rollt Walmart die Willkommensmatte aus"
-  },
-  {
-    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-    "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-    "pubDate": "2026-10-21T17:59:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Dies ist die Art von Sicherheitsproblem, die von KI erkannt und verhindert wurde, aber aufgrund der KI auch ein hohes Risiko darstellt.",
-    "titleDE": "PHP Armageddon: OpenAI und Googles Wiz finden alte Lücken, die das Internet in Panik versetzen"
-  },
-  {
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "link": "https://openai.com/index/att-legal",
     "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
@@ -498,16 +528,6 @@
     "category": "trend",
     "descriptionDE": "Ich wette, jeder hat eine einstudierte Antwort auf eine der schlimmsten Interviewfragen der Welt: „Was ist Ihre größte Schwäche?“ Immer wenn ich es verstanden habe, atme ich langsam – sogar nachdenklich – ein und rassle aus meinem Satz: „Ich sage zu oft Nein zu mir selbst.“ Ich werde nicht lügen. Es ist ein bisschen schamlos – definitiv …",
     "titleDE": "Wir können unmögliche Dinge tun"
-  },
-  {
-    "title": "Nuclear-powered spaceships",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-    "description": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era…",
-    "pubDate": "2026-10-21T09:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Kurz bevor die Artemis-II-Besatzung im vergangenen April ihre historische Steinschleuder um den Mond startete, kündigte die NASA Pläne zum Bau des Weltraumreaktors 1 Freedom an. SR-1, das erste interplanetare Raumschiff mit Kernreaktorantrieb, soll bis Ende 2028 eine unbemannte Mission zum Mars fliegen und 20...",
-    "titleDE": "Raumschiffe mit Atomantrieb"
   },
   {
     "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
@@ -658,25 +678,5 @@
     "category": "news",
     "descriptionDE": "Erfahren Sie, wie OpenAI ChatGPT in ressourcenarmen Programmiersprachen verbessert, mit neuen Auswertungen für Software-Engineering, SQLite und COBOL-Migration.",
     "titleDE": "Weiterentwicklung der Codierung in ressourcenarmen Programmiersprachen"
-  },
-  {
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "pubDate": "2026-10-16T20:59:01.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Die Aktionen hätten zu Strafanzeigen führen können, wenn Menschen hinter der Tastatur gestanden hätten.",
-    "titleDE": "OpenAI-Modelle haben eine Krypto-Wallet gehackt und weitere Websites gehackt"
-  },
-  {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "pubDate": "2026-10-16T19:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Mit ia.i, einer Konversationsschnittstelle, und der IARA-Governance-Plattform wendet Itaú seine AI First-Strategie auf Kunden und Mitarbeiter an – in einem der am stärksten regulierten Sektoren Brasiliens.",
-    "titleDE": "Wie Itaú generative KI für seinen gesamten Kundenstamm aufbaut"
   }
 ]
