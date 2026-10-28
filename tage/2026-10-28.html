@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Mittwoch, 28. Oktober 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Mittwoch, 28. Oktober 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas" target="_blank" rel="noopener">Die Wähler in Texas sind sich einig: Sie hassen Rechenzentren</a></h2><p class="news-description">Wenn Sie den texanischen NAACP-Präsidenten Gary Bledsoe fragen, wie es war, zu sehen, wie Rechenzentrumsentwickler nach Austin und den umliegenden Vororten strömten, kann er ein Projekt nach dem anderen aufzählen, das auf den Widerstand der Einheimischen stieß. In Taylor gibt es einen Streit um Pläne zum Bau eines Rechenzentrums an einem Standort, der ...</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">The Verge</span></div><h2 class="news-title"><a href="https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world" target="_blank" rel="noopener">Meta hat in aller Stille ein „KI-Haustierjournal“ herausgebracht. App</a></h2><p class="news-description">Meta hat ein Haustierspiel im „Tamagotchi-Stil“ namens Waddle World auf den Markt gebracht, bei dem virtuelle Kreaturen mit Benutzern chatten und Kritzeleien erstellen, um Gespräche zu veranschaulichen. Laut den Einträgen im Apple und Play Store handelt es sich bei dem „16-Bit-Tierpflegespiel“ nicht wirklich um ein Spiel, sondern um „ein als Haustier getarntes Tagesjournal“. ...</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">OpenAI</span></div><h2 class="news-title"><a href="https://openai.com/index/legora-agentic-operating-system-for-legal-work" target="_blank" rel="noopener">Legora entwickelt das Agenten-Betriebssystem für juristische Arbeiten</a></h2><p class="news-description">Erfahren Sie, wie Legora OpenAI-Modelle, ChatGPT und Codex nutzt, um juristische Arbeitsabläufe zu beschleunigen, die Vertragsanalyse zu erweitern und Anwälten die Möglichkeit zu geben, sich auf höherwertige Arbeiten zu konzentrieren.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/" target="_blank" rel="noopener">VCs werden mit dem Börsengang von Anthropic Milliarden verdienen, aber Amazon wird voraussichtlich noch viel (viel) mehr verdienen</a></h2><p class="news-description">Massive Notenumwandlungen enthüllen das wahre Ausmaß der Beteiligung von Amazon an Anthropic.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>
