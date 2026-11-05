@@ -1,5 +1,355 @@
 [
   {
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "description": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "pubDate": "2026-11-05T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das System kann Anfragen angeblich viermal schneller beantworten, mit 20 % weniger Fehlern und 90 % weniger verwendeten Token.",
+    "titleDE": "Box nutzt Nvidias Nemotron für ein neues Agent-First-Content-Retrieval-System"
+  },
+  {
+    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…",
+    "pubDate": "2026-11-05T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Texas war das neue Epizentrum des Aufbaus von KI-Rechenzentren. Das könnte kaputt sein. Texas ist der am schnellsten wachsende Rechenzentrumsmarkt in den USA und der Nullpunkt für große...",
+    "titleDE": "Der Download: Der fragile KI-Boom und die Veränderungen in der Energiepolitik in Texas"
+  },
+  {
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "description": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "pubDate": "2026-11-05T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Discovered Materials, ein Monate altes YC-Startup, das KI zur Suche nach Chipmaterialien einsetzt, bietet 200.000 US-Dollar für jede Lösung von fünf offenen materialwissenschaftlichen Problemen.",
+    "titleDE": "Ein YC-Startup steckt 1 Million US-Dollar in fünf ungelöste materialwissenschaftliche Probleme für KI"
+  },
+  {
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "description": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "pubDate": "2026-11-05T12:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Agility kommt heute als erstes börsennotiertes reines Unternehmen für humanoide Robotik an die Nasdaq.",
+    "titleDE": "Agility ist das erste rein humanoide Roboterunternehmen an der Börse. Kaufen Sie?"
+  },
+  {
+    "title": "Big Tech’s big AI buildout will not end until someone stops it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "description": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns.\nA third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own.\nAmazon, Microsoft, Alphabet, and Meta told investors they're planning to spend at least $720 billion on CapEx this year alone. Most of that will go toward AI infrastructure. That's on top of at least $1 trillion in spending commitments that have bee …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-05T10:45:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nachdem vier der größten Konkurrenten im KI-Wettbewerb Ende letzten Monats vierteljährliche Gewinnmitteilungen abgehalten haben, sind zwei Dinge klar: Big Tech ist noch nicht damit fertig, Rekordsummen für den Ausbau des KI-Rechenzentrums auszugeben, und der Ausbau des KI-Rechenzentrums ist seinen versprochenen Erträgen nicht näher gekommen. Eine dritte Sache ist ...",
+    "titleDE": "Der große KI-Ausbau von Big Tech wird nicht enden, bis ihn jemand stoppt"
+  },
+  {
+    "title": "A new bill could change how the US builds energy infrastructure ",
+    "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "description": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally…",
+    "pubDate": "2026-11-05T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Ein umfassendes Gesetz zum Bürokratieabbau könnte den Ausbau der Energieinfrastruktur in den USA beschleunigen. Nachdem sich der Staub über die bedeutsamen Zwischenwahlen dieser Woche kaum gelegt hat, wird der Senat am 9. November über den parteiübergreifenden American Affordability and Jobs Act (BAAJA) abstimmen. Es ist ein Plan, der ...",
+    "titleDE": "Ein neuer Gesetzentwurf könnte die Art und Weise verändern, wie die USA die Energieinfrastruktur aufbauen"
+  },
+  {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "pubDate": "2026-11-05T02:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI stellt seinen National Community Compact and Compute Campus Policy Blueprint vor, um lokale Ressourcen zu schützen, Arbeitsplätze zu schaffen und eine verantwortungsvolle Entwicklung der KI-Infrastruktur zu steuern.",
+    "titleDE": "Einen neuen Standard für eine verantwortungsvolle KI-Infrastruktur setzen"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "pubDate": "2026-11-05T01:26:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Unternehmen soll die Ausgaben für KI für seine Entwicklungsteams deutlich senken.",
+    "titleDE": "Berichten zufolge kürzt Apple die Budgets für die interne KI-Nutzung"
+  },
+  {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "pubDate": "2026-11-05T01:02:14.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Opposition gegen Rechenzentren hat in den Zwischenwahlen am Dienstag die Parteigrenzen überschritten.",
+    "titleDE": "Nach den Zwischenwahlen könnte es zu einem größeren Konflikt um die Rechenzentren kommen"
+  },
+  {
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "pubDate": "2026-11-04T22:45:09.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "PACs der KI-Branche gaben Millionen aus, um die Zwischenwahlen 2026 zu beeinflussen, mit gemischten Ergebnissen. Die politischen Gruppen blicken bereits auf den nächsten Wahlzyklus.",
+    "titleDE": "KI-PACs gaben Millionen aus, um den Kongress zu formen – so schnitten sie ab"
+  },
+  {
+    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+    "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\nConsidering the company's total revenue for 2026 was $10.4 billion, …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T22:42:15.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Da die Smartphone-Verkäufe im Vergleich zu 2025 um rund 20 Prozent zurückgehen, sucht Qualcomm nach Rechenzentren, um seinen Gewinn zu steigern. Während seiner Telefonkonferenz zu den Ergebnissen des vierten Quartals 2026 legte das Unternehmen seine Pläne dar, durch Partnerschaften mit Unternehmen wie Amazon und ... im Geschäft mit KI-Rechenzentren für Furore zu sorgen.",
+    "titleDE": "Qualcomm setzt stark auf Rechenzentren, da die Smartphone-Verkäufe sinken"
+  },
+  {
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+    "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+    "pubDate": "2026-11-04T22:26:49.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Forscher sagen, dass die Gruppe möglicherweise vom Kreml auf der Suche nach diplomatischen Zielen gesponsert wurde.",
+    "titleDE": "Hacker nutzten iOS- und Android-Fehler aus, um Telefone zu infizieren"
+  },
+  {
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "pubDate": "2026-11-04T22:13:16.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Obwohl noch nicht klar ist, welche Art von Produkt das Smartphone-Startup entwickelt, sagte der CEO von Nothing, dass das Produkt darauf ausgelegt sei, KI für Produktivitätssteigerungen zu nutzen.",
+    "titleDE": "Der CEO von Nothing sagt, dass das mysteriöse AI-First-Gerät des Unternehmens nächsten Monat auf den Markt kommt"
+  },
+  {
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "pubDate": "2026-11-04T21:56:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "In der geschäftigsten Woche im letzten Quartal buchten laut Uber nur vier Personen eine Fahrt über einen KI-Agenten.",
+    "titleDE": "Laut Unternehmen nutzt fast niemand KI-Agenten, um sein Uber zu buchen"
+  },
+  {
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you may delusionally throw away nearly $500 million dollars on midterm elections, just like Elon Musk.\nIn particular, $47 million of that money from Musk's America PAC was aimed at defeating Texas Democrat James Talarico, who trounced Musk's preferred Senate candidate, Ken Paxton, with 55 percent of the vote. Talarico even made Musk's influence a cent …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T21:45:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Träume größer, Baby. | Bild: Cath Virginia / The Verge, Getty Images Eines der Grundprobleme, wenn man zu viel Zeit in den sozialen Medien verbringt, besteht darin, dass man sein Gehirn durch das Lesen von Beiträgen einer Gruppe aufmerksamkeitshungriger Verrückter zum Kochen bringt. Wenn Ihr bevorzugtes soziales Medium die Website ist, die früher als Twitter bekannt war ...",
+    "titleDE": "17 bessere Möglichkeiten, wie Elon Musk 446 Millionen Dollar hätte verschwenden können"
+  },
+  {
+    "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+    "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+    "description": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+    "pubDate": "2026-11-04T21:38:49.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "„Wir haben begonnen, auf viele unserer Kunden aus dem unteren Preissegment zu hören“, sagt VMware Executive.",
+    "titleDE": "VMware veröffentlicht vSphere Express für die Virtualisierung auf bis zu 128 Kernen"
+  },
+  {
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "pubDate": "2026-11-04T21:25:44.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Chris Lehane von OpenAI möchte, dass KI die Wahl 2028 bestimmt, und schlägt einen neuen Gesellschaftsvertrag vor, der den Amerikanern zugute kommen und gleichzeitig die eigenen Geschäftsinteressen des KI-Riesen fördern könnte.",
+    "titleDE": "OpenAI versucht bereits, die Wahl 2028 zu gestalten"
+  },
+  {
+    "title": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "pubDate": "2026-11-04T21:10:56.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Startup ermöglicht es Softwareentwicklern, Agententeams einzusetzen, die gleichzeitig an verschiedenen Aspekten eines Projekts arbeiten.",
+    "titleDE": "Meta übernimmt das AI-Coding-Startup Conductor"
+  },
+  {
+    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "description": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more.\nWith the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like \"What dug up the yard last night?\" or \"Who let the dogs out?\", as well as revie …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T20:23:24.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das Smart-Home-Sicherheitssystem von AT&T lässt sich jetzt in Gemini for Home integrieren. Das Unternehmen gibt an, dass sein Connected Life-System das „erste“ Heimsicherheitsprodukt ist, das in Google Home Premium integriert ist und eine Reihe von Gemini-Funktionen ermöglicht, mit denen Sie Ereignisse zu Hause zusammenfassen, Ihren Videoverlauf durchsuchen und vieles mehr können.",
+    "titleDE": "Gemini for Home lässt sich jetzt an das intelligente Sicherheitssystem von AT&T anschließen"
+  },
+  {
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
+    "pubDate": "2026-11-04T19:30:04.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Open-Source-Modelle werden immer mehr zum Mainstream, da Unternehmen, Regierungen und Startups gleichermaßen auf das Versprechen geringerer Kosten, mehr Kontrolle und mehr Flexibilität vertrauen. Aber wie können Unternehmen Mehrwert schaffen, wenn immer leistungsfähigere Modelle immer freier verfügbar werden? Und da chinesische offene Modelle auf dem Vormarsch sind ...",
+    "titleDE": "Open-Source-KI boomt. Hugging Face erklärt, wer profitiert."
+  },
+  {
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "pubDate": "2026-11-04T19:29:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "DuckDuckGo wirbt um Schulen, die von den KI-Beschränkungen von Google frustriert sind, und weist Pädagogen auf die Suchmaschine und Optionen zum Deaktivieren von KI-Funktionen hin.",
+    "titleDE": "DuckDuckGo wirbt angesichts der Gegenreaktion auf die KI-Richtlinie von Google vor Schulen"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
+    "pubDate": "2026-11-04T18:50:55.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Texas ist der am schnellsten wachsende Rechenzentrumsmarkt in den USA und der Ausgangspunkt für die größten KI-Ausbauten von Big Tech. Aber die blaue Welle, die den Lone Star State erfasst hat, könnte diese Position gefährden. Der Demokrat James Talarico gewann den Sitz im US-Senat gegen Ken Paxton. Gina Hinojosa gewann das Rennen um den Gouverneursposten ...",
+    "titleDE": "Texas war das neue Epizentrum des Aufbaus von KI-Rechenzentren. Das könnte kaputt sein."
+  },
+  {
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
+    "pubDate": "2026-11-04T18:44:57.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Open-Source-Modelle werden immer mehr zum Mainstream, da Unternehmen, Regierungen und Startups gleichermaßen auf das Versprechen geringerer Kosten, mehr Kontrolle und mehr Flexibilität vertrauen. Aber wie können Unternehmen Mehrwert schaffen, wenn immer leistungsfähigere Modelle immer freier verfügbar werden? Und da chinesische offene Modelle auf dem Vormarsch sind ...",
+    "titleDE": "Auf Open-Source-KI aufbauen? Hugging Faces politischer Leiter über die Kosten, Risiken und Kompromisse"
+  },
+  {
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "description": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen:\n\"Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app.\"\nPei shared an image with the post that says \"NOTHING(R)\" in the top left corner, above an ambiguous black rounded  …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T18:26:07.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Carl Pei, CEO von Nothing, sagte in einem Beitrag auf X, dass das Unternehmen im Dezember sein erstes KI-Gerät auf den Markt bringen werde. Das ist etwas mehr als ein Jahr, nachdem Pei Pläne für „KI-native“ Geräte und ein KI-Betriebssystem angekündigt hat. Er hat nicht viel darüber verraten, was genau das neue Gerät ist, nur dass eine Funktion ...",
+    "titleDE": "Es gibt nichts, was ein bildschirmloses KI-Gerät vor der Markteinführung im nächsten Monat verspricht"
+  },
+  {
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "description": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…",
+    "pubDate": "2026-11-04T18:21:40.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dienstag, 17. November 2026 In dem Bemühen, eine schwer fassbare Kontinuität des Selbst zu erreichen, arbeiten einige weitdenkende Technologen an Möglichkeiten, Ihr Gehirn am Laufen zu halten – sogar über den Tod hinaus. Begleiten Sie die Wissenschaftsredakteurin Mary Beth Griggs und den leitenden Redakteur für Biomedizin Antonio Regalado zu einem Gespräch über Möglichkeiten ...",
+    "titleDE": "Roundtables: Auf der Suche nach kognitiver Unsterblichkeit"
+  },
+  {
+    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+    "description": "Also, can I just say this LED indicator light is way too small and unnoticeable?\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\n\"How does that make you feel?\"\nI get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the Amazon Bee Frontier during our session.\nThat first week, I didn't really have an answer. A lot had changed since I first tested Bee, an always-recording AI wearable, early last year. The ele …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Kann ich auch einfach sagen, dass diese LED-Anzeige viel zu klein und unauffällig ist? Dies ist Optimizer, ein wöchentlicher Newsletter der Verge-Rezensentin Victoria Song, der die neuesten Spielereien und Zaubertränke analysiert und bespricht, die schwören, dass sie Ihr Leben verändern werden. Melden Sie sich hier für Optimizer an. „Ho...",
+    "titleDE": "Mein Therapeut meint, ich sollte die Amazon Bee Frontier aus dem Fenster werfen"
+  },
+  {
+    "title": "ChatGPT will now make you animated GIFs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+    "description": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others.\nBefore this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, \"can you make a gif of a cat dancing?\" while also providing you with the option to change the playback speed and view it frame by frame.\nAlong with support for GIF-making, the Images 2.6 update also enables faster imag …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "ChatGPT kann jetzt GIFs mithilfe einer Eingabeaufforderung oder eines in den KI-Chatbot hochgeladenen Fotos erstellen. Das Update, das zusammen mit dem neuen Images 2.6-Modell von OpenAI eingeführt wird, ermöglicht es Ihnen, die Animationsgeschwindigkeit des GIF anzupassen, einzelne Frames zu bearbeiten und es mit anderen zu teilen. Vor dieser Änderung konnte ChatGPT nicht nativ ...",
+    "titleDE": "ChatGPT erstellt Ihnen jetzt animierte GIFs"
+  },
+  {
+    "title": "What’s next for US energy policy after the midterm elections?",
+    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+    "description": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago.  …",
+    "pubDate": "2026-11-04T17:08:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Ich bin an meine verschiedenen Bildschirme gefesselt, seit gestern Abend die Ergebnisse der Zwischenwahlen eintrafen. Und es dauerte nicht lange, bis die blaue Welle begann: Die Demokraten übernahmen die Kontrolle sowohl im US-Repräsentantenhaus als auch im Senat, ein dramatischer Umschwung nach Donald Trumps Sieg zwei...",
+    "titleDE": "Wie geht es in der US-Energiepolitik nach den Zwischenwahlen weiter?"
+  },
+  {
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "pubDate": "2026-11-04T16:51:35.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Apples KI-gestützte Siri Recaps haben mich trotz meiner Bedenken hinsichtlich der Privatsphäre innerhalb nur eines Tages überzeugt. Aber es gibt noch Raum für Verbesserungen.",
+    "titleDE": "Ich habe Apples Siri Recaps ausprobiert. Sie sind überraschend nützlich – und ein wenig beunruhigend"
+  },
+  {
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "description": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "pubDate": "2026-11-04T16:17:22.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Politiker der Linken, wie der New Yorker Bürgermeister Zohran Mamdani und die frühere FTC-Vorsitzende Lina Khan, warfen Google vor, als unreguliertes Monopolist zu agieren.",
+    "titleDE": "Google stößt auf Gegenreaktion wegen seines Plans, die Suche für Schulen, die KI einschränken, auszuschalten"
+  },
+  {
+    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+    "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+    "description": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+    "pubDate": "2026-11-04T16:06:03.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Zu den Techniken gehörten Laptop-Infektionen, kompromittierte interne Tools und gefälschte Vorstellungsgespräche.",
+    "titleDE": "Laut Binance haben Hacker, die Milliarden an Kryptowährungen gestohlen haben, Monate damit verbracht, einen Raubüberfall zu planen"
+  },
+  {
+    "title": "Data centers lost the midterms",
+    "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+    "description": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry.\nOf voters polled by NBC News on Election Day, 76 percent said they opposed data centers in their communities. Dozens of local communities voted directly to restrict development through ballot measures. And upset winners like Texas Democratic Governor-elect Gina Hinojosa and Michigan's Democratic Senator-elect Abdul El-Sayed support moratoriums on development.\n …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T16:05:39.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Entwickler von Rechenzentren müssen mit einem restriktiveren Bauumfeld rechnen, nachdem Wähler im ganzen Land für Kandidaten gestimmt haben, die Moratorien und Abstimmungsmaßnahmen befürworten, die ihre Expansion noch mehr behindern und einem zentralen Pfeiler der KI-Branche einen herben Schlag versetzen. Von Wählern pol...",
+    "titleDE": "Rechenzentren haben die Zwischenprüfungen verloren"
+  },
+  {
+    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+    "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+    "description": "AI agents won't be stealing Uber's lunch any time soon. \nOnly four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during the week of Halloween, out of a total 320 million Uber rides and Uber Eats deliveries. \nThis is the first time that Uber has disclosed the number of third-party AI agents that have arranged deliveries or rides on its platform. With the rise of AI agents like Meta's Muse or OpenAI's Dots, some experts are predictin …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T15:58:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "KI-Agenten werden Uber so schnell nicht das Mittagessen stehlen. Im dritten Quartal 2026 wurden nur vier Fahrten von externen KI-Agenten arrangiert, gaben Uber-Führungskräfte heute Morgen bei einer Telefonkonferenz zu den Ergebnissen bekannt. Das Volumen der von KI-Agenten abgewickelten Uber Eats-Bestellungen war etwas höher, da das Unternehmen ...",
+    "titleDE": "Uber hat im letzten Quartal nur vier Fahrten von KI-Agenten durchgeführt"
+  },
+  {
+    "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+    "description": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it is fucking annoying that this was taken out of context. i have been arguing for the world to ramp up memory production for a long time.\"\nHe replied to another comment, saying, \"i want you to have so much ram lets build more.\"\n\n\nbut only because…i actually do want the world to have tons of memory and people to put as much as they want in their computers …\n\n\nRead the full story at The Verge.",
+    "pubDate": "2026-11-04T14:46:01.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Sam Altman, CEO von OpenAI, verbrachte die Wahlnacht damit, seine Position zum Kauf von PC-RAM zu verteidigen. Als Reaktion auf den Kommentar eines anderen Benutzers änderte er seinen Namen auf",
+    "titleDE": "Sam Altman geht auf RAM-Kommentare ein: Die Leute sollten „so viel in ihre Computer stecken, wie sie wollen“."
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "pubDate": "2026-11-04T14:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI wird die Pierre Computer Company übernehmen und damit die Tools von Codex zum Erstellen, Verstehen und Überprüfen von Code erweitern.",
+    "titleDE": "OpenAI übernimmt Pierre Computer Company, Inc."
+  },
+  {
     "title": "The Download: blended meat, restored sight, and the agentic web",
     "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:…",
@@ -30,34 +380,44 @@
     "titleDE": "Sicherung des Agentenunternehmens mit Datenherkunft"
   },
   {
-    "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-    "description": "Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images\t\n\nSearch queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads that generate revenue for Google - slowed from 13 percent to 8 percent.\nThat's still substantial growth, but not the direction investors were hoping for from a company planning to spend about $200 billion this year on infrastructure, largely to support AI. Alphabet shares have fallen about 14 percent since it reported e …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T12:00:00.000Z",
-    "source": "The Verge",
+    "title": "A thousand fewer paths to root",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "pubDate": "2026-11-04T08:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Philipp Schindler, Chief Business Officer von Google. | Bloomberg über Getty Images Suchanfragen wachsen so schnell wie seit fünf Jahren nicht mehr, sagte die Google-Muttergesellschaft Alphabet letzte Woche in ihrem Ergebnisbericht. Allerdings verlangsamte sich das Wachstum des Suchumsatzes von Google im dritten Quartal im Jahresvergleich auf 12 Prozent ...",
-    "titleDE": "Google hat nicht herausgefunden, wie man KI wie seine Suchmaschine bezahlen kann"
+    "descriptionDE": "OpenAI baute eine autonome Pipeline auf, die Patches für 948 lokale Sicherheitslücken bei der Rechteausweitung im Linux-Kernel fand, validierte und generierte.",
+    "titleDE": "Tausend Wege weniger zum Rooten"
   },
   {
-    "title": "The biggest modding site in PC gaming is taking a stance on AI",
-    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-    "description": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform.\n\"One of the most consistent concerns we've heard is that it's not clearly disclosed when AI has been used to create a mod,\" according to the post from site owner Victor \"Foledinho\" Folmann. \"We already have tags for AI-generated and AI-assisted mods, but we recognise that there's a lot more we can do to make that information more accessible and clear for you a …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T00:42:10.000Z",
-    "source": "The Verge",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "pubDate": "2026-11-04T07:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Das PC-Gaming-Mods-Repository Nexus Mods schreibt die Offenlegung von KI für das Hochladen neuer Mods vor. Das bedeutet, dass Mod-Autoren angeben müssen, „ob KI in ihrer Arbeit verwendet wurde“, gab die Website heute im Rahmen eines großen Beitrags über KI-generierte Inhalte auf der Plattform bekannt. „Einer der mo...",
-    "titleDE": "Die größte Modding-Site im PC-Gaming bezieht Stellung zum Thema KI"
+    "descriptionDE": "Daybreak Red bringt GPT-5.6 Cyber ​​über Amazon Bedrock zu autorisierten Kunden in AWS GovCloud (USA-Ost) für autorisierte Cybersicherheitsarbeiten.",
+    "titleDE": "Daybreak Red ist jetzt in AWS GovCloud (USA-Ost) verfügbar."
   },
   {
-    "title": "Please stop asking me when the AI bubble will pop",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-    "description": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\t\n\nPeople, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.\nWhat I can tell you is that I read with interest a story in Bloomberg this morning: \"Wall Street CEOs, Big Money Managers Divided Over AI Risks.\" The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T23:37:45.000Z",
-    "source": "The Verge",
+    "title": "Introducing Images 2.6",
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "pubDate": "2026-11-04T00:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Emmanuel Roman, CEO von Pacific Investment Management Co. (Pimco), während des Global Financial Leaders' Investment Summit in Hongkong, China, am Dienstag, 3. November 2026. | Bloomberg über Getty Images Die Leute, auch aus diesem Team, fragen mich immer wieder mit unterschiedlicher Aufregung ...",
-    "titleDE": "Bitte hör auf, mich zu fragen, wann die KI-Blase platzen wird"
+    "descriptionDE": "Images 2.6 bietet eine schnellere Bildgenerierung, GIF-Erstellung, präzisere Bearbeitung und neue API-Steuerelemente für ChatGPT, Codex und die API.",
+    "titleDE": "Einführung in Bilder 2.6"
+  },
+  {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "link": "https://openai.com/index/devrev-enterprise-self-service",
+    "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "pubDate": "2026-11-04T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "DevRev verwendet GPT-6.1 Sol, um Computer und Bediener mit Strom zu versorgen und dabei Argumentation, Geschwindigkeit und Kosten für Unternehmensdienste in Einklang zu bringen.",
+    "titleDE": "DevRev bietet autonomen Self-Service mit GPT-6.1 Sol"
   },
   {
     "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -100,116 +460,6 @@
     "titleDE": "Sich im aufstrebenden Viertel von Palantir zu verstecken, ist ein unheilvolles Signal"
   },
   {
-    "title": "Those Jeff Bezos hair transplant photos are very fake",
-    "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-    "description": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge\t\n\nAmazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved look, which in Bezos' case appears to be very freshly transplanted. It's all just photo editing fakery, AI or otherwise.\nIt's unclear how viral these posts are, but they're prevalent enough that a few members of the Verge team have encountered them in their social media feeds. Some people who shared them claimed  …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T21:01:07.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Diese Bearbeitungen von Jason Statham (links) und Jeff Bezos sind etwas verwirrend, aber genau darum geht es. | Bild: The Verge Amazon-Gründer Jeff Bezos und Schauspieler Jason Statham haben eine Besonderheit gemeinsam: Sie sind beide berühmt für ihre Glatze, und daran hat sich in den letzten Tagen definitiv nichts geändert. Jedoch,...",
-    "titleDE": "Diese Haartransplantationsfotos von Jeff Bezos sind sehr gefälscht"
-  },
-  {
-    "title": "Apple starts giving Siri AI access to third-party apps",
-    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-    "description": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to complete requests.\nThe update, which is rolling out as part of a Developer Preview, also adds a new \"app skills\" feature that third-party developers can create to combine several tasks into a single action. In Apple's developer documentation, the company says users won't have to mention an app's name in their …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T20:16:17.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apple lässt nun zu, dass Siri AI Aktionen in Drittanbieter-Apps durchführt. Als Teil des iOS 27.3-Updates, das am Dienstag eingeführt wurde, kündigte Apple an, dass Entwickler nun die neuen Funktionen von Siri AI in „alle Apps“ integrieren können, sodass der Sprachassistent auf den persönlichen Kontext eines Benutzers zurückgreifen, natürliche Sprachpr... verarbeiten kann.",
-    "titleDE": "Apple beginnt damit, Siri AI Zugriff auf Apps von Drittanbietern zu gewähren"
-  },
-  {
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "description": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-    "pubDate": "2026-11-03T19:34:43.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das fünf Jahre alte Startup hat unter der Leitung von Bessemer eine 1,3-Milliarden-Dollar-Runde eingesammelt.",
-    "titleDE": "Das KI-Inferenz-Startup Fal verdoppelt seinen Wert auf 16 Milliarden US-Dollar, da die Nachfrage steigt"
-  },
-  {
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "description": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "pubDate": "2026-11-03T18:42:16.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die erste experimentelle Funktion unter der Registerkarte ermöglicht es Benutzern, Empfehlungen basierend auf ihren aktuellen Stimmungen zu erhalten.",
-    "titleDE": "Mit der neuen Registerkarte „AI Discover“ von Netflix können Sie je nach Stimmung etwas zum Ansehen finden"
-  },
-  {
-    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-    "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-    "description": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 seconds of audio your watch's mic detected. \nApple is also releasing its redesigned Health app for testing today in the iOS 27.3 developer beta, and announced expanded language support in global English, Chinese (Simplified and Traditional), French, Japanese, Korean, Norwegian, Portuguese, Spanish, Turki …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T18:31:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ab heute kann Siri mit den Audio-Intelligence-Funktionen, die in der neuen Entwickler-Beta von watchOS 27.3 verfügbar sind, das Mikrofon der Apple Watch nutzen. Die beiden neuen Ergänzungen sind Siri Recap, das „Ambient Listening“ verwendet, um Zusammenfassungen Ihrer Konversation zu erstellen, und Live Rewind, das ...",
-    "titleDE": "Apples neueste watchOS-Beta enthält die neuen Always-on-Audio-Intelligence-Funktionen"
-  },
-  {
-    "title": "OpenAI says ChatGPT is catching up to Google in search",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-    "description": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nAdam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.)\nHaving one-fifth as many searches as Google is still a long way from overtaking it, b …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T18:30:42.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "In vielen Kreisen hat „Ask Chat“ „Google it“ ersetzt, und das spiegelt sich in einer neuen Ankündigung von OpenAI wider: Das Volumen der über ChatGPT getätigten Suchanfragen entspricht jetzt 20 Prozent des über Google getätigten Volumens. Adam Fry, OpenAIs Consumer Product Lead für ChatGPT, gab die Ankündigung auf einer Pre... bekannt.",
-    "titleDE": "OpenAI sagt, dass ChatGPT bei der Suche zu Google aufschließt"
-  },
-  {
-    "title": "Indie games are missing launch dates because Steam is backed up",
-    "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-    "description": "A screenshot from Food Devils, which is missing its planned launch today.\t\n\nMany indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.\nFor example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in early access today after submitting its build on October 12th. But the game is \"still awaiting approval,\" according to a post from game director Alfred Kamon. \"Even now, we don't know when Steam will give us the final OK to finally release our game. We sent another ticket last week saying that the situat …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T18:14:50.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Ein Screenshot von Food Devils, dessen geplanter Start heute fehlt. Viele Indie-Spieleentwickler haben kürzlich in den sozialen Medien über unerwartet lange Genehmigungswartezeiten für ihre Spieleeinreichungen auf Steam berichtet, wobei einige der Genehmigungen dazu führten, dass Entwickler ihre geplanten Veröffentlichungstermine verpassten....",
-    "titleDE": "Bei Indie-Spielen fehlen Veröffentlichungstermine, da Steam gesichert ist"
-  },
-  {
-    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-    "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-    "description": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.\nThe first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show you recommendations that match it. If you don't like a recommendation, you can tell that to Netflix, and the app will remember it.\nThe company says that AI Discover is powered by \"a new intelligence layer we've been building that responds to what members tell us in real time and keeps learning.\"\nAI Discover …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T18:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Die TV-App von Netflix erhält einen neuen Tab „AI Discover“, auf dem das Unternehmen experimentelle, KI-gestützte Funktionen zeigt, die Ihnen dabei helfen, neue Sendungen und Filme zum Ansehen zu finden. Das erste dieser Experimente zeigt Inhalte zu Themen wie „Something Light“, „Family Movie Night“ oder „Quick Watches“. Whe...",
-    "titleDE": "Netflix zeigt Ihnen thematische Empfehlungen über eine neue Registerkarte „AI Discover“."
-  },
-  {
-    "title": "Anthropic is still grappling with the economics of compute",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "description": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-    "pubDate": "2026-11-03T17:07:01.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Zu einem Zeitpunkt, an dem die Rechenmargen von Anthropic besser werden sollten, werden sie immer schlechter.",
-    "titleDE": "Anthropic beschäftigt sich immer noch mit der Ökonomie der Datenverarbeitung"
-  },
-  {
-    "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-    "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-    "description": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts unless \"administrators explicitly turn them on.\"\nAdministrators will not be given the option to toggle Gemini-powered features off without disabling Search, however. Chris Phillips, Google's vice president of education, told the NYT, \"Search and AI are deeply integrated,\" adding that schools that disable …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-03T17:00:04.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Google schaltet die Suche in Schulen, die seine KI-Funktionen ablehnen, vollständig aus, sagte das Unternehmen gegenüber der New York Times. Die Entscheidung wurde am Dienstag auch in einem umfassenderen bildungsbezogenen Update von Google bekannt gegeben, in dem es heißt, dass der Zugriff auf Gemini, Gemini Notebook, Gemini in Classroom und die Google-Suche „...",
-    "titleDE": "Google deaktiviert die Suche vollständig in Schulen, die keine KI wollen"
-  },
-  {
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-    "pubDate": "2026-11-03T16:30:34.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Schulen, die sich für eine vollständige Einschränkung der KI entscheiden, können nicht mehr auf die Google-Suche zugreifen, da KI-Funktionen nun in die Suchmaschine integriert sind.",
-    "titleDE": "Google wird Schulen erlauben, seine KI-Tools zu deaktivieren, allerdings nicht ohne die Suche zu opfern"
-  },
-  {
     "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
     "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
     "description": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
@@ -220,43 +470,13 @@
     "titleDE": "UEFI-Bootkit infizierte vollständig gepatchte Windows-Maschinen. Ist Microsoft schuld?"
   },
   {
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-    "pubDate": "2026-11-03T15:38:27.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neuen App Store-Regeln von Apple erfordern eine Mindestbewertung von 18 Jahren für Dating-Apps und KI-Begleiter, die sexuelle oder romantische Inhalte anbieten.",
-    "titleDE": "Apple beschränkt Dating-Apps und KI-Begleiter auf Benutzer ab 18 Jahren"
-  },
-  {
-    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-    "description": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-    "pubDate": "2026-11-03T14:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Am 4. November bringt der TechCrunch Founder Summit 2026 Gründer und VCs in das SoWa-Kraftwerk in Boston, um praktische Einblicke und Kontakte zu erhalten. Melden Sie sich an der Abendkasse an, bevor die Preise steigen.",
-    "titleDE": "Die Agenda des TechCrunch Founder Summit ist nur der halbe Grund, am 4. November in Boston zu sein"
-  },
-  {
-    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-    "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-    "description": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-    "pubDate": "2026-11-03T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sichern Sie sich Ihre Ersparnisse beim TechCrunch Founder Summit-Pass, bevor die Preise morgen um 9:00 Uhr ET steigen. Sparen Sie bis zu 100 $ bei Ihrem Pass und erhalten Sie einen zweiten Pass gratis.",
-    "titleDE": "Morgen: Der TechCrunch Founder Summit übernimmt Boston und wenn die Erfolgsquoten steigen"
-  },
-  {
     "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
     "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
     "pubDate": "2026-11-03T13:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie die „umgekehrte Spieltheorie“ KI-Agenten unter Kontrolle halten könnte Ein neuer Ansatz namens „umgekehrte Spieltheorie“ zielt darauf ab, leistungsstarke KI-Modelle durch den Entwurf von Systemen zu steuern, die ...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. Wie die „umgekehrte Spieltheorie“ KI-Agenten unter Kontrolle halten könnte Ein neuer Ansatz namens „umgekehrte Spieltheorie“ zielt darauf ab, leistungsstarke KI-Modelle durch den Entwurf von Systemen zu steuern, die ...",
     "titleDE": "Der Download: Kontrolle von KI-Agenten und „Super Intelligence“-Treuetests"
   },
   {
@@ -276,7 +496,7 @@
     "pubDate": "2026-11-03T10:43:41.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Ein neuer Ansatz, bekannt als „Reverse Game Theory“, zielt darauf ab, leistungsstarke KI-Modelle durch die Entwicklung von Systemen zu kontrollieren, die sie dazu anregen, sich an die Regeln zu halten. Da KI-Modelle immer leistungsfähiger werden, bemühen sich Sicherheitsforscher darum, sicherzustellen, dass sie mit den menschlichen Wünschen in Einklang stehen – mit anderen Worten: Sicherstellen, dass ...",
+    "descriptionDE": "Ein neuer Ansatz, bekannt als „Reverse Game Theory“, zielt darauf ab, leistungsstarke KI-Modelle durch die Entwicklung von Systemen zu kontrollieren, die sie dazu anregen, sich an die Regeln zu halten. Da KI-Modelle immer leistungsfähiger werden, bemühen sich Sicherheitsforscher darum, sicherzustellen, dass sie mit den menschlichen Wünschen in Einklang gebracht werden – mit anderen Worten: Sicherstellen, dass ...",
     "titleDE": "Wie die „umgekehrte Spieltheorie“ KI-Agenten in Schach halten könnte"
   },
   {
@@ -300,16 +520,6 @@
     "titleDE": "Heimstaden verändert das Wohnimmobilienmanagement mit KI"
   },
   {
-    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-    "pubDate": "2026-11-03T07:20:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Jetzt in der Beta-Phase: Mit den neuen Audio-Intelligence-Funktionen von Apple können Sie sich daran erinnern, was jemand gesagt hat, oder Notizen zu Gesprächen machen.",
-    "titleDE": "Die KI-Funktionen der Apple Watch zum Zurückspulen und Wiederholen von Gesprächen beginnen mit dem Betatest"
-  },
-  {
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
     "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
@@ -318,36 +528,6 @@
     "category": "trend",
     "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Ende September unterzeichnete Präsident Trump eine Durchführungsverordnung, die nur eine Direktive enthielt und die Regierungsbehörden dazu aufforderte, das, was ihnen bisher zugewiesen worden war, umzubenennen.",
     "titleDE": "Hier erfahren Sie, wer sich für Trumps Loyalitätstest „Super Intelligence“ anmeldet"
-  },
-  {
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-    "pubDate": "2026-11-03T03:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Googles Dreambeans, sein neuestes KI-Experiment, unterstützt jetzt 13 indische Sprachen.",
-    "titleDE": "Google bringt Dreambeans nach Indien, um der breiten Masse KI-generierte persönliche Geschichten zugänglich zu machen"
-  },
-  {
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-    "pubDate": "2026-11-03T01:49:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Apple deutete während seiner Gewinnmitteilung am Montagabend Möglichkeiten an, den Umsatz durch „Gelegenheiten“ Dritter anzukurbeln.",
-    "titleDE": "Apple versucht möglicherweise, den Umsatz zu steigern, indem es … etwas mit KI-Apps von Drittanbietern macht"
-  },
-  {
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-    "pubDate": "2026-11-03T00:35:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Y-Kombinator Garry Tan hat scherzhaft zugegeben, dass er an einer „Cyberpsychose“ leide und manchmal kaum schlafe, weil er so aufgeregt sei, mit seinen KI-Agenten zusammenzuarbeiten. In einer neuen Folge von Walter Isaacsons Podcast „The Builders“ hat Tan seine Leidenschaft mit einem Preisschild versehen.",
-    "titleDE": "Garry Tan von Y Combinator nutzt so häufig KI-Agenten, dass er bis zu 200.000 US-Dollar pro Jahr für Token ausgibt"
   },
   {
     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
@@ -360,44 +540,14 @@
     "titleDE": "OpenAI ernennt Jill Hazelbaker zur Chief Corporate Affairs Officer"
   },
   {
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "description": "The one-year-old startup is now valued at $300 million.",
-    "pubDate": "2026-11-02T23:13:53.000Z",
-    "source": "TechCrunch",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "pubDate": "2026-11-02T18:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Das ein Jahr alte Startup hat mittlerweile einen Wert von 300 Millionen US-Dollar.",
-    "titleDE": "Trajectory sammelt 45 Millionen US-Dollar, um das Training von KI-Modellen auch für nicht-technische Experten zugänglich zu machen"
-  },
-  {
-    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-    "pubDate": "2026-11-02T22:14:50.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "RSI ist der Punkt, an dem die KI so gut darin wird, sich selbst zu trainieren, dass sie zu einer dramatischen Beschleunigung der KI-Fähigkeiten führt. Für die KI-Verdammten stellt RSI die Katastrophe dar, aus der es kein Zurück mehr gibt.",
-    "titleDE": "Anthropic warnt davor, dass es der RSI-Fähigkeit, auch bekannt als selbstaufbauende KI, sehr nahe kommt"
-  },
-  {
-    "title": "Web host Squarespace lays off 19% of its employees",
-    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-    "pubDate": "2026-11-02T19:25:59.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Website-Ersteller sagte, dass die Arbeitsplatzverluste Teil einer umfassenderen Umstrukturierung seiner Organisation seien.",
-    "titleDE": "Der Webhoster Squarespace entlässt 19 % seiner Mitarbeiter"
-  },
-  {
-    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-    "pubDate": "2026-11-02T19:19:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die New York Times verklagt den datenschutzorientierten Webbrowser-Hersteller Brave, weil er angeblich die urheberrechtlich geschützten Inhalte des Outlets gelöscht und unrechtmäßig an seine eigenen Kunden wie Anthropic und Perplexity verteilt hat.",
-    "titleDE": "Die New York Times und andere Medien verklagen den Webbrowser Brave wegen angeblichem Content Scraping"
+    "descriptionDE": "OpenAI erhöht die Belohnungen für Security Bug Bounty und führt Boni für Berichtsqualität, Treue und vorrangige Kampagnen für unabhängige Sicherheitsforscher ein.",
+    "titleDE": "Belohnen Sie Verteidiger mit größeren Bug-Bounties"
   },
   {
     "title": "Preparing our next security sprint to harden OpenAI",
@@ -410,16 +560,6 @@
     "titleDE": "Wir bereiten unseren nächsten Sicherheitssprint vor, um OpenAI zu härten"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "pubDate": "2026-11-02T18:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI erhöht die Belohnungen für Security Bug Bounty und führt Boni für Berichtsqualität, Treue und vorrangige Kampagnen für unabhängige Sicherheitsforscher ein.",
-    "titleDE": "Belohnung von Verteidigern mit größeren Bug-Bounties"
-  },
-  {
     "title": "The latest AI news we announced in October 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
     "description": "Here are Google’s latest AI updates from October 2026",
@@ -428,16 +568,6 @@
     "category": "news",
     "descriptionDE": "Hier sind die neuesten KI-Updates von Google vom Oktober 2026",
     "titleDE": "Die neuesten KI-Neuigkeiten haben wir im Oktober 2026 angekündigt"
-  },
-  {
-    "title": "Raising the quality of insights in agentic analytics",
-    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
-    "pubDate": "2026-11-02T17:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "In nur wenigen Jahren hat generative KI das Gesicht der Unternehmensanalyse verändert, insbesondere indem sie Analysen für Benutzer im gesamten Unternehmen zugänglich gemacht hat. Agentic AI verspricht noch mehr, indem es ganze Arbeitsabläufe automatisiert und auf der Grundlage von Agentenerkenntnissen Maßnahmen ergreift. Aber es gibt ein Problem: Die Qualität...",
-    "titleDE": "Steigerung der Qualität der Erkenntnisse in der Agentenanalyse"
   },
   {
     "title": "Scaling Git at OpenAI",
@@ -458,36 +588,6 @@
     "category": "news",
     "descriptionDE": "Das Grid Protectors-Programm von OpenAI wird mit Versorgungsunternehmen zusammenarbeiten, um künftigen Rechencampus dabei zu helfen, die Netzzuverlässigkeit zu unterstützen und die Stromkosten der Verbraucher zu schützen.",
     "titleDE": "Vorstellung des Grid Protectors-Programms"
-  },
-  {
-    "title": "Stop counting tokens, start counting what ships",
-    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-    "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-    "pubDate": "2026-11-02T13:10:32.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Wenn ein Entwickler einem KI-Agenten eine Codierungsaufgabe gibt, antwortet der Agent mehr als nur einmal. Es plant, generiert Code, führt Tests durch und wiederholt den Prozess, um Fehler zu korrigieren. Eine einzelne Aufgabe kann 10 bis 50 Mal mehr Token verbrauchen als eine einfache Chat-Eingabeaufforderung. Je nützlicher der Agent wird, desto mehr Anrufe ...",
-    "titleDE": "Hören Sie auf, Token zu zählen, sondern zählen Sie, was versendet wird"
-  },
-  {
-    "title": "The Download: the agentic web arrives and the drive for safer roads",
-    "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our…",
-    "pubDate": "2026-11-02T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Das Agentennetz ist da. Im Jahr 2001, ein Jahrzehnt nach der Erfindung des World Wide Web, formulierte Tim Berners-Lee eine neue Vision: ein Internet, das durch autonome Software gesteuert wird...",
-    "titleDE": "Der Download: Das Agentennetz kommt und der Antrieb für sicherere Straßen"
-  },
-  {
-    "title": "The agentic web is here",
-    "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-    "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
-    "pubDate": "2026-11-02T09:35:19.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Im Jahr 2001, ein Jahrzehnt nach der Erfindung des World Wide Web, formulierte Tim Berners-Lee eine neue Vision. Zusammen mit zwei Kollegen veröffentlichte er einen Artikel in der Zeitschrift Scientific American, in dem er das beschrieb, was er das „Semantic Web“ nannte: ein Internet, das darauf ausgelegt ist, von autonomen Software-Geräten navigiert zu werden.",
-    "titleDE": "Das Agenten-Web ist da"
   },
   {
     "title": "LifeVal",
@@ -530,16 +630,6 @@
     "titleDE": "Anthropic VS-Codeerweiterung auf Cursor fast 12 Stunden lang hinter der Tür versteckt"
   },
   {
-    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
-    "pubDate": "2026-10-30T11:30:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Essstörungen nehmen zu. GLP-1s könnten die Situation verschlimmern. GLP-1-Medikamente zur Gewichtsabnahme sind einer der größten biotechnologischen Durchbrüche des letzten Jahrzehnts. Aber um ...",
-    "titleDE": "Der Download: GLP-1 und Essstörungen, selbstbewusste Städte und ewige Chemikalien"
-  },
-  {
     "title": "Making it easier for websites to express AI training preferences",
     "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
@@ -576,47 +666,7 @@
     "pubDate": "2026-10-29T17:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Die aktualisierte Modellspezifikation von OpenAI skizziert fünf Grundwerte, um leistungsfähigere KI zu gesundem Urteilsvermögen, menschlicher Handlungsfähigkeit und Treue gegenüber menschlichen Absichten zu führen.",
+    "descriptionDE": "Die aktualisierte Modellspezifikation von OpenAI beschreibt fünf Grundwerte, um leistungsfähigere KI zu gesundem Urteilsvermögen, menschlicher Handlungsfähigkeit und Treue gegenüber menschlichen Absichten zu führen.",
     "titleDE": "Eine aktualisierte Modellspezifikation für leistungsfähigere und nützlichere KI"
-  },
-  {
-    "title": "How we detect frontier model misalignment",
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "pubDate": "2026-10-29T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI verwendet eine mehrschichtige Überwachung, um eine Fehlausrichtung des Grenzmodells und unbefugtes Agentenverhalten zu erkennen, sodass die Einsatzkräfte eingreifen können, bevor Vorfälle eskalieren.",
-    "titleDE": "Wie wir eine Fehlausrichtung des Grenzmodells erkennen"
-  },
-  {
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "link": "https://openai.com/index/ropes-gray-ai-diligence",
-    "description": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "pubDate": "2026-10-29T07:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Ropes & Gray entwickelt mit OpenAI KI für die Transaktionsdiligence. Rechtsanwälte prüfen gruppierte Dokumente, Zusammenfassungen und Berichte, bevor sie Mandanten beraten.",
-    "titleDE": "Wie Ropes & Gray KI für Transaktionsdiligence entwickelt"
-  },
-  {
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "link": "https://openai.com/index/credit-saison",
-    "description": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-    "pubDate": "2026-10-29T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Das ChatGPT Enterprise-Pilotprojekt von Credit Saison lieferte einen ROI von 954 %. Erfahren Sie, wie Führungskräfte und Mitarbeiter dazu beigetragen haben, die Ergebnisse in eine unternehmensweite Akzeptanz umzusetzen.",
-    "titleDE": "Credit Saison erzielt in einem ChatGPT Enterprise-Pilotprojekt einen ROI von 954 %"
-  },
-  {
-    "title": "Evernote turns AI-driven discovery into paid subscriptions",
-    "link": "https://openai.com/ads/customers/evernote",
-    "description": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-    "pubDate": "2026-10-28T19:40:49.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Evernote nutzte ChatGPT Ads, um seine Notizen-App Menschen vorzustellen, die mit KI arbeiten. Das Team verfolgte, wie oft kostenlose Testversionen zu kostenpflichtigen Abonnements führten.",
-    "titleDE": "Evernote verwandelt KI-gestützte Entdeckung in kostenpflichtige Abonnements"
   }
 ]
