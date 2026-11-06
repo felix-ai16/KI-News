@@ -1,5 +1,285 @@
 [
   {
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
+    "pubDate": "2026-11-06T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Ich sah zu, wie ein humanoider Roboter meine Wohnung säuberte. Es fühlte sich an wie ein Vorgeschmack auf die Zukunft. —Grace Huckins Als ich einen X-Beitrag über einen neuen Reinigungsdienst für humanoide Roboter sah ...",
+    "titleDE": "Der Download: Ein Humanoid putzt das Haus und Samsung baut für den KI-Boom"
+  },
+  {
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "description": "Despite its small size, Underdog's new model can generate both speech and music.",
+    "pubDate": "2026-11-06T13:02:16.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Trotz seiner geringen Größe kann das neue Modell von Underdog sowohl Sprache als auch Musik erzeugen.",
+    "titleDE": "Underdog präsentiert in neuer Demo ein 32-MB-Sprachmodell"
+  },
+  {
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+    "pubDate": "2026-11-06T13:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Physicl versucht, die Lücke zwischen Sim und Real mit einer Pipeline zu schließen, die ursprünglich für die Online-Vermarktung von Waren entwickelt wurde.",
+    "titleDE": "Physicl sammelt 10 Millionen US-Dollar, um die digitale Welt für Roboter real genug zu machen"
+  },
+  {
+    "title": "Protesters break into Microsoft data center site in Amsterdam",
+    "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+    "description": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images\t\n\nProtesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.\nReuters reports that around 100 people made it into the construction site, with some scaling a crane to place a \"fuck AI\" banner. Protesters also unfurled a \"Microsoft powers genocide\" banner on the construction site, and chanted \"Microsoft has got to go\" and \"free Palestine.\"\nOpposition to the new data center in Amsterdam comes more than a year after the city banned new data center …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-06T11:55:19.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mitglieder der Aktionsgruppe Geef Tegengas hängten während einer Protestaktion ein Banner an einen Kran. | Bild: Getty Images Demonstranten sind heute Morgen in die Baustelle eines neuen Microsoft-Rechenzentrums in Amsterdam eingebrochen. Mitglieder der Gruppe Geef Tegengas halfen bei der Organisation des Protests gegen den Bau ...",
+    "titleDE": "Demonstranten brechen in das Rechenzentrumsgelände von Microsoft in Amsterdam ein"
+  },
+  {
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "description": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+    "pubDate": "2026-11-06T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Ich bin nicht der Typ Mensch, der normalerweise für eine Hausreinigung bezahlt. Ich bin zu sparsam und es macht mir irgendwie Spaß, einen Podcast zu veröffentlichen und mit einem magischen Radiergummi in der Badewanne durch die Stadt zu fahren. Aber als ich einen X-Beitrag über einen neuen Reinigungsdienst mit humanoiden Robotern in San Francisco sah, unterschrieb ich sofort …",
+    "titleDE": "Ich sah zu, wie ein humanoider Roboter meine Wohnung säuberte. Es fühlte sich an wie ein Vorgeschmack auf die Zukunft."
+  },
+  {
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "pubDate": "2026-11-06T06:28:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Laut einer Quelle wurde Clutch, unterstützt von Lightspeed und SignalFire, zuletzt mit 85 Millionen US-Dollar bewertet.",
+    "titleDE": "Palo Alto Networks verhandelt über den Kauf des KI-Agentensicherheits-Startups Clutch für 500 Millionen US-Dollar"
+  },
+  {
+    "title": "OpenAI is stepping back from NDAs for data center projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "description": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.\nMany data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" In October, Amazon announced it would no longer u …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-06T00:37:56.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Nach den Zwischenwahlen dieser Woche, bei denen sich die Wähler deutlich gegen den Ausbau von Rechenzentren aussprachen, kündigte OpenAI heute neue Verpflichtungen gegenüber Gemeinden an, in denen es an Rechenzentrumsprojekten arbeitet, einschließlich der Tatsache, dass es keine Geheimhaltungsvereinbarungen (NDAs) mit Beamten eingehen wird. Viele Daten ...",
+    "titleDE": "OpenAI zieht sich von Geheimhaltungsvereinbarungen für Rechenzentrumsprojekte zurück"
+  },
+  {
+    "title": "Airbnb is working on an AI travel agent",
+    "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+    "description": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.\n\"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new interface\" built \"specifically for travel\" gives it an edge.\nHere's how Airbnb says that new interface will work:\nWe don't think a traditional chatbo …\n\nRead the full story at The Verge.",
+    "pubDate": "2026-11-06T00:06:12.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Airbnb plant, im ersten Halbjahr 2027 einen KI-Agenten einzuführen, der Nutzer bei der Planung und Buchung von Reisen unterstützen soll, teilte das Unternehmen in seinem heute veröffentlichten Aktionärsbrief zu den Ergebnissen des dritten Quartals 2026 mit. „Heutige KI-Agenten sind gut in einfachen Routineaufgaben, wie zum Beispiel einer Restaurantreservierung oder der Terminvereinbarung …",
+    "titleDE": "Airbnb arbeitet an einem KI-Reisebüro"
+  },
+  {
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "pubDate": "2026-11-05T23:09:36.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Bestimmte Konfigurationen von Alpine sind betroffen. Andere Distributionen können es auch sein.",
+    "titleDE": "Lernen Sie *sshole kennen, die Schwachstelle, die Hackern SSH in Linux-Geräte ermöglicht"
+  },
+  {
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "pubDate": "2026-11-05T22:40:55.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Airbnb sagt, dass sein künftiger KI-Agent Reisenden dabei helfen wird, Reisen zu planen, Optionen zu vergleichen, Buchungen zu verwalten und während ihres Aufenthalts Unterstützung zu erhalten.",
+    "titleDE": "Airbnb gibt bekannt, dass es im ersten Halbjahr 2027 ein KI-Reisebüro einführen wird"
+  },
+  {
+    "title": "Perplexity launches its own take on AI agents for work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "description": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.\nTeammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing, large-scale work.\" You can assign each Teammate different jobs that they can perform simultaneously - much like OpenAI's Dots and Claude Duet. Perple …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-05T22:26:50.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Perplexity tritt mit seinen eigenen arbeitsorientierten KI-Agenten gegen OpenAI und Anthropic an. Die neuen ständig aktiven „Teamkollegen“ des Startups können mehrere Rollen innerhalb eines Arbeitsbereichs übernehmen und gleichzeitig vorhandene Projekte, Fähigkeiten und Speicher aus den Perplexity-Tools beziehen, die Sie bereits verwenden. Teamkollegen integrieren sich in Perplexity ...",
+    "titleDE": "Perplexity bringt seine eigene Version von KI-Agenten für die Arbeit auf den Markt"
+  },
+  {
+    "title": "Cult.fit builds operational muscle with Codex",
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "description": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "pubDate": "2026-11-05T20:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Cult.fit nutzt Codex, um funktionsübergreifenden Teams dabei zu helfen, Tools zu entwickeln, schneller voranzukommen und die Art und Weise zu ändern, wie Arbeit erledigt wird.",
+    "titleDE": "Cult.fit baut mit Codex operative Muskeln auf"
+  },
+  {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "pubDate": "2026-11-05T19:48:28.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der KI-Agent von Meta kann jetzt Anrufe als anpassbarer animierter Avatar entgegennehmen, bevor ein Tamagotchi-ähnliches tragbares Gerät auf den Markt kommt, das Muse zum Leben erwecken soll.",
+    "titleDE": "Laut Meta können US-Benutzer jetzt mit ihrem Muse AI-Avatar per Video-Chat chatten"
+  },
+  {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "pubDate": "2026-11-05T19:12:39.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Meta warnt davor, dass der wachsende politische Widerstand gegen Rechenzentren künftige KI-Investitionen gefährden könnte, da Gemeinden sich gegen massive Infrastrukturprojekte wehren.",
+    "titleDE": "Meta warnt davor, dass die Gegenreaktion im Wahlkampf gegen Rechenzentren den Ausbau der KI erschweren könnte"
+  },
+  {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "pubDate": "2026-11-05T19:06:12.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das neueste Cybersicherheitsmodell von OpenAI kommt heraus, während KI-Labore ihre Arbeit zum Schutz der digitalen Infrastruktur auf den Prüfstand stellen.",
+    "titleDE": "OpenAI hat ein neues Cybersicherheitsmodell veröffentlicht. Reicht das?"
+  },
+  {
+    "title": "Muse has a voice mode now",
+    "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "description": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options in the avatar settings.\n\n\n\n\n\nIn my brief tests, my Muse agent responds quickly over voice, though it occasionally pauses while it's looking up infor …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-05T19:03:04.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mit Meta können Sie jetzt in Echtzeit Sprachgespräche mit Ihrem Muse-KI-Agenten führen, gab CEO Mark Zuckerberg heute bekannt. Die Funktion wurde für mich eingeführt und ich habe sie beim Schreiben dieses Artikels in der iOS-App ausprobiert. Während Sie mit Ihrem Muse-Agenten chatten, wird der Avatar am Anfang Ihrer Konversation angezeigt ...",
+    "titleDE": "Muse verfügt jetzt über einen Sprachmodus"
+  },
+  {
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+    "pubDate": "2026-11-05T18:02:27.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Bei einer Rede auf einer Tech-Konferenz des Wall Street Journal am Mittwoch wies der Manager darauf hin, dass das Unternehmen im Unternehmensmarkt an Boden gewonnen habe, wo der Konkurrent Anthropic bereits erfolgreich Fuß gefasst habe.",
+    "titleDE": "Greg Brockman, Präsident von OpenAI, sagt, dass das Unternehmen im Jahr 2027 für den Börsengang bereit sein könnte"
+  },
+  {
+    "title": "Claude AI can plug directly into your bank account",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "description": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month.\nIts access is read-only, and with Plaid facilit …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-05T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic hat ein neues Angebot für die Verwaltung Ihrer persönlichen Finanzen: Überlassen Sie es stattdessen Claude, mit einer neuen Funktion für persönliche Finanzen, die es über die Bank-Bridging-Plattform von Plaid mit Ihren Bank- und Kartenkonten verbindet. Sie können den Chatbot zum Beispiel fragen: „Wo ist mein Geld diesen Monat geblieben?“, und er erstellt ...",
+    "titleDE": "Claude AI kann direkt auf Ihr Bankkonto eingezahlt werden"
+  },
+  {
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "pubDate": "2026-11-05T18:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mit Personal Finance in Claude können Benutzer ihre Bank- und Kartenkonten über Plaid verbinden und Fragen zu ihren Finanzen stellen.",
+    "titleDE": "Claude kann jetzt Ihre Ausgaben mit seinem neuen Personal Finance-Tool analysieren"
+  },
+  {
+    "title": "‘Total repudiation’: The blue wave is about to hit AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "description": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to a Democrat after 30 years in office. In these and other campaigns, one theme kept coming up: holding AI companies accountable to the American people. Now, the AI industry is left considering the prospect of regulation, data center construction slowdowns, and more.\nPublicly, most major AI company CEOs have remained silen …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-05T17:51:52.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Am Dienstagabend schrieben die Demokraten Geschichte, als sie die Kontrolle über das Repräsentantenhaus und den Senat übernahmen, und eine blaue Welle fegte durch die traditionell roten und Swing States – mit der Wahl der ersten schwarzen Gouverneurin des Landes in Georgia, der ersten gewählten Gouverneurin der amerikanischen Ureinwohner des Landes in New Mexico und …",
+    "titleDE": "„Völlige Ablehnung“: Die blaue Welle ist dabei, die KI zu treffen"
+  },
+  {
+    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+    "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+    "description": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on December 4th. Grimes - who will be lending both her likeness and vocal performance to the movie, which you can see in the clip above - potentially gives the project some legitimacy.\nAI studio Fable, which is producing the film, claimed in a press release that \"casting the likeness of an actor with their spoken vocal performance will become more common with a …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Der KI-generierte Science-Fiction-Film „Gods Don't Give Gifts“ hat ein bisschen Starpower hinzugefügt: Popstar Grimes wird im Film auftreten. Gods Don't Give Gifts gilt als „der erste KI-Film, der ins Kino kommt“ und ist ein bemerkenswerter Testfall für das kommerzielle Potenzial von KI-Filmen. Er kommt am 4. Dezember in die Kinos …",
+    "titleDE": "Grimes wird in einem KI-Film mitspielen, der in die Kinos kommt"
+  },
+  {
+    "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+    "description": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber.\nThe evaluation, called ExploitGym HoneyPot, is modeled after the Hugging Face Incident, in which OpenAI's AI agents breached the open-source AI community to find answers to a problem they were tasked with solving. \"With the 6 Cyber model, we were able to make huge improvements on this evaluation,\" Fo …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI bringt GPT-6 Cyber ​​auf den Markt, die neueste Version seines Cybersicherheits-KI-Modells, das seiner Aussage nach Schwachstellen besser finden kann und bei dem es weniger wahrscheinlich ist, dass es bösartig wird und andere Plattformen hackt. Laut OpenAI ging GPT-6 Cyber ​​während des Tests in weniger als 1 Prozent der Fälle außerhalb der Grenzen, ...",
+    "titleDE": "Laut OpenAI ist sein neues Cybersicherheitsmodell besser darin, andere Unternehmen nicht zu hacken"
+  },
+  {
+    "title": "Australian universities are creating AI-native graduates",
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "description": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Australische Universitäten erweitern den Zugang zu ChatGPT und integrieren KI in das Lehren und Lernen, um Studenten auf eine KI-gestützte Arbeitswelt vorzubereiten.",
+    "titleDE": "Australische Universitäten bilden Absolventen aus, die KI-Muttersprachler sind"
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+    "pubDate": "2026-11-05T17:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Gemini Omni 1.2 Flash bietet native 15-Sekunden-Videogenerierung und -bearbeitung, höhere Konsistenz und 30 % günstigere Preise.",
+    "titleDE": "Gemini Omni 1.2 Flash: Schnell und kostengünstig mit längeren Clips"
+  },
+  {
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "pubDate": "2026-11-05T16:16:45.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während KI die Mathematik mit ungeprüften Beweisen überschwemmt, setzt Axiom Math auf Verifizierung. Die KI-Agenten des Startups haben gerade das Stacks Project, eine der größten Bibliotheken der Branche, offiziell überprüft.",
+    "titleDE": "Axiom Math möchte verhindern, dass KI in die Mathematik eindringt"
+  },
+  {
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "pubDate": "2026-11-05T15:19:05.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Deal soll die Entwicklung von DBX Agent Cloud unterstützen, einer neuen Speicherplattform, die sich an Entwickler richtet, die KI-Modelle und Agenten erstellen.",
+    "titleDE": "Dropbox erwirbt Tigris Data für 350 Millionen US-Dollar, um seine KI-Infrastruktur zu stärken"
+  },
+  {
+    "title": "The hidden supply chain costs of the AI boom",
+    "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+    "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains.\nWilly is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place. We also had Willy on the show in 2021 to talk about what was then the pandemic-era chip shortage.\nNow, five years later, we’re in another manufacturing mess, as we stand in the middle of a political fight over whether globalization is coming to an end. Trumps’ tariffs keep changing, the factories that were supposed to reshore in America mostly haven’t materialized, and AI is devouring the planet’s computing resources during an unprecedented infrastructure buildout.\nWilly’s new book is all about the economics underlying these complex systems, which our politicians and regulators seem to insistently ignore. You’ll hear us talk about why the markets have reacted to all these disruptions the way they have, and why China remains a global manufacturing powerhouse even though every other country thinks that’s so risky. I loved this conversation — it’s in the weeds, and Willy really knows his stuff.\nOkay: economist Will Shih on his new book Where Does My Stuff Come From? Here we go.\n\n\nThis interview has been lightly edited for length and clarity. \nWilly Shih, you’re an economist and professor of management practice at Harvard. You’re also the author of the new book, Where Does My Stuff Come From: The Powerful Economics Behind Global Supply Chains. Welcome back to Decoder.\nWell, thanks for having me back.\nI am very excited to talk to you. You and I first started talking ages ago when The Verge was covering Foxconn in Wisconsin. You are a reliable source of information on what it takes to actually build an LCD plant anywhere, not just in Wisconsin.\nThe Foxconn in Wisconsin thing was funny because I tend to go on first principles on these things. Once I knew they weren’t going to build a glass plant across the street, it’s like there’s no way there’s going to be a factory.\nNow, what happened afterwards, of course, is people heard your show, and then I started getting calls from people who live in the community. They went to the zoning hearings in town, then sent me the plans and asked, “Is this going to be a panel factory?” I said, “No, I told you it’s not going to be a panel factory.” So they sent me the plans. I said, “Well, there’s not enough concrete to make this a panel factory.” For a panel factory, you need stability, so you gotta have all this structural steel, and you have to have all this concrete.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nMy favorite part of the Foxconn story — and I don’t mean to rehash it, but it’s just fun to talk to you about it again — is when you said there’s not enough concrete and steel. It’s great. We should actually talk about LCD manufacturing a little bit. There’s an entire chapter in your book about why all of it is in China and China’s investment in that. But I want to just take a big step back for a second.\nIt seems to me that you’ve written a book about the end of globalization in one particular way. We had big global supply chains. The pandemic came and shocked the just-in-time manufacturing system to its core. And then the Trump administration, in the second round, has imposed a whole bunch of tariffs.\nI’ve had several guests on the show straightforwardly tell me we’re de-globalizing the economy. That’s what’s happening here. We can’t rely on it anymore. Your book, as you read it, is a little bit of a reaction to that, but you’re also pointing out how globalization is one of the smartest ways to do it based on first principles of economics.\nTell me about the state of the world and the state of our supply chains right now from your point of view.\nWell, I think the point about first principles of economics is actually spot on. I often tell people my father was an economist, and I used to see him come home from work, and I thought, “I never want to do that. I’m going to go into science and technology.” So I went into science and technology and took all these engineering classes. And I was in product businesses only to discover, to my horror, that if you don’t get the economics right, then it doesn’t matter for science and technology.\nThe book’s subtitle is “the powerful economics behind global supply chains.” I talk about all these principles behind global supply chains, but they’re all actually driven by economics. In fact, what you see today is market forces responding to all this stuff.\nSo, for example, when we put tariffs on stuff coming out of China, then manufacturers say, “Okay, let me move that supply chain, and I’ll do my assembly in Vietnam, or I’m going to do my assembly in Mexico, or let me find some way to circumvent these tariffs.” What I really find is that when you look at how these supply chains are structured, like why do cashew nuts say they come from Vietnam when they were actually grown in the Ivory Coast or Ghana? Well, there was an economic reason for all of these things. It’s why frozen fish that are caught off the coast of Alaska go to Qingdao, China, for processing before they come back. Again, it’s because it’s cheaper to do it that way.\nWhen we put up these trade barriers, the first reaction tends to be, “How can I circumvent that?” We saw a lot of that, especially last year. I remember Liberation Day was April 2nd, and if you look at the quarter right before, people knew stuff was going to be happening.\nWe have this circumvention going. That’s why in the first quarter of 2025, we had all-time-record imports from Ireland, and then the first half of 2026 showed slow imports from Ireland. That’s because we’re burning off all the stuff we imported in the first half of 2025.\nIt all gets down to economics. I’m getting all these TV set ads because the holiday season is coming up. Great, and they’re all coming from Mexico. It’s like, “How can they all be coming from Mexico?” I know the flat panel factories that supply all these TV sets these days are all in China, and they’re all in China because the plants have been subsidized so heavily or because of industrial policies that have encouraged those plants to be there.\nIf you watch the trade lanes, you’ll see this stuff. What happens is there’ve been all these new shipping routes from China to Mexico over the last two years. Direct ocean container service from China to Mexico. It’s like, “Huh, I wonder what that’s about.” I’ll tell you what it’s about. It’s about moving parts and components from China to Mexico so that I can assemble them in Mexico and then bring them in under the USMCA agreement.\nSo what you’re actually seeing is that these supply chains are organized the way they are partly because some places have the capabilities, but more often than not, a lot of these are just responding to economic forces. If I’m going to add on tariffs or I’m going to make it more expensive to ship something between two points, the market will find a way around that.\nThat’s something I want to come back to several times in this conversation. “It’s cheaper” was a real driving force of globalization. Americans like cheap things. They like cheap flat-panel TVs. The fact that I can go to Costco right now and get a 50-inch TV for $300 is a miracle of the modern supply chain and of modern manufacturing.\nIt is a miracle, right? And it’s cheaper, and it’s because there’s a place that, for better or for worse, can make it cheaper. By the way, American consumers benefit from that.\nOne of the reasons that we pursued free trade and globalization so heavily in the United States is that we thought that creating economic ties between all these various countries would reduce the potential for an armed conflict. There are a lot of ways to think about that, but in general, if you tie the economies together, the price of having a war shoots up, and then you won’t have free or cheap TVs, and maybe the public won’t like that.\nThat is under pressure now, right? We’re sitting here in the middle of an AI conversation, where China is routinely invoked as the great threat that will rise up if they get to AGI before us. We are putting up tariffs, particularly on China. In the United States, the policy administration is to bring manufacturing back to the United States through the use of tariffs. Your point of view is that simple economics will provide enough contortions to avoid that blunt outcome.\nWhen we seal the borders for some products everywhere, then the price is going to go up. So, for example, putting tariffs on steel. Initially, when we just put tariffs on imported steel and aluminum, then what happened was, “Well, gee, I happen to be making construction equipment. More than half of the cost of that construction equipment is medium carbon steel, so therefore it makes it easier for me to import construction equipment from somewhere else.” We then say, “Okay. Now we’re going to tariff stuff based on your steel content.”\nEventually, when you close off all those things, which means you’re basically tariffing everything, then stuff gets more expensive domestically. You could look back on the period from 2000 until really 2012 to 2014; we had relatively low inflation. Part of it is because we were getting cheaper stuff from China.\nI think there are a couple of things that drove a breakdown of this model, if you will. One is that people didn’t really recognize that the connection between moving work out of the US to China meant you’re leaving people behind who don’t have any more work. That cost was spread over people who, by the way, also shop at Walmart and benefit from the cheap goods. But we as a country didn’t think about it like, how are we going to retrain all those people who weren’t making furniture in North Carolina or who were making castings and forgings in Kentucky or wherever?\nThat was one part of the problem. The other part of the problem is that we have this gigantic trade deficit. Now, a lot of that is fueled by government spending and borrowing and so on. But typically, in some respects, you would’ve expected the exchange rate or some other adjustment mechanism to compensate for that.\nI remember the last time exchange rates moved was in the 1980s. That was also the last time the US ever had a trade surplus, when the dollar got a lot cheaper relative to the Japanese yen, especially at that time. That had an adjustment on trade flows as well.\nSo now you have China running this ginormous trade surplus. Basically, what they’re doing is exporting their economic problems in China to the US, and they’re exporting that at the expense of jobs elsewhere. The Europeans have suddenly woken up to that. Now go to a place like Germany, where half the economy revolves around the auto industry, and they now have figured it out, and it’s like, “Wait a minute, this is an existential crisis for us.”\nBut on those two things, the controls you would’ve expected to rebalance things didn’t pan out. That’s why we have so much discussion about this right now and a view of this as a problem.\nIt feels like my entire teen experience was a conversation about NAFTA, and we should open free trade in North America. Later on, I got to college, and all the economic discussion was about the EU and creating the single market in the EU: “We’re going to set up these big open markets, and there’s going to be free trade inside of those markets, and that will lead to a kind of economic prosperity.”\nFast forward to 2026, and the desire to tear a lot of that down has gone way up, right? Particularly as you look at the USMCA and Chinese goods coming to Mexico to come to the United States, nakedly circumventing the entire policy goal of imposing tariffs. \n\nThe goal is to build the iPhone in the United States. The goal is to build manufacturing in the United States. I know that you have never really thought that’s an achievable goal, but that is the goal. That is what the administration promised. We’ve created these trade groups, trade associations, that allow that goal to be circumvented. Do you think the walls are going to keep going up, or do you think they’re going to come back down?\nI think we’re going to see more pressure to moderate our behavior a little bit because, let’s face it, there are a lot of goods that we, as a country, need access to inexpensive labor. So I’m actually very pro-USMCA as a successor to NAFTA because I actually think there are things that we need inexpensive labor for. Mexico is a good place to source things like that. There are things that we need from Canada.\nSo if we were to look at North America as a trading bloc, then what you would see is the benefits of specialization, which is the whole rationale for trade in the first place. We’re better at doing this, you’re better at doing that; you specialize in that, we’ll specialize in this. We trade; everybody is better off. If you can do that with a community of countries that understand the need for that type of balance, then everybody is better off.\nI think the problem with China is they’re very happy to have this imbalance, where they want the world to be dependent on them, but they don’t want to buy stuff from the rest of the world. When you have that, then trade doesn’t really work. So I think that’s the problem.\nI’m hoping we’re going to realize that we’re better off among a group of like-minded countries where we can trade within that bloc. So for example, if the US were to view North American partners and European partners in Japan — and countries in Southeast Asia, Australia, New Zealand, parts of Central and South America, and even Africa — and say, “Okay, let’s trade across this bloc,” then we’d have access to most of what we need, whether it’s critical minerals, low-cost labor, or a lot of technology specialties. We could do much better with that, much better than a go-it-alone strategy in my view.\nThe first part of your book — which I highly recommend the audience read; it’s a fun read — is just setting up the first principles of why we trade at all in the very concept of labor arbitrage. It seems like we’re having a national policy conversation that is 500 steps removed from these basic ideas of why we would trade.\nIt is entirely centered around: can you bring manufacturing back to America because we let all the manufacturing jobs go to Mexico and China, particularly in high tech? And we’re behind. There might be some extraordinarily bad event, like a war, where it’s exposed how little manufacturing capability we have in the United States.\nThat has nothing to do with the basics of specialization in various countries around the world. It’s another problem, and the blunt instrument is, “Boy, it’s bad that all of our drones are made in China. We’re going to prevent drones from being sold here. Of course, our industry will set up drone manufacturing in the United States.” I don’t see that connection. Do you see that working?\nNo. I think that’s a transactional view where you look at one piece at a time as opposed to looking at the bigger picture. I think we have to start with a core principle that the US is a high-cost country. Therefore, if you want manufacturing jobs coming to the US, then you’ve got to have high labor productivity.\nIn fact, if you look at the types of jobs that are coming back to the US, they tend to use a lot of automation, a lot of sophisticated manufacturing processes, and stuff that is high-skill that can justify the high labor cost. Either that, or they are things where we have a technological lead that nobody else knows how to do in the world.\nI was looking at the high-temperature superalloys that are used in the hot section of jet engines. There are only three companies in the world that know how to cast those, and two of them are in the US, and one of them is in the UK. There are things like that the rest of the world has to buy from us. So if you have high labor productivity or highly differentiated products, those we can make in the US; we can make them successfully. By the way, most of them never left the country.\nThe US, France, and the UK are major suppliers of jet engines to the entire world market. Even the Chinese buy those from the West. So if we have these things that we do better than anybody else, we should invest in those and make sure that we’re always in the lead, and then everybody else will buy from us, and then you’ll have some balance where you can’t be held up.\nThere’s a lot of this thinking like, “I wish I could turn the clock back to the 1980s or the 1970s, when manufacturing was the path to the middle class in the US.” But manufacturing has changed worldwide, and for those jobs that you want to have manufacturing in the US, you’ve got to have high labor productivity or the high differentiation that’ll go with it.\nI want to stay on the iPhone for one more second. Apple just inked a new deal where they’re going to source a bunch of titanium from a Pennsylvania-based company called Perryman for the iPhone 18 Pro and the new iPhone Duo. They’re going to source that titanium here. They’re then going to ship it to China. They’re going to assemble the phone in China, and they’re going to ship the phones back to us. They do that with Corning and glass as well.\nI’ve always looked at that. Tim Cook’s job, in particular, is that he’s a statesman. He has to negotiate with Donald Trump and Xi Jinping about iPhone production and tariffs in these supply chains, and the iPhone holds the global economy together. If the price of the iPhone gets too high because of tariffs, maybe there’s an electoral impact in the United States.\nHow do you see products like that? Are they as load-bearing as it feels to me, or are they just examples of the larger system?\nI think the iPhone is a terrific example of how difficult this problem is. Because right now you have components that have high technological complexity. The iPhone uses the most advanced chips produced by Taiwan Semiconductor Manufacturing Company. By the way, most of those chips are still going to be made in Taiwan. TSMC has a fab in Arizona, but its capacity is piddly compared to what it has in Taiwan.\nThose chips come from one place and require the most sophisticated processing tools that come from ASML in the Netherlands, but also companies like Lam Research and Applied Materials in the US. So it’s that global thing. But the key thing is iPhones also require assembly labor. They require manual assembly because we’re not at the point yet where you can assemble the whole thing with a robot.\nThere’s actually a chapter in my book where I talk about what Henry Ford and the lifestyles of the Chinese Communist Party have to do with assembling iPhones. It turns out it’s a lot. The lifestyles of the Chinese Communist Party have to do with how they mobilize workers in what’s called the Danwei model, which was established after the Communist Revolution. It’s where you have a production site, a walled city with housing for workers, a means of production, warehouses, ways to feed them, and stuff like that.\nIf you ever go to a phone factory in China, the real question is: how do I mobilize 100,000 to 200,000 workers to do this manual assembly on a scale that an Apple needs? They’re trying to do it in India. They’re having some success with India, but that was really hard. Once again, it’s: how do I mobilize manual labor at that level of scale?\nSo the iPhone, as you point out, is a great example of a global product because it needs the highest level of tech, and it also needs the huge workforce to do the manual assembly.\nThere’s actually a great book called Apple in China, which I also recommend. The narrative is that the Chinese government subsidized an awful lot of manufacturing in China. They built these cities, and they built the culture that enables the labor at scale. Your example in the book, again, is LCD factories, where the Chinese government invested in overcapacity, and that drove the price of LCD manufacturing down. Basically, it’s all centered in China now.\nThe flip side of that is, boy, it’s pretty obvious that they stole a bunch of American intellectual property along the way. They developed these manufacturing capabilities. They took a lot of the know-how that Apple imported into that country. They did the same with Tesla in a lot of ways. They stood up an entire electric car industry on the back of the innovation Tesla had started through manufacturing in that country. Now they have those capabilities, and they’re racing ahead of our companies because we don’t actually have the manufacturing know-how.\nCan you rebalance that? I hear this concern a lot: that you can’t rebalance it. If all the manufacturing happens there, they will actually be state-of-the-art, and we will fall behind.\nI’m not sure if “stole” is the best description of how they got these capabilities. I would say they learned it, and in many cases we taught it to them. Being a supplier to Apple is often referred to as a golden ticket, and people say, “Well, why is it a golden ticket?” Well, obviously you get cash flow from selling products to them.\nBut the other thing is that Apple is a real taskmaster. By making you work hard to improve your products, improve your specs, meet their performance specs, and meet their cost targets, you get better. The same thing happened when Tesla set up their factory in Shanghai. The fact that they qualified local suppliers raised the game in the Chinese EV market.\nAnother thing I think a lot of people miss about China is that there is actually this very interesting competition going on. Beijing sets policies and objectives, but then all the regional governments, the provinces, and the major cities are competing with each other. They set up this free market dynamic, and so you have this fierce competition between regions.\nThe regions are also very smart about setting objectives. They keep raising the bar for people so the technology gets better. You have a dynamic where there’s really cutthroat competition in the Chinese market, and it’s about survival to make better products at lower prices. That’s something that’s really driving it right now.\nTo your point about how, to the extent we’ve lost the ability to make things, the Chinese have a lot of capabilities. You should walk through some Chinese factories these days. They’re way ahead of the US in terms of using automation, because they’re investing like crazy.\nI had a student I was talking to about his father’s factory in Shanghai, and he said his father’s answer to everything, every competitive threat, was just more CapEx: “I’m going to throw more capital at it. I’m going to buy the latest machine.” I was in one factory a couple of months ago where the equipment was two or maybe three years old, and they were ripping it out and upgrading it to the latest generation because they said, “This is how we’re going to survive. We have to make the product more efficiently, and we have to make a better product.”\nSo there’s this internal competition in the Chinese marketplace that is really fearsome, and it’s hard for Western companies to compete there, but that is an important dynamic that’s going on as well.\nThe interesting thing about that, as I compare and contrast China with the United States, is that the system in China is understood. It’s stable. You can make a lot of criticisms of that system. I think you can make an endless number of human rights criticisms of the Chinese government. It’s obviously a repressive government in a lot of ways.\nBut the economic system is understood, and it’s controlled at the top in a meaningfully stable way. The goals are apparent, the investment is apparent, and there’s a lot of competition to achieve those goals with that investment.\nThere are two things about that which I think are significant. The first is that China engages in long-term planning, five-year plans. Now, when I was a kid, I used to look at China’s five-year plans, and I thought, “This is a big joke,” because they would make a lot of mistakes, like Mao Zedong’s Great Leap Forward, and they were doing this new type of tillage in farming, and they caused this huge famine and millions of people died.\nBut to the credit of the government there, when they do this type of long-range planning, they learn from their mistakes, and they get better. If you look at their current five-year plans and the last couple of five-year plans, they’re good plans. They understand what’s important, and they focus on those things that are important.\nThen the second point is about what kinds of people they have implementing these plans. I was in one of these third-tier cities some number of years ago, and I was having dinner with the economic development commission there. At the beginning of dinner, I said, “Hey guys, just for fun, let’s go around the table and talk about what you studied in school.” It was mechanical engineering, industrial engineering, electrical engineering, metallurgy, metallurgy, mechanical engineering. You go to Washington and ask what people studied in school, and it’s political science, economics, and government.\nSo you have these technocrats competing in technology-intensive businesses and having that understanding. By the way, that’s one of the reasons I wrote this book: I was serving on these committees appointed by the Commerce Secretary on supply chains, and I realized we have civil servants who don’t have the exposure to supply chains and how stuff is actually made.\nChina had this plan that was called the 863 plan. The 863 plan was when four scholars went to the government in Beijing in March of 1986 — that’s why it’s called “863”; it was ‘86, March. I remember the first time I looked at the 863 plan, and it was, “If we want to be a modern economy, we have to be good at these things.”\nI looked at that plan in the 1990s, and I said, “This is a good plan.” And they’ve executed every one of those things. They said, “We need to be good at all these things, like information technology, biotechnology.” In semiconductors, they still have a way to go, but they identified civil aircraft. But they identified all these different technologies like communications technology, software, and robotics.\nI would contrast that with the Trump administration here in Trump’s second term, where… We already talked about Liberation Day. Howard Lutnick is on television saying, “We’re going to move manufacturing back to the United States. This is the goal of the tariffs.”\nThree weeks later, there are 900 lawsuits about the tariffs, and Howard Lutnick is back on TV saying, “Robots will do all the manufacturing now. This is the goal. We’re going to do heavy automation.” And then the tariffs get struck down, and they find a new law for different tariffs.\nIt does not seem like the same long-term planning that can be stuck to, or the same environment where businesses understand the stability of the trading system such that they can compete ferociously. Every CEO who does manufacturing and comes on the show usually ends up talking to me about how they scrambled to buy RAM at affordable prices to make their products, which has to keep them from doing anything else.\nHow would you contrast that? Can we get out of this moment where it’s a pure scramble, or is this fully shaking everything up?\nWe’re in a very transactional environment. Everything is short-term, and these rapid changes that you see in the tariffs… If you look at a map of 2025 and 2026 and put a dot everywhere there was some tariff action, it looks like a shotgun hit the wall. There are all these spots all over the place.\nThe problem with that is when you have that type of instability, it’s very hard for a company to make any long-term plans. Before I build a factory, I want to know that I’m going to have stable demand for a couple of years, at least until I have a chance of earning a return on that thing. I’ve talked to a couple of companies about this. These were overseas companies thinking about coming into the US market, and they said, “Well, I can’t do it because things keep changing. Do I go to Mexico? Do I go to the US? What part of the US do I go into?”\nEspecially with things like semiconductor fabs, you need to know that you’re going to be able to get 10 to 20 years out of it. When things change every couple of weeks, what that does instead is say, “I’m just going to hold off on an investment because it’s just too uncertain. It changes too often.”\nAre you seeing that slow down in investment? Are you seeing companies say, “We can’t actually invest in manufacturing in the United States”?\nIt varies. I see that with a lot of companies asking, “Where do I want to put my production operations?” Okay, now we see some things like car plants coming into the US, and usually that’s a function of the pain being too great.\nBut the whole auto tariff thing is also a little bit crazy. If you look historically at production strategies in the auto industry, typically when you build a plant, you size it to build about 200,000 to 250,000 units of a model or a model family, because that’s like the efficient scale for an auto plant.\nThen what you have is a company like BMW that says, “Great, I’m going to build all my X Series SUVs in South Carolina. I’ll build the 3 Series somewhere else. I’ll build the 5 Series somewhere else, and I’ll build the 7 Series somewhere else. And then what I’ll do is exchange them.”\nSo BMW in South Carolina or Mercedes in Alabama, they build certain models in the US, export them to the rest of the world, and then import other models so that you have the whole product line. Toyota does that. For example, they build more Camrys in the US than anywhere else, and they were exporting some of those as well.\nBut then when you start putting tariffs on imports, that screws up that whole strategy. Again, it’s a decision that was made without understanding how the automakers had laid out that strategy.. You need to understand how the supply chain is structured and why it’s structured the way it is, and then you can be more thoughtful..\nDo you see tariffs as mostly protectionist? I was in France earlier this year, and I took an Uber, and I think it was a BYD Seal, a Chinese EV. I asked the French Uber driver, “How do you like this car?” He was very French, and he literally did the thing. He goes, “Peugeot is shit.” I almost started clapping because it was amazing. He’s like, “If the French government would just allow the Chinese government to sell these cars here, these companies would all be dead.”\nIn the United States, I think Jim Farley, the CEO of Ford, is running around saying the Chinese EVs are superior to American products. It’s the tariffs that protect our markets and protect our manufacturers, because you could import the cars, but you’d pay such high tariffs that they’re economically infeasible.\nThat’s just pure protectionism. That goes against what you’re saying, which is that you need to protect your industry until their products are good enough to compete on the global scale. But we’re not doing that with our carmakers. We’re just protecting them.\nYeah, and there’s a cost associated with that. So, for example, one of the famous tariffs is a so-called chicken tax. I talk about this in the book as well. The chicken tax resulted from this trade spat where we put tariffs on imported light trucks.\nSUVs are built on that platform. It’s one of the reasons the Detroit automakers have focused on SUVs and light trucks. That’s their profit center because there’ve been tariffs on that, and it’s only happened in the last decade or so that Toyota and Nissan and others have made more light trucks in the US and Mexico. So that’s one of the results of that type of tariff distortion.\nWait. But that’s a policy victory, right? Toyota, Nissan, and all the other foreign manufacturers are going to make trucks in the United States. You’ve gotten some economic benefit; they can compete, and maybe all the trucks are going to get better.\nYou get some economic benefit, but one of the reasons the Detroit guys still make so many trucks and SUVs on those platforms is because they’re more profitable, which says the price is higher than it might otherwise have been. But I do see the benefit of that.\nAlthough I have to say, I was walking around the Toyota factory in Georgetown, Kentucky. I’m walking around with the plant manager, and I said, “You’re making sedans here?” He said, “Yep,” and a lot of the Detroit guys have given up making sedans because they can’t make any money. I said, “And you’re using parts that mostly come from Kentucky, Ohio, Indiana, Alabama, Mississippi, and Texas, and some from Mexico and Japan, but mostly domestic content.” He’s like, “Yep.” I said, “And you’re using American workers.” He said, “Yep.” I said, “You’re using American-made steel.”\nI’m trying to get out of him that, okay, look, I know American steel costs a lot more than imported steel because I’ve been in other factories that are still importing steel despite the steel tariffs because they say it’s still cheaper in Asia. But I said, “You’re using American-made steel.” So I’m trying to get that out of him: how much he’s paying for steel.\nObviously, he’s not going to tell me, but he does say, “We have a strategic long-term relationship with our supplier.” That tells you a lot, which is that there are ways you can do these things. You have to work with your suppliers. You have to give them longer-term arrangements, be less transactional, more strategic on things like that. So I think you can do it, but it really takes a comprehensive and more thoughtful approach.\nI understand the rationale for putting tariffs on foreign goods that undercut our markets. You’re just going to increase the cost, and then maybe the consumer will buy the domestic product, and that’s better for our economy. It just hasn’t seemed to have worked.\nI don’t see Liberation Day as having done anything except generally raise prices on everything. We haven’t actually remapped the global economy. And a lot of what you’re describing is, well, the system is pretty resilient. The system was pretty resilient to COVID. The system was pretty resilient to an oil tanker getting stuck in the Suez Canal. The system has been pretty resilient to the war in Iran. The system has been pretty resilient to absolutely chaotic tariffs.\nMaybe some prices have risen, and I’m sure we’re going to get listeners pointing out that all the prices have risen. It feels like the only thing the system isn’t resilient to is the AI industry wanting every scrap of RAM that the whole world can produce. And so now there’s not going to be inexpensive cell phones.\nWhat will push the system over the breaking point? Because globalization has seemed generally resilient to a bunch of people who want it to be over.\nI think what you’re highlighting is that it’s really the power of the market. In the case of closing the Strait of Hormuz, Brent North Sea crude prices didn’t go to $150 a barrel like I was afraid they would, and a lot of people were afraid they would because the market adjusted.\nWe applied a lot of tariffs on Liberation Day. The first response was circumvention or front-running. The next response was tariff engineering. The next response is like, “Okay, let me move production to Vietnam or let me move production to Mexico, and I’ll find a way around that.” Now, eventually, when you close down all those things, then prices eventually have to rise.\nIn the case of memory chips, that’s a different problem because the demand far outstripped the capacity. I used to always buy memory cards on Black Friday. Forget that this year.\nYeah, it’s all over.\nI’m just glad I stocked up on a previous Black Friday.\nIf you want to know my prediction for when the AI industry will meet its true political end, it’s when Grand Theft Auto VI comes out. Everyone goes out to buy a PS5, and they realize it’s more expensive now at the end of its life cycle than it was at the beginning because the price of memory has skyrocketed.\nYeah, no kidding. We’re talking about huge amounts. But that’s the same thing. We’re in a phase where we see all these tactical actions taken by the government, very transactional, without necessarily understanding all the complex interconnections and interdependencies.\nYou may have noticed, for example, that the administration temporarily suspended the Jones Act. I don’t know if you remember that. Why did they temporarily suspend the Jones Act? Because oil refineries on the East Coast of the US couldn’t get their oil from Texas cheaply because there were no domestic supertankers.\nThe Jones Act requires that if you move stuff from Texas to New Jersey, you have to have a US-owned, US-crewed, US-built, very large crude carrier. There aren’t any because we don’t build those in the US. So that’s why it’s cheaper to bring oil from Algeria to New Jersey than it is to bring it from Texas. And that’s why they suspended the Jones Act for a while. At least they understood that.\nI know at least some of our audience is going to be listening to this conversation, and you’re steeped in global trade. You wrote a book to educate our government about how it works from the basics, which I think is sorely needed.\nBut a lot of the promise for young people in our politics lately is that we will rebuild American capacity. We will rebuild manufacturing capacity. We will bring back a bunch of jobs where you don’t need an advanced degree in AI prompt engineering or whatever to see the future. We will bring back the dignity of work.\nPoliticians on both sides are making these promises all the time, and a lot of that requires closing down trade, forcing that economic activity back within our borders. It just seems like that isn’t likely. So I’m not going to ask you whether or not that is totally likely. I’m going to ask: what’s more likely instead?\nWell, I think what’s more likely is that we will see efforts as you describe. I would love to sit down with people and say, okay, we want to move this type of production back to the US. Let’s take a more strategic, more nuanced approach, understanding the bigger picture, considering what levers are available.\nThe US is still a big, attractive market. It is the largest market in the world. It is the most attractive market in the world. That’s, by the way, why the Chinese all want to come here: because they can make some money here that they can’t make elsewhere. So then how do we harness that market power and that market pull with a more nuanced understanding of why our supply chains are organized the way they are today? Recognizing that, can I build a strategy to bring important things that are very strategic for the US to know how to do?\nLet’s think about how we fix this problem with an understanding of that bigger picture.\nWilly, it’s been great to talk to you. It is always just a pleasure. We have to have you back faster than five years. Thank you so much for being on Decoder.\nThanks for having me.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+    "pubDate": "2026-11-05T15:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Heute spreche ich mit Willy Shih, einem Wirtschaftswissenschaftler, Professor für Managementpraxis an der Harvard Business School und dem Autor des kommenden Buches „Where Does My Stuff Come From?“. Die starke Ökonomie hinter globalen Lieferketten. Willy ist einer meiner liebsten Decoder-Gäste aller Zeiten – seine Art zu lieben...",
+    "titleDE": "Die versteckten Lieferkettenkosten des KI-Booms"
+  },
+  {
+    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "pubDate": "2026-11-05T14:42:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Ainas Ring kann auch Anrufe entgegennehmen und Ihnen beim Diktieren von Notizen auf Ihrem Mac helfen.",
+    "titleDE": "Ainas Smart Ring verfügt über einen Bildschirm, einen Joystick und ein Mikrofon, sodass Sie mit KI-Agenten sprechen können"
+  },
+  {
     "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
     "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
     "description": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
@@ -20,34 +300,24 @@
     "titleDE": "Der Download: Der fragile KI-Boom und die Veränderungen in der Energiepolitik in Texas"
   },
   {
-    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
     "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "description": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "description": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
     "pubDate": "2026-11-05T13:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Discovered Materials, ein Monate altes YC-Startup, das KI zur Suche nach Chipmaterialien einsetzt, bietet 200.000 US-Dollar für jede Lösung von fünf offenen materialwissenschaftlichen Problemen.",
-    "titleDE": "Ein YC-Startup steckt 1 Million US-Dollar in fünf ungelöste materialwissenschaftliche Probleme für KI"
+    "descriptionDE": "Während Pionier-KI-Modelle eine bemerkenswerte Reihe herausragender mathematischer Probleme gelöst und Fortschritte in den Biowissenschaften gemacht haben, müssen sie die komplexe Physik in fortschrittlichen Materialien noch wirklich ergründen.",
+    "titleDE": "Ein YC-Startup investiert 1 Million US-Dollar in fünf ungelöste materialwissenschaftliche Probleme für KI"
   },
   {
     "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
     "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "description": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "description": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
     "pubDate": "2026-11-05T12:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
     "descriptionDE": "Agility kommt heute als erstes börsennotiertes reines Unternehmen für humanoide Robotik an die Nasdaq.",
     "titleDE": "Agility ist das erste rein humanoide Roboterunternehmen an der Börse. Kaufen Sie?"
-  },
-  {
-    "title": "Big Tech’s big AI buildout will not end until someone stops it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-    "description": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns.\nA third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own.\nAmazon, Microsoft, Alphabet, and Meta told investors they're planning to spend at least $720 billion on CapEx this year alone. Most of that will go toward AI infrastructure. That's on top of at least $1 trillion in spending commitments that have bee …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-05T10:45:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nachdem vier der größten Konkurrenten im KI-Wettbewerb Ende letzten Monats vierteljährliche Gewinnmitteilungen abgehalten haben, sind zwei Dinge klar: Big Tech ist noch nicht damit fertig, Rekordsummen für den Ausbau des KI-Rechenzentrums auszugeben, und der Ausbau des KI-Rechenzentrums ist seinen versprochenen Erträgen nicht näher gekommen. Eine dritte Sache ist ...",
-    "titleDE": "Der große KI-Ausbau von Big Tech wird nicht enden, bis ihn jemand stoppt"
   },
   {
     "title": "A new bill could change how the US builds energy infrastructure ",
@@ -58,6 +328,26 @@
     "category": "trend",
     "descriptionDE": "Ein umfassendes Gesetz zum Bürokratieabbau könnte den Ausbau der Energieinfrastruktur in den USA beschleunigen. Nachdem sich der Staub über die bedeutsamen Zwischenwahlen dieser Woche kaum gelegt hat, wird der Senat am 9. November über den parteiübergreifenden American Affordability and Jobs Act (BAAJA) abstimmen. Es ist ein Plan, der ...",
     "titleDE": "Ein neuer Gesetzentwurf könnte die Art und Weise verändern, wie die USA die Energieinfrastruktur aufbauen"
+  },
+  {
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "link": "https://openai.com/index/introducing-gpt-6-cyber",
+    "description": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "pubDate": "2026-11-05T09:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wir stellen GPT-6 Cyber ​​vor, das Cybersicherheitsmodell von OpenAI zum Auffinden ausnutzbarer Schwachstellen und zum Entwickeln von Korrekturen, das darauf trainiert ist, innerhalb des autorisierten Bereichs zu bleiben.",
+    "titleDE": "GPT-6 Cyber: Weiterentwicklung der Grenzen aufeinander abgestimmter Cybersicherheitsagenten"
+  },
+  {
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "link": "https://openai.com/index/merge-builds-with-openai",
+    "description": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "pubDate": "2026-11-05T08:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Merge verwendet GPT-6 Astra, ChatGPT und Codex, um Produktcodes zu überprüfen und das Marketing zu unterstützen. Seine Teams nutzen KI auch, um Abendessen für Führungskräfte zu planen und Verkaufsaktualisierungen vorzubereiten.",
+    "titleDE": "Merge erstellt Produkt- und Geschäftstools mit OpenAI-Technologie"
   },
   {
     "title": "Setting a new standard for responsible AI infrastructure",
@@ -72,11 +362,11 @@
   {
     "title": "Apple is reportedly cutting budgets for its internal AI usage",
     "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "description": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
     "pubDate": "2026-11-05T01:26:22.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Das Unternehmen soll die Ausgaben für KI für seine Entwicklungsteams deutlich senken.",
+    "descriptionDE": "Der Tokenmaxxing-Rausch war nur von kurzer Dauer, da Rechnungen für diese Token fällig wurden und Unternehmen entschieden, dass eine Token-Rationierung ein steuerlich sinnvollerer Ansatz sein könnte.",
     "titleDE": "Berichten zufolge kürzt Apple die Budgets für die interne KI-Nutzung"
   },
   {
@@ -90,6 +380,26 @@
     "titleDE": "Nach den Zwischenwahlen könnte es zu einem größeren Konflikt um die Rechenzentren kommen"
   },
   {
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "link": "https://openai.com/ads/customers/flipsnack",
+    "description": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "pubDate": "2026-11-05T00:45:15.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Flipsnack konzentrierte seine ChatGPT-Werbekampagnen darauf, Menschen dazu zu bringen, sein Produkt auszuprobieren, die Registrierungen zu steigern und gleichzeitig die Kosten pro Anmeldung zu senken.",
+    "titleDE": "Flipsnack steigert Produktanmeldungen durch Conversion-Optimierung"
+  },
+  {
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "link": "https://openai.com/index/franklin-templeton",
+    "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "pubDate": "2026-11-05T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Franklin Templeton beginnt mit der Aktienanalyse und entwickelt KI-Workflows, um Portfoliomanagern dabei zu helfen, Forschungsansichten zu vergleichen und Anlagerisiken zu untersuchen.",
+    "titleDE": "Franklin Templeton nutzt OpenAI zur Unterstützung der Anlageforschung"
+  },
+  {
     "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
     "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
     "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
@@ -98,16 +408,6 @@
     "category": "news",
     "descriptionDE": "PACs der KI-Branche gaben Millionen aus, um die Zwischenwahlen 2026 zu beeinflussen, mit gemischten Ergebnissen. Die politischen Gruppen blicken bereits auf den nächsten Wahlzyklus.",
     "titleDE": "KI-PACs gaben Millionen aus, um den Kongress zu formen – so schnitten sie ab"
-  },
-  {
-    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\nConsidering the company's total revenue for 2026 was $10.4 billion, …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T22:42:15.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Da die Smartphone-Verkäufe im Vergleich zu 2025 um rund 20 Prozent zurückgehen, sucht Qualcomm nach Rechenzentren, um seinen Gewinn zu steigern. Während seiner Telefonkonferenz zu den Ergebnissen des vierten Quartals 2026 legte das Unternehmen seine Pläne dar, durch Partnerschaften mit Unternehmen wie Amazon und ... im Geschäft mit KI-Rechenzentren für Furore zu sorgen.",
-    "titleDE": "Qualcomm setzt stark auf Rechenzentren, da die Smartphone-Verkäufe sinken"
   },
   {
     "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -140,16 +440,6 @@
     "titleDE": "Laut Unternehmen nutzt fast niemand KI-Agenten, um sein Uber zu buchen"
   },
   {
-    "title": "17 better ways Elon Musk could have wasted $446 million",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-    "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you may delusionally throw away nearly $500 million dollars on midterm elections, just like Elon Musk.\nIn particular, $47 million of that money from Musk's America PAC was aimed at defeating Texas Democrat James Talarico, who trounced Musk's preferred Senate candidate, Ken Paxton, with 55 percent of the vote. Talarico even made Musk's influence a cent …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T21:45:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Träume größer, Baby. | Bild: Cath Virginia / The Verge, Getty Images Eines der Grundprobleme, wenn man zu viel Zeit in den sozialen Medien verbringt, besteht darin, dass man sein Gehirn durch das Lesen von Beiträgen einer Gruppe aufmerksamkeitshungriger Verrückter zum Kochen bringt. Wenn Ihr bevorzugtes soziales Medium die Website ist, die früher als Twitter bekannt war ...",
-    "titleDE": "17 bessere Möglichkeiten, wie Elon Musk 446 Millionen Dollar hätte verschwenden können"
-  },
-  {
     "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
     "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
     "description": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
@@ -158,56 +448,6 @@
     "category": "news",
     "descriptionDE": "„Wir haben begonnen, auf viele unserer Kunden aus dem unteren Preissegment zu hören“, sagt VMware Executive.",
     "titleDE": "VMware veröffentlicht vSphere Express für die Virtualisierung auf bis zu 128 Kernen"
-  },
-  {
-    "title": "OpenAI is already trying to shape the 2028 election",
-    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-    "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-    "pubDate": "2026-11-04T21:25:44.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Chris Lehane von OpenAI möchte, dass KI die Wahl 2028 bestimmt, und schlägt einen neuen Gesellschaftsvertrag vor, der den Amerikanern zugute kommen und gleichzeitig die eigenen Geschäftsinteressen des KI-Riesen fördern könnte.",
-    "titleDE": "OpenAI versucht bereits, die Wahl 2028 zu gestalten"
-  },
-  {
-    "title": "Meta acquires AI coding startup Conductor",
-    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-    "pubDate": "2026-11-04T21:10:56.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das Startup ermöglicht es Softwareentwicklern, Agententeams einzusetzen, die gleichzeitig an verschiedenen Aspekten eines Projekts arbeiten.",
-    "titleDE": "Meta übernimmt das AI-Coding-Startup Conductor"
-  },
-  {
-    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-    "description": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more.\nWith the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like \"What dug up the yard last night?\" or \"Who let the dogs out?\", as well as revie …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T20:23:24.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Das Smart-Home-Sicherheitssystem von AT&T lässt sich jetzt in Gemini for Home integrieren. Das Unternehmen gibt an, dass sein Connected Life-System das „erste“ Heimsicherheitsprodukt ist, das in Google Home Premium integriert ist und eine Reihe von Gemini-Funktionen ermöglicht, mit denen Sie Ereignisse zu Hause zusammenfassen, Ihren Videoverlauf durchsuchen und vieles mehr können.",
-    "titleDE": "Gemini for Home lässt sich jetzt an das intelligente Sicherheitssystem von AT&T anschließen"
-  },
-  {
-    "title": "Open source AI is booming. Hugging Face explains who profits.",
-    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
-    "pubDate": "2026-11-04T19:30:04.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Open-Source-Modelle werden immer mehr zum Mainstream, da Unternehmen, Regierungen und Startups gleichermaßen auf das Versprechen geringerer Kosten, mehr Kontrolle und mehr Flexibilität vertrauen. Aber wie können Unternehmen Mehrwert schaffen, wenn immer leistungsfähigere Modelle immer freier verfügbar werden? Und da chinesische offene Modelle auf dem Vormarsch sind ...",
-    "titleDE": "Open-Source-KI boomt. Hugging Face erklärt, wer profitiert."
-  },
-  {
-    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-    "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-    "pubDate": "2026-11-04T19:29:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "DuckDuckGo wirbt um Schulen, die von den KI-Beschränkungen von Google frustriert sind, und weist Pädagogen auf die Suchmaschine und Optionen zum Deaktivieren von KI-Funktionen hin.",
-    "titleDE": "DuckDuckGo wirbt angesichts der Gegenreaktion auf die KI-Richtlinie von Google vor Schulen"
   },
   {
     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -220,26 +460,6 @@
     "titleDE": "Texas war das neue Epizentrum des Aufbaus von KI-Rechenzentren. Das könnte kaputt sein."
   },
   {
-    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-    "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
-    "pubDate": "2026-11-04T18:44:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Open-Source-Modelle werden immer mehr zum Mainstream, da Unternehmen, Regierungen und Startups gleichermaßen auf das Versprechen geringerer Kosten, mehr Kontrolle und mehr Flexibilität vertrauen. Aber wie können Unternehmen Mehrwert schaffen, wenn immer leistungsfähigere Modelle immer freier verfügbar werden? Und da chinesische offene Modelle auf dem Vormarsch sind ...",
-    "titleDE": "Auf Open-Source-KI aufbauen? Hugging Faces politischer Leiter über die Kosten, Risiken und Kompromisse"
-  },
-  {
-    "title": "Nothing teases a screen-free AI device ahead of launch next month",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-    "description": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen:\n\"Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app.\"\nPei shared an image with the post that says \"NOTHING(R)\" in the top left corner, above an ambiguous black rounded  …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T18:26:07.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Carl Pei, CEO von Nothing, sagte in einem Beitrag auf X, dass das Unternehmen im Dezember sein erstes KI-Gerät auf den Markt bringen werde. Das ist etwas mehr als ein Jahr, nachdem Pei Pläne für „KI-native“ Geräte und ein KI-Betriebssystem angekündigt hat. Er hat nicht viel darüber verraten, was genau das neue Gerät ist, nur dass eine Funktion ...",
-    "titleDE": "Es gibt nichts, was ein bildschirmloses KI-Gerät vor der Markteinführung im nächsten Monat verspricht"
-  },
-  {
     "title": "Roundtables: Inside the Quest for Cognitive Immortality",
     "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
     "description": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…",
@@ -248,26 +468,6 @@
     "category": "trend",
     "descriptionDE": "Dienstag, 17. November 2026 In dem Bemühen, eine schwer fassbare Kontinuität des Selbst zu erreichen, arbeiten einige weitdenkende Technologen an Möglichkeiten, Ihr Gehirn am Laufen zu halten – sogar über den Tod hinaus. Begleiten Sie die Wissenschaftsredakteurin Mary Beth Griggs und den leitenden Redakteur für Biomedizin Antonio Regalado zu einem Gespräch über Möglichkeiten ...",
     "titleDE": "Roundtables: Auf der Suche nach kognitiver Unsterblichkeit"
-  },
-  {
-    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-    "description": "Also, can I just say this LED indicator light is way too small and unnoticeable?\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\n\"How does that make you feel?\"\nI get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the Amazon Bee Frontier during our session.\nThat first week, I didn't really have an answer. A lot had changed since I first tested Bee, an always-recording AI wearable, early last year. The ele …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T18:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Kann ich auch einfach sagen, dass diese LED-Anzeige viel zu klein und unauffällig ist? Dies ist Optimizer, ein wöchentlicher Newsletter der Verge-Rezensentin Victoria Song, der die neuesten Spielereien und Zaubertränke analysiert und bespricht, die schwören, dass sie Ihr Leben verändern werden. Melden Sie sich hier für Optimizer an. „Ho...",
-    "titleDE": "Mein Therapeut meint, ich sollte die Amazon Bee Frontier aus dem Fenster werfen"
-  },
-  {
-    "title": "ChatGPT will now make you animated GIFs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-    "description": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others.\nBefore this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, \"can you make a gif of a cat dancing?\" while also providing you with the option to change the playback speed and view it frame by frame.\nAlong with support for GIF-making, the Images 2.6 update also enables faster imag …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T18:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "ChatGPT kann jetzt GIFs mithilfe einer Eingabeaufforderung oder eines in den KI-Chatbot hochgeladenen Fotos erstellen. Das Update, das zusammen mit dem neuen Images 2.6-Modell von OpenAI eingeführt wird, ermöglicht es Ihnen, die Animationsgeschwindigkeit des GIF anzupassen, einzelne Frames zu bearbeiten und es mit anderen zu teilen. Vor dieser Änderung konnte ChatGPT nicht nativ ...",
-    "titleDE": "ChatGPT erstellt Ihnen jetzt animierte GIFs"
   },
   {
     "title": "What’s next for US energy policy after the midterm elections?",
@@ -280,26 +480,6 @@
     "titleDE": "Wie geht es in der US-Energiepolitik nach den Zwischenwahlen weiter?"
   },
   {
-    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-    "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-    "pubDate": "2026-11-04T16:51:35.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Apples KI-gestützte Siri Recaps haben mich trotz meiner Bedenken hinsichtlich der Privatsphäre innerhalb nur eines Tages überzeugt. Aber es gibt noch Raum für Verbesserungen.",
-    "titleDE": "Ich habe Apples Siri Recaps ausprobiert. Sie sind überraschend nützlich – und ein wenig beunruhigend"
-  },
-  {
-    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-    "description": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-    "pubDate": "2026-11-04T16:17:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Politiker der Linken, wie der New Yorker Bürgermeister Zohran Mamdani und die frühere FTC-Vorsitzende Lina Khan, warfen Google vor, als unreguliertes Monopolist zu agieren.",
-    "titleDE": "Google stößt auf Gegenreaktion wegen seines Plans, die Suche für Schulen, die KI einschränken, auszuschalten"
-  },
-  {
     "title": "Binance says hackers who stole billions in crypto spent months planning heist",
     "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
     "description": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
@@ -308,36 +488,6 @@
     "category": "news",
     "descriptionDE": "Zu den Techniken gehörten Laptop-Infektionen, kompromittierte interne Tools und gefälschte Vorstellungsgespräche.",
     "titleDE": "Laut Binance haben Hacker, die Milliarden an Kryptowährungen gestohlen haben, Monate damit verbracht, einen Raubüberfall zu planen"
-  },
-  {
-    "title": "Data centers lost the midterms",
-    "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-    "description": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry.\nOf voters polled by NBC News on Election Day, 76 percent said they opposed data centers in their communities. Dozens of local communities voted directly to restrict development through ballot measures. And upset winners like Texas Democratic Governor-elect Gina Hinojosa and Michigan's Democratic Senator-elect Abdul El-Sayed support moratoriums on development.\n …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T16:05:39.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Entwickler von Rechenzentren müssen mit einem restriktiveren Bauumfeld rechnen, nachdem Wähler im ganzen Land für Kandidaten gestimmt haben, die Moratorien und Abstimmungsmaßnahmen befürworten, die ihre Expansion noch mehr behindern und einem zentralen Pfeiler der KI-Branche einen herben Schlag versetzen. Von Wählern pol...",
-    "titleDE": "Rechenzentren haben die Zwischenprüfungen verloren"
-  },
-  {
-    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-    "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-    "description": "AI agents won't be stealing Uber's lunch any time soon. \nOnly four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during the week of Halloween, out of a total 320 million Uber rides and Uber Eats deliveries. \nThis is the first time that Uber has disclosed the number of third-party AI agents that have arranged deliveries or rides on its platform. With the rise of AI agents like Meta's Muse or OpenAI's Dots, some experts are predictin …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T15:58:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "KI-Agenten werden Uber so schnell nicht das Mittagessen stehlen. Im dritten Quartal 2026 wurden nur vier Fahrten von externen KI-Agenten arrangiert, gaben Uber-Führungskräfte heute Morgen bei einer Telefonkonferenz zu den Ergebnissen bekannt. Das Volumen der von KI-Agenten abgewickelten Uber Eats-Bestellungen war etwas höher, da das Unternehmen ...",
-    "titleDE": "Uber hat im letzten Quartal nur vier Fahrten von KI-Agenten durchgeführt"
-  },
-  {
-    "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-    "description": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it is fucking annoying that this was taken out of context. i have been arguing for the world to ramp up memory production for a long time.\"\nHe replied to another comment, saying, \"i want you to have so much ram lets build more.\"\n\n\nbut only because…i actually do want the world to have tons of memory and people to put as much as they want in their computers …\n\n\nRead the full story at The Verge.",
-    "pubDate": "2026-11-04T14:46:01.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Sam Altman, CEO von OpenAI, verbrachte die Wahlnacht damit, seine Position zum Kauf von PC-RAM zu verteidigen. Als Reaktion auf den Kommentar eines anderen Benutzers änderte er seinen Namen auf",
-    "titleDE": "Sam Altman geht auf RAM-Kommentare ein: Die Leute sollten „so viel in ihre Computer stecken, wie sie wollen“."
   },
   {
     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -358,16 +508,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Diese Startups hoffen, dass „gemischte“ Lebensmittel unseren Appetit auf rotes Fleisch zügeln werden. Im Herbst 2025 servierte Jeff Dodge hungrigen Studenten dampfende Marinara-Sauce und Fleischbällchen …",
     "titleDE": "Der Download: gemischtes Fleisch, wiederhergestelltes Sehvermögen und das Wirkstoffnetz"
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "description": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-    "pubDate": "2026-11-04T13:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Heute ist der Tag, um am TechCrunch Founder Summit 2026 im Bostoner SoWa-Kraftwerk teilzunehmen. Registrieren Sie sich jetzt, um noch heute an dieser gründerorientierten Konferenz teilzunehmen.",
-    "titleDE": "TechCrunch Founder Summit 2026: Die Türen öffnen um 9 Uhr ET in Boston"
   },
   {
     "title": "Securing the agentic enterprise with data lineage",
@@ -420,46 +560,6 @@
     "titleDE": "DevRev bietet autonomen Self-Service mit GPT-6.1 Sol"
   },
   {
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "pubDate": "2026-11-03T22:41:03.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit dem System namens FlashProve kann jeder überprüfen, ob eine KI-Antwort tatsächlich von dem Modell stammt, von dem sie angeblich stammt.",
-    "titleDE": "Anthropic arbeitet an einem System zum Nachweis der Identität von KI-Modellen"
-  },
-  {
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "pubDate": "2026-11-03T22:19:53.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das jahrelange Warten auf Zugang zum Stromnetz und neue Turbinen führt dazu, dass Rechenzentrumsbauer auf eine ungewöhnliche, weniger effiziente und weniger umweltfreundliche Lösung zurückgreifen: einst ausgemusterte Flugzeugtriebwerke.",
-    "titleDE": "Da die Wartezeit auf Strom immer länger wird, greifen Rechenzentren auf alte Triebwerke zurück"
-  },
-  {
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "pubDate": "2026-11-03T21:43:08.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Das auf Cybersicherheit spezialisierte Unternehmen Ballistic Ventures möchte 360 ​​Millionen US-Dollar für einen neuen Flaggschiff-Fonds und weitere 130 Millionen US-Dollar für ein separates Investitionsvehikel aufbringen.",
-    "titleDE": "Ballistic Ventures von Ted Schlein sucht angesichts des KI-gesteuerten Cybersicherheitsbooms nach neuen Mitteln in Höhe von 490 Millionen US-Dollar"
-  },
-  {
-    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-    "pubDate": "2026-11-03T21:05:55.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die kommerziellen Einnahmen von Palantir in den USA übertrafen zum ersten Mal überhaupt die Einnahmen der US-Regierung.",
-    "titleDE": "Sich im aufstrebenden Viertel von Palantir zu verstecken, ist ein unheilvolles Signal"
-  },
-  {
     "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
     "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
     "description": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
@@ -476,7 +576,7 @@
     "pubDate": "2026-11-03T13:10:00.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von „The Download“, unserem Wochentags-Newsletter, der täglich einen Einblick in die Entwicklungen in der Welt der Technologie bietet. Wie die „umgekehrte Spieltheorie“ KI-Agenten unter Kontrolle halten könnte Ein neuer Ansatz namens „umgekehrte Spieltheorie“ zielt darauf ab, leistungsstarke KI-Modelle durch den Entwurf von Systemen zu steuern, die ...",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Wie die „umgekehrte Spieltheorie“ KI-Agenten unter Kontrolle halten könnte Ein neuer Ansatz namens „umgekehrte Spieltheorie“ zielt darauf ab, leistungsstarke KI-Modelle durch den Entwurf von Systemen zu steuern, die ...",
     "titleDE": "Der Download: Kontrolle von KI-Agenten und „Super Intelligence“-Treuetests"
   },
   {
@@ -488,16 +588,6 @@
     "category": "news",
     "descriptionDE": "Entdecken Sie, wie ChatGPT und Codex Ingenieuren dabei helfen, CAD, PCB-Design, Simulation und andere Arbeitsabläufe in der gesamten physischen Welt zu beschleunigen.",
     "titleDE": "Beschleunigte Entwicklung für die physische Welt"
-  },
-  {
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "description": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-    "pubDate": "2026-11-03T10:43:41.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Ein neuer Ansatz, bekannt als „Reverse Game Theory“, zielt darauf ab, leistungsstarke KI-Modelle durch die Entwicklung von Systemen zu kontrollieren, die sie dazu anregen, sich an die Regeln zu halten. Da KI-Modelle immer leistungsfähiger werden, bemühen sich Sicherheitsforscher darum, sicherzustellen, dass sie mit den menschlichen Wünschen in Einklang gebracht werden – mit anderen Worten: Sicherstellen, dass ...",
-    "titleDE": "Wie die „umgekehrte Spieltheorie“ KI-Agenten in Schach halten könnte"
   },
   {
     "title": "How Cisco defends at machine speed with OpenAI",
@@ -518,16 +608,6 @@
     "category": "news",
     "descriptionDE": "Entdecken Sie, wie Heimstaden ChatGPT Enterprise und Codex von OpenAI nutzt, um die Immobilienverwaltung zu transformieren, Kosten zu senken und Mitarbeiter in ganz Europa zu stärken.",
     "titleDE": "Heimstaden verändert das Wohnimmobilienmanagement mit KI"
-  },
-  {
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
-    "pubDate": "2026-11-03T04:18:47.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Ende September unterzeichnete Präsident Trump eine Durchführungsverordnung, die nur eine Direktive enthielt und die Regierungsbehörden dazu aufforderte, das, was ihnen bisher zugewiesen worden war, umzubenennen.",
-    "titleDE": "Hier erfahren Sie, wer sich für Trumps Loyalitätstest „Super Intelligence“ anmeldet"
   },
   {
     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
@@ -628,45 +708,5 @@
     "category": "news",
     "descriptionDE": "Es ist immer noch unbekannt, wie Angreifer Zugriff auf das verifizierte Cursor-Konto von Anthropic erhielten.",
     "titleDE": "Anthropic VS-Codeerweiterung auf Cursor fast 12 Stunden lang hinter der Tür versteckt"
-  },
-  {
-    "title": "Making it easier for websites to express AI training preferences",
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "pubDate": "2026-10-30T09:30:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI wird ein gemeinsames robots.txt-Signal berücksichtigen, um Website-Betreibern dabei zu helfen, den teilnehmenden Anbietern ihre KI-Trainingspräferenzen mitzuteilen.",
-    "titleDE": "Dadurch wird es für Websites einfacher, KI-Trainingspräferenzen auszudrücken"
-  },
-  {
-    "title": "Community safety report and new protections for teens",
-    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "pubDate": "2026-10-30T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI stärkt die Gewaltprävention in ChatGPT durch erweiterte Schutzmaßnahmen, frühere Interventionen und ein neues Engagement für die Berichterstattung über die öffentliche Sicherheit.",
-    "titleDE": "Community-Sicherheitsbericht und neue Schutzmaßnahmen für Jugendliche"
-  },
-  {
-    "title": "Fair use benefits everyone",
-    "link": "https://openai.com/index/fair-use-benefits-everyone",
-    "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "pubDate": "2026-10-30T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI teilt unter anderem Auszüge aus Gerichtsschriften von Urhebern, Akademikern, Befürwortern der Barrierefreiheit und Rechtsexperten darüber, wie faire Nutzung KI-Training und -Innovation unterstützt.",
-    "titleDE": "Eine faire Nutzung kommt allen zugute"
-  },
-  {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "link": "https://openai.com/index/updated-model-spec",
-    "description": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "pubDate": "2026-10-29T17:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Die aktualisierte Modellspezifikation von OpenAI beschreibt fünf Grundwerte, um leistungsfähigere KI zu gesundem Urteilsvermögen, menschlicher Handlungsfähigkeit und Treue gegenüber menschlichen Absichten zu führen.",
-    "titleDE": "Eine aktualisierte Modellspezifikation für leistungsfähigere und nützlichere KI"
   }
 ]
