@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src https:; connect-src 'self'">
+  <title>KI News - Mittwoch, 11. November 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <a href="../index.html" class="logo-link">
+          <span class="logo-icon">&#9670;</span>
+          <span class="logo-text">KI News</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Dark Mode umschalten">
+          <span class="icon-sun">&#9788;</span>
+          <span class="icon-moon">&#9790;</span>
+        </button>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <a href="../index.html" class="back-link">&larr; Zurueck zur Uebersicht</a>
+    <section class="hero">
+  <h1 class="date-display">Mittwoch, 11. November 2026</h1>
+  <p class="subtitle">4 Artikel</p>
+</section>
+<section class="controls">
+  <div class="filter-tabs" id="filterTabs">
+    <button class="tab active" data-filter="all">Alle</button>
+    <button class="tab" data-filter="news">News</button>
+    <button class="tab" data-filter="trend">Trends</button>
+    <button class="tab" data-filter="tool">Tools</button>
+  </div>
+  <div class="search-wrapper">
+    <input type="search" class="search-input" id="searchInput" placeholder="Artikel durchsuchen...">
+  </div>
+</section>
+<div class="news-grid" id="newsGrid"><article class="news-card" data-category="trend"><div class="news-card-header"><span class="news-tag" data-category="trend">Trend</span><span class="news-source">MIT Tech Review</span></div><h2 class="news-title"><a href="https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/" target="_blank" rel="noopener">Der Download: Köpfe bewahren und offene KI-Risiken abwägen</a></h2><p class="news-description">Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Sechs wilde Ideen, um Ihren Geist zu bewahren Mit zunehmendem Alter vergessen wir das meiste, was wir erlebt haben, und doch gibt es immer noch eine unbestreitbare Kontinuität: Mit 30, 50 oder 70 haben Sie …</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">Google AI</span></div><h2 class="news-title"><a href="https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/" target="_blank" rel="noopener">Erleben Sie die Kunst und das Erbe von Dr. Esther Mahlangu</a></h2><p class="news-description">Ein neues Online-Archiv von Esther Mahlangus Leben und Kunst ist jetzt auf Google Arts &amp; Culture verfügbar.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">OpenAI</span></div><h2 class="news-title"><a href="https://openai.com/index/chatgpt-plus-for-veterans" target="_blank" rel="noopener">ChatGPT Plus für Veteranen und Militärangehörige</a></h2><p class="news-description">Mehr als 20.000 Veteranen und Mitglieder des Übergangsdienstes haben ein kostenloses Jahr ChatGPT Plus beansprucht. Sehen Sie, wie sie es nutzen, um sich auf zivile Karrieren vorzubereiten.</p></article>
+<article class="news-card" data-category="news"><div class="news-card-header"><span class="news-tag" data-category="news">News</span><span class="news-source">TechCrunch</span></div><h2 class="news-title"><a href="https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/" target="_blank" rel="noopener">Die Krise von Nvidia lässt Corporate-Governance-Experten zum Popcorn greifen</a></h2><p class="news-description">Die Governance-Experten, mit denen wir gesprochen haben, sagen, dass niemand so etwas wie das, was sich derzeit abspielt, gesehen hat.</p></article></div>
+<div class="empty-state" id="emptyState" style="display:none;">
+  <p>Keine Artikel gefunden.</p>
+</div>
+  </main>
+  <footer class="footer">
+    <p>KI News &middot; Automatisch aggregiert aus RSS-Feeds</p>
+  </footer>
+  <script src="../js/app.js"></script>
+</body>
+</html>

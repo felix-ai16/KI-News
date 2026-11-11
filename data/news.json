@@ -1,12 +1,242 @@
 [
   {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "pubDate": "2026-11-12T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Ein Gespräch mit Sam Nickless, Partner und Chief Executive Officer bei Gilbert + Tobin.",
+    "titleDE": "Gilbert + Tobin denkt das Rechtsgeschäft mit KI neu"
+  },
+  {
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
+    "pubDate": "2026-11-11T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Sechs wilde Ideen, um Ihren Geist zu bewahren Mit zunehmendem Alter vergessen wir das meiste, was wir erlebt haben, und doch gibt es immer noch eine unbestreitbare Kontinuität: Mit 30, 50 oder 70 haben Sie …",
+    "titleDE": "Der Download: Köpfe bewahren und offene KI-Risiken abwägen"
+  },
+  {
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "description": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "pubDate": "2026-11-11T09:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Ein neues Online-Archiv von Esther Mahlangus Leben und Kunst ist jetzt auf Google Arts & Culture verfügbar.",
+    "titleDE": "Erleben Sie die Kunst und das Erbe von Dr. Esther Mahlangu"
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "pubDate": "2026-11-11T08:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Mehr als 20.000 Veteranen und Mitglieder des Übergangsdienstes haben ein kostenloses Jahr ChatGPT Plus beansprucht. Sehen Sie, wie sie es nutzen, um sich auf zivile Karrieren vorzubereiten.",
+    "titleDE": "ChatGPT Plus für Veteranen und Militärangehörige"
+  },
+  {
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+    "pubDate": "2026-11-11T07:30:51.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Governance-Experten, mit denen wir gesprochen haben, sagen, dass niemand so etwas wie das, was sich derzeit abspielt, gesehen hat.",
+    "titleDE": "Die Krise von Nvidia lässt Corporate-Governance-Experten zum Popcorn greifen"
+  },
+  {
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+    "pubDate": "2026-11-10T21:12:59.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Forscher fanden heraus, dass 35.000 Grok Build-Apps jedem offen stehen, der danach sucht.",
+    "titleDE": "Der Codierungsagent Grok Build gibt Unmengen vertraulicher Informationen preis, von denen einige zu SpaceXSI gehören"
+  },
+  {
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "pubDate": "2026-11-10T21:08:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI hat noch nicht gesagt, welche Pläne es für die Zukunft des Reisens hat. Aber Sonder-Gründer Francis Davidson ist eine bekannte Persönlichkeit in der Reisebranche.",
+    "titleDE": "OpenAI erwirbt Odessia, ein vom Sonder-Gründer gegründetes Reise-Startup"
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "pubDate": "2026-11-10T20:52:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "New York bereitet sich auf die Durchsetzung seines umfassenden KI-Sicherheitsgesetzes vor, das von großen Entwicklern wie OpenAI und Anthropic verlangt, sich zu registrieren, Sicherheitspraktiken offenzulegen und kritische Vorfälle zu melden oder mit Geldstrafen zu rechnen.",
+    "titleDE": "OpenAI und Anthropic stehen vor einer neuen Aufsicht, da das New Yorker KI-Sicherheitsgesetz in Kraft tritt"
+  },
+  {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "pubDate": "2026-11-10T19:57:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Jeder der sieben Mitbegründer plant, beim Börsengang genau die gleiche Anzahl an Aktien zu verkaufen, was jedem von ihnen in der Mitte der Preisspanne etwa 250 Millionen US-Dollar in bar einbringen würde, während die Gruppe die Kontrolle über das Unternehmen behalten würde.",
+    "titleDE": "Alle sieben Anthropic-Gründer werden durch den Börsengang jeweils etwa 250 Millionen US-Dollar auszahlen"
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "pubDate": "2026-11-10T19:23:34.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Der Deal kommt wenige Wochen, nachdem Oura seinen Börsengang im Wert von bis zu 2,2 Milliarden US-Dollar auf unbestimmte Zeit verschoben hat, mit der Begründung „Unsicherheit auf dem IPO-Markt“.",
+    "titleDE": "Oura erwirbt das KI-native Startup Counsel Health für die Grundversorgung für 625 Millionen US-Dollar"
+  },
+  {
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket.\nWhich makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-10T19:04:05.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Wenn es um Spionageziele geht, ist Jensen Huang vielleicht eines der am wenigsten überraschenden Ziele auf der Welt. Der Nvidia-CEO leitet eines der wertvollsten Unternehmen der Welt, kontrolliert die gefragte Technologie, die den KI-Boom antreibt, und hat ein angenehmes Verhältnis zu Präsidenten, CEOs und allen möglichen wichtigen Menschen. Außerdem trägt er eine coole Hose...",
+    "titleDE": "Die USA gewinnen das KI-Rennen. Jensen Huang hätte es vermasseln können"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "pubDate": "2026-11-10T19:03:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das PSI nutzte ein unveröffentlichtes Anthropic-Modell, um eine grundlegende Frage zum Quantencomputing zu beantworten, die Wissenschaftler seit fast zwei Jahrzehnten verfolgen.",
+    "titleDE": "PSI versucht, aus KI-gesteuerten wissenschaftlichen Entdeckungen ein Geschäft zu machen"
+  },
+  {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "description": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "pubDate": "2026-11-10T19:00:00.000Z",
+    "source": "Google AI",
+    "category": "news",
+    "descriptionDE": "Gemini Intelligence wird auf mehr Geräten eingeführt. Erfahren Sie, wie Sie mit den erweiterten Funktionen dieser Geräte mehr erreichen können.",
+    "titleDE": "Gemini Intelligence: Neue Funktionen, auf mehr Geräten"
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "pubDate": "2026-11-10T18:49:52.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI möchte ChatGPT zu einer robusteren Consumer-Discovery-Engine machen, und eine Vielzahl neuer Funktionen soll Unternehmen dabei helfen, dies zu erreichen.",
+    "titleDE": "OpenAI führt neue Unternehmensprofile ein und macht ChatGPT ein bisschen mehr zu Google"
+  },
+  {
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "description": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta.\nYou can start talking with a Business Agent if a business that has created one appears in a response from ChatGPT. While chatting with a custom agent, you can ask about a business's offerings and ask follow-up questions, like asking about differences between two different products. Businesses can specify a Busi …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-10T18:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Mit ChatGPT können Sie mit verifizierten „Geschäftsagenten“ chatten, die eine Marke repräsentieren, um Ihnen beispielsweise bei Preisvergleichen zu helfen. Die Funktion, die zunächst „berechtigten“ E-Commerce- und Online-Dienstleistungsunternehmen in den USA zur Verfügung steht, wird als Teil einer Reihe geschäftsorientierter Funktionen in Kalifornien eingeführt.",
+    "titleDE": "ChatGPT erhält verifizierte KI-„Geschäftsagenten“"
+  },
+  {
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "description": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult technical challenges and bugs.\"\nAccording to the jurors' statement, a copy of which was posted by Austin Walker, while this year's IGF entries have been \"incredible,\" there has been \"a significant increase\" in the number of games \"developed with generative AI tools,\" leading to \"fairly intense discussion a …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-10T17:32:47.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Einige Juroren des Independent Games Festival (IGF) veröffentlichten gestern eine Erklärung, in der sie sagten, sie würden nicht für Spiele stimmen, die generative KI „in irgendeiner Form“ nutzen. Kurz darauf veröffentlichte der Entwickler des Indie-Hits Big Walk eine Erklärung, in der es hieß, er habe in der „Endphase“ der Spielentwicklung „sparsam“ mit KI umgegangen …",
+    "titleDE": "In der Indie-Game-Community herrscht Uneinigkeit über KI und Big Walk"
+  },
+  {
+    "title": "Anthropic has its own AI-powered office suite now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "description": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools.\nAt an event in San Francisco on Tuesday, Anthropic unveiled new tools for non-technical workers who spend a lot of time attending meetings, brainstorming new ideas, and analyzing metrics: Claude Meetings, Claude Sheets, and Claude W …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-10T17:30:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic ist seit Jahren für seinen Fokus auf Unternehmens- und Codierungstools bekannt, die hochkarätige Unternehmenskunden anziehen und konkurrierende Pionierlabore – wie OpenAI, SpaceXSI und Meta – dazu inspirieren, seine Strategien zu kopieren. Anfang des Jahres durchlief Claude Code seinen ganz eigenen Hype-Zyklus. Und nein...",
+    "titleDE": "Anthropic verfügt jetzt über eine eigene KI-gestützte Office-Suite"
+  },
+  {
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "pubDate": "2026-11-10T17:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Während die Teilnehmer sprechen, kann Claude den besprochenen Plan entwerfen, einen Zeitplan auf einem Whiteboard entwerfen, Fragen im Meeting-Chat beantworten und auf verbundene Arbeits-Apps zugreifen, um Informationen wie die Zahlen des letzten Jahres abzurufen.",
+    "titleDE": "Anthropic führt Claude Meetings ein, um Diskussionen am Arbeitsplatz in Pläne und Aufgaben umzuwandeln"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "pubDate": "2026-11-10T17:04:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Affäre könnte Auswirkungen auf die nationale Sicherheit haben, da die USA und China um die Entwicklung der fortschrittlichsten KI-Infrastruktur konkurrieren.",
+    "titleDE": "Die Affäre von Nvidia-Chef Jensen Huang mit einem mutmaßlichen chinesischen Spion: ein Zeitstrahl"
+  },
+  {
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+    "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race.\nA reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-10T16:20:30.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Offenbar hat eBay KI-Agenten, darunter Meta's Muse, daran gehindert, auf der Plattform zu surfen – der jüngste Geschwindigkeitsschub im Rennen um KI-Agenten. Ein Leser erzählt The Verge, dass er seinen Muse-Agenten mehrere Wochen lang täglich eine Zusammenfassung der auf Plattformen wie eBay zum Verkauf stehenden Uhren durchsuchen und kuratieren ließ, darunter ...",
+    "titleDE": "eBay scheint KI-Agenten von Drittanbietern die Tür verschlossen zu haben"
+  },
+  {
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "description": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.\nGoogle says Gemini 4 Carbon \"pushes the frontier even further\" than Argon, referring to the company's other frontier model that launched only last month. The company said Argon will likely remain \"the ideal choice for the majority of software engineering and knowledge work,\" but that Carbon is \"built for tasks that test the limits of a model's intellige …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-10T16:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Google stellt sein neuestes KI-Modell, Gemini 4 Carbon, der breiten Öffentlichkeit vor, nachdem es es vor zwei Wochen einer ausgewählten Gruppe von „Verteidigern der Cybersicherheit“ freigegeben hatte. Google behauptet, Carbon sei sein bisher „stärkstes Modell“ und in der Lage, mit den allerbesten Systemen von Anthropic und OpenAI zu konkurrieren. Google ...",
+    "titleDE": "Google veröffentlicht Gemini 4 Carbon mit Agenten-„Schwarm“-Funktion"
+  },
+  {
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "pubDate": "2026-11-10T15:54:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neuen Tensor-Processing-Units (TPUs) von Google erweitern sein Chip-Portfolio um weitere Anwendungsfälle: vertrauliches Modelltraining und mehr Speicherkapazität.",
+    "titleDE": "Google erweitert sein KI-Hardware-Portfolio um zwei neue Spezialchips"
+  },
+  {
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "pubDate": "2026-11-10T15:29:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Benutzer können jetzt mit dem KI-Assistenten von Meta über Sprachanrufe, Textnachrichten oder Diktate auf ihrer Apple Watch interagieren.",
+    "titleDE": "Metas KI-Agent Muse landet auf Apple Watch und Android Wear OS"
+  },
+  {
     "title": "Anthropic targets $1.4 trillion IPO",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-    "description": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal's sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next week.\"\nAs Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion.\nThe initial public offering price is expected to be between $70.00 and $78.00 per share. Anthropic has applied to list its Class A common sto …\n\nRead the full story at The Verge.",
+    "description": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal reports that according to its sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next week.\"\nAs Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion.\nThose lower expectations follow month …\nRead the full story at The Verge.",
     "pubDate": "2026-11-10T14:06:54.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Anthropic bestätigte am Dienstag, dass sein Börsengang einer der größten aller Zeiten sein könnte, auch wenn er hinter den bisherigen Erwartungen zurückbleibt. Der Preis für den Börsengang wird voraussichtlich zwischen 70,00 und 78,00 US-Dollar pro Aktie liegen und den Quellen des Wall Street Journal zufolge strebt Anthropic „den Handel mit seinen Aktien an …“",
+    "descriptionDE": "Anthropic bestätigte am Dienstag, dass sein Börsengang einer der größten aller Zeiten sein könnte, auch wenn er hinter den bisherigen Erwartungen zurückbleibt. Laut der New York Times wird der IPO-Preis voraussichtlich zwischen 70,00 und 78,00 US-Dollar pro Aktie liegen, was einer Bewertung von bis zu 1,4 Billionen US-Dollar entspricht. Die Mauer...",
     "titleDE": "Anthropic strebt einen Börsengang im Wert von 1,4 Billionen US-Dollar an"
   },
   {
@@ -90,6 +320,16 @@
     "titleDE": "Praktisch mit der neuen KI-Drohnenkamera von Ring für Ihr Zuhause"
   },
   {
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+    "pubDate": "2026-11-10T13:30:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das zu Amazon gehörende Unternehmen Ring stößt mit der Einführung einer Heimsicherheitsdrohne und eines rollenden Roboters, der zur Patrouille und zum Schutz von Unternehmen konzipiert ist, in die Robotik vor.",
+    "titleDE": "Ring, bekannt für seine Türklingelkameras, bringt eine Heimsicherheitsdrohne und einen Unternehmenssicherheitsroboter auf den Markt"
+  },
+  {
     "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
     "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
@@ -100,9 +340,9 @@
     "titleDE": "Der Download: Pelosis Nachfolger zielt auf KI und Rechenzentren haben mit Stromproblemen zu kämpfen"
   },
   {
-    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns ",
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns ",
     "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+    "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
     "pubDate": "2026-11-10T13:00:00.000Z",
     "source": "TechCrunch",
     "category": "news",
@@ -140,6 +380,16 @@
     "titleDE": "Unterstützung von Pflegekräften beim Einsatz von KI im Alltag"
   },
   {
+    "title": "Introducing Businesses in ChatGPT",
+    "link": "https://openai.com/index/introducing-businesses-chatgpt",
+    "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "pubDate": "2026-11-10T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Verwalten Sie Ihre Unternehmensinformationen, erhalten Sie Einblicke in die Darstellung Ihres Unternehmens und setzen Sie Interesse in die Tat um – in ChatGPT.",
+    "titleDE": "Einführung von Unternehmen in ChatGPT"
+  },
+  {
     "title": "Closing the AI guidance gap in education",
     "link": "https://openai.com/index/closing-ai-guidance-gap-education",
     "description": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
@@ -148,6 +398,16 @@
     "category": "news",
     "descriptionDE": "Neue Forschungsergebnisse von ThinkYoung und Lehren aus den EMEA-Bildungspartnerschaften von OpenAI zur Unterstützung von Lehrern, zur KI-Kompetenz und zum unabhängigen Lernen.",
     "titleDE": "Schließung der KI-Beratungslücke in der Bildung"
+  },
+  {
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "link": "https://openai.com/index/singapore-airlines-travel-work",
+    "description": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "pubDate": "2026-11-10T08:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie, wie Singapore Airlines OpenAI-Modelle und APIs nutzt, um den Kundensupport, die Entdeckung von Reisen und die Mitarbeiterproduktivität zu verbessern und den CSAT für seinen Kris-Chatbot zu verdoppeln.",
+    "titleDE": "Singapore Airlines verbessert Reisen und Arbeiten mit OpenAI-Technologie"
   },
   {
     "title": "Otter AI can now follow conversations across 30+ languages",
@@ -160,6 +420,16 @@
     "titleDE": "Otter AI kann jetzt Gespräche in über 30 Sprachen verfolgen"
   },
   {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "pubDate": "2026-11-10T07:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Neue Untersuchungen von OpenAI und Upwork zeigen eine sich verändernde Nachfrage nach freiberuflicher Arbeit, neue Kompetenzkombinationen sowie größere Budgets und mehr Stunden für KI-bezogene Projekte.",
+    "titleDE": "Arbeit an der Grenze: Die Auswirkungen von KI auf freiberufliche Arbeit"
+  },
+  {
     "title": "Anthropic reportedly plans to move forward with IPO plans",
     "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
     "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
@@ -170,34 +440,14 @@
     "titleDE": "Berichten zufolge plant Anthropic, die IPO-Pläne voranzutreiben"
   },
   {
-    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-    "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said:\n\"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history. The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s. That technology gave birth to amazing stories like Jurassic Park and Terminator 2, and it's hard to imagine that AI is not going to have a more significant i …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-11-10T00:28:49.000Z",
-    "source": "The Verge",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "link": "https://openai.com/index/cogent-security",
+    "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "pubDate": "2026-11-10T00:00:00.000Z",
+    "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Während der jüngsten Gewinnmitteilung von Paramount Skydance sagte CEO David Ellison: „Es ist schwer vorstellbar“, dass KI keinen größeren Einfluss auf die Filmindustrie haben wird als CGI. Als Antwort auf eine Frage zu den Aussichten des Unternehmens für KI antwortete Ellison: „Ich denke, wenn man das Ganze verkleinert und sich die Produktion anschaut, hat KI wirklich das Potenzial …“",
-    "titleDE": "David Ellison sagt, KI könnte der „größte kreative Freistoß in der modernen Geschichte“ sein"
-  },
-  {
-    "title": "What could China get from Jensen Huang?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-    "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with President Donald Trump.\nThis is why, as both cofounder and longtime CEO of Nvidia, Jensen Huang would be a valuable target for a foreign adversary with sig …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-09T23:51:58.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Es ist schwierig, die Macht von Nvidia in der heutigen KI-Landschaft zu überschätzen. Die Chips des Unternehmens sind das Fundament, auf dem die fortschrittliche KI-Technologie in den USA aufbaut, und die Nachfrage übersteigt seit Jahren kontinuierlich das Angebot. Nvidia war auch ein einflussreicher Investor in einer Vielzahl aufstrebender KI-Unternehmen ...",
-    "titleDE": "Was könnte China von Jensen Huang bekommen?"
-  },
-  {
-    "title": "Here’s what Trump said he knew about Jensen Huang",
-    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-    "description": "Jensen Huang and President Trump. | Getty Images\t\n\nPresident Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang.\nRecent articles from The New York Times indicated that Trump had been aware of a relationship between Huang and Alice Huang, the suspected spy, before information about it became public. In October, The New York Times reported that Trump had been briefed \"roughly a year ago\" on intelligence that Huang and the alleged spy, Alice Huang, ha …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-09T23:47:46.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Jensen Huang und Präsident Trump. | Getty Images Präsident Trump hielt heute eine Pressekonferenz im Weißen Haus ab und beantwortete mehrere Fragen zu seinem Wissen über die Affäre von Nvidia-CEO Jensen Huang mit einem mutmaßlichen chinesischen Spion. Huang sagte an diesem Wochenende, er sei seiner Frau „​​untreu“ gewesen …",
-    "titleDE": "Hier ist, was Trump über Jensen Huang zu wissen sagte"
+    "descriptionDE": "Cogent kombiniert OpenAI-Modelle mit Unternehmenskontext, um Schwachstellen automatisch mit Agenten zu beheben.",
+    "titleDE": "Cogent und OpenAI bauen Cyber-Verteidigungsfabriken für Unternehmen"
   },
   {
     "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
@@ -208,56 +458,6 @@
     "category": "news",
     "descriptionDE": "Die PR-Firma wurde kurz nach einem Bericht der New York Times vom Oktober 2025 beauftragt, in dem Alice Huangs Geschäftsbeziehungen mit Jensen Huang beschrieben wurden, berichtete Wired.",
     "titleDE": "Berichten zufolge hat Jensen Huang vor einem Jahr eine PR-Firma beauftragt, die sich mit der Bearbeitung hochkarätiger Sexskandale beschäftigt hat"
-  },
-  {
-    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security.\nIn recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers.  So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues.\n\n\n\t\t\t\t\t\nHere’s what Trump said he knew about Jensen Huang\n\t\t\t\nWhat could China get from Jensen Huang?\n\t\t\t\nThe future of AI hinges on… Jensen Huang’s sex life?\n\t\t\t\nHere’s the full text of Jensen Huang’s memo to Nvidia\n\t\t\t\nNvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "pubDate": "2026-11-09T23:07:59.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Der in Lederjacke gekleidete CEO von Nvidia, Jensen Huang, hat eine Affäre mit der Megaspeed-Managerin Alice Huang zugegeben, was eine Untersuchung seines Unternehmens und heftige Diskussionen weltweit auslöste. Jüngsten Berichten zufolge hatten US-Geheimdienstberichte seit letztem Jahr Alice Huang (keine Verwandte) als ... identifiziert.",
-    "titleDE": "Alles, was wir bisher über den Nvidia-Spionageskandal um CEO Jensen Huang wissen"
-  },
-  {
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-    "pubDate": "2026-11-09T22:46:09.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Sechs Monate bevor Nvidias Spionageskandal ausbrach, stellte Culper Research bereits Jensen Huangs ungewöhnlich enge Beziehung zu einem chinesischen Manager in Frage.",
-    "titleDE": "Ein Leerverkäufer wies sechs Monate vor dem Skandal auf Verbindungen des CEO von Nvidia zu einem mutmaßlichen chinesischen Spion hin"
-  },
-  {
-    "title": "The race is on to sue Nvidia",
-    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-    "pubDate": "2026-11-09T22:23:42.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Nvidia-Aktie brach um mehr als 4 % ein, nachdem der Vorstand eine Untersuchung der Beziehung von Jensen Huang zu einem mutmaßlichen chinesischen Spion eingeleitet hatte, und ein Experte für Wertpapierrecht sagte, die frühere Behauptung des Unternehmens, alles sei „normal“, könnte zu einem sehr teuren Problem werden.",
-    "titleDE": "Das Rennen darum, Nvidia zu verklagen, ist eröffnet"
-  },
-  {
-    "title": "The global pledge to use AI for climate good is a cruel joke",
-    "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-    "description": "Murat Kurum (left), Turkey’s minister of Environment, Urbanisation and Climate Change; and Chris Bowen, Australia's minister for Climate Change and Energy, raise their hands together at the COP31 UN Climate Change Conference in Antalya, Turkey, on November 9th, 2026. | Photo: AFP via Getty Images\t\n\nAt this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a little harm reduction?\nNegotiators from more than 190 countries around the world are in Antalya, Turkey, this month for the annual United Nations climate summit, called COP31 (the 31st \"Conference of the Parties\" that ratified the UN Framework Convention on Climate Change). Turkey previewed its Antalya Artificial Intelligence Pledge ahead of the convening, inv …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-09T21:13:16.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Murat Kurum (links), türkischer Minister für Umwelt, Urbanisierung und Klimawandel; und Chris Bowen, Australiens Minister für Klimawandel und Energie, heben gemeinsam die Hände auf der UN-Klimakonferenz COP31 in Antalya, Türkei, am 9. November 2026. | Foto: AFP über Getty Images At...",
-    "titleDE": "Das globale Versprechen, KI zum Wohle des Klimas einzusetzen, ist ein grausamer Witz"
-  },
-  {
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "pubDate": "2026-11-09T20:09:06.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Auch der Nvidia-CEO zog sich bereits früher aus einer Anthropic-Veranstaltung zurück.",
-    "titleDE": "Jensen Huang zieht sich aufgrund der Nvidia-Kontroverse vom ElevenLabs Summit zurück"
   },
   {
     "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -280,26 +480,6 @@
     "titleDE": "Bei der Gegenreaktion zu Rechenzentren geht es möglicherweise nur um Elektrizität"
   },
   {
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-    "pubDate": "2026-11-09T19:24:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Laut Anthropic zeigen die neuen Modelle „Verbesserungen in Bereichen wie Codierung, Argumentation und Vision“ sowie bei der klareren Kommunikation mit Benutzern.",
-    "titleDE": "Anthropic veröffentlicht angesichts von RSI-Bedenken neue Mythos- und Fable-Modelle"
-  },
-  {
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac.  It has a built-in AI assistant to do things like \"start a new song, set up a vocal track from a single prompt, or refine an active project.\"\nThese Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intelligence features that have usage limits because they rely on cloud-based AI models from OpenAI or Google Gemini.  The Usage Packs can only be used  …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-09T19:09:58.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nach der Veröffentlichung eines Support-Artikels Anfang September, in dem die Nutzungsbeschränkungen für einige Apple Intelligence-Funktionen dargelegt wurden, hat das Unternehmen Logic Pro mit der Option „Mehr Nutzung kaufen“ für einen einmaligen Kaufpreis von 49,99 US-Dollar aktualisiert, wie 9to5Mac entdeckte. Es verfügt über einen integrierten KI-Assistenten, der Dinge wie „st...“ erledigt.",
-    "titleDE": "Die Intelligence Usage Packs von Apple für 50 US-Dollar erweitern den Zugriff auf einige KI-Funktionen"
-  },
-  {
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
     "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
     "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
@@ -310,26 +490,6 @@
     "titleDE": "ChatGPT Enterprise jetzt im AWS Marketplace verfügbar"
   },
   {
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "description": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "pubDate": "2026-11-09T18:09:52.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Jensen Huangs angebliche Affäre mit einem mutmaßlichen chinesischen Spion droht die Lobbybemühungen von Nvidia zu erschweren, die Exportbeschränkungen für US-Chips zu lockern und den Zugang zu Chinas lukrativem KI-Markt aufrechtzuerhalten.",
-    "titleDE": "Jensen Huangs Affäre mit einem mutmaßlichen chinesischen Spion stellt Nvidias China-Ambitionen auf den Prüfstand"
-  },
-  {
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "pubDate": "2026-11-09T18:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit 10 Cent pro Million Input-Token ist Ember deutlich günstiger als Grenzkonkurrenten wie Haiku und Luna.",
-    "titleDE": "Meta veröffentlicht Muse Ember, ein neues, leichtgewichtiges Modell für die Agentenausführung"
-  },
-  {
     "title": "Nancy Pelosi’s replacement is ready to regulate AI",
     "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
     "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiener on Friday, only a…",
@@ -338,36 +498,6 @@
     "category": "trend",
     "descriptionDE": "Als kalifornischer Senator verfasste Scott Wiener Gesetze, die darauf abzielten, die Risiken fortschrittlicher KI einzudämmen. Nachdem er nun ein knappes Rennen im Kongress um den freien Sitz der ehemaligen Sprecherin des Repräsentantenhauses Nancy Pelosi in San Francisco gewonnen hat, könnte er eine Schlüsselrolle bei der Festlegung der bundesstaatlichen KI-Politik spielen. Ich habe mit Wiener gesprochen...",
     "titleDE": "Der Nachfolger von Nancy Pelosi ist bereit, die KI zu regulieren"
-  },
-  {
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "description": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "pubDate": "2026-11-09T16:56:54.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Anthropic kaufte Erdgasturbinen im Wert von Milliarden Dollar in einem Geschäft, das beim Käufer Reue hervorrufen könnte.",
-    "titleDE": "Anthropic beteiligt sich am Erdgasboom von AI und kauft Turbinen im Wert von 3,4 Milliarden US-Dollar"
-  },
-  {
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "pubDate": "2026-11-09T16:12:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die neue Schreib-App von Medium setzt auf KI-gestütztes Schreiben, trotz wachsender Kontroversen über die Rolle der Technologie im Verlagswesen.",
-    "titleDE": "Die neue TK-App von Medium bringt KI-Unterstützung direkt in den Schreibprozess"
-  },
-  {
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-    "pubDate": "2026-11-09T14:00:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Automattic will mit Spacefast mit Unternehmen wie Lovable konkurrieren.",
-    "titleDE": "Automattic stellt eine Plattform zur Bereitstellung von Vibe-Coding-Apps inmitten eines sich verändernden Internets vor"
   },
   {
     "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -428,36 +558,6 @@
     "category": "news",
     "descriptionDE": "Kuken Industries verwendet die OpenAI-API, um Kühlturmzeichnungen aus 70 Jahren zu durchsuchen. Ingenieure können die Zeichnung für eine Reparatur in 4,5 Minuten finden, statt fast einer Stunde.",
     "titleDE": "Kuken Industries durchsucht in wenigen Minuten Zeichnungen aus 70 Jahren"
-  },
-  {
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "description": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-    "pubDate": "2026-11-09T05:26:29.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Vorstand von Nvidia ermittelt gegen Jensen Huang wegen seiner Beziehung zu einem mutmaßlichen chinesischen Spion, und Jeffrey Sonnenfeld von Yale glaubt, dass es nur eine Frage einer Münze ist, ob Huang als CEO bleibt.",
-    "titleDE": "Steht Jensen Huangs Job auf dem Spiel? Jeffrey Sonnenfeld von Yale schätzt, dass es „ungefähr 50-50“ ist."
-  },
-  {
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "description": "In a memo to the company, Huang admitted that he had an affair.",
-    "pubDate": "2026-11-08T21:00:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "In einem Memo an das Unternehmen gab Huang zu, eine Affäre gehabt zu haben.",
-    "titleDE": "Nvidia wird die Beziehung von CEO Jensen Huang zu einem möglichen chinesischen Spion untersuchen"
-  },
-  {
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
-    "pubDate": "2026-11-07T22:07:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Zum Thema Eigenkapital haben wir herausgefunden, was die Zwischenwahlen für die Technologiebranche bedeuten.",
-    "titleDE": "Nach den Zwischenwahlen sieht es für Elon Musk und die Rechenzentren schwierig aus"
   },
   {
     "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -550,16 +650,6 @@
     "titleDE": "Gemini Omni 1.2 Flash: Schnell und kostengünstig mit längeren Clips"
   },
   {
-    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…",
-    "pubDate": "2026-11-05T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Texas war das neue Epizentrum des Aufbaus von KI-Rechenzentren. Das könnte kaputt sein. Texas ist der am schnellsten wachsende Rechenzentrumsmarkt in den USA und der Nullpunkt für große...",
-    "titleDE": "Der Download: Texas‘ fragiler KI-Boom und energiepolitische Veränderungen"
-  },
-  {
     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
     "link": "https://openai.com/index/introducing-gpt-6-cyber",
     "description": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
@@ -648,55 +738,5 @@
     "category": "news",
     "descriptionDE": "OpenAI wird die Pierre Computer Company übernehmen und damit die Tools von Codex zum Erstellen, Verstehen und Überprüfen von Code erweitern.",
     "titleDE": "OpenAI übernimmt Pierre Computer Company, Inc."
-  },
-  {
-    "title": "A thousand fewer paths to root",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-    "pubDate": "2026-11-04T08:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI baute eine autonome Pipeline auf, die Patches für 948 lokale Sicherheitslücken bei der Rechteausweitung im Linux-Kernel fand, validierte und generierte.",
-    "titleDE": "Tausend Wege weniger zum Rooten"
-  },
-  {
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-    "pubDate": "2026-11-04T07:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Daybreak Red bringt GPT-5.6 Cyber ​​über Amazon Bedrock zu autorisierten Kunden in AWS GovCloud (USA-Ost) für autorisierte Cybersicherheitsarbeiten.",
-    "titleDE": "Daybreak Red ist jetzt in AWS GovCloud (USA-Ost) verfügbar."
-  },
-  {
-    "title": "Introducing Images 2.6",
-    "link": "https://openai.com/index/introducing-images-2-6",
-    "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "pubDate": "2026-11-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Images 2.6 bietet eine schnellere Bildgenerierung, GIF-Erstellung, präzisere Bearbeitung und neue API-Steuerelemente für ChatGPT, Codex und die API.",
-    "titleDE": "Einführung in Bilder 2.6"
-  },
-  {
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "link": "https://openai.com/index/devrev-enterprise-self-service",
-    "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "pubDate": "2026-11-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "DevRev verwendet GPT-6.1 Sol, um Computer und Bediener mit Strom zu versorgen und dabei Argumentation, Geschwindigkeit und Kosten für Unternehmensdienste in Einklang zu bringen.",
-    "titleDE": "DevRev bietet autonomen Self-Service mit GPT-6.1 Sol"
-  },
-  {
-    "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-    "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-    "description": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-    "pubDate": "2026-11-03T16:03:13.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Das UEFI-Bootkit BlackX nutzt die mangelnde Klarheit von Microsoft in Bezug auf den Secure-Boot-Schutz aus.",
-    "titleDE": "UEFI-Bootkit infizierte vollständig gepatchte Windows-Maschinen. Ist Microsoft schuld?"
   }
 ]
