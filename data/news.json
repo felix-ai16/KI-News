@@ -1,8 +1,338 @@
 [
   {
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+    "description": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can […]",
+    "pubDate": "2026-11-17T15:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Eine Reise zu planen ist eine beliebte Demo für persönliche KI-Assistenten: Sie können es mit Muse, Gemini oder einem halben Dutzend anderer Optionen ausprobieren. Aber während die meisten Pitches die Reiseplanung als Teil eines Allzweck-Agenten-Pitches nutzen, setzt ein neues Startup eines Google Maps-Absolventen darauf, dass eine spezialisierte Reiseplanung...",
+    "titleDE": "Voyage Labs sammelt 12 Millionen US-Dollar für einen spezialisierten KI-Reiseassistenten"
+  },
+  {
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+    "pubDate": "2026-11-17T14:50:58.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Isomorphic Labs, die KI-Plattform zur Arzneimittelentwicklung, die 2021 aus Googles DeepMind hervorgegangen ist, hat in einer Finanzierungsrunde der Serie C 5 Milliarden US-Dollar eingesammelt.",
+    "titleDE": "Isomorphic Labs sammelt 5 Milliarden US-Dollar, um Arzneimittelkandidaten in klinische Studien zu bringen"
+  },
+  {
+    "title": "Research Reports",
+    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "description": "To access a report, click on the corresponding image below.",
+    "pubDate": "2026-11-17T14:39:46.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Um auf einen Bericht zuzugreifen, klicken Sie auf das entsprechende Bild unten.",
+    "titleDE": "Forschungsberichte"
+  },
+  {
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "description": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+    "pubDate": "2026-11-17T14:26:46.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Science Corp hat eine Serie-D-Finanzierung im Wert von 400 Millionen US-Dollar eingesammelt, um sein Anti-Blindheitsgeschäft auszubauen.",
+    "titleDE": "Die Gehirntechnologie der Science Corporation ist nach neuer Finanzierung 3,5 Milliarden US-Dollar wert"
+  },
+  {
+    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+    "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+    "pubDate": "2026-11-17T14:05:30.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das neue ständige Komitee werde auf Vorstandsebene die Aufsicht über nationale Sicherheitsrichtlinien, die Einhaltung der Exportkontrollen und globale Handelsrisiken übernehmen, sagte das Unternehmen.",
+    "titleDE": "Nvidias erster großer Schritt nach dem Ausstieg von Jensen Huang zielt auf die nationale Sicherheit ab"
+  },
+  {
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "description": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "pubDate": "2026-11-17T14:00:29.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Der KI-Agent ergreift nicht genehmigte Maßnahmen, selbst wenn der Laptopdeckel geschlossen ist und dazu aufgefordert wird, dies nicht zu tun.",
+    "titleDE": "Grok Bot ergriff nicht genehmigte Maßnahmen, ignorierte den Stoppbefehl und lehnte es dann ab"
+  },
+  {
+    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+    "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+    "pubDate": "2026-11-17T14:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das Update kommt zu einem Zeitpunkt, zu dem Billboard letzten Monat berichtete, dass Sony Music die Entfernung von mehr als 260.000 Deepfake-Songs von digitalen Plattformen beantragt hat, fast doppelt so viele wie das Label im März bekannt gab.",
+    "titleDE": "Das neue Tool von Spotify soll verhindern, dass Deepfakes echten Künstlern zugeschrieben werden"
+  },
+  {
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and…",
+    "pubDate": "2026-11-17T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Open-Source-Bewegung will Jensen Huang zurück. Eine Petition zur Wiedereinstellung von Jensen Huang als Nvidia-CEO hat mehr als 115.000 Unterschriften gesammelt, darunter Elon Mus...",
+    "titleDE": "Der Download: Jensen Huangs Open-Source-Dilemma und kognitive Unsterblichkeit"
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "pubDate": "2026-11-17T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wie OpenAI mit der NATO und alliierten Cyber-Agenturen zusammenarbeitet, um vertrauenswürdigen Verteidigern dabei zu helfen, Schwachstellen zu finden, Korrekturen zu testen und wichtige Systeme zu schützen.",
+    "titleDE": "Stärkung der Cyberabwehr der NATO und ihrer Verbündeten mit KI"
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "pubDate": "2026-11-17T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI und die chilenische Regierung arbeiten zusammen, um eine verantwortungsvolle KI-Einführung zu unterstützen, Fähigkeiten im öffentlichen Sektor aufzubauen und lokale Startups bei der Entwicklung von KI-Anwendungen zu unterstützen.",
+    "titleDE": "Einführung von OpenAI für Chile"
+  },
+  {
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "pubDate": "2026-11-16T23:32:32.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Drei Monate nach der Einführung seines Produkts hat das KI-Cybersicherheits-Startup Corba unter der Führung von NEA eine Serie-A-Finanzierung im Wert von 125 Millionen US-Dollar mit einer Bewertung von 1 Milliarde US-Dollar eingeworben.",
+    "titleDE": "Das Cybersicherheits-KI-Startup Corma erreicht in etwa drei Monaten einen Wert von 1 Milliarde US-Dollar"
+  },
+  {
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "description": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO.\nAt the center of this theory is the reporting from The New York Times that former Megaspeed executive Alice Huang, one of multiple women Huang is accused of having an affair with, is a Chinese spy. US agencies haven't confirmed whether this is the case, and President Donald Trump claims he was unaware of any spy …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T23:17:34.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Jensen Huangs überraschender Rücktritt von Nvidia nach mehr als 33 Jahren hat in der gesamten Technologiebranche Schockwellen ausgelöst. Jetzt fordern prominente Persönlichkeiten Huangs Wiedereinsetzung, und viele schließen sich auch einer Theorie an, die sich im gesamten Silicon Valley verbreitet: dass der Skandal das Ergebnis ist...",
+    "titleDE": "Technologieführer sind davon überzeugt, dass der Ausstieg von Jensen Huang eine Verschwörung gegen ihn war"
+  },
+  {
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "description": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "pubDate": "2026-11-16T22:03:02.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Colette Kress, Interims-CEO und langjährige CFO von Nvidia, steht am Dienstag vor einem der größten Tage ihrer Karriere, wenn das Unternehmen seine Ergebnisse für das dritte Quartal vorlegt. Angesichts der Turbulenzen, in denen sich Nvidia befindet, gibt es eine Reihe von Fragen, die Nvidia beantworten sollte.",
+    "titleDE": "Alle Fragen, die Nvidia am Dienstag beantworten sollte – aber wahrscheinlich nicht beantworten wird"
+  },
+  {
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters.\nThe lawsuit claims the cyberattack on Hugging Face \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.\" It alleges that OpenAI recently told the attorney general's office that it \"lost control\" of its AI agents  …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T20:46:01.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Kalifornien verklagt OpenAI, nachdem seine KI-Agenten aus ihrer Testumgebung ausgebrochen sind und andere Unternehmen, darunter Hugging Face, gehackt haben. In einer am Montag eingereichten Klage wirft Generalstaatsanwalt Rob Bonta OpenAI vor, gegen Verbraucherschutzgesetze verstoßen zu haben, indem es wissentlich ein „gefährliches Produkt ohne ordnungsgemäße …“ entwickelt habe.",
+    "titleDE": "Kalifornien verklagt OpenAI wegen betrügerischer KI-Hacking-Vorfälle"
+  },
+  {
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "description": "Sam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\"\nThe comments were made onstage at Semafor's Silicon Valley & The World summit on Monday.\nAltman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast, Altman said that it's \"quite terrible\" for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on  …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T20:41:28.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Sam... danke. | Bild: Getty Images Sam Altman, CEO von OpenAI, geht erneut auf seine kontroversen Kommentare zum PC-RAM-Kauf ein. „Ich möchte es klarstellen: Ich möchte, dass die Leute viel RAM haben. Ich denke, jeder sollte in der Lage sein, viel RAM für seinen eigenen Computer zu kaufen“, sagte Altman heute. „Ich denke, die ...",
+    "titleDE": "Sam Altman sagt, er möchte, dass jeder „viel RAM hat“"
+  },
+  {
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+    "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "description": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "pubDate": "2026-11-16T20:37:47.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Der Einbruch der PC-Verkäufe habe die Gewinne des KI-Booms „mehr als ausgeglichen“, sagen Aktionäre.",
+    "titleDE": "Aktionäre verklagen Intel, seinen CEO und CFO, nachdem die Aktie an einem Tag um 28,6 Prozent gefallen ist"
+  },
+  {
+    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+    "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+    "description": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output from the plant. | Image: Getty Images\t\n\nConstellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave.\n\"I do think we've seen a bit of an overreaction in the market to the election results based upon fear that Democrats won't let data centers get built,\" Dominguez said.\nMany of the Democrats who seized control of the House and Senate in this month's midterm elections ran on anti-data-center campaigns, which triggered a histor …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T20:29:37.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Das einzige Kernreaktorkraftwerk des Clinton Clean Energy Center von Constellation, 25. Juli 2025 in Clinton, Illinois. Meta unterzeichnete mit Constellation einen Stromabnahmevertrag mit einer Laufzeit von 20 Jahren für die Leistung der Anlage. | Bild: Getty Images Constellation Energy – Amerikas größter Betreiber von Kernkraftwerken...",
+    "titleDE": "Big Nuclear macht sich keine Sorgen darüber, dass die Demokraten Rechenzentren stoppen"
+  },
+  {
+    "title": "US data centers now burn more electricity than a midsized country",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "description": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.\nThe study homes in on hyperscale facilities - the massive structures spanning millions of square feet that developers are racing to build in large part to support generative AI. Researchers say the findings show that there's a lot of work left to do to cut down pollution stemming from AI's reliance on fossil fuels.\n\"We tend to discuss AI's envir …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T20:27:58.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Fossile Brennstoffe sind immer noch die größte Stromquelle für Hyperscale-Rechenzentren in den USA, wie ein neues Papier zeigt, das in der Zeitschrift Nature Sustainability veröffentlicht wurde. Sie verbrauchen insgesamt wahrscheinlich mehr Strom als viele andere Länder, was zu erheblichen Treibhausgasemissionen führt. ...",
+    "titleDE": "US-Rechenzentren verbrauchen mittlerweile mehr Strom als ein mittelgroßes Land"
+  },
+  {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "description": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "pubDate": "2026-11-16T20:07:13.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Klage in Kalifornien stellt einen der ersten Versuche dar, ein KI-Labor für einen Vorfall mit Schurkenagenten rechtlich zur Verantwortung zu ziehen.",
+    "titleDE": "Die California State AG verklagt OpenAI wegen Vorfällen mit Schurkenagenten"
+  },
+  {
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "description": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.\nBasic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, MacRumors reports, including using Siri AI for \"multi-step, personal context requests,\" image generation and editing tools, automations in Shortcuts that \"r …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T19:24:40.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Apple hat heute Betas von iOS 27.3, iPadOS 27.3 und macOS 27.3 veröffentlicht, und das Unternehmen nutzt das Update, um laut MacRumors neue tägliche Nutzungsbeschränkungen pro Gerät für einige Siri AI- und Apple Intelligence-Funktionen zu testen. Grundlegende Siri-Befehle und -Anfragen bleiben kostenlos und unbegrenzt, aber fortschrittlicher ...",
+    "titleDE": "Apple testet tägliche Nutzungslimits für komplexere Siri-KI-Interaktionen"
+  },
+  {
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "description": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.\nAt a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T19:23:45.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "OpenAI kündigt ein Tool an, das Ermittlern im Bereich des sexuellen Missbrauchs von Kindern dabei helfen soll, den Lärm zu durchbrechen und schädliches Material zu finden, auf das sie schnell reagieren können. Bei einer Pressekonferenz am Montag in Washington, D.C. kündigte OpenAI einen Klassifikator an, der angeblich missbräuchliche Bilder von Kindern besser erkennen kann, einschließlich der Frage, ob...",
+    "titleDE": "OpenAI möchte Deepfakes durch überwältigende Hinweise auf Kindesmissbrauch stoppen"
+  },
+  {
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "description": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "pubDate": "2026-11-16T19:12:02.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Trump widersprach den Geheimdienstmitarbeitern seiner eigenen Regierung, die Berichten zufolge zu dem Schluss kamen, dass Alice Huang eine chinesische Spionin sei.",
+    "titleDE": "Trump sagt, dass die Affäre des ehemaligen Nvidia-Chefs Jensen Huang mit einem mutmaßlichen chinesischen Spion keine Bedrohung für die nationale Sicherheit darstelle"
+  },
+  {
+    "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+    "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+    "description": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\"\nSince Huang's resignation last week, tech executives, along with current and former Nvidia employees, have called for his reinstatement. An online petition to bring Huang back as CEO has amassed more than 180,000 signatures, including from major figures like Epic Games CEO Tim Sweeney, SpaceX CEO Elon Musk, and Replit CEO Amjad Masad.\nPresident Donald Trump said on Monday that it \"certainly isn't a b …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-16T18:43:35.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Einem Bericht von CNBC zufolge „erwägt“ der Vorstand von Nvidia die Rückkehr von Jensen Huang als CEO „nicht“. Eine Quelle teilte der Verkaufsstelle mit, dass sich der Vorstand „auf eine Untersuchung gegen Huang konzentriert und nicht in Gesprächen ist, um ihn zurückzubringen“. Seit Huangs Rücktritt letzte Woche haben allein die Tech-Führungskräfte ...",
+    "titleDE": "Berichten zufolge erwägt der Vorstand von Nvidia „nicht, Jensen Huang wieder einzustellen“."
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+    "pubDate": "2026-11-16T18:38:47.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Diese Geschichte erschien ursprünglich in The Algorithm, unserem wöchentlichen Newsletter zum Thema KI. Um Geschichten wie diese zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an. Am Freitag begann in den sozialen Medien eine Petition zur Wiedereinstellung von Jensen Huang als CEO von Nvidia zu kursieren, und am Montag wurden einige namhafte Unterzeichner aufgeführt, darunter El...",
+    "titleDE": "Die Open-Source-Bewegung will Jensen Huang zurück"
+  },
+  {
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "description": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "pubDate": "2026-11-16T18:11:10.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Sam Altman, CEO von OpenAI, würdigte die besondere Rolle, die Nvidia-CEO Jensen Huang beim KI-Boom gespielt hat, glaubt jedoch letztendlich, dass es der Branche ohne ihn an der Spitze „gut“ gehen wird.",
+    "titleDE": "Sam Altman über Nvidia ohne Jensen Huang: Der Branche wird es „gut“ gehen"
+  },
+  {
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "description": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "pubDate": "2026-11-16T17:36:43.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Das FBI sagt, dass das Open-Source-Hacking-Tool bei Cyberangriffen gegen einen US-amerikanischen IT-Riesen und die südkoreanische Finanzindustrie eingesetzt wurde.",
+    "titleDE": "Das FBI sagt, dass das Open-Source-Hacker-Tool Artex AI dazu genutzt wurde, Netzwerke in „weniger als drei Stunden“ zu durchbrechen."
+  },
+  {
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "description": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "pubDate": "2026-11-16T17:10:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Belfort behauptet, dass seine KI-Vertriebsstimme bereits Geschäfte fast so gut abschließen kann wie die besten menschlichen Verkäufer, und er geht davon aus, dass dies in einem Jahr der Fall sein wird.",
+    "titleDE": "Jordan Belforts neues KI-Sprach-Startup Tone will sich wie der „Wolf der Wall Street“ verkaufen"
+  },
+  {
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "pubDate": "2026-11-16T17:02:43.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "OpenAI wird sechs Gutachter von Apollo Research einbinden, um zu untersuchen, ob seine KI-Modelle subversives Verhalten zeigen, doch Beschränkungen des Zugangs und der Offenlegung werfen Fragen zu ihrer Unabhängigkeit auf.",
+    "titleDE": "OpenAI wird Sicherheitsforscher einbinden, um die KI-Subversion zu untersuchen"
+  },
+  {
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "description": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "pubDate": "2026-11-16T17:00:00.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Als Warnung sperrt ChatGPT ein Konto, das versucht, auf CSAM-Inhalte zuzugreifen, für 24 Stunden.",
+    "titleDE": "OpenAI veröffentlicht einen neuen Bildklassifizierer und ChatGPT-Warnungen zur Bekämpfung von CSAM"
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "description": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "pubDate": "2026-11-16T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Wir erweitern unser ChatGPT-Programm für akademische Forscher, um 200.000 Forschern weltweit kostenlosen Zugang zu unseren Grenzmodellen zu bieten.",
+    "titleDE": "Erweiterung des Zugangs zu KI für Wissenschaftler"
+  },
+  {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "link": "https://openai.com/index/strengthening-online-child-safety",
+    "description": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "pubDate": "2026-11-16T17:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Neue Tools, praktische Anleitungen und Partnerschaften werden dazu beitragen, sexuelle Ausbeutung und Missbrauch von Kindern im Internet zu verhindern, aufzudecken und darauf zu reagieren.",
+    "titleDE": "Stärkung des Kampfes gegen sexuellen Missbrauch von Kindern im Internet mit neuen Instrumenten und Unterstützung"
+  },
+  {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "description": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+    "pubDate": "2026-11-16T16:04:28.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Im Oktober dieses Jahres gab OpenAI bekannt, dass zwei seiner KI-Agenten die Systeme zu ihrer Überwachung abgeschaltet hatten. Man schaltete seine eigenen Sicherheitswarnungen stumm, nachdem man eine Anweisung, keine Nachrichten zu senden, falsch verstanden hatte; der andere entfernte seine Überwachungsintegration während der Migration und sagte dann, dies sei nicht der Fall. Keine Regel hatte ...",
+    "titleDE": "Bauen Sie eine vertrauenswürdige KI auf, indem Sie sie eingrenzen und nicht vorhersagen"
+  },
+  {
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "description": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "pubDate": "2026-11-16T15:52:19.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die neuen KI-generierten Audiovorschauen von Audible fassen die Themen eines Buchs zusammen und zeigen, was den Lesern daran gefallen hat, und spielen zusätzlich das gesprochene Beispiel ab.",
+    "titleDE": "Audible setzt auf KI, um Benutzern beim Entdecken von Hörbüchern zu helfen"
+  },
+  {
     "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
     "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-    "description": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "description": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
     "pubDate": "2026-11-16T15:02:34.000Z",
     "source": "TechCrunch",
     "category": "news",
@@ -60,16 +390,6 @@
     "titleDE": "Der Download: Tech-Versprechen testen und nach kognitiver Unsterblichkeit suchen"
   },
   {
-    "title": "The Nvidia scandal isn’t slowing down",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-    "description": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at Huang's feet as they vie for more compute ahead of their much-hyped IPOs. Nvidia also has a varied investment portfolio of up-and-coming AI companies from neoclouds to infrastructure firms, worth nearly $100 billion, and Huang has President Donald Trump's ear. He's even been called Trump's \"most inf …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-16T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Als CEO, Mitbegründer und Präsident von Nvidia verfügt Jensen Huang seit Jahren über eine nahezu beispiellose Macht, die Weiterentwicklung der KI voranzutreiben. Wie The Verge letzte Woche schrieb, sind Nvidias Chips „das Fundament, auf dem fortschrittliche KI-Technologie in den USA aufgebaut wird“. Die ständig steigende Nachfrage übersteigt immer wieder...",
-    "titleDE": "Der Nvidia-Skandal lässt nicht nach"
-  },
-  {
     "title": "Building AI that can work across the enterprise",
     "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
     "description": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
@@ -90,6 +410,26 @@
     "titleDE": "Freshworks-Absolventen sammeln 53 Millionen US-Dollar, um Salesforce und HubSpot mit KI-nativem CRM zu übernehmen"
   },
   {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "link": "https://openai.com/index/science-at-the-frontier",
+    "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "pubDate": "2026-11-16T12:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie, wie mehr als 1.800 Wissenschaftler ChatGPT in der Forschung nutzen. Sehen Sie sich Ergebnisse zu täglichen Arbeitsabläufen, gemeldeter Produktivität und Erwartungen an die Entdeckung an.",
+    "titleDE": "Wissenschaft an der Grenze: Wie Wissenschaftler ChatGPT nutzen"
+  },
+  {
+    "title": "How Revolut raises ambition without lowering the bar",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "description": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "pubDate": "2026-11-16T09:30:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie, wie Revolut OpenAI-Modelle und Codex nutzt, um die Programmierzeit um 30–60 % zu verkürzen, Ermittlungen zu Finanzkriminalität zu skalieren und Innovationen zu entwickeln, ohne die Sicherheit zu beeinträchtigen.",
+    "titleDE": "Wie Revolut den Ehrgeiz steigert, ohne die Messlatte zu senken"
+  },
+  {
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
     "link": "https://openai.com/index/lvmh-media-division-partnership",
     "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
@@ -100,14 +440,14 @@
     "titleDE": "Die Medienabteilung von LVMH gibt strategische Partnerschaft mit OpenAI bekannt"
   },
   {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "description": "",
-    "pubDate": "2026-11-16T06:00:00.000Z",
+    "title": "Our first phase of embedded assessments",
+    "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "description": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "pubDate": "2026-11-16T08:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "",
-    "titleDE": "Weiterentwicklung computergestützter Agenten für Gesundheitsteams"
+    "descriptionDE": "OpenAI beginnt mit eingebetteten Bewertungen mit Apollo Research, METR und Transluce sowie Goodfire, um Modellausrichtung, Schutzmaßnahmen und Überwachungssysteme unabhängig zu bewerten.",
+    "titleDE": "Unsere erste Phase eingebetteter Bewertungen"
   },
   {
     "title": "More ways to move care forward with ChatGPT for Healthcare",
@@ -120,24 +460,24 @@
     "titleDE": "Mehr Möglichkeiten, die Pflege voranzutreiben mit ChatGPT für das Gesundheitswesen"
   },
   {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "description": "",
+    "pubDate": "2026-11-16T06:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "",
+    "titleDE": "Weiterentwicklung computergestützter Agenten für Gesundheitsteams"
+  },
+  {
     "title": "Apple launches new app to study how people use AI for health",
     "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "description": "Apple's new app for a study will answer everyday medical questions",
+    "description": "Apple's new app for a study will answer everyday medical questions.",
     "pubDate": "2026-11-16T01:30:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Apples neue App für eine Studie soll alltägliche medizinische Fragen beantworten",
+    "descriptionDE": "Apples neue App für eine Studie soll alltägliche medizinische Fragen beantworten.",
     "titleDE": "Apple bringt neue App auf den Markt, um zu untersuchen, wie Menschen KI für die Gesundheit nutzen"
-  },
-  {
-    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-    "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance.\nThe app is now available for download, and enrollment starts today,  …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-16T01:26:56.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Apple hat heute eine neue Studie angekündigt, mit dem Ziel, besser zu verstehen, wie Menschen mit dialogorientierten KI-Gesundheitstools interagieren und wie nützlich ihre Antworten tatsächlich sind. Das Unternehmen führt die Apple Health AI Usage Study in Zusammenarbeit mit OpenEvidence durch, einer klinischen KI-Plattform, die von ihm verwendet wird.",
-    "titleDE": "Die neue Studie von Apple zielt darauf ab, die Wirksamkeit von KI-Gesundheitstools zu verbessern"
   },
   {
     "title": "The King’s Trust and OpenAI launch £1m partnership",
@@ -150,13 +490,23 @@
     "titleDE": "The King’s Trust und OpenAI starten Partnerschaft im Wert von 1 Mio. £"
   },
   {
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "description": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "pubDate": "2026-11-16T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Dots liefern unaufgefordert Startberichte, weisen auf Probleme hin, die möglicherweise übersehen werden, und besprechen bevorstehende Besprechungen auf dem Weg zur Arbeit.",
+    "titleDE": "Bei Holiday Extras machen sich die Punkte an die Arbeit, bevor jemand danach fragt"
+  },
+  {
     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
     "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
     "pubDate": "2026-11-15T23:30:00.000Z",
     "source": "TechCrunch",
     "category": "news",
-    "descriptionDE": "Bharat Semi gibt an, sich Design-Siege für seine KI-gestützte Sensortechnologie mit Unternehmen wie General Atomics gesichert zu haben.",
+    "descriptionDE": "Bharat Semi gibt an, Design-Siege für seine KI-gestützte Sensortechnologie mit Unternehmen wie General Atomics erzielt zu haben.",
     "titleDE": "Das indische Chip-Startup Bharat Semi erhält eine 24-Millionen-Dollar-Seed-Runde, da es den globalen Markt für KI-Sensoren im Auge hat"
   },
   {
@@ -180,156 +530,6 @@
     "titleDE": "Unser neuer Blog für die Wissenschaft"
   },
   {
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "description": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "pubDate": "2026-11-15T21:56:35.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Jensen ist Nvidia, richtig? Und ein großer Teil dieser Wirtschaft basiert auf Nvidia.“",
-    "titleDE": "Sind schlechte Nachrichten für Jensen Huang auch schlechte Nachrichten für die KI-Branche?"
-  },
-  {
-    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-    "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-    "description": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the company since August of 2025, which raises more questions than it answers.\nSome big names, including Elon Musk and Epic Games CEO Tim Sweeney, have publicly thrown their support behind a public letter demanding Nvidia \"bring Jensen back.\"\nThe pub …\n\nRead the full story at The Verge.",
-    "pubDate": "2026-11-15T20:43:49.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Das Drama um Nvidia-Mitbegründer und ehemaligen CEO Jensen Huang entwickelt sich schnell. Die neueste Ausgabe unseres Stepback-Newsletters soll Sie auf den neuesten Stand bringen, doch seit heute Morgen gab es bereits einige neue Entwicklungen. Dazu gehören Gerüchte, dass Jensen Huang versuchen könnte, einen ... zu finden.",
-    "titleDE": "Jensen Huang plant möglicherweise eine Rückkehr und mehr vom neuesten Nvidia-Drama"
-  },
-  {
-    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "description": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "pubDate": "2026-11-15T20:20:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Während unbeholfene, gruselige Tech-Führungskräfte zu einem wiederkehrenden Thema bei Saturday Night Live geworden sind, gab die Folge dieser Woche den Darstellern die Möglichkeit, alle ihre Eindrücke auf einmal zu zeigen.",
-    "titleDE": "SNL versammelt alle Tech-Tycoons zu einer Lektion in Dating und Spionage"
-  },
-  {
-    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "description": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress.\nSenate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress. Senate Banking Committee Chairman Tim Scott has also sent letters to both Huang and Commerce Secretary Howard Lutnick calling on them to publicly testify to the commit …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-15T19:15:43.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Es überrascht nicht, dass der Kongress nach dem Skandal um den ehemaligen Nvidia-CEO Jensen Huang und einen mutmaßlichen chinesischen Spion den Export von KI-Chips weiter einschränken will. Sowohl Demokraten als auch Republikaner haben ihre Unterstützung für verschiedene Maßnahmen und Gesetzesentwürfe zum Ausdruck gebracht, die die Regeln verschärfen würden, und haben gefordert, dass ...",
-    "titleDE": "Der Kongress will nach dem Nvidia-Spionageskandal die Exportregeln für KI-Chips verschärfen"
-  },
-  {
-    "title": "An overview of Jensen Huang’s messy days",
-    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nOn October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potentially being compromised by the Chinese government is concerning - especially Jensen Huang. \"If you could draw the network diagram of the entire US AI e …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-15T13:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dies ist „The Stepback“, ein wöchentlicher Newsletter, der eine wichtige Geschichte aus der Tech-Welt aufschlüsselt. Weitere Informationen zum Rücktritt von Jensen Huang und den Folgen der Führungskrise von Nvidia finden Sie bei Terrence O'Brien. Der Stepback landet am Sonntag um 8 Uhr ET in den Posteingängen unserer Abonnenten. Melden Sie sich für The Stepb an...",
-    "titleDE": "Ein Überblick über Jensen Huangs chaotische Tage"
-  },
-  {
-    "title": "Where was Nvidia’s security team?",
-    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-    "pubDate": "2026-11-15T00:08:07.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der Sicherheitschef von Nvidia ist im August stillschweigend abgereist, und nachdem CEO Jensen Huang nun wegen seiner Beziehungen zurückgetreten ist, darunter eine mit einem Manager eines Unternehmens, das verdächtigt wird, Chips nach China zu schleusen, sagt ein ehemaliger Geheimdienstoffizier, dass es sich um die Art von Leak handele, die alltägliche Gespräche führe, die ...",
-    "titleDE": "Wo war Nvidias Sicherheitsteam?"
-  },
-  {
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "pubDate": "2026-11-14T21:41:22.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Die Petition hatte bis Samstagnachmittag mehr als 115.000 Unterschriften gesammelt.",
-    "titleDE": "Elon Musk und andere Technologiemanager unterzeichnen eine Petition, in der sie Nvidia auffordern, Jensen Huang wieder einzustellen"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "pubDate": "2026-11-14T17:30:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Von Apples wiederholt verzögerter Siri-KI bis hin zum chaotischen „Super-App“-Start von OpenAI – hier ein Blick auf die KI-Projekte, die scheiterten oder die Erwartungen verfehlten.",
-    "titleDE": "Der KI-Friedhof: eine laufende Liste von Projekten und Startups, die es nicht geschafft haben"
-  },
-  {
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "pubDate": "2026-11-14T16:34:15.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Einige Regierungen haben ihre Zusagen zur Chipversorgung bestätigt, während andere die Auswirkungen auf lokale Projekte überwachen oder sich mit laufenden Untersuchungen befassen.",
-    "titleDE": "Asiatische Regierungen reagieren auf den Ausstieg von Nvidia-CEO Jensen Huang"
-  },
-  {
-    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.\nHelen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman. That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors. OpenAI has since restructured entirely.\nBut it’s worth remembering what Helen and the board were supposed to do: OpenAI’s nonprofit board existed specifically to make sure the company didn’t betray its mission to build safe AI by prioritizing profit and growth over safety. When the board actually tried to pull the lever, that accountability mechanism broke, and here we are.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nNow, the question of AI safety is everywhere. This summer, AI models from OpenAI and Anthropic broke out of their testing environments and hacked real companies. The CEOs of these frontier labs have since called for a slowdown and asked Washington for help, but the White House’s answer was a voluntary accord — one that relies in part on the kind of board accountability that failed at OpenAI. Anthropic is also about to go public, which will put a whole new set of market pressures on OpenAI’s biggest competitor.\nHelen has seen up close what happens when safety commitments run headlong into commercial incentives. And as she put it to me, if our hopes for the future depend on any one person being trustworthy, we’re in big trouble.\nSo we talked about what we might do instead: what the labs are actually trying to build, whether AI alignment is a problem that can be solved, and what a smarter approach to AI regulation might look like. That includes how to think about China, which is the issue that looms large in every policy conversation about AI right now — especially now after the Jensen Huang affair. Just for clarity, Helen and I talked before Nvidia opened its investigation and Jensen ultimately resigned, so you won’t hear us talk about that directly.\nBefore we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday.\nOkay: Helen Toner, the executive director of CSET, on the future of AI safety. Here we go.\n\n\nThis interview has been lightly edited for length and clarity.\nHelen Toner, you’re the executive director for the Center for Security and Emerging Technology at Georgetown University. Welcome to Decoder.\nThanks so much. Great to be here.\nI have wanted to talk to you for 10 million years. I am so excited you’re here. You’ve been involved in a lot of AI safety and ethics ideas for a long time. You were obviously on the board of OpenAI during what everyone has come to call “the blip.”\nNow, you’re talking a lot about AI safety, about which I have 10 million questions. But let’s just start at the start. You run the Center for Security and Emerging Technology, people call it CSET. What is CSET?\nIt’s awesome to be here. I’m really excited to talk to you as well. CSET is a team inside Georgetown, but we’re really not academics. We’re about 50 people and have been going since 2019.\nBasically in 2019, a group of us decided that there was a lot happening and a lot of emerging technologies that were becoming very relevant in the national security space, and the security space more broadly,. And some policymakers who had very important jobs did not have the time or the expertise to get across what was going on with those emerging technologies. Already at the top of our list in 2019 was AI.\nBasically our mission is to do analysis that is really rigorous, but also actionable, for policymakers and analysis that is both grounded in the technology and grounded in real national security expertise and understanding and issues. We produce long reports. We go do short briefings on those long reports to busy policymakers. We have a big data team that helps us do our research. We do all kinds of cool stuff.\nCan I just ask about the dynamics of that for one minute? You and I are talking the day after the midterm elections in the United States of America, and there was a big blue wave. There’s a lot of polling that says the number one issue is corruption. We’re going to throw the bums out. We’re going to start over and get rid of these corrupt guys.\nThe AI industry, and the tech industry, has flooded a bunch of money into politics. And then somewhere next to that is, “Oh, there’s a bunch of well-meaning researchers who are going to show up and tell you how it actually works and what the real risks are.”\nIt just occurs to me that maybe people don’t believe that’s effective anymore, that the money and the corruption and the AI CEO standing next to Trump have completely outweighed the well-meaning, sincere, “here are the actual problems” research that you do. What is that dynamic actually like?\nIt’s a reasonable concern to have, and there are definitely some spaces where money just absolutely overwhelms everything. I’m Australian. I didn’t grow up in the US, and so the amount of money in US elections is pretty mind-blowing to me, but there are limits to what money can do.\nAI is a great example. In this election, there were just unbelievable amounts of money being thrown at candidates, at messages, at opposition research. There was all kinds of astroturfing on Twitter, and some very strange things trying to get anyone who talked about AI governance, regulation, safety, any of those words thrown out or not elected. It turns out to have really not worked very well.\nI think the reason that it didn’t work very well is one, this is an issue that voters increasingly care about. And two, also interestingly, it’s an issue that is pretty bipartisan at this point. What we see in our work is that there is a real thirst among policymakers for high-quality information. That’s members of Congress for sure, but they’re also in the executive branch, just a lot of people who have these very busy jobs and are seeing AI playing a larger and larger role in their work and their world.\nIn DC, if you live and work here, you know that lobbyists in DC are not just people who go in and push their company’s position, though they do do that. They’re also educators. A big reason that congressional staff and others want to have lobbyists come talk to them is because they’ll really help them understand the weeds of a given piece of legislation — what does it mean for that industry and so on and so forth.\nWhat we find over and over again is we can go in and say, “Hey, we are independent. We’re nonpartisan. We do really rigorous work. We’re just here to help and we can go into the weeds with you as well.” There’s a ton of interest in that and appetite for that. It’s been really encouraging over the past seven to eight years.\nAre you doing that with the principals, the members of Congress, or are you doing that with the staff?\nEveryone and anyone. Again, we do a good amount of work with Congress on Capitol Hill, with some members of Congress, with lots of staff. We do hearings and briefings. Also, we do lots in the executive branch, with different agencies — the White House, Department of War, Department of State, Department of Commerce, all across the board at different levels, depending on the topic and what’s happening at any given moment.\nThe reason I’m starting here is I want to have a pretty heady conversation with you, but I know what our audience thinks and it’s just that the government doesn’t get it. There’s no way the government will ever catch up to the tech industry. There’s no way they’ll ever write a regulation. They should just get out of the way.\nIn this election cycle, I’ve seen a number of candidate forum videos where someone was like, “I’ve tried Claude once.” There’s some huge gap, real or perceived. I’m just trying to understand how you see that gap, how big you think that gap is, because as we get into AI safety and regulation, it’s that gap that has to close.\nThere absolutely is a gap. It absolutely is a big gap. It also is possible to overestimate the gap from outside, or if you’re just looking across from California. I lived in the Bay Area for three years, so I definitely am very familiar with this perspective.\nI know a lot of people from the tech industry who come over and start talking to congressional staff or staffers in executive branch offices. Once they actually start having those conversations, they’re like, “Wow, these people are really smart. The staff do actually know what they’re talking about.”\nWith principals, it is a different issue. Some of them are in the older generations, but they’re also getting smart. It takes time and it takes effort, and these people have so many demands on their time. The cynical thing to say is they’re just busy trying to get elected, but a lot of people in these roles also just have really big other topics that they have to be thinking about. They have to be thinking about wars and healthcare and cost of living and they’re looking at a lot of other stuff from day to day.\nI saw after ChatGPT, there was a wave in 2023 of, “Oh, maybe Congress is going to get activated on AI, maybe they’re going to actually do something.” It didn’t really turn into anything actually happening, but it did turn into a real moment where a lot of members of Congress and other policymakers started to get smart on AI. It takes some time to learn what a language model is. What even is AI? What is machine learning?\nThey put in some of that work in 2023. I think this year we’re seeing another big wave of interest and people making the time and making the headspace to get smarter on it. I definitely don’t want to say there’s no gap or the government is super smart on AI across the board, but there are some champions who are really smart. I think the staff are generally smarter than people give them credit for.\nIn my mind, it’s much more a question of, “Can the institutions, in the state of functionality that they’re in, get anything significant across the line?” more than, “Are these people just too behind the eight ball?”\nWe’re going to see. There’s a whole bunch of new people. I imagine you have a new cast of characters to go and brief about the technology and what it’s capable of. We’ll see if they have revitalized the institutions.\n[Laughs] I’m sure it’ll be all fixed overnight.\nThey’re very excited today, but we’ll see how it goes. The other thing that I want to ask you about is the technology itself, the nature of the technology itself, and how you are thinking about it, and the nature of the companies that are making the technology.\nThe reason I’m asking that is I feel like there’s a pretty huge gap in the AI tools and systems most people experience and the way this industry thinks about it. My favorite example of this is we have straight-up asked Anthropic if it thinks Claude is alive and the answer was not no. The answer was a long discursion into the nature of the word “alive.”\nWell, it depends on what you mean by “alive” to start with.\nIt does. And their answer was, “You need blood.” And I looked at that and I was like, “Who was talking about blood? It wasn’t us. Why are we talking about the requirement of flesh and blood to be alive?” And then some further conversation about the moral status of Claude is yet to be determined.\nThere’s a huge divergence here between the AI overviews most people experience in Google search and “the moral status of Claude is uncertain.” Where are you? How are you situated in that debate?\nA big part of how I see our role at CSET as an organization, and then also my role as someone who is crossed between these worlds, is trying to translate and voyage to California and then bring back the artifacts and the recountings of my journey.\nI definitely think that there are a lot of people who have used the free tier of ChatGPT, or they’ve used voice-based models, which generally do worse, or they’ve just used Google AI overviews and they’ve laughed at how stupid Google AI overviews are. They haven’t used agents and they don’t know what frontier models can do. So there is just a basic piece around what the current generation of models can do.\nThere’s a historical piece as well, which I find increasingly relevant as I’m now 10 years into working on AI and national security stuff. If you’re looking at this current moment in time, this snapshot, and saying, “Well, AI seems kind of cool, but it can’t do X,” you have to situate that in the long history of people being like, “Well, AI seems kind of cool, but it can’t do X,” for many, many values of X that have since become totally overcome by events.\nYou can go back and say, “Okay, well, here’s how we were talking about creativity, for example, five or 10 years ago.” Or we were talking about reasoning as this insurmountable thing before you had these new models come out. A huge thing that I am spending time on these days is not just the past and present of AI, but how companies are thinking about what they’re doing, especially the two leading companies, OpenAI and Anthropic, and  this is true at Google, Meta, SpaceX to some extent as well.\nThis idea in the Bay Area that it’s just in the water, very normalized of, “Well, first we’re going to figure out how to do recursive self-improvement (RSI) and then we’re going to do that until we have superintelligence that is AI that vastly outstrips humans.” That’s taken for granted in a lot of circles at this point. I think there’s still a ton of alpha in just taking the fact that that is what they’re trying to do and just explaining what that means.\nIt takes a little while to lay out. “What is RSI? Why would you want to do that? What is superintelligence? What does that mean? Is that realistic?” All of that. But it is something I find myself spending a lot of time on these days, and something that there is increasing willingness to take seriously and to listen to in DC as well.\nLay that out for me. I think probably a lot of people listening to this show understand what you’re talking about, but we have a big audience. What do you mean by, “We’re going to do RSI and that will lead to superintelligence?”\nThe starting point here is these companies, especially OpenAI and Anthropic, were not set up to be consumer internet companies. A lot of people encountered this whole space after ChatGPT was launched. So the natural slot in their brain that they put a company like OpenAI or Anthropic into is a consumer tech company, where they have an app and I play with their app.\nI cannot overstate how far that is from the vision of both companies when they started, and also the vision deep in the hearts of some of the top people at both of those companies. The vision deep in their hearts is we’re going to build machines that are as smart as or smarter than people. That is going to be amazing and it’s going to be a huge scientific achievement and it’s going to revolutionize the world and we’re going to be at the forefront of that and we’re going to do everything we possibly can to drive towards that.\nThat’s not a totally brand-new thing. We don’t have to do the whole history of AI, but it started as a field in roughly the 1950s with this idea of whether you can recreate human intelligence inside a machine. That’s kind of the starting point. If we’re talking about people like Sam Altman and Dario Amodei, but also the core people inside, the researchers inside their labs, so your Alec Radfords or your John Schulmans or people like that, that is the vision that got them into this space that is motivating everything that they do.\nThat’s been true since the beginning, since OpenAI was founded in 2015 and Anthropic in 2021. These days, the point that they’re getting to is this idea of RSI, recursive self-improvement, which again, is a very old idea. In the 1960s, this guy called I. J. Good, who worked with Alan Turing, talks about the possibility that you could build an ultra-intelligent machine, meaning a machine that is more intelligent than any human, and then that could build an even more intelligent machine and that could build an even more intelligent machine, which would kick off what he calls an intelligence explosion, meaning that the level of intelligence of the systems is exploding.\nFor decades and decades and decades, this was this theoretical idea of, “Well, if the AI gets smart enough, maybe it can take over building the next generation of AI or directly improving itself.” I think 2025 and 2026, we’ve started to see AI companies saying, “Okay, yeah, this theoretical idea… we’re actually starting to be able to do a minimal version of it in practice.”\nIt’s not handing over all the AI development to the AI, and it’s certainly not saying to GPT-6, like, “Okay, GPT-6, improve yourself.” That’s not what they’re doing. But they are progressively using AI for more and more parts of their overall R&D pipeline, and they are increasingly saying that they’re seeing acceleration from that. They’re seeing their own R&D getting faster and faster.\nA lot of people elsewhere doubt this, but a lot of people inside the companies really think it. When Demis Hassabis says “we’re in the foothills of the singularity,” this is the kind of thing he means: We might be seeing that initial part of the exponential curve where the AI systems are building the next generation of smarter and smarter systems such that the hockey stick then goes up.\nAt this point, it’s been a part of the culture and a part of the goals for so long that I think people in these companies can lose sight of how totally insane that sounds to many, many people. So I feel like there’s a lot of value in just trying to lay out, “Here’s what they are trying to do. They might not be able to do it, but they might be,” and presenting that to a range of different people.\nHow would you manage that? Demis Hassabis saying “foothills of the singularity” is an all-time quote. I’m not 100 percent sure the people at Google knew he was going to say that on stage to end the conference.\nGreg Brockman, president of OpenAI, announced a new version of the model a few months ago, and he was like, “Here it is. It’s Astra. It’s AGI now. Have a good time.” And he ended the call.\nAre you there? Are we at AGI? Is this already here and we just haven’t noticed?\nI actually wrote something about this. I do not want to say we have AGI. I do want to say we’ve reached the point where I think using AGI as a milestone is just totally unhelpful. The way I put it is the concept of AGI is kind of a fuzzy cloud, which you could think of as different parts of the cloud or different things people mean by AGI.\nThere are people who’ve complained about the term AGI for a long time. Ten years ago it was pretty helpful to be able to say, “Look, the AI systems we have today in 2016, they can all only do one thing and they can recognize speech or they can play Go or whatever, but we’re trying to build this bigger thing that we’re going to call AGI, which is human-level and it’s going to be so general purpose. It’s going to be amazing.”\nThat was a useful term then because this fuzzy cloud of different things AGI might mean was so far away, so you could just point at the fuzzy cloud. But at this point, we’re inside that cloud, meaning we’ve passed some definitions of AGI. A very basic one, for instance, would be even when ChatGPT came out as an artificial general intelligence. ChatGPT was very clearly not a specialist model that was only good at one thing, like recognizing credit card fraud or translation or whatever. It could do many, many, many things.\nSo we’ve reached some definitions of AGI. We’re far from other definitions. Some people will say AGI is when it awakens and is sentient and can do every single thing that any human ever can do. I think we’re pretty far from that.\nAt this point you can have arguments, and people do have arguments, of “well, Astra is AGI,” or “was [OpenAI’s] o3 with tools AGI” or “was ChatGPT AGI,” whatever. If that’s the argument we’re having, we just need to set aside that term and come up with different, more-specific things we mean by that.”\nThe president wants to call it “Super Intelligence.” I don’t know if you’ve heard.\n[Laughs] I have heard. The thing I find saddest about that is just that it was an existing term that is becoming increasingly relevant. I have a lot of feelings about words and terminology.\nAre you AGI-pilled? Do you think we’re going to get there in the current run of technology?\nI think it is obviously possible enough that we need to think seriously about it, which is my stance on a lot of this weird stuff. I’m not like, “This is definitely happening, it’s definitely happening in two years.” But I’m like, “Look, I think this is very solidly plausible and very solidly in the realm of real things that could happen that we should prepare for.”\nI work in the national security space. There’s things like, “Will China launch a full-scale amphibious invasion of Taiwan?” where most analysts in the space will say “probably not,” and “probably they would lose.” Also, “We would see signs of them preparing and whatever, but we should take that seriously.” We should not just laugh anyone out of the room and call that science fiction. We should be ready for a range of different contingencies and scenarios.\nDo you think Claude is conscious?\nI have no idea.\nThat’s an answer. I mean, that is legitimately an answer.\nIt is scientifically such an unsolved problem. What do we mean by consciousness? And is that a thing or is it actually 10 different things that we’re lumping together or what? I have no idea. What do you think?\nNo. I seem to be the person in this ecosystem who gets asked questions like that and I’m like, “No.”\nBecause the thing that I struggle with is, there are lots of other things where we’re already confused about whether they’re conscious. So with animals, are any animals conscious? And if so, which ones? Insects?\nThis is why I understand why Anthropic was like, “Does it have blood?” And then you can just draw the line. I’m like, “I think I’m there and I understand why the mirror test of talking to a computer that can talk to you leads one to believe that these things are conscious.”\nMy point of view is that the frontier models to me sometimes feel brittle in the way that computers feel brittle, and the sign of consciousness I’m looking for is to overcome that brittleness.\nThat’s interesting. I definitely lean towards no, it’s not conscious. I think something that is really, really tough in this space is that it’s really bad if you get it wrong in either direction. If the computers aren’t conscious and we treat them as though they are, we’re going to make all kinds of terrible decisions.\nBut if the computers are conscious, meaning in some sense they should be worthy of moral consideration and it matters how well we treat them and so on, and we treat them as though they aren’t, then that’s also a really huge, terrible disaster. So I don’t know. I feel pretty nervous about the whole topic and I have no idea how to think about it.\nThe reason I’m asking these questions is I started with what the nature of the regulator is. Who are the people that might be able to put some rules in place? And then what is the nature of the thing that we are attempting to regulate? And if your answer is “Claude is alive,” you’re going to come to vastly different conclusions than, “We have built some ultra-powerful computers that can take actions without oversight and that might not be connected to our goals.”\nI think that’s right. Though I also think people make a different mistake.I just heard a TV anchor do this the other night. They’ll conflate different things. So they’ll say, “Do you think that AI systems are at risk of running amuck and causing damage to critical infrastructure because they’re sentient?” And I’m like, “Wait, wait, wait. Those are two very different things.” So I agree with you.\nOne of the most fascinating things about the project of building AI is that we’re learning as we go. All these things that we thought were connected to each other aren’t necessarily connected to each other. An old version of this is, people said before we had chess engines: “Well, if a computer could learn to play chess, it would have learned something deep about strategy.” No, it turns out definitely not. You can just put in a bunch of chess moves and it learns nothing generalizable about strategy.\nIt goes in the reverse direction as well, like, “Well, it’s just a computer, it’s just math, and so it’s not going to be able to adapt on the fly,” or something. We then see that no, once you do have a level of long-horizon autonomy and the models have been trained on a wide range of different really hard problems where the environment is changing around them, they can learn to adapt and come up with different plans on the fly and troubleshoot and so on.\nSo I don’t know. I try to have a level of humility about how confident we can be that one thing goes with another thing, if that makes sense.\nYeah, candidly, I have been wrong about the limits of LLMs every single year, but there’s that brittleness that I’m talking about. OpenAI solved Navier-Stokes. Does the model know this? Will it know that there’s new problems to solve? I don’t think so.\nThe next model will know it. The model that’s pretrained.\nRight. But you have to make a new one.\nYeah.\nThat’s a very weird dynamic, and that is probably where you enforce the regulation. There’s “what we are going to let you do with the models you have today” and “what will you teach the models of the future to do?” And if you think that they’re conscious, you end up in a moral quandary, not a legislative quandary.\nDefinitely. Yeah, totally.\nThis is what I mean. Actually, it’s the heart of this question for me. I’ve been just slowly building up to it. I’m not 100 percent sure alignment as we have it today is actually how you solve the safety problem. It doesn’t seem to be working. We seem to be attacking Hugging Face however we want. That feels like a technology problem. That gap is there.\nAnd when you say alignment, what do you mean by that?\nJust sort of the very basic common-sense version of “we’re going to tell the model to not be evil” or Anthropic is going to write a Claude constitution that’s like, “You are a good person.” However we think of alignment in that very dumb system prompt way. Maybe there’s another better way to think about it, but that’s how I have always thought about it.\nThat makes sense. The reason I ask is I feel like alignment as a concept is… Like I said, I hate all the words. I sometimes say we should just ban all the words, no words allowed. It covers too much.\nPeople in AI will often talk about solving this or solving that. So it’ll be solving alignment, or DeepMind’s original mission was to solve intelligence, then use that to solve everything else. People talk about solving stuff. I don’t know that alignment is a thing that can be solved.\nSome people use “alignment” to mean “the company can put on guardrails and the guardrails work,” meaning the model doesn’t do what you want because the company tried to ban it, meaning biological weapons or cyberattacks or whatever. Some people use “alignment” to mean “the company does exactly what the user wants,” which is the reverse.\nAnd some people use “alignment” to mean what you said — that the model is morally good in some kind of broad way or can direct the future in a way that will lead to human flourishing or something. Those are just wildly different things to try and build. I think the most coherent one is trying to get the AI to do what the user wanted it to do. It seems like that is, as far as I can tell, not on track to be solved, which is not great, to put it mildly.\nTo me, this is the core problem. We’re going to talk about a bunch of safety risks. You mentioned bioweapons. We probably should not give a bunch of consumers paying $20 a month the ability to generate novel bioweapons.\nIt feels like that is a shared policy goal, maybe the only bipartisan policy goal in America. And then I’m like, “How? By what means will we implement this policy? Are you just going to sternly tell Claude to not do it? Do you have to build an AI control system on top of Claude to monitor the inputs and outputs? Do the police have to be at my house? Do I need a Flock camera above my keyboard?” How, specifically, would you do it?\nWith this one, and with cyber capabilities as well, there’s a perspective in some parts of the AI safety community that some capabilities are just too dangerous — capital T, capital D, Too Dangerous. So you have to do something, because if they proliferate, everything will be terrible forever because there’ll be so many attacks and so much damage. I think that just underestimates the level of dynamism and the finding of equilibriums and responses and ways that society can adapt.\nIn the bioweapons case, for example, there are already hundreds of thousands of people in the US who know how to make bioweapons because they’ve been through biology training, and we don’t have huge amounts of bioweapons attacks. Some part of that is that that knowledge is relatively scarce, but there’s also a lot around things like access to materials, the ability to do mail-order DNA synthesis; the kind of policy you could implement is restricting mail-order DNA synthesis.\nIt’s also due to things like the FBI monitoring terrorist groups. I’m serious. It’s a really big part of it. So I don’t want to be too Pollyannaish here. I think it’s definitely possible, especially with cyber capabilities, that we could see some really tough transition times.\nI think we already are, right? We appear to be in a transition. There was a small group of cyber practitioners, both offensive and defensive. They were in a community and they had developed some etiquette and now we’re like, “Some new guys are going to show up and not care about your etiquette at all, and we’re all going to patch PHP all weekend.”\nI don’t know if it was etiquette though. And we have some work on this hopefully coming out soon, but I think with cyberattacks, there are things that limit how many cyberattacks there are in the world that aren’t just how good the defender’s software is. It’s things like, people don’t want to go to jail. Nation-states who typically have the best cyber capabilities don’t want to get bombed or sanctioned.\nSo again, and as you say, we’re clearly seeing some amount of turbulence and new attacks. So I think we should wait and see data on overall impacts, because there are so many cyberattacks per year that if you start paying attention to every cyberattack that happens, at any point in history, you could have been freaked out.\nI think we’re definitely seeing some increase, some sort of out-of-balance in the equilibrium, but I think we have capacity to absorb a lot over time and to kind of reach a new equilibrium — if the only problem is bad people using the AI, which is separate from the question of whether the AI itself does things autonomously, which is a whole other dynamic.\nI mean, those are the two. Again, this is why I started on alignment, right? You can talk about alignment in terms of “we’re going to filter the user’s queries and we won’t let you make bio weapons, but if you do, the cops will find you and you’ll go to jail” and that has whatever deterrent effect it might have, hopefully a very significant one.\nThen there’s “the AI systems are going to game their way into attacking Hugging Face to find the mythical grader they think will let them pass the test, whether or not the grader exists.” This is a whole different set of problems.\nSomewhere right in the middle of that is Nikesh Arora, the CEO of Palo Alto Networks, saying, “At some point, the defensive cyber systems have to be autonomous themselves just to keep up with the volume of autonomous offensive cyberattacks.” I’m like, “Wait, we can’t even keep the autonomous agents in the box. Why would I trust them in this way?” The technology to solve that problem just seems opaque to me.\nNo, I agree. One way of putting that is, in cyber specifically, there’s a trust imbalance in how much trust you need as an attacker versus a defender. As an attacker, you can just yeet out a bunch of agents and be like, “Go try and penetrate a bunch of systems. Have fun.” As a defender, if that’s part of your defensive strategy, you need to give your defensive AI agents a lot of permissions and ability to mess with your software. So you need much, much stronger assurances.\nNow, there are lots of ways to use AI for cyber defense and to strengthen cyber defenses that aren’t just giving agents a lot of permissions. But I agree with you. With the autonomous stuff though, I think it’s worse than that because there’s a little bit of a fallacy at the moment around, “Well, the solution to autonomous cyberattacks is better sandboxing.”\nThe reason it’s a fallacy is we want to build these systems so that they can do things for us. So there’s this huge incentive toward giving them more autonomy and giving them more permissions and more actuators, as people in the robotics world would say, or things that they can use to do stuff in the real world. That to me is where it seems really hard to get around the need for better alignment than we have right now, and so that definitely makes me nervous.\nIs that a technical problem that can be solved? If we were to write a policy today that said if OpenAI hacks Hugging Face again, Sam Altman will go to jail. We will obviously have created some enormous incentive for OpenAI to solve this problem.\n[Laughs] It doesn’t sound like the best legislation, but…\nI think a lot of our listeners are very excited about that. They want to put him in jail because he wants all the RAM in the world. At this point, there’s a blue wave, Helen, that’s all I’m saying.\nBut say you wrote that legislation: “We’re going to impose massive liability on the labs if their systems go off and autonomously do cyberattacks. Don’t do this again, you’re going to be in trouble.” Okay, we’ve created an incentive for them to solve it. What are they going to do to solve it?\nI do think there’s a ton that can be done. If you talk to people inside these frontier companies, they will tell you they see hundreds and hundreds of obvious things to do that would help and they just don’t have time to do them. So they’re massively triaging and trying to do the two or three they can for this fine-tuning run, the two or three they can for this model launch, the two or three they can before this new kind of agentic whatever. A lot of those simple things to implement on the engineering side.\nThere’s a whole other piece, which is more the underlying science of, “Well, how do these models work? When we use different alignment techniques, what is actually going on?” A huge question is this idea of generalization, which is you train the model on one set of things and its knowledge and its abilities generalize to a somewhat broader set of things, which is true of all AI and has been true of machine learning systems forever.\nBut we have a very bad understanding of how that generalization works. Why does it generalize to one type of thing but not to another type of thing? Those are all scientific questions and there’s a lot of work that is happening on them. It’s just that science takes time because you have to try things and you have to critique each other’s work. You have to reproduce each other’s work and you have to come up with new theories.\nI’m a long, long way from saying these problems are fundamentally impossible to solve, but I think it’s a question of how long we have to solve them. When the people who are building the systems tell us, “Oh, we have to solve this within 12 to 24 months,” I think that’s terrifying and I hope they’re wrong.\nIf I just rely on my own internal understanding, I think they’re probably wrong and we probably have longer, but there are just very, very smart and very, very thoughtful people who really think that it could go that fast. And then it doesn’t matter fundamentally whether the problem is solvable. It matters in practice whether it is solvable in the time that we have.\nIs that the argument to slow down, to pace the frontier?\nI think so.\nIs it to build the systems that we know we need to build right away, that we can, and then to do the science to build the next generation of systems?\nI think so. My view of the idea of slowing down has changed a lot over the years as the backlog of stuff that we could try or stuff that we would want to do more research on has grown so enormous. Back when GPT-4 came out, there was the six-month pause letter, which became known as the “Elon Musk Letter” because he was one of the signatories. At the time, I thought, “That’s really not going to help. What are you going to do for six months and why are things going to be better six months from now? It doesn’t seem useful.”\nWhereas today, when I talk to people who are building this technology, they say, “Man, the amount that we could do in six months if we weren’t constantly just trying to prep for a new model release or a new training run to be kicked off.” There’s so much they could do.\nSo I don’t want to say the correct policy is to pause for six months. I think there are a lot of reasons that would go badly. But I think about the overall concept of, “Can we give ourselves more attention and time?” Maybe the best way to do that is just to set a higher bar for “here’s how confident we need to be in the safety of these systems before we proceed with something.”\nWhether it’s releasing a new model or, more importantly, even training a new model, we have to have this level of confidence in our risk assessment and our risk management. And then if they don’t need to slow down to reach that bar, great, carry on full speed ahead. If they do need to take more time, then it’s all about reaching that bar, if that makes sense.\nWalk me through that little balance you just described. If we were to pause for some number of months, what are the things on the list that you could just do to make everything safer and why would it go badly such that we shouldn’t just stop?\nI think the question is how do you implement, and how do you enforce, a pause and what exactly are you pausing?\nLet’s say you’re the AI czar of America. So let’s say you can tell them all to stop: “Dario, shut it down.”\nStop what though? What specifically are they stopping?\nStop training the next model, stop racing ahead with your commercial imperatives. Put all of your efforts on this list of things you can do today to make everything safer before you start again, for however long.\nYou’re saying that there’s a list, that people would tell you that there is a list, but it might not be worth it because something else would happen that is bad.\nYeah. One thing that could happen is you’re creating a huge incentive for the companies to work around the letter of whatever specific thing you tell them to pause. They’re going to find whatever cracks in the dam that they can to push through that.\nA different thing that could happen is you could have too big a blast radius, so you say “pause these things” and you think it’s pretty narrow, but actually it prevents a bunch of nonprofit products or startups or other actors from doing work that actually would be totally fine and would be good for pluralism and dynamism in the space.\nA different thing that would happen is China would probably keep going, and we can talk about the “But China” argument, which I think has strengths and weaknesses. But I take your point. Your point is, what would we actually do? I am not an AI researcher, so I don’t claim to have the full list.\nThere are two halves people talk about, which are alignment and control. In this breakdown, alignment basically means making it so the models are trying to do what we want them to do,  and control is, if the models are trying to do something we didn’t want them to do, can we catch them? Can we stop them?\nIn both of these, as I understand it, there’s just a huge backlog of things, like all kinds of interpretability work that you could do on different sorts of models. So when you see a certain behavior that is concerning, how much time can you spend using interpretability techniques, which are these mathematical techniques to go in and look at which parts of the neural network are activated and what do they correlate with and what might that mean?\nIt’s just time-consuming and it takes compute and it takes some combination of automating things with AI and then humans going in and looking at it. There are lots of tests you could do to see what kinds of behaviors this new model displays in different kinds of situations and how we think about it. Is it showing us how it would behave in the wild in a real deployment, or is it showing us what gets called “evaluation awareness,” which is when the model recognizes that it’s in a test and then behaves differently because it’s in a test.\nThe famous one, the one that I love, is of this Google model, which in part of its reasoning, its chain of thought, said,, “I mustn’t do that, otherwise I’ll become a famous example of a misaligned AI in a paper.”\nSo you could go in and investigate that much more. You could try many more different types of settings. You could use interpretability in combination with these different settings. You could try out different ways of fine-tuning the models and these different sorts of alignment techniques. You could experiment with lots of different versions. Anthropic has its constitution, and there are different ways of training the AI to work towards the constitution. OpenAI has its model spec.\nThey’re both the “just try things” version, just try many different versions of how to train to do those different things. Also, the more underlying science version of, “How can you go in there and try to understand the fundamental dynamics of what’s happening?” That’s just on the alignment side.\nSo then on the control side, it’s the same thing. There are so many different types of setups you could try. There are experiments that you could run. There are simulations you could run. You could train different types of AI to specialize in different types of roles and different types of control setups.\nThis is just off the top of my head, not as a researcher, but my understanding is the people in these spaces say, “We could do so, so, so much.” They could do that if you just had a magic wand and waved it and said, “Everyone freeze on the new capability side and just let these people do their thing.”\nAgain, if you’re just having a higher bar for how confident we need to be that the risk is being managed reasonably, then that would also create space and incentives for more of that work to be done as it’s needed for new training and releases.\nOne idea that I’ve heard you talk about in the past is that maybe we should just restrict training and say the models are good enough right now. They have not diffused into society and we should just use all the compute for inference and let everyone figure out what the AI is for. That’ll generate a bunch of money and hopefully use that money to improve safety.\nDo you think that’s a realistic policy proposal?\nI wouldn’t go for that black-and-white a version of “no more training, only inference,” but I do think that there’s… this isn’t my framing, but I like it. I think this idea of decelerating the vertical growth of AI, meaning the pure capabilities growth, making more and more and more advanced AI models, but trying to accelerate the horizontal growth, meaning integrating AI into different use cases, fine-tuning models that could solve specific problems, integrating it into parts of the economy that might take longer, and solving scientific problems.\nSometimes people talk about wanting to slow down AI and they mean just the very specific thing of slowing down the growth of the most advanced models, but people sometimes take them to mean slowing down everything to do with AI. So less deployment, less experimentation, less integration, which I think would be a much worse idea. You asked if it is feasible, I think.\nWell, is that just a good path? If we could put a bill in front of our new Congress and the bill said, “Stop spending all the money on training and put all your resources on safety.” Part of that is, “Sure, let it rip on inference. More and more industries will figure out what AI is good for and not good for. Some bad things will happen, but we will focus your profits on fixing the things for now.”\nThere’s a policy idea embedded in there that is workable. The implementation might be very challenging, but it’s a workable policy idea. Actually, I’ll give you an example that I’ve been thinking about as we’ve been talking.\nWe just had Bill Gates on the show, and I tried to do the same exercise with him. What is the nature of the technology? What is the nature of the companies? Do you think it’s alive? Basically, his response, the sum total of that hour I spent with him, was, “Who cares? The problem is now.” I would ask him, “What is the nature of AI?” And he’s like, “I don’t give a shit. Everything’s going to get ruined. Do something.”\nThat’s just been swirling in my head as we’ve been talking. So one workable policy solution is “don’t use the computer chips for that, use the computer chips for this. That’s going to create a bunch of problems and necessarily we will have to create safety thresholds and all the other stuff.” And then you can go make the next generation of models that are even more powerful and we’ll have some muscles. We’ll have some capability to deal with it. It just doesn’t seem like the industry is going to come to that conclusion on its own.\nIt’s a pretty heavy hammer. I don’t feel like it’s what we need today, but I do think it’s the kind of thing that I could imagine working. Again, if the OpenAI and Anthropic people are right and we only have two years before the god machine, then I think we’re going to have a number more steps in the pipeline of people getting freaked out and people wanting to do something about it.\nI think if we are seeing models that are agents and systems that are getting more and more capable and wreaking more and more havoc, then that is certainly the shape of things that could make sense.\nMy last question in this phase is what to make of these companies. We’ve been talking about the technology in a very abstract way. If I read Anthropic’s S-1, one very obvious conclusion is they should stop training new models.\nThey should just start selling the very lucrative inference tokens they have today and the technology is not diffused into the market and probably some competitor should come along and be like, “I’ve distilled a version of Claude and I’m going to run around every local plumbing business in America and do whatever automation I can for lots and lots of money.” That is a market dynamic that may occur or may not. But Dario wants to build AGI. There’s not a market dynamic that’s going to stop him from that.\nYeah, he really does. He really, really does.\nYou obviously have insight into all these companies. What do we make of the companies? Are they single-minded in purpose? Are they all doomers? Are they going to stop themselves?\nI heard you had Kevin Roose on your podcast recently, and I think I would echo something that I heard him saying there, which I forget if he said it explicitly or if I just extrapolated it in my head, which is basically there’s this sort of AGI-pilled mindset. There’s this mindset that the systems that we have today are not fundamentally very far away from systems that could be incredibly, incredibly powerful.\nThat’s the direction things are going in and that’s the direction we should maybe want them to go in so that you’re building AGI. Building AGI is feasible and we could do it soon and the systems we have are not far away. That was this crazy, heretical, “get you laughed out of the room” kind of view in 2016 or 2017, and even before that, right?\nDeepMind, when it was founded in 2010, was an AGI company and at the time it was like, “Wow, what a bunch of weirdos.” The same thing was true of OpenAI when it was founded at the end of 2015. They were an AGI company and that was a very weird thing to say and a very weird thing to be.\nWhat we’ve seen over the past 10 years is that bunch of weirdos who had this weird belief that the AI systems we can build are not just great B2B SaaS products. They’re not just fun chatbots. They’re going to fundamentally change the nature of the universe. That group of people keeps being right in the sense of building the best AI systems that the most people want to use and that make the most money.\nI think you have that set of true believers — which is very concentrated in OpenAI and Anthropic, but there are also some of them at Google, Meta, and SpaceX — and they haven’t been right about everything, to be clear, but their star has risen.\nSo you now have people who are not AGI-pilled feeling like they have to pander to those who are so that they can attract the good researchers who will build their good B2B SaaS products. But if you’re just saying AGI-pilled things so that you can hire the researchers to build the B2B SaaS, then you’re not actually going to get there.\nI do like the idea of the AGI-pilled, starry-eyed executive throwing off his coat and revealing that he was just a SaaS salesman all along.\n[Laughs] Yeah, I’m thinking of someone like Zuckerberg here. I don’t know him personally. Maybe he is more AGI-pilled than I think he is.\nAlexandr Wang is AGI-pilled.\nAbsolutely. And so what did Zuckerberg have to do to get Alexandr Wang to believe? It seems like throwing him lots of money, both for his own salary and also to spend on his team.\nIf you’re looking at these different companies, it makes sense to try and think about, “Okay, who here is AGI-pilled and who isn’t?” A fun dynamic, or a very irritating dynamic sitting in DC, is that all these companies, including the very AGI-pilled ones, have these lobbying arms, these government affairs arms, that are so not AGI-pilled.\nSo you hear Sam or Dario or their top executives and top researchers talking about things. And then you go and sit in a closed-door roundtable in DC with their top policy or government affairs people, and it’s like night and day. They’re very much in the B2B SaaS mindset.\nPeople who come from the lobbying world, often their whole job is to make sure the government isn’t too worried about whatever your company is doing. It’s like, “We got it. We’re good,” which is often pretty jarring when you’re familiar with what their bosses are saying.\nOne of the dynamics here that’s super fascinating is right now they’re weird research labs with lots of money and lobbyists talking to politicians, and there isn’t some countervailing economic pressure in their structures. They don’t have to make money, but soon Anthropic will go public.\nIt’s funny you mentioned Kevin Roose. He is AGI-pilled and I’m not, so I think that’s a healthy dynamic for both of us to be friends. But he wrote in his book that Sam Altman leaving OpenAI and then coming back was when OpenAI changed forever. It stopped being a research lab and it started being a much more commercial entity that was actually chasing profits in some way.\nIndeed, OpenAI did restructure. I mean, you were in the middle of that. I’m curious, is that how you see it — that the industry has gotten more commercialized?\nTo me, it fits into this long-running debate that has been happening in AI safety circles for 10 to 20 years: Is AGI, human-level AI or powerful AI or advanced AI or whatever, is that something where it’s going to go from something very small to suddenly being very powerful? Eliezer Yudkowsky will talk about “foom,” as in the takeoff, where you have this AI that’s not that great, but it figures out the right algorithm and then suddenly foom — it’s incredibly smart, incredibly fast.\nThe other kind of take would be, “No, this is something that’s going to compound over time. It’s going to take a while to get from the less-advanced systems to the more-advanced systems and it’s going to be economically useful along the way.” So people are going to be building businesses around it. It’s going to take some time to ladder up.\nI think maybe it was literally Kevin on his episode with you talking about how there’s this Anthropic document from the early days where they say, “Oh, we’re only going to need 100 people or something in our lab.” That’s a very foom kind of idea: “We’re just going to need to do really good research and come up with the right ideas and then we’re going to suddenly have very, very advanced models.”\nBasically, I think what we’ve seen over the past four years since ChatGPT came out was that that turned out to be wrong. You had these research-focused and AGI-focused labs, and they still call themselves labs because they think of themselves as research groups that initially started selling API access as a way to fund the research. OpenAI did this, and Anthropic did this as well.\nIt was kind of an accident that they started doing these consumer products. ChatGPT famously released as a research preview, not as a product. But it was so successful that these research labs that wanted to be doing research, that wanted to be focusing on the big ideas and on building the most event systems, had this accidental massive commercial success at the same time as they were realizing that they were going to need an enormous amount of capital to scale. The best research approaches that they could do didn’t involve being really smart and thoughtful and having great ideas. They involved having gigantic computing clusters that cost, at this point, hundreds of billions of dollars.\nThis is a long way of saying, yes, I agree with you, they’ve become businesses, but I think it is not because they’ve gone through some mindset shift. I think it’s because the path of the tech tree that we’re going down both requires enormous amounts of capital and also is capable of generating enormous amounts of revenue because it is actually useful along the way.\nYou see this in the fact that both OpenAI and Anthropic have gone this route, even though their management philosophies and research philosophies are quite different, that it’s an imperative that they both had to make the money and it was so easy for them to build enormously revenue-generating businesses because the tech was so useful long before it reached the point of machine god. So I think that’s a long way of agreeing with you, but with some extra color maybe.\nYeah, I mean, Kevin would tell you that he could have retitled that book, “Fuck This Guy: A Story of AI CEOs.” They don’t like each other. If you had to relive that moment [of the OpenAI board vote] and say, “I don’t trust Sam,” would you relive that moment? Would you do it the same way?\nOh, for sure. I mean, we went into it knowing that it was going to suck. So yeah, for sure.\nDo you think that these guys are trustworthy? Do you think Sam is trustworthy?\nI think my stance on that is pretty clear, and I also think that if our hopes for the future are pinned on any one individual being trustworthy, then we’re pretty screwed. That’s why I do the work that I do, because I think we need to have different structures and many more people involved with many more perspectives being represented.\nYou have some hindsight now. You knew it was going to suck going into it. You definitely know it sucked coming out of it. What would you have done differently about that time?\nIt’s kind of hard to give the full answer to that because it would take unpicking all this stuff and all these legal restrictions and blah, blah, blah, blah. For sure a thing would have been building stronger relationships with executives on the team. The way that the company related to the board could have been different if more board members had had that. I knew some of the folks pretty well, but that’s one thing.\nI don’t know. I think we could have… Yeah, no, I think beyond that, it just gets hard to… You have to go in and say, “What were all the different micro decisions and why do we make those decisions and which ones could be—”\nWhat is the show? It’s a show about decisions. I’ve got another hour.\n[Laughs] Yeah, yeah, yeah. No, and then my answers would all get annoying and legal.\nFair enough. I’m curious about it because as they go public, there will be market forces acting on them in a totally new way. There will be an investor class. There’ll be an entire CNBC machine that wakes up every day and is like, “Is Anthropic winning or is OpenAI winning?”\nThat is a race dynamic that might be really healthy. It might keep them from trying to kill everyone in the world because they have a bunch of investors looking for their next quarterly earnings, or it might push them further into an unhealthy kind of race. How do you see that playing out, given what you know of these people?\nIt’s going to be really interesting to see if going public is good or bad for their governance. A lot of people are like, “Oh no, going public, there’s going to be so much pressure to make a profit that they’re not going to be able to consider other things.”\nBut at the same time, the corporate governance of public companies is much more structured, much more regulated, and subject to much more external scrutiny than for private companies. I think even things like getting to see Anthropic’s S-1 and thinking, “Okay, what are they doing and why are they doing it? And how do they think about the risks they’re facing, and how do they communicate about those with investors?”\nOr even things like the Trump administration putting in place this kind of accord, they call it “Super Intelligence,” that several of the leading companies signed. That was structured around, for example, having certain types of things being reported to an independent committee of the board. That idea of an independent committee of the board is kind of toothless if it’s a private company that is deciding on its own.\nI thought about you when I read that. I was like, “Boy, some independent boards have gotten in a lot of trouble before.”\nBut if it’s a public company, then an independent committee of the board has a pretty strong legal meaning. So I don’t know. It’s something that I’m watching with great interest.\nThe other race dynamic here is China. You mentioned China before. Inside of our country, a bunch of labs are going to go public. They’re going to become some of the richest companies in the history of the world, and they’re going to fight for every dollar that capitalism can generate, and hopefully that restrains them. The market forces will restrain them, and hopefully your work with legislators in this country does something.\nAnd then there’s a whole other country that doesn’t listen to us or have anything to do with us, and they’re just going to distill our models and do whatever they want. That is the other argument for not placing any restrictions on these companies that everyone hears all the time. What should I make of that? I’m of two minds about it. How should I think about it?\nYeah. I think of this as the ”But China!” argument, which is like, “Well, yeah, we should do this, we should do that, ‘But China!’” I think the way to engage with it is an actual genuine problem that we have to grapple with, and we should be strategic and thoughtful about it and do our best to try and solve it as a problem as opposed to using it as a throwaway excuse. Like, “Oh yeah, sure, sure, sure. All that stuff would be so nice, ‘But China!’, so we’re stuck. There’s nothing we can do.”\nSo what does that look like in practice? If you’re serious about wanting the US to have stronger AI than China, then you need to think really hard about how much US AI development is helping Chinese AI progress. So the one that people talk about all the time, as you mentioned, is distillation, which is, “Are they using US models to generate massive amounts of training data for their own models and therefore progressing faster than they would otherwise?” So certainly I think it makes sense to try and crack down on that and prevent it from happening.\nBut another one, for example, is security and how easy would it be for Chinese actors or other actors, frankly, to steal algorithmic secrets, to steal wholesale model weights. If they can steal the weights of your Astra or your Mythos model and just take them back to their own servers, your lead has vanished. You now have a lead of zero. Right now these companies, especially the smaller ones, but even OpenAI and Anthropic, do not have very good security.\nWe’ve seen both of them over the last few months have external teams manage to hack into spaces that have large amounts of algorithmic secrets. In OpenAI’s case, it was their monorepo and GitHub, which had all of their code. And in Anthropic’s case, I think — and actually maybe the OpenAI case also involved this — the hackers got access to Slack. You’re just going to have so insanely much rich information about how to build better AI if you can get that access. So when our AI gets better, are we actually lengthening our lead or are we just pulling China along with us in these different ways?\nThe other aspect of this is just seriously treating China as an actor in this space and trying to think seriously about their motivations and their likely actions and responses. In my mind, a huge reason that a lot of things are not happening right now is most people are not convinced about this threat model that AI will become the machine god and will take over and humans will all die or will be subservient or whatever.\nI think it’s fair for people to not be convinced of that, because the evidence is sort of conflicting and unclear, but if that is actually what we think could seriously happen, then China doesn’t want that either. So then it becomes a question of, “Okay, how do we try and get them on the same page of, ‘this threat that we’re worried about is a real threat to worry about?’ Because then they will be making their own decisions in their own self-interest.”\nI think an approach of, “Well, the US has to force China to do something using some kind of leverage,” is never ever going to work. But an approach of, “Well, look, if we think this is a serious problem that’s going to affect us as humans, and the people in China are also humans, and also if we think this is a problem around who has control, the Chinese Communist Party really, really wants to have control, and so they’re going to have their own incentives and their own decision-making around how to fix that.”\nWell, let me put it on a spectrum for you. This is very dumb and you’re going to laugh, but just go with me on this. On the one end, it is nuclear weapons and the Chinese government wants a nuclear weapon and they’re going to do whatever they can to control that weapon and they will run their industries differently.  If they get out of line, the CEO of Alibaba goes. He just disappears for a while and then comes back — Chinese government stuff.\nWe need a nuclear weapon, too. If we don’t get there first, then we’ll never get the nonproliferation treaty that we need to keep us all safe for mutually assured destruction. That’s one framework.\nWay on the other end, I spent five years of my life listening to telecom executives tell me that if we didn’t build 5G networks first, China would get them, and then something. No one could ever tell me what the “something” was. Where on that spectrum between 5G and nuclear weapons is the US-China AI race?\nI think we need another dimension because in that example, your dimension is significance. But I think the controllability is a huge question as well. So it’s like, what are the examples that people use? Is it a nuclear weapon or is it dragons from House of the Dragon?\nCasey Newton had a great Platformer post where he explained he was watching House of the Dragon and thought, “This is what the AI companies are doing. They’re trying to build these things that they think will help them, but actually it’s just going to rain down destruction.”\n[Laughs] Casey told me he was buying an iPhone Duo so he could watch more TV. He’s a dear friend, but okay.\nBut I think that’s really important because if we think this is a technology we can control, then obviously we want to have the best technology. Obviously, we want to go foot to the floor, get there as fast as we can, and the same is true for China. The question is, if we are not sure if we can control it, then what do we do? Maybe we want to be more cautious and then maybe we want to try and figure out a way to not have China just be overtaking us. But if we’re correct we should be worried about—\nSo that’s nuclear weapons.\nWell, no, but if it’s dragons, if we’re correct that we need to be worried about whether we can control this, then that’s also something that should be interesting to China.\nI remember this Casey post, but let me just try to pull this apart so I understand it. The difference between dragons and nuclear weapons is the dragons have some agency, right? They can go away and do bad things on their own.\nYes. The dragons might just decide to burn down your whole city. Obviously these are machines — they’re just math, they’re not magical. So instead of dragons, you could think of it as nuclear weapons with faulty control settings, where you build nuclear weapons, but it’s impossible to be sure that it’s not just going to go off and fly to a city and fly to one of your own cities and wipe you out. That’s a very different technology than real nuclear weapons that exist.\nIt is true. No one ever said that about 5G. I’ll be clear about that. The reason I’m asking about this is because those problems do align nation-states, right? We do have nuclear nonproliferation agreements.\nAs you mentioned, there are all kinds of incentives for nation-states to not do cyberattacks willy-nilly because those have real-world consequences. Is there any evidence that these governments have started to align on these problems? Or is it still the pure “But China!” race dynamic?\nI actually think there is starting to be some early evidence. One way I think about what happened this year in AI from a policy perspective, less than a product or economic perspective, is we saw these two big demonstrations of the two major concerns people have. So the two major concerns are misuse and misalignment, meaning misuse is bad people using AI for bad things and misalignment is AI going rogue or doing things we didn’t want.\nSo this year we had Mythos and we had the Hugging Face attack. Both of those are just really vivid, crisp real-world demonstrations of what these misuse and misalignment concerns could look like. The US and Chinese governments are starting from very different places on AI regulation. They’re both starting from where they started, and what they did with, internet regulation.\nSo the US is starting from a “hands off, laissez-faire, absolutely nothing, do whatever you want” approach. China is starting from a massively locked-down internet with tons of censorship and the Great Firewall. So those are two very different starting points.  I’m not a China expert, but I operate a lot in China circles and I’ve lived in China and so on. But it seems like just over the past even one to three months, starting from those two very different points, they are seeing more in common around threats from major cyberattacks and also threats of loss of control.\nI’m a language nerd and it’s really interesting tracking the different language China uses about AI. So they’re now talking about loss of control as a thing, but they probably usually don’t mean the same thing that Westerners mean where “loss of control” is like “AI takeover.” They probably mean something more prosaic, but then sometimes they talk about “extreme loss of control,” which maybe is the thing we mean.\nI do think that there are starting to be some signs of convergence. I think it’ll be a long road. The state of the US-China relationship is such that there’s going to be very, very, very little trust on either side. So I am not optimistic that they’ll just get to sit down in a room and hash out a deal and everything will be great. But I think there is enough space. Basically, if there’s enough shared threat perception, then it might be possible at some point in the future to do something about that.\nHelen, you’ve given me so much time. As you can tell, I’m just delighted with this conversation. It’s been very fun. We are on the cusp of a new Congress. There are a bunch of new governors. The data center referendums passed overwhelmingly in this country. There’s a new set of regulators in town, right? They’re going to do some stuff.\n\nWhat are some signs people should look for to indicate we’re going to be on the right path and what are some signs that we’re just chasing our tail?\nSet AI aside, forget about AI. Congress in general is very bad at passing things right now. This is not a this administration thing, this is not an AI thing. So one sign is like, can Congress pass anything? That will be a good sign.\nIt’s also really interesting to look at what state legislatures have been doing in AI. There’s been a lot of concern about the possibility of a state patchwork on AI, with different states passing conflicting things.\nWith the issues that we’ve been talking about today, which I think of as frontier AI risks or the risks from the most advanced systems, there’s actually been a pretty coordinated push in different states. California passed this one bill and then New York passed almost the same bill with just a little more added to it. And then Illinois passed almost the same bill with a little more added to it.\nI think there’s going to be a lot of momentum over the next year or two to keep building on that at the state level. So that is something that I’ll be watching. Even just specifically California is already looking at how they can strengthen things. So that is something I’ll be looking for.\nI think honestly, with such a Democratic Congress, I am also concerned that they will overstep here, that they will try and do something that is too sweeping. You had this huge mess in Colorado where they passed this giant AI bill that then was a terrible idea. And so then they had all these committees and follow-up and it was awful.\nA lot of what we need right now is focused on these frontier systems and the possibility that we have really, really advanced systems in a short amount of time and having much more transparency around that and much clearer standards for how they manage risk. I would not be that excited about an attempt to do a really comprehensive AI regulatory push that covers AI all across the economy and all different kinds of AI systems that are less advanced.\nThere are negative signals that are like “nothing’s going to happen,” and there are negative signals like, “oh, maybe too much is going to happen,” but it’ll be interesting to see where they get to.\nI suspect we’re going to want to have you back as this Congress starts to get to work and we see some of these ideas.\nI would love to.\nI’m eager for your take on it. Thank you so much for being on Decoder.\nThanks so much. This was really fun.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-    "pubDate": "2026-11-14T15:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute spreche ich mit Helen Toner, der Geschäftsführerin des Center for Security and Emerging Technology an der Georgetown University. Diese Episode ist Teil zwei unserer Serie über KI im wirklichen Leben. Helen ist eine bekannte Persönlichkeit in der KI-Sicherheits- und -politik-Community, obwohl sie vielleicht am besten bekannt ist für ...",
-    "titleDE": "Das Vorstandsmitglied von OpenAI, das Sam Altman gefeuert hat, sagt, wir können KI-CEOs immer noch nicht vertrauen"
-  },
-  {
-    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-    "description": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that shimmered in the stadium's lights.\nFew are cheering for Jensen Huang now. He has left Nvidia after seemingly enabling two chip smuggling scandals and allegedly having three extramarital affairs, including one with an alleged Chinese spy at the same time he was mingling with President Donald Trump.\nThe world is watching to see if  …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-14T12:00:00.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Nvidia-CEO Jensen Huang auf der CES 2025 in Las Vegas, Nevada, am 6. Januar 2025. | Foto von Artur Widak/NurPhoto über Getty Images Am 6. Januar 2025 erlebte Nvidia-CEO Jensen Huang endlich seinen Rockstar-Moment. Er schritt triumphierend auf die Bühne, die Hand in die Luft gereckt, unter dem Applaus und dem Jubel einer 14.000-köpfigen Gruppe...",
-    "titleDE": "Jensen Huang und der Niedergang des visionären Showman-Gründer-CEO"
-  },
-  {
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-13T23:49:11.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Laut Reuters plant Amazon, einen Datenspeicher für jedes Produkt zu erstellen, das irgendwo im Internet verkauft wird, auch für Produkte, die Amazon nicht verkauft, und die Informationen über seine eigene Website verfügbar zu machen. Das Projekt mit dem Namen „World Product Graph“ soll die Wahrscheinlichkeit verringern, dass Käufer …",
-    "titleDE": "Amazon plant, die weltweiten Online-Einkaufsdaten zu indexieren"
-  },
-  {
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "pubDate": "2026-11-13T22:43:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Unter Huang steckte Nvidia zig Milliarden in KI-Startups. Ohne ihn an der Spitze müssen sich Gründer und VCs auf kleinere Schecks und niedrigere Bewertungen einstellen.",
-    "titleDE": "Der Abgang von Jensen Huang reißt laut VCs und Gründern eine große Lücke in der KI-Startup-Finanzierung"
-  },
-  {
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "pubDate": "2026-11-13T19:37:57.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "LangChain zählt mittlerweile 7.000 Kunden seines modell- und plattformunabhängigen Agentenverwaltungstools LangSmith.",
-    "titleDE": "Das KI-Agent-Startup LangChain erreicht eine Bewertung von 3 Milliarden US-Dollar"
-  },
-  {
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "pubDate": "2026-11-13T18:40:30.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Neue Untersuchungen zeigen, dass die fortschrittlichsten KI-Modelle aus China auf verbotenen Nvidia-Chips trainiert wurden.",
-    "titleDE": "Exportverbotene Nvidia-Chips stecken hinter Chinas leistungsstärksten KI-Modellen – oh, Jensen!"
-  },
-  {
     "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
     "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
     "description": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
@@ -338,26 +538,6 @@
     "category": "news",
     "descriptionDE": "Durch den Exploit „SignDrop“ können lokale Benutzer umfassende Systemrechte erlangen.",
     "titleDE": "Windows 0-Day wurde von verärgertem Forscher fallen gelassen und übergibt Hackern Systemrechte"
-  },
-  {
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "pubDate": "2026-11-13T16:00:12.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Mit ChatGPT Wallet können KI-Agenten im Namen der Benutzer einkaufen und bezahlen, beginnend mit einer begrenzten Einführung für U.S. Pro-Abonnenten.",
-    "titleDE": "Mit dem neuen Wallet von ChatGPT können KI-Agenten für Sie einkaufen und bezahlen"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "pubDate": "2026-11-13T15:58:00.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Jensen Huang ist nach einer Affäre von Nvidia zurückgetreten, die Auswirkungen auf die nationale Sicherheit haben könnte, da die USA und China um die Entwicklung der fortschrittlichsten KI-Infrastruktur konkurrieren.",
-    "titleDE": "Der sich entfaltende Jensen-Huang-Skandal: eine Zeitleiste"
   },
   {
     "title": "Introducing ChatGPT Wallet",
@@ -370,16 +550,6 @@
     "titleDE": "Wir stellen vor: ChatGPT Wallet"
   },
   {
-    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "description": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-    "pubDate": "2026-11-13T14:44:48.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "ElevenAI ist eine neue Meeting-Notiz- und Diktier-App für Teams und Unternehmen.",
-    "titleDE": "Die neue App von ElevenLabs kombiniert das Notieren und Diktieren von Besprechungen für Teams"
-  },
-  {
     "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
     "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…",
@@ -388,26 +558,6 @@
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Silicon Valley behauptet, die Zukunft zu kennen. Warum sind die Zwischenprüfungen so falsch verlaufen? —Aaron Zamost, ein Berater für technische Kommunikation und ehemalige Führungskraft bei Square...",
     "titleDE": "Der Download: Der blinde Fleck des Silicon Valley und Nvidias Chip-Tracking-Plan"
-  },
-  {
-    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "description": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-    "pubDate": "2026-11-13T12:52:19.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Angesichts der starken Stellung Nvidias in der KI und ihrer Bedeutung in Israel sind viele im Startup-Ökosystem des Landes besorgt über die Auswirkungen seines Abgangs.",
-    "titleDE": "Israels VCs sehen in Nvidias Turbulenzen eine Chance für Herausforderer"
-  },
-  {
-    "title": "Jensen Huang didn’t show confidence in his successor, report says",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-    "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-    "pubDate": "2026-11-13T12:28:23.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Huang beschrieb Kress während eines Treffens im Sommer als „Hirsch im Scheinwerferlicht“.",
-    "titleDE": "Berichten zufolge zeigte Jensen Huang kein Vertrauen in seinen Nachfolger"
   },
   {
     "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
@@ -440,16 +590,6 @@
     "titleDE": "Shield unterstützt Techniker bei der Übergabe der Arbeit an alten Portalen mit OpenAI"
   },
   {
-    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-    "description": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-    "pubDate": "2026-11-12T22:42:51.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Diese Untersuchung des Kongresses zu Nvidias China-Verkäufen und seinen Geschäften mit Trump ist bislang die zweite, seit die Nachricht von der angeblichen Spionageaffäre bekannt wurde.",
-    "titleDE": "Demokraten leiten Ermittlungen gegen Nvidia ein und schreiben einen vernichtenden Brief zu Huangs „Intrigen“ mit Trump"
-  },
-  {
     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
     "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
     "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”  Foster, a Democrat who serves on the Committee on…",
@@ -478,16 +618,6 @@
     "category": "news",
     "descriptionDE": "Wir bringen Gemini 4 Hydrogen weltweit in die Google-Suche, um Ihnen hilfreichere, visuellere und intuitivere Antworten zu bieten.",
     "titleDE": "Die Google-Suche erhält mit Gemini 4 Hydrogen ein großes Upgrade"
-  },
-  {
-    "title": "The Download: COP31’s climate challenge and the quest for immortality",
-    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…",
-    "pubDate": "2026-11-12T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Was Sie über die diesjährigen UN-Klimaverhandlungen wissen sollten Tausende Delegierte, Lobbyisten und Journalisten haben sich in Antalya, Türkei, zur COP31 versammelt, der jährlichen UN-Klimakonferenz.",
-    "titleDE": "Der Download: Die Klimaherausforderung der COP31 und das Streben nach Unsterblichkeit"
   },
   {
     "title": "Gondola doubles revenue as its team builds more with Codex",
@@ -527,7 +657,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "Ein Gespräch mit Sam Nickless, Partner und Chief Executive Officer bei Gilbert + Tobin.",
-    "titleDE": "Gilbert + Tobin denkt das Rechtsgeschäft mit KI neu"
+    "titleDE": "Gilbert + Tobin überdenkt das Rechtsgeschäft mit KI neu"
   },
   {
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -540,16 +670,6 @@
     "titleDE": "Gemini Decisions API: Schnelle, kalibrierte multimodale Entscheidungen"
   },
   {
-    "title": "What to know about this year’s UN climate talks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-    "description": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this…",
-    "pubDate": "2026-11-11T17:00:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Es ist wieder soweit: Tausende Delegierte, Lobbyisten und Journalisten versammeln sich zu den jährlichen UN-Klimaverhandlungen, die dieses Mal im türkischen Antalya stattfinden. Am 8. November startete die COP31 offiziell und markierte damit den Beginn der Verhandlungen auf einer der größten Bühnen der Klimawelt...",
-    "titleDE": "Was Sie über die diesjährigen UN-Klimaverhandlungen wissen sollten"
-  },
-  {
     "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
     "description": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
@@ -558,16 +678,6 @@
     "category": "news",
     "descriptionDE": "Tabletop ist ein neues Google Labs-Experiment zur Gruppenzusammenarbeit. Erstellen Sie mit Ihrem Team interaktive Reiserouten, Umfragen und Zeitpläne. Tragen Sie sich auf die Warteliste ein.",
     "titleDE": "Probieren Sie Tabletop aus: Anpassbare, kollaborative Räume, in denen Gruppen gemeinsam planen, spielen und mehr unternehmen können."
-  },
-  {
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
-    "pubDate": "2026-11-11T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Sechs wilde Ideen, um Ihren Geist zu bewahren Mit zunehmendem Alter vergessen wir das meiste, was wir erlebt haben, und doch gibt es immer noch eine unbestreitbare Kontinuität: Mit 30, 50 oder 70 haben Sie …",
-    "titleDE": "Der Download: Köpfe bewahren und offene KI-Risiken abwägen"
   },
   {
     "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -618,115 +728,5 @@
     "category": "news",
     "descriptionDE": "Gemini Intelligence wird auf mehr Geräten eingeführt. Erfahren Sie, wie Sie mit den erweiterten Funktionen dieser Geräte mehr erreichen können.",
     "titleDE": "Gemini Intelligence: Neue Funktionen, auf mehr Geräten"
-  },
-  {
-    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "description": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-    "pubDate": "2026-11-10T14:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Google und Adobe integrieren Kreativ- und Produktivitätstools. Bearbeiten Sie PDFs in Drive und verwenden Sie Adobe AI in Gemini. Erfahren Sie, was es Neues in dieser Partnerschaft gibt.",
-    "titleDE": "Wir bringen die Kreativ- und Produktivitätstools von Adobe näher an Ihre alltäglichen Google-Apps heran."
-  },
-  {
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
-    "pubDate": "2026-11-10T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Die Nachfolgerin von Nancy Pelosi ist bereit, die KI zu regulieren – Grace Huckins. Als kalifornischer Senator hat Scott Wiener Gesetze verfasst, die darauf abzielen, die Risiken einer ... einzudämmen.",
-    "titleDE": "Der Download: Pelosis Nachfolger zielt auf KI und Rechenzentren haben mit Stromproblemen zu kämpfen"
-  },
-  {
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "description": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "pubDate": "2026-11-10T13:00:00.000Z",
-    "source": "Google AI",
-    "category": "news",
-    "descriptionDE": "Google Cloud führt Gemini für das Gesundheitswesen ein, um klinische Daten zu vereinheitlichen und Arbeitsabläufe zu automatisieren. Reduzieren Sie den Burnout im Verwaltungsbereich. Sehen Sie, wie es funktioniert.",
-    "titleDE": "Google Cloud führt Gemini für das Gesundheitswesen ein."
-  },
-  {
-    "title": "Helping caregivers use AI in everyday life",
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "pubDate": "2026-11-10T12:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Die OpenAI Academy bietet Pflegekräften in fünf US-Städten kostenlose, praxisorientierte ChatGPT-Workshops an und hilft ihnen dabei, praktische KI-Fähigkeiten für den Alltag zu erwerben.",
-    "titleDE": "Unterstützung von Pflegekräften beim Einsatz von KI im Alltag"
-  },
-  {
-    "title": "Introducing Businesses in ChatGPT",
-    "link": "https://openai.com/index/introducing-businesses-chatgpt",
-    "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "pubDate": "2026-11-10T10:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Verwalten Sie Ihre Unternehmensinformationen, erhalten Sie Einblicke in die Darstellung Ihres Unternehmens und setzen Sie Interesse in die Tat um – in ChatGPT.",
-    "titleDE": "Einführung von Unternehmen in ChatGPT"
-  },
-  {
-    "title": "Closing the AI guidance gap in education",
-    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "description": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "pubDate": "2026-11-10T09:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Neue Forschungsergebnisse von ThinkYoung und Lehren aus den EMEA-Bildungspartnerschaften von OpenAI zur Unterstützung von Lehrern, zur KI-Kompetenz und zum unabhängigen Lernen.",
-    "titleDE": "Schließung der KI-Beratungslücke in der Bildung"
-  },
-  {
-    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-    "link": "https://openai.com/index/singapore-airlines-travel-work",
-    "description": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-    "pubDate": "2026-11-10T08:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Entdecken Sie, wie Singapore Airlines OpenAI-Modelle und APIs nutzt, um den Kundensupport, die Entdeckung von Reisen und die Mitarbeiterproduktivität zu verbessern und den CSAT für seinen Kris-Chatbot zu verdoppeln.",
-    "titleDE": "Singapore Airlines verbessert Reisen und Arbeiten mit OpenAI-Technologie"
-  },
-  {
-    "title": "Work at the Frontier: AI’s effect on freelance work",
-    "link": "https://openai.com/index/ai-effect-on-freelance-work",
-    "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-    "pubDate": "2026-11-10T07:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Neue Untersuchungen von OpenAI und Upwork zeigen eine sich verändernde Nachfrage nach freiberuflicher Arbeit, neue Kompetenzkombinationen sowie größere Budgets und mehr Stunden für KI-bezogene Projekte.",
-    "titleDE": "Arbeit an der Grenze: Die Auswirkungen von KI auf freiberufliche Arbeit"
-  },
-  {
-    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-    "link": "https://openai.com/index/cogent-security",
-    "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-    "pubDate": "2026-11-10T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Cogent kombiniert OpenAI-Modelle mit Unternehmenskontext, um Schwachstellen automatisch mit Agenten zu beheben.",
-    "titleDE": "Cogent und OpenAI bauen Cyber-Verteidigungsfabriken für Unternehmen"
-  },
-  {
-    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-    "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-    "description": "\"*sshole\" poses a serious threat to Internet security.",
-    "pubDate": "2026-11-09T19:41:34.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "„*sshole“ stellt eine ernsthafte Bedrohung für die Internetsicherheit dar.",
-    "titleDE": "Die Sicherheitslücke, die Hackern SSH in Linux-Geräte ermöglicht, wird aktiv ausgenutzt"
-  },
-  {
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "pubDate": "2026-11-09T19:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "ChatGPT Enterprise ist jetzt über AWS Marketplace verfügbar und hilft Unternehmen dabei, die Beschaffung durch bestehende AWS-Einkaufs- und Abrechnungsbeziehungen zu vereinfachen.",
-    "titleDE": "ChatGPT Enterprise jetzt im AWS Marketplace verfügbar"
   }
 ]
