@@ -1,5 +1,85 @@
 [
   {
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching its public beta on Saturday on the web and through a new app for iOS and Android.\n\"Our cofounders have had many people come up to them and say, 'Hey, I run a mahjong night on Wednesdays' or 'I go to this local bar in Chicago with like five people, and we love playing go, but we lack a Chess.c …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-21T14:00:00.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Chess.com ist bereit, viel größer zu werden als nur Schach. Nach dem Start von Gambit, einer glücksspielfreien Pokerseite, Anfang des Jahres, fügt das Unternehmen nun zehn weitere Spiele hinzu: Backgammon, Dame, Go, Herz, Mahjong, Shogi, Sudoku, Solitaire, Xiangqi und eine Scrabble-Alternative namens Word. Sie sind alle Teil von ...",
+    "titleDE": "Der nächste Schritt von Chess.com ist ein neuer Hub für klassische Spiele, von Mahjong bis Sudoku"
+  },
+  {
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "pubDate": "2026-11-20T20:59:08.000Z",
+    "source": "Ars Technica",
+    "category": "news",
+    "descriptionDE": "Tests mit Eingabeaufforderungen mit eindeutigen, nachverfolgbaren Geheimnissen beweisen, dass Daten nicht privat bleiben.",
+    "titleDE": "Forscher pflanzt 2 Millionen Kanarienvögel in die KI-Lieferkette ein. Es kam zu einer Datenschutzkatastrophe."
+  },
+  {
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "pubDate": "2026-11-20T19:53:41.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Spotify-Gründer Daniel Ek unterstützt Europa Fusion, ein Fusionsenergie-Startup, das von einem KI-Forscher gegründet wurde. Hier ist, was das Startup aufbaut.",
+    "titleDE": "Daniel Ek unterstützt das Fusionsenergie-Startup eines KI-Forschers. Hier ist, was sie bauen."
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "pubDate": "2026-11-20T19:32:08.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Mathematiker sind von dem neuesten KI-gestützten Ergebnis verblüfft – und es gibt auch eine konkurrierende menschliche Lösung.",
+    "titleDE": "Die KI behauptete, eine Lösung für die 167 Jahre alte Riemann-Hypothese zu finden – und ein Mensch tat es auch"
+  },
+  {
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "description": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.\n\"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. \"They allowed that to happen with chips and everything else, and it was very destructive to our country. It's where we started going behind.\" Should the US allow data centers to be built outside of the country, T …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-20T18:50:19.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Präsident Donald Trump versprach, eine „enorme Steuer“ auf Unternehmen zu erheben, die Rechenzentren außerhalb der USA bauen, obwohl Bundesstaaten und Städte im ganzen Land neue Anwendungen für den Bau solcher Zentren einschränken. „Wir werden unseren Unternehmen nicht erlauben, Rechenzentren außerhalb unseres Landes zu bauen …“",
+    "titleDE": "Trump droht mit „enormen Steuern“ für die Verlagerung von KI-Rechenzentren außerhalb der USA"
+  },
+  {
+    "title": "The most misunderstood graph in AI just got a major update",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely…",
+    "pubDate": "2026-11-20T18:15:15.000Z",
+    "source": "MIT Tech Review",
+    "category": "trend",
+    "descriptionDE": "Ein neuer Bericht der gemeinnützigen KI-Bewertungsorganisation METR kommt zu dem Schluss, dass sich einige KI-Fähigkeiten weiterhin exponentiell verbessern – weist aber auch darauf hin, dass Modelle bei Aufgaben, die Urteilsvermögen erfordern, nicht ganz so gut sind wie beim Codieren. Der Bericht ist eine Aktualisierung der Zeit der Organisation...",
+    "titleDE": "Das am meisten missverstandene Diagramm in der KI hat gerade ein großes Update erhalten"
+  },
+  {
+    "title": "Chips can survive the space environment — can their financing?",
+    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "pubDate": "2026-11-20T17:40:01.000Z",
+    "source": "TechCrunch",
+    "category": "news",
+    "descriptionDE": "Die Kreditgeber wollen nicht, dass SpaceX ihre Sicherheiten in die Umlaufbahn schießt. Was bedeutet das für Weltraum-Rechenzentren im großen Stil?",
+    "titleDE": "Chips können die Weltraumumgebung überleben – kann ihre Finanzierung?"
+  },
+  {
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "description": "Anthropic went public on November 19th, 2026. | Photo: Getty Images\t\n\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into the field.\nAlpöge's solution has yet to be verified independently. Anthropic has not commented or involved itself in Alpöge's announcement. In a document on his website, Alpöge says he texted Anthropic CEO Dario Amodei abo …\nRead the full story at The Verge.",
+    "pubDate": "2026-11-20T16:34:13.000Z",
+    "source": "The Verge",
+    "category": "news",
+    "descriptionDE": "Anthropic ging am 19. November 2026 an die Börse. | Foto: Getty Images Der anthropische Mathematiker Levent Alpöge behauptet, er habe mit der Hilfe von Claude die Riemann-Hypothese, eines der notorisch schwierigsten Probleme der Mathematik, bewiesen und ein Rätsel gelöst, das einigen der besten Mathematiker der Welt entgangen sei...",
+    "titleDE": "Anthropischer Mathematiker behauptet, mit Claude das prestigeträchtige Millennium-Preis-Problem gelöst zu haben"
+  },
+  {
     "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
     "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
     "description": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
@@ -50,6 +130,16 @@
     "titleDE": "Signal verhindert, dass Gemini und Siri AI Ihren Bildschirm lesen"
   },
   {
+    "title": "Combatting adversarial distillation",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "pubDate": "2026-11-20T10:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Der mehrschichtige Ansatz von OpenAI zur gegnerischen Destillation kombiniert Modelltraining, Schutzmaßnahmen, Erkennung und Durchsetzung zum Schutz vor Fähigkeitsextraktion.",
+    "titleDE": "Bekämpfung der kontradiktorischen Destillation"
+  },
+  {
     "title": "Apple may be developing its own AI agent that runs your Mac",
     "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
     "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
@@ -70,13 +160,33 @@
     "titleDE": "Die sieben Gründer von Anthropic haben bei dem rekordverdächtigen Börsengang fast 2 Milliarden US-Dollar ausgezahlt"
   },
   {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "pubDate": "2026-11-20T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Hebbia testete GPT-6 Astra für Finanzforschung. Die Auswertungen vor der Veröffentlichung ergaben Verbesserungen bei der Quellenabdeckung, Zitierrelevanz und Präsentationsqualität.",
+    "titleDE": "Hebbia sieht Verbesserungen in der Finanzforschung mit GPT-6 Astra"
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "pubDate": "2026-11-20T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "MedChemBench bewertet, wie gut KI-Modelle molekulare Strukturen interpretieren, aus experimentellen Erkenntnissen schließen und Verbindungen in der frühen Arzneimittelforschung auswählen.",
+    "titleDE": "Kann KI Wissenschaftlern helfen, vielversprechende Medikamentenkandidaten zu identifizieren?"
+  },
+  {
     "title": "Apple is hiring engineers to build its own AI agent",
     "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began rolling out it …\nRead the full story at The Verge.",
+    "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began ro …\nRead the full story at The Verge.",
     "pubDate": "2026-11-19T22:31:41.000Z",
     "source": "The Verge",
     "category": "news",
-    "descriptionDE": "Apple arbeitet an einem eigenen KI-Agenten, der eine Reihe von Aufgaben für Sie erledigen kann, darunter das Surfen im Internet, die Arbeit mit Apps, das Schreiben von Code und das Aufrufen von Diensten. Das geht aus einer von Bloomberg gesichteten Stellenanzeige hervor, in der es heißt, dass Apple einen Ingenieur sucht, der die Entwicklung eines Agenten leitet ...",
+    "descriptionDE": "Apple arbeitet an einem eigenen KI-Agenten, der eine Reihe von Aufgaben für Sie erledigen kann, darunter das Surfen im Internet, die Arbeit mit Apps, das Schreiben von Code und das Aufrufen von Diensten. Das geht aus einer inzwischen gelöschten Stellenanzeige von Bloomberg hervor, in der es heißt, dass Apple nach einem Ingenieur sucht, der die Entwicklung von ... leitet.",
     "titleDE": "Apple stellt Ingenieure ein, um einen eigenen KI-Agenten zu entwickeln"
   },
   {
@@ -230,16 +340,6 @@
     "titleDE": "Anthropic notiert an der Nasdaq-Börse bei 111 US-Dollar, 33 % über dem IPO-Preis"
   },
   {
-    "title": "Anthropic starts trading on Wall Street",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-    "description": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.\nThe listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, the AI company reported recording an $80.7 billion net loss in the first half of this year, most of which comes from an accounting charge that doesn't reflect its business, along with $16.3 billion in revenue. The filing outlines plans that Anthropic says will help it develop AI for the benefit of humanity, which includes a go …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-19T16:52:01.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Dario Amodei, CEO von Anthropic, spricht vor dem Börsendebüt seines Unternehmens an der Nasdaq. | Foto: Michael Nagle / Bloomberg über Getty Images Anthropic ist offiziell an die Börse gegangen. Der Handel an der Nasdaq begann unter dem Tickersymbol „ANT“ mit einem Kurs von 111,50 US-Dollar je Aktie, was einem Anstieg gegenüber dem ursprünglichen Preis von 83 US-Dollar entspricht.",
-    "titleDE": "Anthropic beginnt mit dem Handel an der Wall Street"
-  },
-  {
     "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
     "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
     "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
@@ -250,16 +350,6 @@
     "titleDE": "Bei der Eröffnungsglocke der Nasdaq bekräftigt der CEO von Anthropic, die KI-Entwicklung voranzutreiben"
   },
   {
-    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-    "description": "ChatGPT can receive  audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or click the audio waveform to show the live text transcript the AI is generating, then edit it in the prompt box when you're done.\n\n\nDictation in ChatGPT is getting faster and more reliable. \nWith Live Dictation, your speech turns into text as you talk, so you spend less time waiting for your message to finish transcribing.\n …\n\n\nRead the full story at The Verge.",
-    "pubDate": "2026-11-19T15:16:45.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "ChatGPT kann Audioansagen jetzt schneller von Ihrem Mikrofon empfangen, mit einer Live-Diktierfunktion, die während des Sprechens transkribiert, anstatt zu warten, bis Sie mit der Aufnahme fertig sind. Es wird jetzt weltweit für alle ChatGPT-Pläne im Web, in der Desktop-App sowie in iOS- und Android-Apps eingeführt. Während ich das Diktat verwende, ...",
-    "titleDE": "ChatGPT kann jetzt mit Live Dictation transkribieren, während Sie sprechen"
-  },
-  {
     "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
     "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
@@ -268,16 +358,6 @@
     "category": "news",
     "descriptionDE": "Anthropic steht bei seinem Börsengang vor enormen Rechenlasten, aber seine größten Infrastrukturpartner, darunter Amazon und Google, könnten weiterhin von KI profitieren, selbst wenn Anthropic seinen Vorsprung verliert.",
     "titleDE": "Der Börsengang von Anthropic stellt den Boom der zirkulären Finanzierung von KI auf die Probe"
-  },
-  {
-    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-    "description": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.\nAnthropic was founded on the idea that it prioritized safety more than other labs; its founders had left executive research positions at OpenAI. As the AI race has accelerated, though, its executives have emphasized that Anthropic can only fulfill this mission by coming in first place, requiring lots of money and compute. Unsurprisingly, thoughtful, safe, and intentional AI develop …\nRead the full story at The Verge.",
-    "pubDate": "2026-11-19T14:25:37.000Z",
-    "source": "The Verge",
-    "category": "news",
-    "descriptionDE": "Heute ist ein Neuanfang für Anthropic: ein seit Jahren laufender Börsengang, der SpaceX als wertvollster Börsengang aller Zeiten überholte, 81,3 Milliarden US-Dollar einsammelte und einen wichtigen Präzedenzfall für die anderen bevorstehenden Debüts öffentlicher KI-Labore darstellte. Aber es ist nicht nur ein finanzieller Meilenstein. Anthropic wurde auf der Idee gegründet, ...",
-    "titleDE": "Mit dem größten Börsengang aller Zeiten steht Anthropics Ruf als „guter Kerl“ auf dem Spiel"
   },
   {
     "title": "Superhuman pushes its Go assistant everywhere",
@@ -297,7 +377,7 @@
     "source": "MIT Tech Review",
     "category": "trend",
     "descriptionDE": "Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich einen Überblick über die aktuellen Entwicklungen in der Welt der Technologie bietet. Eine menschliche Leber wurde sieben Wochen lang außerhalb des Körpers am Leben erhalten Forscher in Australien behaupten, sie hätten eine menschliche Leber mit Lebenserhaltungssystemen außerhalb des Körpers am Leben erhalten...",
-    "titleDE": "Der Download: eine lebendige Leber, ein milliardenschwerer Batteriedeal und ein KI-Hype"
+    "titleDE": "Der Download: eine lebende Leber, ein milliardenschwerer Batteriedeal und ein KI-Hype"
   },
   {
     "title": "A human liver has been kept alive outside the body for a record seven weeks",
@@ -350,14 +430,14 @@
     "titleDE": "Satya Nadella, CEO von Microsoft, erklärt, warum er 60.000 Mitarbeiter aufgefordert hat, zu kündigen"
   },
   {
-    "title": "Deploying Daybreak Red",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
-    "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "title": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
     "pubDate": "2026-11-19T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "Entdecken Sie mit Daybreak Red eine Referenzarchitektur für überwachte Sicherheitsuntersuchungen, einschließlich Sicherheitskontrollen, Einrichtung und Überwachung.",
-    "titleDE": "Bereitstellung von Daybreak Red"
+    "descriptionDE": "Sehen Sie sich eine Demo des Codex Security Plugins an und erleben Sie den Workflow in Aktion, von den ersten Schritten bis zur Überprüfung der in der Aufzeichnung angezeigten Ergebnisse.",
+    "titleDE": "Entdecken Sie das Codex-Sicherheits-Plugin"
   },
   {
     "title": "See PR scans in action",
@@ -370,16 +450,6 @@
     "titleDE": "Sehen Sie PR-Scans in Aktion"
   },
   {
-    "title": "Explore the Codex Security Plugin",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-    "pubDate": "2026-11-19T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "Sehen Sie sich eine Demo des Codex Security Plugins an und erleben Sie den Workflow in Aktion, von den ersten Schritten bis zur Überprüfung der in der Aufzeichnung angezeigten Ergebnisse.",
-    "titleDE": "Entdecken Sie das Codex-Sicherheits-Plugin"
-  },
-  {
     "title": "Get started with Daybreak Blue",
     "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
     "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
@@ -390,6 +460,16 @@
     "titleDE": "Beginnen Sie mit Daybreak Blue"
   },
   {
+    "title": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "pubDate": "2026-11-19T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "Entdecken Sie mit Daybreak Red eine Referenzarchitektur für überwachte Sicherheitsuntersuchungen, einschließlich Sicherheitskontrollen, Einrichtung und Überwachung.",
+    "titleDE": "Bereitstellung von Daybreak Red"
+  },
+  {
     "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
     "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
     "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
@@ -398,36 +478,6 @@
     "category": "news",
     "descriptionDE": "Der Microsoft-CEO spielte den jüngsten Ausfall von Outlook herunter und wies darauf hin, dass KI sowohl Chancen als auch neue Herausforderungen für die Sicherung eines Großteils der vernetzten Welt mit sich bringe.",
     "titleDE": "Inmitten der Angst vor KI-Cyberangriffen sagt Satya Nadella, dass viele kritische Infrastrukturen „nicht patchbar“ seien."
-  },
-  {
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "description": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "pubDate": "2026-11-18T23:25:17.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "„Ich glaube nicht, dass [Huang] den Vereinigten Staaten gegenüber illoyal ist“, sagte Musk.",
-    "titleDE": "Elon Musk sagt, der Sturz von Jensen Huang sei so, als würde man „Michael Jordan aus seinem Team werfen“"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "description": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "pubDate": "2026-11-18T23:17:28.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Satya Nadella, CEO von Microsoft, drückte sein Vertrauen in Jensen Huangs Nachfolgerin Colette Kress aus, die als Interims-CEO von Nvidia fungiert.",
-    "titleDE": "Microsoft-Chef Satya Nadella bleibt nach Huangs Abgang zuversichtlich gegenüber Nvidia"
-  },
-  {
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "pubDate": "2026-11-18T22:58:11.000Z",
-    "source": "TechCrunch",
-    "category": "news",
-    "descriptionDE": "Der CEO von Microsoft sagt, KI-Agenten könnten werbebasierte Geschäftsmodelle stören und Unternehmen wie Amazon dazu zwingen, ihre Art und Weise, wie sie um Kunden konkurrieren, zu überdenken.",
-    "titleDE": "Satya Nadella prognostiziert, dass KI-Agenten die Ökonomie des Webs neu gestalten werden"
   },
   {
     "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -446,7 +496,7 @@
     "pubDate": "2026-11-18T14:42:44.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Wie ein böser Ausschlag scheint sich die KI überall auszubreiten. Google stopft Ihnen KI-Übersichten in den Rachen, auch wenn dies dem Unternehmen Milliarden von Dollar an verlorenen Werbeeinnahmen kostet. Wenn Sie Ihre Wohnung verlassen, treffen Sie möglicherweise auf zwei Personen, die einen humanoiden Roboter mit KI-Antrieb die Treppe hinaufschleppen, um jemandes Zimmer zu reinigen. Gehen Sie zu...",
+    "descriptionDE": "Wie ein böser Ausschlag scheint sich die KI überall auszubreiten. Google stopft Ihnen KI-Übersichten in den Rachen, auch wenn dies dem Unternehmen Milliarden von Dollar an verlorenen Werbeeinnahmen kostet. Wenn Sie Ihre Wohnung verlassen, treffen Sie möglicherweise auf zwei Personen, die einen humanoiden Roboter mit KI-Antrieb die Treppe hinaufschleppen, um jemandes Zimmer zu reinigen. Gehe zu...",
     "titleDE": "Der KI-Hype-Index: KI ist überall"
   },
   {
@@ -480,16 +530,6 @@
     "titleDE": "Der stille Konsens"
   },
   {
-    "title": "Research acceleration: The jagged frontier",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "pubDate": "2026-11-18T08:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI misst, wie Codierungsagenten die KI-Forschung beschleunigen, wo ihre Leistung ungleichmäßig bleibt und was dies über rekursive Selbstverbesserung signalisiert.",
-    "titleDE": "Forschungsbeschleunigung: Die gezackte Grenze"
-  },
-  {
     "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
     "link": "https://openai.com/business/customer-stories/sumitomo-life",
     "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
@@ -498,6 +538,16 @@
     "category": "news",
     "descriptionDE": "Sumitomo Life nutzt ChatGPT Enterprise, um Versicherer zu recherchieren, Vorschläge vorzubereiten und Code für die Investitionsanalyse zu entwerfen. Die frühzeitige Nutzung durch Führungskräfte trug dazu bei, die Akzeptanz voranzutreiben.",
     "titleDE": "Wie die Führungskräfte von Sumitomo Life Teams bei der Einführung von ChatGPT Enterprise unterstützten"
+  },
+  {
+    "title": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "pubDate": "2026-11-18T08:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI misst, wie Codierungsagenten die KI-Forschung beschleunigen, wo ihre Leistung uneinheitlich bleibt und was dies über rekursive Selbstverbesserung signalisiert.",
+    "titleDE": "Forschungsbeschleunigung: Die gezackte Grenze"
   },
   {
     "title": "Inside the Codex sandbox",
@@ -517,7 +567,7 @@
     "source": "OpenAI",
     "category": "news",
     "descriptionDE": "OpenAI erklärt, wie es das Grenz-KI-Risiko vom Training bis zur Bereitstellung mit Modellausrichtung, Sandboxing, Blockierungsschutzmaßnahmen und Überwachung verwaltet.",
-    "titleDE": "Bewältigung des Grenz-KI-Risikos: Von der Schulung bis zum Einsatz"
+    "titleDE": "Umgang mit KI-Grenzrisiken: Von der Schulung bis zum Einsatz"
   },
   {
     "title": "Advancing chip design with OpenAI models",
@@ -566,7 +616,7 @@
     "pubDate": "2026-11-17T17:52:10.000Z",
     "source": "MIT Tech Review",
     "category": "trend",
-    "descriptionDE": "Laut neuen Daten der US Energy Information Administration erzeugte der Südwesten der USA zwischen April und August 28 % weniger Strom aus Wasserkraft als im Zehnjahresdurchschnitt. Die meisten Wasserkraftwerke in den USA sind auf Dämme angewiesen, um das Wasser zurückzuhalten und so Stauseen zu schaffen. Das Wasser kann durch ... abgegeben werden.",
+    "descriptionDE": "Laut neuen Daten der US Energy Information Administration erzeugte der Südwesten der USA zwischen April und August 28 % weniger Strom aus Wasserkraft als im Zehnjahresdurchschnitt. Die meisten Wasserkraftwerke in den USA sind auf Dämme angewiesen, um Wasser zurückzuhalten und so Stauseen zu schaffen. Das Wasser kann durch ... abgegeben werden.",
     "titleDE": "Die Wasserkraft erreichte in diesem Sommer im Südwesten der USA Rekordtiefs"
   },
   {
@@ -588,16 +638,6 @@
     "category": "news",
     "descriptionDE": "Tasks in Gemini ist jetzt in sechs Ländern kostenlos, mit neuen Funktionen ab den USA und einer tieferen Google Workspace-Integration, damit Sie Dinge in Ihrem Namen erledigen können.",
     "titleDE": "Lassen Sie Zwillinge für sich arbeiten"
-  },
-  {
-    "title": "Research Reports",
-    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-    "description": "To access a report, click on the corresponding image below.",
-    "pubDate": "2026-11-17T14:39:46.000Z",
-    "source": "MIT Tech Review",
-    "category": "trend",
-    "descriptionDE": "Um auf einen Bericht zuzugreifen, klicken Sie auf das entsprechende Bild unten.",
-    "titleDE": "Forschungsberichte"
   },
   {
     "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -630,16 +670,6 @@
     "titleDE": "Stärkung der Cyberabwehr der NATO und ihrer Verbündeten mit KI"
   },
   {
-    "title": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
-    "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "pubDate": "2026-11-17T00:00:00.000Z",
-    "source": "OpenAI",
-    "category": "news",
-    "descriptionDE": "OpenAI und die chilenische Regierung arbeiten zusammen, um eine verantwortungsvolle KI-Einführung zu unterstützen, Fähigkeiten im öffentlichen Sektor aufzubauen und lokale Startups bei der Entwicklung von KI-Anwendungen zu unterstützen.",
-    "titleDE": "Einführung von OpenAI für Chile"
-  },
-  {
     "title": "Astra for Law leads in legal intelligence",
     "link": "https://openai.com/index/astra-law-6-2",
     "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
@@ -648,6 +678,16 @@
     "category": "news",
     "descriptionDE": "Astra for Law belegte in einer Einführungsbewertung, die 24 Rechtsgebiete umfasste, den ersten Platz. Jeder ChatGPT Enterprise-Kunde kann jetzt Zugriff beantragen.",
     "titleDE": "Astra for Law ist führend im Bereich juristischer Informationen"
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "pubDate": "2026-11-17T00:00:00.000Z",
+    "source": "OpenAI",
+    "category": "news",
+    "descriptionDE": "OpenAI und die chilenische Regierung arbeiten zusammen, um eine verantwortungsvolle KI-Einführung zu unterstützen, Fähigkeiten im öffentlichen Sektor aufzubauen und lokale Startups bei der Entwicklung von KI-Anwendungen zu unterstützen.",
+    "titleDE": "Einführung von OpenAI für Chile"
   },
   {
     "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
@@ -756,8 +796,8 @@
     "pubDate": "2026-11-16T00:00:00.000Z",
     "source": "OpenAI",
     "category": "news",
-    "descriptionDE": "The King’s Trust und OpenAI starten eine Partnerschaft im Wert von 1 Mio. GBP, um bis zu 25.000 jungen Menschen in ganz Großbritannien dabei zu helfen, praktische KI-Fähigkeiten für die Arbeit zu erwerben.",
-    "titleDE": "The King’s Trust und OpenAI starten Partnerschaft im Wert von 1 Mio. £"
+    "descriptionDE": "Der King’s Trust und OpenAI starten eine Partnerschaft im Wert von 1 Mio. GBP, um bis zu 25.000 jungen Menschen in ganz Großbritannien dabei zu helfen, praktische KI-Fähigkeiten für die Arbeit zu erwerben.",
+    "titleDE": "The King’s Trust und OpenAI starten eine 1-Millionen-Pfund-Partnerschaft"
   },
   {
     "title": "At Holiday Extras, dots get to work before anyone asks",
@@ -788,15 +828,5 @@
     "category": "news",
     "descriptionDE": "Der OpenAI-Wissenschaftsblog teilt neue Erkenntnisse, praktische Methoden und Berichte aus erster Hand von Forschern, die KI nutzen, um wissenschaftliche Entdeckungen voranzutreiben.",
     "titleDE": "Unser neuer Blog für die Wissenschaft"
-  },
-  {
-    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-    "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-    "description": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-    "pubDate": "2026-11-13T16:26:32.000Z",
-    "source": "Ars Technica",
-    "category": "news",
-    "descriptionDE": "Durch den Exploit „SignDrop“ können lokale Benutzer umfassende Systemrechte erlangen.",
-    "titleDE": "Windows 0-Day wurde von verärgertem Forscher fallen gelassen und übergibt Hackern Systemrechte"
   }
 ]
